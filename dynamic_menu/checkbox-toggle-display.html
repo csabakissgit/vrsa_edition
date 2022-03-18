@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Demo</title>
+<link rel="stylesheet" href="css/ex.css" type="text/css" />
+<style type="text/css">
+#active_sub {
+    display: none;
+}
+
+div#active_sub p {
+    margin-bottom: .2em;
+}
+
+form.demoForm {
+    margin: 2em 0 3em;
+}
+
+form.demoForm input {
+    vertical-align: bottom;
+}
+</style>
+</head>
+<body>
+    
+<h1>Checkbox Toggle Display Onclick</h1>
+
+<p>Click the checkbox to see related content displayed when checked and hidden when unchecked.</p>
+
+<form action="result.php" method="post" class="demoForm" id="toggleForm">
+    
+    <p><input type="checkbox" name="active" value="1" /> Check if you engage in sports or fitness activities on a regular basis.</p>
+    
+    <div id="active_sub">
+        <p>Check which types</p>
+        <label><input type="checkbox" name="sports[]" value="cycling" /> cycling</label>
+        <label><input type="checkbox" name="sports[]" value="running" /> running</label>
+        <label><input type="checkbox" name="sports[]" value="visit gym" /> visit gym</label>
+        <label><input type="checkbox" name="sports[]" value="swimming" /> swimming</label>
+        <label><input type="checkbox" name="sports[]" value="team sports" /> team sport(s)</label>
+        <label><input type="checkbox" name="sports[]" value="other" /> other</label>
+    </div>
+    
+    <p><input type="submit" value="Submit" /></p>
+    
+</form>
+
+<script type="text/javascript">
+function toggleSub(box, id) {
+    // get reference to related content to display/hide
+    var el = document.getElementById(id);
+    
+    if ( box.checked === true ) {
+        el.style.display = 'block';
+    } else {
+        el.style.display = 'none';
+    }
+}
+    
+window.onload = function() {
+    var active = document.forms['toggleForm'].elements['active'];
+    active.checked = false; // for soft reload
+    
+    // attach function that calls toggleSub to onclick property of checkbox
+    // toggleSub args: checkbox clicked on (this), id of element to show/hide
+    active.onclick = function() { toggleSub(this, 'active_sub'); };
+};
+</script>
+
+<p>Back to <a href="index.html">index</a> for more demos and information.</p>
+
+</body>
+</html>

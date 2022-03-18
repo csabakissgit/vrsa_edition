@@ -1,0 +1,608 @@
+% TANTRA.STY (version 1.0)
+%
+% Macros to supplement EDMAC (Revision 3.0),
+% written for use in the critical edition of the Kiranagama.
+%
+\input edmac.doc
+\input dnmacs
+%
+\makeatletter
+\def\extensionchars{!}
+%\hoffset=.6in \voffset=.7in
+\hsize 29pc
+\vsize 43pc
+\emergencystretch40pt
+\baselineskip=18pt
+\firstlinenum=-3
+\linenumincrement=3
+\def\\{\hfil\break}
+\def\la{$\langle$}
+\def\ra{$\rangle$}
+\def\lb{$\!${\brft [}}
+\def\rb{$\!${\brft ]}}
+\def\lc{$\!{\brft \{}$}%{$\!(\!$}
+\def\rc{$\!\thinspace{\brft \}}$}%{$\!)\!$}
+\def\beginsupply{$\ll$}
+\def\endsupply{$\gg$}
+\font\brft=cmr10 at 12pt
+\def\gap{$\sqcup$}
+\def\devdot{$\thinspace\cdots\thinspace$}
+\def\dbbl{{{\rm [\kern-1.5pt[}}}
+\def\dbbr{{{\rm ]\kern-1.5pt]}}}
+\def\lsigbracket{{\bf \{}}
+\def\rsigbracket{{\bf \}}}
+\def\lem{{\bf\kern.3em{}]\enskip}}
+\def\spot{$\bullet~$}
+\def\langkort{\setbox0=\hbox{{\bf --}}\dimen0=\ht0
+\advance\dimen0 by-2.5ex
+\copy0\kern -1\wd0
+\raise\dimen0\hbox to\wd0{\hss{\bf \char'025}\hss}}
+\def\lk{$\>$\raise-2pt\hbox{\langkort}$\,$}  %illegible syllable
+\def\lac{{\rm -{}-{}-{}}}               %illegible syllables
+\def\hidot{{\tt \={}\thinspace{}}}   %marked illegible syllable
+\def\*{$\times$}           %brackets crossed out letters
+%\def\str{{\brft *}}
+%\def\*{$\>$\raise-3pt\hbox{\str}$\,$}
+\def\crux{$\dag$}
+\def\vsmallback{$\!$}
+\def\smallback{$\!\!\!$}
+\def\back{$\!\!\!\!\!$}
+\def\twice{$\times 2$}
+\def\wit{\hskip24pt}
+\def\sig{$\Sigma$}
+\def\verso{$^v$}
+\def\recto{$^r$}
+\def\unmetrical{{\rm (un\-metri\-cal)}}
+%
+\newfam\skt % \fam 8 (plain.tex defines 0--7; TeXbook p.351.)
+\def\sssan{\fam\skt\ \dn\dnnormal} % was \dnsmall in KirV I
+\def\msan{\fam\skt\ \dn\dnnormal}
+\def\ssan{\fam\skt \dn\dnbig}
+\def\san{\fam\skt \dn\dnlarge}
+\def\bsan{\fam\skt \dn\dnlarge}
+\def\bbsan{\fam\skt \dn\dnhuge}
+%
+\newcount\versenum
+\def\newverse{\pend\endnumbering\parindent=44pt
+        \firstlinenum=-5\linenumincrement=5
+        \advance \versenum by 1
+        \penalty-300
+        \beginnumbering\pstart\san\dnnum\medskip}
+\def\newpartvs{\startlock\pend\parindent=44pt\firstlinenum=-3\linenumincrement=3\pstart
+        \medskip  \san}
+\def\vrtti{\pend \endnumbering
+        \medskip
+        \parindent=22pt\firstlinenum=-3\linenumincrement=3\beginnumbering
+        \pstart \ssan
+        \dnnum\noindent}
+\def\morevrtti{\endlock \medskip \parindent=24pt \firstlinenum=-3\linenumincrement=3\ssan
+        \noindent}
+\def\memorybreak{\pend\pausenumbering\resumenumbering\pstart\ssan}
+\def\vs{\vrule depth9pt width0pt}
+\skip\footins=15pt plus4pt minus 4pt
+\def\eightpoint{\def\rm{\fam0\eightrm}%
+  \textfont0=\eightrm \scriptfont0=\sixrm
+  \scriptscriptfont0=\fiverm
+  \textfont1=\eighti \scriptfont1=\sixi \scriptscriptfont1=\fivei
+  \textfont2=\eightsy \scriptfont2=\sixsy \scriptscriptfont2=\fivesy
+  \textfont3=\tenex \scriptfont3=\tenex \scriptscriptfont3=\tenex
+  \def\it{\fam\itfam\eightit}\textfont\itfam=\eightit
+  \def\sl{\fam\slfam\eightsl}\textfont\slfam=\eightsl
+  \def\bf{\fam\bffam\eightbf}\textfont\bffam=\eightbf
+  \scriptfont\bffam=\sixbf \scriptscriptfont\bffam=\fivebf
+  \def\tt{\fam\ttfam\eighttt}\textfont\ttfam=\eighttt
+  \normalbaselineskip=10.5pt
+  \setbox\strutbox=\hbox{\vrule height7pt depth2pt width0pt}%
+  \normalbaselines\rm}
+\font\ninerm=cmr9
+\font\ninei=cmmi9
+\font\ninesy=cmsy9
+\font\ninebf=cmbx9
+\font\ninett=cmtt9
+\font\nineit=cmti9
+\font\ninesl=cmsl9
+\def\ninepoint{\def\rm{\fam0\ninerm}%
+  \textfont0=\ninerm \scriptfont0=\sixrm \scriptscriptfont0=\fiverm
+  \textfont1=\ninei \scriptfont1=\sixi \scriptscriptfont1=\fivei
+  \textfont2=\ninesy \scriptfont2=\sixsy \scriptscriptfont2=\fivesy
+  \textfont3=\tenex \scriptfont3=\tenex \scriptscriptfont3=\tenex
+  \def\it{\fam\itfam\nineit}\textfont\itfam=\nineit
+  \def\sl{\fam\slfam\ninesl}\textfont\slfam=\ninesl
+  \def\bf{\fam\bffam\ninebf}\textfont\bffam=\ninebf
+  \scriptfont\bffam=\sixbf \scriptscriptfont\bffam=\fivebf
+  \def\tt{\fam\ttfam\ninett}\textfont\ttfam=\ninett
+  \normalbaselineskip=13.5pt plus .5pt minus .5pt
+  \setbox\strutbox=\hbox{\vrule height7pt depth2pt width0pt}%
+  \normalbaselines\rm}
+\def\ninepoint{\def\rm{\fam0\ninerm}%
+  \textfont0=\ninerm \scriptfont0=\sixrm \scriptscriptfont0=\fiverm
+  \textfont1=\ninei \scriptfont1=\sixi \scriptscriptfont1=\fivei
+  \textfont2=\ninesy \scriptfont2=\sixsy \scriptscriptfont2=\fivesy
+  \textfont3=\tenex \scriptfont3=\tenex \scriptscriptfont3=\tenex
+  \def\it{\fam\itfam\nineit}\textfont\itfam=\nineit
+  \def\sl{\fam\slfam\ninesl}\textfont\slfam=\ninesl
+  \def\bf{\fam\bffam\ninebf}\textfont\bffam=\ninebf
+  \scriptfont\bffam=\sixbf \scriptscriptfont\bffam=\fivebf
+  \def\tt{\fam\ttfam\ninett}\textfont\ttfam=\ninett
+  \normalbaselineskip=13.5pt plus .5pt minus .5pt
+  \setbox\strutbox=\hbox{\vrule height7pt depth2pt width0pt}%
+  \normalbaselines\rm}
+
+\def\notefontsetup{\let\nsan=\sssan
+        \ninepoint} % was \eightpoint for volume 1 of KirV
+\def\vl{{$^{\scriptscriptstyle vl}$}}
+\def\msMa{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle 1}$}}     
+        \def\msMaac{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle ac}$}}
+        \def\msMapc{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle pc}$}}
+        \def\msMavl{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle vl}$}}
+\def\msAa{\discretionary{}{}{}{\rm A$_{\scriptscriptstyle 1}$}}     
+        \def\msAaac{\discretionary{}{}{}{\rm A$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle ac}$}}
+        \def\msAapc{\discretionary{}{}{}{\rm A$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle pc}$}}
+        \def\msAavl{\discretionary{}{}{}{\rm A$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle vl}$}}
+\def\msJ{\discretionary{}{}{}{\rm J}}
+        \def\msJac{\discretionary{}{}{}{\rm J$^{\scriptscriptstyle ac}$}}
+        \def\msJpc{\discretionary{}{}{}{\rm J$^{\scriptscriptstyle c}$}}
+        \def\msJvl{\discretionary{}{}{}{\rm J$^{\scriptscriptstyle vl}$}}
+\def\msW{\discretionary{}{}{}{\rm W}}
+        \def\msWac{\discretionary{}{}{}{\rm W$^{\scriptscriptstyle ac}$}}
+        \def\msWpc{\discretionary{}{}{}{\rm W$^{\scriptscriptstyle c}$}}
+        \def\msWvl{\discretionary{}{}{}{\rm W$^{\scriptscriptstyle vl}$}}
+\def\msL{\discretionary{}{}{}{\rm L}}
+        \def\msLac{\discretionary{}{}{}{\rm L$^{\scriptscriptstyle ac}$}}
+        \def\msLpc{\discretionary{}{}{}{\rm L$^{\scriptscriptstyle c}$}}
+        \def\msLvl{\discretionary{}{}{}{\rm L$^{\scriptscriptstyle vl}$}}
+\def\Ked{\discretionary{}{}{}{\rm Ked}}
+        \def\Kedac{\discretionary{}{}{}{\rm Ked$^{\scriptscriptstyle ac}$}}
+        \def\Kedpc{\discretionary{}{}{}{\rm Ked$^{\scriptscriptstyle c}$}}
+        \def\Kedvl{\discretionary{}{}{}{\rm Ked$^{\scriptscriptstyle vl}$}}
+\def\msMb{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle 2}$}}       %Adyar Ms
+        \def\msMbac{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle ac}$}}
+        \def\msMbpc{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle pc}$}}
+        \def\msMbvl{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle vl}$}}
+\def\msMc{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle 3}$}}     %GOML.R.No.16784
+        \def\msMcac{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle ac}$}}
+        \def\msMcpc{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle c}$}}
+        \def\msMcvl{\discretionary{}{}{}{\rm M$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle vl}$}}
+\def\M{\discretionary{}{}{}{\bf M}}
+        \def\Mvl{\discretionary{}{}{}{\bf M$^{\scriptscriptstyle vl}$}}
+\def\msM{\discretionary{}{}{}{\rm M}}
+\def\msR{{\rm R$^{\scriptscriptstyle N}$}}
+        \def\msRac{\discretionary{}{}{}{\rm R$^{\scriptscriptstyle Nac}$}}
+        \def\msRpc{\discretionary{}{}{}{\rm R$^{\scriptscriptstyle Nc}$}}
+        \def\msRvl{\discretionary{}{}{}{\rm R$^{\scriptscriptstyle Nvl}$}}
+\def\Tt{\discretionary{}{}{}{\rm IFI~T.\thinspace No.\thinspace 290}}
+\def\msPb{{\rm P$_{\scriptscriptstyle %clearest grantha Ramakantha
+        2}$}}
+        \def\msPbac{{\rm P$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle ac}$}}
+        \def\msPbpc{{\rm P$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle c}$}}
+\def\msPa{{\rm P$_{\scriptscriptstyle %grantha Ramakantha 47656
+        1}$}}
+        \def\msPaac{{\rm P$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle ac}$}}
+        \def\msPapc{{\rm P$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle c}$}}
+\def\msPc{{\rm P$_{\scriptscriptstyle %grantha Ramakantha 40042
+        3}$}}
+        \def\msPcac{{\rm P$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle ac}$}}
+        \def\msPcpc{{\rm P$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle c}$}}
+\def\msPcs{\discretionary{}{}{}{\rm P$_{\scriptscriptstyle %40042 suutrapaa.tha
+        3}^{\scriptscriptstyle S}$}}
+        \def\msPcsac{\discretionary{}{}{}{\rm P$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle Sac}$}}
+        \def\msPcspc{\discretionary{}{}{}{\rm P$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle Sc}$}}
+        \def\msPcsvl{\discretionary{}{}{}{\rm P$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle Svl}$}}
+\def\R{\discretionary{}{}{}{\bf R}}         %all the Ramakantha MSS
+\def\P{\discretionary{}{}{}{\bf P}}         %all the Grantha Ramakantha MSS
+\def\msN{\discretionary{}{}{}{\rm N$_{\scriptscriptstyle 1}$}} %palmleaf Newari MS (A 995/1)
+        \def\msNpc{\discretionary{}{}{}{\rm N$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 1}$}}
+        \def\msNac{\discretionary{}{}{}{\rm N$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 1}$}}
+        \def\msNvl{\discretionary{}{}{}{\rm N$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle vl}$}}
+%\def\msNb{\discretionary{}{}{}{\rm N$_{\scriptscriptstyle 2}$}}     %2nd palm leaf Ms from Nepal
+%        \def\msNbpc{\discretionary{}{}{}{\rm N$^{\scriptscriptstyle
+%        c}_{\scriptscriptstyle 2}$}}
+%        \def\msNbac{\discretionary{}{}{}{\rm N$^{\scriptscriptstyle
+%        ac}_{\scriptscriptstyle 2}$}}
+        \def\msNbvl{\discretionary{}{}{}{\rm N$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle vl}$}}
+%\def\msNc{\discretionary{}{}{}{\rm N$_{\scriptscriptstyle 3}$}}   %Sujata's MS - B 117/11
+%        \def\msNcpc{\discretionary{}{}{}{\rm N$^{\scriptscriptstyle
+%        c}_{\scriptscriptstyle 3}$}}
+%        \def\msNcac{\discretionary{}{}{}{\rm N$^{\scriptscriptstyle
+%        ac}_{\scriptscriptstyle 3}$}}
+        \def\msNcvl{\discretionary{}{}{}{\rm N$_{\scriptscriptstyle
+        3}^{\scriptscriptstyle vl}$}}
+\def\msDa{\discretionary{}{}{}{\rm D$^{\scriptscriptstyle 2}$}}       %1st part of (B 172/21) in a different hand
+        \def\msDapc{\discretionary{}{}{}{\rm D$^{\scriptscriptstyle 2c}$}}
+        \def\msDaac{\discretionary{}{}{}{\rm D$^{\scriptscriptstyle 2ac}$}}
+        \def\msDavl{\discretionary{}{}{}{\rm D$^{\scriptscriptstyle 2vl}$}}
+\def\msD{\discretionary{}{}{}{\rm D$^{\scriptscriptstyle 1}$}}% Nagari Ms from Kathmandu (B172/21)
+        \def\msDpc{\discretionary{}{}{}{\rm D$^{\scriptscriptstyle 1c}$}}
+        \def\msDac{\discretionary{}{}{}{\rm D$^{\scriptscriptstyle 1ac}$}}
+        \def\msDvl{\discretionary{}{}{}{\rm D$^{\scriptscriptstyle 1vl}$}}
+\def\N{\discretionary{}{}{}{\bf N}}         %all Nepalese Mss.
+\def\msTp{\discretionary{}{}{}{\rm T$^{\scriptscriptstyle p}$}} %IFI.T.No.515
+        \def\msTpac{\discretionary{}{}{}{\rm T$^{\scriptscriptstyle p.ac}$}}
+        \def\msTppc{\discretionary{}{}{}{\rm T$^{\scriptscriptstyle p.c}$}}
+\def\comT{\discretionary{}{}{}{\sl Try}}
+\def\Tryambaka{{\rm Tryamba\-ka\-\'sambhu}}
+\def\Try{\discretionary{}{}{}{\sl Try}}
+        \def\Tryvl{\discretionary{}{}{}{\sl
+        Try$^{\scriptscriptstyle vl}$}}
+\def\TryT{\discretionary{}{}{}{\rm T$^{\scriptscriptstyle 1102}$}}
+\def\comA{\discretionary{}{}{}{\rm comm.A}} %Aghora's Kira.na.tikaa
+\def\edF{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle F}$}} % Filliozat's edition
+\def\edD{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle D}$}} %The Devako.t.tai edition (1932)
+        \def\edDfn{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle
+        D}^{\scriptscriptstyle vl}$}} %Footnotes in \edD
+        \def\edDvl{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle
+        D}^{\scriptscriptstyle vl}$}}        
+        \def\edDac{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle
+        D}^{\scriptscriptstyle ac}$}} %text before correction
+        \def\edDpc{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle
+        D}^{\scriptscriptstyle pc}$}} % "suddhipattra ??        
+\def\edV{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle V}$}}
+        \def\edVvl{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle V}^{\scriptscriptstyle vl}$}}
+        \def\edVpc{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle V}^{\scriptscriptstyle pc}$}}
+        \def\edVac{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle V}^{\scriptscriptstyle ac}$}}
+        \def\edVone{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle V}^{\scriptscriptstyle 1}$}}
+        \def\edVtwo{\discretionary{}{}{}{\rm E$_{\scriptscriptstyle V}^{\scriptscriptstyle 2}$}}
+\def\E{\discretionary{}{}{}{\bf E}}
+%\def\msGa{\discretionary{}{}{}{\rm G$_{\scriptscriptstyle 1}$}}  %IFI 30875
+%        \def\msGapc{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+%        c}_{\scriptscriptstyle 1}$}}
+%        \def\msGaac{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+%        ac}_{\scriptscriptstyle 1}$}}
+        \def\msGavl{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 1}$}}
+\def\msGb{\discretionary{}{}{}{\rm G$_{\scriptscriptstyle 2}$}}  %IFI 47637
+        \def\msGbpc{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 2}$}}
+        \def\msGbac{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 2}$}}
+        \def\msGbvl{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 2}$}}
+\def\msGc{\discretionary{}{}{}{\rm G$_{\scriptscriptstyle 3}$}}  %IFI 30802
+        \def\msGcpc{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 3}$}}
+        \def\msGcac{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 3}$}}
+        \def\msGcvl{\discretionary{}{}{}{\rm G$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 3}$}}
+\def\G{\discretionary{}{}{}{\bf G}}               %NOT A HYPARCHETYPE
+        \def\Gvl{\discretionary{}{}{}{\bf G$^{\scriptscriptstyle vl}$}}
+\def\msVa{\discretionary{}{}{}{\rm V$_{\scriptscriptstyle 1}$}}  %IFI 39819
+        \def\msVapc{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 1}$}}
+        \def\msVaac{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 1}$}}
+        \def\msVavl{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 1}$}}
+\def\msVb{\discretionary{}{}{}{\rm V$_{\scriptscriptstyle 2}$}}  %Tirupati
+        \def\msVbpc{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 2}$}}
+        \def\msVbac{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 2}$}}
+        \def\msVbvl{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 2}$}}
+\def\msTi{\discretionary{}{}{}{\rm V$_{\scriptscriptstyle 2}$}}  %same Tirupati
+        \def\msTipc{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 2}$}}
+        \def\msTiac{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 2}$}}
+\def\msVc{\discretionary{}{}{}{\rm V$_{\scriptscriptstyle 3}$}}  %IFI  25324
+        \def\msVcpc{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 3}$}}
+        \def\msVcac{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 3}$}}
+        \def\msVcvl{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 3}$}}
+\def\msVcc{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        2}_{\scriptscriptstyle 3}$}}     % IFI 25324 extra leaf
+        \def\msVccpc{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        2c}_{\scriptscriptstyle 3}$}}
+        \def\msVccac{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        2ac}_{\scriptscriptstyle 3}$}}
+        \def\msVccvl{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        2vl}_{\scriptscriptstyle 3}$}}
+\def\msVd{\discretionary{}{}{}{\rm V$_{\scriptscriptstyle 4}$}}  %IFI transcript
+        \def\msVdpc{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 4}$}}
+        \def\msVdac{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 4}$}}
+        \def\msVdvl{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 4}$}}
+\def\msTp{\discretionary{}{}{}{\rm V$_{\scriptscriptstyle 4}$}}  %same IFI transcript
+        \def\msTppc{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 4}$}}
+        \def\msTpac{\discretionary{}{}{}{\rm V$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 4}$}}
+\def\V{\discretionary{}{}{}{\bf V}}         %Hyparchetype for \msPcs\msVa\msVb\msVc\msVd
+\def\msA{\discretionary{}{}{}{\rm A}}
+\def\msAa{\discretionary{}{}{}{\rm A$_{\scriptscriptstyle 1}$}}  %TiruvAvadudurai vidya & yoga
+        \def\msAapc{\discretionary{}{}{}{\rm A$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 1}$}}
+        \def\msAaac{\discretionary{}{}{}{\rm A$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 1}$}}
+        \def\msAavl{\discretionary{}{}{}{\rm A$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 1}$}}
+\def\msAb{\discretionary{}{}{}{\rm A$_{\scriptscriptstyle 2}$}}  %TiruvAvadudurai vidya only
+        \def\msAbpc{\discretionary{}{}{}{\rm A$^{\scriptscriptstyle
+        c}_{\scriptscriptstyle 2}$}}
+        \def\msAbac{\discretionary{}{}{}{\rm A$^{\scriptscriptstyle
+        ac}_{\scriptscriptstyle 2}$}}
+        \def\msAbvl{\discretionary{}{}{}{\rm A$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 2}$}}
+        \def\msAbvl{\discretionary{}{}{}{\rm A$^{\scriptscriptstyle
+        vl}_{\scriptscriptstyle 2}$}}
+\def\A{\discretionary{}{}{}{\bf A}}                              %NOT A HYPARCHETYPE
+        \def\Avl{\discretionary{}{}{}{\bf A$^{\scriptscriptstyle
+        vl}$}}
+\def\msMy{\discretionary{}{}{}{\rm M$^{\scriptscriptstyle Y}$}}  %Mysore Nandinagari
+        \def\msMypc{\discretionary{}{}{}{\rm M$^{\scriptscriptstyle
+        Yc}$}}
+        \def\msMyac{\discretionary{}{}{}{\rm M$^{\scriptscriptstyle
+        Yac}$}}
+\def\msMyone{\discretionary{}{}{}{\rm M$^{\scriptscriptstyle Y1}$}}
+\def\msMytwo{\discretionary{}{}{}{\rm M$^{\scriptscriptstyle Y2}$}}
+\def\msKc{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle 2}$}} %paper Kannada Ms
+        \def\msKcac{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle ac}$}}
+        \def\msKcpc{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle c}$}}
+\def\msKb{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle 2}$}} %same paper Kannada Ms
+        \def\msKbac{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle ac}$}}
+        \def\msKbpc{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle
+        2}^{\scriptscriptstyle c}$}}
+\def\msKa{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle 1}$}} %palmleaf Kannada Ms
+        \def\msKaac{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle ac}$}}
+        \def\msKapc{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle c}$}}
+        \def\msKavl{\discretionary{}{}{}{\rm K$_{\scriptscriptstyle
+        1}^{\scriptscriptstyle vl}$}}
+\def\MS{{\rm MS}}
+        \def\MSac{{\rm MS$^{\scriptscriptstyle ac}$}}
+        \def\MSpc{{\rm MS$^{\scriptscriptstyle c}$}}
+\def\ED{{\rm Ed}}
+%%%%%%%%% Sivadharma 
+\def\msNa{{\rm N$^{\scriptscriptstyle K}_{\scriptscriptstyle 28}$}}  
+\def\msNaac{{\rm N$^{\scriptscriptstyle Kac}_{\scriptscriptstyle 28}$}}
+\def\msNapc{{\rm N$^{\scriptscriptstyle Kpc}_{\scriptscriptstyle 28}$}}
+\def\msNb{{\rm N$^{\scriptscriptstyle K}_{\scriptscriptstyle 82}$}}  
+\def\msNbac{{\rm N$^{\scriptscriptstyle Kac}_{\scriptscriptstyle 82}$}}
+\def\msNbpc{{\rm N$^{\scriptscriptstyle Kpc}_{\scriptscriptstyle 82}$}}    
+\def\msNc{{\rm N$^{\scriptscriptstyle K}_{\scriptscriptstyle 12a}$}}  
+\def\msNcac{{\rm N$^{\scriptscriptstyle Kac}_{\scriptscriptstyle 12a}$}}
+\def\msNcpc{{\rm N$^{\scriptscriptstyle Kpc}_{\scriptscriptstyle 12a}$}}
+\def\msCa{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 45}$}}
+\def\msCaac{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 45}$}}
+\def\msCapc{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 45}$}}
+\def\msCo{{\rm N$^{\scriptscriptstyle Ko}_{\scriptscriptstyle 77}$}}  
+\def\msCoac{{\rm N$^{\scriptscriptstyle Koac}_{\scriptscriptstyle 77}$}}
+\def\msCopc{{\rm N$^{\scriptscriptstyle Kopc}_{\scriptscriptstyle 77}$}}
+\def\msGa{{\rm G$^{\scriptscriptstyle Ki}$}}  
+\def\msGaac{{\rm G$^{\scriptscriptstyle Kiac}$}}
+\def\msGapc{{\rm G$^{\scriptscriptstyle Kipc}$}}
+\def\msK{{\rm \'S$^{\scriptscriptstyle S}_{\scriptscriptstyle 67}$}}  
+\def\msKac{{\rm \'S$^{\scriptscriptstyle Sac}_{\scriptscriptstyle 67}$}}
+\def\msKpc{{\rm \'S$^{\scriptscriptstyle Spc}_{\scriptscriptstyle 67}$}}
+\def\msTa{{\rm P$^{\scriptscriptstyle T}_{\scriptscriptstyle 32}$}}
+\def\msTaac{{\rm P$^{\scriptscriptstyle Tac}_{\scriptscriptstyle 32}$}}
+\def\msTapc{{\rm P$^{\scriptscriptstyle Tpc}_{\scriptscriptstyle 32}$}}
+\def\msTb{{\rm P$^{\scriptscriptstyle T}_{\scriptscriptstyle 72}$}}
+\def\msTbac{{\rm P$^{\scriptscriptstyle Tac}_{\scriptscriptstyle 72}$}}
+\def\msTbpc{{\rm P$^{\scriptscriptstyle Tpc}_{\scriptscriptstyle 72}$}}
+\def\msTrb{{\rm M$^{\scriptscriptstyle Tr}_{\scriptscriptstyle 63}$}}
+\def\msTrbac{{\rm M$^{\scriptscriptstyle Trac}_{\scriptscriptstyle 63}$}}
+\def\msTrbpc{{\rm M$^{\scriptscriptstyle Trpc}_{\scriptscriptstyle 63}$}}
+\def\edN{{\rm E$^{\scriptscriptstyle N}$}}
+\def\edNac{{\rm E$^{\scriptscriptstyle Nac}$}}
+\def\edNpc{{\rm E$^{\scriptscriptstyle Npc}$}}
+\def\msLd{{\rm G$^{\scriptscriptstyle L}_{\scriptscriptstyle 40}$}}
+\def\msLdac{{\rm G$^{\scriptscriptstyle Lac}_{\scriptscriptstyle 40}$}}
+\def\msLdpc{{\rm G$^{\scriptscriptstyle Lpc}_{\scriptscriptstyle 40}$}}
+\def\msPe{{\rm N$^{\scriptscriptstyle P}_{\scriptscriptstyle 57}$}}
+\def\msPeac{{\rm N$^{\scriptscriptstyle Pac}_{\scriptscriptstyle 57}$}}
+\def\msPepc{{\rm N$^{\scriptscriptstyle Ppc}_{\scriptscriptstyle 57}$}}
+\def\BhaviP{{\sl Bhaviya\d{s}ya\-pur\=a\d{n}a}}
+\def\BrhajaU{{B\d{r}hajj\=ab\=ala Upani\d{s}ad}}
+\def\SivaPVa{{\sl \'Siva\-pur\=a\d{n}a}-V\=ayav\={\i}ya}
+\def\SivP{{\sl \'Siva\-pur\=a\d{n}a}}
+\def\AgmP{{\sl \=Agama\-pr\=a\-m\=a\d{n}ya}}
+\def\JnarV{{\sl J\~n\=ana\-ratn\=aval\={\i}}}
+\def\Atmartha{{\sl \=Atm\=artha\-p\=uj\=a\-paddhati}}
+\def\appr{$\approx$}
+%%%%%%%%% Sivadharma 
+%%%%%%%%%%%%%%
+\def\South{\discretionary{}{}{}{\bf S}}  %Hyparchetype for all \Mss except \msR, \N,\My and \msKb
+\def\Narayana{{\rm N\=ar\=aya\d{n}a\-ka\d{n}\d{t}ha}}
+\def\Mss{{\rm manuscripts}}
+\def\check{{\rm CHECK}}
+\def\eyeskip{{\rm (eyeskip)}}
+\def\Ram{{\rm R\=ama\-ka\d{n}\d{t}ha}}
+\def\Mrg{{\sl M\d{r}gendra}}
+        \def\MrgV{{\sl M\d{r}gendra\-v\d{r}tti}}
+        \def\MrgVD{{\sl
+        M\d{r}gendra\-v\d{r}tti\-d\={\i}pik\=a}}
+\def\Mat{{\sl Mata\.{n}ga}}
+\def\MatV{{\sl Mata\.{n}ga\-v\d{r}tti}}
+\def\Malini{{\sl M\=alin\={\i}\-vijaya}}
+\def\Agh{{\rm Aghora\-\'siva}}
+\def\Jayaratha{{\rm Jaya\-ratha}}
+\def\Nirmala{{\sl Nir}}
+\def\Isana{{\sl \=I\'s\=ana\-\'siva\-guru\-deva\-paddhati}}
+\def\Nar{{\sl Nare\'svara\-par\={\i}k\d{s}\=a}}
+\def\NarP{{\sl
+        Nare\'svara\-par\={\i}k\d{s}\=a\-prak\=a\'sa}}
+\def\Rat{{\sl Ratna\-traya\-par\={\i}k\d{s}\=a}}
+\def\Sadyo{{\rm Sadyo\-jyoti\d{h}}}
+\def\Sar{{\sl S\=ardha\-tri\-\'sati\-k\=alottara}}
+\def\SarV{{\sl S\=ardha\-tri\-\'sati\-k\=alottara\-v\d{r}tti}}
+\def\Sankh{{\sl S\=a\.{n}khya\-k\=arik\=a}}
+\def\Vakya{{\sl V\=akya\-pad\={\i}ya}}
+\def\Sloka{{\sl \'Sloka\-v\=arttika}}
+\def\Slokas{{\sl \'Sloka\-v\=arttika sam\-bandh\=a\-k\d{s}epa\-pari\-h\=ara}}
+\def\Svayam{{\sl
+        Sv\=ayam\-bhuva\-s\=utra\-sa\.{n}\-graha}}
+\def\TatP{{\sl Tat\-tva\-pra\-k\=a\'sa}}
+\def\TatS{{\sl Tat\-tva\-sa\.n\-graha}}
+\def\Pau{{\sl Pau\d{s}kara}}
+\def\Bhoga{{\sl Bhoga\-k\=arik\=a}}
+\def\Moksa{{\sl Mok\d{s}a\-k\=arik\=a}}
+\def\Paramoksa{{\sl
+        Para\-mok\d{s}a\-nir\-\=asa\-k\=arik\=a}}
+\def\Rau{{\sl Raurava}}
+\def\RauS{{\sl Raurava\-s\=utra\-sa\.{n}\-graha}}
+\def\TatN{{\sl Tattva\-traya\-nir\-\d{n}aya}}
+\def\comR{{\rm R.comm.}}
+\def\comA{{\rm A.comm.}}
+\def\Kir{{\sl Kira\d{n}a}}
+\def\KirV{{\sl Kira\d{n}a\-v\d{r}tti}}
+\def\SS{{\rm \'Saiva Siddh\=anta}}
+\def\VP{{\sl vidy\=a\-p\=ada}}
+\def\omits{{\sl om.\ }}
+\def\emend{{\sl em.}}
+\def\adds{{\rm add.\ }}
+\def\cf{{\rm cf.\ }}
+\def\im{{\rm i.m.\ }}
+\def\conj{{\sl conj.}}
+\def\conjS{{\sl conj.\ Sanderson}}
+\def\conjI{{\sl conj.\ Isaacson}}
+\def\conjSI{{\sl conj.\ Sanderson and Isaacson}}
+\def\emS{{\sl em.\ Sanderson}}
+\def\Filliozat{{\rm Filliozat}}
+\def\Siddhanta{{}}
+\def\Purvapaksa{{}}
+\def\colo{{$\odot$}}
+\def\flourish{{$\otimes$}}
+\def\similar{{$\approx$}}
+%
+\def\one{$^{\scriptscriptstyle 1}$}
+\def\two{$^{\scriptscriptstyle 2}$}
+\def\three{$^{\scriptscriptstyle 3}$}
+\def\four{$^{\scriptscriptstyle 4}$}
+\def\five{$^{\scriptscriptstyle 5}$}
+\def\six{$^{\scriptscriptstyle 6}$}
+\def\seven{$^{\scriptscriptstyle 7}$}
+\def\eight{$^{\scriptscriptstyle 8}$}
+%
+
+\def\lfootfmt#1#2#3{%
+  \normal@pars
+  \parindent=0pt \parfillskip=0pt plus 1fil
+  \notefontsetup\rm#3\penalty-10 }
+\newif\ifversequote
+\def\normalfootfmt#1#2#3{%
+   \let\par=\endgraf
+   \parindent=0pt \parfillskip=0pt plus 1fil
+   {\vskip 1pt plus .3pt
+   minus.3pt\notenumfont\the\versenum
+   \ifversequote
+     \strut\penalty9999
+     \rightskip=0pt \leftskip=0pt
+     \parindent=0pt \parfillskip=0pt plus
+     1fil\notefontsetup
+          \nsan#3
+   \else
+     {\bf .}\printlines#1|\strut\enskip\penalty9999
+     \rightskip=0pt \leftskip=0pt
+     \parindent=0pt \parfillskip=0pt plus
+    1fil\notefontsetup
+          \nsan#3\par\allowbreak
+   \fi
+   \par\allowbreak}\vskip 5pt}
+
+\def\nonumparafootfmt#1#2#3{%
+   \let\par=\endgraf
+   \parindent=0pt \parfillskip=0pt plus 1fil
+   {\vskip 1pt plus .3pt
+   minus.3pt\notenumfont\the\versenum{\bf .}
+   \rightskip=0pt \leftskip=0pt
+   \parindent=0pt \parfillskip=0pt plus
+   1fil\notefontsetup
+        \nsan#3\par\allowbreak}}
+
+\def\twocolfootfmt#1#2#3{%
+   \normal@pars
+   \hsize .5\hsize
+   \rightskip=0pt \leftskip=0pt \parindent=0pt
+   \raggedright
+   {\strut\notenumfont\printlines#1|\enspace\enskip\strut\penalty9999
+   \notefontsetup
+   \nsan#3\endgraf\allowbreak\relax}}
+
+\def\myparafootfmt#1#2#3{%
+   \normal@pars
+   \rightskip=0pt \leftskip=0pt
+   \parindent=0pt \parfillskip=0pt plus 1fil
+   {\notenumfont\the\versenum\penalty9999$\!$\penalty9999\notefontsetup\nsan#3
+   \penalty-20
+   }}
+
+\def\mparafootfmt#1#2#3{%
+   \normal@pars
+   \rightskip=0pt \leftskip=0pt
+   \parindent=0pt \parfillskip=0pt plus 1fil
+   {\notenumfont\the\versenum{\bf .}\printlines#1|\thinspace\penalty9999\notefontsetup
+   \nsan#3\penalty-10
+   }}
+
+\def\lacparafootfmt#1#2#3{%
+   \normal@pars
+   \rightskip=0pt \leftskip=0pt
+   \parindent=0pt \parfillskip=0pt plus 1fil
+   {\notenumfont\the\versenum{\bf .}\printlines#1|\thinspace\penalty9999\notefontsetup
+   \nsan#3\penalty-10
+   }}
+
+\let\notenumfont=\eightbf
+\lineation{section}
+\linenummargin{inner}
+%
+\interparanoteglue{1.4em plus.3em minus.3em}
+\footparagraph{a}
+\footparagraph{b}
+\footparagraph{e}
+%
+\let\afootfmt=\myparafootfmt
+\let\bfootfmt=\lacparafootfmt
+\let\cfootfmt=\normalfootfmt
+\let\dfootfmt=\normalfootfmt
+\let\efootfmt=\mparafootfmt
+%
+\def\mula#1{\text{}\afootnote{#1}/}
+\def\lacuna#1{\text{}\bfootnote{#1}/}
+\def\quote#1{\global\versequotefalse\text{}\dfootnote{#1}/}
+\def\vsquote#1{\global\versequotetrue\text{}\dfootnote{#1}/}
+\def\codd#1{\text{}\cfootnote{#1}/}
+\def\tika#1{\text{}\efootnote{#1}/}
+%
+\def\makeheadline{\vbox to 0pt{\vskip -36pt
+  \line{\vbox to 8.5pt{}\the\headline}\vss}\nointerlineskip}
+\makeatother
+%\parindent=65pt
+\def\lbreak{\hfil\penalty-9999} % (almost) force line break in foot paragraph
+
+

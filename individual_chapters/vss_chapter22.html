@@ -1,0 +1,1734 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+       <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+       <title>Loading...</title>
+       <rt id="realtitle">Title</rt>
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <link rel="stylesheet" href="style_scroll.css">
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+       <script src="jquery.min.js"></script>
+       <script src="colorthemes.js"></script>
+       <script src="showhide.js"></script>
+       <script src="onlytext.js"></script>
+    </head>
+       <body onload="closeapp();">
+          <div class="text" id="sanskrittext">
+          <br/>
+        
+<select id="themes"  style="background-color:black">
+              <option value="default">--Choose Colour Theme--</option>
+              <option value="contrast">Contrasted</option>
+              <option value="light">Light</option>
+              <option value="gray">Gray</option>
+             </select>
+           <script>
+           $("select").change(function() {
+                    if ($(this).val() === "contrast") {
+                        doContrastedColorTheme();
+                        }
+                    if ($(this).val() === "gray") {
+                        doGrayColorTheme();
+                        }
+                    if ($(this).val() === "light") {
+                        doLightColorTheme();
+                        }
+                    })
+                    </script>
+                    
+<div class="header">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    <div class="wrap-main">
+     <span class="instr" onclick="showApparatus('instructions')">
+        Help
+     </span>
+     <div class="wrap-content" onclick="hideFunction('instructions')" id="instructions">
+     <span class="instr"> 
+        • Press keys 's', 't' and 'n' to toggle the Sanskrit text, the translation and the notes, respectively; 
+        press 'a' to open all four windows; press 'o' to open/close all apparatus entries;
+        press 'd' to toggle Roman/Devanāgarī
+     </span>
+     <span class="instr">
+         • You can also use these buttons for the same:
+     </span> 
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="showonlytext()" id="showonlytext">Only Skt</button>
+     </span>
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="showtextandtranslation()" id="showtextandtranslation">Skt & Tr</button>
+     </span> 
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="showtexttrnotes()" id="txttrnotes">Skt & Tr & Notes</button>
+     </span> 
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="showall()" id="all">All</button>
+     </span> 
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="openallapp()" id="openallapp">Open all apparatus entries</button>
+     </span> 
+     <span class="instr">  
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="turnItDevnag()" id="switchbutton">Switch to Devanāgarī</button>
+     </span> 
+     <span class="instr"> 
+          • Click inside this box to close it
+     </span>
+     <span class="instr"> 
+          • Single click on Sanskrit line to display apparatus 
+          and highlight translation of verse (if translation is visible)
+     </span>
+     <span class="instr"> 
+          • Click inside apparatus box to close it
+     </span>
+     <span class="instr"> 
+          • Double click on Sanskrit line to scroll to relevant note, if any and if notes are displayed
+     </span>
+     <span class="instr"> 
+          • Click on translation to toggle highligting on relevant Sanskrit verse
+     </span>
+     <span class="instr"> 
+          • If your browser has problems rendering the Devanāgarī font, 
+          change your browser's default font (e.g. to 'Noto Sans Devanagari' on Ubuntu) 
+     </span>
+     </div>
+     </div>
+     </div>
+     <br/>
+     
+<RMTEXT><h1>
+ Vr̥ṣasārasaṁgrahaḥ 
+</h1></RMTEXT>
+<DNTEXT><h1>
+ वृषसारसंग्रहः 
+  </h1></DNTEXT>
+<!-- NEWCHAPTER -->
+<RMTEXT><chapter>
+[ 19 dānayajñaviśeṣaḥ ]
+</chapter></RMTEXT>
+<DNTEXT><chapter>
+[ १९ दानयज्ञविशेषः ]
+  </chapter></DNTEXT>
+<RMTEXT><subchapter>
+[ gāvaḥ ]
+</subchapter></RMTEXT>
+<DNTEXT><subchapter>
+[ गावः ]
+  </subchapter></DNTEXT>
+
+<div class="wrap-main">
+<TEXT id="19.1uvaca" class="sktvrs19.1" onclick="showApparatus('app19.1uvaca')" ondblclick="showNote('note19.1')" >
+<RMTEXT><uvaca> vigatarāga uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>विगतराग उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.1uvaca')" id="app19.1uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.1ab" class="sktvrs19.1" onclick="showApparatus('app19.1ab')" ondblclick="showNote('note19.1')" >
+<RMTEXT> kriyāsūkṣmo mahādharmaḥ karmaṇā kena prāpyate |</RMTEXT>
+<DNTEXT>क्रियासूक्ष्मो महाधर्मः कर्मणा केन प्राप्यते ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.1ab')" id="app19.1ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.1cd" class="sktvrs19.1" onclick="showApparatus('app19.1cd')" ondblclick="showNote('note19.1')" >
+<RMTEXT> alpopāyaṁ narārthāya pr̥cchāmi kathayasva me ||<span class="vsnum">19.1</span>||</RMTEXT>
+<DNTEXT>अल्पोपायं नरार्थाय पृच्छामि कथयस्व मे ॥<span  class="vsnum">१९:१</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.1cd')" id="app19.1cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.2uvaca" class="sktvrs19.2" onclick="showApparatus('app19.2uvaca')" ondblclick="showNote('note19.2')" >
+<RMTEXT><uvaca> anarthayajña uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>अनर्थयज्ञ उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.2uvaca')" id="app19.2uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.2ab" class="sktvrs19.2" onclick="showApparatus('app19.2ab')" ondblclick="showNote('note19.2')" >
+<RMTEXT> alpopāyaṁ mahādharmaṁ kathayāmi dvijottama |</RMTEXT>
+<DNTEXT>अल्पोपायं महाधर्मं कथयामि द्विजोत्तम ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.2ab')" id="app19.2ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.2cd" class="sktvrs19.2" onclick="showApparatus('app19.2cd')" ondblclick="showNote('note19.2')" >
+<RMTEXT> sukhena labhate svargaṁ karmaṇā yena tac chr̥ṇu ||<span class="vsnum">19.2</span>||</RMTEXT>
+<DNTEXT>सुखेन लभते स्वर्गं कर्मणा येन तच्छृणु ॥<span  class="vsnum">१९:२</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.2cd')" id="app19.2cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.3ab" class="sktvrs19.3" onclick="showApparatus('app19.3ab')" ondblclick="showNote('note19.3')" >
+<RMTEXT> lokānaṁ mātaro gāvo gobhiḥ sarvaṁ jagad dhr̥tam |</RMTEXT>
+<DNTEXT>लोकानं मातरो गावो गोभिः सर्वं जगद्धृतम् ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.3ab')" id="app19.3ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.3cd" class="sktvrs19.3" onclick="showApparatus('app19.3cd')" ondblclick="showNote('note19.3')" >
+<RMTEXT> gomayam amr̥taṁ sarvaṁ jātaṁ sarvaśivecchayā ||<span class="vsnum">19.3</span>||</RMTEXT>
+<DNTEXT>गोमयममृतं सर्वं जातं सर्वशिवेच्छया ॥<span  class="vsnum">१९:३</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.3cd')" id="app19.3cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.4ab" class="sktvrs19.4" onclick="showApparatus('app19.4ab')" ondblclick="showNote('note19.4')" >
+<RMTEXT> sarvadevamayī gāvaḥ sarvadevamayo dvijaḥ |</RMTEXT>
+<DNTEXT>सर्वदेवमयी गावः सर्वदेवमयो द्विजः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.4ab')" id="app19.4ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.4cd" class="sktvrs19.4" onclick="showApparatus('app19.4cd')" ondblclick="showNote('note19.4')" >
+<RMTEXT> sarvadevamayo bhūmiḥ sarvadevamayaḥ śivaḥ ||<span class="vsnum">19.4</span>||</RMTEXT>
+<DNTEXT>सर्वदेवमयो भूमिः सर्वदेवमयः शिवः ॥<span  class="vsnum">१९:४</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.4cd')" id="app19.4cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.5ab" class="sktvrs19.5" onclick="showApparatus('app19.5ab')" ondblclick="showNote('note19.5')" >
+<RMTEXT> tasmād gāvaḥ sadā sevyā dharmamokṣārthasiddhidā |</RMTEXT>
+<DNTEXT>तस्माद्गावः सदा सेव्या धर्ममोक्षार्थसिद्धिदा ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.5ab')" id="app19.5ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.5cd" class="sktvrs19.5" onclick="showApparatus('app19.5cd')" ondblclick="showNote('note19.5')" >
+<RMTEXT> paricaryā yathāśaktyā grāsavāsajalādibhiḥ ||<span class="vsnum">19.5</span>||</RMTEXT>
+<DNTEXT>परिचर्या यथाशक्त्या ग्रासवासजलादिभिः ॥<span  class="vsnum">१९:५</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.5cd')" id="app19.5cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.6ab" class="sktvrs19.6" onclick="showApparatus('app19.6ab')" ondblclick="showNote('note19.6')" >
+<RMTEXT> tāḍayen nātivegena vācayen mr̥dunācaret |</RMTEXT>
+<DNTEXT>ताडयेन्नातिवेगेन वाचयेन्मृदुनाचरेत् ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.6ab')" id="app19.6ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.6cd" class="sktvrs19.6" onclick="showApparatus('app19.6cd')" ondblclick="showNote('note19.6')" >
+<RMTEXT> pālayan tarpanād yeṣu bhagnodvigneṣu yatnataḥ ||<span class="vsnum">19.6</span>||</RMTEXT>
+<DNTEXT>पालयन्तर्पनाद्येषु भग्नोद्विग्नेषु यत्नतः ॥<span  class="vsnum">१९:६</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.6cd')" id="app19.6cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.7ab" class="sktvrs19.7" onclick="showApparatus('app19.7ab')" ondblclick="showNote('note19.7')" >
+<RMTEXT> vyādhivanaparikleśa oṣadhopakramaś caret |</RMTEXT>
+<DNTEXT>व्याधिवनपरिक्लेश ओषधोपक्रमश्चरेत् ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.7ab')" id="app19.7ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.7cd" class="sktvrs19.7" onclick="showApparatus('app19.7cd')" ondblclick="showNote('note19.7')" >
+<RMTEXT> kaṇḍūyanaṁ ca kartavyaṁ yathāsaukhyaṁ bhaved gavām ||<span class="vsnum">19.7</span>||</RMTEXT>
+<DNTEXT>कण्डूयनं च कर्तव्यं यथासौख्यं भवेद्गवाम् ॥<span  class="vsnum">१९:७</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.7cd')" id="app19.7cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.8ab" class="sktvrs19.8" onclick="showApparatus('app19.8ab')" ondblclick="showNote('note19.8')" >
+<RMTEXT> gavāṁ pradakṣiṇaṁ kr̥tvā śraddhābhaktisamanvitaḥ |</RMTEXT>
+<DNTEXT>गवां प्रदक्षिणं कृत्वा श्रद्धाभक्तिसमन्वितः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.8ab')" id="app19.8ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.8cd" class="sktvrs19.8" onclick="showApparatus('app19.8cd')" ondblclick="showNote('note19.8')" >
+<RMTEXT> sāgarāntā mahī sarvā n pradakṣiṇīkr̥tā bhavet ||<span class="vsnum">19.8</span>||</RMTEXT>
+<DNTEXT>सागरान्ता मही सर्वा न्प्रदक्षिणीकृता भवेत् ॥<span  class="vsnum">१९:८</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.8cd')" id="app19.8cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.9ab" class="sktvrs19.9" onclick="showApparatus('app19.9ab')" ondblclick="showNote('note19.9')" >
+<RMTEXT> pr̥ṣṭasaṁsparśanād yañ ca śraddhayā yadi mānavaḥ |</RMTEXT>
+<DNTEXT>पृष्टसंस्पर्शनाद्यञ्च श्रद्धया यदि मानवः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.9ab')" id="app19.9ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.9cd" class="sktvrs19.9" onclick="showApparatus('app19.9cd')" ondblclick="showNote('note19.9')" >
+<RMTEXT> ahorātrakr̥taṁ pāpaṁ naśyate nātrasaṁśayaḥ ||<span class="vsnum">19.9</span>||</RMTEXT>
+<DNTEXT>अहोरात्रकृतं पापं नश्यते नात्रसंशयः ॥<span  class="vsnum">१९:९</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.9cd')" id="app19.9cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.10ab" class="sktvrs19.10" onclick="showApparatus('app19.10ab')" ondblclick="showNote('note19.10')" >
+<RMTEXT> lāṅgūlenoddhr̥taṁ toyaṁ mūrddhnā gr̥hṇāti yo naraḥ |</RMTEXT>
+<DNTEXT>लाङ्गूलेनोद्धृतं तोयं मूर्द्ध्ना गृह्णाति यो नरः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.10ab')" id="app19.10ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.10cd" class="sktvrs19.10" onclick="showApparatus('app19.10cd')" ondblclick="showNote('note19.10')" >
+<RMTEXT> yāvaj jīva kr̥taṁ pāpaṁ naśyate nātra saṁśayaḥ ||<span class="vsnum">19.10</span>||</RMTEXT>
+<DNTEXT>यावज्जीव कृतं पापं नश्यते नात्र संशयः ॥<span  class="vsnum">१९:१०</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.10cd')" id="app19.10cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.11ab" class="sktvrs19.11" onclick="showApparatus('app19.11ab')" ondblclick="showNote('note19.11')" >
+<RMTEXT> vidhivat snāpayed gāṁś ca mantrayuktena vāriṇā |</RMTEXT>
+<DNTEXT>विधिवत्स्नापयेद्गांश्च मन्त्रयुक्तेन वारिणा ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.11ab')" id="app19.11ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.11cd" class="sktvrs19.11" onclick="showApparatus('app19.11cd')" ondblclick="showNote('note19.11')" >
+<RMTEXT> tenāmbhasā svayaṁ snātvā sarvapāpakṣayo bhavet ||<span class="vsnum">19.11</span>||</RMTEXT>
+<DNTEXT>तेनाम्भसा स्वयं स्नात्वा सर्वपापक्षयो भवेत् ॥<span  class="vsnum">१९:११</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.11cd')" id="app19.11cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.12ab" class="sktvrs19.12" onclick="showApparatus('app19.12ab')" ondblclick="showNote('note19.12')" >
+<RMTEXT> vyādhivighnam alakṣmītvaṁ naśyate sadya eva ca |</RMTEXT>
+<DNTEXT>व्याधिविघ्नमलक्ष्मीत्वं नश्यते सद्य एव च ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.12ab')" id="app19.12ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.12cd" class="sktvrs19.12" onclick="showApparatus('app19.12cd')" ondblclick="showNote('note19.12')" >
+<RMTEXT> mr̥tāpatyāś ca gāvāś ca snānam eva praśasyate ||<span class="vsnum">19.12</span>||</RMTEXT>
+<DNTEXT>मृतापत्याश्च गावाश्च स्नानमेव प्रशस्यते ॥<span  class="vsnum">१९:१२</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.12cd')" id="app19.12cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.13ab" class="sktvrs19.13" onclick="showApparatus('app19.13ab')" ondblclick="showNote('note19.13')" >
+<RMTEXT> gavāṁ śr̥ṅgodakaṁ gr̥hya mūrdhni yo dhārayen naraḥ |</RMTEXT>
+<DNTEXT>गवां शृङ्गोदकं गृह्य मूर्ध्नि यो धारयेन्नरः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.13ab')" id="app19.13ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.13cd" class="sktvrs19.13" onclick="showApparatus('app19.13cd')" ondblclick="showNote('note19.13')" >
+<RMTEXT> sa sarvatīrthasnānasya phalaṁ prāpnoti mānavaḥ ||<span class="vsnum">19.13</span>||</RMTEXT>
+<DNTEXT>स सर्वतीर्थस्नानस्य फलं प्राप्नोति मानवः ॥<span  class="vsnum">१९:१३</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.13cd')" id="app19.13cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.14ab" class="sktvrs19.14" onclick="showApparatus('app19.14ab')" ondblclick="showNote('note19.14')" >
+<RMTEXT> grāsamuṣṭipradānena goṣu bhaktisamanvitaḥ |</RMTEXT>
+<DNTEXT>ग्रासमुष्टिप्रदानेन गोषु भक्तिसमन्वितः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.14ab')" id="app19.14ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.14cd" class="sktvrs19.14" onclick="showApparatus('app19.14cd')" ondblclick="showNote('note19.14')" >
+<RMTEXT> agnihotraṁ hutaṁ tena sarvadevāḥ sutarpitāḥ ||<span class="vsnum">19.14</span>||</RMTEXT>
+<DNTEXT>अग्निहोत्रं हुतं तेन सर्वदेवाः सुतर्पिताः ॥<span  class="vsnum">१९:१४</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.14cd')" id="app19.14cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.15ab" class="sktvrs19.15" onclick="showApparatus('app19.15ab')" ondblclick="showNote('note19.15')" >
+<RMTEXT> catvāraḥ stanadhārās tu yas tu mūrdhnā pratīcchati |</RMTEXT>
+<DNTEXT>चत्वारः स्तनधारास्तु यस्तु मूर्ध्ना प्रतीच्छति ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.15ab')" id="app19.15ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.15cd" class="sktvrs19.15" onclick="showApparatus('app19.15cd')" ondblclick="showNote('note19.15')" >
+<RMTEXT> sa catuḥsāgaraṁ gatvā snānapuṇyaphalaṁ labhet ||<span class="vsnum">19.15</span>||</RMTEXT>
+<DNTEXT>स चतुःसागरं गत्वा स्नानपुण्यफलं लभेत् ॥<span  class="vsnum">१९:१५</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.15cd')" id="app19.15cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.16ab" class="sktvrs19.16" onclick="showApparatus('app19.16ab')" ondblclick="showNote('note19.16')" >
+<RMTEXT> gavārthaṁ yas tyajet prāṇān gograheṣu dvijottama |</RMTEXT>
+<DNTEXT>गवार्थं यस्त्यजेत्प्राणान्गोग्रहेषु द्विजोत्तम ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.16ab')" id="app19.16ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.16cd" class="sktvrs19.16" onclick="showApparatus('app19.16cd')" ondblclick="showNote('note19.16')" >
+<RMTEXT> kalpakoṭiśataṁ divyaṁ śivaloke mahīyate ||<span class="vsnum">19.16</span>||</RMTEXT>
+<DNTEXT>कल्पकोटिशतं दिव्यं शिवलोके महीयते ॥<span  class="vsnum">१९:१६</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.16cd')" id="app19.16cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.17ab" class="sktvrs19.17" onclick="showApparatus('app19.17ab')" ondblclick="showNote('note19.17')" >
+<RMTEXT> cyutabhagnādisaṁskāraṁ sarvaṁ yaḥ kurute naraḥ |</RMTEXT>
+<DNTEXT>च्युतभग्नादिसंस्कारं सर्वं यः कुरुते नरः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.17ab')" id="app19.17ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.17cd" class="sktvrs19.17" onclick="showApparatus('app19.17cd')" ondblclick="showNote('note19.17')" >
+<RMTEXT> bhāryākoṭiśataṁ dānaṁ yat phalaṁ parikīrtitam ||<span class="vsnum">19.17</span>|| </RMTEXT>
+<DNTEXT>भार्याकोटिशतं दानं यत्फलं परिकीर्तितम् ॥<span  class="vsnum">१९:१७</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.17cd')" id="app19.17cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.18ab" class="sktvrs19.18" onclick="showApparatus('app19.18ab')" ondblclick="showNote('note19.18')" >
+<RMTEXT> tatphalaṁ labhate martyaḥ śivalokaṁ ca gacchati |</RMTEXT>
+<DNTEXT>तत्फलं लभते मर्त्यः शिवलोकं च गच्छति ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.18ab')" id="app19.18ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.18cd" class="sktvrs19.18" onclick="showApparatus('app19.18cd')" ondblclick="showNote('note19.18')" >
+<RMTEXT> śivalokaparibhraṣṭaḥ pr̥thivyām ekarāḍ bhavet ||<span class="vsnum">19.18</span>||</RMTEXT>
+<DNTEXT>शिवलोकपरिभ्रष्टः पृथिव्यामेकराड्भवेत् ॥<span  class="vsnum">१९:१८</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.18cd')" id="app19.18cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.19ab" class="sktvrs19.19" onclick="showApparatus('app19.19ab')" ondblclick="showNote('note19.19')" >
+<RMTEXT> samāsataḥ samākhyātaṁ yathātattvaṁ dvijottama |</RMTEXT>
+<DNTEXT>समासतः समाख्यातं यथातत्त्वं द्विजोत्तम ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.19ab')" id="app19.19ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.19cd" class="sktvrs19.19" onclick="showApparatus('app19.19cd')" ondblclick="showNote('note19.19')" >
+<RMTEXT> na śakyaṁ vistarād vaktuṁ gomahātmyasamuttamam ||<span class="vsnum">19.19</span>||</RMTEXT>
+<DNTEXT>न शक्यं विस्तराद्वक्तुं गोमहात्म्यसमुत्तमम् ॥<span  class="vsnum">१९:१९</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.19cd')" id="app19.19cd">
+
+
+</div>
+</div>
+<RMTEXT><subchapter>
+[ cāturvarṇyam ]
+</subchapter></RMTEXT>
+<DNTEXT><subchapter>
+[ चातुर्वर्ण्यम् ]
+  </subchapter></DNTEXT>
+
+<div class="wrap-main">
+<TEXT id="19.20uvaca" class="sktvrs19.20" onclick="showApparatus('app19.20uvaca')" ondblclick="showNote('note19.20')" >
+<RMTEXT><uvaca> vigatarāga uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>विगतराग उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.20uvaca')" id="app19.20uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.20ab" class="sktvrs19.20" onclick="showApparatus('app19.20ab')" ondblclick="showNote('note19.20')" >
+<RMTEXT> devā aṣṭavidhāḥ proktās tiryak pañcavidhaḥ smr̥taḥ |</RMTEXT>
+<DNTEXT>देवा अष्टविधाः प्रोक्तास्तिर्यक्पञ्चविधः स्मृतः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.20ab')" id="app19.20ab">
+
+<RMAPP>        <VSNUMPADA>20a</VSNUMPADA> <LEM>devā aṣṭa°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; devāḥraṣṭa° <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२०  a:</VSNUMPADA> <LEM>देवा अष्ट° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; देवाःरष्ट° <span class="ms">E</span><br/>
+  </DNAPP>
+<RMAPP>        <VSNUMPADA>20b</VSNUMPADA> <LEM>°ryak pa°</LEM> <span class="ms">C<sub>94<corr>pc</corr></sub></span><span class="ms">K<sub>82</sub></span><span class="ms">E</span>; °k pa° <span class="ms">C<sub>94<corr>ac</corr></sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२०  b:</VSNUMPADA> <LEM>°र्यक्प° </LEM> <span class="ms">C<sub>94<corr>pc</corr></sub></span><span class="ms">K<sub>82</sub></span><span class="ms">E</span>; °क्प° <span class="ms">C<sub>94<corr>ac</corr></sub></span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.20cd" class="sktvrs19.20" onclick="showApparatus('app19.20cd')" ondblclick="showNote('note19.20')" >
+<RMTEXT> mānuṣyam ekam evāhuś cāturvarṇaḥ kathaṁ bhavet ||<span class="vsnum">19.20</span>||</RMTEXT>
+<DNTEXT>मानुष्यमेकमेवाहुश्चातुर्वर्णः कथं भवेत् ॥<span  class="vsnum">१९:२०</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.20cd')" id="app19.20cd">
+
+<RMAPP>        <VSNUMPADA>20c</VSNUMPADA> <LEM>mānuṣa°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; mānuṣya° <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२०  c:</VSNUMPADA> <LEM>मानुष° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; मानुष्य° <span class="ms">E</span><br/>
+  </DNAPP>
+<RMAPP>        <VSNUMPADA>20d</VSNUMPADA> <LEM>°varṇaḥ</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; °vvarṇyaḥ <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२०  d:</VSNUMPADA> <LEM>°वर्णः </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; °व्वर्ण्यः <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.21uvaca" class="sktvrs19.21" onclick="showApparatus('app19.21uvaca')" ondblclick="showNote('note19.21')" >
+<RMTEXT><uvaca> anarthayajña uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>अनर्थयज्ञ उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.21uvaca')" id="app19.21uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.21ab" class="sktvrs19.21" onclick="showApparatus('app19.21ab')" ondblclick="showNote('note19.21')" >
+<RMTEXT> pūrvakalpasr̥jas tv eṣa viṣṇunā prabhaviṣṇunā |</RMTEXT>
+<DNTEXT>पूर्वकल्पसृजस्त्वेष विष्णुना प्रभविष्णुना ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.21ab')" id="app19.21ab">
+
+<RMAPP>        <VSNUMPADA>21a</VSNUMPADA> <LEM>°sr̥jas tv eṣa</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; °sr̥jaty eṣa <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२१  a:</VSNUMPADA> <LEM>°सृजस्त्वेष </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; °सृजत्येष <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.21cd" class="sktvrs19.21" onclick="showApparatus('app19.21cd')" ondblclick="showNote('note19.21')" >
+<RMTEXT> ekavarṇo dvijaś cāsīt sarvakalpāgram agrataḥ ||<span class="vsnum">19.21</span>||</RMTEXT>
+<DNTEXT>एकवर्णो द्विजश्चासीत्सर्वकल्पाग्रमग्रतः ॥<span  class="vsnum">१९:२१</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.21cd')" id="app19.21cd">
+
+<RMAPP>        <VSNUMPADA>21c</VSNUMPADA> <LEM>ekavarṇo dvijaś cāsī°</LEM> <i>corr.</i>; e**≀rṇṇo≀***ś cāsī° <span class="ms">C<sub>94</sub></span>, 
+</RMAPP><DNAPP>        <VSNUMPADA>२१  c:</VSNUMPADA> <LEM>एकवर्णो द्विजश्चासी° </LEM> <i>corr.</i>; ए**≀र्ण्णो≀***श्चासी° <span class="ms">C<sub>94</sub></span> , 
+  </DNAPP>
+<RMAPP>                                                ekava≀rṇṇo≀ dvijaś cāsī° <span class="ms">K<sub>82</sub></span>, evaṁ varṇā dvijaś cāsī° <span class="ms">E</span><br/>
+</RMAPP><DNAPP>                                                एकव≀र्ण्णो≀ द्विजश्चासी° <span class="ms">K<sub>82</sub></span> , एवं वर्णा द्विजश्चासी° <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.22ab" class="sktvrs19.22" onclick="showApparatus('app19.22ab')" ondblclick="showNote('note19.22')" >
+<RMTEXT> sarvavedavido viprāḥ sarvayajñavidas tathā |</RMTEXT>
+<DNTEXT>सर्ववेदविदो विप्राः सर्वयज्ञविदस्तथा ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.22ab')" id="app19.22ab">
+
+<RMAPP>        <VSNUMPADA>22b</VSNUMPADA> <LEM>°yajña°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; °veda° <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२२  b:</VSNUMPADA> <LEM>°यज्ञ° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; °वेद° <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.22cd" class="sktvrs19.22" onclick="showApparatus('app19.22cd')" ondblclick="showNote('note19.22')" >
+<RMTEXT> teṣāṁ viprasahasrāṇāṁ yajñotsāhamano bhavet ||<span class="vsnum">19.22</span>||</RMTEXT>
+<DNTEXT>तेषां विप्रसहस्राणां यज्ञोत्साहमनो भवेत् ॥<span  class="vsnum">१९:२२</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.22cd')" id="app19.22cd">
+
+<RMAPP>        <VSNUMPADA>22c</VSNUMPADA> <LEM>teṣāṁ</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; tathā <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२२  c:</VSNUMPADA> <LEM>तेषां </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; तथा <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.23ab" class="sktvrs19.23" onclick="showApparatus('app19.23ab')" ondblclick="showNote('note19.23')" >
+<RMTEXT> vr̥ddhaviprasahasrāṇāṁ matam ājñāya brāhmaṇaiḥ |</RMTEXT>
+<DNTEXT>वृद्धविप्रसहस्राणां मतमाज्ञाय ब्राह्मणैः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.23ab')" id="app19.23ab">
+
+<RMAPP>        <VSNUMPADA>23b</VSNUMPADA> <LEM>°jñāya</LEM> <span class="ms">K<sub>82</sub></span>; °≀jñāya≀ <span class="ms">C<sub>94</sub></span>, °śritya <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२३  b:</VSNUMPADA> <LEM>°ज्ञाय </LEM> <span class="ms">K<sub>82</sub></span>; °≀ज्ञाय≀ <span class="ms">C<sub>94</sub></span> , °श्रित्य <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.23cd" class="sktvrs19.23" onclick="showApparatus('app19.23cd')" ondblclick="showNote('note19.23')" >
+<RMTEXT> kartuṁ karma samārabdhaṁ karma cāpi vibhajyate ||<span class="vsnum">19.23</span>||</RMTEXT>
+<DNTEXT>कर्तुं कर्म समारब्धं कर्म चापि विभज्यते ॥<span  class="vsnum">१९:२३</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.23cd')" id="app19.23cd">
+
+<RMAPP>        <VSNUMPADA>23c</VSNUMPADA> <LEM>kartuṁ</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; kartu <span class="ms">K<sub>82</sub></span> •<br>
+</RMAPP><DNAPP>        <VSNUMPADA>२३  c:</VSNUMPADA> <LEM>कर्तुं </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; कर्तु <span class="ms">K<sub>82</sub></span> •<br>
+  </DNAPP>
+<RMAPP>                 <LEM>samārabdhaṁ</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; samārabdha <span class="ms">E</span><br/>
+</RMAPP><DNAPP>                 <LEM>समारब्धं </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; समारब्ध <span class="ms">E</span><br/>
+  </DNAPP>
+<RMAPP>        <VSNUMPADA>23d</VSNUMPADA> <LEM>karma cāpi</LEM> <span class="ms">C<sub>94</sub></span>; karmaṁ cāpi <span class="ms">K<sub>82</sub></span>, karmaś cāpi <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२३  d:</VSNUMPADA> <LEM>कर्म चापि </LEM> <span class="ms">C<sub>94</sub></span>; कर्मं चापि <span class="ms">K<sub>82</sub></span> , कर्मश्चापि <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.24ab" class="sktvrs19.24" onclick="showApparatus('app19.24ab')" ondblclick="showNote('note19.24')" >
+<RMTEXT> r̥tvijatve sthitāḥ kecit kecit saṁrakṣaṇe sthitāḥ |</RMTEXT>
+<DNTEXT>ऋत्विजत्वे स्थिताः केचित्केचित्संरक्षणे स्थिताः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.24ab')" id="app19.24ab">
+
+<RMAPP>        <VSNUMPADA>24b</VSNUMPADA> <LEM>°rakṣaṇe sthitāḥ</LEM> <span class="ms">K<sub>82</sub></span><span class="ms">E</span>; °rakṣa××× <span class="ms">C<sub>94</sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२४  b:</VSNUMPADA> <LEM>°रक्षणे स्थिताः </LEM> <span class="ms">K<sub>82</sub></span><span class="ms">E</span>; °रक्ष××× <span class="ms">C<sub>94</sub></span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.24cd" class="sktvrs19.24" onclick="showApparatus('app19.24cd')" ondblclick="showNote('note19.24')" >
+<RMTEXT> arthopārjanayuktānye anye śilpe niyojitāḥ ||<span class="vsnum">19.24</span>||</RMTEXT>
+<DNTEXT>अर्थोपार्जनयुक्तान्ये अन्ये शिल्पे नियोजिताः ॥<span  class="vsnum">१९:२४</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.24cd')" id="app19.24cd">
+
+<RMAPP>        <VSNUMPADA>24c</VSNUMPADA> <LEM>°yuktānye</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; °yuktātme <span class="ms">K<sub>82</sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२४  c:</VSNUMPADA> <LEM>°युक्तान्ये </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; °युक्तात्मे <span class="ms">K<sub>82</sub></span><br/>
+  </DNAPP>
+<RMAPP>        <VSNUMPADA>24d</VSNUMPADA> <LEM>anye</LEM> <span class="ms">C<sub>94<corr>pc</corr></sub></span><span class="ms">K<sub>82</sub></span><span class="ms">E</span>; <i>omitted in</i> <span class="ms">C<sub>94<corr>ac</corr></sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२४  d:</VSNUMPADA> <LEM>अन्ये </LEM> <span class="ms">C<sub>94<corr>pc</corr></sub></span><span class="ms">K<sub>82</sub></span><span class="ms">E</span>; <i>omitted in</i> <span class="ms">C<sub>94<corr>ac</corr></sub></span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.25ab" class="sktvrs19.25" onclick="showApparatus('app19.25ab')" ondblclick="showNote('note19.25')" >
+<RMTEXT> evaṁ yajñavidhānena kartum arebhire purā |</RMTEXT>
+<DNTEXT>एवं यज्ञविधानेन कर्तुमरेभिरे पुरा ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.25ab')" id="app19.25ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.25cd" class="sktvrs19.25" onclick="showApparatus('app19.25cd')" ondblclick="showNote('note19.25')" >
+<RMTEXT> yathoddiṣṭena karmeṇa yajñotsāham avartata ||<span class="vsnum">19.25</span>||</RMTEXT>
+<DNTEXT>यथोद्दिष्टेन कर्मेण यज्ञोत्साहमवर्तत ॥<span  class="vsnum">१९:२५</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.25cd')" id="app19.25cd">
+
+<RMAPP>        <VSNUMPADA>25c</VSNUMPADA> <LEM>yathoddi°</LEM> <span class="ms">E</span>; yathodi° <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२५  c:</VSNUMPADA> <LEM>यथोद्दि° </LEM> <span class="ms">E</span>; यथोदि° <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.26ab" class="sktvrs19.26" onclick="showApparatus('app19.26ab')" ondblclick="showNote('note19.26')" >
+<RMTEXT> āgatā r̥ṣayaḥ sarve devatāḥ pitaras tathā |</RMTEXT>
+<DNTEXT>आगता ऋषयः सर्वे देवताः पितरस्तथा ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.26ab')" id="app19.26ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.26cd" class="sktvrs19.26" onclick="showApparatus('app19.26cd')" ondblclick="showNote('note19.26')" >
+<RMTEXT> anyonyam abruvan tatra devarṣipitr̥devatāḥ ||<span class="vsnum">19.26</span>||</RMTEXT>
+<DNTEXT>अन्योन्यमब्रुवन्तत्र देवर्षिपितृदेवताः ॥<span  class="vsnum">१९:२६</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.26cd')" id="app19.26cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.27ab" class="sktvrs19.27" onclick="showApparatus('app19.27ab')" ondblclick="showNote('note19.27')" >
+<RMTEXT> yajñārtham asr̥jad varṇaṁ vidhinā kratuhetavaḥ |</RMTEXT>
+<DNTEXT>यज्ञार्थमसृजद्वर्णं विधिना क्रतुहेतवः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.27ab')" id="app19.27ab">
+
+<RMAPP>        <VSNUMPADA>27a</VSNUMPADA> <LEM>°sr̥jad varṇaṁ°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; °sr̥dvaṇṇanvi° <span class="ms">K<sub>82</sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२७  a:</VSNUMPADA> <LEM>°सृजद्वर्णं° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; °सृद्वण्णन्वि° <span class="ms">K<sub>82</sub></span><br/>
+  </DNAPP>
+<RMAPP>        <VSNUMPADA>27b</VSNUMPADA> <LEM>kratuhetavaḥ</LEM> <span class="ms">K<sub>82</sub></span>; ≀kratu≀×tavaḥ <span class="ms">C<sub>94</sub></span>, pātuhetavaḥ <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२७  b:</VSNUMPADA> <LEM>क्रतुहेतवः </LEM> <span class="ms">K<sub>82</sub></span>; ≀क्रतु≀×तवः <span class="ms">C<sub>94</sub></span> , पातुहेतवः <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.27cd" class="sktvrs19.27" onclick="showApparatus('app19.27cd')" ondblclick="showNote('note19.27')" >
+<RMTEXT> evam eva pravartantu bhavadbhir dvijasattamāḥ ||<span class="vsnum">19.27</span>||</RMTEXT>
+<DNTEXT>एवमेव प्रवर्तन्तु भवद्भिर्द्विजसत्तमाः ॥<span  class="vsnum">१९:२७</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.27cd')" id="app19.27cd">
+
+<RMAPP>        <VSNUMPADA>27d</VSNUMPADA> <LEM>bhavadbhir dvi°</LEM> <span class="ms">C<sub>94<corr>pc</corr></sub></span>; bhagavadbhir dvi° <span class="ms">C<sub>94<corr>ac</corr></sub></span>, bhavadbhi dvi° <span class="ms">K<sub>82</sub></span>,
+</RMAPP><DNAPP>        <VSNUMPADA>२७  d:</VSNUMPADA> <LEM>भवद्भिर्द्वि° </LEM> <span class="ms">C<sub>94<corr>pc</corr></sub></span>; भगवद्भिर्द्वि° <span class="ms">C<sub>94<corr>ac</corr></sub></span> , भवद्भि द्वि° <span class="ms">K<sub>82</sub></span> ,
+  </DNAPP>
+<RMAPP>                                                                                                bhavatidvi° <span class="ms">E</span><br/>
+</RMAPP><DNAPP>                                                                                                भवतिद्वि° <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.28ab" class="sktvrs19.28" onclick="showApparatus('app19.28ab')" ondblclick="showNote('note19.28')" >
+<RMTEXT> ijyādhyayanasampannā brāhmaṇā ye 'tra kalpitāḥ |</RMTEXT>
+<DNTEXT>इज्याध्ययनसम्पन्ना ब्राह्मणा ये ऽत्र कल्पिताः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.28ab')" id="app19.28ab">
+
+<RMAPP>        <VSNUMPADA>28b</VSNUMPADA> <LEM>ye 'tra</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; yatra <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२८  b:</VSNUMPADA> <LEM>ये ऽत्र </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; यत्र <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.28cd" class="sktvrs19.28" onclick="showApparatus('app19.28cd')" ondblclick="showNote('note19.28')" >
+<RMTEXT> suviprā vipratāṁ yāntu ṣaḍkarmaniratāḥ sadā ||<span class="vsnum">19.28</span>||</RMTEXT>
+<DNTEXT>सुविप्रा विप्रतां यान्तु षड्कर्मनिरताः सदा ॥<span  class="vsnum">१९:२८</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.28cd')" id="app19.28cd">
+
+<RMAPP>        <VSNUMPADA>28d</VSNUMPADA> <LEM>ṣaḍkarma°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; ṣaḍkarmā° <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२८  d:</VSNUMPADA> <LEM>षड्कर्म° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; षड्कर्मा° <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.29ab" class="sktvrs19.29" onclick="showApparatus('app19.29ab')" ondblclick="showNote('note19.29')" >
+<RMTEXT> rakṣaṇārthaṁ tu ye viprāḥ kalpitāḥ śastrapāṇayaḥ |</RMTEXT>
+<DNTEXT>रक्षणार्थं तु ये विप्राः कल्पिताः शस्त्रपाणयः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.29ab')" id="app19.29ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.29cd" class="sktvrs19.29" onclick="showApparatus('app19.29cd')" ondblclick="showNote('note19.29')" >
+<RMTEXT> kr̥tatrāṇāya viprāṇāṁ nityaṁ kṣatravratodbhavāḥ ||<span class="vsnum">19.29</span>||</RMTEXT>
+<DNTEXT>कृतत्राणाय विप्राणां नित्यं क्षत्रव्रतोद्भवाः ॥<span  class="vsnum">१९:२९</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.29cd')" id="app19.29cd">
+
+<RMAPP>        <VSNUMPADA>29d</VSNUMPADA> <LEM>nityaṁ kṣatra°</LEM> <span class="ms">K<sub>82</sub></span>; nityakṣatra° <span class="ms">C<sub>94</sub></span>, nityaṁ kṣātra° <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२९  d:</VSNUMPADA> <LEM>नित्यं क्षत्र° </LEM> <span class="ms">K<sub>82</sub></span>; नित्यक्षत्र° <span class="ms">C<sub>94</sub></span> , नित्यं क्षात्र° <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.30ab" class="sktvrs19.30" onclick="showApparatus('app19.30ab')" ondblclick="showNote('note19.30')" >
+<RMTEXT> arthopārjanam uddiśya kalpitā ye dvijātayaḥ |</RMTEXT>
+<DNTEXT>अर्थोपार्जनमुद्दिश्य कल्पिता ये द्विजातयः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.30ab')" id="app19.30ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.30cd" class="sktvrs19.30" onclick="showApparatus('app19.30cd')" ondblclick="showNote('note19.30')" >
+<RMTEXT> te tu vaiśyatvam āyāntu vārttopāyaratodbhavāḥ ||<span class="vsnum">19.30</span>||</RMTEXT>
+<DNTEXT>ते तु वैश्यत्वमायान्तु वार्त्तोपायरतोद्भवाः ॥<span  class="vsnum">१९:३०</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.30cd')" id="app19.30cd">
+
+<RMAPP>        <VSNUMPADA>30d</VSNUMPADA> <LEM>vārttopāyarato°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; vārtto āpaṇatodbhavāḥ <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३०  d:</VSNUMPADA> <LEM>वार्त्तोपायरतो° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; वार्त्तो आपणतोद्भवाः <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.31ab" class="sktvrs19.31" onclick="showApparatus('app19.31ab')" ondblclick="showNote('note19.31')" >
+<RMTEXT> vadhabandhanakarmasu śilpasthānavidheṣu ca |</RMTEXT>
+<DNTEXT>वधबन्धनकर्मसु शिल्पस्थानविधेषु च ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.31ab')" id="app19.31ab">
+
+<RMAPP>        <VSNUMPADA>31a</VSNUMPADA> <LEM>vadhabandhanakarmasu</LEM> <span class="ms">C<sub>94</sub></span>; vadhavandhanakarmeṣu <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३१  a:</VSNUMPADA> <LEM>वधबन्धनकर्मसु </LEM> <span class="ms">C<sub>94</sub></span>; वधवन्धनकर्मेषु <span class="ms">E</span><br/>
+  </DNAPP>
+<RMAPP>        <VSNUMPADA>31b</VSNUMPADA> <LEM>°vidheṣu</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; °vadheṣu <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३१  b:</VSNUMPADA> <LEM>°विधेषु </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; °वधेषु <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.31cd" class="sktvrs19.31" onclick="showApparatus('app19.31cd')" ondblclick="showNote('note19.31')" >
+<RMTEXT> kalpitā ye dvijātīnāṁ sarve śūdrā bhavantu te ||<span class="vsnum">19.31</span>||</RMTEXT>
+<DNTEXT>कल्पिता ये द्विजातीनां सर्वे शूद्रा भवन्तु ते ॥<span  class="vsnum">१९:३१</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.31cd')" id="app19.31cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.32ab" class="sktvrs19.32" onclick="showApparatus('app19.32ab')" ondblclick="showNote('note19.32')" >
+<RMTEXT> prājāpatyaṁ brāhmaṇānām ijyādhyayanatatparāt |</RMTEXT>
+<DNTEXT>प्राजापत्यं ब्राह्मणानामिज्याध्ययनतत्परात् ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.32ab')" id="app19.32ab">
+
+<RMAPP>        <VSNUMPADA>32b</VSNUMPADA> <LEM>°m ijyādhyayanatatparāt</LEM> <span class="ms">C<sub>94</sub></span>; °m ījyādhyayanatatparāṁ <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३२  b:</VSNUMPADA> <LEM>°मिज्याध्ययनतत्परात् </LEM> <span class="ms">C<sub>94</sub></span>; °मीज्याध्ययनतत्परां <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.32cd" class="sktvrs19.32" onclick="showApparatus('app19.32cd')" ondblclick="showNote('note19.32')" >
+<RMTEXT> sthānam aindraṁ kṣatriyāṇāṁ prajāpālanatatparāt ||<span class="vsnum">19.32</span>||</RMTEXT>
+<DNTEXT>स्थानमैन्द्रं क्षत्रियाणां प्रजापालनतत्परात् ॥<span  class="vsnum">१९:३२</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.32cd')" id="app19.32cd">
+
+<RMAPP>        <VSNUMPADA>32d</VSNUMPADA> <LEM>°tparāt</LEM> <span class="ms">K<sub>82</sub></span>; °≀tparāt≀ <span class="ms">C<sub>94</sub></span>, °tparaṁ <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३२  d:</VSNUMPADA> <LEM>°त्परात् </LEM> <span class="ms">K<sub>82</sub></span>; °≀त्परात≀ <span class="ms">C<sub>94</sub></span> , °त्परं <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.33ab" class="sktvrs19.33" onclick="showApparatus('app19.33ab')" ondblclick="showNote('note19.33')" >
+<RMTEXT> vaiśyānāṁ vāsavasthānaṁ vāṇijyakr̥ṣijīvinām |</RMTEXT>
+<DNTEXT>वैश्यानां वासवस्थानं वाणिज्यकृषिजीविनाम् ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.33ab')" id="app19.33ab">
+
+<RMAPP>        <VSNUMPADA>33b</VSNUMPADA> <LEM>vāṇijya°</LEM> <span class="ms">C<sub>94</sub></span>; vāṇijyaṁ <span class="ms">K<sub>82</sub></span><span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३३  b:</VSNUMPADA> <LEM>वाणिज्य° </LEM> <span class="ms">C<sub>94</sub></span>; वाणिज्यं <span class="ms">K<sub>82</sub></span><span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.33cd" class="sktvrs19.33" onclick="showApparatus('app19.33cd')" ondblclick="showNote('note19.33')" >
+<RMTEXT> śūdrāṇāṁ marutaḥ sthānaṁ śuśrūṣāniratātmanām ||<span class="vsnum">19.33</span>||</RMTEXT>
+<DNTEXT>शूद्राणां मरुतः स्थानं शुश्रूषानिरतात्मनाम् ॥<span  class="vsnum">१९:३३</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.33cd')" id="app19.33cd">
+
+<RMAPP>        <VSNUMPADA>33cd</VSNUMPADA> <LEM>śūdrāṇāṁ marutaḥ sthānaṁ śuśrūṣāniratātmanām</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; <i>omitted in</i> <span class="ms">K<sub>82<corr>ac</corr></sub></span>,
+</RMAPP><DNAPP>        <VSNUMPADA>३३  cd:</VSNUMPADA> <LEM>शूद्राणां मरुतः स्थानं शुश्रूषानिरतात्मनाम् </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; <i>omitted in</i> <span class="ms">K<sub>82<corr>ac</corr></sub></span> ,
+  </DNAPP>
+<RMAPP>                                śūdrāṇāṁ marutasthānaṁ śuśrūṣāniratātmanām <span class="ms">K<sub>82<corr>pc</corr></sub></span><br/>
+</RMAPP><DNAPP>                                शूद्राणां मरुतस्थानं शुश्रूषानिरतात्मनाम् <span class="ms">K<sub>82<corr>pc</corr></sub></span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.34ab" class="sktvrs19.34" onclick="showApparatus('app19.34ab')" ondblclick="showNote('note19.34')" >
+<RMTEXT> maharṣipitr̥devānāṁ matam ājñāya niścitaḥ |</RMTEXT>
+<DNTEXT>महर्षिपितृदेवानां मतमाज्ञाय निश्चितः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.34ab')" id="app19.34ab">
+
+<RMAPP>        <VSNUMPADA>34b</VSNUMPADA> <LEM>niścitaḥ</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; niścitāḥ <span class="ms">K<sub>82</sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३४  b:</VSNUMPADA> <LEM>निश्चितः </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; निश्चिताः <span class="ms">K<sub>82</sub></span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.34cd" class="sktvrs19.34" onclick="showApparatus('app19.34cd')" ondblclick="showNote('note19.34')" >
+<RMTEXT> eṣa saṁkalpito brahmā padmayoniḥ pitāmahaḥ ||<span class="vsnum">19.34</span>||</RMTEXT>
+<DNTEXT>एष संकल्पितो ब्रह्मा पद्मयोनिः पितामहः ॥<span  class="vsnum">१९:३४</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.34cd')" id="app19.34cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.35ab" class="sktvrs19.35" onclick="showApparatus('app19.35ab')" ondblclick="showNote('note19.35')" >
+<RMTEXT> saṁkalpaprabhavāḥ sarve devadānavamānavāḥ |</RMTEXT>
+<DNTEXT>संकल्पप्रभवाः सर्वे देवदानवमानवाः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.35ab')" id="app19.35ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.35cd" class="sktvrs19.35" onclick="showApparatus('app19.35cd')" ondblclick="showNote('note19.35')" >
+<RMTEXT> paśupakṣimr̥gā mukhyā yāvanti jagasambhavāḥ ||<span class="vsnum">19.35</span>||</RMTEXT>
+<DNTEXT>पशुपक्षिमृगा मुख्या यावन्ति जगसम्भवाः ॥<span  class="vsnum">१९:३५</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.35cd')" id="app19.35cd">
+
+<RMAPP>        <VSNUMPADA>35c</VSNUMPADA> <LEM>°mr̥gā</LEM> <span class="ms">K<sub>82</sub></span><span class="ms">E</span>; *gā <span class="ms">C<sub>94</sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३५  c:</VSNUMPADA> <LEM>°मृगा </LEM> <span class="ms">K<sub>82</sub></span><span class="ms">E</span>; *गा <span class="ms">C<sub>94</sub></span><br/>
+  </DNAPP>
+<RMAPP>        <VSNUMPADA>35d</VSNUMPADA> <LEM>jaga°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; jaṁgama° <span class="ms">K<sub>82</sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३५  d:</VSNUMPADA> <LEM>जग° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">E</span>; जंगम° <span class="ms">K<sub>82</sub></span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.36ab" class="sktvrs19.36" onclick="showApparatus('app19.36ab')" ondblclick="showNote('note19.36')" >
+<RMTEXT> bhūtasaṁkalpakaṁ nāma kalpam āsīd dvijottama |</RMTEXT>
+<DNTEXT>भूतसंकल्पकं नाम कल्पमासीद्द्विजोत्तम ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.36ab')" id="app19.36ab">
+
+<RMAPP>        <VSNUMPADA>36a</VSNUMPADA> <LEM>bhūtasaṁkalpakaṁ nāma</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; bhūtasaṁkalpakartā ya <span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३६  a:</VSNUMPADA> <LEM>भूतसंकल्पकं नाम </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span>; भूतसंकल्पकर्ता य <span class="ms">E</span><br/>
+  </DNAPP>
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.36cd" class="sktvrs19.36" onclick="showApparatus('app19.36cd')" ondblclick="showNote('note19.36')" >
+<RMTEXT> kīrtitāni samāsena kim anyac chrotum icchasi ||<span class="vsnum">19.36</span>||</RMTEXT>
+<DNTEXT>कीर्तितानि समासेन किमन्यच्छ्रोतुमिच्छसि ॥<span  class="vsnum">१९:३६</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.36cd')" id="app19.36cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.37uvaca" class="sktvrs19.37" onclick="showApparatus('app19.37uvaca')" ondblclick="showNote('note19.37')" >
+<RMTEXT><uvaca> vigatarāga uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>विगतराग उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.37uvaca')" id="app19.37uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.37ab" class="sktvrs19.37" onclick="showApparatus('app19.37ab')" ondblclick="showNote('note19.37')" >
+<RMTEXT> kiṁ tapaḥ sarvavarṇānāṁ vr̥ttir vāpi tapodhana |</RMTEXT>
+<DNTEXT>किं तपः सर्ववर्णानां वृत्तिर्वापि तपोधन ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.37ab')" id="app19.37ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.37cd" class="sktvrs19.37" onclick="showApparatus('app19.37cd')" ondblclick="showNote('note19.37')" >
+<RMTEXT> yajñāś caiva pr̥thaktvena śrotum icchāmi tattvataḥ ||<span class="vsnum">19.37</span>||</RMTEXT>
+<DNTEXT>यज्ञाश्चैव पृथक्त्वेन श्रोतुमिच्छामि तत्त्वतः ॥<span  class="vsnum">१९:३७</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.37cd')" id="app19.37cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.38uvaca" class="sktvrs19.38" onclick="showApparatus('app19.38uvaca')" ondblclick="showNote('note19.38')" >
+<RMTEXT><uvaca> anarthayajña uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>अनर्थयज्ञ उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.38uvaca')" id="app19.38uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.38ab" class="sktvrs19.38" onclick="showApparatus('app19.38ab')" ondblclick="showNote('note19.38')" >
+<RMTEXT> brāhmaṇasya tapo yajñāḥ - tapaḥ kṣātrasya rakṣaṇam |</RMTEXT>
+<DNTEXT>ब्राह्मणस्य तपो यज्ञाः - तपः क्षात्रस्य रक्षणम् ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.38ab')" id="app19.38ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.38cd" class="sktvrs19.38" onclick="showApparatus('app19.38cd')" ondblclick="showNote('note19.38')" >
+<RMTEXT> vaiśyaś ca tapa vāṇijya tapaḥ śūdrasya sevanam ||<span class="vsnum">19.38</span>||</RMTEXT>
+<DNTEXT>वैश्यश्च तप वाणिज्य तपः शूद्रस्य सेवनम् ॥<span  class="vsnum">१९:३८</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.38cd')" id="app19.38cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.39ab" class="sktvrs19.39" onclick="showApparatus('app19.39ab')" ondblclick="showNote('note19.39')" >
+<RMTEXT> pratigrahadhano vipraḥ kṣatriyasya dhanur dhanam |</RMTEXT>
+<DNTEXT>प्रतिग्रहधनो विप्रः क्षत्रियस्य धनुर्धनम् ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.39ab')" id="app19.39ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.39cd" class="sktvrs19.39" onclick="showApparatus('app19.39cd')" ondblclick="showNote('note19.39')" >
+<RMTEXT> kr̥ṣir dhanaṁ tathā vaiśyaḥ śūdraḥ śuśrūṣaṇaṁ dhanam ||<span class="vsnum">19.39</span>||</RMTEXT>
+<DNTEXT>कृषिर्धनं तथा वैश्यः शूद्रः शुश्रूषणं धनम् ॥<span  class="vsnum">१९:३९</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.39cd')" id="app19.39cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.40ab" class="sktvrs19.40" onclick="showApparatus('app19.40ab')" ondblclick="showNote('note19.40')" >
+<RMTEXT> ārambhayajñaḥ kṣatrasya havir yajño viśas tathā |</RMTEXT>
+<DNTEXT>आरम्भयज्ञः क्षत्रस्य हविर्यज्ञो विशस्तथा ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.40ab')" id="app19.40ab">
+
+------------------
+        <PARAL>40ab <SKT> ≈ MBh 12224061ab and 12230012ab </SKT> </PARAL>
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.40cd" class="sktvrs19.40" onclick="showApparatus('app19.40cd')" ondblclick="showNote('note19.40')" >
+<RMTEXT> śūdraḥ paricaro yajño japayajño dvijātayaḥ ||<span class="vsnum">19.40</span>||</RMTEXT>
+<DNTEXT>शूद्रः परिचरो यज्ञो जपयज्ञो द्विजातयः ॥<span  class="vsnum">१९:४०</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.40cd')" id="app19.40cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.41ab" class="sktvrs19.41" onclick="showApparatus('app19.41ab')" ondblclick="showNote('note19.41')" >
+<RMTEXT> satya tīrtha dvijātīnāṁ raṇa tīrthaṁ tu kṣatriyāḥ |</RMTEXT>
+<DNTEXT>सत्य तीर्थ द्विजातीनां रण तीर्थं तु क्षत्रियाः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.41ab')" id="app19.41ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.41cd" class="sktvrs19.41" onclick="showApparatus('app19.41cd')" ondblclick="showNote('note19.41')" >
+<RMTEXT> āryā tīrthaṁ tu vaiśānāṁ ! śūdratīrthaṁ tu vai dvijāḥ ||<span class="vsnum">19.41</span>||</RMTEXT>
+<DNTEXT>आर्या तीर्थं तु वैशानां ! शूद्रतीर्थं तु वै द्विजाः ॥<span  class="vsnum">१९:४१</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.41cd')" id="app19.41cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.42ab" class="sktvrs19.42" onclick="showApparatus('app19.42ab')" ondblclick="showNote('note19.42')" >
+<RMTEXT> nāsti vidyāsamo mitro nāsti dānasamaḥ sakhā |</RMTEXT>
+<DNTEXT>नास्ति विद्यासमो मित्रो नास्ति दानसमः सखा ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.42ab')" id="app19.42ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.42cd" class="sktvrs19.42" onclick="showApparatus('app19.42cd')" ondblclick="showNote('note19.42')" >
+<RMTEXT> nāsti jñānasamo bandur nāsti yajño japaḥ samaḥ ||<span class="vsnum">19.42</span>||</RMTEXT>
+<DNTEXT>नास्ति ज्ञानसमो बन्दुर्नास्ति यज्ञो जपः समः ॥<span  class="vsnum">१९:४२</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.42cd')" id="app19.42cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.43ab" class="sktvrs19.43" onclick="showApparatus('app19.43ab')" ondblclick="showNote('note19.43')" >
+<RMTEXT> dharmahīno mr̥tas tulyo devatulyo jitendriyaḥ |</RMTEXT>
+<DNTEXT>धर्महीनो मृतस्तुल्यो देवतुल्यो जितेन्द्रियः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.43ab')" id="app19.43ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.43cd" class="sktvrs19.43" onclick="showApparatus('app19.43cd')" ondblclick="showNote('note19.43')" >
+<RMTEXT> yajñatulyo 'bhayaṁ dātā śivatulyao manonmanaḥ ||<span class="vsnum">19.43</span>||</RMTEXT>
+<DNTEXT>यज्ञतुल्यो ऽभयं दाता शिवतुल्यओ मनोन्मनः ॥<span  class="vsnum">१९:४३</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.43cd')" id="app19.43cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.44uvaca" class="sktvrs19.44" onclick="showApparatus('app19.44uvaca')" ondblclick="showNote('note19.44')" >
+<RMTEXT><uvaca> vigatarāga uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>विगतराग उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.44uvaca')" id="app19.44uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.44ab" class="sktvrs19.44" onclick="showApparatus('app19.44ab')" ondblclick="showNote('note19.44')" >
+<RMTEXT> dāna yajñas tapas tīrthaṁ saṁnyāsaṁ yoga eva ca |</RMTEXT>
+<DNTEXT>दान यज्ञस्तपस्तीर्थं संन्यासं योग एव च ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.44ab')" id="app19.44ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.44cd" class="sktvrs19.44" onclick="showApparatus('app19.44cd')" ondblclick="showNote('note19.44')" >
+<RMTEXT> eteṣu katamaḥ śreṣṭhaḥ śrotum icchāmi kīrtaya ||<span class="vsnum">19.44</span>||</RMTEXT>
+<DNTEXT>एतेषु कतमः श्रेष्ठः श्रोतुमिच्छामि कीर्तय ॥<span  class="vsnum">१९:४४</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.44cd')" id="app19.44cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.45uvaca" class="sktvrs19.45" onclick="showApparatus('app19.45uvaca')" ondblclick="showNote('note19.45')" >
+<RMTEXT><uvaca> anarthayajña uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>अनर्थयज्ञ उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.45uvaca')" id="app19.45uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.45ab" class="sktvrs19.45" onclick="showApparatus('app19.45ab')" ondblclick="showNote('note19.45')" >
+<RMTEXT> dānadharmasahasrebhyaḥ yajñayājī viśiṣyate |</RMTEXT>
+<DNTEXT>दानधर्मसहस्रेभ्यः यज्ञयाजी विशिष्यते ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.45ab')" id="app19.45ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.45cd" class="sktvrs19.45" onclick="showApparatus('app19.45cd')" ondblclick="showNote('note19.45')" >
+<RMTEXT> yajñayājīsahasrebhyas tīrthayātrī viśiṣyate ||<span class="vsnum">19.45</span>||</RMTEXT>
+<DNTEXT>यज्ञयाजीसहस्रेभ्यस्तीर्थयात्री विशिष्यते ॥<span  class="vsnum">१९:४५</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.45cd')" id="app19.45cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.46ab" class="sktvrs19.46" onclick="showApparatus('app19.46ab')" ondblclick="showNote('note19.46')" >
+<RMTEXT> tīrthayātrisahasrebhyas tapaniṣṭo viśiṣyate |</RMTEXT>
+<DNTEXT>तीर्थयात्रिसहस्रेभ्यस्तपनिष्टो विशिष्यते ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.46ab')" id="app19.46ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.46cd" class="sktvrs19.46" onclick="showApparatus('app19.46cd')" ondblclick="showNote('note19.46')" >
+<RMTEXT> tapaniṣṭhasahasrebhyaḥ śreṣṭhaḥ saṁnyāsikaḥ smr̥taḥ ||<span class="vsnum">19.46</span>||</RMTEXT>
+<DNTEXT>तपनिष्ठसहस्रेभ्यः श्रेष्ठः संन्यासिकः स्मृतः ॥<span  class="vsnum">१९:४६</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.46cd')" id="app19.46cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.47ab" class="sktvrs19.47" onclick="showApparatus('app19.47ab')" ondblclick="showNote('note19.47')" >
+<RMTEXT> saṁnyāsīnāṁ sahasrebhyaḥ śreṣṭho yac ya jitendriyaḥ |</RMTEXT>
+<DNTEXT>संन्यासीनां सहस्रेभ्यः श्रेष्ठो यच्य जितेन्द्रियः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.47ab')" id="app19.47ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.47cd" class="sktvrs19.47" onclick="showApparatus('app19.47cd')" ondblclick="showNote('note19.47')" >
+<RMTEXT> jitendriyasahasrebhyaḥ yogayukto viśiṣyate ||<span class="vsnum">19.47</span>||</RMTEXT>
+<DNTEXT>जितेन्द्रियसहस्रेभ्यः योगयुक्तो विशिष्यते ॥<span  class="vsnum">१९:४७</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.47cd')" id="app19.47cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.48ab" class="sktvrs19.48" onclick="showApparatus('app19.48ab')" ondblclick="showNote('note19.48')" >
+<RMTEXT> yogayuktasahasrebhyaḥ śreṣṭho līnamanaḥ smr̥taḥ |</RMTEXT>
+<DNTEXT>योगयुक्तसहस्रेभ्यः श्रेष्ठो लीनमनः स्मृतः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.48ab')" id="app19.48ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.48cd" class="sktvrs19.48" onclick="showApparatus('app19.48cd')" ondblclick="showNote('note19.48')" >
+<RMTEXT> tasmāt sarvaprayatnena ādau mana viśodhayet ||<span class="vsnum">19.48</span>||</RMTEXT>
+<DNTEXT>तस्मात्सर्वप्रयत्नेन आदौ मन विशोधयेत् ॥<span  class="vsnum">१९:४८</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.48cd')" id="app19.48cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.49ab" class="sktvrs19.49" onclick="showApparatus('app19.49ab')" ondblclick="showNote('note19.49')" >
+<RMTEXT> nigr̥hītendriyagrāmaḥ svargamokṣau tu sādhanam |</RMTEXT>
+<DNTEXT>निगृहीतेन्द्रियग्रामः स्वर्गमोक्षौ तु साधनम् ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.49ab')" id="app19.49ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.49cd" class="sktvrs19.49" onclick="showApparatus('app19.49cd')" ondblclick="showNote('note19.49')" >
+<RMTEXT> viśiṣṭhe tv indriyagrāme tiryannarakasādhanam ||<span class="vsnum">19.49</span>||</RMTEXT>
+<DNTEXT>विशिष्ठे त्विन्द्रियग्रामे तिर्यन्नरकसाधनम् ॥<span  class="vsnum">१९:४९</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.49cd')" id="app19.49cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.50uvaca" class="sktvrs19.50" onclick="showApparatus('app19.50uvaca')" ondblclick="showNote('note19.50')" >
+<RMTEXT><uvaca> vigatarāga uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>विगतराग उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.50uvaca')" id="app19.50uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.50ab" class="sktvrs19.50" onclick="showApparatus('app19.50ab')" ondblclick="showNote('note19.50')" >
+<RMTEXT> carācarāṇāṁ bhūtānāṁ katamaḥ śreṣṭha ucyate |</RMTEXT>
+<DNTEXT>चराचराणां भूतानां कतमः श्रेष्ठ उच्यते ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.50ab')" id="app19.50ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.50cd" class="sktvrs19.50" onclick="showApparatus('app19.50cd')" ondblclick="showNote('note19.50')" >
+<RMTEXT> kathayasva mamādya tvaṁ chettum arhasi saṁśayam ||<span class="vsnum">19.50</span>||</RMTEXT>
+<DNTEXT>कथयस्व ममाद्य त्वं छेत्तुमर्हसि संशयम् ॥<span  class="vsnum">१९:५०</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.50cd')" id="app19.50cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.51uvaca" class="sktvrs19.51" onclick="showApparatus('app19.51uvaca')" ondblclick="showNote('note19.51')" >
+<RMTEXT><uvaca> anarthayajña uvāca | </uvaca></RMTEXT>
+<DNTEXT><uvaca>अनर्थयज्ञ उवाच ।   </uvaca> </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.51uvaca')" id="app19.51uvaca">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.51ab" class="sktvrs19.51" onclick="showApparatus('app19.51ab')" ondblclick="showNote('note19.51')" >
+<RMTEXT> carācarāṇāṁ bhūtānāṁ tatra śreṣṭho - carāḥ smr̥tāḥ |</RMTEXT>
+<DNTEXT>चराचराणां भूतानां तत्र श्रेष्ठो - चराः स्मृताः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.51ab')" id="app19.51ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.51cd" class="sktvrs19.51" onclick="showApparatus('app19.51cd')" ondblclick="showNote('note19.51')" >
+<RMTEXT> carāṇāṁ caiva sarveṣāṁ buddhimān śreṣṭha ucyate ||<span class="vsnum">19.51</span>||</RMTEXT>
+<DNTEXT>चराणां चैव सर्वेषां बुद्धिमान्श्रेष्ठ उच्यते ॥<span  class="vsnum">१९:५१</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.51cd')" id="app19.51cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.52ab" class="sktvrs19.52" onclick="showApparatus('app19.52ab')" ondblclick="showNote('note19.52')" >
+<RMTEXT> buddhimānṣu ! ca sarveṣu tataḥ śreṣṭha narāḥ smr̥tāḥ |</RMTEXT>
+<DNTEXT>बुद्धिमान्षु ! च सर्वेषु ततः श्रेष्ठ नराः स्मृताः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.52ab')" id="app19.52ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.52cd" class="sktvrs19.52" onclick="showApparatus('app19.52cd')" ondblclick="showNote('note19.52')" >
+<RMTEXT> narāṇāṁ caiva sarveṣāṁ brāhmaṇaḥ śreṣṭha ucyate ||<span class="vsnum">19.52</span>||</RMTEXT>
+<DNTEXT>नराणां चैव सर्वेषां ब्राह्मणः श्रेष्ठ उच्यते ॥<span  class="vsnum">१९:५२</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.52cd')" id="app19.52cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.53ab" class="sktvrs19.53" onclick="showApparatus('app19.53ab')" ondblclick="showNote('note19.53')" >
+<RMTEXT> vidvarsv api ca sarveṣu kr̥tabuddhir viśiṣyate |</RMTEXT>
+<DNTEXT>विद्वर्स्वपि च सर्वेषु कृतबुद्धिर्विशिष्यते ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.53ab')" id="app19.53ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.53cd" class="sktvrs19.53" onclick="showApparatus('app19.53cd')" ondblclick="showNote('note19.53')" >
+<RMTEXT> kr̥tabuddhiṣu sarveṣu śreṣṭhaḥ kartā sa ucyate ||<span class="vsnum">19.53</span>||</RMTEXT>
+<DNTEXT>कृतबुद्धिषु सर्वेषु श्रेष्ठः कर्ता स उच्यते ॥<span  class="vsnum">१९:५३</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.53cd')" id="app19.53cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.54ab" class="sktvrs19.54" onclick="showApparatus('app19.54ab')" ondblclick="showNote('note19.54')" >
+<RMTEXT> kartr̥ṣv api ca sarveṣu brahmavedī viśiṣyate |</RMTEXT>
+<DNTEXT>कर्तृष्वपि च सर्वेषु ब्रह्मवेदी विशिष्यते ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.54ab')" id="app19.54ab">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.54cd" class="sktvrs19.54" onclick="showApparatus('app19.54cd')" ondblclick="showNote('note19.54')" >
+<RMTEXT> brahmavedi paraṁ ! vipraḥ nānyaṁ vedmi paraṁtapaḥ |</RMTEXT>
+<DNTEXT>ब्रह्मवेदि परं ! विप्रः नान्यं वेद्मि परंतपः ।   </DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.54cd')" id="app19.54cd">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.54ef" class="sktvrs19.54" onclick="showApparatus('app19.54ef')" ondblclick="showNote('note19.54')" >
+<RMTEXT> sa vipraḥ sa tapasvī ca sa yogī sa śivaḥ smr̥taḥ ||<span class="vsnum">19.54</span>||</RMTEXT>
+<DNTEXT>स विप्रः स तपस्वी च स योगी स शिवः स्मृतः ॥<span  class="vsnum">१९:५४</span>   </DNTEXT></TEXT>
+<spaceaftersloka/>
+
+<div class="wrap-content" onclick="hideFunction('app19.54ef')" id="app19.54ef">
+
+
+</div>
+</div>
+
+<div class="wrap-main">
+<TEXT id="19.54colophon" class="sktvrs19.54" onclick="showApparatus('app19.54colophon')" ondblclick="showNote('note19.54')" >
+<RMTEXT> 
+<colophon>|| iti vr̥ṣasārasaṁgrahe dānayajñaviśeṣo nāma unaviṁśatitamo 'dhyāyaḥ ||</colophon></RMTEXT>
+<DNTEXT> इति वृषसारसंग्रहे दानयज्ञविशेषो नाम उनविंशतितमो ऽध्यायः     ॥</DNTEXT></TEXT>
+
+
+<div class="wrap-content" onclick="hideFunction('app19.54colophon')" id="app19.54colophon">
+
+</div></div><br/><br/><br/><br/></div>
+
+<div class="translation" id="translation">
+             <br/>
+             <select id="trthemes" style="background-color:black">
+               <option value="default">--Choose Colour Theme--</option>
+               <option value="contrast">Contrasted</option>
+               <option value="light">Light</option>
+               <option value="gray">Gray</option>
+             </select>
+             <script>
+                $("#trthemes").change(function() {
+                    trtexts = document.getElementsByTagName("trnsl");
+                    if ($(this).val() === "contrast") { 
+                         $(".translation").css("background-color", "black");
+                         for (t = 0; t < trtexts.length; t++) { 
+                             trtexts[t].style.color =  "white";
+                             }
+                     }
+                    if ($(this).val() === "light") {
+                         $(".translation").css("background-color", "white");
+                         for (t = 0; t < trtexts.length; t++) {
+                            trtexts[t].style.color =  "black";
+                           } 
+                       }       
+                    if ($(this).val() === "gray") {
+                       $(".translation").css("background-color", "black");
+                       for (t = 0; t < trtexts.length; t++) { 
+                            trtexts[t].style.color =  "gray";
+                         } 
+                      }
+                    });
+             </script>
+            <br/><br/><br/><br/>
+            <h2>Translation</h2>
+            
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
+
+<div class="notes" id="notes">
+<h2>Notes</h2>
+
+
+
+<br/>
+<br/></div>
+
+<div class="msimage" id="mssimages">
+<h2>Sources</h2>
+
+    <script> function SetDataCa(){    var selectf = document.getElementById('folioCa');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformCa.action = folio;    myformCa.submit(); }  function SetDataCaoffline(){    var selectf = document.getElementById('folioCaoffline');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformCaoffline.action = folio;    myformCaoffline.submit(); }  function SetDataCb(){    var selectf = document.getElementById('folioCb');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformCb.action = folio;    myformCb.submit(); }  function SetDataCboffline(){    var selectf = document.getElementById('folioCboffline');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformCboffline.action = folio;    myformCboffline.submit(); }  function SetDataCc(){    var selectf = document.getElementById('folioCc');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformCc.action = folio;    myformCcoffline.submit(); }  function SetDataCcoffline(){    var selectf = document.getElementById('folioCcoffline');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformCcoffline.action = folio;    myformCcoffline.submit(); } function SetDataNa(){    var selectf = document.getElementById('folioNa');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformNa.action = folio;    myformNa.submit(); }  function SetDataNc(){    var selectf = document.getElementById('folioNc');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformNc.action = folio;    myformNc.submit(); }  function SetDataEd(){    var selectf = document.getElementById('folioEd');    var folio = selectf.options[selectf.selectedIndex].value;    document.myformEd.action = folio;    myformEd.submit(); } </script>      <!--  from above script    var selectm = document.getElementById('ms');    var ms = selectm.options[selectm.selectedIndex].value;     document.myform.action = " /home/csaba/indology/dharma_project/vrsa_edition/"+folio;  -->     <h4>The Cambridge MSS (online)</h4>  <!-- <ms>C<sub>9</sub></ms> <select name="category" id="ms">     <option value="">Chapter 1</option>     <option value="">Chapter 2</option> </select> -->  <!-- Form for MS Ca ONLINE--> <form method="get" name="myformCa" action=""  onsubmit="SetDataCa()" target="_blank">  <ms>C<sub>94</sub></ms>     <select name="Calist" id="folioCa">   <optgroup label="Chapter 1">     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/382">verses 1.1-15 (f. 193v)</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/383">verses 1.16-32c (f. 194r)</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/384">verses 1.32c-49b (f. 194v)</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/385">verses 1.49b-65c (f. 195r)</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/386">verses 1.65c-77 (f. 195v)</option> </optgroup>  <optgroup label="Chapter 2">     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/386">verses 2.1-3c (f. 195v)</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/387">verses 2.3d-20c (f. 196r)</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/388">verses 2.20c-37a (f. 196v)</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/389">verses 2.37a-40 (f. 197r)</option> </optgroup>  <optgroup label="Chapter 3">     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/389">verses 3.1-9d</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/390">verses 3.9d-24b (f. 197v)</option>     	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/391">verses 3.25c-41c (f. 198r)</option>    	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/392">verses 3.41c-42 (f. 198v)</option> </optgroup>  <optgroup label="Chapter 4">    	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/392">verses 4.1-14a (f. 198v)</option>    	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/393">verses 4.14a-28c (f. 199r)</option>    	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/394">verses 4.28c-40d (f. 199v)</option>    	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/395">verses 4.40d-57a (f. 200r)</option>    	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/396">verses 4.57a-70d (f. 200v)</option>    	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/397">verses 4.71-86a (f. 201r)</option>    	<option value="http://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/398">verses 4.86b-89 (f. 201v)</option> </optgroup>   </select>   <input type="submit" value="Show"> </form>    <!-- Form for MS Cb ONLINE-->  <form method="get" name="myformCb" action=""  onsubmit="SetDataCb()" target="_blank">  <ms>C<sub>45</sub></ms>     <select name="Cblist" id="folioCb">   <optgroup label="Chapter 1">     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/404">verses 1.1-9a (f. 201v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/405">verses 1.9a-29a (f. 202r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/406">verses 1.29a-47d (f. 202v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/407">verses 1.47d-66b (f. 203r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/408">verses 1.66c-77 (f. 203v)</option> </optgroup>  <optgroup label="Chapter 2">     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/408">verses 2.1-7b (f. 203v) </option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/409">verses 2.7b-27a (f. 204r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/410">verses 2.27a-40 (f. 204v)</option> </optgroup>  <optgroup label="Chapter 3">     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/410">verses 3.1-2b (f. 204v) </option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/411">verses 3.2b-22d (f. 205r) </option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/412">verses 3.22d-42d (f. 205v) </option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/413">verse 3.42d (f. 206r)  </option> </optgroup>  <optgroup label="Chapter 4">     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/413">verse 4.1-19b (f. 206r)  </option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/414">verse 4.19b-34b (f. 206v)  </option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/415">verse 4.35-53 (f. 207r)  </option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/416">verse 4.54-71d (f. 207v)  </option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/417">verse 4.71d-89 (f. 208r)  </option> </optgroup>   </select>   <input type="submit" value="Show"> </form>      <!-- Form for MS Cc ONLINE-->  <form method="get" name="myformCc" action=""  onsubmit="SetDataCc()" target="_blank">  <ms>C<sub>02</sub></ms>   <select name="Cclist" id="folioCc">      <optgroup label="Chapter 1">     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/181">verses 1.1-10b (f. 237r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/182">verses 1.10b-17b (f. 237v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/183">verses 1.17b-31b (f. 268r, new hand)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/184">verses 1.31b-44d (f. 268v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/185">verses 1.44d-59b (f. 269r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/186">verses 1.59b-72c (f. 269v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/187">verses 1.72c-77 (f. 270r)</option> </optgroup>  <optgroup label="Chapter 2">     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/187">verses 2.1-7b (f. 270r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/188">verses 2.7c-21c (f. 270v)</option>     <option>verses 2.21c-40 (f. 271): missing</option> </optgroup>  <optgroup label="Chapter 3">     <option value="">verses 3.1d-29d (f. 272): missing</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/189">verses 3.29d-42d (f. 273r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/190">verses 3.42d (f. 273v)</option> </optgroup>  <optgroup label="Chapter 4">     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/190">verses 4.1-13a (f. 273v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/191">verses 4.13b-25c (f. 274r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/192">verses 4.25c-34a (f. 274v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/193">verses 4.34-46d (f. 275r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/194">verses 4.46d-60d (f. 275v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/195">verses 4.60d-71d (f. 276r)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/196">verses 4.71d-84d (f. 276v)</option>     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/197">verses 4.84d-89 (f. 277r)</option> </optgroup>  <optgroup label="Chapter 5">     <option value="https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/197">verses 5.1-CHECK (f. 277r)</option> </optgroup>    </select>     <input type="submit" value="Show"> </form>     <!-- <h4>The Cambridge MSS (offline)</h4> -->  <!-- Form for MS Ca offline-->   <!-- <form method="get" name="myformCaoffline" action=""  onsubmit="SetDataCaoffline()" target="_blank">  <ms>C<sub>94</sub></ms>     <select name="Caofflinelist" id="folioCaoffline">   <optgroup label="Chapter 1">     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00382_f_193v.jpg">verses 1.1-15 (f. 193v)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00383.jpg">verses 1.16-32c (f. 194r)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00384_f_194v.jpg">verses 1.32c-49b (f. 194v)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00385.jpg">verses 1.49b-65c (f. 195r)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00386_195v.jpg">verses 1.65c-77 (f. 195v)</option>  <optgroup label="Chapter 2">     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00386_195v.jpg">verses 2.1-3c (f. 195v)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00387.jpg">verses 2.3d-20c (f. 196r)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00388.jpg">verses 2.20c-37a (f. 196v)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00389.jpg">verses 2.37a-40 (f. 197r)</option>  <optgroup label="Chapter 3">     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00389.jpg">verses 3.1-9d (f. 197r)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00390.jpg">verses 3.9d-24d (f. 197v)</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00391.jpg">verses 3.25a-42c (f. 198r)</option>    	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/msca_1694_1/MS-ADD-01694-00001-000-00392.jpg">verses 3.42c-43 (f. 198v)</option>    </select>   <input type="submit" value="Show"> </form>  -->           <!-- Form for MS Cb offline-->  <!-- <form method="get" name="myformCboffline" action=""  onsubmit="SetDataCboffline()" target="_blank">  <ms>C<sub>45</sub></ms>     <select name="Cbofflinelist" id="folioCboffline">   <optgroup label="Chapter 1">     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00404_f_201v.jpg">verses 1.1-9a (f. 201v)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00405.jpg">verses 1.9a-29a (f. 202r)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00406.jpg">verses 1.29a-47d (f. 202v)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00407.jpg">verses 1.47d-66b (f. 203r)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00408_f_203v.jpg">verses 1.66c-77 (f. 203v)</option> </optgroup>  <optgroup label="Chapter 2">     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00408_f_203v.jpg">verses 2.1-7b (f. 203v) </option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00409.jpg">verses 2.7b-27a (f. 204r)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00410.jpg">verses 2.27a-40 (f. 204v)</option> </optgroup>  <optgroup label="Chapter 3">     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00410.jpg">verses 3.1-2b (f. 204v) </option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00411.jpg">verses 3.2b-23b (f. 205r) </option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00412.jpg">verses 3.23b-43d (f. 205v) </option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscb_1645/MS-ADD-01645-000-00413.jpg">verse 3.43d (f. 206r) </option> </optgroup> </select>   <input type="submit" value="Show"> </form> -->  <!-- Form for MS Cc offline-->  <!-- <form method="get" name="myformCcoffline" action=""  onsubmit="SetDataCcoffline()" target="_blank">  <ms>C<sub>02</sub></ms>     <select name="Ccofflinelist" id="folioCcoffline">   <optgroup label="Chapter 1">     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00181_f_237r.jpg">verses 1.1-10b (f. 237r)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00182.jpg">verses 1.10b-17b (f. 237v)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00183.jpg">verses 1.17b-31b (f. 268r, new hand)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00184.jpg">verses 1.31b-44d (f. 268v)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00185.jpg">verses 1.44d-59b (f. 269r)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00186.jpg">verses 1.59b-72c (f. 269v)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00187.jpg">verses 1.72c-77 (f. 270r)</option> </optgroup>  <optgroup label="Chapter 2">     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00187.jpg">verses 2.1-7b (f. 270r)</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00188.jpg">verses 2.7c-21c (f. 270v)</option>     <option>verses 2.21c-40 (f. 271?): missing</option>  <optgroup label="Chapter 3">     <option>verses 3.1d-29d (f. 272r?): missing REV</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00189.jpg">verses 3.29d-42d (f. 273r) REV</option>     <option value="/home/csaba/indology/dharma_project/sivadharmacorpus/mscc_2102/MS-ADD-02102-000-00190.jpg">verses 3.42d (f. 273v) REV </option>     </select>     <input type="submit" value="Show"> </form>  -->         <!-- <h4>The Kathmandu MSS</h4>   <form method="get" name="myformNa" action=""  onsubmit="SetDataNa()" target="_blank">  <ms>K<sub>82</sub></ms>     <select name="Nalist" id="folioNa">   <optgroup label="Chapter 1">     	<option value="">verses 1.1</option>   <optgroup label="Chapter 2">     	<option value="">verses 2.1</option>     	   <optgroup label="Chapter 3">     	<option value="">verses 3.1</option>    </select>   <input type="submit" value="Show"> </form>   -->  <!-- <form method="get" name="myformNc" action=""  onsubmit="SetDataNc()" target="_blank">  <ms>K<sub>07</sub></ms>     <select name="Nclist" id="folioNc">   <optgroup label="Chapter 1">     	<option value="">verses 1.1</option>   <optgroup label="Chapter 2">     	<option value="">verses 2.1</option>     	   <optgroup label="Chapter 3">     	<option value="">verses 3.1</option>    </select>   <input type="submit" value="Show"> </form>  -->    <!--   <h4>Naraharināth's edition</h4>   <form method="get" name="myformEd" action=""  onsubmit="SetDataEd()" target="_blank">  <ms>E<sub>&nbsp;&nbsp;</sub></ms>   <select name="Edlist" id="folioEd">   <optgroup label="Chapter 1">     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/pasupatimatam4/dscn8034_vvs.jpg">verses 1.1-1.21b</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/pasupatimatam4/dscn8037.jpg">verses 1.21c-52b</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/pasupatimatam4/dscn8036.jpg">verses 1.52c-77</option>     <optgroup label="Chapter 2">     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/pasupatimatam4/dscn8036.jpg">verses 2.1-3</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/pasupatimatam4/dscn8035.jpg">verses 2.4-36b</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/pasupatimatam4/dscn8038.jpg">verses 2.36c-40</option>     	   <optgroup label="Chapter 3">     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/pasupatimatam4/dscn8038.jpg">verses 3.1-19</option>     	<option value="/home/csaba/indology/dharma_project/sivadharmacorpus/pasupatimatam4/dscn8039.jpg">verses 3.20a-43</option>    </select>   <input type="submit" value="Show"> </form>  -->       <br/><br/><br/>      
+<br/>
+</div>
+</body></html>

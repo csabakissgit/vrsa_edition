@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng-Latn">Test File</title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename">0001</idno>
+</publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Repo</repository></msIdentifier></msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="san-Latn">
+
+
+<!-- chapter 6 -->
+<l n="6.1uvaca"> [anarthayajña uvāca]</l>
+
+<lg n="6.1" met="anuṣṭubh">
+<l n="ab"> atha pañcavidhām ijyāṃ pravakṣyāmi dvijottama</l>
+
+<app loc="6.1a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCb">ijyāṃ</lem>
+     <rdg wit="#msCa #msNa #Ed">ījyāṃ </rdg>
+</app>
+
+<l n="cd"> dharmamokṣaprasiddhyarthaṃ śṛṇuṣvāvahito dvija</l>
+</lg>
+
+<app loc="6.1c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb">°mokṣaprasiddhyarthaṃ</lem>
+     <rdg wit="#msNa">°mokṣaprasiddhyartha </rdg>
+     <rdg wit="#Ed">°mokṣeśasiddhyaarthaṃ </rdg>
+</app>
+
+<app loc="6.1d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">dvija</lem>
+     <rdg wit="#Ed">bhava </rdg>
+</app>
+
+<lg n="6.2" met="anuṣṭubh">
+<l n="ab"> arthayajñaḥ kriyāyajño japayajñas tathaiva ca</l>
+
+<app loc="6.2a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msNa">arthayajñaḥ</lem>
+     <rdg wit="#msCb">anarthayajñaḥ </rdg>
+     <rdg wit="#Ed">arthayajña° </rdg>
+</app>
+
+<l n="cd"> jñānaṃ dhyānaṃ ca pañcaitat pravakṣyāmi pṛthak pṛthak</l>
+</lg>
+
+<lg n="6.3" met="anuṣṭubh">
+<l n="ab"> agnyupāsanakarmādi agnihotrakratukriyā</l>
+
+<app loc="6.3b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msNa #Ed">°kriyā</lem>
+     <rdg wit="#msCb">°kriyāḥ </rdg>
+</app>
+
+<l n="cd"> aṣṭakāḥ pārvaṇī śrāddhaṃ dravyayajñaḥ sa ucyate</l>
+</lg>
+
+<app loc="6.3c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msNa #Ed">pārvaṇī</lem>
+     <rdg wit="#msCb">parvaṇī </rdg>
+</app>
+
+<lg n="6.4" met="anuṣṭubh">
+<l n="ab"> ārāmodyānavāpīṣu devatāyataneṣu ca</l>
+
+<app loc="6.4b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCb #Ed">°yataneṣu</lem>
+     <rdg wit="#msCa #msNa">°layaneṣu </rdg>
+</app>
+
+<l n="cd"> svahastakṛtasaṃskāraḥ kriyāyajña sa ucyate</l>
+</lg>
+
+<app loc="6.4c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">°hasta°</lem>
+     <rdg wit="#Ed">°hastaiḥ </rdg>
+</app>
+
+<lg n="6.5" met="anuṣṭubh">
+<l n="ab"> japayajñaṃ tato vakṣye svargamokṣaphalapradam</l>
+
+<app loc="6.5a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #Ed">tato</lem>
+     <rdg wit="#msCb">tapo </rdg>
+</app>
+
+<l n="cd"> vedādhyayana kartavyaṃ śivasaṃhitam eva ca</l>
+</lg>
+
+<lg n="6.6" met="anuṣṭubh">
+<l n="ab"> itihāsapurāṇaṃ ca japayajñaḥ sa ucyate</l>
+
+<app loc="6.6a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb">°purāṇaṃ ca</lem>
+     <rdg wit="#Ed">°purāṇaś{ }ca </rdg>
+</app>
+
+<l n="cd"> idaṃ karma akarmedam ūhāpohaviśāradaḥ</l>
+</lg>
+
+<app loc="6.6c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">karma</lem>
+     <rdg wit="#Ed">kramam </rdg>
+</app>
+
+<lg n="6.7" met="anuṣṭubh">
+<l n="ab"> śāstracakṣuḥ samālokya jñānayajñaḥ sa ucyate</l>
+
+<l n="cd"> dhyānayajñaṃ samāsena kathayiṣyāmi te śṛṇu</l>
+</lg>
+
+<lg n="6.8" met="anuṣṭubh">
+<l n="ab"> dhyānaṃ pañcavidhaṃ caiva kīrtitaṃ hariṇā purā</l>
+
+<app loc="6.8a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #Ed">dhyānaṃ</lem>
+     <rdg wit="#msNa">dhyāna </rdg>
+</app>
+
+<l n="cd"> sūryaḥ somo 'gni sphaṭikaḥ sūkṣmaṃ tattvaṃ ca pañcamam</l>
+</lg>
+
+<app loc="6.8c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msNa">somo</lem>
+     <rdg wit="#msCb #Ed">somā° </rdg>
+</app>
+
+<app loc="6.8d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCb">sūkṣmaṃ tattvaṃ ca pañcamam</lem>
+     <rdg wit="#msCa">sūkṣmaṃ ta≀tva≀×××ñcamam </rdg>
+     <rdg wit="#msNa">sūkṣmatattvaṃ ca pañcamaḥ </rdg>
+     <rdg wit="#Ed">sūkṣmāṃ tattvaś{ }ca pañcamam </rdg>
+</app>
+
+<lg n="6.9" met="anuṣṭubh">
+<l n="ab"> sūryamaṇḍalam ādau tu tattvaṃ prakṛtir ucyate</l>
+
+<l n="cd"> tasya madhye śaśiṃ dhyāyet tattvaṃ puruṣa ucyate</l>
+</lg>
+
+<lg n="6.10" met="anuṣṭubh">
+<l n="ab"> candramaṇḍalamadhye tu jvālām agniṃ vicintayet</l>
+
+<l n="cd"> prabhutattvaḥ sa vijñeyo janmamṛtyuvināśanaḥ</l>
+</lg>
+
+<app loc="6.10c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb">°tattvaḥ</lem>
+     <rdg wit="#msNa">°tatva </rdg>
+     <rdg wit="#Ed">°tatvaṃ </rdg>
+</app>
+
+<app loc="6.10d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">°nāśanaḥ</lem>
+     <rdg wit="#Ed">°nāśanam </rdg>
+</app>
+
+<lg n="6.11" met="anuṣṭubh">
+<l n="ab"> agnimaṇḍalamadhye tu dhyāyet sphaṭika nirmalam</l>
+
+<app loc="6.11b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #Ed">°malam</lem>
+     <rdg wit="#msNa">°malaḥ </rdg>
+</app>
+
+<l n="cd"> vidyātattvaḥ sa vijñeyaḥ kāraṇam ajam avyayam</l>
+</lg>
+
+<app loc="6.11c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCb #msNa">tattvaḥ sa</lem>
+     <rdg wit="#msCa">ta≀tvan≀× </rdg>
+     <rdg wit="#Ed">tatvaṃ sa </rdg>
+</app>
+
+<lg n="6.12" met="anuṣṭubh">
+<l n="ab"> vidyāmaṇḍalamadhye tu dhyāyet tattvam anuttamam</l>
+
+<l n="cd"> akīrtitam anaupamyaṃ śivam akṣayam avyayam</l>
+
+<l n="ef"> pañcamaṃ dhyānayajñasya tattvam uktaṃ samāsataḥ</l>
+</lg>
+
+<app loc="6.12c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">yajñasya</lem>
+     <rdg wit="#Ed">yajñañ{ }ca </rdg>
+</app>
+
+<app loc="6.12d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">samāsataḥ</lem>
+     <rdg wit="#Ed">sanātanaḥ </rdg>
+</app>
+
+<l n="6.13uvaca"> vigatarāga uvāca</l>
+
+<lg n="6.13" met="anuṣṭubh">
+<l n="ab"> ekaikasya hi tattvasya phalaṃ kīrtaya kīdṛśam</l>
+
+<app loc="6.13a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#Ed">hi</lem>
+     <rdg wit="#msCa #msCb #msNa">tri° </rdg>
+</app>
+
+<l n="cd"> kāni lokāḥ prapadyante kālaṃ vāsya tapodhana</l>
+</lg>
+
+<app loc="6.13c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCb #msNa #Ed">prapadyante</lem>
+     <rdg wit="#msCa">pra*** </rdg>
+</app>
+
+<app loc="6.13d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msNa #Ed">°dhana</lem>
+     <rdg wit="#msCb">°dhanaḥ </rdg>
+</app>
+
+<l n="6.14uvaca"> anarthayajña uvāca</l>
+
+<lg n="6.14" met="anuṣṭubh">
+<l n="ab"> brahmalokaṃ tu prathamaṃ tattvaṃ prakṛticintayā</l>
+
+<app loc="6.14b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">prakṛticintayā</lem>
+     <rdg wit="#Ed">ca kṛticintaya </rdg>
+</app>
+
+<l n="cd"> kalpakoṭisahasrāṇi śivavan modate sukhī</l>
+</lg>
+
+<app loc="6.14d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">sukhī</lem>
+     <rdg wit="#Ed">sukham </rdg>
+</app>
+
+<lg n="6.15" met="anuṣṭubh">
+<l n="ab"> dvitīyaṃ tattva puruṣaṃ dhyāyamāno mṛto yadi</l>
+
+<l n="cd"> viṣṇulokam ito yāti kalpakoṭyayutaṃ sukhī</l>
+</lg>
+
+<app loc="6.15c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">yāti</lem>
+     <rdg wit="#Ed">yānti </rdg>
+</app>
+
+<lg n="6.16" met="anuṣṭubh">
+<l n="ab"> prabhutattvaṃ tṛtīyaṃ tu dhyāyamāno mariṣyati</l>
+
+<app loc="6.16a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">tṛtīyaṃ</lem>
+     <rdg wit="#Ed">tṛtīyas </rdg>
+</app>
+
+<app loc="6.16b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCb">dhyāyamāno mariṣyati</lem>
+     <rdg wit="#msCa">dhyāya***riṣyati </rdg>
+     <rdg wit="#Ed">dhayāyāmāno mariṣyati </rdg>
+</app>
+
+<l n="cd"> śivaloke vasen nityaṃ kalpakotyayutaṃ śatam</l>
+</lg>
+
+<app loc="6.16c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msNa">śivaloke</lem>
+     <rdg wit="#msCb">śivaloka </rdg>
+     <rdg wit="#Ed">rudraloke </rdg>
+</app>
+
+<lg n="6.17" met="anuṣṭubh">
+<l n="ab"> vidyātattvāmṛtaṃ dhyāyet sadāśivam anāmayam</l>
+
+<app loc="6.17a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">°mṛtaṃ</lem>
+     <rdg wit="#Ed">°mataṃ </rdg>
+</app>
+
+<l n="cd"> akṣayaṃ lokam āpnoti kalpānāntaparaṃ tathā </l>
+</lg>
+
+<app loc="6.17c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #msCb #msNa">akṣayaṃ</lem>
+     <rdg wit="#Ed">akṣaya° </rdg>
+</app>
+
+<lg n="6.18" met="anuṣṭubh">
+<l n="ab"> pañcamaṃ śivatattvaṃ tu sūkṣmaṃ cātmani saṃsthitam</l>
+
+<l n="cd"> na kālasaṃkhyā tatrāsti śivena saha modate</l>
+</lg>
+
+<lg n="6.19" met="non-anuṣṭubh">
+<l n="a"> pañcadhyānābhiyukto bhavati ca na punarjanmasaṃskārabandhaḥ</l>
+
+<app loc="6.19a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#Ed">punarjanma</lem>
+     <rdg wit="#toplost">puna≀ja≀nma </rdg>
+</app>
+
+<l n="b"> jijñāsyantāṃ dvijendra bhavadahanakaraḥ prārthanākalpavṛkṣaḥ</l>
+
+<app loc="6.19b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa #Ed">jijñāsyantāṃ</lem>
+     <rdg wit="#unmetr">jijñāsyatāṃ </rdg>
+</app>
+
+<l n="c"> janmenaikena muktir bhavati kimu na vā mānavāḥ sādhayantu</l>
+
+<app loc="6.19c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">mānavāḥ</lem>
+     <rdg wit="#msCb">mānamānavāḥ </rdg>
+     <rdg wit="#Ed">mānava </rdg>
+</app>
+
+<l n="d"> pratyakṣān nānumānaṃ sakalamalaharaṃ svātmasaṃvedanīyam</l>
+</lg>
+
+<app loc="6.19d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCb #msNa">°vedanīyam</lem>
+     <rdg wit="#msCa">°vedanīyaḥ </rdg>
+     <rdg wit="#Ed">°vedanīya </rdg>
+</app>
+
+<lg n="6.20" met="anuṣṭubh">
+<l n="ab"> mānasaṃ tapa ādau tu dvitīyaṃ vācikaṃ tapaḥ</l>
+
+<app loc="6.20a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">°tapa</lem>
+     <rdg wit="#Ed">°tapam </rdg>
+</app>
+
+<l n="cd"> kāyikaṃ ca tṛtīyaṃ tu manovākkarmatatparaḥ</l>
+</lg>
+
+<lg n="6.21" met="anuṣṭubh">
+<l n="ab"> kāyikaṃ vācikaṃ caiva tapo miśraka pañcamam</l>
+
+<l n="cd"> manaḥsaumyaṃ prasādaś ca ātmanigraham eva ca</l>
+</lg>
+
+<app loc="6.21c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">°prasādaś</lem>
+     <rdg wit="#Ed">°prasādaṃ </rdg>
+</app>
+
+<lg n="6.22" met="anuṣṭubh">
+<l n="ab"> maunaṃ bhāvaviśuddhiś ca pañcaitat tapa mānasam</l>
+
+<app loc="6.22a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">°śuddhiś</lem>
+     <rdg wit="#Ed">°śuddhiṃ </rdg>
+</app>
+
+<app loc="6.22b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">pañcaitat</lem>
+     <rdg wit="#Ed">pañcaitan </rdg>
+</app>
+
+<l n="cd"> anuvegakarā vāṇī priyaṃ satyaṃ hitaṃ ca yat</l>
+</lg>
+
+<lg n="6.23" met="anuṣṭubh">
+<l n="ab"> svādhyāyābhyasanaṃ caiva vācikaṃ tapa ucyate</l>
+
+<app loc="6.23a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#Ed">bhyasanaṃ caiva</lem>
+     <rdg wit="#msCa">bhyasana** </rdg>
+</app>
+
+<l n="cd"> ārjavaṃ ca ahiṃsā ca brahmacaryaṃ surārcanam</l>
+</lg>
+
+<app loc="6.23c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">ārjavaṃ ca ahiṃsā ca</lem>
+     <rdg wit="#Ed">ārjavatvam{ }ahiṃsāś{ }ca </rdg>
+</app>
+
+<app loc="6.23d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">°caryaṃ</lem>
+     <rdg wit="#Ed">°carya </rdg>
+</app>
+
+<lg n="6.24" met="anuṣṭubh">
+<l n="ab"> śaucaṃ pañcamam ity etat kāyikaṃ tapa ucayate</l>
+
+<app loc="6.24a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">śaucaṃ</lem>
+     <rdg wit="#Ed">śauca </rdg>
+</app>
+
+<l n="cd"> iṣṭaṃ kalyāṇabhāvaṃ ca dhanyaṃ satyaṃ hitaṃ vedet</l>
+</lg>
+
+<app loc="6.24c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">°bhāvaṃ</lem>
+     <rdg wit="#Ed">°bhāvaś </rdg>
+</app>
+
+<lg n="6.25" met="anuṣṭubh">
+<l n="ab"> manomiśraka pañcaitat tapa uktaṃ maharṣibhiḥ</l>
+
+<app loc="6.25a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">pañcaitat</lem>
+     <rdg wit="#Ed">pañcaitān </rdg>
+</app>
+
+<app loc="6.25b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">tapa uktaṃ maharṣibhiḥ</lem>
+     <rdg wit="#Ed">tapam{ }uktaṃ mahirṣibhiḥ </rdg>
+</app>
+
+<l n="cd"> svastimaṅgalam āśīrbhir atithigurupūjanam</l>
+</lg>
+
+<app loc="6.25d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">atithi°</lem>
+     <rdg wit="#Ed">atithiṃ </rdg>
+</app>
+
+<lg n="6.26" met="anuṣṭubh">
+<l n="ab"> kāyamiśrakapañcaitat tapa uktaṃ mahātmabhiḥ</l>
+
+<app loc="6.26a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">pañcaitat</lem>
+     <rdg wit="#Ed">pañcaitan </rdg>
+</app>
+
+<app loc="6.26b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">tapa uktaṃ</lem>
+     <rdg wit="#Ed">tapam{ }uktaṃ </rdg>
+</app>
+
+<l n="cd"> maṇḍūkayogī hemante grīṣme pañcatapās tathā</l>
+</lg>
+
+<app loc="6.26d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">grīṣme</lem>
+     <rdg wit="#Ed">gṛṣme </rdg>
+</app>
+
+<lg n="6.27" met="anuṣṭubh">
+<l n="ab"> abhrāvakāśe varṣāsu tapaḥ sādhanam ucyate</l>
+
+<l n="cd"> svamāṃsoddhṛtya dānaṃ ca hastapādaśiras tathā</l>
+</lg>
+
+<app loc="6.27c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">dānaṃ</lem>
+     <rdg wit="#Ed">dānaś </rdg>
+</app>
+
+<lg n="6.28" met="anuṣṭubh">
+<l n="ab"> puṣpam utpādya dānaṃ ca sarve te tapasādhanāḥ</l>
+
+<app loc="6.28a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">dānaṃ</lem>
+     <rdg wit="#Ed">dānaś </rdg>
+</app>
+
+<app loc="6.28b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#Ed">tapasādhanāḥ</lem>
+     <rdg wit="#unmetr">tapassādhanāḥ </rdg>
+</app>
+
+<l n="cd"> kṛcchrātikṛcchraṃ naktaṃ ca taptakṛcchramayācitam</l>
+
+<app loc="6.28d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">yācitam</lem>
+     <rdg wit="#Ed">yācitaḥ </rdg>
+</app>
+
+<l n="ef"> cāndrāyaṇaṃ parākaṃ ca tapassāntayanādayaḥ</l>
+</lg>
+
+<app loc="6.28e"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">cāndrāyaṇaṃ parākaṃ</lem>
+     <rdg wit="#Ed">cāndrāyaṇavarākaś </rdg>
+</app>
+
+<app loc="6.28f"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">tapassāntayanādayaḥ</lem>
+     <rdg wit="#Ed">tapasāntapanādayaḥ </rdg>
+</app>
+
+<lg n="6.29" met="non-anuṣṭubh">
+<l n="a"> yenedaṃ tapa tapyate sumanasaḥ saṃsāraduḥkhacchidam</l>
+
+<app loc="6.29a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#Ed">tapa</lem>
+     <rdg wit="#unmetr">tapas </rdg>
+</app>
+
+<l n="b"> āśāpāśa vimucya nirmalamatis tyaktvā jaghanyaṃ phalam</l>
+
+<app loc="6.29b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">jaghanyaṃ</lem>
+     <rdg wit="#Ed">jagat{ }yaṃ </rdg>
+</app>
+
+<l n="c"> svargākāṅkṣyanṛpatvabhogaviṣayaṃ sarvāntikaṃ tatphalam</l>
+
+<app loc="6.29c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msCa">°kāṅkṣya°</lem>
+     <rdg wit="#Ed">°kāṃkṣa° </rdg>
+</app>
+
+<l n="d"> jantuḥ śāśvatajanmamṛtyubhavane tanniṣṭasādhyaṃ vadet</l>
+</lg>
+
+<app loc="6.29d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#Ed">°sādhyaṃ vadet</lem>
+     <rdg wit="#msCa">°</rdg>
+</app>
+
+<l>iti vṛṣasārasaṃgrahe ṣaṣṭho 'dhyāyaḥ</l>
+
+
+</div>
+</body>
+</text>
+</TEI>

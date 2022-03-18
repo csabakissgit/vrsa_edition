@@ -1,0 +1,92 @@
+
+
+%1.1
+%metre=upajāti <NOTANUSTUBH/>
+<TEXT> anādimadhyāntam{ }anantapāraṃ </TEXT>   
+        <APP>\va <LEM>°ntam{ }ananta°</LEM> \msCa\msCbpcorr\Ed;
+                °ntam{ }anta° \msCbacorr</APP>
+<TEXT> susūkṣmam{ }avyaktajagatsusāram|</TEXT>
+        <APP>\vb <LEM>susūkṣmam</LEM> \msCa\Ed; śusukṣmam \msCc\oo
+                 <LEM>°jagatsusāraṃ</LEM> \msCa\Ed; °jagaśusāraṃ \msCc</APP>
+        % probably not jagatsu sāraṃ
+% unmetrical, licence br
+<TEXT> harīndrabrahmādibhir{ }āsamagraṃ</TEXT>
+        % what is āsamagram? āsam agram? arcyam, arhyam, īḍyam
+<TEXT> praṇamya vakṣye vṛṣasārasaṃgraham||</TEXT>
+        % hypermetrical
+        % note the repetition of sāra in this verse
+        % rhymes!
+
+<ANUSTUBH/>
+%1.2
+<TEXT> śatasāhasrikaṃ granthaṃ sahasrādhyāyam{ }uttamam|</TEXT>
+        <APP>\vb <LEM>sahasrādhyāyam</LEM> \msCa; sahaśradhyāyam \msCc,
+                      sahasrādhyāyar \Ed</APP>
+        % satasāhaśrikaṃ \msCc
+<TEXT> pūrvam{ }asya śataṃ pūrṇaṃ śrutvā bhāratasaṃhitām||</TEXT>
+        <APP>\vc <LEM>pūrvam{ }asya</LEM> \Ed; pūrva cāsya \msCa </APP>
+        <APP>\vd <LEM>bhārata°</LEM> \msCa; nārāda° \Ed</APP>
+%MS Add.2102 rtta?m asya rvvam asya ta srutvā *ārasaṃhitā
+
+% vipulā
+%1.3
+<TEXT> atṛptaḥ puna papraccha vaiśaṃpāyanam{ }eva hi|</TEXT>
+        <APP>\va <LEM>atṛptaḥ puna papraccha</LEM> \eme;
+                a\uncl{tṛ}****praccha \msCa, 
+                atṛptaḥ punaḥ papraccha \msCb,
+                atṛptaḥ punar{ }apracche \msCc,
+                atṛptā punaḥ papraccha \Ed</APP> 
+        % \msCc atṛptaḥ pun?ar apracche vesampāyanam eva hi|
+
+% em to stem form
+<TEXT> janamejaya yat{ }pūrvaṃ tac{ }chṛṇu tvam{ }atandritam||</TEXT>
+        <APP>\vc <LEM>janamejaya yat</LEM> \eme;
+                  janamejayena yat \msCapcorr\msCb\Ed,
+                  janamejaye yat \msCaacorr,
+                  janmajayena yam \msCc</APP>
+%\msCc chruṇa ... atandritaḥ
+% Dialogue of King Janamejaya (asks) and Vaiśampāyana (replies)
+
+% Vaiśampāyana, a ṛṣi, disciple of Vyāsa; recited the Mhbhr. at the snake sacrifice of Janamejaya (source: Index to the Names in the Mahabharata online: https://www.sanskrit-lexicon.uni-koeln.de/scans/INMScan/2013/web/webtc/indexcaller.php )
+
+<TEXT> janamejaya uvāca|*</TEXT>
+        <APP>\vo <LEM>janamejaya</LEM> \msCa\Ed; janmejaya \msCc</APP>
+
+<TEXT> bhagavan{ }sarvadharmajña sarvaśāstraviśārada|</TEXT>
+       <APP>\vb <LEM>°viśārada</LEM> \msCa; °visāradaḥ \msCc\Ed</APP>
+        %\msCc bhavā?vaṃ ... 
+
+<TEXT> asti dharmaṃ paraṃ guhyaṃ saṃsārārṇavatāraṇam||</TEXT>
+        <APP>\vb <LEM>dharmaṃ</LEM> \msCa\Ed; dharma \msCc</APP>
+        <APP>\vb <LEM>guhyaṃ</LEM> \msCa\Ed; guhya \msCc</APP>
+        %\msCa asti dharmam 
+
+<TEXT> dvaipāyanamukhodgīrṇaṃ dharmaṃ vā yad{ }dvijottama|</TEXT>
+        <APP>\va <LEM>°mukhodgīrṇaṃ</LEM> \msCa; mukhād{ }gīrṇaṃ \Ed</APP>
+        %\msCc dvepāyanamukhodgīrṇṇa dharmavat ya dvijotamaḥ 
+
+<TEXT> kathayasva hi me tṛptiṃ kuru yatnāt{ }tapodhana ||</TEXT>
+        <APP>\vd <LEM>yatnāt{ }tapodhana</LEM> \Ed;
+                        yannāt{ }ta**na \msCa,
+                        yatnā tapodhanaḥ \msCc</APP>
+
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+        %\msCc vaisampāyana uvāca
+%vipula
+<TEXT> śṛṇu rājann{ }avahito dharmākhyānam{ }anuttamam|</TEXT>
+%\msCc ... [4] dharmākhyānam utamaṃ
+
+<TEXT> vyāsānugrahasamprāptaṃ guhyadharmaṃ śṛṇotu me||</TEXT>
+%\msCc  ... samprāpta ... śṛṇota me
+
+<TEXT> anarthayajñakartāraṃ tapovrataparāyaṇam|</TEXT>
+<TEXT> śīlaśaucasamācāraṃ sarvabhūtadayāparam||</TEXT>
+% ma-vipulā
+<TEXT> jijñāsanārthaṃ praśnekaṃ viṣṇunā prabhaviṣṇunā|</TEXT>
+        <APP>\va <LEM>°ārthaṃ</LEM> \msCa; °ārtha° \Ed</APP>
+        %MS Add.2102: prasūkaṃ?
+<TEXT> dvijarūpadharo bhūtvā papraccha vinayānvitaḥ||</TEXT>
+        <APP>\vc <LEM>°rūpadharo</LEM> \Ed; °rūpa*ro \msCa</APP>
+        % MS Add.2102: ...  vitaṃ
+
+

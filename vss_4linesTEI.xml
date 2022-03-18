@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng-Latn">Test File</title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename">0001</idno>
+</publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Repo</repository></msIdentifier></msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="san-Latn">
+
+
+<lg n="1.1" met="upajāti">
+
+<l n="a"> anādimadhyāntam anantapāraṁ</l>
+
+<app loc="1.1a">
+    <lem wit="#msCa #msCb #msCc #msNa #msNb #msNc #msNd #msM #Ed">°ntam ananta°</lem>
+            <witDetail wit="#msCb" type="pc"/>
+    <rdg wit="#msCb">°ntam anta°</rdg>
+            <witDetail wit="#msCb" type="ac"/>
+</app>
+<app loc="1.1a">
+    <lem wit="#mssCaCbCc #msNc #msM #Ed">°pāraṁ</lem>
+    <rdg wit="#msNa #msNb #msNd">°pāragaṁ</rdg>
+</app>
+
+
+<l n="b"> susūkṣmam avyaktajagatsusāram</l>
+
+<app loc="1.1b">
+    <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">susūkṣma°</lem>
+    <rdg wit="#msCc">śusukṣma°</rdg>
+</app>
+<app loc="1.1b">
+    <lem wit="#msCa #msCb #msNa #msNc #msM #Ed">°jagatsusāram</lem>
+    <rdg wit="#msCc">°jagaśusāraṁ</rdg>
+    <rdg wit="#msNb">°jagatsurāsuraṁ</rdg>
+    <rdg wit="#msNd">°jagatasusāram</rdg>
+</app>
+
+
+<l n="c"> harīndrabrahmādibhir āsamagraṁ</l>
+
+<app loc="1.1c">
+    <lem wit="#mssCaCbCc #msNa #msNb #msNc #msNd #Ed">°bhir āsamagraṁ</lem>
+    <rdg wit="#msM">°bhir yat samagraṁ</rdg>
+</app>
+
+
+<l n="d"> praṇamya vakṣye vr̥ṣasārasaṁgraham </l>
+
+<app loc="1.1c">
+    <lem wit="#msCa #msCb #msCc #msNa #msNb #msNc #msNd #msM #Ed">vr̥ṣa°</lem>
+            <witDetail wit="#msCa" type="pc"/>
+    <rdg wit="#msCa">°vr̥ṣo</rdg>
+            <witDetail wit="#msCa" type="ac"/>
+</app>
+
+</lg>
+
+
+</div>
+</body>
+</text>
+</TEI>
+

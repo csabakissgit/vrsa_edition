@@ -1,0 +1,4748 @@
+@dolmode3
+@hyphen
+%@obeylines
+\input dharma.sty
+%\input wiggly.tex
+\dohyphen
+\catcode127=11
+\chapnum=0
+\versenum=0
+\pageno=0
+\noendnotes
+\headline={\ifnum\pageno>0
+        \rlap{$\sssan dharma"siilasya suununaa$}\hfil{\ssan\dnnum \folio}\hfil
+        \llap{$\sssan granthitaa dharmaputrikaa$}
+        \else
+        \hfil\fi}
+\footline={\hfil}
+\centerline{}
+\vskip 2cm
+\centerline{$\bbsan dharmaputrikaa||$}
+\medskip
+\beginnumbering
+\pstart
+\tolerance=100
+\parindent=30pt
+%\dnnum
+\vskip 1cm
+$
+\changechap
+
+\newverse
+o.m nama.h "sivaaya||
+
+vande deva.m puraa.na.m "sivamamaraguru.m bhuutalasthena muurdhnaa%
+\tika{bhuutalasthena\lem
+\msNa\msL\msCa\msW\edN; bhuulasthena \msNb; bhuutasthena \msKa}%
+\tika{muurdhnaa\lem
+ 	\msL\msCa\msNb\msKa\edN; muudhnaa \msW}
+
+nitya.m "saanta.m susuuk.sma.m tribhuvananamita.m sarvasattvaikanaatham|%
+\tika{"saanta.m\lem
+	\msL\msNapc\msCa\msNb\msKa\msW\edN; "santa.m \msNaac}%
+\tika{tribhuvananamita.m\lem
+	\msL\msNb\msCa\msW\edN; tristrave.namita.m \msKa}%
+\tika{sarvasattvaikanaatham\lem
+\msL\msNa\msNb\msCa\msW; sarvasarvaikanaatha.m \msKa; sarvalokaikanaatham \edN}
+  
+ni.hsa"nga.m nirvikaara.m prajananamara.nakle"sado.sairvimukta.m%
+\tika{prajananamara.nakle"sado.sairvimukta.m\lem
+ \msNa\msNb\msKa\msL\msW\edN; prajananamara.na.m kle"sado.sairvimuktam \msCa}
+
+yogaabhyaasaikavedya.m trigu.navirahita.m na prasajyasvaruupam|| 1:1||%
+\tika{na prasajyasvaruupam\lem
+\msNapc\msNb\msKa\msLpc; na prajyasvaruupam \msLac\msNaac; 
+ na prajasya ruupam \msCa\hypometrical; naprasajyasvaruupam \edN}
+ \newverse
+nirvyaapaara.m susuuk.sma.m k.sitijaladanaakaa"savaatairvimukta.m%
+\tika{nirvyaapaara.m\lem
+	\msL\msNa\msNb\msW; nivyaapaara.m \msCa; 
+	nirvyaapaala.m \msKa; nirbvyaapaara.m \edN}%
+\tika{susuuk.sma.m\lem
+		\msL\msNb\msCa\msKa\msW\edN; susuuk.sma.m \msNa}%
+\tika{@rvimukta.m\lem
+	\msNa\msNb\msCa\msKa\msW\edN; @vi \lk\ kta.m \msL}
+
+pratyak.saadipramaa.nai.h k.rtibhiravidita.m hetud.r.s.taanta"suunyam|%
+\tika{@ravidita.m\lem
+	\msNa\msL\msNb\msW\msKa\edN; @raviditair \msCa}%
+\tika{@"suunyam\lem
+	\msNa\msL\msNb\msKa\msCa\edN; @suunyam \msWpc; 
+		@suuk.snyam \msWac\hypermetrical}
+
+ruupaadiinamabhaavaadavayavavikalaadindriyairaprameya.m%
+\tika{@avayavavikalaad\lem
+\msNa\msL\msNb\msCa; @ aveyavavikalaad \msW; 
+@ayavavilaakad ${\rm (correction – vikalaad)}$ \msKa; @avayavanikalaad \edN}%
+\tika{indriyairaprameya.m\lem
+\msNa\msNb\msL\msW\edN; indriya raprameyam \msCa; intriyairaprameya.m \msKa} 
+
+pratyaatmaj~naanagamya.m pa.tubhirapi giraa ni.sprapa~ncasvabhaavam|| 1:2||%
+\tika{@j~naanagamya.m\lem
+\msL\msNa\msNb\msCa\msW\msKa; @dhyaanagamya.m \edN}%
+\tika{pa.tubhirapi\lem
+	\msNapc\msNb\msW\edN\msKa; pa.tubhiriva \msL\msNaac\msCa}%
+\tika{ni.sprapa~ncasvabhaavam\lem
+\msNa\msL\msNb\msCa\msKa; ni.spa~ncasvabhaavam \msW\hypometrical; 
+ ni.sprapa~nca svabhaavam \edN}
+\newverse
+"saastrasyaadipra.netaara.m sanaka.m munipu"ngavam|%
+\tika{"saastrasyaadi@\lem
+\msNa\msL\msCa\msKa\msW\edN; "saastraasyaadi@ \msNb}%
+ \tika{@pra.netaara.m\lem
+ 	\msNa\msNb\msL\msCa\edN\msKa; @pra.nataara.m \msW}%
+\tika{sanaka.m\lem
+	 	\msNa\msNb\msL\msCa\msKa\msWpc\edN; sakana.m \msWac}
+
+namask.rtya pravak.syaami sa.mhitaa.m dharmaputrikaam|| 1:3||%
+\tika{namask.rtya\lem
+	\msNa\msL\msNb\msW\edN; namask.rtya.m \msCa; namask.rtvaa \msKa}%
+\tika{sa.mhitaa.m\lem
+\msNa\msNb\msCa\msKa\msW\edN; sa.mhitaan \msL}
+\newverse
+siddhi.m praapnoti yogasya yu~njanyogii na sa.m"saya.h|%
+\tika{yu~njan yogii\lem
+\msNa\msCa\msW\edN; yu~nja \lk\ yogii \msL; yu~njanyogii \msNb; yu~njana yogii \msKa}  
+
+viditvaa saadhanopaaya.m .so.da"saanaa.m tu nir.nayam|| 1:4||%
+\tika{nir.nayam\lem
+	\msNb\msL\msCa\msKa\msW\edN; ni.n.nayam \msNa}
+ \newverse 
+catvaari yogaprakara.naanyantaraayaa"scaturvidhaa.h|%
+\tika{antaraayaa@\lem
+	\msNa\msNb\msL\msCa\msKa\edN; antaraa@ \msW}%
+\tika{caturvidhaa.h\lem
+\msL\msCa\msW\edN; caturvidhaa \msNb; caturvidha.h \msKa}
+
+te.saa.m jaya"scikitsaa ca dve li"nge siddhisuucake|| 1:5||%
+\tika{jaya"scikitsaa ca\lem
+	\msNa\msL\msCa\msW; jayacikitsaa ca \msNb; jayacikitsaa.m ca \msKa; 	jayacikitsaa"sca \edN}
+\newverse
+v.rddhyupaayo vinaa"sa"sca pratyaanayanameva ca|%
+\tika{v.rddhyupaayo\lem
+	\msNa\edN; siddhyupaayo \msL; sidyupaayo \msNb; \lac\ yo \msCa; 
+	v.rddhyupaaya \msKa; v.rddhyupaayau \msW}
+
+siddhyupaaya"sca vij~neya.h saadhanopaayasa.mj~nita.h|| 1:6||%
+\tika{pratyaanayanameva\lem
+	\msNa\msL\msCa\edN; pratyaanayana eva \msNb\msKa}%
+\tika{@sa.mj~nita.h\lem
+	\msNb\msKa\msL\msCa\msW\edN; @sa.mj~nina.h \msNa}
+\newverse
+taanavij~naaya yo yogii yoga.m yu~njanprayatnata.h|
+%\tika{prayatnata.h\lem
+ %\msL\msCa\msKa\msW\edN; prayannata.hNa\msNb\verify}
+
+kli"syate kevala.m muu.dho naasya siddhi.h kadaacana|| 1:7||%
+\tika{kli"syate\lem
+	\msNa\msL\msNb\msCa\msW; kli"syati \edN; kli"syante \msKa}%
+\tika{muu.dho\lem
+		\msNa\msL\msNb\msCa\msKa\edN; muu.dhau \msW}%
+\tika{siddhi.h kadaacana\lem
+	\msNa\edN; siddhi.h kadaacana.h \msNb; sirddhi kadaacana \msL; 
+	siddhi kadaacana \msCa\msKa; siddhi.h kadaakana.h \msW}	
+\newverse
+tasmaadeva.m viditvaadau tritattva.m ca yathaakramam|%
+\tika{tasmaadeva.m\lem
+	\msNa\msL\msNb\msKa\edN; tatvaadeva.m \msCa}
+
+daana"siilaadibhi"scitta.m "sodhayitvaa vi"se.sata.h|| 1:8||%
+%\tika{"sodhayitvaa\lem
+%Na\msL\msNb\msKa\msCa\edN; sodhayitvaa\msW}%
+\tika{vi"se.sata.h\lem
+		\msNa\msL\msNb\msKa\msCa\edN; vi"se.sa \msW\hypometrical}
+%\tika{citta.m\lem
+% 	\msNa\msL\msNb\msKa\msCa\edN; cinta.m\msW}
+\newverse
+tato yoga.h prayoktavyastyaktasa.mgena yoginaa|%
+\tika{yoga.h prayoktavyastyaktasa.mgena\lem
+	\msNa\msL\msCa\edN\msKa; yoga prayoktavya.m tyakta"sa.mgena \msNb}
+
+viitaraage.na "saantena "sucinaa "suddhacetasaa|| 1:9||%
+\tika{viitaraage.na\lem
+\edN; vitaraagena \msNa\msNb\msCa\msKa\msL\msW}%
+\tika{@cetasaa\lem
+	\msNa\msLpc\msNb\msCa\msKa\edN; cetanaa \msLac}
+% NBW: we did not record the varints in sibelients in\msW sincce it does
+% not often distringuises them 	
+\newprose
+atha saadhanopaayaanaa.m .so.da"saanaa.m naamanirde"salak.sa.na.m vyaakhyaasyaama.h|
+aadau taavaccatvaari yogaprakara.naani| saadhanaprakara.namaasanaprakara.na.m dhaara.naava.m"saprakara.na.m 
+dhyaanamaargaprakara.na~nceti|| 1:10||%
+\tika{saadhanopaayaanaa.m\lem
+	\msNa\msL\msCa\edN\msKa\msW; saadhanopaaya.m \msNb}%
+\tika{.so.da"saanaa.m\lem
+	\msL\msCa\edN; "so.da.saanaa \msNa; "so.da.saanaa.m \msNb; 
+	.so"saanaa \msKa; "so.da"sonaa \msW}%
+\tika{vyaakhyaasyaama.h\lem
+	\msNa\msL\msCa\msW\edN; vyaakhyaasyaama \msNb\msKa}%
+\tika{taavaccatvaari\lem
+\msNa\msL\msCa\msKa; ataavacatvaari \msNb; taavaccatvari \msW; taava ccatvaari \edN}%
+\tika{yogaprakara.naani\lem
+	\msNa\msNb\msW\edN; prakara.naani \msL; yogaprakara.naani ca \msCa\msKa}%
+\tika{saadhanaprakara.namaasanaprakara.na.m\lem
+	\msNa\msLpc\msCa\msW\edN; saadhanaprakara.natyaa(?)sanaprakara.na.m \msNb; 
+	saadhanaprakara.namaasanaprakara.na.m \msLac; 
+saadhanaprakara.na.m maasana.m prakara.na.m \msKa}%
+\tika{dhaara.naava.m"saprakara.na.m dhyaanamaargaprakara.na~nceti\lem
+\msNa\msL\msCa\msW; dhaara.naa.m va.msadhyaanamaargaprakara.na.m ceti \msNb; 
+ dhaara.naaba.m"saprakara.na.m dhyaanamaarggaprakara.na~nceti \edN; 
+ dhaare.nava"ngaprakara.na.m dhyaanamaargaprakara.na~ncaiti \msKa}	
+\newverse
+.sa.da"nga.h .sa.dupaaya"sca .sa.tsaadhanamata.h param|%
+\tika{.sa.da"nga.h\lem
+	\msL\msNb\msKa\msCa\edN; .sa.da"nga \msW}%
+\tika{.sa.tsaa@\lem
+	\msL\msNb\msKa\msCa\edN; .satsaa@ \msW}%
+\tika{@mata.h param\lem
+	\msL\msNb\edN\msKa; @mata param \msCa}
+
+caturyamo dviruupa"sca trividha.h samanantaram|| 1:11||%
+\tika{caturyamo\lem
+	\msL\msNb\msCa\msW; catus"sramo \edN; catu"sramo \msKa}%
+\tika{trividha.h\lem
+	\msL\msNb\msKa\msW\edN; trividha \msCa}
+\newverse
+da"sopasargaa vij~neyaa a.s.tai"svaryagu.naastathaa|%
+\tika{vij~neyaa\lem
+	\msL\msNb\msCa\msW\edN; vij~neyaa.h \msKa}%
+\tika{a.s.tai"svaryagu.naastathaa\lem
+	\msL\msCa\msKa\msW\edN; avai"svarya gu.nostathaa \msNb}
+% NB: even in L in Nepalse sources we don't make note of them	
+
+yogasyaamiibhira.s.taabhi.h saadhanaprakara.na.m sm.rtam|| 1:12||%
+\tika{yogasyaamiibhira.s.taabhi.h\lem
+	\msL\msNb\msCa\msW; yogasyaasiinira.s.taabhi.h \msKa; 
+	yogasyaa"siitira.s.taabhi.h \edN}%
+\tika{saadhanaprakara.na.m sm.rtam\lem
+	\msL\msCa\msKa\msW\edN; saadhanaprakara.na sm.rtam \msNb\hypermetrical}
+\newverse    
+pratyaahaarastathaa dhyaana.m praa.naayaamo.atha dhaara.naa|%
+\tika{@mo.atha\lem
+	\msL\msNb\msCa\msKa\edN; @mo.sa \msW}
+
+tarka"scaiva samaadhi"sca .sa.da"ngo yoga ucyate|| 1:13||
+\newverse 
+vi.saye.svatisaktaani indriyaa.ni prati prati|%
+\tika{@saktaani\lem
+	\msL\msCa\msKa\edN; @yuktaanaam \msWpc; @yuktaaanim \msWac}%
+\tika{indriyaa.ni\lem
+	\msL\msCa\msKa\edN; indrayaa.ni \msNb; indrayaa.naa.m \msW}%
+
+cittenaakar.sa.na.m yatra pratyaahaara.h sa ucyate|| 1:14||%
+\tika{cittenaakar.sa.na.m yatra pratyaahaara.h\lem
+	\msCa\msKa\edN; citte.naakar.sa.na.m yatra pratyaahaara \msNb\msL; 
+	cittenaakar.sa.na.m yacca pratyaahaara.h \msW}
+\newverse
+"sabdaatkar.nau rasaajjihvaa spra.s.tavyaacca tvagindriyam|%
+\tika{"sabdaatkar.n.nau\lem
+	\msL\msCa\msW\edN; "sabdaatkar.naa \msNb\msKa}%
+\tika{rasaajjihvaa\lem
+	\msL\msNb\msKa\edN; rasaajjihvaa.m \msCa}%
+\tika{spra.s.tavyaacca tvagindriyam\lem
+	\msNb; spa.s.tavyaacca tvagindriyam \msCa\msW; 
+	spa.s.tavyaa.mnta tvagendiyaa.mKa; spar.satvaattu tvagindriyam \edN;  
+	sprar.s.tavyaacca tvavya.mindriyam \msL}
+
+gandhaadghraa.na.m mano dharmaaddra.s.tavyaannayana.m tathaa|| 1:15||%
+\tika{gandhaadghraa.na.m\lem
+	\msL\msNb\msCa\edN; ga.mdhaghraa.naat \msKa; ga.mdhaaghraa.na \msW}%
+\tika{manodharmaaddra.s.tavyaannayanantathaa\lem
+	\msL\msCa\msKa\msW; ma.nodharmaaddra.s.tavyaannocanannadadhaa \msNb; 
+	mano.adharmaad d.r.s.tatvaannayana.m tathaa \edN}
+\newverse 
+nityaabhyaasaadviraagaadvaa tasmaadaak.r.sya yatnata.h|%
+\tika{aak.r.sya\lem
+   \msNb\msL\msCa\msKa\edN; aak.sa.sya \msW}
+
+ekatra vartuliik.rtya dhyeye vastuni yojayet|| 1:16||%
+\tika{ekatra\lem
+	\msNb\msLpc\msCa\msKa\msW\edN; evakatra \msLac}%
+\tika{varttuliik.rtya\lem
+	\msL\msCa\msW\edN; vatuliik.rtya \msNb; vattuliik.rtya \msKa}%
+\tika{dhyeye vastuni yojayet\lem
+\msL\msW; dheyai vastu niyojayet \msNb; 
+dheyinastu niyojayet \msCa; dhyeyavastu niyojayet \msKa; dhyeye vastuni yojayet \edN}	
+\newverse 
+ko dhyeya.h kastvasau dhyaataa ki.m dhyaana.m ki.m prayojanam|%
+\tika{kastvasau\lem
+	\msL\msCa\msKa\msW\edN; kastu sau \msNb}
+
+catvaaryetaani yo vetti sa yogii yogya ucyate|| 1:17||%
+\tika{yogya\lem
+	\msW; yoga \msNb\msL\msCa\msKa\edN}%
+\tika{vetti\lem
+	\msCa\msKa\msW\edN; veti \msNb}
+\newverse        
+dhyeya.h "sivo dhyaat.r mano dhyanamekaagracittataa|%
+\tika{dhyeya.h "sivo dhyaat.r mano\lem
+	\msL\edN; dhyeya "sivo dhyaat.r mana.h \msNb; 
+	dhyeya.h "siva dhyaat.r mano \msCa; dhyeya.h "sivo dhyaat.r mana.h \msKa; 
+	dhyaya.h "sivo dhaat.r mano \msW}%
+\tika{@kaanta@\lem
+	\msL\msW; 	@kaagra@ \msNb\msCa\msKa\edN}
+
+du.hkhahaanirgu.nai"svarya.m svaatantrya~nca prayojanam|| 1:18||%
+\tika{du.hkhahaanirgu.nai"svarya.m svaatantrya~nca\lem
+\msNb; du.hkhahaanirgu.nai"svarya.m "svaatantrya~nca \msCa; 
+ du.hkhahaanirgu.nairya"sva (${\rm there is acorrection mark above the letter}$ ya) svaatantrya~nca prayojanam \msL; 
+ du.hkhahaanirgu.nai"svaryye "svaatantrya~nca \edN; 
+ du.hkhahaanigu.nai"svarya svaatantrya~nca prayojana.m \msKa\msW}
+\newverse        
+puuraka.h kumbhaka"scaiva recakastadanantaram|%
+\tika{recakastadanantaram\lem
+	\msL\msNb\msKa\msW\edN; rekakatadanantaram \msCa}
+
+pra"saanta"scaiva vij~neya.h praa.naayaama"scaturvidha.h|| 1:19||%
+\tika{pra"saanta"scaiva\lem
+	\msL\msNb\msKa\msW\edN; pra"saanta"scaiti \msCa}%
+\tika{@vidha.h\lem
+	\msL\msNb\msKa\msCa\edN; @vidha \msW}
+\newverse   
+vaayorbahirgatii ruddhvaa naasikaabhyaa.m mukhena vaa|%
+\tika{vaayorbahirgatii ruddhvaa\lem
+\msL\msCa; vaayorbahirgati.m ruddhaa \msNb; vaayorbahirgatii ruddhaa \edN\msKa; 
+ vaayobahigatii ruddhaa \msW}
+
+dehasyaabhyantare yatnaacchanairaakar.sayedbudha.h|| 1:20||%
+\tika{@syaabhya@\lem
+	\msNb\msKa\msCa\msLpc\msW\edN; @syaa@ \msLac}%
+\tika{yatnaacchanai@\lem
+		\msNb\msKa\msCa\msL\edN; yatnaa channair \msW}		
+\newverse
+paadaa"ngu.s.thatala.m yaavatpuura.naatpuuraka.h sm.rta.h|%
+\tika{paadaa"ngu.s.thatala.m\lem
+	\msNb\msKa\msL\edN; paadaa"ngu.s.tatala.m \msCa\msW}
+          
+aapuurya dhaara.na.m yattu kumbhaka.h samudiirita.h|| 1:21||%
+\tika{yattu\lem
+	\edN; yatra \msNb\msKa\msL; yavat \msCa; \omits\ \msW\hypometrical}%
+\tika{samudiirita.h\lem
+	\msNb\msKa\msL\msW\edN; samudiiritam \msCa}	
+\newverse
+tato ni.h"se.savamana.m recaka.h samudaah.rta.h|%
+\tika{ni.h"se.savamana.m\lem
+	\msNb\msCa\msL\msW\edN; ni"se.savamana.m \msKa}%
+\tika{recaka.h\lem
+	\msNb\msCa\msL\edN; raceka.h \msKa}%
+\tika{samudaa@\lem
+	\msNb\msCa\msKa\msLpc\edN; samu@ \msLac\hypometrical}
+
+tucchadehe k.sa.na.m sthaana.m pra"saanta.h so .abhidhiiyate|| 1:22||%
+\tika{tucchadeha.m k.sa.na.m sthaatu.m pra"saanta.m.h\lem
+	\msNb\msL; tucchadeha.m k.sa.na.m sthaatu.m pra"saanta.h \msCa; 
+	tucchadeha.m k.sa.na.m sthaatu.m prasaanta.h \msKa; 
+	tuchadeha.m k.sa.na.m sthaatu.m pra"saanta.m.h \msW; 
+	tucchadehe k.sa.na.m sthaana.m pra"saanta.h \edN}
+\newverse  
+tri jaanuma.n.dala.m sp.r"sya cho.tirekaabhidhiiyate|%
+\tika{tri jaanuma.n.dala.m sp.r"sya cho.tirekaabhidhiiyate\lem
+\msNb\msKa; tri jaanuma.n.dala.m sp.rsyatko.tirevaabhidhiiyate \msCa; 
+ tri jaanuma.n.dala.m sp.r"sya ccho.tirekaabhidhiiyate \msL; 
+ tri jaanuuma.n.dala sp.r"sya chotirekobhidhiiyate \msW; 
+ tri rjaanuma.n.dala.m sp.r"sya cho.tirekaa.abhidhiiyate \edN} 
+
+cho.tikaabhirdvaada"sabhirmaatrikaa parikalpitaa|| 1:23||%
+\tika{cho.tikaabhirdvaada"sabhi@ \lem
+	\msNb\msCa\msL\edN; cchotikaabhirdvaada"sabhi@ \msKa; 
+	cho.tikaabhidvaada"sabhi@\msW}%
+\tika{maatrikaa\lem
+	\msL\msW; maatrikaa \msNb\msCa\edN; maat.rkaa \msKa}
+\newverse
+maatraadvaada"sabhi.h praa.na.h praa.naayaama iti sm.rta.h|%
+\tika{praa.na.h\lem
+	\msNb\msCa\msL\msW\edN; praa.na \msKa}
+
+praa.naayaamairdvaada"sabhirdhaara.neti prakiirttitaa|| 1:24||%
+\tika{@rdvaada"sabhirdhaa@\lem
+	\msCa\msL\edN; @rdvaada"sabhidhaa@ \msNb; 
+	 @dvaada"sabhirddhaa@ \msKa; @dvaada"saabhi dhaa@ \msW}
+\newverse
+dhaara.naabhirdvaada"sabhiryojanaa samudiiritaa|%
+\tika{dhaara.naa@\lem
+	\msNb\msCa\msL\msW\edN; dhaaranaa@ \msKa}%
+\tika{@rdvaada"sabhiryoga@\lem
+	\msCa\edN; @rdvaada"sabhiyoga@ \msNb; 
+	@dvaa"sa.mdebhiyoga@ \msKa; 
+	@rdvaada"sabhiyoga@ \msL; @dvaada"sabhiyo@ \msW}
+
+yojanaabhirdvaada"sabhiryogasa.mj~naa k.rtaa puraa|| 1:25||
+\newverse
+ityetaddhaara.naavelaaparimaa.namudaah.rtam|%
+\tika{ityetaddhaara.naavelaaparimaa.namudaah.rtam\lem
+\msNb\msCa; ityetaddhaara.naavelaaparivaaramudaah.rta.m \msKa; 
+ ityetaddhaara.naavelaapari.naamamudaah.rtam \msL; 
+ ityetadhaara.naavelaaparimaa.namudaah.rtaam \msW; 
+ itye.sa dhaara.naavelaaparivaara udaah.rta.h \edN}
+
+naanaaprakaarasiddhaantani.spannaarthaniruupa.ne|| 1:26||%
+\tika{@siddhaanta@\lem
+	\msNb\msCa\msKa\msL\edN; @siddhaanta.m \msW}%
+\tika{@ni.spannaartha@\lem
+\msCa; @ni.spadaartha@ \msNb; 
+ @nispandaartha@ \msKa\msL\edN; @ni.spannaa.mrtha@ \msW}
+\newverse
+aagamaanyonyavi"sli.s.te heyopaadeyasa.m"saye|%
+\tika{@vi"sli.s.te heyopaadeyasa.m"saye@\lem
+	\msW\msNb; @vi"sli.s.ta hedopaadeyasa.m"saye@ \msCa; 
+	@vi"sle.se heyopaadeyasa.m"saye@ \edN; 
+	@vi"sli.s.te hedopaadeyasa.m"saye@ \msKa}
+
+uuhayittvaa svacittena nyaayayuktyanusaare.na|| 1:27||%
+\tika{uuhayittvaa svacittena\lem
+\msNb\msL\msW\edN; uuhayittvaa svacitvena \msCa; 
+ uudayitvaa svavi ${\rm (may be scribal error)}$ ttena \msKa}%
+ \tika{nyaayayuktyanusaari.naa\lem
+ 	\emend; nyaayayuktaanusaara.na \msNb; nyaayayuktaanusaari.ne \msCa; 
+ 	nyaayayukatyanusaari.naa \edN; nyaa.myayuktaanusaari.naa \msKa; 
+ 	nyaayayuktaanusaari.naa \msL; nyaayayukta.m nusaari.naa \msW}
+\newverse
+ida.m graahyamidanneti chettu.m tarkko.avidhiiyate|%
+\tika{chettu.m\lem
+	\msNb\msL\msCa\msKa\edN; chetun \msW}%
+\tika{tarkko.avidhiiyate\lem
+	\msNb\msL\msCa\msWpc; tarkko vidhiiyate \edN\msKa; tarkko.avidhiyate \msWac}
+
+kaa.s.thalo.s.tasuvar.ne.su mitrodaasiina"satru.su|| 1:28||%
+\tika{kaa.s.thalo.s.tasuvar.ne.su\lem
+\msNb\msCa\msKa; kaa.s.thalo.s.thasuvar.ne \lk\ \msL; kaa.s.talo.s.tasuvar.ne.su \msW; 
+ kaa.s.thalo.s.thasuvar.ne.su \edN}%
+\tika{mitrodaasiina"satru.su\lem
+	\msKa\msLpc\msW; mitrodaa"siina"satru.su \msNb; mitrodvaa"siiva "satru.su \msCa; 
+	mitrodaasiina"satru.su \msLac; mitrodaasiina "satru.su \edN}
+\newverse
+sneha.h sarve.su tulyatva.m samaadhiriti sa"ngita.h|%
+\tika{sarve.su\lem
+	\msCa\msKa\msL\msW\edN; sarver.su \msNb}%
+\tika{sa"ngita.h\lem
+	\msKa\edN; sa"ngitaa \msNb\msCa\msL\msW}	 
+
+j~naana.m mauna.m brahmacarya.m durvaasendriyanigraha.h|| 1:29||%
+\tika{brahmacarya.m\lem
+	\msNb\msCa\msL\msW\edN; brahmacarya \msKa}%
+\tika{durvaasendriyanigraha.h\lem
+	\msNb\msKa\msL\msW\edN; durvaaseyanigraha.h \msCa\unmetrical}	
+\newverse
+kriyaapraadurbhaavana"sca .sa.dupaayaa.h prakiirttitaa.h|%
+\tika{kriyaapraadurbhaavana"sca\lem
+	\msNb; kriyaapraadurbhaavana~nca \msCa\msKa; 
+	kriyaapraadurbhaavana.m ca \msL\msW; 
+	kriyaa.apraadurbhaavana~nca \edN}%
+\tika{.sa.dupaayaa.h prakiirttitaa.h\lem
+	\msCa\msL\msW\edN; .sa.dupaaya.h prakiirttita.h \msNb; 
+	.sa.dupaayaa prakiirttitaa.h \msKa} 	
+
+vedopavedavedaa"nga.m laukika.m j~naanamucyate|| 1:30||%
+\tika{vedopavedavedaa"nga.m\lem
+	\msCa\msL\edN; vedopavedaa vedaa"ngaa \msNb; vedopavedavedaa"nga \msKa}%
+\tika{laukika.m j~naanamucyate\lem
+	\msNb\msCa\edN; laukikaj~naanamucyate \msKa; lokika.m j~naanamucyate \msL\msW}	
+\newverse
+tattvasiddhaantayogastu lokottaramiti sm.rtam|
+
+mithyaa pi"sunasambhinnapaaru.syavacanaani ca|| 1:31||%
+\tika{pi"suna@\lem
+	\msCa\msKa\msL\msW; pi"suna.m \msNb; pi"suna@ \edN}%
+\tika{@bhinna	@\lem
+\msNb\msCa\msKa\msL\edN; @bhinna.m \msW}
+\newverse
+jalpata.h sambhavantyete tasmaanmauna.m pra"sasyate|
+
+agamyanaariisa.msargaatparadaaraabhisevanaat|| 1:32||%
+\tika{agamya@\lem
+	\msNb\msCa\msKa\msL\edN; aga.mmya@ \msW}
+\tika{paradaaraabhisevanaat\lem
+	\msNb\msCa\msL; paradaaraani.seva.naat \edN; 
+	paradaaraanisevanaat \msKa; paradaaraabhi.sevanaat \msW}
+\newverse
+siddhirna jaayate yoga.h samutpanna"sca na"syate|%
+\tika{siddhirna\lem
+	\msNb\msCa\msL\edN; siddhinna \msKa; siddhi na \msW}%
+\tika{na"syate\lem
+	\msCa\msL; nasyate \msNb\msKa; na"syati \msW\edN}	
+
+tasmaattatparihaaraartha.m vratametadudaah.rtam|| 1:33||%
+\tika{tasmaattatparihaaraartha.m\lem
+	\msNb\msCa\msKa\msL\msW; parihaaraarthe \edN}
+\newverse
+vratacaarii tadaa bhuutvaa sthaatavya.m siddhimicchataa|%
+\tika{brahmacaarii tadaa bhuutvaa\lem
+	\msNb\msLac\msKa\msW\edN; vratacaarii tadaa bhuutvaa \msCa; 
+	vratacaarii sadaa bhuutvaa \msLpc\msW\verify}%
+\tika{icchataa\lem
+	\msNb\msCa\msKa\msL\edN; icchataa.h \msW}
+
+raaga utpadyate pu.msaa.m "sobhanena tu vaasasaa|| 1:34||%
+\tika{raaga utpadyate\lem
+	\msCa\msKa\msL\edN; raagamutpadyate \msNb\msW}%
+\tika{vaasasaa\lem
+	\msNb\msCa\msL\edN; vaasasaa.h \msKa}	
+\newverse
+kaa.saaya.m kutsita.m vaapi tadaa vaasa.h sami.syate|%
+\tika{kaa.saaya.m kutsita.m\lem
+	\msCa\msKa\msL\edN; kaasaaya.m kucchita \msNb; 
+	kaa.saaya kutsita.m \msWpc; kaa.saaya kutsitaa.m \msWac}%
+\tika{vaasa.h\lem
+	 \edN\msW; vaasa \msNb\msCa\msKa\msL}
+
+indriyaa.ni "sariirasthaa.h "satravo nityabaadhakaa.h|| 1:35||%
+\tika{indriyaa.ni "sariirasthaa.h\lem
+	\msNb\msL; indriyaani "sariirasthaa.h \msCa; 
+	indriyaa.ni "sariira sthaa.h \edN; indriyaani "sariirasthaa \msKa}%
+\tika{@baadhakaa.h\lem
+	\msNb\msKa\edN; @baadhikaa.h \msCa; @baadhataa \msL; @bodhakaa.h \msW}
+\newverse
+tasmaattaani vijityaadau pa"scaadyoga.m samaacaret|%
+\tika{vijityaadau\lem
+\msNb\msCa\msKa\msL\edN; vinirjitya \msW}%
+\tika{pa"scaadyoga.m\lem
+	\msNb\msCa\msL\edN; pa"scaadyoga \msKa}
+
+aprakaa"sena kartavyaa tasmaadyogakriyaa sadaa|| 1:36||%
+\tika{karttavyaa tasmaadyogakriyaa sadaa\lem
+	\msCa\msL; karttavyaa tasmaadyogakriyaa sa \msNb\hypometrical;  
+	 karttavyaa yasmaadyogakriyaa sadaa \msKa\msW; 
+	 karttavyaa yasmaadyogakriyaa.h sadaa \edN}
+\newverse
+apraadurbhaava i.syante tasmaadyogakriyaa tathaa|%
+\quote{${\rm \msW\ scribes 1.37ab twice.}$}
+% NB: r is missing in apraadurbhaava inW
+
+utsaaho ni"scayo dhairya.m santo.sastattvadar"sanam|| 1:37||%
+\tika{ni"scayo\lem
+	\msNb\msCa\msKa\msW\edN; ni"scaya.m \msL}%
+\tika{santo.sastattvadar"sanam\lem
+\msCa\msLpc\msW\edN; santo.sastatvadar"sana.h \msNb; 
+ santo.sa.m tattvadar"sana.m \msKa; santo.sastatdar"sanam \msLac}%
+ \quote{${\rm Cf.\ HYP}$ utsaahaatsaahasaaddhairyaattattvaj~naanaacca ni"scayaat| ${\rm .}$}
+\newverse
+kratuunaa.m copasa.mhaara.h .sa.dsaadhanamiti sm.rtam|%
+\tika{.sa.dsaadhanamiti\lem
+	\msNb\msCa\msL\edN; .satmaadhanamiti \msKa}%
+\tika{.sa.d\lem
+		\msNb\msCa\msKa\msL\edN; yat \msW}
+\tika{sm.rtam\lem
+	\msCa\msKa\msL\msW\edN; sm.rta.h \msNb}	
+
+yogaabhyaase.su yaa "sraddhaa utsaaha iti bha.nyate|| 1:38||%
+\tika{utsaaha\lem
+	\msCa\msKa\msNb\msW\edN; u \lk\lk\ ha \msL}
+\newverse
+ava"sya.m saadhayaamiiti cittotpaada.h sa ni"scaya.h|%
+\tika{cittotpaada.h sa ni"scaya.h\lem
+	\msNb\msCa\msL; cittotpaada sa ni"scaya.h \msKa; 
+	v.rtyutpaada.h sa ni"scaya.h \edN}
+
+sidhyasiddhyormanov.rttitulyataa dhairyamucyate|| 1:39||%
+\tika{sidhyasiddhyormanov.rttitulyataa\lem
+	\conj; sidhyasiddhau manov.rttintulyataa \msNb; 
+	sidhyasiddhau manov.rttitulyataa \msCa\edN; 
+	sidhyasiddhyormanov.rttirtulyataa \edN\verify; 
+	sidhyasidhyau manov.rttistulyataa \msKa; 
+	sidhyasidhyau manov.rrttistulyataa \msL}
+\newverse
+yathaalabdhaannavastre.su priiti.h santo.sa ucyate|%
+\tika{yathaalabdhaannao\lem
+\msNb\msKa\msL\msW\edN; yathaalabdhannao \msCa}%
+ \tika{santo.sa ucyate\lem
+ 	\msNb\msCa\msL\msW\edN; santo.samucyate \msKa}
+
+aatmatattvajaya.m prokta.m vidyaatattvantathaa tvidam|| 1:40||%
+\tika{aatmatattvajaya.m prokta.m vidyaatattvantathaa\lem
+\msNb\msCa\msL\msW; aatmatattva.m jayamprokta.m vidyaatattva.m tathaa \msKa; 
+	aatmatattva.m jayamprokta.m vidyaa tattva.m tathaa \edN}%
+\tika{tvidam\lem
+	\msNb\msCa\msKa\msW\edN; @nvitam \msL}
+\newverse
+"sivatattva.m namaskaaraistattvatrayamudaah.rtam|
+
+tattvameka.m ca abhyasya sarvavij~naanamaatrakam|| 1:41||%
+\tika{tatvameka.m ca abhyasya\lem
+	\msNb\msCa\msKa\msL\msW; tatvameka.m samabhyasya \edN}
+\newverse       
+graahyatvaagraahyasa.mvidyaakaarabhedaistridhaa iti|%
+\tika{@sa.mvidyaakaarabhedaistridhaa\lem
+\msNb\msCa\msW; @sa.mvidyaakaara bhedaistridhaa \edN; 
+ @sa.mvidyaakaala ${\rm (correction mark)}$ hedaistridhaa \msKa; 
+ @sa.mvidyaakaa \lk\ bhedaistridhaa \msL}
+
+pa~ncabhuutaanyaha"nkaara.h suuk.sma aatmaa mahaantathaa|| 1:42||%
+\tika{pa~ncabhuutaanyaha"nkaara.h\lem
+	\msNb\msCa\msKa\msL; pa~nca bhuutaanyaha"nkaara.h \edN}%
+\tika{suuk.sma aatmaa mahaan tathaa\lem
+	\msCa\msL; "suuk.sma aatmaa mahaastathaa \msNb; 
+	suuk.sma aatmaa mahaa.mstathaa \edN; suuk.sma aatmaa haantathaa \msKa}	
+\newverse
+ekaada"sendriyaga.naa.h pa~ncatanmaatragocaraa.h|%
+\tika{ekaada"sendriyaga.naa.h\lem	
+	\msNb\msCa\msL; ekaada"sendriyaga.na.h \edN; ekaada"sendriyaga.naa \msKa}%
+\tika{@tanmaatra@\lem
+		\msNb\msKa\msCa\edN; tatmaatra \msL\msW}%
+\tika{pa~ncatanmaatrao\lem
+	\msKa; pa~ncatatmaatrao \msNb\msCa; pa~ncatatmaatra \msL\msW; 
+	pa~nca tanmaatrao \edN} 		
+
+pa~ncavi.m"satitattvaani proktaanyetaani pa.n.ditai.h|| 1:43||
+\newverse
+te.saa.m gu.navibhaagaj~naa vij~neyaa yogina.h sadaa|%
+\tika{gu.navibhaagaj~naa\lem
+	\msNb\msCa\msL\msWpc\edN; gu.navibhaagaj~naa.h \msKa; 
+	gu.navibhaagaj~no \msW}%
+\tika{yogina.h\lem
+	\msNbpc\msCa\msKa\msL\msW\edN; yogina \msNbac}
+
+yaaj~nikairvihitaa dharmaa bhogai"svaryadhanaavahaa.h|| 1:44||%
+\tika{dharmaa\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; \omits \msLac}
+% NB: we are not recording r missing in W as it often does
+% 	for example in yaaj~nikairvihita
+\newverse
+svargamaatraparaa dharmaa na tu sa.msaaramocakaa.h|%
+\tika{svargamaatraparaa dharmaa na tu sa.msaaramocakaa.h\lem
+	\msCa\msKa\msL\msW; svagamaatraparaa dharma na tu sa.msaaramocakaa.h \msNb;
+	 svargamaatraparaa dharmaa na tu sa.msaara mocakaa.h \edN}
+
+bhogai"svaryaprasaktaanaa.m yogasiddhirna jaayate|| 1:45||%
+\tika{bhogai"svaryaprasaktaanaa.m yogasiddhirna\lem
+	\msKa; bhogai"svaryapra"saktaanaa.m yoga"siddhirna \msNb; 
+	bhonai"svaryaprayuktaanaa.m yogasiddhi na \msCa; 
+	bhonai"svaryaprayu \lk\ \lk\ naa.m yogasiddhirna \msL; 
+	bhonai"svaryaprayuktaanaa.m yogasiddhirna \msW; 
+	bhogai"svarya prasaktaanaa.m yogasiddhirna \edN}
+\newverse
+tadaa hi tasmaadyaj~naanaamupasa.mhaara i.syate|%
+\tika{tadaa hi tasmaadyaj~naanaamupasa.mhaara i.syate\lem
+\msCa\msL\msW; tadaa hi tasmaadyaj~naanaamupasa.mhaaram i.syate \msNb; 
+ tadaa hi tasmaadyaj~naanaa.m mupasa.mhaarami.syate \msKa; 
+ tadaadi tasmaadyaj~naanaamupasa.mhaara i.syate \edN}
+
+velaanidraa"sanasthaana.m catvaaro nimayaa.h sm.rtaa.h|| 1:46||%
+\tika{velaa nidraa"sanasthaana.m catvaaro nimayaa.h sm.rtaa.h\lem
+	\msCa\msL; velaa nidraa"sanasthaana catvaaro nimayaa sm.rtaa.h \msNb; 
+	velaa nidraasamasthaana.m catvaaro niyamaa.h sm.rtaa.h \msKa; 
+	velaa nidraa .a.asana.msthaana.m catvaaro nimayaa.h sm.rtaa.h \edN}
+\newverse
+muutravi.s.thaasamutsarge bhojane caiva yogavit|%
+\tika{@vi.s.thaa@\lem
+	\msCa\msNb\msKa\msW\edN; @vi.s.tha@L}%
+\tika{bhojane caiva\lem
+	\msCa\msKa\msW\edN; bhojane ceva \msNbpc; bhojanai ceva \msNbac}
+
+velaametaavatii.m tyaktvaa "se.sa.m yu~njiita tatpara.h|| 1:47||%
+\tika{velaametaavatii.m tyaktvaa "se.sa.m\lem
+	\msNb\msCa\msL; velaametaavatii tyaktvaa "sa.sa.m \edN; 
+	velaametaavatii tyaktvaa "se.sa.m \msKa\msW}
+\newverse
+andhavajja.davaccaivonmattavanmuukavattathaa|%
+\tika{ja.davac\lem
+	\msNb\msCa\msKa\msL\edN; ja.dac \msW\hypometrical}%
+\tika{@vonmatta@\lem
+	\msNb\msCa\msKa\msW\edN; @votmatta@ \msL}
+
+eva.mbhuutvaa sadaa yogii dhyaanaasakto mahii.m caret|| 1:48||%
+\tika{eva.mbhuutvaa sadaa yogii dhyaanaasakto\lem
+	\msNb\msKa\msL\msW; eva.mbhuutvaa sadaa yogii dhyaanaa"sakto \msCa; 
+	eva.m bhuutvaa sadaa yogii dhyaanaasakto \edN}%
+\tika{mahii.m\lem
+		\msNb\msCa\msKa\msL\edN; mahii \msW}
+\newverse
+puurvayaama"scaturtha"sca dvaavetau na svapenni"si|%
+\tika{puurvayaama"scaturtha"sca dvaavetau na svapenni"si\lem
+	\msKa\msL\msW; puurvayaama"sca \lac\ svapenni"si \msNb\unmetrical; 
+ puurvayaama"scaturtha"sca dvaavetau na "svapenni"si \msCa; 
+ puurvayaama"scaturya"sca dvaavetau na svapenni"si \edN}
+
+madhyayaamadvaya.m yogii nidraa.m seveta sarvadaa|| 1:49||%
+\tika{madhyayaamadvaya.m yogii nidraa.m\lem
+	\msKa\msL\msW\edN; madhyayaamadvayaa.m yogii nidraa.m \msNb; 
+	madhyayaamadvaya.m yogii nidraa \msCa}
+\newverse
+.sa.drasopetasusnigdhasvaadusaardrasugandhinaa|%
+\tika{.sa.drasopetasusnigdhasvaadusaardrasugandhinaa\lem
+ \msCa\msW; .sa.drasopenasusnigdhasvaadusaardrasugandhinaa \msNb; 
+ .sa.drasopetasusnigdhasvaadusaardrasugandhitaa \msL; 
+ .sa.drasopetasusni.mgdhasvaadusaadrasugandhini \msKa; 
+ .sa.drasopetasusnigdhasvaadusaandrasugandhinaa \edN}
+
+udarasyaardhabhaagantu bhojanena prapuurayet|| 1:50||%
+\tika{udarasyaardhabhaagantu\lem
+	\msNb\msKa\msL\edN; uda \lk\ syaarddhabhaagantu \msCa; 
+	udasyaardvabhaagantu \msW\hypometrical}
+\newverse
+paaniiyena caturbhaaga.m tacche.sa.m "suunyami.syate|%
+\tika{paaniiyena\lem
+	\msNb\msCa\msKa\msL\edN; paanaayena \msW}%
+\tika{i.syate\lem
+		\msNb\msCa\msKa\msL\edN; ii.syate \msW}
+
+vaayo.h sa.mcaaradaanaarthamaahaaraniyama.h sm.rta.h|| 1:51||%
+\tika{vaayo.h sa.mcaaradaanaarthamaahaaraniyama.h\lem
+	\msNbpc\msCa; vaayo sa.mcaara.m daanaarthamaahaaraniyama.h \msNbac\msKa; 
+	vaayo.h sa.mcaaradaanaathamaahaaraniyama.h \msL; 
+	vaayo.h sa.mcaaradaanaarthamahaaraniyama.h \msW;   
+	vaayossa~ncaara.naanaarthamaahaaraniyama.h \edN}
+\newverse
+valmiikasannik.r.s.taagni"su.skav.rk.sajalaa"srayam|%
+\tika{valmiika@\lem
+	\msNb\msCa\msKa\msL\edN; vaalmiika@ \msW}%
+\tika{@sanni@\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; @sa.msa.mni@ \msLac\hypermetrical}%
+\tika{@"su.skav.rk.sa@\lem
+	\msNb\msCa\msLpc\edN; @"sukrav.rk.sa@ \msKa; 
+	@"su.skav.rk.sasa@ \msLac\hypermetrical}
+
+da.m"saadikii.takaakiir.na.m sthaanametadvivarjayet|| 1:52||%
+\tika{da.m"saa@\lem
+  \msNb\msCa\msKa\msL\edN; da"saa@ \msW}%
+\tika{@kii.takaakiir.n.na.m\lem
+\msNb\msCa\msL\msW\edN; @kii.takiikiir.n.na.m \msKa}%
+ \tika{@vivarjayet\lem
+ 	\msCa\msKa\msL\msW\edN; @vivajayet \msNb}
+\newverse
+vivikte nirjane "saante v.rk.samuule suraalaye|%
+\tika{vivikte nirjane "saante v.rk.samuule suraalaye\lem
+	\msCa\msKa\msL; vivikte nirjake "saante v.rk.samuule suraalaye \msNb; 
+	vivikte nirjane "saantai v.r.mk.samuule suraalaye \msW; 
+	vivikte nirjane "saantev.rk.samuule "sivaalaye \edN}
+
+nadiitiire g.rhe vaapi yoga.m yo~njiita yatnata.h|| 1:53||%
+\tika{nadiitiire\lem
+	\msCa\msNb\msKa\msL\msW; nadii tiire \edN}%
+\tika{yoga.m\lem
+	\msNb\msKa\msL\msW\edN; yoga \msCa}	
+\tika{yo~njiita\lem
+	\msCa\msNb\msKa\msL\edN; yukta.mjiita \msWpc\hypermetrical; 
+	yukte.mjiita \msW\hypermetrical}
+\newverse
+maanaso yaugapadya"sca dviruupo yoga ucyate|%
+\tika{maanaso\lem
+	 \edN\msCa?\msW; maanasa.m \msNb\msKa\msL}%
+\tika{yaugapadya"sca\lem
+ \edN; yaugapadya~nca \msCa\msLpc; yogapadya"sca \msNb\msW; 
+ yogapadya~nca \msKa\msLac}	 
+
+ak.rtvaa praa.nasa.mrodha.m manasaikena kevalam|| 1:54||%
+\tika{manasaikena\lem
+     \msCa\msKa\msL\msW\edN,; manasekena \msNb}
+\newverse
+dhyaayeta parama.m suuk.sma.m sa yogo maanasa.h sm.rta.h|
+
+sa.myamya manasaa praa.na.m praa.naayaamairmanastathaa|| 1:55||%
+\tika{sa.myamya\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ \msL}% 
+\tika{praa.naan\lem
+	\msW; praa.naa \msNb\msCa\msKa; praa.na.m \msL\edN}%
+\quote{${\rm top of these letters are missing in \msL.}$}	
+\newverse
+eva.m dhyaayetpara.m suuk.sma.m yaugapadya.h sa ucyate|%
+\tika{eva.m\lem
+	\msNb\msCa\msKa\msW\edN; \lk\ va \msL}%
+\tika{dhyaayet\lem
+		\msNb\msCa\msKa\msL\edN; \lk\ yaaya.mt \msW}%
+\tika{suuk.sma.m\lem
+\msCa\msKa\msL\msW\edN; "suuk.sma.m \msNb}
+
+sa.mk.siptaa prathamaa j~neyaa vi"saalaa samanantaram|| 1:56||%
+\tika{sa.mk.siptaa\lem
+	\msCa\msKa\msL\msW\edN; sa.mk.sipta \msNb}%
+\tika{vi"saalaa\lem
+	\msCa\msKa\msL\msW\edN; vi"saala \msNb}	 
+\newverse
+tato dvikara.nii ceti trividho yoga ucyate|%
+\tika{dvikara.nii\lem
+	\msNb\msCa\msL\msW\edN; vikara.nii \msKa}
+
+brahmaadistambhaparyantaa.h sarve sthaavaraja"ngamaa.h|| 1:57||%
+\tika{brahmaadistambhaparyantaa.h\lem
+	\msNb\msW; brahmaadistambhapariryantaa.h \msCa; 
+	 brahmaadistambhaparyanta.m \msKa; brahma \msLpc\hypometrical; \omits\ \msLac; 
+	 brahmaadistambaparyanta.m \edN}%
+\tika{sarve sthaavaraja"ngamaa.h\lem
+		\msNb\msCa\msKa\msW\edN; \omits\ \msL} 
+\newverse
+svargapaataalamartye.su yathaasthityaavyavasthitaa.h|%
+\tika{svargapaataalamartye.su\lem
+	\msCa\msNb\msKa\msL\msW; svargaa paataalamartye.su \edN}%
+\tika{yathaasthityaavyavasthitaa.h\lem
+\msCa\msNb\msKa\msW; yathaasthityaavyavasthitaa \msL; 
+yathaasthitivyavasthitaa.h \edN}
+%NB: yathaasthiti +aavyavasthitaa.h 
+
+cintayitvaa puna.h sarvaansa.mk.sipya paramaatmani|| 1:58||%
+\tika{sarvaan\lem
+	\msCa\msKa\msL\msW\edN; sarvaa.m \msNb}%
+\tika{paramaatmani\lem
+		\msNb\msCa\msKa\msW\edN; punaraatmani \msLpc; punamaatmai \msLac}
+\newverse
+praliiyamaanandhyaayeta kramaacchuunya.m bhavejjagat|%
+\tika{praliiyamaanandhyaayeta\lem
+	\msL; praliiyamaana dhyaayeta \msNb; 
+	praliiyamaa.m dhyaayeta \msCa; 
+	pra.niiyamaanaa dhyaayeta \msW; 
+	praliinamaanaa.m dhyaayeta \msKa; 
+	praliinamanasaa dhyaayet \edN}%
+\tika{bhavejjagat\lem
+\msNb\msCa\msKa\msW\edN; bha \lk\ \lac\ \msL}
+
+tadaa vi"si.syate "suddha.h sa eka.h paramaak.sara.h|| 1:59||%
+\tika{tadaa vi"si.syate\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ yate \msL}%
+\tika{"suddha.h\lem
+\msCa\msKa\msL\msW\edN; suddha.h \msNb}%
+\tika{sa eka.h\lem
+	\msNb\msCa\msL\msW; sva eka.h \edN; sa eka \msKa}
+\newverse
+e.sa yogavidha.h prokta.h sa.mk.sipto naama naamata.h|%
+\tika{@vidha.h\lem
+	\msNb\msCa\msKa\msL\edN; @vidhi \msW}
+
+susuuk.sma.m cintayitvaadau paramaatmaanamavyayam|| 1:60||%
+\tika{susuuk.sma.m\lem
+	\msNb\msCa\msKa\msL\edN; sa suuk.sma.m \msW} 
+\newverse
+tasya tejasi nirjaataa.m "sakti.m yogaadvicintayet|%
+\tika{nirjaataa.m\lem
+	\msCa\msL; nir~njaataa.m \edN; jaataa.m \msNb; 
+	nijjaataa \msKa; nijjaataa.m \msW}%
+\tika{"sakti.m\lem
+	\msL\msW\edN; sakti.m \msNb; "sakti \msCa\msKa\msW}	 
+
+sadaa"sivaadiintaansarvaan paripaa.tyaa carasthitaan|| 1:61||%
+\tika{sadaa"sivaadiintaansarvaan\lem
+	\msCa\msL; sadaasivaadii.mtaa.m sadaa.m \msNb; 
+	sadaa.m "sivaadiintaansarvaan \msW; sadaa"sivaadiintaasarvaan \msKa; 
+	sadaa"sivaadiistaan sarvaan \edN}%
+\tika{paripaa.tyaa carasthitaan\lem
+	\msCa\msL; paripaa.tyaa.m carasthiraan \msNb; 
+	paripaa.tyaa.m carasthiraam \msW; 
+	paripaa.tyaa cayasthitaan \msKa; 
+	paripaa.tyaa bhave sthitaan \edN}
+\newverse
+pa"scaatk.rtsna.m jagaddhyaayedvi"saalaa parikiirtitaa|%
+\tika{pa"scaat\lem
+	\msNb\msCa\msKa\msL\edN; pa"scaa \msW}%
+\tika{parikiirtitaa\lem
+	\msCa\msKa\msL\msW\edN; parikiirtitaa.h \msNb}
+
+etau sa.mhaaravargau dvau paaramparye.na cintayet|| 1:62||%
+\tika{sa.mhaaravargau\lem
+	\msNb\msCa; sa.mhaarasargau \msKa; 
+	sa.mhaarasagnau \msW; sa.mhaaratva(?) \lac\ \msL}%
+\tika{paaramparye.na\lem
+		\msNb\msCa\msKa\msW; \lac\ lk\ ya.na \msL}%
+\tika{cintayet\lem
+	\msNb\msCa\msL\msW; cintayeta \msKa}%
+\quote{${\rm 1:62cd is missing in \edN.}$}		
+\newverse
+e.saa dvikara.nii naama yogasya vidhiri.syate|%
+\tika{e.saa\lem
+	\msNb\msCa\msL\edN; e.saa.m \msKa}%
+\tika{dvikara.nii\lem
+		\msNb\msCa\msKa\msL\edN; kara.nii \msW\hypometrical}%
+\tika{vidhiri.syate\lem
+	\msNb\msKa\msL\msW\edN; vidhiru.syate \msCa}
+	
+k.sunnidraalasyamai"svarya.m bhoga.h sneho dhana.m ya"sa.h|| 1:63||%
+\tika{k.sunnidraalasyamai"svarya.m bhoga.h sneho\lem
+	\msCa\msL; k.sunnidraalasyamai"svarya bhoga sneho \msNb\msKa; 
+	 k.syu.mnindraalasyamaisvarya.m bhoga sneho \msW; 
+	 k.sunnidraa.a.alasyamai"svarya.m bhoga.h sneho \edN}
+\newverse
+dharmo vidyaa ca vij~neyaa upasargaga.naa da"sa|%
+\tika{@sargaga.naa\lem
+	\msNb\msCa\msKa\msL\edN; @sargaaga.naa \msW}%
+\tika{da"sa\lem
+	\msNb\msCa\msL\msW\edN; da"sa.h \msKa}
+% NB: a later does not understand e-matra inL and provides 
+% in many a occasions. We have not provided such cases in our apparatus. 	 
+
+a.nimaa laghimaa praapti.h praakaamya.m mahimaa tathaa|| 1:64||%
+\tika{a.nimaa\lem
+	\msCa\msKa\msL\msW\edN; animaa \msNb}%
+\tika{laghimaa praapti.h\lem
+	\msNb\msCa\msL\msW\edN; laghimaarpraapti.h \msKa} 
+\newverse
+ii.sitva~nca vasitva~nca yatra kaamaavasaayitaa|%
+\tika{ii.sitva~nca\lem
+	\msL\edN; i.sitva~nca \msCa\msNb\msKa; i.sitva.mpa \msW}%
+\tika{vasitva~nca\lem
+	\msNb\msCa\msL\edN; va.sitva~nca \msKa; ra"siva.m ca \msW}%
+\tika{kaamaavasaayitaa\lem
+	\msNb\msCa\msL\msW\edN; kaamaavasaayikaa \msKa}		 
+
+ityai"svaryagu.naa a.s.tau puraa proktaa manii.sibhi.h|| 1:65||%
+\tika{ityai"svaryagu.naa a.s.tau\lem
+	\msNb\msCa\msL\edN; ityai"svaryagu.naana.s.tau \msKa; 
+	 ityai"svaryagu.naa \msW\unmetrical}%
+\tika{puraa\lem
+	\msNb\msCa\msKa\msW\edN; paraa \msL}%
+\tika{manii.sibhi.h\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ bhi.h \msL}
+\newverse
+gu.nairamiibhi.h sa.myukto bhavedyogii na sa.m"saya.h|%
+\tika{amiibhi.h\lem
+	\msNb\msCa\msKa\msL\edN; amiibhi \msW}%
+\tika{bhavedyogii\lem
+	\msCa\msKa\msL\msW\edN,; bhavadyogii \msNb}
+
+yasya prabhaavaatsuuk.smatva.m yaayaadyogii yathecchayaa|| 1:66||%
+\tika{suuk.smatva.m\lem
+	\msNb\msKa\msL\edN,; susuuk.smatva.m \msCa\unmetrical}%
+\tika{yaayaad\lem
+	\msNb\msCa\msKa\msL\edN; yayaad \msW}%
+\tika{yathecchayaa\lem
+	\msNb\msCa\msKa\msL\edN; yathepsayaa \msW}
+\newverse
+d.r.s.teragocara.m yaavatsa gu.no bha.nyate.a.nimaa|%
+\tika{bha.nyate.a.nimaa\lem
+	\msCa\msL; bha.nyate.animaa \msNb\msW; bhavyate.a.nimaa \edN; 
+	bha \lac\ te.animaa \msKa}
+
+gu.nena mahataa yena nirdagdhadurito laghu|| 1:67||%
+\tika{gu.nena\lem
+	\msCa\msKa\msL\msW\edN; gu \lac\ \msNb}%
+\tika{nirdagdhadurito\lem
+	\edN; nirdagdho durito \msCa; 
+	nidagdha.m durito \msNb; nirdagdha durito \msKa; 
+ nidargvadurito \msL; nidagdhaduurito laghu.h \msW}
+ \newverse
+yaayaadvihaayasaa yogii sa gu.no laghimaa sm.rta.h|%
+\tika{sm.rta.h\lem
+	\msNb\msL\edN; sm.rtaa.h \msCa\msKa\msW}
+
+yadyathaa kaa.mk.syate dravya.m tattaccintaama.neriva|| 1:68||%
+\tika{yadyathaa kaa.mk.syate dravya.m\lem
+   \msCa\msNb\msL; yadyathaa kaa.mk.sate dravya.m \msKa; 
+    yadyathaa kaak.syate dravya.m \msW; 
+    yadyathokta.m k.sared dravya.m \edN}%
+\tika{tattaccintaama.neriva\lem
+	\msCa\msL\msW\edN; tacca cintaama.neriva \msNb\msW; 
+	tatvacintaama.neriva \msKa}
+\newverse
+yoginaa praapyate yasmaatsa gu.na.h praaptirucyate|%
+\tika{yoginaa\lem
+	\msNb\msCa\msW\edN; yoginaa.m \msKa; \lac\ \msL}%
+\tika{praapyate\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ pyate \msL}%
+\tika{gu.na.h\lem
+		\msNb\msCa\msKa\msL\edN; gu.ne.h \msW}
+
+anekadehamaatmaana.m kuruupa.m vaa manoramam|| 1:69||%
+\tika{anekadehamaatmaana.m kuruupa.m\lem
+ \edN; anekadehamaatmaana.m suruupa.m \msCa\msL\msW; 
+ anekadehamaatmaana.m svaruupa.m \msNb; 
+ anenadehamaatmaana.m svaruupa.m \msKa}
+\newverse
+.rddhyaa karoti yadyogii tatpraakaamyamudiiryate|%
+\tika{karoti\lem
+	\msCa\msNbac\msKa\msL\msW\edN; karotu \msNbpc}%
+\tika{tatpraakaamyamudiiryate\lem
+	\msKa\msL\edN; tapraakaamyamudiiryate \msNb; 
+	tatpraakaamyamudiiritam \msCa; tatpraakaamyamudiirayet \msW} 
+
+gu.nena yena sampanno devaasuranaraadibhi.h|| 1:70||%
+\tika{gu.nena\lem
+	\msCa\msKa\msL\msW\edN; gu.na \msNb}
+\newverse
+sarvatra puujyate yasmaatsa gu.no mahimaa vidu.h|%
+\tika{puujyate\lem
+	\msNb\msCa\msKa\msW\edN; puujate \msL}%
+\tika{yasmaat\lem
+	\msCa\msNb\msKa\msL\msW; yogii \edN}%
+\tika{vidu.h\lem
+	\msCa\msNb\msKa\msL; sm.rta.h \msW; mata.h \edN}	 
+
+yogii sarvaanava.s.tabhya karotyaaj~naamavandhyataam|| 1:71||%
+\tika{sarvaanava.s.tabhya\lem
+	\msNb\msCa\msL\msW\edN; sarvaanave.s.tavya \msKa}%
+\tika{karotyaaj~naamavandhyataam\lem
+\msNb\msCa (${\rm not clear}$)\msW\msL; 
+ karotyaj~naanavandhataa.m \msKa; 
+ karotyaj~naanavandhyataam \edN}	
+\newverse
+prabhutva.m naama yatsaukhya.m tadii.sitvamudiiryate|%
+\tika{naama yatsaukhya.m\lem
+     \msCa\msNb\msW; nyaayavatsaukhya \msKa; 
+      naama yatsaukha.m \msL; nyaayavat saukhya.m \edN}%
+ \tika{tadii.sitvamudiiryate\lem
+ 	\msNb\msCa\msW\edN; tadii"sitvamudiiryate \msKa; \lac\ te \msL}
+
+yatsevyate sarvasatvai.h saubhaagyagu.namohitai.h|| 1:72||%
+\tika{sevyate\lem
+	\msNb\msCa\msKa\msL\edN; savyate \msW}	
+\newverse
+yogii bh.rtyairiva svaamii va"sitva.m tadvidhiiyate|%
+\tika{va"sitva.m tadvidhiiyate\lem
+	\msNb\msL\msW; daa"satva.mntadvidhiiyate \msCa; 
+	va"sitva.m tadvidhiiyate \msKa; 
+	vasiitva.m tadvidhiiyate \msW; va"sitva.m tadbhidhiiyate \edN}
+
+yatra yatra bhavetpriitistatra gatvaavasiidate|| 1:73||%
+\tika{gatvaavasiidate\lem
+	\msNb\msKa; gatvaava"siidati \msCa; 
+	tatraavasiidati \msL; gatvaavasiidati \msW\edN}
+\newverse
+manojavena saa khyaataa yatra kaamaavasaayitaa|| 1:74||%
+\tika{kaamaavasaayitaa\lem
+	\msCa\msKa\msL\msW\edN; kaamaavasaayataa \msNb}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m saadhanaprakara.na.m naama prathama.h pa.tala.h|| \flourish\ ||%
+\tika{sa.mhitaayaa.m\lem
+	\msNb\msCa\msKa\edN; \omits\ \msL\msW}%
+\tika{@ma.h pa.tala.h\lem
+	\msNb\msCa\msKa\msL\edN; @mo.adhyaaya.h \msW}%
+\quote{${\rm Bottom of the line are missing in \msL.}$}
+
+\changechap
+\newverse
+a.s.tabhi.h saadhanairebhi"scitta.m kaaya~nca yatnata.h|%
+\tika{a.s.tabhi.h\lem
+	\msNb \msCa\msL\msW; a.s.taabhi.h \msKa\edN}%
+\tika{saadhanairebhi"scitta.m kaaya~nca yatnata.h\lem
+	\msNb \msCa\msKa\edN; \lac\ \msL; 
+	saadhanairebhi"scitta.m kaaya~nca yatnata \msW}%
+\quote{${\rm Bottom of the line are missing in \msL.}$}		
+
+"sodhayitvaa tato yogii yogaabhyaasa.m samaacareta|| 2:1||%
+\tika{"sodhayitvaa\lem
+	 \msCa\msKa\msL\msW\edN; sodhayitvaa \msNb}%
+\tika{yogaabhyaasa.m\lem
+		 \msNb\msCa\msKa\msLpc\msW\edN; yogaasa.m \msLac\hypometrical}
+\newverse
+i.s.tadeva.m namask.rtyopaadhyaaya~ncaiva yatnata.h|%
+\tika{i.s.tadeva.m\lem
+	\msCa\msKa\edN; i.s.tadeva \msNb}%
+\tika{namask.rtyopaadhyaaya~ncaiva\lem
+ \msCa\msKa\msL; namask.rtvopaadhyaaya.mcaiva \msNb; 
+ namask.rtyopaadhyaaya caiva \msW; 
+ namask.rtya sadgura~nca \edN}%
+ \tika{yatnata.h\lem
+ 	\msNb\msCa\msKa\msL; yatna.h \msW\hypometrical; prayatnata.h \edN}	
+
+aasthiiyaatpraa"nmukho bhuutvaa "suciryogii vi"se.sata.h|| 2:2||%
+\tika{"suciryogii\lem
+	 \msCa\msKa\msL\edN; "suciyogii \msNb\msW}
+% NB:	aasthiiyaat is grammatically a wrong word but occurs in literature
+\newverse
+padmasvastikapii.thaani sthalama~njalikaasanam|%
+\tika{padmasvastikapii.thaani\lem
+	\msNb\msCa\msKa\msL; padmisvastikapii.thaani \edN}%
+\tika{sthalama~njalikaasanam\lem
+ \msCa\msL; sthalama~njalikaasana \msNb; sthaalama~njalikaasana.m \msKa; 
+ sthalama~njaalikaasanam \msW; sthalama~njalikaasana.m \edN}
+
+ardhacandra~nca da.n.da.m ca sarvatobhadrameva ca|| 2:3||%
+\tika{ardhacandra~nca\lem
+	 \msCa(${\rm not very clear}$)\msKa\msL\msW\edN; ardhacandra"sca \msNb}%
+\tika{da.n.da~nca sarvatobhadrameva\lem
+	 \msCa\msKa\msW\edN; \lac\ meva (${\rm not clear due to overwriting}$)\msNb; 
+	 da.n.da~nca sarvatobhadra \lk\ va \lac\ \msL}	 
+\newverse
+eva.m naamabhira.s.taabhiraasanaprakara.na.m sm.rtam|%
+\tika{naamabhira.s.taabhir\lem
+	 \msNb\msCa\msL\edN; naamabhirastaa (${\rm with correction mark}$) bhir \msKa}%
+\tika{@prakara.na.m sm.rtam\lem
+	 \msCa\msL; @prakara.nasm.rtama.m \msNb; 
+	 @prakara.na.m sm.rta.m \msKa\edN; @prakara.na.m sm.rta.m \msW}%
+\quote{${\rm Bottom of the line are missing in \msL.}$}	 
+	 
+te.saa.m sa.msthaanabheda.m tu pravak.syaami yathaakramam|| 2:4||%
+\tika{yathaakramam\lem
+	\msCa\msW; yathaakrama.m \msNb\msKa\edN}%
+\quote{${\rm Bottom of the line are missing in \msL.}$}	 	
+\newverse
+aasthityottaanapaadaagrau ganthivaccetaretarau|%
+\tika{aasthityottaanapaadaagrau ganthivaccetaretarau\lem
+	 \msNb\msCa\msKa\msL; aasthityottaana paadaagrau ganthivaccetaretarau \edN; 
+	 aasthibhyottaanapaadaagrau gan.thivaccetaraitaram \msW\hypermetrical}
+
+uurvorupari vinyasya "sli.s.tapaar.s.nii susa.msthitau|| 2:5||%
+\tika{uurvorupari\lem
+	 \msNb\msCa\msKa; urvorupari \msW; uurvvoruupari \edN}%
+\tika{"sli.s.tapaar.s.nii\lem
+ \edN; "sli.s.tapaar.s.nau \msCa\msKa\msL; 
+ "sli.s.tapaar.s.na \msNb; "sli.s.ta.saar.s.nii \msW} 
+\newverse
+uttaana.m vaamahastaagra.m paar.s.nyorupari vinyaset|%
+\tika{paar.s.nyorupari\lem
+	 \msNb\msCa\msL\edN; paar.s.naurupari \msKa; paa.s.nyorupari \msW}
+
+tasyopari punastadvatsthaapya dak.si.napallavam|| 2:6||%
+\tika{dak.si.napallavam\lem
+	\msCa\msW; dak.si.napallava.m \msNb\msKa\edN}
+\newverse
+avakrastabdhani.spandagaatra"sailaavalambitam|%
+\tika{avakrastabdhani.spanda@\lem
+	 \msNb\msCa\msKa\msL\edN; avakrastaptanisyabda@ \msW}%
+\tika{@gaatra@\lem
+		 \msNb\msCa\msKa\msL\edN; @gatra.m \msW}%
+\tika{@"sailaavalambita.m\lem
+	 \msNb\msKa\msL\msWpc\edN; @"sailaavalambita.h \msCa; 
+	 @"saitaalaavalambita.m \msW\hypermetrical}
+
+baahuyugma.m tathaa kaarya.m yathaa m.rdulataadvayam|| 2:7||%
+\tika{baahuyugma.m tathaa kaarya.m\lem
+	 \msCa\msLpc\msW; baahuyugma.m tathaa kaarya.m \msNb\edN; 
+	 bahuyugman tathaa kaarya.m \msKa; 
+	 baayuhuyugman tathaa kaarya.m \msLac\hypermetrical}%
+\tika{m.rdulataadvayam\lem
+  \msCa\msL\msW; m.rdulataadvaya.m \msNb\msKa}
+\newverse
+samudbhavadatho.s.taabhyaamagaa.dhapithita.m mukham|%
+\tika{samudbhavadatho.s.taabhyaamagaa.dhapithita.m\lem
+	\msCa; samudbhavadatho.s.taabhyaamagaa.dhapithila.m \msNb; 
+	samudbhavadatho.s.taa \lac\ la.m msL; samudbhavedho.s.taabhyaa \msKa\verify; 
+	samudbhavadatho.s.taabhyaamagaa.dhapihita.m \msW; 
+	samudbhavadatho.s.taabhyaamaagaa.dhapihita.m \edN}%
+\tika{mukham\lem
+	 \msCa\msW; mukha.m \msNb\msKa\edN; mu.mkham \msL}
+
+dantaagra.m nyasya jihvaagre sthira.m griivaa ca mastakam|| 2:8||%
+\tika{dantaagra.m nyasya jihvaagre\lem
+	\msNb\msCa\msL; dantaagra.m nyasya jihvaagra.m \msKa; 
+	dantaagra nyasya jihvaagre \msW; dantaagre nyasya jihvaagra.m \edN}%
+\tika{sthira.m griivaa\lem
+	 \msKa; sthiraa griivaa \msNb\msL; sthiragriivaa \msCa\msW; sthira.m griivaa.m \edN}
+\tika{mastakam\lem
+	 \msCa\msL\msW; mastaka.m \msNb\msKa\edN}
+\newverse
+naasaagramaatrad.r.s.tyardhanimiila.m locanadvayam|%
+\tika{naasaagramaatra.d.r.s.tyarddha@\lem
+\msW; naasaagramaatra.m d.r.s.tyardha.m \msNb (.s.tya ${\rm is not clear}$)\msCa\msL; 
+ naasaagramaatra.m d.r.s.taarddha.m \msKa; naasaagra maatra.m d.r.s.tyaddha.m \edN}%
+\tika{nimiila.m locanadvayam\lem
+	\msCa; nimiila.m locanadvaya.m \msNb\msKa; 
+	nirmiila.m locanadvayam \msL; nimiilya.m locanadvaya.m \edN}	 
+
+padmaasanamiti j~neya.m pra"sasta.m sarvayogibhi.h|| 2:9||%
+\tika{j~neya.m\lem
+	\msNb\msCa\msL\msW\edN; j~neya \msKa}
+\newverse
+sa.msthaatavyau bhuutale paadaavaasanasthena|%
+\tika{sthaatavyau\lem
+	 \msNb\msL\msW; sa.msthaatavyau \msCa\hypermetrical; sa.msthaayau \edN; 
+	 sthaatavyaa \msKa}%
+\tika{paadaavaasanasthena\lem
+	 \msNb\msCa\msL\edN; paadaavaamanasthena \msKa; paadaagu.s.tena \msW}
+\tika{ yoginaa\lem
+		 \msNb\msCa\msKa\msL\edN; yoginaa.h \msW}	 
+
+dak.si.na.m vaamabhaage tu vaamapaada.m tu dak.si.ne|| 2:10||%
+\tika{vaamabhaage tu\lem
+	\msNb\msCa\msKa\msL\msWpc\edN; vaama paadantu bhaage tu \msWac\hypermetrical}%
+\tika{vaamapaada.m tu\lem
+	 \msNb\msCa\msL\msW\edN; vaamavaadantu \msKa}
+\newverse
+anyonyaabhimukha.m k.rtvaa m.rga"siir.sakaradvayam|%
+\tika{k.rtvaa\lem
+	\msNb\msCa\msKa\msL\msW; dh.rtvaa \edN}%
+\tika{@dvayam\lem
+	 \msCa\msL\msW; @dvaya.m \msNb\msKa\edN}	
+
+puurvoktenaiva gaatre.na svastikaasanasa.mj~nitam|| 2:11||%
+\tika{puurvoktenaiva\lem
+	 \msNb\msKa\msW\edN; puurvokteneva \msCa; puurvoktena \lac\ \msL}%
+\tika{gaatre.na sva@\lem
+		 \msNb\msCa\msKa\msW\edN; \lac\ va \msL}%
+\tika{@sa.mj~nitam\lem
+	\msL\msW; @sa.mj~nita.m \msNb\msKa\edN; @sa.mj~nita.h \msCa}	 
+\newverse
+aasanasthena paadau dvau nyasyetaa.m bhuutale samam|%
+\tika{aasanasthena\lem
+	\msCa\edN; aasanasthe \msNb; aa"sanastho na \msKa}%
+\tika{nyasyetaa.m\lem
+	 \msNb\msW; nyasyataa.m \msCa; nyasanaad \edN; naasanaa \msKa}%
+\tika{samam\lem
+	 \msCa\msW; sama.m \msNb\msKa\edN}%
+\quote{${\rm 12ab is missing in \msL.}$}	 	
+
+jaanudvaye hastatala.m sthaapya pii.thaasana.m bhavet|| 2:12||%
+\tika{jaanudvaye hastatala.m\lem
+ \msNb\msCa\msKa; jaanudvayorhastatale \edN}
+\tika{sthaapya\lem
+	\msW; sthaatvaa \msCa\msKa; sthitvaa \msNb\msL; thi(k.r)tvaa \edN}%
+\tika{pii.thaasana.m\lem
+    \msNb\msCa\msKa\msL\edN; pii.thaasana \msW}
+\newverse
+evamevaasanaabhaave bhuvi sthitvaa prayatnata.h|%
+\tika{evamevaasanaabhaave\lem
+	 \msCa\msL\msW; ayamevaasanaabhaave \msNb; asminnevaasane bhaave \edN; 
+	 ayamevaasane bhaave \msKa}%
+\tika{prayatnata.h\lem
+	\conj; prayojanam \msCa\msL\msW; prayojana.m \msNb\msKa; prayojana \edN}	 
+
+baahuuruja"nghasu"sli.s.ta.m sthalaasanamudiiritam|| 2:13||%
+\tika{baahuuruja"nghasu"sli.s.ta.m\lem
+	 \msNb\msCa\msL; baahuuruuja"nghasu"sli.s.ta.m \msW; 
+	 baahoruja.mghasu"sli.s.ta.m \msKa; baahuuruja"nghaasu"sli.s.ta.m \edN}%
+\tika{@mudiiritam\lem
+	\msCa\msL\msW; @mudiirita.m \msNb\msKa\edN}
+\newverse
+bhuvi sthitvaa tu jaanubhyaa.m stabdhagaatre.na yoginaa|%
+\tika{stabdhagaatre.na\lem
+	\msL; tastagaatre.na \msNb; ${\rm not readable}$\msCa; ??
+	 \msKa; tacca gaatre.na \msW; sarvagaatre.na \edN}%
+\tika{yoginaa\lem
+	\msNb\msCa\msL\msW\edN; yoginaa.m \msKa}
+%% NB in \msK tasta may be stands for immovable sthira.h
+
+h.rdi hastapu.ta.m kaarya.m j~neyama~njalikaasanam|| 2:14||%
+\tika{kaarya.m\lem
+	 \msNb\msCa\msKa\msL\msW; kaarya \edN}
+\newverse
+talapaadena vaamena jaanunaa dak.si.nena ca|
+
+sthitvaa hastapu.ta.m kaaryamardhacandraasana.m vidu.h|| 2:15||%
+\tika{hastapu.ta.m kaaryamardha@\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ \msL}%
+\tika{vidu.h\lem
+	 \msCa\msKa\msL\msW\edN; vibhu.h \msNb}
+\newverse
+agre prasaaritau paadau su"sli.s.tau bhuumisa.msthitau|%
+\tika{agre\lem
+	\msNb \msCa\msKa\msL\edN; agra \msW}%
+\tika{bhuumisa.msthitau\lem
+	 \msCa\msKa\msL\msW\edN; bhuumisa.msthitai \msNb}
+
+upavi"syaardhakaayantu da.n.daasanamitism.rtam|| 2:16||%
+\tika{@kaayantu\lem
+	 \msNb\msCa\msKa\msW; @kaaryastu \msL; @kaayante \edN}%
+\tika{@sm.rtam\lem
+	 \msCa\msL\msW; @sm.rta.m \msNb\msKa\edN} 
+\newverse
+samapaadalabdhabhuumirantajaanukalambitam|%
+\tika{samapaadalabdhabhuumir\lem
+\msW; samacara.nalabdhabhuumi \msNb\msKa; 
+ samapaadalabdhabhuumi \msCa\edN; samacara.nalabdhamuumi.m \msL}%
+\tika{antajaanukalambitam\lem
+ \emend; ratnajaanukalambita.m \edN; 
+ ratnajaanukalaambitam \msCa; 
+ ratnijaanukalaambita.m \msNb\msL; 
+ ratnajaanukalaanvita.m \msKa; atrijaanukaraanvita.m \msW}	 
+
+sambaddhamasambaddha.m vaa sarvatobhadramaasanam|| 2:17||%
+\tika{sambaddhamasambaddha.m\lem
+	\msCa\msL; sambaddhamasambaddha.mvaa \edN; 
+	sambaddhamasabaddha.m \msNb; 
+	sa.mbaddhasamabaddha.m vaa \msKa; sambaddhamasabaddha.m \msW}%
+\tika{@maasanam\lem
+ \msL\msW; @maasana.m \msKa\edN; 
+ @maanasa.m \msNb;  (${\rm not readable}$) \msCa}	
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaamaasanaprakara.na.m naama dvitiiyapa.tala.h samaapta.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m\lem
+	 \edN\msW; dharmaputrikaayaa.m \msNb\msKa\msL; (${\rm not readable}$) \msCa}%
+\tika{dvitiiyapa.tala.h samaapta.h\lem
+	 \msNb; dvitiiya.h pa.tala.h \msKa\msL\msW\edN; (${\rm not readable}$) \msCa}
+
+\changechap
+
+\newverse
+upavi"sya tato yogii yathoktenaasanena tu|%
+\tika{upavi"sya\lem
+	\msL\msW\edN; .da?pavisya \msNb; (${\rm not readable}$) \msCa; upavisya \msKa}%
+\tika{yathoktenaasanena tu\lem
+	 \msNb\msCa\msKa\msW\edN; yatha \lac\ ta \msL} 
+
+yogasya dhaara.naava.m"sa.m naa.dii.m taavanniruupayet|| 3:1||%
+\tika{dhaara.naava.m"sa.m\lem
+	\emend; dhaara.naava.m"sa \msNb\msCa\msW\edN; dhaara.naava.m"sa.h \msKa; 
+	dhaara.naava"n \lk\ .m \msL; 
+	dhaara.naava.m"se \edN}%
+\tika{naa.dii.m taavanniruupayet\lem
+ \msCa\msNb; naa.diintaavantiruupyate \msW; taani taavanniruupayet \msKa; 
+ naa.diis \lk\ \lk\ vanniruupayet \msL; parvaa.ni ca niruupayet \edN}
+\newverse
+a"ngu.s.tha.m prathama.m parva dvitiiya.m paadameva ca|%
+\tika{prathama.m\lem
+	 \msCa\msKa\msL\msW\edN; pratama.m \msNb}%
+\tika{parva\lem
+	 \msNb\msCa\msL\edN; parva.m \msKa\msW}%
+\tika{paadameva ca\lem
+	 \msCa\msKa\msW\edN; paadamevantu \msNb\msL; paada eva tu \msW}
+
+paar.s.ni.h t.rtiiyaka.m parva caturtha.m gulphamucyate|| 3:2||%
+\tika{paar.s.ni.h\lem
+	 \edN; paar.s.ni \msNb\msCa\msLpc; paa.s.ni.m \msKa\msW; paa.s.ni \msLac}%
+\tika{t.rtiiyaka.m\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; t.rtiiya.m \msLac}%
+\tika{parva\lem
+		\msNb\msCa\msKa\msL\edN; parva.m \msW}
+\newverse
+pa~ncama.m ja"nghamityaahu.h .sa.s.tha.m jaanu vidhiiyate|%
+\tika{pa~ncama.m ja"nghamityaahu.h\lem
+	 \msNb\msKa\msL; (${\rm not readable}$) \msCa; 
+	 pa~ncama.m ja"nghaamityaahu.h \msW; ja"nghaa pa~ncamaparvaahu.h \edN}%
+\tika{.sa.s.tha.m\lem
+	\msKa\msL\msW\edN; .sa.s.tha \msNb; (${\rm not readable}$) \msCa}%
+\tika{jaanu\lem
+	 \msNb\msCa\msL\msW\edN; jaanur \msKa}		 
+
+uuru saptamamityuktama.s.tama.m paayusa.msthitam|| 3:3||%
+\tika{uuru\lem
+	 \msKa\msL\edN; urdhva.m \msNb; (${\rm not readable}$) \msCa; uuruus \msW}%
+\tika{paayusa.msthitam\lem
+	\msL\msW; paayusa.msthita.m \msNb\msKa\edN; (${\rm not readable}$) \msCa}%
+\newverse
+upastha.m navama.m parva da"sama.m naabhi kiirttitam|
+\tika{upastha.m\lem
+ \msNb\msKa\msL\msW; upastho \edN; (${\rm not readable}$) \msCa}%
+ \tika{parva\lem
+ 	 \msNb\msCa\msL\edN; parva.m \msKa\msW}%
+\tika{kiirttitam\lem
+	\msNb\msKa\msL\msW\edN; (${\rm not readable}$) \msCa}
+
+manastvekaada"sa.m parva uro dvaada"sama.m sm.rtam|| 3:4||%
+\tika{manastvekaada"sa.m parva\lem
+	\msL\msW\edN; manastvekaada"saparva \msNb; (${\rm not readable}$) \msCa; 
+	 manastvekaada"sa.m parva.m \msKa}%
+\tika{dvaada"sama.m sm.rta.m\lem
+	 \msKa\msW; dvaada"sasa.m sm.rtam \msNb; 
+	  (${\rm not readable}$) \msCa; dvada \lk\ \lac\ \msL; dvaada"samucyate \edN}
+\newverse
+trayoda"samaka.m ka.n.tho jihvaa parva caturda"sam|%
+\tika{trayoda"samaka.m\lem
+	\msKa\msW; trayoda"sama.mms \msNb\hypometrical; 
+	(${\rm not readable}$) \msCa; trayoda"sa.m \edN}%
+\tika{ka.n.tho\lem
+ \emend; ka.n.tha\lem
+ 	 \msNb; (${\rm not readable}$) \msCa; ka.n.tha.m \msKa; 
+ 	 ka.n.tha ukta.m \edN\hypermetrical}%
+\tika{jihvaa parva\lem
+ \edN\msCa(${\rm not so clear}$)\msKa; jihvaa parva.m \msNb; jihvaayaa.m ca \msW}%
+\quote{${\rm 3:5ab damaged in \msL.}$}	 
+
+naasikaa pa~ncada"sama.m cak.su.h .so.da"sama.m tathaa|| 3:5||%
+\tika{naasikaa\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ sikaa \msL}%
+\tika{pa~ncada"sama.m\lem
+	 \msNb\msCa\msKa\msL\msW; pa~ncada"saka.m \edN}%
+\tika{.so.da"sama.m tathaa\lem
+	 \msNb\msCa\msKa\msL\msW; .so.da"samiirita.m \edN}
+\newverse
+lalaa.ta.m saptada"sama.m muurdhnya.s.taada"sama.m sm.rtam|%
+\tika{saptada"sama.m\lem
+	\msNb\msCa\msKa\msL\msW; saptada"saka.m \edN}%
+\tika{muurdhnya.s.taada"sama.m\lem
+   \msNb\msCa\msKa; muurdhnaa.s.taada"samam \msW; 
+   muurddhya.s.taada"sama.m \msL; 
+	muurdhnya.s.taada"saka.m \edN}
+
+upari.s.taaduunavi.m"samarcirvi.m"satimantathaa|| 3:6||
+\tika{upari.s.taaduunavi.m"sam\lem
+ \msKa\msL\edN,; upavi.s.taaduunavi.msa \msNb; 
+ upari.s.taaduunavi.m"sati \msCa; upari.s.taadunavi.m"sam \msW}%
+\tika{arcirvi@\lem
+	\msL; arccivi@ \msNb\msKa\edN; arcci \msCa; ardvi \msW}%
+\tika{vi.m"satimantathaa\lem
+		\msNb\msKa\edN; vi (${\rm not readable}$) \msCa; 
+vi"satimantathaa \msL; vi"satimastathaa \msW}
+\newverse
+paradehamekavi.m"sa.m dviipaantaramata.h param|%
+\tika{paradehamekavi.m"sa.m\lem
+	\msL; paradehameka vi.m"sa.m \edN; paradehamekavi"sa.m \msNb; 
+	(${\rm not readable}$) \msCa; paradehamekavi.m"sa \msKa\msW}%
+\tika{param\lem
+	 \msNb\msKa\msW\edN; (${\rm not readable}$) \msCa; para \msL}
+
+paataala.m tu trayovi.m"sa.m bhuusvargastadanantaram|| 3:7||%
+\tika{trayovi.m"sa.m\lem
+	 \edN; trayovi.m"san \msNb; (${\rm not readable}$) \msCa; 
+	 trayovi.m"sa \msKa; trayovi.m"nsa.m \msW}%
+\tika{bhuusvargastadanantaram\lem
+	\msKa\msW\edN; bhuusvarga tadananta.m \msNb;
+	 \lac\ stadanantaram (${\rm not much clear}$)\msCa; bhuusvaga \lac\ nantaram \msL}
+\newverse
+pa~ncavi.m"satima.m svarga.m suuryalokamata.h param|%
+\tika{svarga.m\lem
+	 \msNb\msCa(${\rm not much clear}$)\msKa\msW; svarya \msL; vyoma \edN}%
+\tika{suuryalokamata.h param\lem
+	\msL\msCa(${\rm not much clear}$)\msW; suuryalokamata.h para.m \msNb\msKa; 
+	 svargalokamata.h para.m \edN}%
+\quote{${\rm From 3.8a---9b, except,}$ taani manii.sibhi.h ${\rm in 9b is missing in \msL.}$}	 	 
+
+saptavi.m"sa.m somaloka.m brahmalokantathaantimam|| 3:8||%
+\tika{saptavi.m"sa.m somaloka.m\lem
+	 \msNb\msCa\edN; saptavi.m"sa.m somaloka.m \msKapc; 
+	 saptavi.m"sa.mti somaloka \msKaac; 
+	 saptavi.m"sa somaloka \msW}%
+\tika{brahmalokantathaantimam\lem
+	 \msCa; brahmalokantathaantima.m \msNb\edN; 
+	 brahmaloka.mntatho.atima.m \msKa; brahmalokastathaantimam \msW}%
+\newverse
+a.s.taavi.m"sati parvaa.ni kiirtitaani manii.sibhi.h|%
+\tika{a.s.taavi.m"sati\lem
+	\msNb\msCa\edN; a.s.tavi.m"sati \msKa}%
+\tika{manii.sibhi.h\lem
+   \msNb\msCa\msKa\msL\edN; maniisthibhi.h \msW}	
+
+yogadhaara.navatsarva.m sm.rta.m prakara.naanvitam|| 3:9||%
+\tika{@nvitam\lem
+	\msCa\msL\msW; @nvita.m \msNb\msKa\edN}
+\newverse
+a.s.taavi.m"sati parvaa.ni samyagj~naatvaa vicak.sa.na.h|
+%\tika{samyag\lem
+%	 \msCa\edN; samyak \msNb\msKa} 
+
+te.su parvasu sarve.su ekaikasminkrame.na tu|| 3:10||%
+\tika{parvasu\lem
+	\msW\edN; parve.su \msNb\msKa\msL; (${\rm not readable}$) \msCa}
+\newverse
+tatra sthita.m jiivabhuutamaatmaana.m bindusaj~nitam|%
+\tika{jiivabhuutamaatmaana.m\lem
+	 \msNb\msKa\msW; jiiva bhuutamaatmaana.m \edN; 
+	 (${\rm not readable}$)\msCa; jiivabhuuta.m aatmaana.m \msL}
+
+praa.naan yasminnirudhyeta tatra bindu.m vicintayet|| 3:11||%
+\tika{yasminnirudhyeta\lem
+	\msCa\msKa\msL\edN; yasminvirudhyeta \msNb; asminnirudhyata\msW}%
+\tika{vicintayet\lem
+		\msNb\msCa\msKa\msW\edN; \lk\ \lac\ \msL}
+
+\Colo
+|| \flourish\ ||
+iti dharmaputrikaayaa.m sa.mhitaayaa.m dhaara.naava.m"saprakara.na.m naama t.rtiiya.h pa.tala.h samaapta.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m dhaara.naava.m"saprakara.na.m naama t.rtiiya.h pa.tala.h samaapta.h\lem
+	 \edN; dharmaputrikaayaa.m sa.mhitaayaa.m dhaara.naava.m"saprakara.na.m naama t.rtiiya.h pa.tala.h samaapta.h \msNb\msKa; 
+	 dharmaputrikaayaa.m dhaara.naava.m"saprakara.na.m naama t.rtiiya.h pa.tala.h samaapta.h \msCa; 
+	 \lac\ pa.tala.h \msL; dharmaputrikaayaa.m dhaara.naava.m"saprakara.nan naama t.dhhtiiyo dhyaaya.h \msW}    	 	
+
+
+\changechap
+
+\newverse
+pa~ncadhyeya.h pa~ncajaya.h pa~ncakarma phalatrayam|%
+\tika{pa~ncadhyeya.h\lem
+	 \msNb\msCa\msL\msW\edN; pa~ncadheya.h \msKa}%
+\tika{pa~ncajaya.h\lem
+     \msW\msL; pa~ncajapa.h \msNb\msCa\msKa\edN}
+\tika{phalatrayam\lem
+   \msNb\msCa\msKa\msL; phalatraya.h \msW; phalaprada.h \edN}
+
+evama.s.taada"savidha.m dhyaanamaargasya lak.sa.nam|| 4:1||%
+\tika{evama.s.taada"savidha.m\lem
+	\msNb\msCa\msKa\msL\msW; evama.s.taada"savidho \edN}%
+\tika{dhyaanamaargasya lak.sa.nam\lem
+	\msNb\msCa\msKa\msL; dhyaana.m maargasya lak.sa.nam \msW;
+ dhyaanamaarga.h salak.sa.na.h \edN}
+\newverse
+yogakramasamaarambhe jayaabhyaase ca buddhimaan|%
+\tika{yogakramasamaarambhe\lem
+	\msNb\msCa\msW\edN; yogakramasamaarambha.m \msKa; 
+	yogakramasamaacaare \msLpc; yogakramasamaacaarambhe \msLac}
+
+aadau vicintayedyogii h.rtpadma.m dh.rtikar.nikam|| 4:2||%
+\tika{h.rtpadma.m\lem
+ 	\msKa\msWpc\edN; h.rtpadma \msNb; (${\rm not readable}$)\msCa;
+ 	 h.rdipadma.m \msL; h.rdma.mpa \msW}%
+\tika{dh.rti@\lem
+	 	\msNb\msCa\msKa\msL\edN; dh.rtii@ \msW}
+\newverse
+ahi.msaanaalasa.myuktamuttaana.m dharmake"saram|%
+\tika{dharmake"saram\lem
+	\msW\msCa(${\rm not much clear}$)\msNb; padmake"sara.m \msKa\edN} 
+
+asteyaadibhira.s.taabhi.h "siilapatrairala"nk.rtam|| 4:3||%
+\tika{asteyaa@\lem
+	 \msNb\msCa\edN; a.s.teyaa@ \msKa; a.s.tayaa@\msW}%
+\tika{"siilapatrairala"nk.rtam\lem
+	\msW; "siilapatrairala"nk.rta.m \msKa\edN; "siilapastrairala"nk.rta.m \msNb; 
+	(${\rm not much clear}$)\msCa}%
+\quote{${\rm From}$ dharmake"saram ${\rm in 4.3b to}$ tanmadhye ${\rm in 4.4a is missing in \msL.}$}	
+\newverse
+tanmadhye paramo devo bindurityabhidhiiyate|%
+\tika{vindurityabhidhiiyate\lem
+ \msCa\msL\msW\edN; vindurityabhi"sabdita.h \msNb\msKa}
+
+jiiva.h sa eva vij~neyastasya bhedastu pa~ncadhaa|| 4:4||%
+\tika{bhedastu\lem
+   \msNb\msCa\msKa\msL\msW; bhedaastu \edN} 
+\tika{pa~ncadhaa\lem
+		\msNb\msCa\msKa\msL\msWpc; pa~ncakadhaa \msWac\hypermetrical}
+\newverse
+prak.rti.h puru.sa"scaiva prabhurvidyaa "sivastathaa|%
+\tika{prabhurvidyaa\lem
+	 \msNb\msCa\msL\edN; praabhurvidyaa \msKa; prabhuvidyaa \msW}
+
+suuryacandraprakaa"saarcisphaa.tikaambarasannibhaa.h|| 4:5||%
+\tika{@candrahutaa"saarci@\lem
+	\msCa(${\rm not much clear}$)\msKa\edN;
+@candraprakaa"saarci@ \msNb; @candrahutaa"saarci.h \msW\msLpc; 
+@candraahutaa"saarci.h \msLac}%
+\tika{@sphaa.tikaambarasannibhaa.h\lem
+	\msLpc\edN; spha.tikaambarasa.mnibhaa.h \msNb; 
+	spha.tikaamba (${\rm not much clear}$)\msCa; 
+	sthaa.tikaambarasannibhaa.h \msKa; @sphaa.tikaambarasannibhaa \msLac;
+	 @spha.tikaasvarasannibhaa.h \msW}
+ \newverse
+prathamaa suuryasa.msthaanaa kar.nikopari sa.msthitaa|%
+\tika{suuryasa.msthaanaa\lem
+	\msNb\msCa\msL\msW\edN; suuryasa.msthaanaat \msKa}%
+\tika{kar.nikopari\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; kar.ni \msLac\hypometrical}
+
+yaa caturvi.m"sakaa proktaa yaa ca "saaktiriti sm.rtaa|| 4:6||%
+\tika{caturvi.m"sakaa\lem
+	\msNb\msCa\msKa\msW; caturvi.m"sikaa \edN}%
+\tika{"saaktiriti\lem
+	 \msNb\msCa\msW\edN; "saaktiritiri \msKa}%
+\quote{${\rm From.}$ proktaa ${\rm in 4.6a to }$ sukha@ ${\rm in 4.7b is missing in \msL.}$}
+ \newverse
+avidyeti ca yaa khyaataa sa.msaare sukhabuddhidaa|%
+\tika{avidyeti\lem
+	 \msNb\msCa\msKa\msWpc\edN; avidyeyiti \msWac\hypermetrical}%
+\tika{sukhabuddhidaa\lem
+	 \msKa\msW\edN; sukhabudhidaa \msNb; 
+	 ${\rm in not readable}$\msCa; \lac\ buddidaa \msL}
+
+traigu.nyabhaavanilayaa prak.rti.h saabhidhiiyate|| 4:7||
+\tika{traigu.nyabhaavanilayaa\lem
+	\msCa ${\rm  not much clear}$\msKa\msL\msW\edN; traigu.nyabhaavaniyaa \msNb}%
+\tika{saabhidhiiyate\lem
+	 \msNb\msCa\msKa\msL; saa.abhidhiiyate \edN}
+ \newverse
+ida.m prak.rtija.m sarva.m du.hkhamityavabhaavayet|%
+\tika{du.hkhamityavabhaavayet\lem
+\msCa; du.hkhamityavabhaa.sayet \msNb; du.hkhamityabhibhaavayet \msKa\edN; 
+du.hkhamityavabhaavayan \msL; du.hkhamityavabhaavayat \msW} 
+
+upek.sate viraagaatmaa nirgu.na.h kevala.h sthita.h|| 4:8||%
+\tika{upek.sate\lem
+	\msNb\msCa\msKa\msL\edN; upak.sate \msW}
+\newverse
+suuryama.n.dalamadhyastha"scandrama.n.dalasannibha.h|%
+\tika{suuryama.n.dalamadhyastha"scandrama.n.dalasannibha.h\lem
+	\msW; suuryama.n.da \lac\ ${\rm not readable}$ \msNb; 
+	suuryama.n.dalamadhyastha.m \lac\ ${\rm in not readable}$ \msCa;
+	suuryama.n.dalamadhyastha.m candrama.n.dalasannibha.m \msKa; 
+	suuryama.n.dalamadhyastha.m candrama.n.dalasannibha.m \msL; 
+suuryama.n.dalamadhyasthacandrama.n.dalasannibha.h \edN}
+
+pa~ncavi.m"satima.h prokta.h puru.sa.h so.abhidhiiyate|| 4:9||%
+\tika{pa~ncavi.m"satima.h prokta.h puru.sa.h so.abhidhiiyate\lem
+	\edN; \lac\ ${\rm not readable}$ bhidhiiyate \msCa; 
+	\lac\ ${\rm in not readable}$ ru.sa.h sobhidhiiyate \msNb; 
+	pa~ncavi.m"satimityukta.m puru.sa.h so.abhidhiiyate \msKa; 
+	pa~ncavi.m"saka ityukta puru.sa.h sa \lk\ bhidhiiyate \msL; 
+	pa~ncavi.m"saka ityukta puru.sa.h so.abhidhiiyate \msW}
+\newverse
+kiid.rkkimiti vaa j~naanamiti samya"n niruupayet|
+
+mok.sajij~naasabhaavo ya.h sa .sa.dvi.m"sakama.n.dalam|| 4:10||%
+\tika{mok.sajij~naasabhaavo ya.h\lem
+	\msNb\msL\msW; mok.sajij~naamubhaaya.h \msCa; 
+	mok.savij~naanabhaavo ya.h \msKa\edN}
+ \newverse
+candrama.n.dalamadhyastho vahnijvaalaanibhaak.rti.h|%
+\tika{candrama.n.dalamadhyastho\lem
+	\msNb\msCa\msKa\msL\edN; 
+	candrama.n.damadhyastho \msW\hypometrical}
+\tika{vahnijvaalaanibhaak.rti.h\lem
+ \msCa\msKa\msL\edN; vahnijvaalanibhaak.rti.h \msNb; vahnijvaalaanibhaak.rti \msW}
+
+avidyaadaavadagdho.asau prabhurityabhidhiiyate|| 4:11||%
+\tika{avidyaadaavadagdho.asau\lem
+	\msL\edN; avidyaadaava(ma)gdho.asau \msCa; 
+	avidyaadaavadagdhausau \msNb; avidyaadaavadagdhasau \msKa; 
+	avidyaajaavadagdho.asu \msW}
+\newverse
+sarvat.r.s.naavinirmukta.h sama.h sarve.su sarvadaa|%
+\quote{${\rm From}$ sarva@ ${\rm in 4.12a to}$ j~naanamaa ${\rm in 4.12d is missing in \msL.}$}
+
+k.rtak.rtyatayaa yastu j~naanamaatraikakevalam|| 4:12||%
+\tika{j~naanamaatraika@\lem
+     \msL\msW\edN; j~naanamaatreva \msNb\msCa; j~naanamatrika \msKa}%
+\tika{@kevalam\lem
+	 \msNb\msCa\msKa\msL\msW; kevala.h \edN}
+\newverse
+atyantanirmala.h svaccha.h "suddhaspha.tikasannibha.h|%
+\tika{svaccha.h\lem
+	\msNb\msCa\msKa\edN; "suddha.h \msL; svacha.h \msW}%
+\tika{"suddha@\lem
+		\msNb\msCa\msKa\msW\edN; svaccha@ \msL}
+
+agnima.n.dalamadhyastha.h saptavi.m"saka ucyate|| 4:13||%
+\tika{saptavi.m"saka\lem
+	 \msKa\edN; saptaavi.m"saka \msNb\msCa\msW\msW}
+\newverse
+akiirtitamanaupamya.m pa~ncama.m "sivama.n.dalam|%
+\tika{@manaupamya.m\lem
+	 \msNb\msCa\msKa; @manaumapya.m \edN; 
+	 @manaupamya \msL; manaupa"sya.m \msW}%
+\tika{pa~ncama.m "sivama.n.dalam\lem
+	\msCa\msW; pa~ncama.m "sivama.n.dala.m \msKa\edN; 
+	pa~ncama.mvi.m"sakama.n.dala.m \msNb\msL}	 
+
+vidyaama.n.dalamadhyasthama.s.taavi.m"sakamucyate|| 4:14||%
+\tika{madhyastham\lem
+	 \msNb\msKa\edN; madhyastha \msCa; madhyastum \msW}%
+\tika{a.s.taavi.m"sakam\lem
+	 \msCa\msL\msW\edN; a.s.taavi.m"saka \msNb\msKa}  
+\newverse
+dhaaryate yatra ni"svaasastatra bindu.m vicintayet|%
+\tika{dhaaryate\lem
+	 \msNb\msCa\msW\msL\edN; dhaarmyate \msKa}%
+\tika{ni"svaasastatra bindu.m\lem
+	 \msCa\msKa; nisvaasa.m tatra bindu.m \msNb; ni"svaasastatra bindu \msL; 
+	 yatra ni"svaasasta bindu \msW}
+
+yo de"sa.h puuryate praa.nai.h jiivasta.m yaati naanyathaa|| 4:15||%
+\tika{yo de"sa.h\lem
+	 \edN; yadde"sa.m \msCa; ya.m de"sa.m \msNb\msKa}%
+\tika{puuryate\lem
+	\msNb\msCa\edN; praryate \msKa}%
+\tika{praa.nai.h\lem
+	 \edN; praa.naan \msNb; praa.na.m \msCa; praa.nau \msKa}%
+\tika{jiivasta.m\lem
+	 \msNb\msKa\edN,; jiivastha.m \msCa}%
+\tika{yaati\lem
+	\msNb\msCa\edN; yaanti \msKa}%
+\quote{${\rm From}$ yo de"sa.h@ ${\rm in 4.15c to}$ udaano ${\rm in 4.16b is lost in \msL.}$}	
+\newverse
+praa.no.apaana.h samaana"sca udaano vyaana eva ca|%
+\tika{praa.no.apaana.h samaana"sca udaano\lem
+	 \msCa\edN\msW; praa.no.apaana samaana"sca udaano \msNb;
+	  praa.nastvapaanasamana udaano \msKa; \lac\ \msL} 
+
+pa~ncaite vaayava.h santi te.saa.m pa~ncavidho jaya.h|| 4:16||%
+\tika{pa~ncaite\lem
+	 \msCa\msKa\edN\msL\msW;  pa~ncate \msNb}% 
+\tika{santi\lem
+	 \msNb\msCa\edN\msL\msW; saanti \msKa} 
+\newverse
+praa.naayaama.m prakurviita puurakaadicaturvidham|
+\tika{praa.naayaama.m\lem 
+  \msNb\msCa\edN\msL; praa.naayaama \msKa\msW}%
+\tika{puurakaadi@\lem 
+   \msNb\msCa\msKa\edN\msW; puura.naadi@ \msL}
+
+p.rthakp.rthakparicchidya paripaa.tyaa yathaakramam|| 4:17||%
+\tika{p.rthak\lem 
+  \msNb\msCa\msKa\edN\msL; p.rthat \msW}
+\newverse
+nirodhaaddehamanasoryaavatsvedo na jaayate|%
+\tika{nirodhaad\lem
+	\msNb\msCa\edN\msL\msW; norodhaad \msKa}%
+\tika{khedo\lem 
+   \msL\msW; svedo \msCa\msKa\edN; sveda.m \msNb}
+
+ni.h"svaasa.m dhaarayettaavatpuurvaabhyaasavi"se.sata.h|| 4:18||%
+\tika{ni.h"svaasa.m dhaarayet\lem
+ \edN; nisvaasa.m dhaarayet \msNb;
+ni"svaasa.m dhaarayet \msCa\msKa\msL; 
+ni"svaasa.m dhaaryate \msW}
+\newverse
+krame.na dhaara.naavelaa.m stoka.m stoka.m vivardhayet|%
+\tika{krame.na dhaara.naavelaa.m\lem
+\edN\msW; kramena dhaara.naavelaa.m \msCa; 
+krame.na dhaara.naavelaa \msNb\msKa; \lac\ \msL}%
+\tika{stoka.m stoka.m vivardhayet \lem 
+  \msCa\msKa\edN; stoka stoka.m vivardhayet \msNb; \lac\ \msL;
+   stoka.m stoka.m virvardhayet \msW}
+
+pa"scaanmaatraadiyogaanta.m parimaa.nantu dhaarayet || 4:19||%
+\tika{parimaa.nan\lem
+	\msNb\msCa\edN\msL\msW; parimaanan \msKa}
+\newverse
+evamabhyaasayogena praa.no vaayurvijiiyate|%
+\tika{praa.no\lem 
+	\msCa\msKa\edN\msL\msW; praa.nopaa@ ${\rm (correction)}$\msNb}
+
+jitasya lak.sa.na.m yogii svadehe pa"syati svaya.m|| 4:20||%
+\tika{pa"syati\lem
+	 \msCa\msKa\edN\msL\msW; pasyati \msNb}
+\newverse
+pari"sraante.api ni.h"svaaso yadaa vaa.dha.m na vartate|%
+\tika{pari"sraante.api ni.h"svaaso\lem 
+   \edN; pari"sraantea.api ni"svaaso \msCa\msL; 
+   pari"sraantepi nisvaaso \msNb\msKa; pari"saantepi nisvaaso \msW}%
+\tika{vaa.dha.m\lem
+	\msCa\msKa\edN; vaa.dha \msNb; vaa.dhan \msW}
+
+ciraatpravartate vaayu"schinno vaa naasikaapu.te|| 4:21||%
+\tika{pravartate vaayu"schinno\lem
+ \msL\msNb; pravartate vaayucchinno \msCa; 
+ pravartate vaayu sthitaa \msKa; 
+ pravartate vaayu.h sthito \edN; 
+ prarvate vaayuschinno \msW\unmetrical}%
+\tika{naasikaa@\lem
+	\msNb\msCa\msKa\edN\msL; naasikaa.m \msW}
+\newverse 
+tadaa yogii vijaaniiyaat praa.no vaayurjito mayaa|%
+\tika{vijaaniiyaat\lem 
+   \msNb\msKa\edN\msL\msW; vijaaniiyaa@ \msCa}%
+\tika{vaayurjito\lem 
+	\edN\msW; vaayujito \msNb\msCa\msKa; \lac\ \msL}%
+\tika{praa.najaya.h prokto\lem
+	\msNb\msCa\edN; praa.najaya.h prokta \msKa; \lac\ \msL; praa.najaya prokta \msW}
+
+iti praa.najaya.h prokto yoga"saastravi"saaradai.h|| 4:22||%
+\tika{@vi"saaradai.h\lem 
+	\msNb\msKa\edN\msW; @vi"saaradai.h \msCa; \lac\ \msL}
+\newverse
+puurvavatpuura.na.m k.rtvaa dhaaryamaa.na.m samiira.nam|%
+\tika{puura.na.m\lem 
+	\msNb\msCa\msKa\edN\msL; puura.nan \msW}%
+\tika{dhaaryamaa.na.m samiira.nam\lem
+	\msNb\msCa\edN\msL; dhaaryamaana.m "samiira.na.m \msKa; 
+	dhaaryamaa.na.m samii.nare \msW}
+
+adhobhaaga.m tadaa yogii manasaa prerayecchanai.h|| 4:23||%
+\tika{prerayec\lem 
+	\msNb\msCa\msKa\edN\msL; preraye \msW}
+\newverse
+tata.h svaya.m pramucyeta apaano jiiyate kramaat|%
+\tika{svaya.m vimucyeta\lem
+	\emend; "svaasa.m pramucyeta \msCa\msL\msW; 
+	svaasa.m vimucyeta \msNb\msKa; 
+	 svaya.m vimucyete \edN}%
+\tika{apaano jiiyate\lem 
+	\emend; apaana.m jiiryate \msNb; 
+	apaana hiiyate \msCa; apaano jiivate \msKa; 
+	apaano jiiyahate \edN\unmetrical; apaana.m jiiyate \msL; 
+	apaanaa.m jiiyate \msW}
+
+jitasya lak.sa.na.m caasya do.so naapi pravartate|| 4:24||%
+\tika{caasya\lem
+	\msCa\msKa\msL\msW\edN; caatrasya \msNb\unmetrical}%
+\tika{do.so naapi\lem
+	 \edN; do.sa"scaapi \msNb\msCa\msL\msW; do.sa.m vaapi \msKa}
+\newverse
+vaatamuutrapurii.saa.naa.m nirodhe.su na khidyate|%
+\tika{@purii.saa.naa.m\lem
+	 \msCa\edN\msL\msW; @purii.saanaa.m \msNb\msKa}%
+\tika{nirodhe.su na khidyate\lem 
+	\msNb\msCa\msL; nirodhe.su naakhadyate \msKa; 
+	nirodhe.su kadaacana \edN; nirodho.su na khidyate \msW}
+
+svecchotsargak.samo yogii bhavatyeva na sa.m"saya.h|| 4:25||%
+\tika{svecchotsargak.samo yogii\lem 
+	\msNb\msCa\msKa\edN; 
+	svecchotsarge k.samo ye \lac\ \msL; svachotsargak.samo yaagii \msW}%
+\tika{eva\lem 
+	\msKa\edN\msW; eva.m \msNb\msCa; \lac\ \msL}%
+\tika{sa.m"saya.h\lem 
+	\msCa\msKa\edN\msW; "sa.msaya.h \msNb; \lac\ \msL}
+\newverse
+atyabhyaasaatprajaayante kadaacidyoginastadaa|%
+\tika{atyabhyaasaatprajaayante\lem
+	\msNb\msCa; atyaabhyaasaatprajaayante \msKa;
+	 atyabhyaasaatpra.na"syanti \edN; \lac\ \msL; 
+	 abhaabhyaasaatprajaayante \msW}
+
+bhagandaraadayo rogaa ityapaanajaya.h sm.rta.h|| 4:26||%
+\tika{kadaacid yoginas tadaa\lem 
+	\msNb\msKa\edN; kadaacid yoginas tathaa \msCa; \lac\ \msL; 
+	yathocid yoginas tadaa \msW}%
+\tika{rogaa\lem 
+   \msNb\msKa\edN?\msL\msW; roga \msCa}
+\newverse
+puurvavatkumbhakenaiva ruddhvaa vaayorgataagatim|%
+\tika{kumbhakenaiva\lem 
+	\msNb\msCa\msKa\edN\msL; ku.m"sakenaiva \msW}%
+\tika{ruddhvaa vaayorgataagatim\lem 
+	\msNb\msCa; ruddhvaa vaayorgataagata.m \edN; 
+	ruddhvaa vaayorgaataagatim \msL; ruu.dhaavaayorgataagatim \msW}%
+\quote{${\rm verses 4.27cd--33ab are missing \edN.}$}
+
+h.rdaye dhaarayedeva.m samaano jiiyate kramaat|| 4:27||%
+\tika{eva.m\lem 
+	\msNb\msKa\msL; eva \msCa\msW}%
+\tika{samaano\lem
+	\msW; samaana.m \msNb\msCa\msKa\msL}
+\newverse
+jitasya lak.sa.na.m caasya nityaarogya"sariirataa|%
+\tika{lak.sa.na.m\lem 
+	\msNb\msCa\msL\msW; lak.sa.na \msKa}
+
+bahvannapaanado.sa"sca diiptaagniitvaanna jaayate|| 4:28||%
+\tika{bahvannapaanado.sa"sca\lem 
+	\msCa\msKa\msL\msW; bak.sante? paanado.sa"sca \msNb}
+\newverse
+atiprabaddhado.saa"sca paar"sva"suulaadayastathaa|%
+\tika{atiprabaddhado.saa"sca\lem
+	\emend; atiprasambhado.saa"s ca \msNb\msKa; 
+	tiprasambhado.saa"sca \msCa; atiprava.m \lac\ \msL; 
+	atipravaddha"s ca do.sa"sca \msW\unmetrical}%
+\tika{paar"sva"suulaa@\lem 
+	\msNb\msCa; paar"svasuulaa@ \msKa; \lac\ \msL; paar"sve "suulaa@ \msW}
+
+kadaacitsa.mbhavantye.sa samaanajaya ucyate|| 4:29||%
+\tika{e.sa\lem
+	\msL\msW; e.sa.h \msNb\msCa\msKa}%
+\tika{samaanajaya\lem
+	\msNb\msKa\msL\msW; samaano jaya \msCa}
+\newverse
+puurvavadvaarita.m vaayu.m tadaa yogii "sanai.h "sanai.h|%
+\tika{vaayu.m\lem 
+ \msNb\msCa\msKa\msL; vaayu \msW}
+
+manasaa prerayeduurdhva.m prayatnena puna.h puna.h|| 4:30||%
+\tika{prerayed uurdhva.m\lem 
+	\msNb\msCa\msKa\msL; prairayed uurdhva \msW}
+\newverse
+tato yathaakrama.m k.rtvodaana eva.m vijiiyate|%
+\tika{k.rtvodaana eva.m\lem 
+	\msCa\msL\msW; k.rtvodaana \lk\\lk\ \msNb; k.rtvodaanameva.m \msKa}%
+\tika{vijiiyate\lem  
+	\msNb\msKa\msW; vidhiiyate \msCa}
+ 
+lak.sa.na.m laghudehatva.m "siighragaamitvameva ca|| 4:31||%
+\tika{@gaamitvam\lem 
+	\msNb\msCa; @gaamityam \msKa; \lac\ \msL; @gaamiitvam \msW}
+\newverse
+"srotranetropaghaataadi jaayate yoginastadaa|%
+\tika{"srotranetropaghaataadi jaayate\lem 
+  \msKa; "srotranetraapaghaataadi jaayate \msNb\msW; 
+  "srotranetraapaghaataadir jaayante msCa; \lac\ \msL}
+
+atyaabhyaasasya do.se.na sa udaanajaya.h sm.rta.h|| 4:32||
+\newverse
+tucchadehe pra"saantena ruddhvaa vaayorgataagatim|%
+\tika{tucchadehe pra"saantena\lem 
+	\msCa; tucchadehe prasaantena \msNb\msKa; 
+	tuchadehe pra"saanteva \msL\msW}%
+\tika{ruddhvaa vaayorgataagatim\lem 
+	\emend; ruddhvaa vaayorgataa.mgatim \msL; 
+	rutho? vaayorgataagatim \msNb; 
+	ruddho vaayorgataagatim \msCa; 
+	ruddhaa vaayorgataagatim \msKa; 
+	ruddhaavaayor gataagatii.m (taa.h ?) \msW}
+
+na puurayenna recayedeva.m vyaano vijiiyate|| 4:33||
+\newverse
+jitasya lak.sa.na.m caasya "sithilasnigdhagaatrataa|%
+\tika{"sithilasnigdhagaatrataa\lem 
+	\msNb\msCa\msL; "sithila.m snigdhagaatrataa \msKa\edN; 
+	"si.silasnigdhagaatrataa \msW}
+
+anantaa"sii nirudvegii sarvakle"sasaho bhavet|| 4:34||%
+\tika{anantaa"sii nirudvegii\lem 
+	\msCa\edN\msL; anantaa"sii nirudvaagii \msNb; anantii"sii nirudvegii \msKa; 
+	anantaa"sii niruddhe[na]gii  \msW}
+\newverse
+snaayutvagupaghaataadi kadaacijjaayate tadaa|%
+\tika{snaayutvagupaghaataadi\lem 
+	\msNb\edN\msL\msW; snaayutvagupaghaataadi.h \msCa; 
+	snaayundhagupaghaataadi \msKa}%
+\tika{tadaa\lem
+    \msNb\msCa\msKa\msL\msW; nahi \edN}
+
+atyaabhyaasasya sa.myogaade.sa vyaanajaya.h sm.rta.h|| 4:35||%
+\tika{vyaanajaya.h\lem 
+	\msNb\msCa\msKa\msL\edN; dhyaanajaya.h \msW}
+\newverse
+te.saa.m madhye pradhaanasya nirdo.sasya vi"se.sata.h|%
+\tika{pradhaanasya\lem 
+	\msNb\msCa\msKa\msL\edN; pradhaana["sca]sya \msW}%
+\tika{nirdo.sasya\lem 
+	\msCa\msKa\msL\msW\edN; nirdosa?.sya \msNb}  
+
+praa.nasyaiva jayaabhyaasa.m pra"sa.msanti manii.si.na.h|| 4:36||%
+\tika{pra"sa.msanti manii.si.na.h\lem 
+	\msNb\msCa\msKa\edN; pra"sasanti manii.si.na.h \msL; 
+	pra"sa.msanti ma.nii.si.na.h \msNb; 
+	prasansanti manii.si.na.h \msW}
+\newverse
+yadaa tu praa.namevaika.m yogii samyagvije.syati|%
+\tika{praa.namevaika.m\lem 
+	\msNb\msKa\edN\msL\msW; praa.namaiveka.m \msCa}
+
+tadaa sarve jitaa eva bhavantyete.api vaayava.h|| 4:37||%
+\tika{sarve jitaa eva\lem 
+	\msNb\msKa\edN; sarve jiita sarva \msCa; 
+	tu savajiita eva \msL\hypermetrical; sarvajitaa eva \msW}%
+\tika{vaayava.h\lem 
+	\msNb\msCa\edN\msW; vaayava \msKa}
+\newverse
+kin tu karmavibhaagaartha.m marutaandehavartinaa.m|%
+\tika{marutaan dehavartinaa.m\lem 
+	\msNb\msCa\msKa\edN\msL; marutaa.m dehavartinaa \msW}
+
+jaya.h pa~ncavidha.h prokto yogibhistattvadar"sibhi.h|| 4:38||%
+\tika{jaya.h\lem
+	\msCa\msKa\msL\msW\edN; jaya \msNb}%
+\tika{prokto\lem 
+	\msNb\msCa\msKa\msL\edN; proktau \msW}%
+\tika{yogibhis tattvadar"sibhi.h\lem
+	\msCa\edN; yogibhis tattvadar"sibha.h \msNb; 
+yogibhis tattvada"sibhi.h \msKa; yogibhis tattvadar"sabhi.h \msL;
+ yaagibhis tatvadar"sibhi.h \msW}
+ \newverse
+eva.m vaayu.m vinirjitya pa"scaatkarma samaarabhet|%
+\tika{vaayu.m\lem
+	 \msCa\msKa\msL\edN; vaayu \msNb\msW}
+% 	 vinijitya \msW
+
+ajitaistu k.rta.m karma do.sa.h samupajaayate|| 4:39||%
+\tika{k.rta.m\lem
+	\msNb\msCa\msKa\msL\edN; k.rtat \msW}
+\newverse
+naa.dii"sodhanamekaika.m kaaryanaa.dii dvitiiyakam|%
+\tika{naa.dii"sodhanamekaika.m\lem
+	 \msL; naa.dii.sodhanamekaika.m \msCa; 
+	 naa.dii"sodhanamevaika.m \msNb; 
+	 naadii"sodhanamevaika.m \msKa; 
+	 naa.dii "sodhanamevaika.m \edN}%
+\tika{kaaryanaa.dii dvitiiyaka.m\lem
+	\msNb\msKa\msL\edN; 
+	kaarya.m naa.diidvitiiyakam \msCa\msL; 
+	kaaryannaa.diidvitiiyakam \msW}	 
+
+t.rtiiya.m dhaara.naava.m"sayojana.m naama naamata.h|| 4:40||%
+\tika{t.rtiiya.m\lem
+	\msNb\msCa\msL; t.rtiiye \msKa\edN}%
+\tika{dhaara.naava.m"sa@\lem
+	 \msNb; dhaara.naava.m"sa.m \msCa\msKa\msL\edN; 
+	 dhaara.naadvatsa.m \msW}
+\newverse
+udrecanii caturtha.m tu pralayotkraanti pa~ncamam|%
+\tika{udrecanii\lem
+	\msNb\msCa\msKa\msL\edN; dredrevanii \msW}%
+\tika{pa~ncamam\lem
+	 \msCa\msL\msW; pa~ncama \msNb; pa~ncama.m \msKa\edN}
+
+etaani pa~ncakarmaa.ni kiirtitaani manii.sibhi.h|| 4:41||%
+\tika{karmaa.ni\lem
+	\msNb\msCa\msL\msW\edN; karmaani \msKa}
+\newverse
+jitena "sodhayennaa.dii.m praa.nenaikena vaayunaa|%
+\tika{naa.dii.m\lem
+	\msL\msW; naa.dii \msNb\msCa\msKa; "sodhayennaa.dii.h \edN}%
+\tika{@naikena\lem
+	\msNb\msCa\msKa\msW\msLpc\edN; @kena \msLac\hypometrical}	
+
+athavaa madhyabhaaga.m tu samaanena vicak.sa.na.h|| 4:42||%
+\tika{@cak.sa.na.h\lem
+	\msNb\msCa\msKa\msLpc\msW\edN;@k.sa.na.h \msLac\hypometrical}
+\newverse
+paadaa"ngu.s.thatala.m yaavadapaanaakhyena vaayunaa|%
+\tika{@khyena\lem
+	\msNb\msCa\msKa\msL\edN; @tthena \msW}
+
+uurdhvabhaagamudaanena tribhireva.m vi"sodhayet|| 4:43||%
+\tika{vi"sodhayet\lem
+	 \msNb\msKa\edN; vicintayet \msCa; cirvi"sodhayet \msL\hypermetrical}
+% 	 uurdva \msW
+\newverse
+athavaa "sodhanopaayaprakaaraantaramucyate|%
+\tika{"sodhanopaaya@\lem
+	\msW; "sodhanopaaya.h \msNb\msCa; saadhanopaaya.h \msKa\edN; 
+	"sodhayepaaya.h \msL} 
+
+a"ngulyagre.na sa.mrudhya dak.si.na.m naasikaapu.tam|| 4:44||%
+\tika{a"ngulyagre.na\lem
+	 \msNb\msCa\msKa\msL\msW; a"ngulaagre.na \edN}
+\newverse
+vaamenaak.r.sya pavana.m dehamaapuurya dhaarayet|
+\tika{dehamaapuurya\lem
+	 \msNb\msCa\msKa\msL\msW; dehamaapurya \edN}
+
+tato virecayetsarva.m d.rtivaddak.si.nena tu|| 4:45||%
+\tika{tato virecayetsarva.m\lem 
+	\msCa\msKa\msW\edN; tato virecayetsa \lk\ \msNb}
+\tika{d.rtivaddak.si.nena tu\lem 
+	\msCa(${\rm not much clear}$)\msKa\msW\msL\edN; ${\rm not readable}$\msNb}
+\newverse
+tathaiva vipariita~nca kuryaadyogii puna.h puna.h|
+
+ naa.dii"sodhananaamaana.m prathama.m karma kiirtitam|| 4:46||%
+\tika{naa.dii"sodhananaamaana.m\lem
+   \msNb\msCa\msKa\msL\msW; naa.dii "sodhana naamaina.m \edN}%
+ \tika{karma kiirttita.m\lem
+  \msNb\msKa\edN; parikiirtitam \msCa\msL\msW}
+\newverse
+o.mityekaak.sara.m samyaksamuccaarya vicak.sa.na.h|%
+ \tika{o.m ityekaak.sara.m\lem
+ 	 \msNb\msCa\msKa\msLpc\msW\edN; ityekaak.sara.m \msLac\hypometrical}%
+\tika{samu@\lem
+	 	 \msNb\msCa\msKa\msL\edN; tamu@ \msW}
+% 	 omityekaak.sara.m – msNb, msKa
+
+ha.thaadaakar.sayetpraa.naanadhobhaagavyavasthitaan|| 4:47||%
+ \tika{adhobhaaga@\lem
+ 	 \msNb\msCa; adhobhaage \edN\msW; adhobhaagaa.m \msKa; adhobhaava@ \msL}
+\newverse
+sarvaansa.mh.rtya h.rdaye varttuliik.rtya dhaarayet|%
+ \tika{sarvaan\lem
+ 	 \msCa\msKa\msL\msW\edN; sarvaa \msNb}
+
+o.mkaara.m punaruccaarya kapaalaanta.m samarpayet|| 4:48||%
+\tika{o.mkaara.m\lem
+	\msNb\msCa\msKa\msL\edN; o.mkaakaara.m \msWpc; 
+	o.mkaa"ngu.staadipakaara.m \msWac\hypermetrical}
+ \tika{kapaalaanta.m\lem
+ 	\msNb\msKa\msL\edN; kapaalaantaa.m \msCa; kapaalaastha@ \msW}%
+\tika{samarpayet\lem
+	\msW; udiirayet \msNb\msCa\msKa\msL\edN}
+\newverse
+muurdhni k.sa.na.m dhaarayitvaa pratiipamavakar.sayet|%
+\tika{muurdhni k.sa.na.m\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ .nam \msL}%
+ \tika{dhaarayitvaa\lem
+ 	\msNb\msCa\msL\msW\edN; dharayitvaa \msKa}
+ \tika{pratiipamava@
+  \msL; patiiryamapa@ \msNb; pratiipamapa@
+ 	 \msCa\edN; pratiipakamapa@ \msKa; pratiipama@ \msW\hypometrical}
+
+punastenaiva maarge.na h.rdaye sthaapayenmuhu.h|| 4:49||%
+ \tika{punastenaiva\lem
+ 	  \msNb\msCa\msL\msW; puna.s.tanaiva \msKa; tatastenaiva \edN}% 
+\tika{maarge.na\lem
+	  \msNb\msCa\msKa\msL\edN; maargana \msW} 
+\newverse
+tato vini"svasedyogii naasikaabhyaa.m "sanai.h "sanai.h|%
+ \tika{vini"svasedyogii\lem
+ 	 \msCa\msW\msL\edN; nivisvasedyogii \msNb; vinisva.nedyogii \msKa}
+
+ida.m karma dvitiiya.m syaatkaaryanaa.diiti sa.mj~nitam|| 4:50||%
+ \tika{dvitiiya.m syaat\lem
+ 	 \msCa\msL\edN; dvitiiya \msNb; dvitiiya.m syaa \msKa}%
+ \tika{kaaryanaa.diiti\lem
+ 	 \msKa\msL; kaaryanaa.diibhi \msNb; kaaryannaa.diiti \msCa\msW; 
+ 	 kaayyanaa.diitio \edN}
+\newverse
+naa.diisa~ncaaramaarge.su paadaa"ngu.s.thaadiparvasu|%
+\tika{naa.diisa~ncaaramaarge.su\lem	
+	\msNb\msCa\msL\msW\edN; naa.diisa~ncaaramaarge \msKa}
+
+o.mkaare.na samutkar.sannekaikasminp.rthak p.rthak|| 4:51||%
+\tika{samutkar.sannekaikasmin\lem
+	\msL\msW\edN; samutkar.samaikaikasmin \msCa\msKa; 
+	samutkar.sanmekaikasmi.m \msNb}
+\newverse
+dhyaatvaa dhyaatvaa vidhaaryeta paripaa.tyaa yathaakramam|%
+\tika{vidhaaryeta\lem
+	 \msNb\msCa\msKa\msL\msW; vidhaaryeva \edN}%
+\tika{paripaa.tyaa\lem
+	  \msNb\msCa\msKa\msW\edN; \lac\ \msL}
+
+"saakhaasvavasthitaansarvaansa.mk.sipya sthaapayeddh.rdi|| 4:52||%
+\tika{"saakhaa@\lem
+	 \msCa\msKa\msL\msW\edN; saakhaa@ \msNb}%
+\tika{sarvaan\lem
+		 \msNb \msCa\msKa\msL\edN; \omits\ \msW}
+\newverse
+tathaiva punaruddh.rtya praa.naanurasi dhaarayet|
+
+tata.h ka.n.the ca jihvaayaa.m naasikaayaa.m tu cak.su.si|| 4:53||%
+\tika{cak.su.si\lem
+	 \msCa\msKa\msL\msW; cak.susi \msNb\edN}
+\newverse
+lalaa.te mastaka.m yaavadutk.sipyotk.sipya dhaarayet|%
+\tika{mastaka.m\lem
+	 \msNb\msCa\msKa\msL\msWpc\edN; mastake \msW}%
+\tika{yaavadutk.sipyotk.sipya\lem
+	 \msNb\msCa\msKa\msL\msW; yaavadutk.siyotk.sipya \edN}
+
+evameva kramaadvaayu.m pratiipamapakar.sayet|| 4:54||%
+\tika{kramaadvaayu.m\lem
+	 \msCa\msKa\msL\msW\edN; kraamaadvaayu.m \msNb}%
+\tika{apakar.sa@\lem
+		\msNb\msCa\msKa\msL\edN; akar.sa@ \msW\hypometrical}
+\newverse
+tata.h praa.na.m h.rdi sthaapya "sanairyogii vini"svaset|
+\tika{h.rdi\lem 
+\msNb\msCa\msL\msW\edN; h.rti \msKa}%
+\tika{"sanairyogii\lem 
+   \msKa\msL\edN; "sanaiyogii \msNb\msCa\msW}%
+\tika{vini"svaset\lem
+ \msCa\msL\edN; vinisvaset \msNb\msW; viniye/se?t \msKa}
+
+t.rtiiya.m karma nirdi.s.ta.m dhaara.naava.m"sayojanam|| 4:55||%
+\tika{t.rtiiya.m\lem
+	\msNb\msCa\msKa\edN; t.rtiiya \msL\msW}%
+\tika{dhaara.naava.m"sa@\lem
+	 \msCa\msKa\msL\msW\edN; dhaara.naava"sa@ \msNb}
+\newverse
+eva.m pratidinaabhyaasairnaa.dii kaaryak.samaa bhavet|%
+\tika{@bhyaasairnaa.dii\lem
+	 \msCa\msKa; @bhyaasai naa.dii \msNb\msW; 
+	 @bhyaase naa.dii \msLpc; @bhyaasa.m naa.dii \msLac}%
+\tika{@k.samaa\lem
+		 \msNb\msCa\msKa\msW\edN; @k.samo \msL}
+
+anyatkarmaantara.m guhya.m tato yogii samaarabhet|| 4:56||%
+\tika{anyat\lem
+	 \msNb\msCa\msL\msW; anya \msKa; atha \edN} 
+\newverse
+i.daa vaamaa su.sumnaa ca dve naa.dii naasikaa"srite|%
+\tika{i.daa\lem
+	 \msNb\msCa\msL\msW\edN; ii.daa \msKa}%
+\tika{susumnaa\lem
+	 \msNb\msKa\msW; "su.sumnaa \msCa; su.sum.naa \edN}%
+\tika{dve naa.dii naasikaa"srite\lem
+	 \msNb\msCa; dva naa.dyau naasikaa"srite \msKa; dve naa.dii naasikaa"sritau \msL; 
+	 dve naa.dyo"srite \msW\hypometrical; 
+	 naa.dyaastaa naasikaak.sito.h \edN}
+
+bhruvormadhye paraa naa.dii tajj~naisturyeti kiirttitaa|| 4:57||%
+\tika{bhruvormadhye\lem
+  	\msL\edN; bhruvomadhye \msNb\msCa\msKa; bhruvotmadhye \msW}%
+\tika{paraa\lem
+		\msCa\msKa\msL\msW\edN; parii \msNb}%
+\tika{tajj~nai@\lem
+	\msKa\msL\msW\edN; tajja@ \msNb\msCa}
+\tika{turyeti\lem
+	 \msNb\msKa\msL\msW\edN; turyaistu \msCa} 
+\newverse
+taabhyaa.m vinirgata.h praa.no bhavabandhanamucyate|%
+\tika{vinirgata.h praa.no\lem
+	 \msCa\msKa\msL\msW; vinirgatapraa.no/.nai? \msNb; vinirgata praa.no \edN}%
+\tika{@bandhanam\lem
+	\msNb\msCa\msKa\msL\edN; @bandhainam \msW}
+
+turyayaa yastu niryaato yogii yogaphala.m labhet|| 4:58||%
+\tika{yogaphala.m\lem
+	\msCa\msKa\msL\msW\edN; yogaphala \msNb}
+\newverse
+nava srotaa.msi yatnena nirudhya manasaa puna.h|%
+\tika{nava srotaa.msi\lem
+ \emend; nava "srotaa.m"si \msNb; 
+ nava "srotaa.msi \msCa; nava "srotraa.msi \msKa; na \lac\ taa.msi \msL; 
+ nava "srotaasi \msW; nava srotaasi \edN}%
+ \tika{yatnena\lem
+  \msNb\msCa\msKa\msW\edN; yannena \msL}%
+\tika{manasaa\lem
+	 \msNb\msCa\msKa\msLac\msW\edN; maanasaa \msLpc}
+
+sudiirghannaadamuccaarya turyasthaana.m samaavi"set|| 4:59||%
+\tika{sudiirghanaadamuccaarya\lem
+	\msNb\msKa\msW\edN; sudiirghannaadamuccaarya \msCa; 
+	sudiirghannaa.damuccaarya \msL\msW}
+\newverse
+yaavannaasaadyate yogii yogamaarga.m svamastake|%
+\tika{yaavannaasaadyate yogii\lem
+	 \msNb\msCa\msL; yaavannaasaadayet yogii \edN; 
+	 yaavannaa"saa(${\rm with correction mark}$)dya tayaa jogii \msKa; 
+	 yaavannaasikaa saadyate yogii \msW\hypermetrical}%
+\tika{@maarga.m\lem
+	  \msNb\msCa\msKa\msL\edN; @maarga \msW}
+
+taavatsamyakprakurviita dvitrivaaraandine dine|| 4:60||%
+\tika{dvitrivaaraandine dine\lem
+	\msNb\msCa\msL; ditivaaraandine dine \msKa; dvitrivaara.m dine dine \edN}%
+\tika{prakurviita\lem
+	\msNb\msCa\msKa\msL\edN; sukurviita \msW}
+\newverse
+bahuvaara.m na kurviita kramayogena bhedayet|%
+\tika{bahuvaara.m na\lem
+	 \msKa\msL\msW\edN; bahuvaaratna \msNb; bahuvaaranna \msCa}% 
+\tika{bhedayet\lem
+	\msNb\msCa\msL\msW; saadhayet \msKa\edN} 
+
+ha.thasaadhya.m na karttavyamakhedenaiva saadhayet|| 4:61||%
+\tika{ha.thasaadhya.m\lem
+ 	\msCa\msKa\msL\msW\edN; ha.tha"saadhya.m \msNb}%
+\tika{@makhedenaiva\lem
+	 \msNb\msCa\msKa\msL\msW; @makhedenai.sa \edN}
+\newverse
+abhyaasena yathaa lak.sya.m dhaanu.sko vidhyate "sarai.h|%
+\tika{dhaanu.sko\lem
+	\msNb\msCa\msKa\msL\edN; vaanu.sko \msW}%
+\tika{vidhyate\lem 
+   \msNb\msCa\msL; bhidyate \msKa; vidhyate \msW; bhedayet \edN}%
+\tika{"sarai.h\lem
+ \msNb\msKa\msL\edN; "sanai.h \msCa; sanai.h \msW}
+
+tathaivaanve.sayetpraa.nairmaarga.m yogii svamastake|| 4:62||%
+\tika{tathaivaanve.sayetpraa.nairmaarga.m\lem
+	 \msKa\edN; tathaivaanve.sayetpraa.nemaarga \msNb; 
+	 tathaivaanve.sayetpraa.nairmaarga msCa; \lk\ thaivaanve.sayetpraa.nairmaarga.m \msL; 
+	 tathaivaandhepayetpraa.nairmaaga.m \msW}%
+\tika{yogii\lem
+		 \msNb\msCa\msKa\msL\edN; yaagii \msW}
+\newverse
+aasaadyate yadaa yogii turyasthaana.m vicak.sa.na.h|%
+\tika{aasaadyate\lem
+	 \msNb\msCa\msKa\msL\msW; aasaadayed \edN}%
+\tika{yadaa\lem
+		  \msNb\msCa\msKa\msL\edN; yade \msWpc; yada \msWac}
+
+praa.na.m pratiipamaak.r.sya h.rdaye dhaarayetpuna.h|| 4:63||%
+\tika{pratiipamaak.r.sya\lem
+ \msNb\msW\msL\edN; pratiipamaa.syante \msCa; pratiiyamaak.r.sya \msKa}
+\newverse
+tanmaarge.na vini.hs.rtya k.sa.na.m sthitvaa nivartayet|%
+\tika{tanmaarge.na\lem
+	 \msCa\msKa\msL; tatmaarge.na \msNb; tanmaarge.naa \edN}%
+\tika{vini.hs.rtya\lem
+ \msKa\msL\edN; vinis.rtya \msNb; vinis.rtya \msCa\msW}
+
+upari.s.taattato yogii stoka.m stoka.m krame.na tu|| 4:64||%
+\tika{upari.s.taat\lem
+	\msNb\msCa\msKa\msL\edN; upari.s.taa.m  \msW}%
+\tika{stoka.m stoka.m\lem
+	\msNb\msCa\msKa\edN; sto \lk\ stoka.m \msL; stokastoka.m \msW}
+\newverse
+arcirdhuuma"sikhaa.m yaavadgatvaa gatvaa nivartate|%
+\tika{arcirdhuuma"sikhaa.m\lem
+	 \edN; arci dhuuma"sikha.m \msCa; 
+	 arci dhuuma"sikha \msNb; arcirdhuuma"sikha.m \msKa\msL\msW}%
+\tika{nivartate\lem
+	 \msL\edN; nivartayet \msNb\msCa\msKa}
+
+udrecaniiti vikhyaataa caturtha.m karma kiirtitam|| 4:65||%
+\tika{@caniiti\lem
+		\msNb\msCa\msKa\msW\edN; @canaati \msL}%
+\tika{caturtha.m\lem
+	 \msCa\msKa\msW\msL; caturtha \msNb\edN}
+\newverse
+eva.m satatamabhyasya yogii kaalamapek.sate|%
+\tika{eva.m\lem
+	 \msNb\msCa\msKa\msL\msW; etaa.m \edN}%
+\tika{satatamabhyasya\lem
+	 \msNb\msCa\msL\edN; "sata.m mabhyasya \msKa; "satatamabhyasya \msW}%
+\tika{kaalamapek.sate\lem
+	 \msCa\msL\msW; kaalamupek.sayet \msNb; 
+	 kaalamapek.sayeta \msKa; kaalamapek.sa.naat \edN}
+
+ani.s.ta.m ca svadehe tu nityameva niruupayet|| 4:66||%
+\tika{ari.s.ta~nca\lem
+	 \msCa\msW\msL; ani.s.ta~nca \msNb; ari.s.tantu \msKa\edN}%
+\tika{@dehe tu\lem
+	\msNb\msCa\msKa\msW\edN; @dehe ta \msL}%
+\tika{niruupayet\lem
+	\msNb\msCa\msKa\msW\msLpc\edN; niruupayet \msLac}	 
+\newverse
+ari.s.ta.m ca yadaa pa"syenm.rtyuruupa.m sudaaru.nam|%
+\tika{ari.s.ta.m ca\lem
+	 \msNb\msCa\msKa\msL\msW; ari.s.tantu \edN}
+
+tadaa dehaparityaaga.m kartu.m karma samaarabhet|| 4:67||%
+\tika{@tyaaga.m\lem
+\msNb\msCa\msKa\msW\edN; @tyaa.mga \msL}%
+\tika{kartu.m karma\lem
+	 \msNb\msCa\edN; karttu karmaa \msKa; karttu karma \msW}
+\newverse
+naagaakhya.h k.rkara.h kuurmo devadatto dhana~njaya.h|%
+\tika{naagaakhya.h\lem
+	 \msCa\msL\msW\edN; naagaakhya \msNb; naa.mgaakhya.h \msKa}%
+\tika{k.rkara.h\lem
+\msNb\msCa\msKa\msL\msWpc\edN; k.rraka.h \msWac}	 
+
+vikurvate mumuur.suu.naa.m pa~ncaite vaayavo.apare|| 4:68||%
+\tika{vikurvate mumuur.suu.naa.m\lem
+	 \msCa\msW\edN; murmuu.sa.naa.m vikurvante \msNb; 
+	 vikurvate mumuurkhaa.naa \msKa; 
+	 vikurvate mumuryuu.naa.m \msW}%
+\tika{pa~ncaite\lem
+	 \msNb\msCa\msL\msW\edN; pa~ncite \msKa}%
+\tika{vaayavo.apare\lem
+	  \msNb\msCa\msKa\msW\msL; vaamavo.apare \edN} 
+\newverse
+aasannam.rtyurmanujo gaa.dha.m ni"svasate yadaa|%
+\tika{@m.rtyurmanujo\lem
+	\msCa\msKa\msL\edN; @m.rtyumanujo \msNb; @\lk\ tyurmanujo \msW?}%
+\tika{gaa.dha.m ni"svasate\lem
+	 \msCa\msL\edN; gaa.dha.m nisva"sate \msNb; gaa.dha nisvasata \msKa}%
+\tika{ni"svasate\lem
+	\msNb\msCa\msKa\msL\edN; nisva.msate \msW}	 
+
+etannaagaabhidhaanasya vaayorli"ngamudaah.rtam|| 4:69||%
+\tika{vaayorli"nga@\lem
+	 \msNb\msCa\msL\edN; vaayolli"nga@ \msKa\msW}
+\newverse
+tato marmaa.ni sa.mcchidya parva parva yathaakramam|%
+\tika{marmaa.ni\lem
+	 \msCa\msW\msL\edN; maargaa.ni \msNb; karmaa.ni \msKa}%
+\tika{parva parva\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; parva pa \msLac\hypometrical}	 
+%sa.mchidya	 \msW
+
+yadaa santyajyate praa.nairvikaara.h k.rkarasya ca|| 4:70||%
+\tika{santyajyate\lem
+	\msNb\msCa\msKa\msW\edN; santyajate \msL}%
+\tika{praa.nairvikaara.h\lem
+	 \msCa\msW\msL\edN; praa.nairvikaara.m \msNb\msKa}%
+\tika{k.rkarasya ca\lem
+	 \msNb\msCa\msKa\msW\msL; k.rkalasya sa.h \edN}
+\newverse
+"saakhaasvavasthitaansarvaansa.mh.rtya h.rdaye sadaa|%
+\tika{"saakhaasvavasthitaan\lem
+	 \edN; "saakhaasvavasthitaa.h \msNb\msCa\msKa\msL; 
+	 "saakhaasvasasthitaa.h \msW}%
+\tika{sarvaan\lem
+	 \edN; sarve \msNb\msCa\msKa\msL\msW}%
+\tika{sadaa\lem
+	 \msCa\msL; mava.h \msNb; yadaa \msKa\edN; yadaa.h \msW} 
+
+varttate cottaraaduurdhvametatkuurmasya lak.sa.nam|| 4:71||%
+\tika{varttate\lem
+ 	\msCa\msKa\msL\edN; varttante \msNb\msW}%
+\tika{cottaraaduu@\lem
+	 \msCa\msKa\msL\msW\edN,; codaraaduu@ \msNb}%
+\tika{kuurmasya\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; kuurma \msL\hypometrical}	 
+\newverse
+tato ni"scaladehasya ka.n.tho ghurughuraayate|%
+\tika{ka.n.tho\lem 
+	\msCa; ka.n.the \msNb\msKa\msL\msW\edN}%
+\tika{ghurughuraayate\lem
+	 \msCa\msKa\msL; ghuraghuraayate \msNb\edN; ghurughuruyete \msW}
+
+idantu devadattasya vaayorli"nga.m prakiirtitam|| 4:72||%
+\tika{vaayorli"nga.m\lem
+ 	\msNb\msKa\msL\edN; vaayorli"nga \msCa\msW}
+\newverse
+yadaa dhana~njayo naama vaayuraajaa vikurvate|%
+\tika{dhana~njayo naama\lem
+	\msCa\msKa\msL\msW\edN; dhana~njayo dhanaama \msNb}%
+\tika{vaayuraajo\lem
+	\msKa\edN; vaayuraajaa \msNb\msCa\msL\msW}%
+\tika{vikurvate\lem 
+		\msNb\msKa\msL\msW; vivakute \msCa; vikaaraka.h \edN}
+
+tacchariira.m parityajya jiivo lokaantara.m vrajet|| 4:73||%
+\tika{lokaantara.m\lem
+	 \msNb\msCa\msL\edN; rokaaj~nara.m \msKa; lokaantara \msW}
+% tachariira.m	 \msW4:48
+\newverse
+yadyattadaa cintayate prerita.h puurvakarma.naa|%
+\tika{yadyattadaa\lem
+	\msCa\msKa\msL\msW\edN ; ya.m ya.m tadaa \msNb}%
+\tika{cintayate\lem
+	\msNb\msCa\msKa\msL\edN; cintayete \msW}%
+\tika{prerita.h\lem
+	\msNb\msCa\msKa\edN; prairita.h \msL; pra.nita.h \msW}	
+
+pu.nyaapu.nyaphalairyuktastatra tatropapadyate|| 4:74||%
+\tika{pu.nyaapu.nyaphalairyu@\lem
+	 \msNb\msCa\msKa\msW; pu.nyaa pu.nyaphalairyu@ \edN; 
+	 pu.nyaapu.nyaphaleryu@ \msL}%
+\tika{tatropapadyate\lem
+	\msNb\msKa\msL\msW\edN; tatro prapadyate \msCa}
+\newverse
+a.s.taasu paradehaadibrahmalokaantaparvasu|%
+\tika{a.s.taasu\lem
+ \msNb\msCa\msKa\msL\msW; a.s.taatsu \edN}%
+ \tika{@brahma@\lem
+ 	\msNb\msCa\msKa\msW\edN; @parvaa@ \msL}
+
+madhye yadrocate gantu.m lak.sya.m tatparikalpayet|| 4:75||%
+\tika{yadrocate\lem
+	 \edN\msKa\msL; ya rocate \msCa\msNb; ya.m rocate \msW}%
+\tika{gantu.m\lem
+	 \msKa\msW\msL\edN; santu \msCa; gantu \msNb}%
+\tika{lak.sya.m tatparikalpayet\lem
+	\msCa\msL\msW\edN; lak.santaparikalpayet \msNb; lak.syantatparikalpitaa \msKa}
+\newverse
+yathaa d.r.s.tyaa dhanu.spaa.nirlak.sameva niriik.sayet|%
+\tika{yathaa\lem
+	\msNb\msCa\msKa\msL\msW; yadaa \edN}%
+\tika{dhanu.spaa.nirlak.syameva\lem
+	 \msW; dhanu.h.spaa.nirlak.sameva \msCa; dhanu.spaa.nilak.sameva.m \msNb; 
+dhanu.spaanirlak.sameka.m \msKa; dhanu.hpaa.nirlak.sameva \msL; 
+dhanu.spaa.nirlak.sameka.m \edN}%
+\tika{niriik.sayet\lem
+	 \msKa\msL\msW\edN; nik.sayet \msCa; niriik.sate \msNb}
+
+tathaiva paradehaadiindhyaayeccittena yogavit|| 4:76||%
+\tika{dhyaayeccittena\lem
+	 \msNb\msKa\msL\edN; dhyaayecittena \msCa\msW}
+\newverse
+tadeva manasaa dhyaayeduurdhvasrotasi yatnata.h|%
+\tika{dhyaayeduurdhvasrotasi\lem
+\emend; dhyaayeduurdhva"srotraa.msi \msW; 
+ \msKa\edN; dhyaayeduurdhva"srotaa.msi \msNb\msL; 
+ dhyaayedruddhvaa "srotaa.msi \msCa}
+
+sudiirgha.m vyaaharennaadamavicchinnaanugadhvanim|| 4:77||%
+\tika{@diirgha.m\lem
+	\msNb\msCa\msKa\msL\edN; @diirgha \msW}%
+\tika{@mavicchinnaanuga@\lem
+ \msKa; @mavicchinnaanuga.m \msCa\msL\edN; @mavacchinnaatuga.m \msNb; 
+ @mavichinnaanuga@ \msW}
+\newverse
+sak.rduccaaritenaiva yathaalak.sya.m prapadyate|%
+\tika{uccaarite@\lem
+	\msNb\msCa\msKa\msL\msW; uccarite@ \edN}%
+\tika{yathaalak.sya.m\lem
+	 \msNb\msCa\msKa\msL\msW; yathaa lak.sya.m \edN}
+
+yathaanaada.m samuccaarya "saravatprerayedasuun|| 4:78||%
+\tika{tathaa naada.m\lem
+	\msL\msW; yathaa naada.m 
+	 \msNb; yadaa naada.m \msKa\edN}%
+\tika{"saravatprarayedasuun\lem
+	 \msL\msW\edN; saravatprarayeda"suun \msNb\msKa}%
+\quote{${\rm 4.78ab is missing in \msCa.}$}	 
+\newverse
+jitalak.syo hi dhaanu.ska.h "sare.naikena ghaatayet|%
+\tika{dhaanu.ska.h\lem
+	\msNb\msCa\msL; dhaanu.ska \msKa\msW; dhaanu.skaa.h \edN}%
+\tika{"sare.naikena\lem
+	 \msNb\msKa\msL\edN; "sarenaikena \msCa; sare.nekena \msW}%
+\tika{ghaatayet\lem
+	\msNb\msCa\msKa\msL\msWpc\edN; ghaaratayet \msWac}
+	 
+tathaiva jitayogo.api naadenaikena yaasyati|| 4:79||%
+\tika{tathaiva\lem
+	 \msNb\msKa\msL\edN; tathai \msCa}%
+\tika{yogo.api\lem
+	\msNb\msCa\msKa\msL\edN; yogiipi \msW}%
+\tika{naadenaikena\lem
+	 \msNb\msKa\msL\edN; naadainekena \msCa; naadenekena \msW}
+\newverse
+eva.m parityajya deha.m yogii yogaphala.m labhet|%
+\tika{parityajya\lem
+	\emend; parityaja.m  \msNb\msCa\msKa\msL\edN; parityaja \msW}%
+\tika{yogaphala.m\lem
+	\msNb\msKa\msL\msW\edN; yogaphala msCa}
+
+ida.m tu pa~ncama.m karma pralayotkraantisa.mj~nitam|| 4:80||%
+\tika{pa~ncama.m\lem
+	\msCa\msKa\msL\msW\edN; pa~ncama \msNb}%
+\tika{sa.mj~nitam\lem	
+	 \msCa\msL\msW; saj~nita.m \msNb; sa.mj~nita.h \msKa; sa.mj~nita.m \edN}
+\newverse
+prathama.m tu gu.nai"svarya.m tata.h parapura~njayam|
+
+t.rtiiya.m mok.samityuktametadyogaphalatrayam|| 4:81||%
+\tika{t.rtiiya.m\lem 
+	\msNb\msKa\msL\msW\edN; t.rtiiya \msCa}%
+\tika{etadyogaphalatrayam\lem
+ \msL; etadyogaphalatraya.m \msNb\msKa\edN; 
+ etadyogaphatrayam \msCa; tadyogaphalatrayam \msW\hypometrical}
+\newverse
+a.nimaadigu.naa.s.taanaa.m madhye ya.m praaptumi.syate|%
+\tika{a.nimaadi!\lem
+	 \msNb\msCa\msL\edN; animaadi@ \msKa; a.nimaade@ \msW}
+
+ta.m gu.na.m manasaa dhyaatvaa yogii deha.m parityajet|| 4:82||%
+\tika{ta.m gu.na.m\lem
+	\msNb\msCa\msKa\edN; tadgu.na.m \msL\msW}
+\newverse
+gu.nena tena sa.myukto bhuutvaa jaayeta yogavit|
+
+gu.nai"svaryamiti prokta.m yogasya prathama.m phalam|| 4:83||%
+\tika{gu.nai"svaryamiti\lem
+	 \msNb\msKa\msL\msW\edN; gu.neraaryamiti \msCa}
+\newverse
+yadaa jaraabhibhuutatvaatsvadeha.m tyaktumi.syate|%
+\tika{jaraabhibhuutatvaat\lem
+	 \msCa\msLpc\edN; jaraabhi \lac\verify \msNb; jaraavibhuutatvaat \msKa; 
+	 jaraabhibhuutabhuutatvaat \msLac\hypermetrical}%
+\tika{svadeha.m\lem
+	\msNb\msCa\msKa\msL\edN; svadeha \msW}% 
+\tika{@mi.syate\lem
+		 \msNb\msCa\msKa\msW\edN\msL;
+		  (@micchati)\edN(${\rm an an alternative suggestion}$)}
+
+anve.sayettadaa yogii ka~ncinm.rtakalevaram|| 4:84||%
+\tika{anve.sayettadaa\lem
+	 \msNb\msKa\msL\msW\edN; anve.sayetadaa \msCa}%
+\tika{ka~ncinm.rta@\lem
+	 \msL\msW\edN; ka"scinm.rtao \msNb\msCa; ka"scim.rta@ msKa}%
+\tika{@kalevaram\lem
+		 \msNb\msCa\msKa\msL\edN; ka.devaram \msW}
+\newverse
+a"ngaavayavasampuur.na.m kularuupasamanvitam|%
+\tika{a"ngaa@\lem
+	\msNb\msCa\msKa\msL\edN; mudbhaa@ \msW}%
+\tika{kularuupasamanvitam\lem
+	 \msCa\msKa\msL\edN; kularuupavayonvita.m \msNb; kularuupa.m samanvitam \msW}
+
+ta.m deha.m manasaa dhyaatvaa yoga.m kurviita puurvavat|| 4:85||%
+\tika{ta.m deha.m\lem
+	 \msNb\msCa\msL\msW; taddeha.m \msKa\edN}%
+\tika{yoga.m\lem
+	\msNb\msCa\msKa\msL\edN;  goya \msW}%	 
+\tika{kurviita\lem
+	 \msNb\msCa\msKa\msW; \lk\ viita \msL; kurvati \edN}%
+\tika{puurvavat\lem
+	 \msNb\msKa\msL\msW\edN; yogavit \msCa}
+\newverse
+garbhavaasaparikle"sa"si"subhaavavivarjitam|%
+\tika{garbhavaasaparikle"sa@\lem
+	\msCa\msL\msW; garbhaavaasaparikle"sa@ \msNb; garbhavaasapari kle"sa@ \edN; 
+	garbhavaasaparikle"sa.m \msKa}%
+\tika{"si"subhaava@\lem
+	\msKa\msL\edN; "si.subhaava@ \msCa; "sisubhaava@ \msNb; 
+	"sa"si"subhaave \msW\hypermetrical}
+
+dvitiiya.m phalamityukta.m naamnaa parapura~njaya.h|| 4:86||%
+\tika{dvitiiya.m\lem
+	\msNb\msCa\msKa\msL\edN; dvitiiya \msW}%
+\tika{phalamityukta.m\lem
+	  \msNb\msCa\msKa\msL\msW; phalamityukta \edN}
+\tika{parapura~njaya.h\lem
+	 \msNb\msKa\msL\msW\edN; parapura~njayam \msCa}
+\newverse
+niraa"sraye.na cittena j~naanamaatraavalambinaa|%
+\tika{niraa"sraye.na\lem
+	 \msNb\msL\msW\edN; niraa"srayena \msCa\msKa}%
+\tika{j~naanamaatraavalambinaa\lem
+	 \msL\msW\edN; j~naanamaatraavilambinaa \msCa\msKa; 
+	 j~naanamaatraavalambitaa \msNb}
+
+na ki~ncidapi sa.mcintya yadi deha.m parityajet|| 4:87||%
+\tika{ki~ncidapi\lem
+	 \msCa\msKa\msL\msW\edN; ka~ncidapi \msNb}%
+\tika{sa.mcintya\lem
+ \msNb\msCa\msL\msW\edN; santyajya \msKa}
+\newverse
+sa prayaati para.m brahma sarvadu.hkhaantamavyayam|%
+\tika{prayaati para.m brahma\lem
+	 \msNb\msKa\msL\edN; yaati parama.m brahma \msCa\msW}
+	 
+t.rtiiya.m phalamityukta.m mok.sa.m naira~njana.m phalam|| 4:88||%
+\tika{naira~njana.m\lem
+	 \msCa\msKa\msL\edN; naira~njana \msNb}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m dhyaanamaargaprakara.na.m naama caturtha.h pa.tala.h|| catvaari yogaprakara.naani samaaptaani|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+	 \edN; dharmaputrikaayaa.m sa.mhitaayaa.m \msNb\msKa; 
+	 dharmaputrikaayaa.m  \msCa\msL\msW}%
+\tika{dhyaanamaargaprakara.na.m naama\lem
+	 \msCa\msKa\msL\msW\edN; dhyaanamaargaprakara naa \msNb}%
+\tika{caturtha.h pa.tala.h\lem
+	 \msCa\msKa\msL\msW\edN; caturthapa.tala.h \msNb}%
+\tika{yogaprakara.naani\lem
+	 \msKa\msL\msW\edN; yogaprakara.naani samaani \msCa; yogapakara.naani \msNb}
+
+\changechap
+
+\newprose
+athaantaraayaa"scaturvidhaa.h|%
+\tika{@taraayaa"sca@\lem
+	\msNb\msCa\msKa\msW\edN; @taraa \lac\ \msL}
+ suuk.smaantaraayo mahaasuuk.smaantaraaya.h 
+ pramaadajaantaraaya.h pratibhaadyantaraaya"sceti|%
+ \tika{suuk.smaantaraayo\lem
+  \msNb\msCa\msL\msW\edN; suuk.smantaroya.h \msKa}%
+  \tika{mahaasuuk.smaantaraaya.h\lem
+  	 \msNb\msCa\msL\msW\edN; \omits\ \msKa}%
+\tika{pratibhaadyantaraaya"sceti\lem
+	 \msCa\msKa\msL\msW; pratibhaanta?ntaraaya"sceti \msNb; 
+	 praatibhaadyantaraaya"sceti \edN}
+
+\newverse
+yu~njanto yogina.h praayo jaayante vighnahetava.h|%
+\tika{yu~njanto\lem
+	\msNb\msW; yu~njato \msCa\msKa\edN}%
+\tika{praayo\lem
+		\msL\msW; praayaa \msNb\msCa\msKa\edN}%
+\tika{jaayante vighnahetava.h\lem 
+    \msCa\msNb\msL\msW; jaayante vighna hetava.h \edN; 
+    jaayate vighnahetava.h \msKa}
+
+tasmaajjaya"scikitsaa ca j~naatavyaa yoginaa sadaa|| 5:1||%
+\tika{jaya"scikitsaa ca\lem
+	\msW; jaya cikitsaa ca \msNb\msCa\msL; 
+	jaya cikitsaa~nca \msKa; jayacikitsaa"sca \edN}%
+\tika{ j~naatavyaa yoginaa\lem
+	\msL\msW\edN; j~naatavyaa yogina.h \msNb; j~naatavyaa yogina \msCa; 
+	j~naatavya.m yogina.h \msKa	}
+\newverse
+mitra.m lak.smiirdhana.m kaantaa "si.syopaadhyaayabaandhavaa.h|%
+\tika{mitra.m lak.smiirdhana.m kaantaa "si.syopaadhyaayabaandhavaa.h\lem 
+ \msL\edN; mitralak.smiidhana.mkaantaa"si.syopaadhyaayabaandhavaa.h \msNb\msCa; 
+ mitra.m lak.smii dhana.m kaantaa "si.syopaadhyaayabaandhavaa.h \msKa\msW}
+
+suuk.smaantaraayaa ityuktaa devairapi sudurjayaa.h|| 5:2||%
+\tika{suuk.smaantaraayaa\lem
+\msL\edN; suuk.smaantaraaya \msCa\msKa\msW; suuk.smantaraaya \msNb}%
+\tika{sudurjayaa.h\lem 
+	\msCa\msKa\msL\msW\edN; sudujayaa.h \msNb}
+\newverse
+nibaddhaa.h snehapaa"sena vi.sayaasvaadatatparaa.h|%
+\tika{nibaddhaa.h\lem
+ \msCa\msL\edN; nibaddhaa \msNb\msKa; nibaddhaa.h \msL}%
+\tika{snehapaa"sena\lem
+ \edN\msKa; snehapaasena \msNb\msCa\msW; snehapaase \lac\ \msL}%
+\tika{vi.sayaasvaadatatparaa.h\lem
+ \msNb\msCa\msL\msW\edN; vi.sayaasvadatatparaa.h \msKa}
+
+.r.saya.h pitaro devaa muhyante.atra sukhepsava.h|| 5:3||%
+\tika{.r.saya.h\lem
+	\msNb\msCa\msKa\msL\msW; .R.saya.h \edN}%
+\tika{muhyante.atra\lem 
+    \msNb\msCa\msL\edN; muhyantyatra \msKa; muhyante \msW\hypometrical}
+\newverse
+pa"syanto.api mahaatmaano vidvaa.mso divyacak.su.saa|%
+\tika{pa"syanto.api\lem
+ \msCa\msL\msW; d.r"syanto.api \msNb; prapa"syanto \msKa\edN}%
+ \tika{divyacak.su.saa\lem
+   \msCa\msKa\msL\msW\edN; divyacak.susaa \msNb}
+
+prasaktaa.h suuk.smabhaave.su naapnuvanti paraa"ngatim|| 5:4||%
+\tika{prasaktaa.h\lem
+ \msCa\msLpc\edN; pra"saktaa \msNb\msLac; pra"sakta \msKa}%
+\tika{suuk.smabhaavena\lem
+	\msKa\edN; suuk.smabhaave.su \msNb\msCa\msL}
+\newverse	
+taa.mstu sarvaa.mstadaa yogii siddhervyaak.sepakaarakaan|%
+\tika{taa.mstu\lem 
+	\msCa\msL\edN; taa.m tu \msNb; taantu \msKa; taastu \msW}%
+\tika{sarvaa.mstadaa\lem
+	 \msNb\msL\msW\edN; sarvaantadaa \msCa; sarvaa.mtadaa \msKa}%
+\tika{siddhervyaak.sepakaarakaan\lem
+	 \msCa\msKa\msL\msW; siddhevyaak.sepakaarakaan \msNb; 
+	 siddharthaak.sepakaarakaan \edN}
+
+antaraaya iti j~naatvaa manasaa parivarjayet|| 5:5||%
+\tika{antaraayaaniti\lem
+	 \msCa\msKa\edN\msL\msW; antaraaya iti \msNb}% 
+\tika{parivarjayet\lem
+   \msNb\msKa\msL\msW\edN; parivartayet \msCa}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m suuk.smaantaraayaa naama pa~ncama.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+ \edN; dharmaputrikaayaa.m \msCa\msL\msW; 
+ dharmaputrikaayaa.m sa.mhitaayaa.m \msNb\msKa}%
+\tika{suuk.smaantaraayaa\lem
+	\msNb\msCa\msKa\edN; suuk.smaantaraayo \msL\msW}% 
+\tika{pa~ncama.h pa.tala.h\lem
+	 \msNb\msCa\msKa\msW; pa~ncama pa.tala.h \edN; pa~ncama \lac\ \msL}
+
+\changechap
+
+\newverse
+kadaacitpaapasaamagryaattaaru.nye.sveva dehinaam|%
+\tika{kadaacitpaapasaamagryaattaaru.nye.sveva\lem
+ 	\msNb\msCa\msKa\msL; kadaacitpaapasaamagryaattaaru.nye aa.su \msW; 
+ 	kadaacitpaapasaamarthyaattaaru.nye hyeva \edN}
+
+aasannam.rtyavo.ari.s.taa jaayante puurvakarmajaa.h|| 6:1||%
+\tika{aasannam.rtyavo.ari.s.taa\lem
+ \msL; aasannam.rtyavori.s.taa \msNb\msCa; 
+ aasannam.rtyucaari.s.thaa \msKa; aasannam.rtavori.s.taa \msW;
+  aasannam.rtyu"scaari.s.taa \edN}%
+ \tika{puurvakarmajaa.h\lem
+ \msNb\msKa\msL\msW\edN; vaa?rvakarmajaa.h \msCa}
+\newverse
+yogasiddhirbhavennaiva mara.na~ncedbhavi.syati|%
+\tika{yogasiddhirbhavennaiva\lem
+ \msNb\msL\edN; yogasiddhisirbhavennaiva \msCa; 
+ yagasiddhibhavennaiva \msKa\msW}%
+\tika{mara.na~ncedbhavi.syati\lem
+ \msNb\msKa\msL\msW\edN; mara.na~ncaidbhavi.syati \msCa}
+
+mahaasuuk.smaantaraayo.aya.m kiirtitastattvadar"sibhi.h|| 6:2||%
+\tika{@suuk.smaa@\lem
+\msNb\msCa\msKa\msL\edN; @suuk.sma@ \msW}%
+\tika{kiirtitastattvadar"sibhi.h\lem
+ \msNb\msCa\msL\msW\edN; kiirttita.mntattvadar"sibhi.h \msKa; 
+ kiirtitastattvada"sibhi.h \msW}
+\newverse
+bhaya.m tatra na g.rh.niiyaadabhyaasa~nca na mu~ncayet|%
+\tika{bhaya.m tatra\lem
+ \msCa\msKa\msL\edN; bhayantrata \msNb}%
+\tika{mu~ncayet\lem
+	\msNb\msCa\msKa\msL\edN; mu~ncayat \msW} 
+% g.rhniiyaad \msW 
+
+yogino yattadaa yukta.m kaarya.m "sriighra.m samaarabhet|| 6:3||%
+\tika{yogino\lem
+    \msNb\msCa\msKa\msL\msW; yoginaa \msW\edN}%
+\tika{yantadaa yukta.m\lem
+ \msCa\msKa\msNb\edN; yantadaa yuktan \msW}%
+ \tika{@rabhet\lem
+	\msNb\msCa\msKa\msL\edN; @caret \msW}
+\newverse
+ari.s.ta.m dvividha.m prokta.m baahyamadhyaatmameva ca|%
+\tika{dvividha.m\lem
+	\msNb\msCa\msKa\msL\edN; dvevidham \msW}%
+\tika{adhyaatmameva ca\lem
+	\msNb\msCa\msKa\edN; a \lac\ meva ca \msL; adhyaatmikantathaa \msW}
+
+baahya.m taavatpravak.syaami yadukta.m tattvadar"sibhi.h|| 6:4|| 
+\newverse
+akasmaadeva ya.h pa"syetpuru.sa.m k.r.s.napi"ngalam|%
+\tika{ya.h pa"syet\lem
+ \msNb\msCa\msL\edN; ya.h pa"sye \msKa; ya.m pa"syan \msW}
+
+tasya var.satrayaaduurdhva.m na bhavedaayuraatmana.h|| 6:5||%
+\tika{var.satrayaaduurdhva.m\lem
+ \msCa\msKa\msL\msW; var.satrayaaduurdhva \msNb\edN}
+\newverse
+vira"smi svacchamevaitanmadhyaahne suuryama.n.dalam|%
+\tika{vira"smi\lem
+  \msNb\msL\edN; virasmi.m \msCa; virasmi \msKa\msW}%
+ \tika{svacchamevaitanmadhyaahne\lem
+ \msNb\msCa\msL\edN; svacchamevaitamadhyaahne \msKa; 
+ svachamevaitanmadhyaahne \msW}%
+ \tika{suuryama.n.dalam\lem
+ \msNb\msCa\msL\msW\edN; suuryama.n.dale \msKa}
+
+ya.h pa"syettena vij~neya.m dvivar.se mara.na.m bhavet|| 6:6||%
+\tika{pa"syet\lem
+	\msNb\msCa\msKa\msL\edN; pa"syan \msW}%
+\tika{vij~neya.m\lem
+		\msNb\msCa\msKa\edN; \lk\ j~ne \lk\ \msL; vij~neya \msW}%
+\tika{dvivar.se\lem
+ 	\msNb\msL; dvivar.sa \msCa\msKa; dvivar.saat \edN}
+\newverse
+arundhatii.m dhruva~ncaiva somacchaayaa.m mahaapatham|%
+\tika{arundhatii.m\lem
+ \msLpc\edN; arundhatii \msCa\msKa\msLac; arudvatii \msNb}
+ \tika{somacchaayaa.m\lem
+ \msCa\msL\edN; somacchaayaa \msNb\msKa\msW}%
+\tika{mahaa@\lem
+	\msNb\msCa\msKa\msW\edN; mahaat \msL}
+
+yo na pa"syenna jiiveta nara.h sa.mvatsaraatparam|| 6:7||%
+\tika{jiivetsa\lem
+	\msNb\msCa\msL; jiiveta \msKa\edN; jiiveta.h \msW}%
+ \tika{nara.h sa.mvatsaraatparam\lem
+ \msNb\msW\edN; nara.h tsamvaraatparam \msCa; nara samvatsaraatpara.m \msKa; 
+ na \lac\ sa.mvatsaraatparam \msL}
+\newverse
+madhye candramasa.m chidra.m gandharvanagaraa.ni ca|%
+\tika{gandharvanagaraa.ni\lem
+ 	\msNb\msCa\msL\edN; gandharvanagaraani \msKa}
+
+rug.na"saakhaadruma.m pa"syedda"samaasaansa jiivati|| 6:8||%
+\tika{rug.na"saakhaa@\lem
+ \emend; rugma"saakhaa@ \msCa\msNb\msL\msW; rugmasaakhaa@ \msKa; 
+ rugna"saakhaadruma.m \msW; yugma"saakhaa@ \edN}%
+\tika{@maasaan\lem
+ \msNb\msCa\msL\msW\edN; @maasa.m \msKa\msW}
+\newverse
+chardimuutrapurii.saa.ni yasya hemarajo bhavet|%
+\tika{chardi@\lem
+ \msNb\msCa\msKa\msW; cchaddi \msL; chaddio \edN}
+
+pratyak.samathavaa spapne tva.s.tau maasaansa jiivati|| 6:9||%
+\tika{pratyak.sam\lem
+	\msNb\msCa\msKa\msL\edN; pratpak.sam \msW}
+\tika{tva.s.tau\lem
+ 	\msNb\msL\msW\edN; tva.s.taa/.s.to?  \msCa; tva.s.tai \msKa}
+\newverse
+raktagandhaanuliptaa"nga.m raktapu.spairala.mk.rtam|%
+\tika{raktagandhaanuliptaa"nga.m\lem
+ 	\msCa\msKa\msL\msW\edN; raktagandhaanuliptaa"nga \msNb}
+
+tailaabhyakta.m tathaa deha.m mu.n.dita.m raktavaasasam|| 6:10||%
+\tika{tailaa@\lem
+ 	\msNb\msCa\msL\msW\edN; telaa@ \msKa}
+\newverse
+gardabhaaruu.dhamaatmaana.m gacchanta.m dak.si.naa.m di"sam|%
+\tika{gardabhaaruu.dha@\lem
+ 	\msNb\msCa\msKa\msL\msW; gardabhaaru.dha@ \edN}%
+ \tika{dak.si.naa.m\lem
+ \msCa\msKa\msW\edN; dak.si.na \msNb; dak.si.naaa di"sa.m \msL}
+
+ya.h pa"syediid.r"sa.m ruupa.m .sa.nmaasa.m tasya jiivitam|| 6:11||%
+\tika{ruupa.m\lem
+	 \msNb\msKa\edN; svapne \msL\msW\msCa}%
+\tika{.sa.nmaasa.m\lem
+ \msL\msW\msKa\edN; .sa.dmaasa.m \msNb; .sa.nmaasaan \msCa}
+\newverse
+aaruhya mastake yasya k.rkalaasa.h pravegavaan|%
+\tika{k.rkalaasa.h\lem
+ \msKa\msL\edN; k.rkalaasa \msNb; k.rkalaa"sa.h \msCa}
+
+dhaarayettrii.ni var.naani pa~nca maasa.m sa jiivati|| 6:12||%
+\tika{dhaarayettrii.ni\lem
+ \msNb\msL\edN; dhaarayetri.ni \msCa\msKa; dhaarayettrii.nii \msW}%
+ \tika{pa~nca maasa.m\lem
+ \msNb\msKa\msL\msW; pa~nca maasaan \msCa; pa~nca maasa.m \edN}
+\newverse
+p.r.s.thato hyagrato vaapi yadi kha.n.da.m pada.m bhavet|%
+\tika{p.r.s.thato\lem
+	\msNb\msCa\msKa\msL\edN; p.r.s.tato \msW}%
+\tika{kha.n.da.m pada.m\lem
+	\edN; kha.n.dapada.m \msNb\msCa\msKa\msL\msW}
+
+kardame paa.m"save vaapi caturmaasa.m sa jiivati|| 6:13||%
+\tika{paa.m"save vaapi\lem
+ \msNb\msW; paa.msudevaaya \msCa; paa.msave vaapi \msKa; 
+ paa.msude"se vaa \msL; paa.msave caapi \edN} 
+\newverse
+salohada.n.dapuru.sa.m k.r.s.na.m k.r.s.naparicchadam|%
+\tika{saloha@\lem
+ \msCa\msKa\msL\msW\edN; .saloha \msNb}%
+\tika{k.r.s.na.m\lem
+ \msL\msW\edN; k.r.s.na \msCa\msNb; k.r.s.na.m \msKapc; k.r.sa.m.s.na.m \msKaac}% 
+\tika{k.r.s.naparicchadam\lem
+ \msL\msNb\msKa\edN; k.r.s.naparicchada \msCa; k.r.s.naparichadam \msW}
+
+ya.h pa"syetpaar"svata.h svapne trayomaasa.m sa jiivati|| 6:14||%
+\tika{paar"svata.h\lem
+ \msNb\msCa\msKa\msL\msW; pa.taryata.h \edN}%
+ \tika{trayomaasa.m\lem
+   \msNb\msKa\msW; trayo maasaan \msCa\msL; maasatraya.m \edN}
+\newverse
+snaatamaatrasya yasyaa"su h.rtpaadau ca vi"su.syata.h|%
+\tika{snaanamaatrasya\lem
+\msL\msW\edN; snaanamaatrasya \msNb\msCa\msKa}%
+ \tika{yasyaa"su\lem
+ \msCa\msKa\edN; yasyaasu \msNb\msW}%
+ \tika{vi"su.syata.h\lem
+ 	 \edN; vi"su.syati \msCa\msKa\msL\msW; visu.syati \msNb}
+
+dhuumo vaa mastake tasya dvau maasau sa tu  jiivati|| 6:15||%
+\tika{dhuumo\lem
+ \msCa\msL\edN; dhuuma.m \msNb\msKa}%
+\tika{mastake tasya\lem
+	 \edN; mastakena syaad \msNb\msCa; mastake tasyaa \msKa; masvake pa"sya \msW}%
+\tika{dvau maasau sa tu\lem
+ 	\msKa\msL\msW\edN; dvau maasaa sa tu \msCa; dvau tu maasau sa \msNb} 
+\newverse
+ha.msakaakamayuuraa.naamekiibhuuta.m prapa"syati|%
+\tika{@mekiibhuuta.m\lem
+ \msNb\edN; @mekiibhaava.m \msCa\msL\msW; ekiibhuuta.m \msKa}
+
+anabhre vidyuta.m pa"syecchakracaapa.m tathaambhasi|| 6:16||%
+\tika{cchakracaapa.m\lem
+ \msNb\msKa\msL\edN; cchakracaapana.m \msCa; chakacaapa.m \msW}%
+\tika{tathaambhasi\lem
+ \msNb\msCa\msL; tato ni"si \msKa\edN; na caabhasi \msW} 
+\newverse
+a"ngaara.m g.rhya vaktre.na kaako vaa mastake patet|%
+\tika{g.rhya\lem
+ \msNb\msL\msW\edN; g.rha \msCa; g.rhyaka? \msKa}%
+\tika{vaktre.na\lem
+ \msCa\msKa\msL\msW\edN; vaktrena \msNb}%
+ \tika{kaako vaa mastake\lem
+  \msNb\msCa\msKa\msL\edN; kaakorma vaasteke \msW}
+% NB: grametical problem: g.rhya is not good lap, it should be
+% g.rhiitvaa
+
+kravyaado vaa khago vaapi maasameka.m sa jiivati|| 6:17||
+\newverse
+apsu vaa yadi vaadar"se aatmaana.m yo na pa"syati|%
+\tika{yadi vaadar"se\lem
+ \msNb\msKa\msW\edN; yadi dar"se \msCa; yadi \lk\ \lk\ \msL}%
+\tika{aatmaana.m\lem
+	\msNb\msCa\msL\msW; caatmaana.m \msKa\edN}
+
+chaayaa.m vaa"siraa.m pa"syedardhamaasa.m sa jiivati|| 6:18||%
+\tika{chaayaa.m vaa"siraa.m\lem
+	\conj; chaayaa.m vaapya"siraa.m \msNb\msL; chaayaa vaapya"sira.h \msCa; 
+	chaayaa.m vaapya"sira.h \msKa\msW\edN}%
+\tika{ardha@\lem
+	\msNb\msCa\msKa\msW\edN; arddhaa@ \msL}
+\newverse
+yasya netre dhakadhake kar.na.h sthaanaacca bhra"syate|%
+\tika{dhakadhake\lem
+ \msNb\msCa\msKa\msL\msW; dha"nkadha"nke \edN}%
+\tika{kar.na.h sthaanaacca\lem
+ \msCa\msL\edN; kar.na.h sthaanaaca \msNb; kar.na sthaanaacca \msKa\msW}%
+\tika{bhra"syate\lem
+ \msCa\msL\msW\edN; bhrasyate \msNb\msKa}
+
+vakranaasaa bhavedyasya saptaraatra.m sa jiivati|| 6:19||%
+\tika{vakranaasaa\lem
+ \msCa\msL\msW; cakraa naa"saa \msNb; vakraa naasaa \msKa\edN}%
+\tika{sa\lem
+ \msCa\msKa\msL\msW\edN; tu \msNb}
+\newverse
+"savagandho bhavedyasya dantaghar.sa"sca jaayate|%
+\tika{"savagandho\lem
+ \msCa\msKa\msW\msL\edN; "sapagandho \msNb}%
+\tika{bhavedyasya\lem
+ \msCa\msKa\msL\edN; bhaveyasya \msNb; bhavadyasya \msW}%
+ \tika{@ghar.sa@\lem
+ 	\msW; @kar.sa@ \msNb\msCa\msKa\msL\edN}
+
+chaayaa.m vaa vik.rtaa.m pa"syettriraatra.m tasya jiivitam|| 6:20||%
+\tika{chaayaa.m vaa vik.rtaa.m\lem
+ \msCa\msKa\msL\edN; chaaya vaa vik.rta.m \msNb; chaayaa.m vaa pik.rti.m \msW}%
+\tika{triraatra.m\lem
+ \msNb\msCa\msKa\msW\msL; triraa~na.m \edN}
+\newverse
+yasya k.r.s.naa kharaa jihvaa padmavar.namukha.m bhavet|%
+\tika{yasya k.r.s.naa kharaa jihvaa\lem
+	\msNb\msCa\msKa\msW\edN; ya \lac\ hvaa \msL}%
+\tika{padmavar.namukha.m\lem
+ \msNb\msCa\msKa\msL; padmavar.na.m mukha.m \edN\msW}
+
+ga.n.dau tu pi.takau raktau diipagandha.m na jighrati|| 6:21||%
+\tika{pi.takau\lem
+ \msNb\msL\msW; pi.thakau \msCa; pitakau \msKa; piitakau \edN}%
+\tika{diipagandha.m\lem
+ \msCa\msL\msW\edN; diipagandha \msNb\msKa}%
+ \tika{jighrati\lem
+ 	\msNb\msCa\msKa\msW\edN; jiivati \msL}
+\newverse
+sambhidya maaruto yasya marmasthaanaani bhetsyati|%
+\tika{sambhidya\lem
+ \msCa\msKa\msL\msW\edN; sabhidya \msNb}%
+ \tika{maaruto\lem
+ 	\msNb\msCa\msKa\msL\edN; maarutaa \msW}%
+\tika{marmasthaanaani\lem
+ \msNb\msCa\msKa\msL\msW; marmasthaanaacca \edN}%
+\tika{bhetsyati\lem
+ \msNb; bhetsyate \msCa\msLpc\msW; bhatsyati \msKa; 
+ bhadyatsyate \msLac; bhra"syate \edN}
+
+jyoti"scaiva na pa"syedyo dinameka.m sa jiivati|| 6:22||%
+\tika{pa"syedyo\lem
+	\msNb\msCa\msKa\msL\edN; pa"syeta \msW}
+\newverse
+naasikaakar.nadantaanaa.m cak.su.sii vaapi nirgate|%
+\tika{cak.su.sii\lem
+ \msCa\msKa\msL\msW\edN; cak.susii \msNb}%
+\tika{vaapi\lem
+\msNb\msCa\msKa\msL\edN; caapi \msW}%
+\tika{nirgate\lem
+ \msNb\msCa\msKa\msL\msW; nirgataa.h \edN}
+
+luptasa.mj~no bhavedyastu sadyo sadyo m.rtyu.m sa gacchati|| 6:23||%
+\tika{bhavedyastu\lem
+ \msNb\msCa\msKa; bhavedyasya \msL\msW; bhavedyaste \edN}%
+\tika{sadyo m.rtyu.m sa gacchati\lem
+\msCa\msKa\msL\msW; sadyo m.rtyuravaapnuyaat \msNb; sadyo m.rtyu sa gacchati \edN}
+\newverse
+adhyaatmika.m pravak.saami yadukta.m tattvadar"sibhi.h|%
+\tika{adhyaatmika.m\lem
+	\msNb\msCa\msKa\msL\edN; aadhyaatmika.m\msW}%
+\tika{pravak.saami\lem
+ \msNb\msL; pravak.syaami \msCa\msKa\edN}%
+ \tika{tattvadar"sibhi.h\lem
+ 	\msNb\msCa\msKa\msW\edN; tat \lk\lk\ lac\ \msL}
+
+yadyekasyaa.m su.sum.naayaa.m yadi maandya.m pravarttate|| 6:24||%
+\tika{yadyekasyaa.m\lem
+	\msNb\msCa\msKa\edN; \lac\ dyekasyaa.m \msL; yadyakasyaa.m \msW}%
+\tika{su.sum.naayaa.m\lem
+ \msL\msW\edN; "su.sumnaayaa.m \msCa\msKa; su"sumnaayaa.m \msNb}%
+ \tika{maandya.m\lem
+ \edN; maadya \msNb\msKa; maaghya \msCa; maaghai \msL; maaghe \msW} 
+\newverse
+dinaani ga.nayitvaa tu pa~ncadiktithivi.m"sati.h|%
+\tika{ga.nayitvaa tu\lem
+ \msCa\msL\msW\edN; ga.nayitvaa \msNb; ganayitvaa tu \msKa}%
+\tika{pa~nca dik\lem
+ \msCa\msKa\msW\edN; pa~nca di \msNb; pa~ncaa di \lk\ \msLpc; 
+ pa~ncaa di \msLac}%
+\tika{vi.m"sati.h\lem
+ \msCa; vi.m"sati \msNb\msKa\msW\msL\edN}
+
+tattvaanyekaadhika.m pa"scaaddivaantaani manii.si.naa|| 6:25||%
+\tika{tattvaanyekaadhika.m\lem
+ \msNb\msCa\msL\edN; tatvanyekadhika.m \msKa}%
+\tika{pa"scaaddivaantaani\lem
+	\conj; pa"scaaddevaantaani\lem
+ \msCa\msKa\msL\msW\edN; pa"scaadevantaani \msNb}%
+\tika{manii.si.naa\lem
+ \msCa\msKa\msL\edN; manii.sinaa \msNb; ma.nii.si.naa \msW}
+\newverse
+mamaayuriti vij~neyaa loke netrendava.h samaa.h|%
+\tika{vij~neyaa\lem
+\msNb\msCa\msKa\msW\msL; vij~neya.m \edN}%
+\tika{loke netrendava.h\lem
+ \msCa\msKa\msL; lokanetrendava.h \msNb\edN; lohanetrendava.h \msW}
+
+maasaa .rtu gu.na.m hyekaa paripaa.tyaa yathaakramam|| 6:26||%
+\tika{gu.na.m\lem
+ \msCa; gu.na \msNb\msKa\msL\msW\edN}%
+\tika{hyekaa\lem
+ \msCa; dvekaa \msNb\msL\msW; dvyekaa.h \msW?; tvekaa \msKa\edN}
+% NB: this verse is not much clear 
+\newverse
+tithyaa"saavaanalokaak.sibhuumayo divasaastathaa|%
+\tika{tithyaa"saavaanalokaak.sibhuumayo\lem
+ \msCa\msL; tithyaayaavaanalokaak.sibhuumayo \msNb;  
+ tithyaayaasaanalokaak.sibhuumayo \msKa; 
+ tithyaa"saarva.nalokaak.sibhuumayo \msW; 
+  tithyaayaa(kaa)saanalokaak.sibhuumayo \edN}%
+ \tika{divasaastathaa\lem
+ \msCa\msKa\msL\msW\edN; divasastathaa \msNb}
+
+i.daayaa.m "sraava.ne vaapi tathaiveti vinirdi"set|| 6:27||%
+\tika{"sraava.ne\lem
+\msNb\msWpc; "sraava.nai \msCa; "sraava.ne \msKa; 
+"sraava \lac\ \msL; "sraavakaa.ne \msWac; "srava.ne \edN}%
+\tika{vaapi\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ \msL}%
+\tika{vinirdi"set\lem
+ \msCa\msKa\msL\msW\edN; vinirdiget \msNb}
+\newverse
+vipariitasvabhaava~nca proktamadhyaatmika.m budhai.h|%
+\tika{vipariitasvabhaava~nca\lem
+ \msNb\msCa\msKa\msL; vipariitasvabhaava"sca \edN}%
+\tika{proktamadhyaatmika.m\lem
+	 \msKa\msL\msW\edN; proktamadhyaatmaka.m \msCa; proktamadhyaatmikaa \msNb}%
+\tika{budhai.h\lem
+	\msNb\msCa\msKa\msL\edN; budhai \msW} 
+
+d.r.s.tvaari.s.ta.m tadaa yogii pratiikaara.m samaarabhet|| 6:28||%
+\tika{pratiikaara.m\lem
+	 \msCa\msL\msW; pratikaara.m \msNb\msKa\edN}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m mahaasuuk.smaantaraayo naama .sa.s.tha.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+	\edN; dharmaputrikaayaa.m \msCa\msL\msW; 
+	dharmaputrikaayaa.m sa.mhitaayaa.m \msNb\msKa}%
+\tika{mahaasuuk.smaantaraayo\lem
+ \msCa\msL\msW; mahaasuuk.smaantaraaya.m \msNb; 
+ mahaasuuk.smaantaraayaa \msKa\edN}%
+ \tika{sa.s.tha.h pa.tala.h\lem
+ 	\msNb\msCa\msKa\edN; sa.s.tha.h \msL; sa.s.tho.adhyaaya.h \msW}
+
+
+
+\changechap
+\newverse
+pa~ncaite vaayavo dehe naanaamukhavini.hs.rtaa.h|%
+\tika{pa~ncaite\lem
+ \msCa\msKa\msL\msW\edN; pa~ncaitai \msNb}%
+\tika{naanaamukhavini.hs.rtaa.h\lem
+ \msCa\edN; naanaamukhavinis.rtaa \msNb; naamaamukhavini.hs.rtaa.h \msKa; 
+ naanaamukhavinis.rtaa.h \msW} 
+
+dhaara.naakramayogena kuryaaduurdhvamukhas.rtaan|| 7:1||%
+\tika{dhaara.naakramayogena\lem
+ \msCa\msKa\msL\msW\edN; dhaara.naakramayoge.na \msNb}%
+\tika{kuryaaduurdhvamukhas.rtaan\lem
+ \msCa\msL\edN; kuryaaduurdhvamukhasm.rtaa.h \msNb; 
+ kuryaadurdhvamukhasm.rtaa.m \msKa\msW}
+\newverse
+giri.m bhittvaa yathaa ka"scijjalamuurdhva.m pravarttate|%
+\tika{giri.m\lem
+ \msCa\msKa\msL\edN; sira.m \msNb}%
+ \tika{bhittvaa\lem
+ 	\msNb\msCa\msKa\msL\edN; bhitvaa \msW}%
+\tika{ka"scijjalamuurdhva.m\lem
+ \msNb\msKa; ka"scika"scijjalam \msCa; ka"scijjalamuu \lk\ \msL; 
+ ki~ncijjalamurddha.m \msWpc; ki~ncijkrajalamurddha.m \msWac; 
+ ki~ncijjalamuurdhva.m \edN}
+
+muurdhaana.m tu tathaa bhittvaa vaayuruurdhva.m pravarttate|| 7:2||%
+\tika{muurdhaana.m tu\lem
+ \msL\msW\edN; muurddhaanantu \msCa\msKa; muudhnaana.m tu \msNb}%
+ \tika{bhittvaa\lem
+ 	\msNb\msCa\msKa\msL\edN; bhitvaa \msW}%
+\tika{uurdhva.m\lem
+	 	\msNb\msCa\msKa; uu.mrdhva \msL; urdha \msW; urdhva.m \edN}
+\newverse
+eva.m pravartamaano.asau yogaabhyaasaanmahaanila.h|%
+\tika{pravartamaano.asau\lem
+ \msNb\msCa\msKa\msL; pravarttamaanaasau \msW; pravarttamaane.asau \edN}
+
+"sariira.m drumavatk.rtsnamaakampayati yogina.h|| 7:3||%
+\tika{k.rtsnamaa@\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; k.rtsna.maa@ \msLac}%
+\tika{aakampayati\lem
+	\msNb\msCa\msKa\msL\edN; aakapayati \msW}%
+\tika{yogina.h\lem
+ \msCa\msKa\msL\msW\edN; yoginya \msNb}
+\newverse
+kadaacitpradaheddehamu.s.no bhuutvaa pravartita.h|%
+\tika{@pradaheddehamu@\lem
+ \msCa\msKa\msL\msW; @pradahedehamu@ \msNb; @prahareddehamu@ \edN}%
+ \tika{u.s.no\lem
+ 	\msNb\msCa\msKa\msL\msW; uu.s.no \edN}%
+\tika{pravartita.h\lem
+ \msNb\msKa\msL\msW\edN; pravarttata.h \msCa}
+
+athavaa "siitalo bhuutvaa kadaacidubhayaatmaka.h|| 7:4||%
+\tika{"siitalo\lem
+\msKa\msL\msW\edN; siitalo \msNb\msCa}% 
+\tika{kadaacidubhayaatmaka.h\lem
+ \msCa\msKa\msL\msW\edN; kadaadidubhayaatmaka.h \msNb}
+\newverse
+ajita.m sthaanamaa"sritya pramaadaadyadi vartate|%
+\tika{pramaadaadyadi\lem
+ \msNb\msKa\msW\msLpc\edN; pramaadaadyati \msCa; prasaadaadyadi \msLac}
+
+tadaa rogaa.h prajaayante "sariire vighnakaarakaa.h|| 7:5||%
+\tika{prajaayante\lem
+	\msNb\msCa\msKa\msW\edN; \lk\\lk \lac\ \msL}%
+\tika{"sariire\lem
+	\msNb\msCa\msKa\msL\edN; "sarire \msW}
+\newverse
+vaato gulma udaavarta uurdhva"svaasastathaiva ca|%
+\tika{uurdhva"svaasa\lem
+ \msCa\msKa\msL\edN; uurdhvasvaasa \msNb; urdvasvaasa \msW}%
+\tika{tathaiva\lem
+ \msCa\msKa\msL\msW\edN; tathaiva \msNb}
+
+chardyatiisaaramohaa"sca klamo muurchaa bhramastathaa|| 7:6||
+\newverse
+"sira.h"suula~nca hallaaso hikkikaa j.rmbhikaastathaa|%
+\tika{@"suula~nca\lem
+ \msCa\msL\msW\edN; suula~nca \msNb\msKa}%
+ \tika{h.rllaaso\lem
+ 	 \msL\msW\edN; hallaaso \msNb\msCa\msKa\verify}%
+\tika{hikkikaa\lem
+ \msCa\msKa\msL\msW\edN; hikkaaka \msNb}
+\tika{j.rmbhikaastathaa\lem
+ \msNb\msCa\msL\edN; jha.mbhikaastathaa \msKa; jyambhikaastathaa \msW}
+
+h.rtpaar"svap.r.s.tha"suula~nca vaatarakta.m tathaiva ca|| 7:7||%
+\tika{h.rtpaar"svap.r.s.tha"suula~nca\lem
+ \msCa\msKa\msL\edN; h.rtpaar"sve p.r.s.thasuula~nca \msNb; 
+ h.rtpaar"sve p.r.s.tasuula~nca \msW}%
+\tika{vaatarakta.m tathaiva\lem
+ \msNb\msCa\msW\msLpc; vaataala(${\rm with correction mark}$)ktasthathaiva ca \msKa; 
+ vatarakta.m tathaiva \msLac; vaataraktastathaiva \edN}
+\newverse
+timira.h "svayathu.h ku.s.tha.m jvara"scaapi kadaacana|%
+\tika{"svayathu.h\lem
+	\msL; "svayathu.h \msNb\msCa?\verify; svayathu.h \msNb\msKa\edN; svayatha \msW}%
+\tika{ku.s.tha.m\lem
+ \msCa\msL\edN; ku.s.tha \msNb; ku.s.ta.m \msKa\msW}%
+\tika{jvara"scaapi\lem
+ \msNb\msCa\msL\msW\edN; jvala"scaapi \msKa}%
+\tika{kadaacana\lem
+ \msNbpc\msCa\msKa\msL\msW\edN; kadaacit \msNbac\verify}
+
+pramaadajaa bhavantyete vighnaruupaa.h sudaaru.naa.h|| 7:8||%
+\tika{bhavantyete\lem
+	\msNb\msCa\msKa\msL\edN; bhavantyate \msW}%
+\tika{vighnaruupaa.h\lem
+ \msNb\msW\edN; vighnaruupaa \msCa\msKa; \lac\ paa.h \msL}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m pramaadajaantaraayo naama saptama.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+ \edN; dharmaputrikaayaa.m \msCa\msL\msW; 
+ dharmaputrikaayaa.m sa.mhitaayaa.m \msNb\msKa}%
+\tika{pramaadajaantaraayo\lem
+	\msNb\msCa\msL\msW; pramaadajaantaraayaa.m \msKa; pramaadajaantaraayaa \edN}%
+\tika{saptama.h pa.tala.h\lem
+ \msNb\msCa\msL\edN; samaaptama.h pa.tala.h \msKa; 
+ saptamo.adhyaaya.h \msW; saptama pa.tala.h \edN}
+
+
+
+\changechap
+
+\newverse
+praatibha.h "sraava.naadar"saasvaadugandhaanuvedanaa.h|%
+\tika{"sraava.naadar"saa@\lem
+	\emend; "sraava.naadar"sa.h \msCa\msKa\msL\edN; "sraava.naadar"sa@ \msNb\msW}%
+\tika{svaadagandhaanuvedanaa.h\lem
+	 \msL; svaadugandhaanuvedanaa.h \msCa; 
+	 svaadagandhaanuvedanaa \msNb\msW; 
+	 caanugandhaanivedana.h \msKa\edN}%
+\quote{${\rm The followign extra line is mentioned in \edN after 8.1ab in the brackets:}$\\
+ praatibha"sraava.naadar"saspar"sagandharasaadanaa.h| ${\rm  .}$}
+
+praaptayogasya jaayante .sa.dete praatibhaadaya.h|| 8:1||%
+\tika{jaayante\lem
+ \msNb\msKa\msL\msW\edN; jaayate \msNb}% 
+ \tika{.sa.dete\lem
+ \msNb\msCa\msL\msW\edN; .sa.dede \msKa}%
+\tika{praatibhaadaya.h\lem
+ \msCa\msKa\msL\msW\edN; praatibhaadaya \msNb}
+\newverse
+vidyaa kaavya.m tathaa "silpa.m vedavaakyaanusaaritaa|
+
+vaagmitva~nca kavitva~nca praatibhasya hi lak.sa.nam|| 8:2||%
+\tika{hi\lem
+	\msNb\msCa\msKa\msW\edN; ca \msL}
+\newverse
+"sraava.na.h "s.r.nuyaacchabda.m yojanaanaa.m "sataadapi|%
+\tika{"sraava.na.h\lem
+ \msCa\msKa\msL\edN; "srava.na.m \msNb}%
+\tika{"s.r.nuyaacchabda.m\lem
+ \msNb\msCa\msL\msW\edN; "s.r.nuyaacchabda.h \msKa}%
+ \tika{yojanaanaa.m\lem
+ 	\msNb\msCa\msKa\msW\edN; yojanaana \lac\ \msL}%
+\tika{"sataadapi\lem
+ \msNb\msKa\edN; sataadapi \msCa; \lac\ pi \msL; "satadapi \msW}
+
+sarva"sabdavidhij~na"sca sarva"sabdaarthatattvavit|| 8:3||%
+\tika{sarva"sabda@\lem
+ \msCa\msKa\msL\msW\edN; sarvasabda@ \msNb}%
+\tika{sarva"sabdaarthatattvavit\lem
+ \msNb\msCa\msL\msW; sarvavaakyaarthatattvavit \msKa\edN} 
+\newverse
+devadaanavagandharvaan.r.sii.m"sca sapit.R.mstathaa|%
+\tika{devadaanavagandharvaan.r.sii.m"sca\lem
+ \msKa\msL\msW; devadaanavagandharvaan.r.sii"sca \msCa; 
+ devadaanavagandharvaan.r"sii.m"sca \msNb; 
+ devadaanavagandharvaan.r.sii~nca \msW; 
+ devadaana.mvagandharvaan.r.sii"sca \edN}%
+\tika{sapit.R.mstathaa\lem
+\msNb\msCa\msL\msW; sapit.rstathaa \msKa\edN} 
+
+yak.saa.m"scaapsarasa.h pa"syettadaadar"sasya lak.sa.nam|| 8:4||%
+\tika{yak.saa.m"scaapsarasa.h\lem
+ \msCa\msL\edN; yak.saa"scaapsarasa.h \msNb\msKa; yak.saa"scaapsarasa.h \msW}%
+\tika{pa"syet\lem
+	\msNb\msCa\msKa\msL\edN; pa"syat \msW}
+\newverse
+divyaa.m"sca paarthivaa.m"scaiva antariik.sagataa.mstathaa|%
+\tika{divyaa.m"sca\lem
+ \emend; divya~nca \msNb\msCa\msKa\msL\msW; divyaa"sca \edN}%
+\tika{paarthivaa.m"scaiva\lem
+ \edN; paarthiva~ncaiva \msNb\msCa\msL\msW; paathiva~ncaiva \msKa}%
+\tika{antariik.sa@\lem
+	\msNb\msCa\msKa\msL\msW; antarik.sa@ \edN}
+
+spar"sagandharaasaanvetti tatte.saamupalak.sa.nam|| 8:5||%
+\tika{spar"sagandharaasaan\lem
+ \msNb\msCa\msW\edN; spar"sagandharaasaa \msKa; 
+ spa"sagandharaasaan \msLpc; 
+ spalagandharaasaan \msLac}
+\newverse
+te.su yaa "saktirutpannaa taa.m hi buddhyaa parityajet|%
+\tika{yaa\lem
+ \msNb\msCa\msKapc\msL\edN; jaa \msKaac}%
+\tika{taa.m\lem
+ \msCa\msKa\edN; saa \msNb\msL\msW}%
+ \tika{buddhyaa\lem
+ 	\msNb\msCa\msKa\msL\edN; budryaa \msW}
+
+nitya.m brahmaparo yukta.h so.antaraayairvimucyate|| 8:6||%
+\tika{yukta.h\lem
+	\msNb\msCa\msKa\msL\edN; rukta.h \msW}%
+\tika{so.antaraayairvimucyate\lem
+\edN; so.antaraayevimucyate \msCa; sontaraayaivimucyate \msNb\msKa; 
+so \lk\ \lac\ mucyate \msL; "sontaraayaadvimucyate \msW}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m pratibhaadyantaraayo naamaa.s.tama.h pa.tala.h| | \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+ \msKa\edN; dharmaputrikaayaa.m \msCa\msL\msW; 
+ dharmaputrikaayaa.m sahitaayaa.m \msNb}%
+\tika{pratibhaadyantaraayo\lem
+ msCa; pratibhaadyantaraaya \msNb; 
+ pratibhaadyantaraayaa \msKa\edN; 
+ praatibhaadyantaraayo \msL; bhadyantaraayo \msW}%
+\tika{naamaa.s.tama.h pa.tala.h\lem
+ \msCa\msKa\msL; naama.s.tama.h pa.tala.h \msNb; naamaa.s.tamo.adhyaaya.h \msW; 
+ naama a.s.tama.h pa.tala.h \edN}
+ 
+ 
+\changechap
+
+\newverse
+ete do.saa.h pravartante aj~naanii yastu yu~njate|%
+\tika{pravarttante\lem
+ \msNb\msCa\msL\msW\edN; pravattante \msKa}%
+ \tika{yastu\lem
+ \msNb\msCa\msKa\msL\edN; yustu \msW}
+
+tasmaajj~naanaparo bhuutvaa yoga.m yu~njiita yatnata.h|| 9:1||%
+\tika{j~naanaparo\lem
+	\msNb\msCa\msKa\msL\edN; j~naanaaparo \msW}
+\newverse
+suuk.smaantaraaye sa~njaate tatraasakti.m tyajedbudha.h|%
+\tika{suuk.smaantaraaye\lem
+ \msCa\msKa\msLac\edN; "suuk.smaantaraaye \msNb; suuk.smaantaraayai \msLpc}%
+\tika{tatraasakti.m\lem
+ \msL\msW\edN; tatraa"sakti.m \msNb\msCa\msKa}%
+\tika{budha.h\lem
+  \msNb\msCa\msKa\msL\msW; vudha.h \edN}
+
+kuta.h "sariiramutpanna.m kiid.rgvaapi niruupayet|| 9:2||%
+\tika{kuta.h\lem
+ \msNb\msCa\msL\msW\edN; ku.taac/kutapc \msKa}
+\newverse
+puurvakarmavipaakena pi.n.da.h sa.mkalpasambhava.h|%
+\tika{sa.mkalpasambhava.h\lem
+ \msCa\msKa\msL\msW\edN; sa.mkalpasambhavam \msNb}
+
+majjaasthisnaayumaa.msaas.rksa.mghaata.m carma.naav.rtam|| 9:3||%
+\tika{majjaasthisnaayumaa.msaas.rksa.mghaata.m\lem
+ \msKa\edN; majjaasthisnaayumaa.msaas.rksa"nghaata \msCa; 
+ majjaasthisnaayusasaa"s.rksa"nghaata \msNb; 
+ ma \lac\ sthisnaayumaa.msaas.rksa.mghaate \msL; 
+ majjaasthisnaayumaa.msaas.rksa.mghaata"s \msW}%
+ \tika{carma.naav.rtam\lem
+ \msNb\msCa\edN; carma.naavdata.m \msKa; carma.naav.rta.h \msL\msW}
+\newverse
+laalaasi.mghaa.namasti.skaguuthamuutrasamaakulam|%
+\tika{laalaasi"nghaa.namasti.ska@\lem
+ \msCa\msKa\msL\edN; ${\rm not readable}$\msNb; 
+ laalaasi.mhaanamasti.ska@ \msW}%
+\tika{@muutra@\lem
+ \msNb\msCa\msKa\msL\msW; @mutra@ \edN}
+
+durgandhi k.rmibhi.h puur.na.m "sma"saanaavaskarai.h samam|| 9:4||%
+\tika{durgandhi\lem
+	 \msCa\msKa\msL\msW\edN; durgandhi.h \msNb}%
+\tika{k.rmibhi.h\lem
+ \msCa\edN; krimibhi.h \msNb\msW\msL; kimibhi.h \msKa}%
+\tika{"sma"saanaavaskarai.h\lem
+ \msNb\msCa\msL\edN; "sya"saanaavaskarai.h \msKa; "sma"saanaavaskare.h \msW}
+\newverse
+a"suci k.sa.nika.m tuccha.m nissaara.m nindita.m budhai.h|%
+\tika{k.sa.nika.m\lem
+	\msNb\msCa\msKa\msL\edN; k.sa.nika.mn \msW}%
+\tika{nindita.m\lem
+ \msCa\msKa\msL\msW\edN; nindita \msNb}%
+ \tika{budhai.h\lem
+ 	\msNb\msCa\msKa\msL\msWpc\edN; budhai \msWac}
+
+janmam.rtyujaraagrasta.m naanaarogasamanvitam|| 9:5||%
+\tika{@grasta.m\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; @\lk\ grasta.m \msL\hypermetrical}%
+\tika{@roga@\lem
+	\msNb\msCa\msKa\msL\edN; @bhoga@ \msW}
+\newverse
+"siito.s.nak.sutpipaasaarta.m du.spuura.m du.hkhada.m gh.r.nam|%
+\tika{"siito.s.nak.sutpipaasaarta.m\lem
+ \msCa\msKa\msL\msW\edN; "siito.s.nak.sutpipaasaartta \msNb}%
+ \tika{du.h.spuura.m\lem
+ \msCa\msKa\msL\msW\edN; du.hspuura.m \msNb}
+
+mamedamiid.r"sa.m ruupa.m kaantaadiinaa~nca taad.r"sam|| 9:6||%
+\tika{mamedamiid.r"sa.m\lem
+ \msCa\msKa\msW\edN; mamedamiiruu"sa \msNb; mamedamii \lk\ \lac\ \msL}%
+\tika{ruupa.m kaantaadiinaa~nca taad.r"sam\lem
+   \msCa\msL\edN; ${\rm not readable}$\msNb; 
+   ruupa.m karttaadiinaa~nca \msKa; \lac\ ntaadiinaa~nca taad.r"sam \msL} 
+\newverse
+"sriyo vitta~nca du.hsaadhyamasthira.m k.sayadharmi ca|%
+\tika{"sriyo\lem
+ \msNb\msCa\msL\msW\edN; "sriya.m \msKa}%
+\tika{du.hsaadhyamasthira.m\lem
+ \msCa\msNb\msKa\msL\msW; dussaadhyamaasthira.m \edN}
+
+tatra ko rajyate praaj~no yogaabhyaasii "srutaanvita.h|| 9:7||%
+\tika{rajyate\lem
+ \msCa\msKa\msL\msW\edN; raajyato \msNb}%
+\tika{yogaabhyaasii\lem
+ \msCa\msKa\msL\msW\edN; yogaabhyaa"sii \msNb}%
+\tika{"srutaanvita.h\lem
+ \msNb\msCa\msKa\msL\msW; gu.naanvita.h \edN}
+\newverse
+muu.dho vaapi rati.m kuryaaddagdho vaa raagavahninaa|%
+\tika{rati.m kuryaad\lem
+ \msKa\msL\msW\edN; rati kuryaa \msCa; \lac\ d (${\rm rest is missing}$)\msNb}%
+\tika{dagdho\lem
+ \msNb\msCa\msL\msW\edN; dugdho \msKa}
+
+yattu baalyandhana.m lak.smiiriid.r"sa.m vaa kalevaram|| 9:8||%
+\tika{yattu\lem
+ \msCa\msKa\msL\edN; ye tu \msNb}%
+\tika{baalyandhana.m\lem
+ \msCa\msKa\msL; baalaantana.m \msNb; baalya(hya)ndhana.m \edN}%
+\tika{lak.smiiriid.r"sa.m\lem
+ \edN; lak.smii iid.r"sa.m \msCa; lak.smii iid.r"sii \msNb\msW; 
+ lak.smii id.r"sa.m \msKa\msL}%
+\tika{kalevaram\lem
+ \msCa\edN\msKa; ka.devara.m \msNb\msW}
+\newverse
+ida.m .sa.tkau"sika.m pi.n.da.m bahiraatmeti bha.nyate|%
+\tika{.sa.tkau"sika.m\lem
+ \msCa\msKa\msL\msW\edN; .sa.tkau.sika.m \msNb}%
+\tika{bahiraatmeti\lem
+ \msNb\msCa\msL\msW\edN; bahiraateti \msKa}%
+\tika{bha.nyate\lem
+ \msNb\msKa\msL\msW\edN; bhara.nyate \msCa}
+
+etadvikalpayedyastu so.antaraayaanvije.syati|| 9:9||%
+\tika{etad\lem
+ \msCa\msKa\msL\edN; ete \msNb}%
+\tika{so.antaraayaan\lem
+ \msCa\msLpc; sontaraayaa \lk\ \msNb; so.antaraatmaa \edN\msKa; 
+ so.antaraan \msLac\hypometrical}%
+\tika{vije.syati\lem
+	\emend; vijayati \msCa\unmetrical; ${\rm not readable}$\msNb; 
+	vidhiiyate \msKa\edN; vije.s \lac\ \msL; vija"syate \msW}
+\newverse
+sa eva yogaanni.hsa"nga.h sarvado.sairvivarjita.h|%
+\tika{sa eva yogaan\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ \msL}%
+\tika{@do.sairvi@\lem
+\msNb\msCa\msKa\msL\edN; @do.saivi@ \msW}	
+
+vikalparahita.h "suddha.h paramaatmaa prakiirtita.h|| 9:10||%
+\tika{"suddha.h\lem
+ \msCa\msKa\msLpc\msW\edN; "suddha.m \msNb; "suddha \msLac}%
+\tika{@kiirtita.h\lem
+	  \msNb\msCa\msKa\msL\edN; @kiirttitaa.h \msW}
+\newverse
+ya eva.m bhaavayennitya.m so.antaraayaan vije.syati|%
+\tika{ya eva.m\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; eva.m \msLac}%
+\tika{so.antaraayaan\lem
+ \msCa\msL\edN; so.antaraaya.m \msNb; sontaraayaa \msKa; sontaraayaa.m \msW}%
+\tika{vije.syati\lem
+ \msNb\msKa\edN; vije.syate \msCa\msL\msW}
+
+tasmaadvivarjayetsa.mga.m j~naanameka.m samaa"srayet|| 9:11||%
+\tika{sa.mga.m\lem
+	\msNb\msCa\msKa\msLpc\msW\edN;  \lk\ ga.m \msLac}%
+\tika{j~naanameka.m\lem
+ \msCa\msKa\msL\msW\edN; j~naanameka \msNb}
+\newverse
+mahaasuuk.smaantaraaye hi samutpanne mahaabhaye|%
+\tika{mahaasuuk.smaantaraaye\lem
+ \msNb\msCa\edN; mahaasuuk.smaantaraayo \msKa; 
+ mahaasuuk.smaantaye \msL\hypometrical}%
+\tika{mahaabhaye\lem
+ \msCa\msNb\msKa\msL\msW; mahaabhaya.m \edN}
+
+pratiikaara.m pravak.syaami yathaa "sreyaa.msyavaapnuyaat|| 9:12||%
+\tika{pratiikaara.m\lem
+	\msNb\msCa\msKa\msW\edN; pratiikaa \lk\ \msL}%
+\tika{pravak.syaami yathaa\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ \msL}%	
+\tika{"sreyaa.msyavaapnuyaat\lem
+ \msW\msL\edN; "sreyaasyavaapnuyaat \msCa\msKa; "sreyavaamavaapnuyaat \msNb}
+\newverse
+dhyaatvaa h.rtpadmamadhyastha.m bindudeva.m svajiivitam|%
+\tika{madhyastha.m\lem
+ \msCa\msKa\msL\msW\edN; madhyestha.m \msNb}%
+\tika{bindudeva.m\lem
+ \msCa\msKa\msL\edN; bindu.m deva.m \msNb; bindudeva \msW}
+
+tasyopari sudhaadhaaraamavyavacchinnasantatim|| 9:13||%
+\tika{sudhaadhaaraamavyavacchinnasantatim\lem
+ \edN; sudhaadhaaraamavyavacchinnasantitam \msCa; 
+ sudhaadhaaraamadhyavyavacchinnasantiti.m \msNbpc\verify; 
+ sudhaadhaaraamavyavacchinnasantati \msKa; 
+ sudhaadhaaraamavyavacchinnasannibha.h \msLpc; 
+ sudhaadhaaraamavyavacchinnasannibha \msLac; 
+ sudhaadhaaraamadhyavachinnasantatim \msW}
+\newverse
+patantii gha.n.tikaade"se sravamaanaa.m vicintayet|%
+\tika{patantii.m\lem
+	\msKa\msL\msW; patantii \msNb\msCa\edN}%
+\tika{sravamaanaa.m\lem
+ \msL\msW\edN; "sravamaanaa.m \msCa\msNb\msKa}%
+\tika{vicintayet\lem
+ \msCa\msKa\msL\msW\edN; vicintaye \msNb}
+
+tenaam.rtarasenaatmat.rptimutpaadayedbudha.h|| 9:14||%
+\tika{@rasenaatmat.rpti@\lem
+ \msCa\edN; @rasenaatmaat.rpti@ \msNb\msL; @rasenotmaa t.rpti@ \msKa}%
+ \tika{utpaadayed\lem
+ 	\msNb\msCa\msKa\msL\edN; utpaadyayad \msW}
+\newverse
+japenm.rtyu~njaya.m mantra.m da"salak.sa.m da"saak.saram|%
+\tika{mantra.m\lem
+	\msNb\msCa\msKa\msL\edN; matra.m \msW}%
+\tika{da"salak.sa.m\lem
+ \msCa\msKa\msL\msW\edN; da"salak.sa \msNb}%
+\tika{da"saak.saram\lem
+ \msCa\msL\msW; da"saa \lk\lk\ \msNb; da"saak.sara.m \msKa\edN}
+
+netrabiijena mantre.na tryak.sare.na samanvitam|| 9:15||%
+\tika{netrabiijena\lem
+ \msCa\msKa\msL\edN; netrii biijena \msNb; netrye biijena \msW}%
+\tika{tryak.sare.na\lem
+	\msNb\msCa\msKa\msL\edN; tryek.sare.na \msW}
+\newverse
+athavaa sampu.ta.m k.rtvaa navatattve.su yogavit|%
+\tika{athavaa\lem
+	\msNb\msCa\msKa\msW\edN; a \lac\ \msL}%
+\tika{sampu.ta.m\lem
+ \msNb\msCa\msL\msW\edN; sa.mputa.m (${\rm with correction mark}$)\msKa}%
+\tika{navatattve.su\lem
+ \msCa\msKa\msL\msW\edN; na ca tatte.su \msNb}
+
+ekaa"siitipada.m yoga.m kuryaadekaagrabuddhinaa|| 9:16||%
+\tika{@pada.m\lem
+ \msNb\msKa\msL\edN; @pada \msCa}%
+ \tika{yoga.m\lem
+ 	\msNb\msCa\msKa\msL\edN; yaaga.m \msW}%
+\tika{kuryaadekaagrabuddhinaa\lem
+ \msNb\msKa\edN; kuryamekaagrabuddhibhi.h \msCa\msL\msW}
+\newverse
+rasaayanopayoga~nca daana.m sarvasvameva ca|%
+\tika{rasaayanopayoga~nca\lem
+ \msNb\msCa\msW\edN; rasaayanopasoga~nca \msKa; rasaayanopabhoga~nca \msL}%
+\tika{daana.m\lem
+ \msCa\msNb\msKa\msL\msW; yuune \edN}
+
+aamrapallavaduurvaadyairlak.sahoma~nca kaarayet|| 9:17||%
+\tika{@duurvaadyairla@\lem
+	\msNb\msCa\msKa\msL\edN; @durvaadyaila@ \msW}%
+\tika{@homa~nca\lem
+ \msCa\msKa\msL\edN; \lk\ ma~nca \msNb\verify; @homa.m tu \msW}
+\newverse
+bhaya.m tatra na g.rh.niiyaatpriiti.m caiva tathaiva ca|%
+\tika{g.rh.niiyaat\lem
+	\msNb\msCa\msKa\msL\edN; g.rnhiiyaat \msW}%
+\tika{priiti.m caiva\lem
+ \msCa\msL; priiti caapi \msNb; priitisvaapi \msKa; priiti caiva \msW; priiti.m vaapi \edN}
+
+yogaabhyaasa.m tadaa yogii yathaa"saktyaa vivardhayet|| 9:18||%
+\tika{tadaa\lem
+ \msCa\msKa\msL\msW\edN; sadaa \msNb}%
+\tika{yathaa"saktyaa\lem
+ \msCa\msNb\msKa\msL\msW; yathaa "sakti \edN}
+\newverse
+antaraaye.su jaate.su nityaabhyaaso jaya.h sm.rta.h|%
+\tika{jaya.h\lem
+	\msNb\msCa\msKa\msW\edN; \lac\ ya.h \msL}
+
+apramaadii sadaa yogii na do.sa.m praapnuyaatkvacit|| 9:19||%
+\tika{do.sa.m\lem
+	\msNb\msCa\msKa\msL\edN; do.sa \msW}%
+\tika{praapnuyaat\lem
+ \msNb\msCa\msL\msW\edN; praapnuyaata \msKa}
+\tika{kvacit\lem
+ \msCa\msKa\msL\msW\edN; kvi(${\rm post correction}$ kva)ti; 
+ (${\rm not much clear}$) \msNb}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m jayo naama navama.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+ \edN; dharmaputrikaayaa.m \msCa\msL; 
+ dharmaputrikaayaa.m sa.mhitaayaa.m \msNb\msKa; dharmaputrikaayaa \msW}%
+\tika{jayo naama\lem
+ \msNb\msKa\msL\edN; "sama? \msCa; jaya naama \msW}%
+\tika{navama.h pa.tala.h\lem
+ \msNb\msCa\edN; pa.tala.h ||9|| \msKa; navama.h \msL; navamo.adhyaaya.h \msW}
+ 
+ 
+ \changechap
+
+\newverse
+pramaadii yu~njate yas tu vaataadis tasya jaayate|%
+\tika{pramaadii yu~njate\lem
+	 \msNb\msCa\msKa\edN\msHa\msL; pramaadi yu~njate \msHbc;
+	  pramaadii.m yujate \msW}%
+\quote{${\rm At the beginning of this chapter, \edN adds:}$ o.m nama.h "sivaaya ${\rm .}$}
+
+taddo.sasya cikitsaartha.m gati.m vaayorniruupayet|| 10:1||%
+\tika{cikitsaartha.m\lem
+ \msNb\msCa\msKa\msHabc\edN\msL; cikitsaartha \msW}%
+ \tika{gati.m vaayorniruupayet\lem
+  \msL\edN; gati.m vaayo niruupayet \msNb\msCa\msKa\msW; 
+  gatirvaayorniruupyate \msHa; gati.m vaayo niruupaman \msHb; 
+  gatirvaayur niruupyate \msHc}
+\newverse
+vaayoruurdhva.m prav.rttasya gati.m j~naatvaa prayatnata.h|%
+\tika{vaayoruurdhva.m prav.rttasya\lem
+ \msNb\msCa\msKa\msHac; vaayorurdhvaprav.rttasya \edN; \lac\ \msHb; 
+ vaayoruurdva prav.rttasya \msL; vaayorurdhvaprav.rttasya \msW}
+
+kuryaaccikitsaa.m do.sasya druta.m yogii vicak.sa.na.h|| 10:2||%
+\tika{kuryaaccikitsaa.m do.sasya druta.m yogii vi@\lem
+ 	\msNb\msCa\msHa; kuryaaccikitsaa do.sasya druta.m yogii vi@\ \msKa\edN;
+ 	 kuryaacci \lk\lk\lk\lk\ syadukta.m yogii vi@\ \msHb;
+ 	  kuryaaccikitsaa do.sasya d.rta.m yogii vi@\ \msHc;
+ 	   kuryaaccikitsaa.m do.sasya druta.m \lac\ \msL;
+ 	    kuryaaccikitsaa do.sasya druta.m yaagii vi@\ \msW}
+ \newverse
+talapaadanaabhide"sa.m vaatasthaanamudiiritam|%
+\tika{talapaadanaabhide"sa.m\lem
+ \msNb\msCa\msW; talapaadaadaabhide"sa.m \msKa;
+  talapaadaannaabhide"sa.m \msL; 
+  talapaadaanaabhide"sa.m \edN; talapaadanaabhide"se \msHab; 
+  talaadi naabhide"se vaa \msHc}%
+ \tika{vaatasthaanamudiiritam \lem
+ \msNb\msCa\msKa\edN\msHabc; vaa sthaanamudiiritam \msW\hypometrical} 
+
+aanaabherh.rdaya.m yaavatpittako.s.tha.m prakiirtitam|| 10:3||%
+\tika{aanaabherh.rdaya.m \lem
+ \msL\edN\msHa; aanaabhe h.rdaya.m \msNb\msCa\msW; aanaabher h.rdayaa \msKa; [?]
+ hadaya.m \msHb; [?]daye \msHc}%
+ \tika{yaavat\lem
+ \msNb\msCa\msKa\msHac\msW; hyaavat \edN; jaat \msHb}%
+ \tika{pittako.s.tha.m prakiirtitam\lem
+ \msNb\msCa\msKa\msLpc\edN\msHa; pitrakii.s.ta.m prakiirtita.m \msHb; 
+ pitrako.s.ta.m prako.s.ta prakii \msHc; 
+ pitta.m prakiirtitam \msLac\unmetrical; 
+ pittako.s.tha.m prakiirtita.h \msWpc; 
+ pittuko.s.tha.m prakiirtita.h \msWac}
+\newverse
+h.rdde"saaduurdhvakaayastu "sle.smaalayamathocyate|%
+\tika{h.rdde"saaduurdhvakaayastu\lem
+ \msNb\msCa\msL\msW\msHac; h.rdde"saaduurdhvako.s.thastu \msKa; 
+ h.rdde"saad uurdhvako.s.thantu \edN; h.rde.na udha.m kaayastu \msHb}%
+ \tika{"sle.smaalayam athocyate\lem
+\msKa\msL\edN; "sle.smaalaya tathocyate \msNb; "sle.smaalayam athaicyate \msCa;
+ "sle.smadhaatur ihocyate \msHa; "sle.smaadhaatur ihocyate \msHbc; 
+ "sle.smaa.nayam athocyate \msW}
+% NB: we have not made difference between ddhva and dha  
+
+iti trayaa.naa.m dhaatuunaa.m sva.m sva.m sthaanamudiiritam|| 10:4||%
+\tika{trayaa.naa.m\lem
+ \msCa\msKa\msHabc\edN\msL\msW; trayaanaa.m \msNb}%
+ \tika{dhaatuunaa.m sva.m sva.m\lem
+ \msCa\msKa\msL\msW\msHac\edN; 
+ dhaatuunaa.m sva.m sva \msNb\verify; dhaatuunaa.m sva sva \msHb}%
+\tika{sthaanamudiiritam\lem
+ \msCa\msW\msHab; sthaanamudaah.rta \msNb; 
+ sthaanamudaah.rta.m \msKa\edN; sthaanamudaah.rtam \msL; 
+ schaanamudiiri \msHc\hypometrical}
+\newverse
+pramaadaadyogino vaayurunmaarge.na pravartita.h||%
+\tika{yogino vaayur\lem
+ \msHa; yoginaa.m vaayu@ \msNb; 
+ yoginaa vaayu@ \msCa\msKa\edN\msL; yogino vaayuu@ \msHb;
+  yogiino vaayu@ \msW}%
+\tika{pravartita.h\lem
+ \msNb\msCa\msKa\msL\msW\edN\msHac; prakiirtita.h \msHb}  
+ 
+yadaa maargamanaasaadya granthirbhuutvaavati.s.thate|| 10:5||%
+\tika{yadaa\lem
+ \msKa\msL\msW\edN; tadaa \msHabc; yathaa \msNb\msCa}%
+ \tika{granthirbhuutvaavati.s.thate\lem
+ \msCa\edN; granthibhuuvati.s.thate \msKa\unmetrical;
+  granthiibhuutvaavati.s.thate \msHa; granthi bhitvaavati.s.thate \msHb; 
+  granthi bhuuyaavati.s.thate \msHc; gran.thibhuutvaavati.s.thate \msNb\msW;
+   granthibhuuto.avati.s.thate \msL}
+\newverse
+tadaa naanaavidhaa rogaa jaayante vighnakaarakaa.h|%
+\tika{tadaa naanaavidhaa rogaa jaayante\lem
+ \msNb\msCa\msW\edN\msHac; tadaa naanaavidhaa rogaa jayante \msKa; 
+ tadaa naanaavidho rogaa jaayate \msHb; \lk\ \lac\ naavidhaa rogaa jaayante \msL} 
+
+te.saa.m cikitsaa.m vak.syaami yadukta.m tattvadar"sibhi.h|| 10:6||%
+\tika{yad ukta.m tattvadar"sibhi.h\lem
+ \msCa\msKa\msL\msW\edN; yad ukta tattvadar"sibhi.h \msNb; 
+ yathoktaa.m tantravedibhi.h \msHa;
+  yad ukta.m tatra vedibhi.h \msHbc}
+\newverse
+unmaargaprasthito vaayu.h pittako.s.the yadaa sthita.h|%
+\tika{unmaargaprasthito vaayu.h pittako.s.the\lem
+ \msNb\msCa\msL\msW; 
+ unmaarga.m prasthito vaayu.h pittako.s.the \msKa\edN\msHa;
+  unmaargaprasthito vaayupittako.s.ta \msHb; 
+  unmaargaprasthito vaayu.h cittako.s.the \msHc}%
+ \tika{sthita.h\lem
+ \msNbac\msCa\msKa\msL\edN\msHabc; ??? \msW; sthitaa.h \msNbpc}  
+
+h.rcchuula.m paar"sva"sula.m vaa p.r.s.tha"suula.m ca jaayate|| 10:7||%
+\tika{h.rcchuula.m paar"sva"sula.m\lem
+ \msNb\msCa\msKa\msW\edN\msHa; 
+ h.rt"suula.m paar"sva"sula.m \msHbc; h.rcchuula.m paarsva"sula.m \msL}% 
+\tika{jaayate\lem
+ \msNb\msCa\edN\msHa\msL\msW; yaayate \msKa; \lac\ ire \msHbc}
+\newverse
+tailaabhya"nga.m tadaa pathya.m snaana.m co.s.nena vaari.naa|%
+\tika{tailaabhya"nga.m\lem
+ \msKa\msHabc\msL\msW\edN; telaabhya"nga \msNb; telaabhya"nga.m \msCa}%
+\tika{co.s.nena vaari.naa\lem
+ \msNb\msCa\msL\edN; co.s.nena vaarinaa \msKa; 
+ co.nne.na vaari.naa \msW; co.s.ne.na vaari.naa\msHac; 
+ ce"snita vaari.naa \msHb}
+
+sagh.rta.m paayasa.m bhuktvaa jiir.naante yogamaarabhet|| 10:8||%
+\tika{paayasa.m\lem
+ \msNb\msKa\msHabc\msL\msW\edN; paaya"sa.m \msCa}%
+\tika{jii.r.naante yogam aarabhet\lem
+ \msNb\msCa\msL\msW; jii.r.naante yogam aala(${\rm with quotation mark}$)bhet \msKa;
+  jiirnaayur yogam aarabhet \edN; 
+  jiir.ne.anne yogam aarabhet \msHac; jiir.ne yogam abhyaset \msHb\unmetrical}
+\newverse
+yasminyasminsamudde"se rujaa baadhaa pravartate|%
+ \tika{yasmin yasmin samudde"se\lem
+ \msCa\msL\edN; yasmi.m yasmi.m samude"sye \msNb; 
+ yasmin yasmin samudye"sa \msKa; yasmin yasmi samudde"se \msL; 
+  yasmin yasmi samudde"se \msW; 
+ yasmin yasmin yadaa de"se \msHac; \lac\ \msHb}%
+\tika{rujaa baadhaa pravartate\lem
+	\msWpc\edN; rujaa baadha.h pravartate.h \msNb; 
+rujaa baadha.h pravartate \msCa\msL; 
+rujaa baadha pravartate \msKa; \lac\ \msWac; 
+rujaa baadhaa prajaayate \msHabc}%
+%\quote{${\rm From}$ rujaa baadhaa ${\rm in 10.9b}$ ${\rm to}$ tasmin de"se ${\rm in 10.9c is missing in\msW.}$}
+ 
+tasminde"se sthita.m vaayu.m manasaa paricintayet|| 10:9||%
+\tika{tasmin de"se sthita.m vaayu.m\lem
+ \msKa\msWpc\msHa\edN; tasmin dehe sthita.m vaayu.m \msNb\msCa\msL;
+ sthita.m vaayu.m \msWac; \lac\ \msHb; tasmin dehe schito vaayu \msHc}
+\newverse
+ekacittena ta.m dhyaatvaa puurayetpuurake.na tu|%
+\tika{ta.m dhyaatvaa\lem
+ \msKa\msL\msW\edN; taddhyaatvaa \msNb\msCa\msHabc}%
+\tika{puurayet puurake.na tu\lem
+ \msCa\msW\msHac\edN; puurayetpuurakena tu \msNb\msKa\msL; 
+ puurayotpuurake.na ca \msHb}
+
+ni.h"se.sa.m recaka.m kuryaadyathaa"saktyaa prayatnata.h|| 10:10||%
+\tika{ni.h"se.sa.m\lem
+ \msCa\msKa\msL\msW\msHb; ni.h"se.sa@ \msNb\msHac; ni"s"se.sa.m \edN}%
+\tika{yathaa"saktyaa\lem
+ \msKa\msL\msW\msHac; yathaa"sakyaa \msNb\msCa; yathaa"sakti \edN; 
+ yaathaa"saktyaa \msHb}
+\newverse
+bahudhaa recaka.m k.rtvaa puurayitvaa puna.h puna.h|
+
+kar.sayetpraaksthita.m vaayu.m kalkatoyamivaambunaa|| 10:11||%
+\tika{praaksthita.m vaayu.m\lem
+ \msNb\msCa\msL\msW\msHa; prosthita.m vaayu.m \msKa; 
+ protthita.m vaayu.m \edN;
+  \lac\ \msHb; praakschita.m vaayu@ \msHc}% 
+\tika{kalkatoyamivaambunaa\lem
+ \msL; kar.natoyavivaambunaa \msNb; 
+ kar.natoyam ivaambunaa \msCa\msKa\edN\msHabc; 
+ kar.ne toyam ivaambunaa \msW}
+\newverse
+sapraa.na.m snigdhamaahaara.m tadaa bhu~njiita yogavit|%
+\tika{sapraa.na.m snigdham aahaara.m\lem
+ \msCa\msKa\edN\msL; praaya.h snigdham aahaara.m ca \msHa; \lac\ \msHb; 
+ praa.nasnigdhamahaara.m sa \msHc; sapraa.na snigdham aahaara.m \msNb\msW}% 
+\tika{tadaa bhu~njiita\lem
+ \msCa\msL\msW\edN; tadaa bhujiita \msNb; 
+ tadaa bhuu~njiita \msKa; iha bhu~njiita \msHabc}%
+ \tika{yogavit\lem
+ 	\msNb\msCa\msKa\msW\msHabc\edN; yogavi \lac\ \msL}
+
+eva.m "suulaadayo rogaa.h "saamyante vaatapittajaa.h|| 10:12||%
+\tika{eva.m\lem
+		\msNb\msCa\msKa\msW\msHabc\edN; va.m \lac\ \msL}%
+\tika{rogaa.h\lem
+ \msCa\msKa\msL\msW\edN\msHabc; rogaa \msNb}%  
+\tika{"saamyante\lem
+ \msNb\msCa\msKa\edN\msL\msW; "saamyanti \msHac; saamyanti \msHb}
+\newverse
+kaphako.s.the yadaa vaayur granthirbhuutvaavati.s.thate|%
+\tika{kaphako.s.the yadaa vaayur\lem
+ \msCa\msKa\edN\msHa\msL; kaphako.s.the yadaa vaayu@ \msNb\msW\msHb; 
+ kaphako.s.the yadaa vaayuu@ \msHc}% 
+\tika{granthirbhuutvaavati.s.thate\lem
+\msLpc\edN; granthiibhuutvaavati.s.thate \msHa; 
+granthi bhuutvaavati.s.thate \msNb\msCa\msKa\msHbc\msLac; 
+@gran.thi bhuutvaavati.s.thate \msW}
+ 
+h.rllaasahikkikaa"svaasa"sira.h"suulaadayo rujaa.h|| 10:13||%
+ \tika{h.rllaasahikkikaa"svaasa"sira.h"suulaadayo\lem
+ \msL; hvallaasahikkikaasvaasa"sira.h"suulaadayo \msNb; 
+ hvallaasahikkikaa"svaasa"sira.h"suulaadayo \msCa; 
+ h.rllaasahikkikaasvaasa"sira.h"suulaadayo \msKa; 
+ h.rntaasahitkikaasvaasa"sira.h"suulaadayo \msW; 
+ hallaasahikkikaa"svaasa"sira.h"suulaadayo \edN; 
+ h.rtkaasahikkaa"svaasa"sira.h"suulaadayo \msHa; 
+ hallasahikkaa"svaasa"sira.h"suulaadayo \msHb; 
+ h.rtkaasaahikkaasaa"s ca \lac\ "suulaa \msHc}
+\newverse
+jaayante dhaatuvai.samyaattadaa kuryaatpratikriyaam|%
+\tika{jaayante dhaatuvai.samyaat\lem
+ \edN\msHac\msL\msW; 
+ jaayante dhaatuvai"samyaat \msNb\msCa; 
+ jaayante dhaatuvaisamyaat \msKa; jaayate dhaatuvai.samyaa \msHb}%
+\tika{pratikriyaam\lem
+ \msCa\msKa\msL\msW\edN\msHabc; yatikriyaam \msNb}
+
+samyagbhojanamaadaayopasp.r"sya tadanantaram|| 10:14||%
+\tika{samyagbhojanam aadaayopasp.r"sya\lem
+  \msL; samyagbhojanamaa \lk\lk\ pa sp.r"sya \msNb;
+   samyagbhojanam aadaayaapa.h sp.r"sya \msCa;
+    samyagbhojanam aadaayopasp.r"sca \msKa; 
+     samyak bhojanam aadaayayopasp.r"sya \msHac;
+      samyak bhojayaaya sp.r"syat \msHb; 
+      samyagbhojanam aadaayayopaspa"sya \msW; 
+      samyagbhojanam aadaayaapa.h sp.r"sya \edN}
+\newverse
+kumbhaka.m dhaara.na.m kuryaaddvitrivaara.m vicak.sa.na.h|%
+\tika{dhaara.na.m kuryaad\lem
+  \msNb\msCa\msL\msW\edN\msHabc; dhaara.na.m \msKa}%
+\tika{dvitrivaara.m vicak.sa.na.h\lem
+  \msKa\msL\msW\msHac\edN; 
+  dvitrivaara.m vicak.sa.na \msNb\msCa; dvitrivaara vicak.sa.na.h \msHb}
+
+eva.m "svaasaadayo rogaa.h "saamyante kaphavaatajaa.h|| 10:15||%
+\tika{"svaasaadayo rogaa.h\lem
+\msCa\edN\msHabc; svaasaadayo rogaa \msNb; svaasaadayo rogaa.h \msKa\msW; 
+"svaasaada ye \lac\ gaa.h \msL}%
+\tika{"saamyante kaphavaatajaa.h\lem
+  \msNb\msCa\msL\msW\edN; saamyante kaphavaatajaa.h \msKa; 
+  "saamyanti kaphapittajaa.h \msHabc}
+\newverse
+bhuktvaa tu paayasa.m so.s.na.m k.siira.m vaapi gh.rtaplutam|%
+\tika{bhuktvaa tu paayasa.m so.s.na.m\lem
+  \msNb\msCa\msKa\msL\msW\edN; bhuktvaa paayasasa.m co.s.na.m \msHa; 
+  bhuukvaara.m tu paayasa.m co.s.na.m \msHb; 
+  bhuukttvaa paayasasa.m co.s.na.m \msHc}%
+\tika{k.siira.m vaapi gh.rtaplutam\lem
+  \msNb\msKa\msL\edN\msHabc; k.siira.m vaapi gh.rtapluta.h \msCa; 
+  k.siira vaapi gh.rtapluta.m \msW}
+
+vaaru.niidhaara.naa.m dhyaatvaa kuryaatsarvaa"ngayantritam|| 10:16||%
+\tika{vaaru.niidhaara.naa.m dhyaatvaa\lem
+   \msHc\msL\msW; vaaru.na.m dhaara.na.m dhyaatvaa \msNb; 
+   vaaru.nii.m dhaara.naa.m dhyaatvaa \msCa\msKa\edN;
+    vaaru.niidhaara.naa.m k.rtvaa \msHa; 
+    vaaru.niidhaara.naa.m kratvaa \msHb}%
+\tika{sarvaa"ngayantritam\lem
+\msCa\msL; savaa"ngayantritam \msNb\msW; 
+sarvaa"ngapatritam \msKa; 
+sarvaa"ngapaacitam \edN; sarvaa"ngayantra.nam \msHac; 
+sarvaa.m gayatra.naam \msHb}
+\newverse
+eva.m ku.s.thaadayo rogaa.h pra.na"syanti na sam"saya.h|%
+\tika{pra.na"syanti\lem
+\msCa\edN\msHab\msL; \lk\lk\lk\ nti \msNb; pra.nasyanti \msKa\msW; pra.na"syati \msHc}
+
+netre sa.mmiilya kurviita timiraadi pra"saamyati|| 10:17||%
+\tika{sammiilya kurviita\lem
+\msL\msW\edN; sa.mya.miilya kurviita \msNb; 
+sammiila kurviita \msCa; samiilya kurviita \msKa; 
+nimiilya kurviita \msHac; nimiilya kurvita \msHb}%
+\tika{timiraadi pra"saamyati\lem
+  \msNb\msCa\msKa\msL\edN; timiraadi pra.na"syati \msHab; 
+  timiraadi prana"syati \msHc; timiraadi.h prasaamyati \msW}
+% 10:17a \msNb: lacuna/not readable 
+\newverse
+"svayathurvaatarakta.m vaa yogino jaayate yadaa|%
+\tika{"svayathur vaatarakta.m vaa\lem
+\msCa\msL; svayatha.m vaatarakta.m vaa \msNb; 
+svapatha.m vaatarakta.m vaa \msKa; svayathurvaatarakta.m vaa \edN;  
+vepathurvaatarakta.m ca \msHac; "svathurvaatastu.m ca \msHb; 
+svayathavaatara.m ta.m vaa \msW}% 
+\tika{yogino jaayate yadaa\lem
+  \msNb\msKa\msHac\msL; yogino jaayate sadaa \msCa; yogino paayate yadaa \msHb; 
+  yogiino jaayate yadaa \msW; yogino jaayate tadaa \edN}%
+\quote{${\rm \msHb adds:}$
+ a.s.ta"suula.m ca jaayate || 375|| tailaabhya"nga.m tadaa pathya.m snaana.m ce"snita vaari.naa|} 
+
+yatra yatra rujaa baadhaa tatra vaayu.m vicintayed|| 10:18||%
+ \tika{yatra yatra rujaa baadhaa tatra\lem
+  \edN\msHabc, yatra yatra rujaa baadhastatra \msNb\msCa\msW;
+   yatra yatra rujaa baadhaa.m \msKa; yatra tatra rujaa baadhasta \lk\ \msL}%
+\tika{vaayu.m\lem
+  \msCa\msKa\edN\msHabc; vaayu \msNb\msW; \lac\ \msL}%
+ \tika{vicintayed\lem
+ 	\msNb\msCa\msKa\msW\msHabc\edN; \lac\ cintayed \msL}
+\newverse
+puurayitvaa tata.h samyakpuurake.na vicak.sa.na.h|%
+\tika{puurake.na\lem
+  \msHabc\msL; puurakena \msNb\msCa\msW; puurayitvaa \msKa; recayitvaa \edN}
+
+dhaarayitvaa yathaa"saktyaa naa.diiyogena ni"scalam|| 10:19||%
+\tika{yathaa"saktyaa\lem
+  \msCa\msKa\msL\msW; yathaa"saktaa (?) \msNb; yathaa"sakti \edN\msHabc}% 
+\tika{naa.diiyogena ni"scalam\lem
+  \msNb\msCa\msKa\msL\edN; naa.diiyogena recayet \msHabc; 
+  naa.diiyogena ni"scara.h \msWac; naa.diiyogena ni"scara.h \msWpc}
+\newverse 
+sa.mkucyaakar.sayedbhuuya.h kuurmavadrecakena tu|%
+\tika{sa.mkucyaakar.sayedbhuuya.h\lem
+  \msHac\msL; \lac\ \msNb; sa.mkutvaa kar.sayed bhuuya.h \msCa; 
+  sa.mkuryaat kar.sayed bhuuya.h \msKa\edN; satkuryaa kar.saye bhuuya.h \msW; 
+  sa.mkucyaakar.sayod bhuuya.h \msHb}%
+ \tika{kuurmavadrecakena tu\lem
+  \msNb\msCa\msKa\msL\msW\edN\msHa; 
+  kumbhabandhena kenacit \msHb; kurmavad recakena tu \msHc}
+
+cakravadbhraamayedvaapi puurayitvaa puna.h puna.h|| 10:20||
+%\tika{cakravadbhraamayedvaapi\lem
+% \msNb\msCa\msKa\msL\edN\msHabc; cakravad bhraamayed vaapi \msW}
+\newverse
+uttaano.atha same de"se tata.h k.rtvaa tu vigraham|%
+%\tika{uttaanoa.tha\lem
+%  \msNb\msCa\msKa\edN\msHabc\msL\msW}%
+ \tika{tata.h k.rtvaa tu vigraham\lem
+  \msCa\msKa\edN\msL\msW; tata.h k.rtvaa tu vigraha.h \msNb;  
+  tata.m k.rtvaa tu vigraham \msHab, tapta.m k.rtvaa tu vigraham \msHc} 
+
+pra.naayaama.m prakurviita sarvado.sapra"saantaye|| 10:21||%
+\tika{prakurviita\lem
+ \msCa\msKa\msL\msW\edN\msHabc; prakuviita \msNb}%
+\tika{sarvado.sapra"saantaye\lem
+ \msNb\msCa\msKa\msW\edN\msHac; sarvado.sopa"saantaye \msHb; 
+ sarvado.sapra"saanta \lk\ \msL}
+\newverse
+vaidya"saastroktavidhinaa kriyaa.m kurviita yatnata.h|%
+\tika{vaidya"saastroktavidhinaa\lem
+ \msNb\msCa\msKa\edN\msW\msHac; \lk\ dya"saastroktavidhinaa \msL; 
+ vai.sa"saastroktaviditaa \msHb}%
+\tika{kurviita\lem
+ \msNb\msCa\msKa\msL\msW\edN\msHab; kuvita \msNb; kurvi.mta \msHc}
+
+kuryaadyogacikitsaa.m ca "siighrameva pra"saamyati|| 10:22||%
+\tika{yogacikitsaa.m\lem
+ \msNb\msCa\msKa\edN\msHac; ayogacikitsaa.m \msHb\unmetrical; yogacikitsaa \msW}%
+\tika{"siighrameva pra"saamyati\lem
+ \msNb\msCa\edN, sarvaroge.su rogavit \msHabc (${\rm= 10.23b}$); 
+ "siighrameva.m pra"saamyati \msKa\msL\msW}
+\newverse 
+sa.mk.sepata"scikitsaanaa.m sarvaroge.su yogavit|%
+\tika{sa.mk.sepata"scikitsaanaa.m\lem
+ \msW; sa.mk.sepata"s cikitsaa.m tu \msNb; 
+ sa.mk.sepata"scikitsaan ca \msCa;
+  sa.mk.sepata"scikitsaan tu \msKa\edN; 
+  sa.mk.sepata"s cikitsaa~nca \msL}%
+\tika{sarvaroge.su yogavit\lem
+ \msCa\msL\msW\edN; savaroge.su yogavit \msNb; 
+ sarvalo(${\rm with correction marks}$)ge.su \msKa}%
+ \quote{${\rm 10.23ab is missing in \msHabc.}$}
+
+yatra yatra rujaabaadhastadde"sa.m vyaapya dhaarayet|| 10:23||%
+\tika{rujaabaadhas\lem
+ \msCa\msKa\msL\msW; bhujaabaadhas \msNb; rujaa baadhaa \edN\msHabc}%
+\tika{tadde"sa.m vyaapya dhaarayet\lem
+ \msW; tande"sa vyaapya dhaarayet \msCa; 
+ ta.m de"sa.m vaapya dhaarayet \msKa\msL\edN; 
+ tande"sa.m vyaapya dhaarayet \msNb\msHac; tade"savaayudhaarayet \msHb}
+\newverse
+praatibhaadyantaraaye.su samutpanne.su yogavit|%
+\tika{praatibhaadyantaraaye.su\lem
+ \msCa\msKa\msL\msW\edN; pratibhaadyantaraaye.su \msNb; 
+ bhiitibaadhaantaraaye.su \msHa;
+  puutitraada.mtaraaye.su \msHb; pratibhiidyantaraaye (${\rm vf}$) \msHc}%
+\tika{samutpanne.su\lem
+ \msNb\msCa\msKa\msL\msW\edN\msHab; samuptabhe.su \msHc}
+
+yathaa"saktyaa prayatnena yogaabhyaasa.m vivardhayet|| 10:24||%
+\tika{yathaa"saktyaa\lem
+ \msCa\msKa\msW; yathaa"saktaa \msNb; yathaa"sakti \edN\msHabc}%
+ \tika{prayatnena\lem
+ 	\msNb\msCa\msKa\msW\msHabc\edN; prayatne ca \msL}%
+\tika{yogaabhyaasa.m vivardhayet\lem
+ \msNb\msKa\msLpc\msW\edN\msHabc; yogaabhyaasaad vidvayet \msCa;
+  yogaabhyaasya.m vivardhayet \msLpc; yogaabhyaa vivardhayet \msLac\hypometrical}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m cikitsaa naama da"sama.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+	\edN; dharmaputrikaayaa.m sa.mhitaayaa.m \msNb\msKa; 
+	dharmaputrikaayaa.m \msCa\msW; dharma \lk\lk\lk\lk\lk\lk\lk\lk\ \msL}%
+\tika{da"sama.h pa.tala.h\lem
+	\msNb\msCa\msKa\edN; da"sama.h \msL; da"samo.adhyaaya.h \msW}
+	
+
+\changechap
+\newverse
+taabhyaa.m vijiiyate yogii yadaa vighnacatu.s.tayam|%
+\tika{vijiiyate\lem
+ \msCa\msNb\msKa\msL; vijayate \msW\edN}
+
+tadaa sa~njaayate dehe prav.rtti.h siddhisuucikaa|| 11:1||%
+\tika{siddhisuucikaa\lem
+ \msCa\msL\edN; siddhasuucakaa.h \msNb\msL; siddhisuucakaa \msKa; 
+ siddhisuucikaa.h \msWpc; "saiva siddhisuucikaa \msWac\hypermetrical}
+\newverse
+yu~njanyogii yadaa spar"samapuurvamupajaayate|%
+\tika{upajaayate\lem
+ \msCa\msNb\msKa\msL\msW; labhate svaya.m \edN}
+
+svakiiyadehe kasmi.m"scittadaa tamupalak.sayet|| 11:2||%
+\tika{svakiiyadehe\lem
+	\msNb\msCa\msKa\msW\edN; \lk\ kiiyadehe \msL; svakiiyadeha \msW}%
+\tika{kasmi.m"scittadaa\lem
+ \msNb\msCa\msL\msW\edN; kasmi.m"sci tadaa \msKa}
+\newverse
+pipiilikaagatispar"sa.m jihvaasyanditameva vaa|%
+\tika{pipiilikaagatispar"sa.m\lem
+ \emend; pipiilakaagatispar"sa \msCa\msW; pipiilikaagati.m spar"sa.m \msNb; 
+ pipiilikaagatispar"so \edN\msKa}%
+ \tika{jihvaasyanditameva vaa\lem
+ \msNb\msKa\msL; jihvaasyanditameva ca \msCa\msW; jihvaasyanditame.sa vaa \edN}
+
+vi.saagnika.n.takaistulyamanyacca sukhalak.sa.nam|| 11:3||%
+\tika{vi.saagni@\lem
+	\msNb\msCa\msKa\msL\edN; vi.sayaagni@ \msW\hypermetrical}%
+\tika{@ka.n.takaistulyamanyacca\lem
+ \msCa\edN; @ka.n.takestulyamanyacca \msNb; 
+ @ka.n.thakaistulyama.nya(${\rm with a correction mark}$)cca \msKa; 
+ @ka.n.takaistulyamunyacca \msL; 
+ @ka.n.thakaikastulyamanyacca \msW}
+\newverse
+yogaagni.m ta.m vijaaniiyaajjaata.m paapapra.naa"sanam|%
+\tika{yogaagni.m ta.m\lem
+ \msCa\msKa\msL\edN; yogaagni ta.m \msNb; yogaagni.m ta \msW}%
+ \tika{vijaaniiyaajjaata.m\lem
+ 	\msL\msW; vijaaniiyaajjaataa.m \msNb; 
+ 	\lac\ vij~naata.m (${\rm missing letters}$) \msCa; 
+ 	vijaaniiyaajj~naata.m \msKa; vijaaniiyaaj j~naana.m \edN}%
+\tika{paapapra.naa"sanam\lem
+ \msCa\msNb\msL\msW; paapapra.naasana.m \msKa; paapa.m pra.naa"sanam \msW; 
+ paapapra.naa"sanii \edN} 
+
+prav.rtti.h saiva vikhyaataa yogasa.msiddhisuucikaa|| 11:4||%
+\tika{saiva\lem
+ \msCa\edN; "saiva \msNb\msW; sauva \msKa}%
+ \tika{yogasa.msiddhisuucikaa\lem
+ \msCa\msKa\msW\edN; 
+ yo \lk\lk\ (${\rm some correctionnot clear}$) siddhisuucakaa.h \msNb; 
+ yogasa.msiddhisuucakaa \msL}
+\newverse
+naanaa"sabdarasaspar"saruupagandhaa amaanu.saa.h|%
+\tika{@rasaspar"saruupagandhaa\lem
+\msKa\msL\msW\edN; @ra"saspar"saruupagandha \msCa; 
+@ra"saspar"saruupagandhaa \msNb}
+
+yu~njataa yoginaa saak.saat praaye.naivopalak.syate|| 11:5||%
+\tika{saak.saat\lem
+ \msCa\msKa\msL\edN; "saakhyaat \msNb}%
+ \tika{praaye.naivopalak.syate\lem
+ 	 \msCa\msL; praaye.naivopalak.sayet \msNb; 
+ praayenaivopalak.sate \msKa; 
+ praaye.nevopalak.syate \msW; praaye.naivopalak.sitaa.h \edN}
+\newverse
+prav.rttau vardhamaanaayaamakaa.n.do yoginastadaa|%
+\tika{@makaa.n.de\lem
+	\msKa\msL\msW\edN; @makaa.n.do \msCa; 
+	\lac\ (${\rm some correctionnot clear}$)ma.n.de \msNb}%
+\tika{tadaa\lem
+ \msCa\msKa\msL\msW\edN; tathaa \msNb} 
+
+manoj~na.h "sruuyate "sabdo devadundubhinisvana.h|| 11:6||%
+\tika{devadundubhinisvana.h\lem
+ \msCa\msNb\msL\msW; devadundubhinisvata.h \edN; devadundubhini.hsvana.h \msKa}
+\newverse
+kimapyaasvaadyate vaktre rasa.h caivaam.rtopamam|%
+\tika{kimapyaasvaadyate\lem
+ \msNb\msKa\msL\msW\edN; kimanyaasvaadyate \msCa}%
+ \tika{vaktre rasa.h\lem
+ \msCa\edN; vaktre rasa.m \msNb\msL\msW; vaktrai raasa.m \msKa}%
+ \tika{caivaam.rtopamam\lem
+ \msCa\msL\msW; cevaam.rtopama.m \msNb\msKa; caivaam.rtopama.h \edN}
+
+gaatrasyaahlaadanakara.h sukhaspar"so.anubhuuyate|| 11:7||%
+\tika{@hlaadana@\lem
+	\msNb\msCa\msKa\msL\edN; @hladana.m \msW}%
+\tika{sukhaspar"so@\lem
+ \msCa\msL\msW\edN; "sukhaspar"so@ \msNb; sukhaspa"so@ \msKa}
+\newverse
+avyaktaruupamaakaa"se d.r"syate meghave.s.titam|%
+\tika{@ruupamaakaa"se\lem
+ \msNb\msKa\msL\msW\edN; @ruupakaa"se \msCa}%
+\tika{@ve.s.titam\lem
+	\msNb\msCa\msKa\msW\edN; @ve.s.titai \msL}
+
+paarijaataadipu.spaa.naa.m gandha"sca jaayate tadaa|| 11:8||%
+\tika{@pu.spaa.naa.m\lem
+ \msNb\msCa\msL\edN; @pu.spaanaa.m \msKa}%
+\tika{gandha"sca\lem
+ \msCa\msL; gandha.m vaa \msNb\msKa; gandho vaa \edN\msW} 
+\newverse
+aasaa.m yogaprav.rtiinaa.m yadi kaapi pravartate|%
+\tika{aasaa.m\lem
+ \msCa\msKa\msL\msW\edN; aasaa \msNb}%
+\tika{pravartat\lem
+	\msNb\msCa\msKa\msW\edN; prajaayate \msL} 
+
+prav.rttayoga.m ta.m praahuryogiyo yogacintakaa.h|| 11:9||%
+\tika{prav.rttayoga.m\lem
+	\msNb\msCa\msKa\msL\edN; prav.rttayoga \msW}%
+\tika{ta.m praahuryo@\lem
+ \msCa\msL\msW\edN; ta praahayo@ \msNb; praahuyo@ \msKa}%
+\tika{@cintakaa.h\lem
+	\msNb\msCa\msKa\msW\edN; @cinttakaa.h \msL} 
+\newverse
+pa~nca pratyayali"ngaani k.sii.nado.sasya yogina.h|
+
+etaani tu calaaniiti kiirtitaani manii.sibhi.h|| 11:10||%
+\tika{etaani tu\lem
+	\msNb\msCa\msKa\msL\edN; etaanintu \msW}%
+\tika{manii.sibhi.h\lem
+ \msCa\msKa\msL\msW\edN; minii.sibhi.h \msNb}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m calali"ngo naamaikaada"sa.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+ \emend; dharmaputrikaayaa.m \msL; ${\rm not readable}$\msCa; 
+ dharmaputrikaayaa.m sahitaayaa.m \msNb\msKa; dharmaputrikaayaa \msW; 
+ iti dharmaputrikaayaa.m sahitaayaa.m \edN}%
+\tika{calali"ngo\lem
+ \edN\msKa; calali"nga \msCa; \lk\ li"ngo \msNb; calali.mgaa \msL; calali"ngan \msW}%
+\tika{naamaikaada"sa.h pa.tala.h\lem
+ \msNb\msKa\edN; naama ekaada"sama.h \msCa; naama ekaada"sa.h \msL; 
+ naama ekaada"samo.adhyaaya.h \msW}
+
+
+\changechap
+
+\newverse
+aatmaana.m p.rthivii.m vaapi jvalanta.m yadi pa"syati|%
+\tika{p.rthivii.m\lem
+	\msNb\msCa\msKa\msL\edN; p.rthivii \msW}%
+\tika{vaapi\lem
+ \msCa\msKa\msL\msW\edN; caapi \msNb}%
+\tika{pa"syati\lem
+ \msCa\msKa\msL\msW\edN; pasyati \msNb}
+
+madhyaahne "sa"sino vimba.m taaraaruupaa.ni vaa yadi|| 12:1||%
+\tika{"sa"sino\lem
+ \msCa\msKa\msL\msW\edN; "sasino \msNb}%
+\tika{yadi\lem
+ \msCa\msL\msW; divaa \msNb\msKa\edN}
+\newverse
+bhuutaanyaavi"samaanaani svadeha.m pa"syate.athavaa|%
+\tika{bhuutaanyaavi"samaanaani\lem
+ \msCa\msKa\msL\msW; bhuutaanyaaviyamaanaani \msNb; 
+ bhuutaanyaadhisamaanaani \edN}%
+\tika{svadeha.m\lem
+ \msNb\msCa\msKa\msL\msW; svadehe \edN}
+
+yu~njankadaacitsa.mnyaasii ni.hsa.mj~na iva jaayate|| 12:2||%
+\tika{yu~njankadaacitsa.mnyaasii\lem
+ \msCa\msKa\msW; yu~njankadaavitsanyaasii \msNb; yu~njankadaavitsanyaa"sii \msL}%
+\tika{ni.hsa.mj~na\lem
+ \msNb\msCa\msL; ni.hsa.mj~naa \msKa\msW}%
+ \quote{${\rm 12.2c--4b is missing in \msL.}$}
+\newverse
+aarogya.m laghudehatva.m tvaksnigdha"subhavar.nataa|%
+\tika{tvaksnigdha"subhavar.nataa\lem
+ \msCa\msL; tvasnigdha"subhavar.nita.h \msNb; 
+ tvaaksnigdha.m "subhavar.nataa \msKa; tvaksnigdha.m "subhavar.nataa \msW}
+ 
+manoj~nabhaa.sitaa praj~naa sugandhimukhagaatrataa|| 12:3||%
+\tika{manoj~nabhaa.sitaa\lem
+	\msNb\msKa\msL; manoj~naa bhaa.sitaa \msCa\msW}%
+\tika{sugandhi@\lem
+ \msCa\msW; sugandha@ \msNb\msKa\msL}
+\newverse
+upek.saa viitat.r.s.naatva.m samarthendriyataa ca yat|%
+\tika{upek.saa\lem
+	\msNb\msCa\msKa\msL\edN; upak.saa \msW}%
+\tika{viitat.r.s.naatva.m\lem
+	 \msKa\msL\msW; viit.rptatva.m \msCa; viitat.rpatva.m \msNb}%
+\tika{samarthendriyataa\lem
+ 	\msNb\msKa\msLpc; sarvake?ndriyataa \msCa; 
+ 	samartherk.sendriyataa \msLac\hypermetrical}
+
+kiirtitaani dhruvaa.niiti li"ngaanyetaani pa.n.ditai.h|| 12:4||%
+\tika{dhruvaa.niiti\lem
+ \edN; dhruvaananiiti \msCa\msNb\msKa\msL\msW}%
+\tika{li"ngaanyetaani\lem
+ \msCa\msKa\msL\msW\edN; li"ngaanetaani \msNb}%
+\tika{pa.n.ditai.h\lem
+ \msCa\msNb\msKa\msL\msW; yogibhi.h \edN}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m dhruvali"nga.m naama dvaada"sa.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+ \edN; dharmaputrikaayaa.m \msCa\msW; 
+ dharmaputrikaayaa.m sahitaayaa.m \msNb\msKa; 
+  dharmaputrikaayaa \msW}%
+\tika{dhruvali"nga.m\lem
+ \msCa\msNb\msKa\msL\msW; dhruvali"ngo \edN}%
+\tika{dvaada"sa.h pa.tala.h\lem
+ \edN; dvaada"sama.h \msCa\msNb\msKa\msL; dvaada"samo.adhyaaya.h \msW}
+ 
+ \changechap
+
+\newverse
+ka"scidutpaadya yogaagni.m suuk.smamapyupalak.sitam|%
+\tika{ka"scidutpaadya\lem
+	 \msKa\edN; ka~ncidutpaadya \msCa\msL; ka.mcidupaada \msNb}%
+\tika{@lak.sitam\lem
+	\msNb\msCa\msKa\msW\edN; @lak.siva.m \msL}
+
+yogena satataabhyaasaadanirvi.n.no vivardhayet|| 13:1||%
+\tika{anirvi.n.no\lem
+\edN; anirvinno \msCa\msKa\msL\msW; anivi \lk\ \msNb\verify}
+\newverse
+dhuumapuurvo yathaa hyagnirmathyamaana.h prajaayate|%
+\tika{yathaa\lem
+	\msNb\msCa\msKa\msL\msWpc\edN; kta yathaa \msWac\hypermetrical}%
+\tika{hyagnirmathyamaana.h\lem
+\msCa\msKa\edN; hyagnimathyamaanaa.h(${post correction}$ na.h) \msNb}%
+\quote{${\rm 13.2--3 is missing in \msL.}$}
+
+yogaagniryoginastadvatspar"sapuurva.m prajaayate|| 13:2||%
+\tika{yogaagniryo@\lem
+	\msCa\msKa\msW\edN; yogaagniyo@ \msNb}%
+\tika{spar"sapuurva.m\lem
+	 \msCa\msW; spar"sapuurva.h \edN; spar"sapuurva \msNb; spar"sapuurve \msKa}
+\newverse
+janayitvaa yathaa hyagni.m suuk.sm.m yatnena diipayet|%
+\tika{hyagni.m suuk.sm.m\lem
+ \msW; hyagni.h suuk.sm.m \msNb\msCa\msKa\msL\edN}%
+\tika{diipayet\lem
+\msNb\msKa\msW; diiyate \msCa; diipyate \edN}
+
+utpaadya yogii yogaagni.m tathaa diipta.m vivardhayet|| 13:3||%
+\tika{yogaagni.m\lem
+\msNb\msCa\edN; yogaagni \msKa\msW}%
+\tika{tathaa\lem
+\edN; yadaa \msNb; yathaa \msCa\msKa\msW}%
+\tika{vivardhayet\lem
+\msNb\msCa\msW\edN; vivardhayeta \msKa}
+\newverse
+t.r.nakaa.s.thendhanai.h so.agniryathaa diipto vivardhayet|%
+\tika{t.r.nakaa.s.thendhanai.h\lem
+	\msNb\msCa\msKa\edN; t.r.nakaa.thendhanai \msL; t.r.nakaa.s.tendhanai.h \msW}%
+\tika{so.agnirya@\lem
+\msCa\msKa\msW\edN; so.agniya@ \msNb; yo \lac\ \lk\ \msL}%
+\tika{diipto\lem
+	\msNb\msCa\msKa\msW\edN; diiptau \msL}%
+\tika{vivardhayet\lem
+\msCa\msL\msWpc; vivardhayeya \msNb; 
+vivarddhayeta \msKa; virvayeddhat \msWac; vivarddhate \edN}
+
+.sa.da"ngaadiindhanaistadvadyogaagnirapi vardhayet|| 13:4||%
+\tika{.sa.da"ngaadiindhanaistadvadyogaagnirapi\lem
+\msNb\msL\msW\edN; .sa.da"ngaadiindhanaistadvat yogaagnirapi \msKa}%
+\tika{vardhayet\lem
+\msNb\msKa\msL\msW; varddhate \edN}%
+\quote{${\rm 13.4cd is missing in \msCa.}$}
+\newverse
+pradiiptastu yathaivaagni.h kramaatk.sapayatiindhanam|%
+\tika{pradiiptastu\lem
+	\msNb\msCa\msL\msW\edN; pradiiptaistu \msKa}%
+\tika{kramaat\lem
+\msCa\msL\msW; k.sa.naat \msNb\edN\msKa}%
+\tika{k.sapayatiindhanam\lem
+\msCa\msL\msW; k.sapayantiindhana.m \msNb; k.sapayatiindhana.m \msKa\edN}
+
+yogaagnistadvadaadiipto dahetpaapa.m puraatanam|| 13:5||%
+\tika{dahetpaapa.m\lem
+\msCa\msKa\msW\msL; dahetpaapa \msNb}%
+\tika{puraatanam\lem
+\msCa\msL\msW; puraatana \msNb; puraatana.m \msKa}%
+\quote{${\rm 13.5cd is missing in \edN.}$}
+\newverse
+eva.m yogaagninaa paapa.m k.sapayitvaa puraatanam|
+
+pa"scaatphala.m labhedyogii v.rddhyupaaya iti sm.rta.h|| 13:6||%
+\tika{sm.rta.h\lem
+\msNb\msCa\msL\msW\edN; sm.rtaa.h \msKa}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m v.rddhyupaayo naama trayoda"sa.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+\edN; dharmaputrikaayaa.m \msCa\msL\msW; dharmaputrikaayaa.m sahitaayaa.m \msNb; 
+dharmaputrikaayaa.m sa.mhitaayaa.m \msKa}%
+\tika{v.rddhyupaayo\lem
+	\msNb\msCa\msKa\msL\edN; v.rddhyuopaayo \msW}%
+\tika{trayoda"sa.h pa.tala.h\lem
+\edN; trayoda"sama.h pa.tala.h \msNb\msCa\msKa\msL; trayoda"samo.adhyaaya.h \msW}
+
+\changechap
+
+\newverse
+d.r.s.tvaa pratyayali.mgaani siddhisa.msuucakaani vai|%
+\tika{sa.msuucakaani\lem
+\msCa\msKa\msL\msW\edN; sa.m"suucikaani \msNb}
+
+yogino jaayate har.so manastu.s.ti"sca vardhate|| 14:1||%
+\tika{vardhate\lem
+\msNb\msL\edN; \lk\ rdhate \msCa; varddhate \msKa; jaayate \msW}
+\newverse
+atihar.se.na vaa yogii parebhya.h kathayedyadi|
+
+siddhirmameti vaa matvaa yogaabhyaasa.m parityajet|| 14:2||%
+\tika{siddhirma@\lem
+	\msNb\msCa\msKa\msW\edN; siddhimma@ \msL}%
+\tika{yogaabhyaasa.m\lem
+\msCa\msKa\msL\msW\edN; yogaabhyaasa \msNb}
+\newverse
+athavaa j~naanadaataara.m guru.m nindati durmati.h|%
+\tika{guru.m\lem
+\msCa\msKa\msLpc\edN; guru \msNb; dugurun \msLac}%
+\tika{nindati\lem
+\msNb\msCa\msL\edN; nindanti \msKa\msW}
+
+saa prav.rttirvimuu.dhaapi tribhiretairvina"syati|| 14:3||%
+\tika{prav.rttirviruu.dhaapi\lem
+\msKa\msL\msW\edN; prav.rttirvimuu.dhaapi \msCa; prav.rttiviruu.dhaapi \msNb}%
+\tika{etairvi@\lem
+	\msNb\msCa\msKa\msL\edN; ete vi@ \msW}%
+\tika{vina"syati\lem
+	\msCa\msL\msW; vinasyate \msNb; vina"syate \msKa; vinasyati \edN}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m vinaa"so naama caturda"sa.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+\edN; dharmaputrikaayaa.m \msCa\msL; dharmaputrikaayaa.m sahitaayaa.m \msNb\msKa}%
+\tika{vinaa"so naama\lem
+\edN; vinaa"sa \msCa\msL; \lac\ \msNb\msKa}%
+\tika{caturda"sa.h pa.tala.h\lem
+\edN\msNb; caturda"sama.h pa.tala.h \msCa\msKa\msL; caturda"samo.adhyaaya.h \msW}
+
+
+\changechap
+
+\newverse
+yadaa prav.rttirutpannaa vardhitaapi vina"syati|%
+\tika{vina"syati\lem
+\msCa\msL\edN; vina"syate \msNb\msKa}
+
+upaayaistribhirevaanyai.h pratyaaneyaa punastadaa|| 15:1||%
+\tika{tribhire@\lem
+	\msNb\msCa\msKa\msW\edN; trire@ \msL\hypometrical}%
+\tika{pratyaaneyaa\lem
+\msKa\msLpc\edN; pratyaaneyaa.h \msCa\msNb; pratyaayaa \msLac}%
+\tika{punastadaa\lem
+\msNb\msKa\msL\edN; punastathaa \msCa\msW}
+\newverse
+nadiikuule.athavaara.nye pracchanne "suunyave"smani|%
+\tika{"suunyave"smani\lem
+\msKa\msL\edN; "suunyave"smani.h \msCa; "suunyave"smana \msNb; 
+"suunyave"sma \msW\hypometrical}
+
+ni.h"sabde nirjane "saante yoga.m yu~njyaadvicak.sa.na.h|| 15:2||%
+\tika{yu~njyaad\lem
+	\emend; yu~njed \msNb\msCa\msL; yu.mktaad \msKa; yunkted \msW; yu~njaad \edN}
+\newverse
+bhaavayitvaa yathaa"saktyaa siddhyupaaye.su yogavit|%
+\tika{yathaa"saktyaa\lem
+\msCa\msKa\msL\msW; yathaa"saktaa \msNb; yathaa"sakti \edN}
+
+paadaa"ngu.s.the mana.h k.rtvaa "sanai.h praa.naan vidhaarayet|| 15:3||%
+\tika{praa.naan\lem
+\msCa\msKa\msL\msW\edN; praa.naa \msNb}%
+\tika{vidhaarayet\lem
+\msCa\msKa\msL\msW\edN; vidhaaraye \msNb}
+\newverse
+taavad vidhaarayet praa.naan yaavatspar"so na labhyate|%
+\tika{praa.naan\lem
+\msCa\msKa\msL\edN; praa.naa \msNb}%
+\tika{spar"so\lem
+\msCa\msKa\msL\edN; spar"sa.m \msNb; spar"sau \msW}%
+\tika{labhyate\lem
+\msNb\msKa\msL\msW\edN; \lk\ bhyate \msCa}
+
+tatspar"sa.m prerayeduurdhva.m naadamuccaarya yatnata.h|| 15:4||%
+\tika{tatspar"sa.m\lem
+	\msNb\msCa\msKa; tatspa"sa.m \msLpc; tatspala.m \msLac; 
+	tatsyar"sa.m \edN; tatspar"se \msW}%
+\tika{naadamuccaarya\lem
+	\msCa\msKa\msL\msW\edN; naadamucaarya \msNb}
+\newverse
+athavaa dantayo.h sandhau jihvaagre nyasya tanmati.h|%
+\tika{sandhau\lem
+\msCa\msKa\msL\msW\edN; sandho \msNb}%
+\tika{jihvaagre\lem
+\msNb\msCa\msL\msW; jihvaagra.m \msKa\edN}
+
+praa.naayaama.m prakurviita yaavatspar"so na jaayate|| 15:5||%
+\tika{prakurviita\lem
+\msCa\msKa\msL\msW\edN; prakuviita \msNb}
+\newverse
+jihvaagre.na hi yogaagne.h spar"sa.m yogii sadaa labhet|%
+\tika{hi yogaagne.h\lem
+\msNb\msCa\msL\msW; hato yogii \msKa\edN}%
+\tika{spar"sa.m\lem
+\msCa\msL\edN; spar"sa \msNb\msKa; spar"se \msW}
+
+taduurdhva.m prerayecchiighra.m tatspar"sa.m puurvavadbudha.h|| 15:6||%
+\tika{tatspar"sa.m\lem
+\msCa\msL\edN; tatspar"sa \msNb\msW; tatpar"sa \msKa}%
+\tika{puurvavadbudha.h\lem
+\msNb\msKa\msL\msW\edN; puurayedadbudha.h \msCa}
+% NB: \msW writes "cha" instead of "ccha"
+\newverse
+taalumadhye.athavaa yogii mana.h k.rtvaa vidhaarayet|%
+\tika{k.rtvaa vidhaarayet\lem
+\msCa\msKa\msL\msW\edN; k.rtvaapi dhaarayet \msNb}
+
+jaataprav.rttau tatspar"sa.m tathaiva punaruddharet|| 15:7||%
+\tika{tatspar"sa.m\lem
+\msCa(${not much clear}$)\msKa\msL\msW\edN; tatspar"sa \msNb}
+\newverse
+yasminyasmin "sariire.su puurvajaataa.h prav.rttaya.h|%
+\tika{yasminyasmin\lem
+\msCa\msL\msW; yasmi.m yasmi.m \msNb; yasminyasmina \msKa; yasmin yasmin \edN}%
+\tika{"sariire.su\lem
+\msNb\msL\msW\edN; "sariire tu \msCa; "sarii \lac\ \msKa}%
+\tika{puurvajaataa.h\lem
+\msNb\msCa\msW; puurva.m jaataa.h \msKa\msL\edN}
+
+tasmintasminmana.h k.rtvaa yogii praa.naanvidhaarayet|| 15:8||%
+\tika{tasmintasmin\lem
+\msCa\msKa\msL\msW; tasmi.m tasmi.m \msNb; tasmistasmin \edN}%
+\tika{praa.naan\lem
+\msCa\msKa\msL\msW\edN; praa.naa.m \msNb}
+\newverse
+praa.naayaamasama.m naasti yoginaa.m paapa"sodhanam|%
+\tika{praa.naayaamasama.m\lem
+\msNb\msKa\msW\edN; praa.naayaama.m sama.m \msCa; praa.naayaamasa.mman \msL}
+
+praa.naayaamaparo bhuutvaa tasmaadyu~njiita yogavit|| 15:9||%
+\tika{praa.naayaamaparo\lem
+\msNb\msCa\msL\msW\edN; praa.naayaamaro \msKa}
+\newverse
+praa.naayaamavi"suddhaatmaa sarvapaapairvimucyate|%
+\tika{vi"suddhaatmaa\lem
+\msCa\msKa\msL\msW\edN; vi"sutmaatmaa \msNb}%
+\tika{sarvapaapair\lem
+\msCa\msKa\msL\msW\edN; sarvapaapai \msNb}
+
+tadaatmajyotiramalamaatmanyeva prapa"syati|| 15:10||%
+\tika{aatmanyeva\lem
+	\msNb\msCa\msKa\msW\edN; \lk\ manyeva \msL}%
+\tika{prapa"syati\lem
+\msCa\msKa\msL\msW\edN; pra"sasyati \msNb}
+\newverse
+muurdhni bhaage.athavaa yogii yogaadutk.r.sya kevalam|%
+\tika{muurdhni\lem
+	\msNb\msCa\msKa\msL\edN; muurdhni \msW}%
+\tika{utk.r.sya\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; u.sya \msL\hypometrical}	
+
+ma.nau suutramivaasakta.m pa"syatyaatmaanamaatmanaa|| 15:11||%
+\tika{suutramivaasakta.m\lem
+\msKa\msL\edN; suutramivaa"sakta.m \msCa; 
+"suutramivaasakta.m \msNb; suuryamivaa"sakta.m \msW}%
+\tika{pa"syati\lem
+\msCa\msKa\msL\msW\edN; pa"syanti\msNb}
+\newverse
+"suddhaspha.tikasa.mkaa"sa.m vimukta.m sarvabandhanai.h|%
+\tika{@bandhanai.h\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; @kandhanai.h \msLac}
+
+pratyaanayana itye.sa yogavidbhi.h prakiirtita.h|| 15:12||%
+\tika{pratyaanayana itye.sa\lem
+\msNb\msCa\msL; pratyaanayananityeta \msKa; pratyaanayanamityetad \msW\edN}%
+\tika{prakiirtita.h\lem
+	\msCa\msL\msW; prakiirttita \msNb; prakiirtitaa.h \msKa; prakiirttita.m \edN}
+
+\Colo
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m pratyaanayano naama pa~ncada"sa.h pa.tala.h|| \flourish\ ||%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+\edN; dharmaputrikaayaa.m \msCa\msL\msW; 
+iti dharmaputrikaayaa.m sahitaayaa.m \msNb; 
+dharmaputrikaayaa.m sa.mhitaayaa.m \msKa}%
+\tika{pratyaanayano naama\lem
+\msCa; pratyaanayana naama \msNb; pratyaanayana.m naama \msKa\msW\edN; 
+pratyaanayanone naama \msL}%
+\tika{pa~ncada"sa.h pa.tala.h\lem
+\edN; pa~ncama.h \msNb; pa~ncada"sama.h pa.tala.h \msCa\msKa\msL; 
+pa~ncada"samo.adhyaayaa.h \msW}
+
+\changechap
+
+\newverse
+siddhyupaaya.m viditvaadau ya.h karma kurute nara.h|%
+\tika{siddhyupaaya.m\lem
+\msNb\msKa\msL\msW\edN; siddhyupaaya \msCa}
+
+tasya hastatale siddhirvarttate naatra sa.m"saya.h|| 16:1||%
+\tika{tasya\lem
+\msNb\msCa\msL\msW\edN; tasyaa \msKa}%
+\tika{hastatale\lem
+\msNb\msKa\msW\edN; hasta \lk\ le \msCa}%
+\tika{siddhirva@\lem
+\msCa\msKa\edN; siddhiva@ \msNb\msW\msL}
+\newverse
+sthaanaasanavidhaanaani sa.msthaanakara.naani ca|
+\tika{siddhihetava.h\lem
+\msKa\msL\msW\edN; siddhitetava.h \msCa; siddhihetava \msNb}
+
+vyaak.sepajanakaa.h sarve nahyete siddhihetava.h|| 16:2||%
+\tika{nahyete\lem
+	\msNb\msCa\msKa\msL\edN; nahyato \msW}
+\newverse
+sa"ngatyaago mana.hsthairya.m samaadhistattvanir.naya.h|%
+\tika{samaadhistattvanir.naya.h\lem
+\msL\msW; samaadhistattvanir.nayam \msCa; 
+samaadhitattvanir.naya.h \msNb\msKa\edN}
+
+siddhiheturbhavantyete "se.saa vyaak.sepakaarakaa.h|| 16:3||%
+\tika{siddhihetu@\lem
+	\msNb\msCa\msKa\msW\edN; siddhirhetu@ \msLpc; 
+	siddhirbharhetu@ \msLac\hypermetrical}%
+\tika{bhavantyete\lem
+\msCa\msKa\edN; bhavatyete \msNb; bhavantyate \msW}%
+\tika{@k.sepa@\lem
+	\msNb\msCa\msKa\msLpc\msW\edN; @pak.se@ \msLac}
+\newverse
+sarvasattve.su kaaru.nya.m vairaagya.m vi.saye.su ca|
+
+aaki~ncanya.m ca sarvatra yogasyopani.satparaa|| 16:4||%
+\tika{aaki~ncanya.m\lem
+	\msNb\msCa\msKa\msL\edN; aaki.mcana.m \msW}%
+\tika{yogasyopani.satparaa\lem
+\msKa\edN; yogasyopani.satparaa.h \msNb\msL\msW; 
+\lac\ tparaa.h(${not readable}$) \msCa}
+\newverse
+dayaavaan sarvabhuute.su virakto.aki~ncano muni.h|%
+\tika{dayaavaan\lem
+\msCa\msL\msW\edN; dayaavaa.m \msNb; dayaavaat \msKa}
+
+gupta"si"snodaro yogii mana.h "samayati k.sa.naat|| 16:5||%
+\tika{gupta"si"snodaro\lem
+\msCa\msL\msW\edN; guptasi"snodaro \msNb; gupta"si.s.nodaro \msKa}%
+\tika{"samayati k.sa.naat\lem
+\msL; samayati k.sa.naat \msCa\msNb\msW; 
+samayatii k.sa.naat \msKa; "samayatiik.sa.naat \edN}
+\newverse
+lak.sya.m "sivo dhanurdeho maurvii naada.h "saro mana.h|%
+\tika{lak.sya.m\lem
+	\msNb\msCa\msKa\msL\edN; lak.sya \msW}%
+\tika{dhanurdeho\lem
+\msCa\msKa\msL\edN; dhanudeho \msNb; dhanu dehe \msW}%
+\tika{maurvii\lem
+\msCa\msL\edN; morvii \msNb; maurvii.m \msKa; saurvii \msW}
+
+buddhyaa niruupya veddhavya.m yathaa naanyatra gacchati|| 16:6||%
+\tika{niruupya\lem
+\msNb\msKa\msL\msW\edN; niruupa \msCa}%
+\tika{veddhavya.m\lem
+\msL\edN; vedhavya.m \msNb\msCa\msKa}%
+\tika{yathaa naanyatra\lem
+\msCa\msKa\msL\edN; yathaanyatra na \msNb}
+% NB: ruu and ru is not distingushed in \msW
+\newverse
+yathaiva hi dhanu.spaa.nirnityaabhyaasorjjito.api san|%
+\tika{dhanu.spaa.nirni@\lem
+\msL\edN; dhanu.spaa.nini@ \msNb\msCa\msW; dhanu.spaanirni@ \msKa}%
+\tika{nityaabhyaasorjjito.api\lem
+	 \edN; nityaabhyaasaajjito.api \msNb\msL; nityaabhyaasajito.api \msCa; 
+nityaabhyaasaarjito.apisan \msKa; nityaabhyaasojito.api san \msW}
+
+i.su.naiva hanellak.sya.m naak.sihastadhanurgu.nai.h|| 16:7||%
+\tika{i.su.naiva\lem
+\msL\msW\edN; i.sunaiva \msNb\msCa\msKa}
+\tika{hanellak.sya.m\lem
+\msCa(${not much clearly}$)\msKa\msL\msW\edN; hate/ne?lak.sya.m \msNb}%
+\tika{naak.sihastadhanurgu.nai.h\lem
+\msKa\msL\edN; naak.sihastadhanugu.nai.h \msCa(${not much clear}$)\msNb; 
+naastihastadhanugu.nai.h \msW} 
+\newverse
+tathaiva tyaktasa.mgena cittenaikena labhyate|%
+\tika{tyaktasa"ngena\lem
+\msKa\msL\msW\edN; tyaktasa.mj~nena \msNb; ${\rm not readable}$\msCa}%
+\tika{cittenaikena\lem
+\msKa\msL\msW\edN; cittenaikeva \msNb; ${\rm not readable}$ \msCa}%
+\tika{labhyate\lem
+\msNb\msKa\msL\msW\edN; labhya/bha?te.h \msCa}
+
+phala.m yogasya tacche.saa yantropakara.naa.h sm.rtaa.h|| 16:8||%
+\tika{tacche.saa\lem
+	 \msKa\msL\msW; tacche.so \msNb\msCa\edN}%
+\tika{@kara.naa.h\lem
+	\msNb\msCa\msKa\msL\edN; @kara.naa \msW}	 
+\newverse
+aadau puurakahastena dehacaapa.m prapuurayet|%
+\tika{puurakahastena\lem
+\msNb\msKa\msL\msW\edN; puurahastena \msCa}
+
+buddhid.r.s.tyaa tato yogii bindulak.sya.m niriik.sayet|| 16:9||%
+\tika{buddhid.r.s.tyaa\lem
+	\msNb\msCa\msL\edN; buddhid.r.s.taa \msKa; buddhid.r.s.thaa \msW}%
+\tika{bindulak.sya.m\lem
+	 \msL\msKa\msW; bindulak.sa.m \msNb\msCa\edN}
+\newverse
+aapuur.nadehacaapastha.m prerya naadagu.nena tu|%
+\tika{aapuur.nadehacaapastha.m\lem
+\msNb\msCa\msKa\msW\msL; aapuurya dehacaapastha.m \edN}%
+\tika{prerya\lem
+	\msNb\msCa\msKa\msL\edN; prarya \msW}
+\tika{naadagu.nena\lem
+	 \msCa\msL\edN; naada.m gu.nena \msNb; nadagu.nena \msKa; naadagu.nana \msW}
+
+praa.nayukta.m manobaa.na.m lak.syamadhye prapaatayet|| 16:10||%
+\tika{manobaa.na.m\lem
+	\msCa\msKa\msL\msW\edN; mano.saa.na.m \msNb}%
+\tika{lak.syamadhye prapaatayet\lem
+	\msNb\msKa\msL\msW\edN; ${\rm not readable}$ \msCa}
+\newverse
+g.rhastho brahmacaarii vaa vaanaprastho.athavaa yati.h|%
+\tika{g.rhastho brahmacaarii vaa vaanaprastho.athavaa yati.h\lem
+\msNb\msKa\msL\edN; ${\rm not readable}$ \msCa; 
+g.rhastho brahmacaarii vaa vaanasthestho.athavaa yati.h \msL}
+
+sa"ngatyaagii labhenmok.sa.m svakarmanirato.api san|| 16:11||%
+\tika{sa"ngatyaagii labhenmok.sa.m svakarmanirato.api san\lem
+	\msNb\msKa\msL\msW\edN; \lac\ svakarmanirato.api san \msCa}
+\newverse
+striibhi.h "suudrairg.rhasthairvaa mlecchairvar.naadhamairapi|%
+\tika{"suudrairg.rhasthairvaa\lem
+	\msNb\msKa\msL\edN; "suudrairg.rhasthaivaa \msCa; "suudraig.rhasthairvaa \msW}
+% mlechair \msW	
+
+labhyante karmayogaj~nairna jaatistatra kaara.nam|| 16:12||%
+\tika{@j~nairna\lem
+	\msNb\msCa\msKa\msL\edN; @j~nerna \msW}
+\newverse
+ti.s.thangacchansvapanbhu~njankarma.naa vyaav.rto.api san|%
+\tika{ti.s.than gacchan svapan bhu~njan\lem
+\msKa\msL\msW\edN; ti.s.than svapan bhu~njan \msCa; 
+ti.s.tha.mgaccha.m svapa.m bhu~nja.m \msNb}%
+\tika{vyaav.rto.api\lem
+\msNb\msCa\msL\msW; vyaapito.api \msKa; vyaap.rto.api \edN}
+
+cittenaikena yo lak.sya.m karmayogii na mu~ncati|| 16:13||%
+\tika{cittenaikena\lem
+\msNb\msCa\msL\msW; cittenekena \msKa; citrenaikena \edN}%
+\tika{na mu~ncati\lem
+\msCa\msKa\msL\msW\edN; nimu~ncati \msNb}
+\newverse
+manasaa dhaarayetpraa.naanpraa.naayaamaistathaa mana.h|%
+\tika{praa.naan\lem
+\msCa\msKa\msW\edN; praa.naa \msNb; \lac\ \msW}%
+\tika{@maistathaa mana.h\lem
+	\msNb\msCa\msKa\msW\edN; @mai manastathaa \msL}
+
+eva.m dhyaayetpara.m brahma  naanyatki~ncidvicintayet|| 16:14||%
+\tika{dhyaayetpara.m brahma\lem
+\msKa\msL\edN; ${\rm not readable}$ \msCa; 
+vyaayetpara.m brahma \msNb; dhyaayaitpara.m brahma \msW}%
+\tika{vicintayet\lem
+\msNb\msCa\msL\msW; vivattayet \msKa; vivarttayet \edN}
+\newverse
+diirghaa.nya"ngaani vinyaasa.m hrasva.m vaktra.m tathaiva ca|%
+\tika{diirghaa.nya"ngaani\lem
+\msL\msW\edN; diirghaanya"ngaani \msNb\msCa\msKa}%
+\tika{hrasva.m\lem
+	\msNb\msKa\edN; hrasvaan \msCa\msL; hrasvaad \msW}%
+\tika{vaktra.m tathaiva\lem
+	\msCa\msKa\msL\msW\edN; vaktrastathaiva \msNb}
+
+ha.msa ha.mseti yo var.na.m varjayetparama.m padam|| 16:15||%
+\tika{ha.msa ha.mseti\lem
+\msNb\msCa\edN; ha.msa haseti \msKa; hansa.m ha.mseti}%
+\tika{var.na.m\lem
+\msNb\msKa\msW\edN; var.naan \msCa\msL}%
+\tika{varjayet\lem
+\msNb\msCa\msKa\msL; var.nayet \msW; varjarttayet \edN}
+\newverse
+praa.naayaama.m prakurviita pari"sraanto bhavedyadaa|%
+\tika{@"sraanto\lem
+	\msNb\msCa\msKa\edN; @"saanto \msW; @"sraaddho \msL}
+
+kevala.m maanasa.m yoga.m tadaa yogii samaarabhet|| 16:16||%
+\tika{kevala.m\lem
+	\msNb\msKa\msL\msW\edN; kevala \msCa}%
+\tika{maanasa.m\lem
+	\msNb\msL\edN; maasana.m \msCa; manasa.m \msKa; maanaso \msW}%
+\tika{yoga.m\lem
+	\msCa\msW\edN; yogii \msNb; yoga \msKa; yoga.mn \msL}
+\newverse
+tatsambandhaa.m kathaa.m vaapi kuryaajjaapa.m ca maanasam|%
+\tika{tatsambandhaa.m kathaa.m\lem
+\msNb\msCa; yatsa.mbaddhaa.m katha.m \msKa; tatsambandhaan kathaa.m \msL; 
+tatsambandhakathaa \msW; tatsambaddha.m katha.m \edN}
+
+na tu "suunyena manasaa bhavitavya.m tadaa budhai.h|| 16:17||%
+\tika{"suunyena\lem
+	\msNb\msCa\msL\edN; suunyena \msKa; j~naanyena \msW}%
+\tika{tadaa\lem
+	\msNb\msKa\msL\msW\edN; tathaa \msCa(${this line is not much clear}$)}%
+\tika{budhai.h\lem
+	\msCa\msKa\msL\msW\edN; budhai \msNb (${not much clear}$)}
+\newverse
+yadaa "suunyaa bhavedbuddhistanmaatre.svanurajyate|%
+\tika{tanmaatre.svanurajyate\lem
+\msCa\msKa\msL\msW; tanmaatennarajyate \msNb; tasmaatte.svanurajyate\edN}
+
+tato labdhvaavakaa"saistairindriyairhriyate mana.h|| 16:18||%
+\tika{labdhvaavakaa"saistairindriyairhriyate\lem
+ \emend; labdhvaavakaasaistairindriyaihriyate \msNb; 
+ labdhvaavakaa"saistairindriyaihriyate \msCa; 
+ labdhaavakaasaistairindriyaihriyate \msKa; 
+ labdhvaavakaa"saistairindriyaihriyate \msL\msW; 
+ labdhvaavakaa"santairindriyairhiyate \edN}
+\newverse
+tasmaatsarvaprayatnena cittamaadau vi"sodhayet|%
+\tika{@yatnena\lem
+	\msNb\msCa\msKa\msW\edN; @yatne \msL\hypometrical}%
+\tika{cittamaadau\lem
+	\msCa\msKa\msL\msW\edN; cittimaadau \msNb}
+
+yogina.h "suddhacittasya siddhirhastatale sthitaa|| 16:19||%
+\tika{siddhirhastatale\lem
+	\msNb\msCa\msKa\msL\edN; siddhi hastale \msW\hypometrical}%
+\tika{sthitaa\lem
+\msNb\msKa\msL\msW\edN; sthita.h \msCa}
+\newverse
+ruupaadiinpraapya vik.rti.m gacchanti nayanaadaya.h|%
+\tika{ruupaadiinpraapya\lem
+\msKa\msL\edN; ruupaadii.m praapya \msNb; 
+ruupaadiinapraapya \msCa; ruupaadi praapya \msW}%
+\tika{nayanaadaya.h\lem
+	\msNb\msCa\msKa\msL\msWpc\edN; nayadaanaadaya.h \msWac\hypermetrical}
+
+nirvikaaraa bhavantyete tanmaatraa.naamasambhave|| 16:20||%
+\tika{bhavantyete\lem
+\msNb\msCa\edN; bhantyete \msKa\hypometrical; bhavantyate \msW}%
+\tika{tanmaatraa.naamasambhave\lem
+	 \msKa\msL\msW\edN; tanmaatraa.naamasambhavet \msCa; 
+	 tanmaatraanaamasambhavai \msNb}	
+\newverse
+tasmaadruupaadayo.anityaa "suunyaa ityapi bhaavayet|%
+\tika{tasmaadruupaadayo.anityaa\lem
+\msNb\msL; ${\rm not readable}$\msCa; 
+tanmaaduupaadayo.anityaa \msKa; tasmaadruupaadayo.anityaa.h \msW; 
+tasmaadruupaadayo mithyaa.anityaa \edN}%
+\tika{"suunyaa\lem
+	\msKa\msL\msW\edN; ${\rm not readable}$ \msCa; suunyaa \msNb}
+
+tadabhaavaadindriyaa.naa.m "suddhi.h samupajaayate|| 16:21||%
+\tika{tadabhaavaadindriyaa.naa.m\lem
+\msCa\msKa\msL\msW\edN; tadaabhaavaadindriyaa.naa.m \msNb}%
+\tika{"suddhi.h\lem
+\msCa\msKa\msL\msW\edN; suddhi.h \msNb}
+\newverse
+heto.h sakaa"saajjaayante sukhadu.hkhaadibuddhaya.h|%
+\tika{heto.h sakaa"saajjaayante\lem
+\msCa\msL\edN; heto.h sakaa"saajaayante \msNb; heto sakaasaajjaayante \msKa; 
+sakaa"saajjaayante \msW\hypometrical}
+
+niraa"srayasya cittasya vikalpo naiva vidyate|| 16:22||%
+\tika{niraa"srayasya\lem
+	\msCa\msKa\msL\msW\edN; na?raa"srayasya \msNb}
+\newverse
+tasmaaddhetorabhaavatva.m "suunyatva.m vaapi bhaavayet|%
+\tika{tasmaaddheto@\lem
+	\msNb\msKa\msL\msW\edN; tasmaaheto@ \msCa}%
+\tika{"suunyatva.m vaapi\lem
+\msKa\msW\edN; "suunyatva.m ~ncaapi \msCa; 
+suunyatva.m vaapi \msNb; "suunyatva.m caapi \msL}
+
+nimittaabhaavayogaattu na vikalpamano bhavet|| 16:23||%
+\tika{@yogaattu\lem
+\msNb\msCa\msL\msW; @yogantu \msKa\edN}%
+\tika{na vikalpamano\lem
+\msNb\msCa\msKa\msL\msW; nirvikalpa.m mano \edN}
+\newverse
+ityete .so.da"sa proktaa upaayaa yogasaadhanaa.h|%
+\tika{ityete\lem
+	\msNb\msCa\msKa\msL\edN; ityeta \msW}%
+\tika{@saadhanaa.h\lem
+	\msNb\msCa\msKa\msW\edN; @saadhakaa \msL}
+
+taansamyagyo.abhijaanaati sa yogiityabhidhiiyate|| 16:24||%
+\tika{taansamyagyo.abhijaanaati sa yogiityabhidhiiyate\lem
+\msNb\msL\edN; \lac\ giityabhidhiiyate \msCa; 
+taansamyagyo vijaanaati sa yogiityabhidhiiyate \msKa; 
+taansamyagyo.abhijaanaati sa ma yogiityavidhiiyate \msW}
+\newverse
+aalokyaatyantaguu.dhaartha.m "saastra.m sanakanirmitam|%
+\tika{@guu.dhaartha.m\lem
+\msNb\msCa\msW; @guhyartha.m \edN;
+ @gukaa/hya?rtha.m \msKa; muu.dhaartha.m \msL}
+
+vastumaatra.m samaadaaya dharma"siilasya suununaa|| 16:25||%
+\tika{suununaa\lem
+	\msNb\msKa\msL\msW\edN; "suununaa \msCa}
+\newverse
+sukhaavabodhaa baalaanaa.m granthitaa sa.mhitaa mayaa|%
+\tika{sukhaavabodhaa baalaanaa.m\lem
+	\msKa\edN; sukhaavabodhaa balaanaa.m \msNb\msL; 
+	sukhaavabodhabaanaa.m \msCa; sukhaavabodhabaalyataa \msW}%
+\tika{granthitaa\lem
+	\msNb\msCa\msKa; grachitaa \msW; prathitaa \edN}
+
+niruupya daatumarhanti do.saantyaktvaa manii.si.na.h|| 16:26||%
+\tika{daatumarhanti\lem
+\msNb\msCa\msL\edN; daatumahanti \msKa; daatumarhasi \msW}%
+\tika{do.saantyaktvaa\lem
+\msNb\msCa\msKa\msL\msW; do.saa.mstyaktvaa \edN}%
+\tika{manii.si.na.h\lem
+\msCa\msKa\msL\msW\edN; ma.nii.si.na.h \msNb}
+\newverse
+ye cittaani sut.r.s.nayaiva satata.m kli"syanti ye caapare%
+\tika{cittaani\lem
+\msCa\msKa\msL\msW\edN; cintaani \msNb}%
+\tika{kli"syanti\lem
+\msCa\msKa\msL\msW\edN; kli.syanti \msNb}
+
+svaamyaaj~naa"srava.nasp.rhaadanudina.m ti.s.thanti raajaa"nga.ne|%
+\tika{svaamyaaj~naa"srava.nasp.rhaad\lem
+\msNb; ${\rm not readable}$ \msCa; svaamyaaj~na"srava.nasp.rhaa \msKa; 
+svaamyaaj~naa"srava.nasp.rhaa \edN}%
+\tika{raajaa"nga.ne\lem
+	\msL\msW; raajaa"ngane\msKa\edN; 
+	raajaa"nga.na \msNb; ${\rm not readable}$ \msCa}
+
+ye caanye madiraasavaadivividhaasvaadena sammuurcchitaas-%
+\tika{caanye\lem
+	\msNb\msCa\msKa\msW\edN; caanyai \msL}%
+\tika{madiraasavaadivividhaasvaadena\lem
+	\msNb\msKa\msL\edN; madiraa"savaadavividhaasvaadena \msCa; 
+	madaarraasavaadivividhaasvaadena \msW}%
+\tika{sammuurcchitaa@\lem
+	\msCa\msL\msW\edN; sammuucchitaa@ \msNb; sa.mmuurcchataa@ \msKa}
+
+tairyogasya phala.m sataa.m bahumata.m naasvaadyate tatsukham|| 16:27||%
+\tika{sataa.m\lem
+\msKa\msL\msW\edN; "sataa.m \msCa; "sataa \msNb}%
+\tika{naasvaadyate tatsukham\lem
+\msCa\msL\msW\edN; naasvaadya tatsukham \msNb; naasvaadyate tanmukha.m \msKa}
+
+\medskip
+\centerline{\sssan
+|| \flourish\ || iti dharmaputrikaayaa.m sa.mhitaayaa.m siddhyupaayo naama .so.da"sa.h pa.tala.h||| \flourish\ ||}%
+\tika{iti dharmaputrikaayaa.m sa.mhitaayaa.m\lem
+\msNb\edN\msKa; dharmaputrikaayaa.m \msCa\msL\msW}%
+\tika{siddhyupaayo\lem
+\msCa\msKa\msL\edN; siddhyupaaya.m \msNb}%
+\tika{.so.da"sa.h pa.tala.h\lem
+\edN; .so.da"sama.h pa.tala.h samaapta.h \msCa\msKa\msL; 
+.sa.dda"sama.h pa.tala.h samaapta.h \msNb; 
+.so.da"samo.adhyaaya.h samaapta.h \msW}
+
+\pend
+\endnumbering
+$
+\bye

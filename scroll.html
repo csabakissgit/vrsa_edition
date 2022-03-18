@@ -1,0 +1,1687 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <title>Csaba</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+</head>
+
+
+
+<style>
+
+.text, .translation, .notes, .msimage {
+
+    width:50%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    overflow:scroll;
+    line-height:1.5em;
+
+}
+
+.text {
+    top: 0;
+    font-size: 110%;
+    height: 60%;
+    width:50%;
+    background-color: #fdfde7;  
+    overflow:scroll-y;
+    padding:30px;
+}
+
+.translation {
+
+    top: 60%;
+    left: 0%;
+    width:50%;
+    bottom: 0%;
+    height: 62%;
+    overflow:scroll-y;
+    background-color: #e6f7ff;  
+    font-style: normal;  
+    padding:30px;
+}
+
+
+.notes {
+    top: 0%;
+    left: 53%;
+    width: 46%;
+    bottom: 0%;
+    height: 60%;
+    overflow:scroll-y;
+    background-color: #e6ffe6;  
+    font-style: normal;  
+    padding:10px;
+    font: normal 1em palatino; 
+}
+
+.msimage {
+    top: 60%;
+    left: 53%;
+    width: 46%;
+    bottom: 0%;
+    height: 68%;  overflow: scroll;
+    background-color: #e6efe6;  
+    font-style: normal;  
+    padding:10px;
+    font: normal 1em palatino; 
+}
+
+
+.tooltip-wrap {
+  display: inline;
+  position: relative;
+  color: black; 
+}
+
+.tooltip-wrap:active{
+  opacity: 1;
+  font-style: italic;
+transition: opacity 6s;
+/*  color: blue;
+  font-size: 1.2em; */
+}
+
+.tooltip-wrap .tooltip-content {
+  display: none;
+  position: relative;
+  top: 0%;
+  right: 10%;
+  left: 5%;
+  padding: .5em;
+  bottom: 125%;
+  width: 80%;
+  font-size: .8em;
+  border: dotted;
+  color: grey; 
+}
+
+
+
+
+ @media only screen and (max-width: 700px) {
+.tooltip-wrap:hover .tooltip-content {
+
+	display: block;
+  font-weight: normal;
+  font-style: normal;
+}
+}
+
+ @media only screen and (min-width: 701px) {
+.tooltip-wrap:active .tooltip-content {
+	display: block;
+  font-weight: normal;
+  font-style: normal;
+}
+}
+
+th, td {
+  padding: 1px;
+  text-align: left;
+}
+
+
+TEXT {
+	display: block;
+}
+
+
+PARAL {
+	display: block;
+	color: blue;
+}
+
+
+TRCHAPTER {
+	display: block;
+     font-weight: bold;
+	color: #cc8800;
+	font-size: 120%;
+}
+
+
+CHAPTER {
+	display: block;
+  font-weight: bold;
+	color: #cc8800;
+	font-size: 120%;
+}
+
+
+CHAPTER:before {
+	content: "["}
+CHAPTER:after {
+	content: "]"}
+
+APP {
+	display: block;
+	}
+
+
+
+SUBCHAPTER {
+	display: block;
+  font-weight: bold;
+	color: #cc8800;}
+
+SUBCHAPTER:before {
+	content: "["}
+SUBCHAPTER:after {
+	content: "]"}
+
+LEM {
+
+ 	color: #cc8800;
+}
+
+sub {
+	font-size:70%;
+}
+sup {
+	font-size:10%;
+}
+
+
+vsnum {font-size: 1em;
+	color: #cc8800;
+	}
+
+a  { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #cc8800;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #cc8800;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: none; 
+	color: orange;
+	}
+
+
+
+
+/* Style The Dropdown Button */
+.dropbtn {
+  font-size: 10px;
+  border: none;
+  cursor: pointer;
+  background-color: #fdfde7;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 5px;
+  font-size: 1em;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+
+
+</style>
+
+<body>
+
+
+
+
+    <div class="text">
+
+
+
+
+
+
+<CHAPTER>vṛṣasārasaṃgrahe dvitīyo 'dhyāyaḥ</CHAPTER>
+
+
+<div class="tooltip-wrap">
+<TEXT> <a>विगतराग उवाच</a>  | </TEXT>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.1ab"> श्रुतं मया जनाग्रेण ब्रह्माण्डस्य तु निर्णयम् |</TEXT>
+<div class="tooltip-content">
+
+        <APP>1a <LEM>janāgreṇa</LEM> ] <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; janā×× <ms>C<sub>95</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.1cd"> प्रमाणं वर्णरूपं च संख्या तस्य समासतः ||<vsnum>2.1</vsnum>||</TEXT>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.2ab"> śivāṇḍeti tvayā prokto brahmāṇḍālayakīrtitaḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>2b <LEM>brahmāṇḍā°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; brahmāṇḍa <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.2cd"> kīdṛśaṃ lakṣaṇaṃ jñeyaṃ pramāṇaṃ tasya vā kati ||<vsnum>2.2</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>2c <LEM>jñeyaṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; jñeyā <ms>C<sub>02</sub></ms></APP>
+
+        <APP>2d <LEM>kati</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; katiḥ <ms>C<sub>02</sub></ms></APP>
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.3ab"> kasya vālayanaṃ jñeyaṃ pramāṇaṃ vātra vāsinaḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>3a <LEM>layanaṃ jñeyaṃ</LEM> ] <ms>C<sub>95</sub><ms>C<sub>02</sub></ms></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; layanaṃ <ms>C<sub>45</sub></ms>, lakṣaṇaṃ jñeyaṃ <ms>E</ms></APP>
+
+        <APP>3b <LEM>vāsinaḥ</LEM> ] <ms>C<sub>95</sub><ms>C<sub>02</sub></ms></ms><ms>K<sub>82</sub></ms><ms>E</ms>; vāsirānaḥ <ms>C<sub>45</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.3cd"> kā vā tatra prajā jñeyā ko vā tatra prajāpatiḥ ||<vsnum>2.3</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>3c <LEM>kā</LEM> ] <i>eme.</i>; ko <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>, kiṃ <ms>E</ms> •
+
+                 <LEM>prajā jñeyā</LEM> ] <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; pra≀jā≀×yā <ms>C<sub>95</sub></ms></APP>
+
+         
+
+
+</div>
+</div>
+<SUBCHAPTER>śivāṇḍasaṃkhyā</SUBCHAPTER>
+
+
+<div class="tooltip-wrap">
+<TEXT><uvaca> anarthayajña uvāca | </uvaca></TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.4ab"> śivāṇḍalakṣaṇaṃ vipra na tvaṃ praṣṭum ihārhasi |</TEXT>
+<div class="tooltip-content">
+
+        <APP>4b <LEM>na tvaṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; tatvaṃ <ms>E</ms> •
+
+                 <LEM>°rhasi</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °hasi <ms>K<sub>07</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.4cd"> daivatair api kā śaktir jñātuṃ draṣṭuṃ ca tattvataḥ ||<vsnum>2.4</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>4c <LEM>daivatai°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; devatai° <ms>C<sub>02</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms> •
+
+                 <LEM>śaktir</LEM> ] <ms>C<sub>95</sub></ms>; śakti <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.5ab"> agamyagamanaṃ guhyaṃ guhyād api samuddhitam |</TEXT>
+<div class="tooltip-content">
+
+        <APP>5a <LEM>agamyagamanaṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; agamyagagahanaṃ <ms>C<sub>02</sub></ms>, agamyagagamanaṃ <ms>K<sub>07</sub></ms></APP>
+
+        <APP>5b <LEM>guhyā°</LEM> ] <ms>K<sub>07</sub></ms><ms>E</ms>; guhā° <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms> •
+
+                 <LEM>samuddhitam</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms>, samraddhitaṃ <ms>K<sub>07</sub></ms>, samṛddhidam <ms>E</ms></APP>
+
+         <PARAL>5ab <SKT>cf. Liṅgapurāṇa 1.21.71ab: </SKT> namo guṇyāya guhyāya agamyagamanāya ca</PARAL>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.5cd"> na prabhur netaras tatra na daṇḍyo na ca daṇḍakaḥ ||<vsnum>2.5</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>5c <LEM>prabhur ne</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; prane° <ms>C<sub>02</sub></ms></APP>
+
+        <APP>5d <LEM>daṇḍyo</LEM> ] <ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; daṇḍo <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms>, daṇḍyā <ms>E</ms> •
+
+                 <LEM>daṇḍakaḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; ṇḍakaḥ <ms>C<sub>45</sub></ms><sup>ac</sup>, paṇḍakaḥ <ms>C<sub>45</sub></ms><sup>pc</sup></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.6ab"> na satyo nānṛtas tatra suśīlo no duḥśīlavān |</TEXT>
+<div class="tooltip-content">
+
+        <APP>6a <LEM>satyo</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; satyau <ms>E</ms> •
+
+                 <LEM>tatra</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; tatrā <ms>E</ms></APP>
+
+        <APP>6b <LEM>no</LEM> ] <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; × <ms>C<sub>95</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.6cd"> nānṛjur na ca dambhitvaṃ na tṛṣṇā na ca īrṣyatā ||<vsnum>2.6</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>6c <LEM>nānṛjur na</LEM> ] <i>eme.</i>; nāṛjur nna <ms>C<sub>95</sub></ms><ms>E</ms>, nāṛjur na <ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms>, nāṛjun na <ms>K<sub>82</sub></ms>,
+
+                                                ≀nāṛju na≀ <ms>C<sub>02</sub></ms></APP>
+
+        <APP>6d <LEM>na tṛṣṇā na ca</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>;  na ca tṛṣṇā na <ms>K<sub>82</sub></ms> •
+
+                <LEM>īrṣyatā</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; īrṣyatāḥ <ms>C<sub>02</sub></ms>, irṣyatā <ms>E</ms></APP>
+
+        
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.7ab"> na krodho na ca lobho 'sti na māno 'sti na sūyakaḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>7a <LEM>krodho</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; krodhau <ms>C<sub>02</sub></ms></APP>
+
+        <APP>7b <LEM>sūyakaḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; sūcakaḥ <ms>C<sub>45</sub></ms>, steyakaḥ <ms>E</ms> (<i>unmetrical</i>)</APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.7cd"> īrṣyā dveṣo na tatrāsti na śaṭho na ca matsaraḥ ||<vsnum>2.7</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+         <APP>7d <LEM>śaṭho</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; ṣaṭho <ms>C<sub>02</sub></ms>, śaṭhe <ms>E</ms> •
+
+                  <LEM>matsaraḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms>; matsarāḥ <ms>E</ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.8ab"> na vyādhir na jarā tatra na śoko 'sti na viklavaḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>8a <LEM>vyādhir na</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; vyādhi na <ms>C<sub>02</sub></ms><ms>K<sub>07</sub></ms> •
+
+                 <LEM>jarā tatra</LEM> ] <ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms>; jarās tatra <ms>C<sub>95</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms></APP>
+
+        <APP>8b <LEM>viklavaḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; viklava <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.8cd"> nādhamaḥ puruṣas tatra nottamo na ca madhyamaḥ ||<vsnum>2.8</vsnum>||</TEXT>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.9ab"> notkṛṣṭo mānavas tasmin striyaś caiva śivālaye |</TEXT>
+<div class="tooltip-content">
+
+        <APP>9a <LEM>mānava°</LEM> ] <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; mā×va° <ms>C<sub>95</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.9cd"> na nindā na praśaṃsāsti matsarī piśuno na ca ||<vsnum>2.9</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>9c <LEM>praśaṃsāsti</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; praśaṃsāś ca <ms>E</ms></APP>
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.10ab"> garvadarpaṃ na tatrāsti krūramāyādikaṃ tathā |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.10cd"> yācamāno na tatrāsti dātā caiva na vidyate ||<vsnum>2.10</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>10c <LEM>tatrāsti</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><sup>pc</sup><ms>E</ms>; tatrā <ms>K<sub>82</sub></ms><sup>ac</sup></APP>
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.11ab"> anarthī vraja tatrasthaḥ kalpavṛkṣasamāśritaḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>11a <LEM>vraja ta°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; vrajas ta° <ms>K<sub>07</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.11cd"> na karma nāpriyas tatra na kaliḥ kalaho na ca ||<vsnum>2.11</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>11c <LEM>karma nā°</LEM> ] <i>eme.</i>; karma na <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>, karmaṇā <ms>E</ms></APP>
+
+        <APP>11d <LEM>kaliḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><sup>pc</sup>; kali <ms>K<sub>07</sub></ms><sup>ac</sup><ms>E</ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.12ab"> dvāparo na ca na tretā kṛtaṃ cāpi na vidyate |</TEXT>
+<div class="tooltip-content">
+
+        <APP>12a <LEM>ca na tretā</LEM> ] <ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; ca na tretrā <ms>C<sub>95</sub></ms>, ca tretā na <ms>C<sub>45</sub></ms></APP>
+
+        <APP>12b <LEM>kṛtaṃ cā°</LEM> ] <ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms>; kṛtaś cā° <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.12cd"> manvantaraṃ na tatrāsti kalpaś caiva na vidyate ||<vsnum>2.12</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>12c <LEM>manvantaraṃ na tatrāsti</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; 
+
+                                manvantatrāsti <ms>C<sub>02</sub></ms>,
+
+                                manvantarananta tatrāsti <ms>K<sub>07</sub></ms></APP>
+
+        <APP>12d <LEM>kalpaś caiva</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; kalpaṃ caiva <ms>K<sub>82</sub></ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.13ab"> āhūtasamplavaṃ nāsti brahmarātridinaṃ tathā |</TEXT>
+<div class="tooltip-content">
+
+        <APP>13a <LEM>āhūta°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; ābhūta° <ms>E</ms></APP>
+
+        <APP>13b <LEM>brahmarātridinaṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; brahmarātridivas <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.13cd"> na janmamaraṇaṃ tatra āpadaṃ nāpnuyāt kvacit ||<vsnum>2.13</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>13c <LEM>janmamaraṇaṃ tatra</LEM> ] <ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; janmaraṇaṃ tatra <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms>,
+
+                                                janmamaraṇantrata <ms>K<sub>07</sub></ms></APP>
+
+        <APP>13d <LEM>āpadaṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; apadaṃ <ms>E</ms></APP>
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.14ab"> na cāśāpāśabaddho 'sti rāgamohaṃ na vidyate |</TEXT>
+<div class="tooltip-content">
+
+        <APP>14a <LEM>cāśāpāśa°</LEM> ] <ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms><sup>pc</sup>; ca sāyāśa° <ms>C<sub>95</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><sup>ac</sup><ms>E</ms> • 
+
+                 <LEM>°baddho</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; °ddho <ms>C<sub>02</sub></ms>, °vṛddho <ms>E</ms></APP>
+
+        <APP>14b <LEM>°mohaṃ</LEM> ] <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; °moho <ms>C<sub>95</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.14cd"> na devā nāsurās tatra na yakṣoragarākṣasāḥ ||<vsnum>2.14</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>14c <LEM>devā</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; devo <ms>C<sub>45</sub></ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.15ab"> na bhūtā na piśācāś ca gandharvo ṛṣayas tathā |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.15cd"> tārā grahaṃ na tatrāsti nāgakiṃnaragāruḍam ||<vsnum>2.15</vsnum>||</TEXT>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.16ab"> na japo nāhnikas tatra nāgnihotrī na yajñakṛt |</TEXT>
+<div class="tooltip-content">
+
+        <APP>16a <LEM>japo</LEM> ] <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; jayo <ms>C<sub>95</sub></ms> •
+
+                 <LEM>nāhnikas ta°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; nāhnika ta° <ms>C<sub>45</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.16cd"> na vrataṃ na tapaś caiva na tiryaṅnarakaṃ tathā ||<vsnum>2.16</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>16d <LEM>na tiryaṅnarakaṃ</LEM> ] <i>eme.</i>; nātiryannarakas <ms>C<sub>95</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms>,
+
+                                 nātiryanarakan <ms>C<sub>45</sub></ms>, nātriryaṃ narakas <ms>K<sub>07</sub></ms>, na tīrthannarakan <ms>E</ms></APP>
+
+        <PARAL>16d <SKT>Cf. 19.48cd: </SKT>viśiṣṭhe tv indriyagrāme tiryannarakasādhanam</PARAL>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.17ab"> tasyeśānasya devasya aiśvaryaguṇavistaram |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.17cd"> api varṣaśatenāpi śakyaṃ vaktuṃ na kenacit ||<vsnum>2.17</vsnum>||</TEXT>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.18ab"> harecchāprabhavāḥ sarve paryāyeṇa bravīmi te |</TEXT>
+<div class="tooltip-content">
+
+        <APP>18a <LEM>harecchāprabhavāḥ</LEM> ] <ms>K<sub>07</sub></ms>; harecchaprabhavāḥ <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms>, harecchāprabhavā <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.18cd"> devamānuṣavarjyāni vṛkṣagulmalatādayaḥ ||<vsnum>2.18</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>18c <LEM>varjyāni</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; vajjñāni <ms>E</ms></APP>
+
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.19ab"> parārdhadviguṇotsedhā vistāraś ca tathāvidhaḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>19a <LEM>°guṇotsedhā</LEM> ] <i>conj.</i>; °guṇocchedhā <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>, °guṇecchedhā <ms>C<sub>02</sub></ms>, °guṇācchredhā <ms>E</ms></APP>
+
+        <APP>19b <LEM>vistāraś ca</LEM> ] <ms>K<sub>07</sub></ms>; vistāraṃ ca <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms> •
+
+                 <LEM>°vidhaḥ</LEM> ] <ms>K<sub>07</sub></ms>; °vidhā <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.19cd"> anekākārapuṣpāṇi phalāni ca manoharam ||<vsnum>2.19</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>19c <LEM>anekākāra°</LEM> ] <ms>C<sub>02</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; anekāra° <ms>C<sub>02</sub></ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.20ab"> anye kāñcanavṛkṣāṇi maṇivṛkṣyāṇy athāpare |</TEXT>
+<div class="tooltip-content">
+
+        <APP>20a <LEM>anye</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; bahu° <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.20cd"> pravālamaṇiṣaṇḍāś ca padmarāgaruhāni ca ||<vsnum>2.20</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>20c <LEM>ṣaṇḍāś ca</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; ghaṇṭāś ca <ms>E</ms></APP>
+
+        <APP>20d <LEM>°ruhāni</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; °ruhāṇi <ms>C<sub>02</sub></ms>, °sahāni <ms>E</ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.21ab"> svādumūlaphalāskandalatāviṭapapādapāḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>21a <LEM>svādu°</LEM> ] <ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; svādhu° <ms>C<sub>95</sub></ms> •
+
+                 <LEM>°mūla°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>C<sub>02</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; °mūlā <ms>K<sub>82</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.21cd"> kāmarūpāś ca te sarve kāmadāḥ kāmabhāṣiṇaḥ ||<vsnum>2.21</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+
+
+        <NOTE>After kāmarū°, MS <ms>C<sub>02</sub></ms> has some folios missing and resumes only at 3.XX. CHECK Florinda's pics!</NOTE>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.22ab"> tatra vipra prajāḥ sarve anantaguṇasāgarāḥ |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.22cd"> tulyarūpabalāḥ sarve sūryāyutasamaprabhāḥ ||<vsnum>2.22</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>22c <LEM>°bālāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; °varāḥ <ms>E</ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.23ab"> parārdhadvayavistāraṃ parārdhadvayam āyatam |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.23cd"> parārdhadvayavikṣepā yojanānāṃ dvijottama ||<vsnum>2.23</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>23c <LEM>°dvaya°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><sup>pc</sup><ms>K<sub>07</sub></ms>; °dva° <ms>K<sub>82</sub></ms><sup>ac</sup> •
+
+                 <LEM>vikṣepā</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; vijñeyā <ms>E</ms></APP>
+
+        <APP>23d <LEM>°ttama</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; °ttamaḥ <ms>K<sub>82</sub></ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.24ab"> aiśvaryatvaṃ na saṃkhyāsti balaśaktiś ca bho dvija |</TEXT>
+<div class="tooltip-content">
+
+        <APP>24b <LEM>balaśaktiś ca bho dvija</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><sup>pc</sup><ms>K<sub>07</sub></ms>; 
+
+                                        <i>omitted in</i> <ms>K<sub>82</sub></ms><sup>ac</sup>, tava śaktiś ca bho dvija <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.24cd"> adhordhvo na ca saṃkhyāsti na tiryañ caiti kaścana ||<vsnum>2.24</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>24c <i>omitted in</i> <ms>K<sub>82</sub></ms><sup>ac</sup></APP>
+
+        <APP>24d <LEM>na tiryañ caiti kaścana</LEM> ] <ms>K<sub>82</sub></ms><sup>pc</sup><ms>K<sub>07</sub></ms>;
+
+                                                na tiryañ ceti kaścana <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>, 
+
+                                                na tiryaṃ ceti kaścana <ms>K<sub>82</sub></ms><sup>ac</sup></APP>
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+  
+
+<TEXT pada="2.25ab">śivāṇḍasya ca vistāram āyāmaṃ ca na vedmy aham|</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.25cd"> bhogam akṣayas tatraiva janmamṛtyur na vidyate ||<vsnum>2.25</vsnum>||<div class="dropdown"><button class="dropbtn">+</button>
+  <div class="dropdown-content">
+    <a href="ca_388.jpg" target="_blank"><ms>C<sub>95</sub></ms></a>
+    <a href="cb_409.jpg"  target="_blank"><ms>C<sub>45</sub></ms></a>
+    <a href="#"><ms>K<sub>82</sub></ms></a>
+  </div>
+</div>
+</TEXT>
+
+
+
+<div class="tooltip-content">
+
+        <APP>25c <LEM>bhogam akṣayas</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; bhogamayās tu <ms>E</ms></APP>
+
+       
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.26ab"> śivāṇḍamadhyam āśritya gokṣīrasadṛśaprabhāḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>26b <LEM>prabhāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; prabhā <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.26cd"> parārdhaparakoṭīnām īśānānāṃ smṛtālayaḥ ||<vsnum>2.26</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>26d <LEM>°śānānāṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °gānānāṃ <ms>K<sub>07</sub></ms> •
+
+                 <LEM>smṛtālayaḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>07</sub></ms>; smṛtālaya <ms>C<sub>45</sub></ms>, smṛtālayaṃ <ms>K<sub>82</sub></ms>, smṛtālayā <ms>E</ms></APP>
+
+         
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.27ab"> bālasūryaprabhāḥ sarve jñeyās tatpuruṣālaye |</TEXT>
+<div class="tooltip-content">
+
+        <APP>27a <LEM>°bhāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; °bhā <ms>E</ms></APP>
+
+        <APP>27b <LEM>jñeyās ta°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms>; jñeyā ta° <ms>K<sub>82</sub></ms><ms>E</ms> •
+
+                 <LEM>ālaye</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; ālayaṃ <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.27cd"> parārdhaparakoṭīnāṃ pūrvasyāṃ diśam āśritāḥ ||<vsnum>2.27</vsnum>||</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.28ab"> bhinnāñjanaprabhāḥ sarve dakṣiṇāṃ diśam āśritāḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>28ab <i>omitted in</i> <ms>C<sub>95</sub></ms><sup>ac</sup> </APP>
+
+        <APP>28a <LEM>°prabhāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; °prabhā <ms>E</ms></APP>
+
+        <APP>28b <LEM>dakṣiṇāṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; dakṣiṇa° <ms>E</ms> •
+
+                 <LEM>diśam</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; diśim <ms>C<sub>45</sub></ms><ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.28cd"> parārdhaparakoṭīnām aghorālayam āśritāḥ ||<vsnum>2.28</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>28d <LEM>°ghorā°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; °dhorā° <ms>E</ms> •
+
+                 <LEM>āśritāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; āśritā <ms>E</ms></APP>
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.29ab"> kundenduhimaśailābhāḥ paścimāṃ diśam āśritāḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>29b <LEM>paścimāṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; paścimā <ms>C<sub>45</sub></ms> •
+
+                 <LEM>diśa°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; diśi° <ms>K<sub>07</sub></ms> •
+
+                 <LEM>°śritāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; °śritā <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.29cd"> parārdhaparakoṭīnāṃ sadyamiṣṭālayaḥ smṛtaḥ ||<vsnum>2.29</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>29d <LEM>sadyamiṣṭā°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; sadyamiṣṭvā° <ms>K<sub>82</sub></ms> •
+
+                 <LEM>smṛtaḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; smṛtāḥ <ms>C<sub>45</sub></ms></APP>
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.30ab"> kuṅkumodakasaṃkāśā uttarāṃ diśam āśritāḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>30b <LEM>uttarāṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; uttarā <ms>C<sub>45</sub></ms> •
+
+                 <LEM>diśam</LEM> ] <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; diśim <ms>C<sub>95</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.30cd"> parārdhaparakotīnāṃ vāmadevālayaḥ smṛtaḥ ||<vsnum>2.30</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>30d <LEM>°layaḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °laya <ms>K<sub>07</sub></ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.31ab"> īśānasya kalāḥ pañca vaktrasyāpi catuṣ kalāḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>31a <LEM>kalāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; kalā <ms>E</ms></APP>
+
+        <APP>31b <LEM>catuṣ kalāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; catuṣtake <ms>E</ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.31cd"> aghorasya kalā aṣṭau vāmadevās trayodaśa ||<vsnum>2.31</vsnum>||</TEXT>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.32ab"> sadyaś cāṣṭau kalā jñeyāḥ saṃsārārṇavatārakāḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>32a <LEM>jñeyāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; jñeyā <ms>E</ms></APP>
+
+        <APP>32b <LEM>saṃsārā°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><sup>pc</sup><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; saṃsā° <ms>C<sub>45</sub></ms><sup>ac</sup></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.32cd"> aṣṭatriṃśat kalā hy etāḥ kīrtitā dvijasattama ||<vsnum>2.32</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>32c <LEM>°triṃśat</LEM> ] <i>corr.</i>; °triṃśa° <ms>C<sub>45</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms> •
+
+                 <LEM>hy etāḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; jñeyāḥ <ms>E</ms></APP>
+
+        <APP>32d <LEM>°sattama</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; °sattamaḥ <ms>E</ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.33ab"> saṃkhyā varṇā diśaś caiva ekaikasya pṛthak pṛthak |</TEXT>
+<div class="tooltip-content">
+
+        <APP>33a <LEM>saṃkhyā varṇā</LEM> ] <ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms>; saṃkhyā varṇṇo <ms>C<sub>95</sub></ms>, saṃkhyā vaṇṇā <ms>K<sub>82</sub></ms>, saṃdhyā varṇā <ms>E</ms></APP>
+
+        <APP>33b <LEM>ekaikasya</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; aikaikasya <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.33cd"> pūrvoktena vidhānena bodhavyās tattvacintakaiḥ ||<vsnum>2.33</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>33d <LEM>bodhavyās ta°</LEM> ] <i>eme.</i>; bodhavyā ta° <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms></APP>
+
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.34ab"> śivāṇḍagamanākṛṣṭyā śivayogaṃ sadābhyaset |</TEXT>
+<div class="tooltip-content">
+
+        <APP>34a <LEM>°kṛṣṭyā</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>E</ms>; kṛṣṭā <ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.34cd"> śivayogaṃ vinā vipra tatra gantuṃ na śakyate ||<vsnum>2.34</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>34c <LEM>°yogaṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; °yoga <ms>E</ms></APP>
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.35ab"> aśvamedhādiyajñānāṃ koṭyāyutaśatāni ca |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="cd"> kṛcchrāditapa sarvāṇi kṛtvā kalpaśatāni ca |</TEXT>
+<div class="tooltip-content">
+
+        <APP>35c <LEM>°tapa</LEM> ] <ms>E</ms>; °tapaḥ <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms> (<i>unmetrical</i>)</APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="ef"> tatra gantuṃ na śakyeta devair api tapodhana ||<vsnum>2.35</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>35e <LEM>śakyeta</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; śakyaita <ms>C<sub>45</sub></ms>, śakyete <ms>E</ms></APP>
+
+        <APP>35f <LEM>devai°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; deve° <ms>K<sub>07</sub></ms> •
+
+                 <LEM>°dhana</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; °dhanam <ms>C<sub>45</sub></ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.36ab"> gaṅgādisarvatīrtheṣu snātvā taptvā ca vai punaḥ |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.36cd"> tatra gantuṃ na śakyeta ṛṣibhir vā mahātmabhiḥ ||<vsnum>2.36</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>36a <LEM>gantuṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; gantu <ms>K<sub>07</sub></ms> •
+
+                 <LEM>śakyeta</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; śakyante <ms>E</ms></APP>
+
+         
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.37ab"> saptadvīpasamudrāṇi ratnapūrṇāni bho dvija |</TEXT>
+<div class="tooltip-content">
+
+        <APP>37a <LEM>°dvīpa°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; °dīpa° <ms>K<sub>07</sub></ms></APP>
+
+        <PARAL>37ab <SKT>Cf. ŚDhU 2.104: </SKT> triḥ pradatvā mahīṃ pūrṇāṃ<SKT>...</SKT></PARAL>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="cd"> dattvā vā vedaviduṣe śraddhābhaktisamanvitaḥ |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="ef"> tatra gantuṃ na śakyeta vinā dhyānena niścayaḥ ||<vsnum>2.37</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>37c <LEM>gantuṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; gaṃntu <ms>K<sub>07</sub></ms> •
+
+                 <LEM>śakyeta</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms>; śakyante <ms>E</ms></APP>
+
+        
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.38ab"> svadehātmā samuddhṛtya dattvārthibhyaś ca niścayāt |</TEXT>
+<div class="tooltip-content">
+
+        <APP>38a <LEM>svadehātmā</LEM> ] <ms>E</ms>; svadehātmāṃ <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="cd"> svadāraputrasarvasvaṃ śiro 'rthibhyaś ca yo dadet |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="ef"> na tatra gantuṃ śakyeta anyair vāpi suduṣkaraiḥ ||<vsnum>2.38</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>38e <LEM>na tatra gantuṃ</LEM> ] <ms>C<sub>95</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; na tatra gantuṃ na <ms>C<sub>45</sub></ms></APP>
+
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.39ab"> yajñatīrthatapodānavedādhyayanapāragaḥ |</TEXT>
+<div class="tooltip-content">
+
+        <APP>39c <LEM>°dāna°</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; °dānaṃ <ms>K<sub>82</sub></ms></APP>
+
+        <APP>39d <LEM>°pāragaḥ</LEM> ] <ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms><ms>E</ms>; °pāragāḥ <ms>C<sub>95</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="2.39cd"> brahmāṇḍāntasya bhogāṃs tu bhuṅkte kālavaśānugaḥ ||<vsnum>2.39</vsnum>||</TEXT>
+<div class="tooltip-content">
+
+        <APP>39a <LEM>brahmāṇḍāntasya bhogāṃs tu</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>; 
+
+                                        brahmāṇḍāt tasya bhogās tu <ms>E</ms></APP>
+
+        <APP>39b <LEM>bhuṅkte</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms>; ≀bhuṅkte≀ <ms>K<sub>07</sub></ms>, bhuktvā <ms>E</ms> •
+
+                 <LEM>°gaḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><sup>pc</sup><ms>K<sub>07</sub></ms><ms>E</ms>; °gāḥ <ms>K<sub>82</sub></ms><sup>ac</sup></APP>
+
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+
+<TEXT pada="2.40ab"> kālena samapreṣyeṇa dharmo yāti parikṣayam |</TEXT>
+<div class="tooltip-content">
+
+        <APP>40b <LEM>dharmo</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>E</ms>; dharme <ms>K<sub>07</sub></ms></APP>
+
+
+</div>
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="cd"> alātacakravat sarvaṃ kālo yāti paribhraman |</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT pada="ef"> traikālyakalanāt kālas tena kālaḥ prakīrtitaḥ ||<vsnum>2.40</vsnum>||</TEXT>
+
+</div>
+
+<div class="tooltip-wrap">
+<TEXT> 
+<colophon> iti vṛṣasārasaṃgrahe śivāṇḍasaṃkhyā nāmādhyāyo dvitīyaḥ </colophon></TEXT>
+<div class="tooltip-content">
+
+        <APP> <SKT>Colophon:</SKT> <LEM>nāmādhyāyo dvitīyaḥ</LEM> ] <ms>C<sub>95</sub></ms><ms>C<sub>45</sub></ms><ms>K<sub>82</sub></ms><ms>K<sub>07</sub></ms>;
+
+                                                                nāma dvitīyo 'dhyāyaḥ <ms>E</ms></APP>
+
+        
+</div>
+    </div>
+
+
+
+<br/>
+&nbsp;
+<br/>
+&nbsp;
+<br/>
+&nbsp;
+<br/>
+&nbsp;
+<br/>
+
+
+    </div>
+
+
+
+
+
+
+    <div class="translation">
+<TRCHAPTER>Vṛṣasārasaṃgraha: Chapter Two</TRCHAPTER>
+
+|2.1| 
+Vigatarāga spoke:
+<br/>
+I, the Brahmin(? phps accept it) [rather:
+through you, a Brahmin], have listened to the concise description of the Brahmāṇḍa,
+it's extent, colour, form and the numbers associated with it.
+<br/><br/>
+
+|2.2|
+You mentioned the Śivāṇḍa as taught to be the receptacle of the Brahmāṇḍa [see 1.40ab].
+What are its characteristics and how much is its extent?
+
+
+<br/><br/>
+|2.3|
+Whose dwelling/resting place is it [phps ālayana for ālaya]
+and [what] is the extent/proof of the one who dwells there? [maybe the number of inhabitants Flo]
+[Or: what is its extent and [who are its] inhabitants]?
+Who are the people there? And who is Prajāpati there?
+
+<br/><br/>
+|2.4|
+Anarthayajña spoke: 
+<br/>
+Please don't ask me about the characteristics of the Śivāṇḍa, O Brahmin.
+How could even the gods have the power to really know and see...
+
+<br/><br/>
+|2.5|
+...the path to the unattainable place which is extremely secret and [...]
+There is no master or the opposite there, nobody to be punished and no punisher.
+
+<br/><br/>
+|2.6|
+There are no truthful or untruthful people there, no moral or immoral people,
+no wicked people, no hypocrisy, no thirst or envy.
+<br/><br/>
+|2.7|
+There is no anger or desire, no arrogance or discontent ([a]sūyaka).
+No envy or hatred, no cheaters and no jealousy.
+
+<br/><br/>
+|2.8|
+There is no disease, no aging, no grief and no agitation there.
+There are no inferior people or superior people and there is nobody in-between.
+<br/><br/>
+|2.9|
+There are no privileged men or women there in Śiva's abode,
+no reproach or praise, no selfish or treacherous people.
+<br/><br/>
+|2.10|
+There is no pride or arrogance there, no cruelty or trickery and so on.
+There are no beggars and no donors there.
+<br/><br/>
+|2.11|
+Go without desires, being there you'll be resting under a wishing tree.
+There is no karma there and no enemy. The era of strife [the Kali era] is not there and there is no fight.
+<br/><br/>
+|2.12|
+There is no Dvāpara era or Tretā or Kṛta.
+There are no Manvantaras (1 Manvantara = 1000 Kalpas) there and no Kalpas.
+<br/><br/>
+|2.13|
+No universal floods come, and there are no days and nights of Brahmā.
+There is no birth and death there and one never encounters catastrophes.
+
+<br/><br/>
+|2.14|
+Nobody is tied to noose of hope and there is no passion or delusion.
+There are no gods and demons there and no Yakṣas, Serpents and Rākṣasas.
+<br/><br/>
+|2.15|
+There are no Ghosts and Piśācas, no Gandharvas and Ṛṣis.
+There are no asterisms and planets there, no Nāgas, Kiṃnaras or Garuḍa-like creatures.
+<br/><br/>
+|2.16|
+There is no recitation there or daily rituals, nobody performs the Agnihotra and there is no sacrificer.
+There are no religious observances and no austerities and no <a href="http://www.index.hu">'animal hell'</a>.
+
+<br/><br/>
+|2.17|
+Nobody would be able to tell the extent of the god Īśāna's powers starting with aiśvarya,
+not even in a hundred years.
+
+<br/><br/>
+|2.18|
+[Instead] I'll teach you all that are produced by Hara's wish one by one,
+excluding the gods and people, starting with the trees, the bushes and creepers.
+
+<br/><br/>
+|2.19|
+[Their?] height is two Parārdha, and [their?] width is the same.
+There are lovely flowers of different forms and also lovely fruits.
+
+<br/><br/>
+|2.20| There are also golden trees and also gem trees,
+coral gem thickets and ruby plants.
+There are trees with twigs on which creepers with tasty roots reach for the tasty fruits.
+[REVISE]
+<br/><br/>
+
+|2.21| All of them can change their shapes on their own accord [just bending etc.?] and
+they fulfill man's desires and they whisper in a lovely way[?]
+[any language? maybe not].
+<br/><br/>
+
+
+|2.22|
+There [in the Śivāṇḍa], O Brahmin, all the subjects are the oceans of endless virtues.
+They are all equally beautiful and strong, and they shine like millions of suns.
+
+
+
+<br/><br/>
+|2.23| ... is two Parārdha [yojanas] long and two Parārdha [yojanas] wide,
+and two Parārdha yojanas is it its extension[?], O great Brahmin.
+
+<br/><br/>
+|2.24|
+Authority is not a number [cannot be expressed by a number?
+OR: there is no question of....?]
+neither is the Power of strength, O Brahmin.
+Down and up are no numbers [no question of going to heaven or hell?],
+and nobody goes to the Tiryañc [hell] [??? OR with iti: there is no horizontal extension?].
+
+<br/><br/>
+|2.25|
+I do not know the length and width of the Śivāṇḍa.
+Enjoyment is undecaying there, and there is no birth or death there.
+
+
+<br/><br/>
+|2.26|
+Inside the Śivāṇḍa, there is the dwelling-place of Īśāna's people [= Īśāna's region]
+[on] one and a half Para krore [yojanas? or that many people?], who shine like cow's milk
+[or the region shines?].
+
+<br/><br/>
+|2.27|
+They are all like the rising sun in the House of Tatpuruṣa
+[on] one and a half Para krore [yojanas? or that many people?] in the east.
+
+<br/><br/>
+|2.28|
+All of them are like collyrium in the southern direction, in the House of Aghora,
+[on] one and a half Para krore [yojanas?].
+
+
+<br/><br/>
+|2.29|
+In the western direction, in Sadyojāta's beloved House, [on] one and a half krore [yojanas?]
+they are like jasmine, the moon, like snowy rocks.
+
+<br/><br/>
+|2.30|
+In the northern direction, in Vāmadeva's House of one and a half krore [yojanas?]
+they are like saffron and water.
+
+<br/><br/>
+|2.31|
+Īśāna has five parts (kalā), [his Tatpuruṣa] face has four.
+Aghora has eight, and there are thirteen Vāmadeva[-kalā]s.
+
+<br/><br/>
+|2.32|
+Sadyojāta has eight parts. These parts, altogether thirty-eight, which
+liberate us from the ocean of existence, have been taught, O truest Brahmin.
+
+<br/><br/>
+|2.33|
+Those who explore the Truth should know the numbers, the colours and
+directions associated with each one [of Śiva's faces] in the way taught above.
+
+<br/><br/>
+|2.34|
+If one has the intention to go to the Śivāṇḍa [if he is 'pulled' towards it],
+one should practise Śiva yoga regularly. 
+Without Śiva yoga, O Brahmin, it is impossible to go there.
+
+<br/><br/>
+|2.35|
+[Even] by [performing] millions of sacrifices such as the Aśvamedha,
+             or all the difficult austerities, for a hundred Kalpas,
+              it is impossible to get there even for the gods, O great ascetic.
+<br/><br/>
+|2.36|
+[Only] by bathing and performing austerities at sacred places such as the Gaṅgā,
+even the honorable Ṛṣis will not be able to get there.
+
+<br/><br/>
+|2.37|
+Or by donating the oceans of the seven islands with all their gems to a Veda expert, O Brahmin,
+having faith and devotion, one will not be able to go there
+without meditation. [This is a] certainty.
+
+<br/><br/>
+|2.38|
+He who destroys his own body and gives it without hesitation
+to those who are in need of it,
+or gives his wife, his son and his possessions or his own head to those in need,
+or by [performing] other difficult deeds, will not be able to go there.
+
+<br/><br/>
+|2.39|
+He who has completed the sacrifices, the pilgrimages,
+the austerities, the donations, the study of the Vedas,
+will experience those enjoyments that the Brahmāṇḍa offers, still
+being subject to time and death.
+
+<br/><br/>
+|2.40|
+Dharma decays with time that is sent by...
+Like a circle of burning coal, time goes round and round.
+Time is called 'kāla' because of the waves (kalana)
+of the three divisions of time [past, present, future].
+<br/><br/>
+
+
+Here ends the second chapter in the Vṛṣasārasaṃgraha called the enumeration of the Śivāṇḍa.
+
+<br/>
+&nbsp;
+<br/>
+&nbsp;
+<br/>
+&nbsp;
+<br/>
+&nbsp;
+<br/>
+
+    </div>
+
+
+
+
+<div class="notes">
+
+<TRCHAPTER> Notes on Vṛṣasārasaṃgraha Chapter Two
+</TRCHAPTER>
+
+|2.25c| Pāda c is unmetrical, or rather, a ra-vipulā with licence (tatraiva as SHORT-LONG). Note also the gender problem (<i>bhogam akṣayas</i>), or rather take <i>-m-</i> as a sandhi-bridge 
+(<i>bhoga-m-akṣayas</i>, for <i>bhogo 'kṣayas</i>).
+<br/><br/>
+
+|2.28b| Note the Aiśa form <i>diśiṃ</i> in <ms>C<sub>45</sub></ms>.
+<br/><br/>
+
+|2.29| Note the Aiśa form <i>diśiṃ</i> in <ms>K<sub>07</sub></ms> in pāda b.
+In pāda d, we may suppose the presence of a sandhi-bridge:
+<i>sadya-m-iṣṭālayaḥ</i>.
+
+
+<br/><br/>
+|2.30| Note the Aiśa form <i>diśiṃ</i> in <ms>C<sub>95</sub></ms> in pāda b.
+<br/><br/>
+
+|2.31| Note how <i>vaktrasya</i> should refer to Śiva's Tatpuruṣa-face, 
+given that the text lists Śiva's five faces: Īśāna, Tatpuruṣa, Aghora, Vāmadeva, Sadyojāta.
+
+<br/><br/>
+|2.35a| Understand <i>kṛcchrāditapa sarvāṇi</i> as
+<i>kṛcchrāditapāṃsi sarvāṇi</i>.
+
+<br/><br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+NOTES<br/>
+
+    </div>
+
+
+<div class="msimage">
+
+<h4>Click to see manuscripts:</h4>
+
+
+
+<table style="width:100%">
+<tr>
+<th>
+<ms>C<sub>95</sub></ms>
+</th>
+<th>
+<ms>C<sub>45</sub></ms>
+</th>
+<th>
+<ms>N<sub>XY</sub></ms>
+</th>
+</tr>
+
+<tr>
+<td><a width=5000px height=1500px  target="popup"
+onclick="window.open('ca_386.jpg','name','width=5000px,height=1500px')">2.1-3c (f. 195v)</a>
+</td>
+<td>XXXXXX</td>
+<td>XXXXXX</td>
+</tr>
+
+<tr>
+<td><a href="ca_387.jpg" width=5000px height=1500px  target="_blank">2.3d-20c (f. 196r)</a>
+</td>
+<td><a href="cb_409.jpg" width=5000px height=1500px  target="_blank">2.7d-27a (f. XXX)</a></td>
+<td>XXXXXX</td>
+</tr>
+
+<tr>
+<td><a href="ca_388.jpg" width=5000px height=1500px  target="_blank">2.20c-37a (f. 196v)</a>
+</td>
+<td>XXXXXX</td>
+<td>XXXXXX</td>
+</tr>
+
+<tr>
+<td><a href="ca_389.jpg" width=5000px height=1500px  target="_blank">2.37a-40 (f. 197r)</a>
+</td>
+<td>XXXXXX</td>
+<td>XXXXXX</td>
+</tr>
+</table>
+
+
+
+<!--<a href="#msCa1"><ms>C<sub>95</sub></ms>: verses 2.1-3c (195v),</a>
+<a href="#msCa2"> 2.3d-20c (196r),</a>
+<a href="#msCa3"> 2.20c-37a (196v),</a>
+<a href="#msCa4"> 2.37a-40 (197r)</a>
+<br/>
+
+<a href="#ms5"><ms>C<sub>45</sub></ms>: verses 2.7d-27a<a>
+<br/><br/>
+
+
+MS <ms>C<sub>95</sub></ms>
+<img id="msCa1" src="ca_386.jpg" width=5000px height=1500px/>
+MS <ms>C<sub>95</sub></ms>
+<img id="msCa2" src="ca_387.jpg" width=5000px height=1500px/>
+MS <ms>C<sub>95</sub></ms>
+<img id="msCa3" src="ca_388.jpg" width=5000px height=1500px/>
+MS <ms>C<sub>95</sub></ms>
+<img id="msCa4" src="ca_389.jpg" width=5000px height=1500px/>
+
+
+<img id="ms5" src="cb_409.jpg" width=5000px height=1500px/>
+-->
+
+</div>
+
+
+
+
+
+</body>
+</html>
+
+

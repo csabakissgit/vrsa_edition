@@ -1,0 +1,373 @@
+<lg n="21.9" met="upajāti">
+
+<l n="a"> namo namas te 'stu janādisambhave</l>
+
+<app loc="21.9">
+    <lem wit="#msCa #msCc #msNa #Ed">(namo... °disambhave)</lem>
+    <rdg wit="#msCb"><gap reason="omitted"></rdg>
+</app>
+
+<l n="b"> namo namas te 'stu ca viśvarūpiṇe</l>
+
+
+<app loc="21.9b">
+    <lem wit="#msCa #msCb #msCc #msNapcorr #Ed">namas te</lem>
+    <rdg wit="#msNaacorr">namas tu</rdg>
+</app>
+
+<l n="c"> namo namas te 'stu janābhisambhave</l>
+
+
+<app loc="21.9c">
+    <lem wit="#msCa #msCb #msCc #Ed">(namo... °bhisambhave)</lem>
+    <rdg wit="#msNa"><gap reason="omitted"></rdg>
+</app>
+
+<l n="d"> namo namas te 'stu pitāmahodbhave </l>
+
+
+</lg>
+
+<lg n="21.10" met="upajāti">
+
+<l n="a"> namo namas te 'stu sahasraśīrṣiṇe</l>
+
+
+<app loc="21.10">
+    <lem wit="#msCb #msCc #msNa #Ed">(namo namas te 'stu sahasraśīrṣiṇe... °vakṣase)</lem>
+    <rdg wit="#msCa"><gap reason="omitted"></rdg>
+</app>
+<app loc="21.10a">
+    <lem wit="#msCb #msNa #Ed">°śīrṣiṇe</lem>
+    <rdg wit="#msCc">°śīrṣaṇe</rdg>
+</app>
+
+<l n="b"> namo namas te 'stu sahasracakṣuṣe</l>
+
+
+
+<l n="c"> namo namas te 'stu sahasraliṅgine</l>
+
+
+
+<l n="d"> namo namas te 'stu sahasravakṣase </l>
+
+
+</lg>
+
+<lg n="21.11" met="upajāti">
+
+<l n="a"> namo namas te 'stu sahasramūrtaye</l>
+<app loc="21.11">
+    <lem wit="#msCb #msCc #msNa #Ed">(namo namas te 'stu sahasramūrtayef... °māyine)</lem>
+    <rdg wit="#msCa"><gap reason="omitted"></rdg>
+</app>
+
+
+
+<l n="b"> namo namas te 'stu sahasrabāhave</l>
+
+
+
+<l n="c"> namo namas te 'stu sahasravaktriṇe</l>
+
+
+<app loc="21.11c">
+    <lem wit="#Ed">°vaktriṇe</lem>
+    <rdg wit="#msCb #msCc">°cakriṇe</rdg>
+    <rdg wit="#msNa">°vakriṇe</rdg>
+</app>
+
+<l n="d"> namo namas te 'stu sahasramāyine </l>
+
+
+</lg>
+
+<lg n="21.12" met="upajāti">
+
+<l n="a"> namo namas te 'stu varāharūpiṇe</l>
+
+
+<app loc="21.12a">
+    <lem wit="#msCb #msCc #msNa #Ed">(namo... varāharūpiṇe)</lem>
+    <rdg wit="#msCa"><gap reason="omitted"></rdg>
+</app>
+
+<l n="b"> namo namas te 'stu mahīsamuddhr̥te</l>
+
+
+
+<l n="c"> namo namas te 'stu ca bhūtasr̥ṣṭine</l>
+
+
+<app loc="21.12c">
+    <lem wit="#msCb #msCc #msNa #Ed">°sr̥ṣṭine</lem>
+    <rdg wit="#msCa">°sr̥<gap quantity="2" unit="char" reason="lost"/></rdg>
+</app>
+
+<l n="d"> namo namas te caturāśramāśraye </l>
+
+
+<app loc="21.12d">
+    <lem wit="#msCa #msCb #msNapcorr #Ed">namas te</lem>
+    <rdg wit="#msCc #msNaacorr">namas te stu</rdg>
+</app>
+<app loc="21.12d">
+    <lem wit="#msCa #msCc #msNa #Ed">°śraye</lem>
+    <rdg wit="#msCb">°śrame</rdg>
+</app>
+</lg>
+
+<lg n="21.13" met="upajāti">
+
+<l n="a"> namo namas te narasiṁharūpiṇe</l>
+
+
+
+<l n="b"> namo namas te ditijoradāriṇe</l>
+
+
+<app loc="21.13b">
+    <lem wit="#msCa #msCb #msCc #Ed">namo namas te ditijoradāriṇe</lem>
+    <rdg wit="#msNa"><gap reason="omitted"></rdg>
+    <rdg wit="#Ed">namo namas te 'ditijoradāraṇe</rdg>
+</app>
+
+<l n="c"> namo namas te 'suracakrasūdane</l>
+<app loc="21.13c">
+    <lem type="#conj">°cakra°</lem>
+    <rdg wit="#msCa #msCb #msCc #msNa #Ed">°śakra°</rdg>
+</app>
+
+
+
+<l n="d"> namo namas te 'suradarpanāśane </l>
+
+
+</lg>
+
+<lg n="21.14" met="upajāti">
+
+<l n="a"> namo namas te ditiputradāmane</l>
+<app loc="21.14a">
+    <lem wit="#msCa #msCb #msNa">°dāmane</lem>
+    <rdg wit="#msCc #Ed">°vāmane</rdg>
+</app>
+
+
+
+<l n="b"> namo namas te baliyajñasūdane</l>
+
+
+
+<l n="c"> namo namas te 'stu ṣaḍardhavikrame</l>
+
+
+<app loc="21.14c">
+    <lem wit="#msCb #msCc #msNa #Ed">ṣaḍardhavikrame</lem>
+    <rdg wit="#msCa"><unclear>ṣa</unclear><gap quantity="3" unit="char" reason="lost"/>krame</rdg>
+</app>
+
+<l n="d"> namo namas te tridaśārtināśane </l>
+
+
+</lg>
+
+<lg n="21.15" met="upajāti">
+
+<l n="a"> namo namas te 'stu ananta acyute</l>
+
+
+
+<l n="b"> namo namas te jagadartināśane</l>
+
+
+<app loc="21.15b">
+    <lem wit="#msCa #msCb #msCc #msNa">jagada°</lem>
+    <rdg wit="#Ed">jagadā°</rdg>
+</app>
+
+<l n="c"> namo namas te madhukaiṭanāśane</l>
+
+
+<app loc="21.15c">
+    <lem wit="#msCa #msCb #msNa">°kaiṭa°</lem>
+    <rdg wit="#msCc #Ed">°kīṭa°</rdg>
+</app>
+
+<l n="d"> namo namas te 'stu trilokabāndhave </l>
+
+
+</lg>
+
+<lg n="21.16" met="upajāti">
+
+<l n="a"> namo namas te tridaśābhinandane</l>
+
+
+
+<l n="b"> namo namas te 'stu ca divyacakṣuṣe</l>
+
+
+
+<l n="c"> namo namas te 'stu bhavāntapārage</l>
+
+
+
+<l n="d"> namo namas te 'stu trilokapūjite </l>
+
+
+</lg>
+
+<lg n="21.17" met="upajāti">
+
+<l n="a"> namo namas te 'stu gadāgrapāṇaye</l>
+
+
+
+<l n="b"> namo namas te varacakrapāṇaye</l>
+
+
+
+<l n="c"> namo namas te 'stu ca śaṅkhapāṇaye</l>
+
+
+
+<l n="d"> namo namas te 'stu ca kambupāṇaye </l>
+
+
+</lg>
+
+<lg n="21.18" met="upajāti">
+
+<l n="a"> namo namas te 'stu jalaughaśāyine</l>
+<app loc="21.18a">
+    <lem wit="#msCa #msCb #Ed">jalaugha°</lem>
+    <rdg wit="#msCc #msNa">jalogha°</rdg>
+</app>
+
+
+
+<l n="b"> namo namas te haramardarūpiṇe</l>
+
+
+<app loc="21.18b">
+    <lem wit="#msCb #msNa #Ed">namas te haramardarūpiṇe</lem>
+    <rdg wit="#msCa">nama<gap quantity="4" unit="char" reason="lost"/>rddarūpiṇe</rdg>
+    <rdg wit="#msCc"><gap quantity="7" unit="char" reason="lost"/>marddarūpiṇe</rdg>
+</app>
+
+<l n="c"> namo namas te khagarājaketave</l>
+
+
+<app loc="21.18c">
+    <lem wit="#msCa #msCb #msCc #msNa">°ketave</lem>
+    <rdg wit="#Ed">°ketane</rdg>
+</app>
+
+<l n="d"> namo namas te śaśisūryalocane </l>
+
+
+</lg>
+
+<lg n="21.19" met="upajāti">
+
+<l n="a"> namo namas te uragārivāhane</l>
+
+
+
+<l n="b"> namo namas te 'dbhutarūpadarśine</l>
+
+
+
+<l n="c"> namo namas te 'yutasūryatejase</l>
+
+
+<app loc="21.19c">
+    <lem wit="#msCa #msCb #msCc #msNa">'yuta°</lem>
+    <rdg wit="#Ed">'stu ca</rdg>
+</app>
+<app loc="21.19c">
+    <lem wit="#msCa #msCb #msNa #Ed">°tejase</lem>
+    <rdg wit="#msCc">°te</rdg>
+</app>
+
+<l n="d"> namo namas te 'mr̥tamanthanadhruve </l>
+
+
+</lg>
+
+<lg n="21.20" met="upajāti">
+
+<l n="a"> namo namas te 'maralokasaṁstute</l>
+
+
+<app loc="21.20a">
+    <lem wit="#msCa #msCb #msCc">'maralokasaṁstute</lem>
+    <rdg wit="#msNa">maralokavandite</rdg>
+    <rdg wit="#Ed">malalokasaṁstute</rdg>
+</app>
+
+<l n="b"> namo namas te jagamaṇḍapāśraye</l>
+
+
+<app loc="21.20b">
+    <lem wit="#msCa #msCb #Ed">namo namas te jagamaṇḍapāśraye</lem>
+    <rdg wit="#msCc"><gap quantity="10" unit="char" reason="lost"/><unclear>śraye</unclear></rdg>
+    <rdg wit="#msNa"><gap reason="omitted"></rdg>
+</app>
+
+<l n="c"> namo namas te jagadekavatsale</l>
+
+
+<app loc="21.20c">
+    <lem wit="#msCa #msCb #msNa #Ed">jagadeka°</lem>
+    <rdg wit="#msCc">jaga<unclear>de</unclear>ka°</rdg>
+</app>
+<app loc="21.20c">
+    <lem wit="#msCa #msCb #msCc #msNa">°vatsale</lem>
+    <rdg wit="#Ed">°vatsare</rdg>
+</app>
+
+<l n="d"> namo namas te śivasarvade namaḥ </l>
+
+
+ <!--PARALLELS: \vd Cf.\ Br̥hatkālottara (NGMPP B 29/59) f.\ 87a:  jñāna 2 śabda 2 sūkṣma 2 śivasarvada oṁ namaḥ śivāya|--> 
+
+</lg>
+
+<lg n="21.21" met="upajāti">
+
+<l n="a"> kṣamasva govinda mamāparādham</l>
+
+
+<app loc="21.21a">
+    <lem wit="#msCa #msCb #msNa #Ed">mamā°</lem>
+    <rdg wit="#msCc">mama</rdg>
+</app>
+
+<l n="b"> atīva pr̥ṣṭena durātmanena</l>
+
+
+<app loc="21.21b">
+    <lem wit="#msCa #msCc #msNa #Ed">°tmanena</lem>
+    <rdg wit="#msCb">°tmane</rdg>
+</app>
+
+<l n="c"> mayeda sarvaṁ kathitaṁ smayena</l>
+
+
+<app loc="21.21c">
+    <lem wit="#msCa #msCb #msCc #msNa">mayeda</lem>
+    <rdg wit="#Ed #">mayedaṁ</rdg>
+</app>
+
+<l n="d"> dayāṁ kuru tvaṁ tridaśeśvareṇa </l>
+
+
+<app loc="21.21d">
+    <lem wit="#msCa #msCc #msNa #Ed">°śeśvareṇa</lem>
+    <rdg wit="#msCb">°śaiśvareṇa</rdg>
+</app>
+</lg>
+

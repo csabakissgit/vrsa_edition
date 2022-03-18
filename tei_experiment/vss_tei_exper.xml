@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- ADDED THIS -->
+<?xml-stylesheet type="text/xsl" href="vrsa_tei03.xsl"?>
+
+<!--<TEI xmlns="http://www.tei-c.org/ns/1.0">-->
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vṛṣasārasaṃgraha</title>
+            <author>Csaba Kiss</author>
+         </titleStmt>
+         <publicationStmt>
+             <p>Experiment</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscripts</p>
+ </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listOrg>
+               <org xml:id="AC">
+                  <name>Some link name</name>
+                  <idno type="wiki">https://</idno>
+               </org>
+            </listOrg>
+         </particDesc>
+      </profileDesc>
+      </teiHeader>
+   <facsimile>
+      <surface xml:id="moro">
+         <graphic url="../images2/moro.jpg" width="480px" height="620px"/>
+         <!--   <graphic url="../moro.jpg" width="480px" height="620px"/> -->
+      </surface>
+     <surface xml:id="moro1">
+        <graphic url="../Images2/moro1.PNG" width="646px" height="822px"/>
+     </surface>
+   </facsimile>
+<!--   <particDesc>
+      <listOrg>
+         <org xml:id="BR">
+            <orgName>Brigate Rosse
+            </orgName>
+            <ref target="https://it.wikipedia.org/wiki/Brigate_Rosse"></ref>
+         </org>
+      </listOrg>
+   </particDesc>-->
+
+
+
+
+
+<text>
+<body>
+<div type="edition" xml:lang="san-Latn">
+
+
+<!-- chapter 1 -->
+
+<lg n="1.1" met="non-anuṣṭubh">
+<l n="a"> anādimadhyāntam anantapāraṃ</l>   
+<l n="b"> susūkṣmam avyaktajagatsusāram</l>
+<l n="c"> harīndrabrahmādibhir āsamagraṃ</l>
+<l n="d"> praṇamya vakṣye vṛṣasārasaṃgraham</l>
+</lg>
+
+<lg n="1.2" met="anuṣṭubh">
+<l n="ab"> śatasāhasrikaṃ granthaṃ sahasrādhyāyam uttamam</l>
+<l n="cd"> parva cāsya śataṃ pūrṇaṃ śrutvā bhāratasaṃhitām</l>
+</lg>
+
+
+<lg n="1.3" met="anuṣṭubh">
+<l n="ab"> atṛptaḥ puna papraccha vaiśaṃpāyanam eva hi</l>
+<l n="cd"> janamejaya yat pūrvaṃ tac chṛṇu tvam atandritaḥ</l>
+</lg>
+
+<l n="uvaca"> janamejaya uvāca</l>
+
+<lg n="1.4" met="anuṣṭubh">
+<l n="ab"> bhagavan sarvadharmajña sarvaśāstraviśārada</l>
+<l n="cd"> asti dharmaṃ paraṃ guhyaṃ saṃsārārṇavatāraṇam</l>
+</lg>
+
+<lg n="1.5" met="anuṣṭubh">
+<l n="ab"> dvaipāyanamukhodgīrṇaṃ dharmaṃ yat tad dvijottama</l>
+<l n="cd"> kathayasva hi me tṛptiṃ kuru yatnāt tapodhana</l>
+</lg>
+
+
+</div>
+
+
+
+<div type="apparatus">
+<app loc="1.1"> 
+     <lem wit="#mssCaCbCc #msNc #Ed">°pāraṃ</lem>
+     <rdg wit="#msNa #msNb">°pāragaṃ</rdg>
+</app>
+
+<app loc="1.1"> 
+     <lem wit="#msCa #msCb #msNa #msNc #Ed">°jagatsusāraṃ</lem>
+     <rdg wit="#msCc">°jagaśusāraṃ</rdg>
+     <rdg wit="#msNb">°jagatsurāsuraṃ</rdg>
+</app>
+
+<app loc="1.2b"> 
+     <lem wit="#msCa #msCb #msNa #msNb #msNc">sahasrādhyāyamu°</lem>
+     <rdg wit="#msCc">sahaśradhyāyamu°</rdg>
+     <rdg wit="#Ed">sahasrādhyāyaru°</rdg>
+</app>
+
+<app loc="1.2c"> 
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">śataṃ pūrṇaṃ</lem>
+     <rdg wit="#msCc">ta</rdg>
+</app>
+
+<app loc="1.2d"> 
+     <lem wit="#msCa #msCb #msNa #msNb #msNc">bhāratasaṃhitām</lem>
+     <rdg wit="#msCc">bhārasaṃhitā</rdg>
+     <rdg wit="#Ed">nārādasaṃhitām</rdg>
+</app>
+
+<app loc="1.3a"> 
+     <lem type="eme">atṛptaḥ puna papraccha</lem>
+     <rdg wit="#msCa">aUNCLtṛ/UNCL****praccha</rdg>
+     <rdg wit="#msCb #msNa #msNb #msNc">atṛptaḥ punaḥ papraccha</rdg>
+     <rdg wit="#msCc">atṛptaḥ punarapracche</rdg>
+     <rdg wit="#Ed">atṛptā punaḥ papraccha</rdg>
+</app>
+
+<app loc="1.3b"> 
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">vaiśampāyana°</lem>
+     <rdg wit="#msCc">vesampāyana°</rdg>
+</app>
+
+<app loc="1.3c"> 
+     <lem wit="#mssCaCbCc #msNc #Ed">pūrvaṃ</lem>
+     <rdg wit="#msNa">pūrva</rdg>
+     <rdg wit="#msNb">pūrUNCLva/UNCL</rdg>
+</app>
+
+<app loc="1.3d"> 
+     <lem wit="#msCc">°tandritaḥ</lem>
+     <rdg wit="#msCa #msCb #msNc #Ed">°tandritam</rdg>
+     <rdg wit="#msNa">°tandriUNCLtam/UNCL</rdg>
+     <rdg wit="#msNb">×××</rdg>
+</app>
+
+
+<app loc="1.3uvaca"> 
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">janamejaya</lem>
+     <rdg wit="#msCc">janmejaya</rdg>
+</app>
+
+<app loc="1.4a"> 
+     <lem wit="#mssCaCbCc #msNb #msNc #Ed">°dharma°</lem>
+     <rdg wit="#msNa">omitted</rdg>
+</app>
+
+<app loc="1.4b"> 
+     <lem wit="#msCa #msNb #msNc">°viśārada</lem>
+     <rdg wit="#msCb #msCc #msNa #Ed">°visāradaḥ</rdg>
+</app>
+
+<app loc="1.4b"> 
+     <lem wit="#msCa #msNb #Ed">paraṃ guhyaṃ</lem>
+     <rdg wit="#msCb">paro guhya</rdg>
+     <rdg wit="#msCc #msNa">paraṃ guhya</rdg>
+     <rdg wit="#msNc">paraguhyaṃ</rdg>
+</app>
+<app loc="1.5a"> 
+     <lem wit="#msCa #msCb #msNa #msNb #msNc">°mukhodgīrṇaṃ</lem>
+     <rdg wit="#msCc">°mukhodgīrṇa</rdg>
+     <rdg wit="#Ed">mukhādgīrṇaṃ</rdg>
+</app>
+
+<app loc="1.5b"> 
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">°ttama</lem>
+     <rdg wit="#msCc">°ttamaḥ</rdg>
+</app>
+<app loc="1.5d"> 
+     <lem wit="#msCb #msNa #msNb #msNc #Ed">yatnāttapodhana</lem>
+     <rdg wit="#msCa">yannātta**na</rdg>
+     <rdg wit="#msCc">yatnā tapodhanaḥ</rdg>
+</app>
+
+</div>
+
+</body>
+</text>
+</TEI>
+

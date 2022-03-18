@@ -1,0 +1,2671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng-Latn">Test File</title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename">0001</idno>
+</publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Repo</repository></msIdentifier></msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="san-Latn">
+
+
+<lg n="1.1" met="upajāti">
+<l n="a"> anādimadhyāntam anantapāraṁ</l>
+
+<app loc="1.1a">
+     <lem wit="#msCa #msCbpcorr #msCc #msNa #msNb #msNc #msNd #msM #Ed">°ntam ananta°</lem>
+     <rdg wit="#msCbacorr">°ntam anta°</rdg>
+</app>
+
+<app loc="1.1a">
+     <lem wit="#mssCaCbCc #msNc #msM #Ed">°pāraṁ</lem>
+     <rdg wit="#msNa #msNb #msNd">°pāragaṁ</rdg>
+</app>
+
+<l n="b"> susūkṣmam avyaktajagatsusāram</l>
+
+<app loc="1.1b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">susūkṣma°</lem>
+     <rdg wit="#msCc">śusukṣma°</rdg>
+</app>
+
+<app loc="1.1b">
+     <lem wit="#msCa #msCb #msNa #msNc #msM #Ed">°jagatsusāram</lem>
+     <rdg wit="#msCc">°jagaśusāraṁ</rdg>
+     <rdg wit="#msNb">°jagatsurāsuraṁ</rdg>
+     <rdg wit="#msNd">°jagatasusāram</rdg>
+</app>
+
+<l n="c"> harīndrabrahmādibhir āsamagraṁ</l>
+
+<app loc="1.1c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msNd #Ed">°bhir āsamagraṁ</lem>
+     <rdg wit="#unmetr">°bhir yat samagraṁ</rdg>
+</app>
+
+<l n="d"> praṇamya vakṣye vr̥ṣasārasaṁgraham</l>
+</lg>
+
+<app loc="1.1c">
+     <lem wit="#msCapcorr #msCb #msCc #msNa #msNb #msNc #msNd #msM #Ed">vr̥ṣa°</lem>
+     <rdg wit="#msCaacorr">°vr̥ṣo</rdg>
+</app>
+
+<lg n="1.2" met="anuṣṭubh">
+<l n="ab"> śatasāhasrikaṁ granthaṁ sahasrādhyāyam uttamam</l>
+
+<app loc="1.2b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM">sahasrādhyāyam u°</lem>
+     <rdg wit="#msCc">sahaśradhyāyam u°</rdg>
+     <rdg wit="#Ed">sahasrādhyāyar u°</rdg>
+</app>
+
+<l n="cd"> parva cāsya śataṁ pūrṇaṁ śrutvā bhāratasaṁhitām</l>
+</lg>
+
+<app loc="1.2c">
+     <lem wit="#msCa #msNa #msNb #msNc #msMpcorr">parva cāsya</lem>
+     <rdg wit="#msCb">parvañ cāsya</rdg>
+     <rdg wit="#msCc #msNd #msMacorr #Ed">parvam asya</rdg>
+</app>
+
+<app loc="1.2c">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">śataṁ pūrṇaṁ</lem>
+     <rdg wit="#msCc">ta</rdg>
+</app>
+
+<app loc="1.2d">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #msNd #msM #Ed">śrutvā</lem>
+     <rdg wit="#msCb">śraddhā</rdg>
+</app>
+
+<app loc="1.2d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM">bhāratasaṁhitām</lem>
+     <rdg wit="#msCc">bhārasaṁhitā</rdg>
+     <rdg wit="#msNd">bhāratasaṁhitaṁ</rdg>
+     <rdg wit="#Ed">nārādasaṁhitām</rdg>
+</app>
+
+<lg n="1.3" met="anuṣṭubh">
+<l n="ab"> atr̥ptaḥ puna papraccha vaiśampāyanam eva hi</l>
+
+<app loc="1.3a">
+     <lem type="eme">atr̥ptaḥ puna papraccha</lem>
+     <rdg wit="#msCa">a<unclear reason="illegible">tr̥ptaḥ pu</unclear><gap quantity="2" unit="char" reason="illegible"/>praccha</rdg>
+     <rdg wit="#msCb #msNa #msNb #msNc">atr̥ptaḥ punaḥ papraccha</rdg>
+     <rdg wit="#msCc">atr̥ptaḥ punar apracche</rdg>
+     <rdg wit="#msNd">atr̥ptaḥ puna paḥpraccha</rdg>
+     <rdg wit="#msM">atr̥ptaḥ punaḥ papr̥ccha</rdg>
+     <rdg wit="#Ed">atr̥ptā punaḥ papraccha</rdg>
+</app>
+
+<app loc="1.3b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">vaiśampāyana°</lem>
+     <rdg wit="#msCc">vesampāyana°</rdg>
+</app>
+
+<l n="cd"> janamejaya yat pūrvaṁ tac chr̥ṇu tvam atandritaḥ</l>
+</lg>
+
+<app loc="1.3c">
+     <lem type="eme">janamejaya yat pūrvaṁ</lem>
+     <rdg wit="#msCapcorr #msCb #msNc #msNd #Ed">janamejayena yat pūrvaṁ</rdg>
+     <rdg wit="#msCaacorr">janamejaye yat pūrvaṁ</rdg>
+     <rdg wit="#msCc">janmejayena yam pūrvaṁ</rdg>
+     <rdg wit="#msNa">janamejayena yat pūrva</rdg>
+     <rdg wit="#msNb">janamejayena yat pūr<unclear reason="illegible">va</unclear></rdg>
+     <rdg wit="#msM">janmejayeṇa yat pūrvaṁ</rdg>
+</app>
+
+<app loc="1.3d">
+     <lem wit="#msCa #msCb #msNa #msNc #msM #Ed">tac chr̥ṇu tvam a°</lem>
+     <rdg wit="#msCc">tac chr̥ṇa tvam a°</rdg>
+     <rdg wit="#msNb"><gap quantity="5" unit="char" reason="lost"/></rdg>
+     <rdg wit="#msNd">tac chr̥ṇu svam a°</rdg>
+</app>
+
+<app loc="1.3d">
+     <lem wit="#msCc #msNa">°tandritaḥ</lem>
+     <rdg wit="#msCa #msCb #msNc #msNd #msM #Ed">°tandritam</rdg>
+     <rdg wit="#msNb"><gap quantity="3" unit="char" reason="lost"/></rdg>
+</app>
+
+<l n="1.4uvaca"> janamejaya uvāca</l>
+
+<app loc="1.4">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">janamejaya</lem>
+     <rdg wit="#msCc">janmejaya</rdg>
+</app>
+
+<lg n="1.4" met="anuṣṭubh">
+<l n="ab"> bhagavan sarvadharmajña sarvaśāstraviśārada</l>
+
+<app loc="1.4a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">bhagavan sa°</lem>
+     <rdg wit="#msCc">bhacāvaṁ sa°</rdg>
+     <rdg wit="#msNd">bhagava sa°</rdg>
+     <rdg wit="#msM">bhagavaṁ sa°</rdg>
+</app>
+
+<app loc="1.4a">
+     <lem wit="#mssCaCbCc #msNb #msNc #msM #Ed">°dharmajña</lem>
+     <rdg wit="#msNa">°jña</rdg>
+     <rdg wit="#msNd">°dharmajñaḥ</rdg>
+</app>
+
+<app loc="1.4b">
+     <lem wit="#msCa #msNb #msNc #msNd">°viśārada</lem>
+     <rdg wit="#msCb #msCc #msNa #Ed">°visāradaḥ</rdg>
+     <rdg wit="#msM">°viśāradam</rdg>
+</app>
+
+<l n="cd"> asti dharmaṁ paraṁ guhyaṁ saṁsārārṇavatāraṇam</l>
+</lg>
+
+<app loc="1.4d">
+     <lem wit="#msCa #msNa #msNb #msNc #Ed">asti dharmaṁ</lem>
+     <rdg wit="#msCb">asti dharmaḥ</rdg>
+     <rdg wit="#msCc #msM">asti dharma</rdg>
+     <rdg wit="#msNd">adharma</rdg>
+</app>
+
+<app loc="1.4d">
+     <lem wit="#msCa #msNb #msNd #msM #Ed">paraṁ guhyaṁ</lem>
+     <rdg wit="#msCb">paro guhya</rdg>
+     <rdg wit="#msCc #msNa">paraṁ guhya</rdg>
+     <rdg wit="#msNc">paraguhyaṁ</rdg>
+</app>
+
+<lg n="1.5" met="anuṣṭubh">
+<l n="ab"> dvaipāyanamukhodgīrṇaṁ dharmaṁ vā yad dvijottama</l>
+
+<app loc="1.5a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">dvaipāyana°</lem>
+     <rdg wit="#msCc">dvepāyana°</rdg>
+</app>
+
+<app loc="1.5a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc">°mukhodgīrṇaṁ</lem>
+     <rdg wit="#msCc">°mukhodgīrṇa</rdg>
+     <rdg wit="#msNd">°mudgīrṇṇa</rdg>
+     <rdg wit="#msMacorr">mukhaṁ gīrṇṇaṁ</rdg>
+     <rdg wit="#msMpcorr">mu<unclear reason="illegible">khāṁ</unclear> gīrṇṇaṁ</rdg>
+     <rdg wit="#Ed">mukhād gīrṇaṁ</rdg>
+</app>
+
+<app loc="1.5b">
+     <lem wit="#msCa #msNa #msNb #msNc #Ed">dharmaṁ vā yad dvi°</lem>
+     <rdg wit="#msCb">dharmaṁ yat tad dvi°</rdg>
+     <rdg wit="#msCc">dharmavat ya dvi°</rdg>
+     <rdg wit="#msNd">dharma vā yad dvi°</rdg>
+     <rdg wit="#msM">dharmavākyaṁ dvi°</rdg>
+</app>
+
+<app loc="1.5b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #Ed">°ttama</lem>
+     <rdg wit="#msCc">°ttamaḥ</rdg>
+     <rdg wit="#msM">°tamaḥ</rdg>
+</app>
+
+<l n="cd"> kathayasva hi me tr̥ptiṁ kuru yatnāt tapodhana</l>
+</lg>
+
+<app loc="1.5c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">hi me tr̥ptiṁ</lem>
+     <rdg wit="#msNd">hi me tr̥pti</rdg>
+     <rdg wit="#msM">prasādena</rdg>
+</app>
+
+<app loc="1.5d">
+     <lem wit="#msCb #msNa #msNb #msNc #Ed">yatnāt tapodhana</lem>
+     <rdg wit="#msCa">yannāt ta<gap quantity="2" unit="char" reason="illegible"/>na</rdg>
+     <rdg wit="#msCc">yatnā tapodhanaḥ</rdg>
+     <rdg wit="#msNd">yatnā tapodhana</rdg>
+     <rdg wit="#msM">yatnan tapodhana</rdg>
+</app>
+
+<l n="1.6uvaca"> vaiśampāyana uvāca</l>
+
+<app loc="1.6">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msNd #msMpcorr #Ed">vaiśampāyana uvāca</lem>
+     <rdg wit="#msMacorr">[omitted]</rdg>
+</app>
+
+<lg n="1.6" met="anuṣṭubh">
+<l n="ab"> śr̥ṇu rājann avahito dharmākhyānam anuttamam</l>
+
+<app loc="1.6a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">rājann a°</lem>
+     <rdg wit="#msNd">rājaṁn a°</rdg>
+     <rdg wit="#msM">rājan a°</rdg>
+</app>
+
+<app loc="1.6b">
+     <lem wit="#msCa #msNa #msNb #msNc #msM #Ed">°khyānam anuttamam</lem>
+     <rdg wit="#msCb">°khyānam uttamam</rdg>
+     <rdg wit="#msCc">°khyānam utamam</rdg>
+     <rdg wit="#unmetr">°dharmavyākhyānam uttamaṁ</rdg>
+</app>
+
+<l n="cd"> vyāsānugrahasamprāptaṁ guhyadharmaṁ śr̥ṇotu me</l>
+</lg>
+
+<app loc="1.6c">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">°prāptaṁ</lem>
+     <rdg wit="#msCc">°prāpta</rdg>
+</app>
+
+<app loc="1.6d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">°dharmaṁ</lem>
+     <rdg wit="#msCc">°rmaṁ</rdg>
+</app>
+
+<app loc="1.6d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">śr̥ṇotu</lem>
+     <rdg wit="#msCc">śr̥ṇota</rdg>
+</app>
+
+<app loc="1.6d">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #msNd #msM #Ed">me</lem>
+     <rdg wit="#msCb">mai</rdg>
+</app>
+
+<lg n="1.7" met="anuṣṭubh">
+<l n="ab"> anarthayajñakartāraṁ tapovrataparāyaṇam</l>
+
+<app loc="1.7a">
+     <lem wit="#mssCaCbCc #msNa #msNc #msNd #msM #Ed">°kartāraṁ</lem>
+     <rdg wit="#msNb">°karttantaṁ</rdg>
+</app>
+
+<app loc="1.7b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msNd #Ed">°vrata°</lem>
+     <rdg wit="#msM">°prata°</rdg>
+</app>
+
+<app loc="1.7b">
+     <lem wit="#msCa #msCb #msNb #msM #Ed">°yaṇam</lem>
+     <rdg wit="#msCc">°yana</rdg>
+     <rdg wit="#msNa">°yaṇaḥ</rdg>
+     <rdg wit="#msNc">°yanaṁ</rdg>
+     <rdg wit="#msNd">°<unclear reason="illegible">yaṇaṁ</unclear></rdg>
+</app>
+
+<l n="cd"> śīlaśaucasamācāraṁ sarvabhūtadayāparam</l>
+</lg>
+
+<app loc="1.7d">
+     <lem wit="#msCa #msCb #msNa #msNc #msM #Ed">°param</lem>
+     <rdg wit="#msCc #msNd">°nvitam</rdg>
+     <rdg wit="#msNb">°<unclear reason="illegible">pa</unclear>raṁ</rdg>
+</app>
+
+<lg n="1.8" met="anuṣṭubh">
+<l n="ab"> jijñāsanārthaṁ praśnaikaṁ viṣṇunā prabhaviṣṇunā</l>
+
+<app loc="1.8a">
+     <lem wit="#msCb #msNa #msNb #msNc">°rthaṁ praśnaikaṁ</lem>
+     <rdg wit="#msCa #msNd">°rthaṁ praśnekaṁ</rdg>
+     <rdg wit="#msCc #Ed">°rthapraśnekam</rdg>
+     <rdg wit="#msM">°rthapraścaikaṁ</rdg>
+</app>
+
+<app loc="1.8b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNd #msM #Ed">prabha°</lem>
+     <rdg wit="#msCc">prabhu°</rdg>
+     <rdg wit="#msNc">prābha°</rdg>
+</app>
+
+<l n="cd"> dvijarūpadharo bhūtvā papraccha vinayānvitaḥ</l>
+</lg>
+
+<app loc="1.8c">
+     <lem wit="#msCb #msCc #msNa #msNc #msNd #msM #Ed">°dharo</lem>
+     <rdg wit="#msCa">°<gap quantity="1" unit="char" reason="illegible"/>ro</rdg>
+     <rdg wit="#msNb">°dharā</rdg>
+</app>
+
+<app loc="1.8d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">°nvitaḥ</lem>
+     <rdg wit="#msCc #msNd #msM">°nvitaṁ</rdg>
+</app>
+
+<lg n="1.9" met="anuṣṭubh">
+<l n="ab"> [vigatarāga uvāca]*</l>
+
+<l n="cd"> brahmavidyā kathaṁ jñeyā rūpavarṇavivarjitā</l>
+
+<app loc="1.9a">
+     <lem wit="#msCa #msNa #msNb #msNc #msM">jñeyā</lem>
+     <rdg wit="#msCb #msCc">jñeyaṁ</rdg>
+     <rdg wit="#msNd">jñeya</rdg>
+     <rdg wit="#Ed">bhūyo</rdg>
+</app>
+
+<app loc="1.9b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msNd #msM">°varṇa°</lem>
+     <rdg wit="#Ed">°varṇā°</rdg>
+</app>
+
+<app loc="1.9b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNd #msM #Ed">°varjitā</lem>
+     <rdg wit="#msCc">°varjitaṁ</rdg>
+     <rdg wit="#msNc">°varjitāḥ</rdg>
+</app>
+
+<l n="ef"> svaravyañjananirmuktam akṣaraṁ kimu tatparam</l>
+</lg>
+
+<app loc="1.9c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msNd #msM">°vyañjana°</lem>
+     <rdg wit="#Ed">°vyajjana°</rdg>
+</app>
+
+<app loc="1.9cd">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #Ed">°muktam akṣa°</lem>
+     <rdg wit="#msCb">°mukta akṣa°</rdg>
+     <rdg wit="#msNd">°muktaṁ akha°</rdg>
+     <rdg wit="#msM">°muktaṁ akṣa°</rdg>
+</app>
+
+<app loc="1.9d">
+     <lem wit="#msCa #msNa #msNc #Ed">kimu tat param</lem>
+     <rdg wit="#msCb #msCc">kim ataḥ param</rdg>
+     <rdg wit="#msNb #msNd #msM">kim atat paraṁ</rdg>
+</app>
+
+<l n="1.10uvaca"> anarthayajña uvāca</l>
+
+<lg n="1.10" met="anuṣṭubh">
+<l n="ab"> anuccāryam asandigdham avicchinnam anākulam</l>
+
+<app loc="1.10a">
+     <lem wit="#msCa #msCb #msNa #msNb #msM #Ed">°ccārya°</lem>
+     <rdg wit="#msCc #msNc #msNd">°cārya°</rdg>
+</app>
+
+<app loc="1.10ab">
+     <lem wit="#msCa #msCb #msNa #msNc #msNd #msM #Ed">°sandigdham avicchinnam anākulam</lem>
+     <rdg wit="#msCc">°vicchinnasandigdham anākuna</rdg>
+     <rdg wit="#msNb">°sandigdha</rdg>
+</app>
+
+<l n="cd"> nirmalaṁ sarvagaṁ sūkṣmam akṣaraṁ kimu tatparam</l>
+</lg>
+
+<app loc="1.10d">
+     <lem wit="#msCa #msNa #msNb #msNc #Ed">kimu tatparam</lem>
+     <rdg wit="#msCb #msM">kim ataḥ param</rdg>
+     <rdg wit="#msCc #msNd">kim atatparaṁ</rdg>
+</app>
+
+<l n="1.11uvaca"> vigatarāga uvāca</l>
+
+<app loc="1.11">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM #Ed">°rāga uvāca</lem>
+     <rdg wit="#msNd">°rāgovāca</rdg>
+</app>
+
+<lg n="1.11" met="anuṣṭubh">
+<l n="ab"> dehī dehe kṣayaṁ yāte bhūjalāgniśivādibhiḥ</l>
+
+<app loc="1.11a">
+     <lem wit="#msCa #msCc #msNc">dehe kṣa°</lem>
+     <rdg wit="#msCb">dehāt kṣa°</rdg>
+     <rdg wit="#msNa #msNb #msNd #msM #Ed">dehakṣa°</rdg>
+</app>
+
+<app loc="1.11a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM #Ed">yāte</lem>
+     <rdg wit="#msNd">yānte</rdg>
+</app>
+
+<app loc="1.11b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">°gniśivādibhiḥ</lem>
+     <rdg wit="#msCc">°gniśivādibhi</rdg>
+     <rdg wit="#msNd">°gniṁ śi*dibhi</rdg>
+</app>
+
+<l n="cd"> yamadūtaiḥ kathaṁ nīto nirālambo nirañjanaḥ</l>
+</lg>
+
+<app loc="1.11c">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">°dūtaiḥ</lem>
+     <rdg wit="#msCc #msNd">°dūte</rdg>
+</app>
+
+<app loc="1.11c">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd">nīto</lem>
+     <rdg wit="#msCc">nītvā</rdg>
+     <rdg wit="#msM">nītaḥ</rdg>
+     <rdg wit="#Ed">nītā</rdg>
+</app>
+
+<app loc="1.11d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">nirañjanaḥ</lem>
+     <rdg wit="#msCc">nirañjana</rdg>
+</app>
+
+<lg n="1.12" met="anuṣṭubh">
+<l n="ab"> kālapāśaiḥ kathaṁ baddho nirdehaś ca kathaṁ vrajet</l>
+
+<app loc="1.12a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">°pāśaiḥ</lem>
+     <rdg wit="#msCc">°pāśe</rdg>
+     <rdg wit="#msNd">°pāśai</rdg>
+</app>
+
+<app loc="1.12a">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #msM #Ed">baddho</lem>
+     <rdg wit="#msCb">ba<unclear reason="illegible">ddho</unclear></rdg>
+     <rdg wit="#msNd">baddha</rdg>
+</app>
+
+<app loc="1.12b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msMpcorr #Ed">nirdehaś ca</lem>
+     <rdg wit="#msCc">nirdahaḥ sa</rdg>
+     <rdg wit="#msNd">nirdehasya</rdg>
+     <rdg wit="#msMacorr">nirdehan ma</rdg>
+</app>
+
+<app loc="1.12b">
+     <lem wit="#mssCaCbCc #msNa #msNc #msNd #msM #Ed">vrajet</lem>
+     <rdg wit="#msNb">bhavet</rdg>
+</app>
+
+<l n="cd"> svargaṁ vā sa kathaṁ yāti nirdeho bahudharmakr̥t</l>
+
+<app loc="1.12c">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">svargaṁ</lem>
+     <rdg wit="#msCc #msNd #msM">svarga</rdg>
+</app>
+
+<app loc="1.12c">
+     <lem wit="#mssCaCbCc #msNa #msNc #msNd #Ed">sa</lem>
+     <rdg wit="#msNb #msM">saṁ</rdg>
+</app>
+
+<app loc="1.12c">
+     <lem wit="#msNa #msNb #msNc #msNd #msM">yāti</lem>
+     <rdg wit="#mssCaCbCc #Ed">yānti</rdg>
+</app>
+
+<l n="ef"> etan me saṁśayaṁ brūhi jñātum icchāmi tattvataḥ</l>
+</lg>
+
+<app loc="1.12e">
+     <lem wit="#mssCaCbCc #msNc #msM #Ed">saṁśayaṁ</lem>
+     <rdg wit="#msNa">saṁśaye</rdg>
+     <rdg wit="#msNb #msNd">saṁśayo</rdg>
+</app>
+
+<app loc="1.12f">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #msNd #msM #Ed">°tum icchāmi</lem>
+     <rdg wit="#msCb">°tum i</rdg>
+</app>
+
+<l n="1.13uvaca"> anarthayajña uvāca</l>
+
+<app loc="1.13">
+     <lem wit="#mssCaCbCc #msNapcorr #msNb #msNc #msNd #msM #Ed">anarthayajña uvāca</lem>
+     <rdg wit="#msNaacorr">[omitted]</rdg>
+</app>
+
+<lg n="1.13" met="anuṣṭubh">
+<l n="ab"> atisaṁśayakaṣṭaṁ te pr̥ṣṭo 'haṁ dvijasattama</l>
+
+<app loc="1.13a">
+     <lem wit="#msCb #msNa #msNb #msNc #msMpcorr">atisaṁśayakaṣṭaṁ te</lem>
+     <rdg wit="#msCa">atiśaṁsa<unclear reason="illegible">ya</unclear>kaṣṭan te</rdg>
+     <rdg wit="#msCc #msMacorr #Ed">atiśaṁsayakaṣṭam me</rdg>
+     <rdg wit="#msNd">atisaṁśayakaṣṭo mo</rdg>
+</app>
+
+<app loc="1.13b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">dvijasattama</lem>
+     <rdg wit="#msCc">ca dvijottamaḥ</rdg>
+     <rdg wit="#msNd">dvijasattamaḥ</rdg>
+</app>
+
+<l n="cd"> durvijñeyaṁ manuṣyais tu devadānavapannagaiḥ</l>
+</lg>
+
+<app loc="1.13c">
+     <lem wit="#msCa #msCb #msNa #msNc">°jñeyaṁ</lem>
+     <rdg wit="#msCc #msNb #msNd #msM #Ed">°jñeya</rdg>
+</app>
+
+<app loc="1.13c">
+     <lem wit="#msCa #msNa #msNb #msNc #msM #Ed">manuṣyais tu</lem>
+     <rdg wit="#msCb">manuṣaiś ca</rdg>
+     <rdg wit="#msCc">maṇukṣe<unclear reason="illegible">ptu</unclear></rdg>
+     <rdg wit="#msNd">manuṣyes tu</rdg>
+</app>
+
+<lg n="1.14" met="anuṣṭubh">
+<l n="ab"> karmahetuḥ śarīrasya utpattir nidhanaṁ ca yat</l>
+
+<app loc="1.14a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM">karma°</lem>
+     <rdg wit="#msCc #Ed">anarthayajña uvāca|| karma°</rdg>
+</app>
+
+<app loc="1.14a">
+     <lem wit="#msCb">°hetuḥ</lem>
+     <rdg wit="#msCa #msNa #msNb #msNc #msM #Ed">°hetu</rdg>
+     <rdg wit="#msCc">°heṁtu</rdg>
+     <rdg wit="#msNd">°hetu</rdg>
+</app>
+
+<app loc="1.14a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">śarīrasya</lem>
+     <rdg wit="#msCc">śarīrasyaṁ</rdg>
+</app>
+
+<app loc="1.14b">
+     <lem wit="#msM">utpattir ni°</lem>
+     <rdg wit="#msCa #msCb #msNa #msNb #msNc #Ed">utpattini°</rdg>
+     <rdg wit="#msCc #msNd">utpatini°</rdg>
+</app>
+
+<app loc="1.14b">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">ca yat</lem>
+     <rdg wit="#msNb">ca yaḥ</rdg>
+     <rdg wit="#msNd">yat</rdg>
+</app>
+
+<l n="cd"> sukr̥taṁ duṣkr̥taṁ caiva pāśadvayam udāhr̥tam</l>
+</lg>
+
+<app loc="1.14c">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">sukr̥taṁ</lem>
+     <rdg wit="#msCc">sukr̥takr̥tan</rdg>
+     <rdg wit="#msNd">sukr̥ta</rdg>
+</app>
+
+<app loc="1.14c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM #Ed">caiva</lem>
+     <rdg wit="#msNd">vāpi</rdg>
+</app>
+
+<app loc="1.14d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msNd #msM #Ed">°hr̥tam</lem>
+     <rdg wit="#msCc">°hr̥taḥ</rdg>
+</app>
+
+<lg n="1.15" met="anuṣṭubh">
+<l n="ab"> tenaiva saha saṁyāti narakaṁ svargam eva vā</l>
+
+<app loc="1.15a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">tenaiva</lem>
+     <rdg wit="#msCc #msNd">teneva</rdg>
+</app>
+
+<app loc="1.15a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">saṁyāti</lem>
+     <rdg wit="#msCc #msNd">sā yānti</rdg>
+     <rdg wit="#msM">sā yāti</rdg>
+</app>
+
+<app loc="1.15b">
+     <lem wit="#mssCaCbCc #msNb #msNc #msM #Ed">vā</lem>
+     <rdg wit="#msNa #msNd">ca</rdg>
+</app>
+
+<l n="cd"> sukhaduḥkhaṁ śarīreṇa bhoktavyaṁ karmasambhavam</l>
+</lg>
+
+<app loc="1.15c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">sukha°</lem>
+     <rdg wit="#msM">sukhaṁ</rdg>
+</app>
+
+<app loc="1.15c">
+     <lem wit="#msCa #msCb #msNa #msNc #msM">°duḥkhaṁ</lem>
+     <rdg wit="#msCc #msNb #Ed">°duḥkha</rdg>
+</app>
+
+<app loc="1.15d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM">°sambhavam</lem>
+     <rdg wit="#msCc #Ed">°sambhavaḥ</rdg>
+</app>
+
+<lg n="1.16" met="anuṣṭubh">
+<l n="ab"> hetunānena viprendra dehaḥ sambhavate nr̥ṇām</l>
+
+<app loc="1.16a">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">°ndra</lem>
+     <rdg wit="#msNb">°ndraḥ</rdg>
+</app>
+
+<app loc="1.16b">
+     <lem wit="#msCa #msCb #msNa #msNc #Ed">dehaḥ</lem>
+     <rdg wit="#msCc">dehe</rdg>
+     <rdg wit="#msNb #msM">deha</rdg>
+</app>
+
+<app loc="1.16b">
+     <lem wit="#msCa #msNa #msNb #msNc #msM #Ed">nr̥ṇām</lem>
+     <rdg wit="#msCb #msCc">nr̥ṇā</rdg>
+</app>
+
+<l n="cd"> yaṁ kālapāśam ity āhuḥ śr̥ṇu vakṣyāmi suvrata</l>
+</lg>
+
+<app loc="1.16c">
+     <lem type="eme">yaṁ kālapāśam ity āhuḥ</lem>
+     <rdg wit="#msCa #msCb #msNa">yaṁ kālapāśam ity āha</rdg>
+     <rdg wit="#msCc">kālapāseti satvāha</rdg>
+     <rdg wit="#msNb #msNc #Ed">yaṁ kālapāśam ity āhu</rdg>
+     <rdg wit="#msM">kālapāṣeti <unclear reason="illegible">pastve</unclear>ha</rdg>
+</app>
+
+<app loc="1.16d">
+     <lem wit="#msCa #msNa #msNb #msNc #msM #Ed">°vrata</lem>
+     <rdg wit="#msCb #msCc">°vrataḥ</rdg>
+</app>
+
+<lg n="1.17" met="anuṣṭubh">
+<l n="ab"> na tvayā viditaṁ kiñcij jijñāsyasi kathaṁ dvija</l>
+
+<app loc="1.17a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">viditaṁ</lem>
+     <rdg wit="#msCc">vidita</rdg>
+</app>
+
+<app loc="1.17ab">
+     <lem wit="#msCb #msM">kiñcij ji°</lem>
+     <rdg wit="#msCapcorr #msNa #msNb #msNc #Ed">kiñcid vi°</rdg>
+     <rdg wit="#msCaacorr">kid vi°</rdg>
+     <rdg wit="#msCc">kiñci ji°</rdg>
+</app>
+
+<app loc="1.17b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">kathaṁ dvija</lem>
+     <rdg wit="#msCc"><gap quantity="9" unit="char" reason="illegible"/> <unclear reason="illegible">ma tvayā viditaṁ kiñcid vijñāsyasi</unclear></rdg>
+</app>
+
+<l n="cd"> kālapāśaṁ ca viprendra sakalaṁ vettum arhasi</l>
+</lg>
+
+<app loc="1.17c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">kālapāśaṁ ca</lem>
+     <rdg wit="#msM">kālapāṣeti</rdg>
+</app>
+
+<app loc="1.17d">
+     <lem wit="#mssCaCbCc #msNa #msNb">vettum arhasi</lem>
+     <rdg wit="#msNc">vettum ūhasi</rdg>
+     <rdg wit="#msM #Ed">vaktum arhasi</rdg>
+</app>
+
+<lg n="1.18" met="anuṣṭubh">
+<l n="ab"> kalākalitakālaṁ ca kālatattvakalāṁ śr̥ṇu</l>
+
+<app loc="1.18a">
+     <lem wit="#msCa #msCb #msNapcorr #msNb #msNc #msM #Ed">kalā°</lem>
+     <rdg wit="#msCc #msNaacorr">kālā°</rdg>
+</app>
+
+<app loc="1.18a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">°kālaṁ ca</lem>
+     <rdg wit="#msM #Ed">°kālaś ca</rdg>
+</app>
+
+<app loc="1.18b">
+     <lem wit="#msCa #msCc #msNb #Ed">°kalāṁ</lem>
+     <rdg wit="#msCb #msNc">°kalā</rdg>
+     <rdg wit="#msNa">°vidhiṁ</rdg>
+     <rdg wit="#msM">°kalāḥ</rdg>
+</app>
+
+<l n="cd"> truṭidvayaṁ nimeṣas tu nimeṣadviguṇā kalā</l>
+</lg>
+
+<app loc="1.18c">
+     <lem wit="#msCa #msCc #msNc #Ed">truṭidvayaṁ</lem>
+     <rdg wit="#msCb #msNb">tuṭidvaya</rdg>
+     <rdg wit="#msNa #msM">tuṭidvayaṁ</rdg>
+</app>
+
+<app loc="1.18c">
+     <lem wit="#msCb #msCc #msNb #msNc #msM #Ed">°meṣas tu</lem>
+     <rdg wit="#msCa">°mevas tu</rdg>
+     <rdg wit="#msNa">°meṣadvi°</rdg>
+</app>
+
+<app loc="1.18d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">nimeṣadvi°</lem>
+     <rdg wit="#msM">nimeṣādvi°</rdg>
+</app>
+
+<lg n="1.19" met="anuṣṭubh">
+<l n="ab"> kalādviguṇitā kāṣṭhā kāṣṭhā vai triṁśatiḥ kalā</l>
+
+<app loc="1.19a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°guṇitā</lem>
+     <rdg wit="#msM">°guṇitaṁ</rdg>
+</app>
+
+<app loc="1.19b">
+     <lem wit="#msCa #msNa #msNb #msNc #Ed">kāṣṭhā vai triṁśatiḥ</lem>
+     <rdg wit="#msCb">vai triṁśatā</rdg>
+     <rdg wit="#msCc">kāṣṭhā vai triṁśati</rdg>
+     <rdg wit="#msM">kāṣṭhān vai triṁśati</rdg>
+</app>
+
+<l n="cd"> triṁśatkalā muhūrtaś ca mānuṣena dvijottama</l>
+</lg>
+
+<app loc="1.19c">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #msM">muhūrtaś ca</lem>
+     <rdg wit="#msCb">muhūrtta</rdg>
+     <rdg wit="#Ed">muhūrtañ ca</rdg>
+</app>
+
+<app loc="1.19d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">mānuṣena</lem>
+     <rdg wit="#msCc">mānu<unclear reason="illegible">ṣaś ca</unclear></rdg>
+</app>
+
+<app loc="1.19d">
+     <lem wit="#mssCaCbCc #msNa #msNcpcorr #Ed">°ttama</lem>
+     <rdg wit="#msNb #msM">°tamaḥ</rdg>
+     <rdg wit="#msNcacorr">°ttamaḥ</rdg>
+</app>
+
+<lg n="1.20" met="anuṣṭubh">
+<l n="ab"> muhūrtatriṁśakenaiva ahorātraṁ vidur budhāḥ</l>
+
+<app loc="1.20a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">muhūrta°</lem>
+     <rdg wit="#msM">muhūrttā</rdg>
+     <rdg wit="#Ed">muhūrtaṁ</rdg>
+</app>
+
+<l n="cd"> ahorātraṁ punas triṁśan māsam āhur manīṣiṇaḥ</l>
+</lg>
+
+<app loc="1.20c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°rātraṁ</lem>
+     <rdg wit="#msM">°rātra</rdg>
+</app>
+
+<app loc="1.20d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°nīṣiṇaḥ</lem>
+     <rdg wit="#msM">°nīṣina</rdg>
+</app>
+
+<lg n="1.21" met="anuṣṭubh">
+<l n="ab"> samā dvādaśa māsāś ca kālatattvavido janāḥ</l>
+
+<app loc="1.21a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">samā</lem>
+     <rdg wit="#msCc">māsa</rdg>
+</app>
+
+<app loc="1.21a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc">°māsāś ca</lem>
+     <rdg wit="#msCc #Ed">°māsaś ca</rdg>
+     <rdg wit="#msM">māsāhuḥ</rdg>
+</app>
+
+<app loc="1.21b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM #Ed">kāla°</lem>
+     <rdg wit="#msNc">kalā°</rdg>
+</app>
+
+<l n="cd"> śataṁ varṣasahasrāṇi trīṇi mānuṣasaṁkhyayā</l>
+</lg>
+
+<app loc="1.21c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">śataṁ</lem>
+     <rdg wit="#Ed">śata°</rdg>
+</app>
+
+<app loc="1.21b">
+     <lem wit="#msCa #msNa #msNb #msNc #msM #Ed">mānuṣa°</lem>
+     <rdg wit="#unmetr">māṇuṣya°</rdg>
+</app>
+
+<lg n="1.22" met="anuṣṭubh">
+<l n="ab"> ṣaṣṭiṁ caiva sahasrāṇi kālaḥ kaliyugaḥ smr̥taḥ</l>
+
+<app loc="1.22">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">(ṣaṣṭiṁ... saṁjñitaḥ)</lem>
+     <rdg wit="#msNb">[omitted]</rdg>
+</app>
+
+<app loc="1.22a">
+     <lem wit="#mssCaCbCc #msNc #msM">ṣaṣṭiṁ caiva</lem>
+     <rdg wit="#msNa">ṣaṣṭiṁ varṣa°</rdg>
+     <rdg wit="#msNb">[omitted]</rdg>
+     <rdg wit="#Ed">ṣaṣṭiś caiva</rdg>
+</app>
+
+<app loc="1.22b">
+     <lem wit="#mssCaCbCc #msNa #msNc">°yugaḥ</lem>
+     <rdg wit="#msNb">[omitted]</rdg>
+     <rdg wit="#msM #Ed">°yuga</rdg>
+</app>
+
+<l n="cd"> dviguṇaḥ kalisaṁkhyāto dvāparo yuga saṁjñitaḥ</l>
+</lg>
+
+<app loc="1.22c">
+     <lem wit="#mssCaCbCc #msNa #msNc">dviguṇaḥ kalisaṁkhyāto</lem>
+     <rdg wit="#msNb">[omitted]</rdg>
+     <rdg wit="#msM">kalisaṁkhyās tu dviguṇo</rdg>
+     <rdg wit="#Ed">dviguṇā kalisaṁkhyāto</rdg>
+</app>
+
+<app loc="1.22d">
+     <lem wit="#mssCaCbCc #msNa #msNc">dvāparo yuga saṁjñitaḥ</lem>
+     <rdg wit="#msNb">[omitted]</rdg>
+     <rdg wit="#msM">dvāparaḥ yugaḥ saṁjñikam</rdg>
+     <rdg wit="#Ed">dvāpare yuga saṁjñitaḥ</rdg>
+</app>
+
+<lg n="1.23" met="anuṣṭubh">
+<l n="ab"> tretā tu triguṇā jñeyā catuḥ kr̥tayugaḥ smr̥taḥ</l>
+
+<app loc="1.23">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">(tretā... ekasaptatiḥ)</lem>
+     <rdg wit="#msNb">[omitted]</rdg>
+</app>
+
+<app loc="1.23a">
+     <lem wit="#msCa #msCb #msNa #Ed">tretā</lem>
+     <rdg wit="#msCc #msM">tetrā</rdg>
+     <rdg wit="#msNb">[omitted]</rdg>
+     <rdg wit="#msNc">tretrā</rdg>
+</app>
+
+<app loc="1.23a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">triguṇā</lem>
+     <rdg wit="#msM">tr̥guṇo</rdg>
+</app>
+
+<app loc="1.23a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">jñeyā</lem>
+     <rdg wit="#msM">jñeyaḥ</rdg>
+</app>
+
+<app loc="1.23b">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM">°yugaḥ</lem>
+     <rdg wit="#msNb">[omitted]</rdg>
+     <rdg wit="#Ed">°yuga</rdg>
+</app>
+
+<l n="cd"> eṣā caturyugāsaṁkhyā kr̥tvā vai hy ekasaptatiḥ</l>
+</lg>
+
+<app loc="1.23d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM #Ed">hy e°</lem>
+     <rdg wit="#msNc">he°</rdg>
+</app>
+
+<app loc="1.23d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°saptatiḥ</lem>
+     <rdg wit="#msM">°saptati</rdg>
+</app>
+
+<lg n="1.24" met="anuṣṭubh">
+<l n="ab"> manvantarasya caikasya jñānam uktaṁ samāsataḥ</l>
+
+<app loc="1.24">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">(manvantarasya... saṁkhyayā)</lem>
+     <rdg wit="#msNb">[omitted]                                        [eyeskip from 21d to 24d] </rdg>
+</app>
+
+<app loc="1.24a">
+     <lem wit="#mssCaCbCc #msNapcorr #msNc #msMpcorr #Ed">caikasya</lem>
+     <rdg wit="#msNaacorr #msNb #msMacorr">[omitted]</rdg>
+</app>
+
+<app loc="1.24b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°ktaṁ</lem>
+     <rdg wit="#msM">°kta</rdg>
+</app>
+
+<l n="cd"> kalpo manvantarāṇāṁ tu caturdaśa tu saṁkhyayā</l>
+</lg>
+
+<app loc="1.24c">
+     <lem wit="#msCb">kalpo</lem>
+     <rdg wit="#msCa #msCc #msNa #msNc #msM #Ed">kalpa</rdg>
+     <rdg wit="#msNb">[omitted]</rdg>
+</app>
+
+<app loc="1.24c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">manvanta°</lem>
+     <rdg wit="#msMacorr">nvanta°</rdg>
+     <rdg wit="#msMpcorr">maṁnvanta°</rdg>
+</app>
+
+<app loc="1.24d">
+     <lem wit="#msCa #msCc #msNa #msNc #msM #Ed">°daśa</lem>
+     <rdg wit="#msCb">°daśaṁ</rdg>
+     <rdg wit="#msNb">[omitted]</rdg>
+</app>
+
+<app loc="1.24d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">saṁkhyayā</lem>
+     <rdg wit="#msM">śaṁkṣayā</rdg>
+</app>
+
+<lg n="1.25" met="anuṣṭubh">
+<l n="ab"> daśa kalpasahasrāṇi brahmāhaḥ parikalpitam</l>
+
+<app loc="1.25b">
+     <lem wit="#msCb #msCc #msNa #msNb #msNc #msM #Ed">°āhaḥ</lem>
+     <rdg wit="#msCa">°āha</rdg>
+</app>
+
+<app loc="1.25b">
+     <lem wit="#msCa #msNc">parikalpitam</lem>
+     <rdg wit="#msCb">karikalpitam</rdg>
+     <rdg wit="#msCc #msNb #msM #Ed">parikalpitaḥ</rdg>
+     <rdg wit="#msNa">parikīrtitāḥ</rdg>
+</app>
+
+<l n="cd"> rātrir etāvatī proktā munibhis tattvadarśibhiḥ</l>
+</lg>
+
+<app loc="1.25d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°darśibhiḥ</lem>
+     <rdg wit="#msM">°darśibhi</rdg>
+</app>
+
+<lg n="1.26" met="anuṣṭubh">
+<l n="ab"> rātryāgame pralīyante jagat sarvaṁ carācaram</l>
+
+<app loc="1.26a">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #msM #Ed">pralīyante</lem>
+     <rdg wit="#msCb">pralīyate</rdg>
+</app>
+
+<app loc="1.26b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">sarvaṁ ca°</lem>
+     <rdg wit="#msM">sarvaś ca°</rdg>
+</app>
+
+<l n="cd"> ahāgame tathaiveha utpadyante carācaram</l>
+</lg>
+
+<app loc="1.26c">
+     <lem wit="#mssCaCbCc #msNa #msNc">ahāgame</lem>
+     <rdg wit="#msNb">ahāga<gap quantity="1" unit="char" reason="lost"/></rdg>
+     <rdg wit="#unmetr">aharāgame</rdg>
+     <rdg wit="#Ed">ahnāgame</rdg>
+</app>
+
+<app loc="1.26d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°padyante</lem>
+     <rdg wit="#msM">°padyaṁti</rdg>
+</app>
+
+<lg n="1.27" met="anuṣṭubh">
+<l n="ab"> parārdhaparakalpāni atītāni dvijottama</l>
+
+<app loc="1.27a">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">°rdha°</lem>
+     <rdg wit="#msNb">°rdhaṁ</rdg>
+</app>
+
+<l n="cd"> anāgataṁ tathaivāhur bhr̥gurādimaharṣayaḥ</l>
+</lg>
+
+<app loc="1.27cd">
+     <lem wit="#msCa #msCb #msNa #msNc #Ed">°vāhur bhr̥°</lem>
+     <rdg wit="#msCc #msNb #msM">°vāhu bhr̥°</rdg>
+</app>
+
+<app loc="1.27d">
+     <lem wit="#mssCaCbCc #msNapcorr #msNb #Ed">maharṣayaḥ</lem>
+     <rdg wit="#msNaacorr">mahayaḥ</rdg>
+     <rdg wit="#msNc">marhaṣayaḥ</rdg>
+     <rdg wit="#msM">maharṣibhiḥ</rdg>
+</app>
+
+<lg n="1.28" met="anuṣṭubh">
+<l n="ab"> yathārkagrahatārendu bhramato dr̥śyate tv iha</l>
+
+<app loc="1.28a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msMpcorr #Ed">°ārka°</lem>
+     <rdg wit="#msMacorr">°ārkā°</rdg>
+</app>
+
+<app loc="1.28a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°tārendu</lem>
+     <rdg wit="#msM">°tāraindu</rdg>
+</app>
+
+<app loc="1.28b">
+     <lem wit="#msCa #msNa #msNb #msNc #Ed">dr̥śyate tv iha</lem>
+     <rdg wit="#msCb">dr̥śyandiha</rdg>
+     <rdg wit="#msCc">dr̥syate tv ihaḥ</rdg>
+     <rdg wit="#msM">dr̥śyate tv ihaḥ</rdg>
+</app>
+
+<l n="cd"> kālacakraṁ bhramatvaiva viśramaṁ na ca vidmahe</l>
+</lg>
+
+<app loc="1.28c">
+     <lem wit="#msCa #msNa #msNc #Ed">°tvaiva</lem>
+     <rdg wit="#msCb #msNb #msM">°tveva</rdg>
+     <rdg wit="#msCc">°tveha</rdg>
+</app>
+
+<app loc="1.28d">
+     <lem wit="#mssCaCbCc #msNapcorr #msNc #Ed">°śramaṁ</lem>
+     <rdg wit="#msNaacorr">°śramo</rdg>
+     <rdg wit="#msNb">°śrāman</rdg>
+     <rdg wit="#msM">°śrāmo</rdg>
+</app>
+
+<app loc="1.28d">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #Ed">vidmahe</lem>
+     <rdg wit="#msCb">vigrahe</rdg>
+     <rdg wit="#msM">vidyate</rdg>
+</app>
+
+<lg n="1.29" met="anuṣṭubh">
+<l n="ab"> kālaḥ sr̥jati bhūtāni kālaḥ saṁharate punaḥ</l>
+
+<app loc="1.29b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">kālaḥ</lem>
+     <rdg wit="#Ed">kāla</rdg>
+</app>
+
+<l n="cd"> kālasya vaśagāḥ sarve na kālavaśakr̥t kvacit</l>
+</lg>
+
+<app loc="1.29c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msMpcorr #Ed">kālasya</lem>
+     <rdg wit="#msMacorr">kālaḥsya</rdg>
+</app>
+
+<app loc="1.29c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">vaśagāḥ</lem>
+     <rdg wit="#Ed">vaśagā</rdg>
+</app>
+
+<app loc="1.29d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">kālavaśakr̥°</lem>
+     <rdg wit="#msM">kālo vaśakr̥°</rdg>
+</app>
+
+<lg n="1.30" met="anuṣṭubh">
+<l n="ab"> caturdaśaparārdhāni devarājā dvijottama</l>
+
+<app loc="1.30b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">devarājā</lem>
+     <rdg wit="#msM #Ed">devarāja</rdg>
+</app>
+
+<app loc="1.30b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°ttama</lem>
+     <rdg wit="#msM">°ttamaḥ</rdg>
+</app>
+
+<l n="cd"> kālena samatītāni kālo hi duratikramaḥ</l>
+</lg>
+
+<lg n="1.31" met="anuṣṭubh">
+<l n="ab"> eṣa kālo mahāyogī brahmā viṣṇuḥ paraḥ śivaḥ</l>
+
+<app loc="1.31a">
+     <lem wit="#msCa #msCb #msNa">kālo</lem>
+     <rdg wit="#msCc #msNb #msNc #msM #Ed">kāla</rdg>
+</app>
+
+<app loc="1.31b">
+     <lem wit="#msCb">brahmā viṣṇuḥ paraḥ</lem>
+     <rdg wit="#msCa #msNc #msM">brahmaviṣṇuparaḥ</rdg>
+     <rdg wit="#msCc #msNa #msNb">brahmā viṣṇu paraḥ</rdg>
+     <rdg wit="#unmetr">brahmaviṣṇupara</rdg>
+</app>
+
+<l n="cd"> anādinidhano dhātā sa mahātmā namaskuru</l>
+</lg>
+
+<l n="1.32uvaca"> vigatarāga uvāca</l>
+
+<lg n="1.32" met="anuṣṭubh">
+<l n="ab"> śrutaṁ vai kālacakraṁ tu mukhapadmaviniḥsr̥tam</l>
+
+<app loc="1.32a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">śrutaṁ vai</lem>
+     <rdg wit="#msM">śruto vaḥ</rdg>
+</app>
+
+<app loc="1.32a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">°cakraṁ tu</lem>
+     <rdg wit="#msCc">°cakrasya</rdg>
+     <rdg wit="#msM">°cakrat tu</rdg>
+</app>
+
+<app loc="1.32b">
+     <lem type="corr">viniḥsr̥tam</lem>
+     <rdg wit="#unmetr">vinisr̥tam</rdg>
+</app>
+
+<l n="cd"> parārdhaṁ ca paraṁ caiva śrotuṁ vaḥ pratidīpitam</l>
+</lg>
+
+<app loc="1.32c">
+     <lem wit="#msCb #msCc #msNa #msNb #msNc #Ed">parārdhaṁ ca</lem>
+     <rdg wit="#msCa"><unclear reason="illegible">pa</unclear>rārddhaṁ ca</rdg>
+     <rdg wit="#msMacorr">parādhañ ca</rdg>
+     <rdg wit="#msMpcorr">parārdhaṁñ ce</rdg>
+</app>
+
+<app loc="1.32c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">paraṁ caiva</lem>
+     <rdg wit="#msM">parāñ caiva</rdg>
+</app>
+
+<app loc="1.32d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msMacorr">vaḥ</lem>
+     <rdg wit="#msMpcorr">naḥ</rdg>
+     <rdg wit="#Ed">yaḥ</rdg>
+</app>
+
+<app loc="1.32d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°dīpitam</lem>
+     <rdg wit="#msM">°dīyatāṁ</rdg>
+</app>
+
+<l n="1.33uvaca"> anarthayajña uvāca</l>
+
+<app loc="1.33">
+     <lem wit="#mssCaCbCc #msNapcorr #msNb #msNc #msM #Ed">anarthayajña uvāca</lem>
+     <rdg wit="#msNaacorr">[omitted]</rdg>
+</app>
+
+<lg n="1.33" met="anuṣṭubh">
+<l n="ab"> ekaṁ daśaṁ śataṁ caiva sahasram ayutaṁ tathā</l>
+
+<app loc="1.33b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">sahasra°</lem>
+     <rdg wit="#msM">sāhasra°</rdg>
+</app>
+
+<app loc="1.33b">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">°yutaṁ</lem>
+     <rdg wit="#msNb">°tan</rdg>
+</app>
+
+<l n="cd"> prayutaṁ niyutaṁ koṭim arbudaṁ vr̥ndam eva ca</l>
+</lg>
+
+<app loc="1.33cd">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM #Ed">koṭim a°</lem>
+     <rdg wit="#msNc">koṭir a°</rdg>
+</app>
+
+<app loc="1.33d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM #Ed">°rbudaṁ</lem>
+     <rdg wit="#msNc">°budaṁ</rdg>
+</app>
+
+<lg n="1.34" met="anuṣṭubh">
+<l n="ab"> kharvaṁ caiva nikharvaṁ ca śaṅkuḥ padmaṁ tathaiva ca</l>
+
+<app loc="1.34a">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">nikharvaṁ ca</lem>
+     <rdg wit="#msNb">nikharvaṁ tu</rdg>
+     <rdg wit="#msM">nisarvañ ca</rdg>
+</app>
+
+<app loc="1.34b">
+     <lem type="corr">śaṅkuḥ</lem>
+     <rdg wit="#mssCaCbCc #msNa #msNb #msNc #msM">śaṅku</rdg>
+     <rdg wit="#Ed">śaṁkha</rdg>
+</app>
+
+<app loc="1.34b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">padmaṁ</lem>
+     <rdg wit="#msM">padma</rdg>
+</app>
+
+<l n="cd"> samudro madhyam antaṁ ca parārdhaṁ ca paraṁ tathā</l>
+</lg>
+
+<app loc="1.34cd">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">(samudro... tathā)</lem>
+     <rdg wit="#Ed">[omitted]</rdg>
+</app>
+
+<app loc="1.34c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">samudro</lem>
+     <rdg wit="#msM">samudra°</rdg>
+</app>
+
+<app loc="1.34c">
+     <lem wit="#mssCaCbCc #msNaacorr #msM">madhyam antaṁ ca</lem>
+     <rdg wit="#msNapcorr">madhyamāntaṁ ca</rdg>
+     <rdg wit="#msNb">madhya<unclear reason="illegible">mantañ ca</unclear></rdg>
+     <rdg wit="#msNc">madhyam antaś ca</rdg>
+     <rdg wit="#Ed">[omitted]</rdg>
+</app>
+
+<app loc="1.34d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">parārdhaṁ ca paraṁ tathā</lem>
+     <rdg wit="#msM">parārddhaparadveguṇām</rdg>
+</app>
+
+<lg n="1.35" met="anuṣṭubh">
+<l n="ab"> sarve daśaguṇā jñeyāḥ parārdhaṁ yāvad eva hi</l>
+
+<app loc="1.35">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">(sarve... vidhīyate)</lem>
+     <rdg wit="#Ed">[omitted]</rdg>
+</app>
+
+<app loc="1.35b">
+     <lem wit="#msNc">parārdhaṁ</lem>
+     <rdg wit="#msCb #msCc #msNa #msNb #msM">parārdha</rdg>
+     <rdg wit="#msCa">parā<unclear reason="illegible">rdha</unclear></rdg>
+     <rdg wit="#Ed">[omitted]</rdg>
+</app>
+
+<l n="cd"> parārdhadviguṇenaiva parasaṁkhyā vidhīyate</l>
+</lg>
+
+<app loc="1.35c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM #Ed">parārdha°</lem>
+     <rdg wit="#msNc">parārdhaṁ</rdg>
+</app>
+
+<app loc="1.35d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°saṁkhyā</lem>
+     <rdg wit="#msM">°sakhyā</rdg>
+</app>
+
+<lg n="1.36" met="anuṣṭubh">
+<l n="ab"> parāt parataraṁ nāsti iti me niścitā matiḥ</l>
+
+<app loc="1.36ab">
+     <lem wit="#mssCaCbCc #msNb #msNcpcorr">parāt parataraṁ nāsti iti me niścitā matiḥ</lem>
+     <rdg wit="#msNa #msNcacorr">parāt parataraṁ nāsti iti me niścitā mati</rdg>
+     <rdg wit="#msM">parāparataran nāsti iti me niścitā mati</rdg>
+     <rdg wit="#Ed">vr̥ndañ caiva mahāvr̥nda dviparānantam eva ca|                parāt parataraṁ nāsti iti me niścitā matiḥ||</rdg>
+</app>
+
+<l n="cd"> purāṇavedapaṭhitā mayākhyātā dvijottama</l>
+</lg>
+
+<app loc="1.36e">
+     <lem wit="#msCa #Ed">°veda°</lem>
+     <rdg wit="#unmetr">°vede</rdg>
+     <rdg wit="#msNa">°vedā</rdg>
+     <rdg wit="#msM">°vedaiḥ</rdg>
+</app>
+
+<app loc="1.36f">
+     <lem wit="#msCa #msCb #msNa">°ākhyātā</lem>
+     <rdg wit="#msCc #msNb #msNc #msM #Ed">°ākhyātaṁ</rdg>
+</app>
+
+<app loc="1.36f">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">°ttama</lem>
+     <rdg wit="#msM">°tama</rdg>
+</app>
+
+<l n="1.37uvaca"> vigatarāga uvāca</l>
+
+<lg n="1.37" met="anuṣṭubh">
+<l n="ab"> brahmāṇḍaṁ kati vijñeyaṁ pramāṇaṁ prāpitaṁ kvacit</l>
+
+<app loc="1.37a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">brahmāṇḍaṁ</lem>
+     <rdg wit="#msCc">brahmāṇḍa</rdg>
+</app>
+
+<app loc="1.37b">
+     <lem type="conj">pramāṇaṁ prāpitaṁ kvacit</lem>
+     <rdg wit="#mssCaCbCc #msNa #msNb #Ed">pramāṇañ cāpitaṁ  kvacit</rdg>
+     <rdg wit="#msNc">pramāñ cāpitat kvacit</rdg>
+     <rdg wit="#msM">pramāṇañ cāpitāṁ kati</rdg>
+</app>
+
+<l n="cd"> kati cāṅgulimūrdheṣu sūryas tapati vai mahīm</l>
+</lg>
+
+<app loc="1.37d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">sūryas ta°</lem>
+     <rdg wit="#msMacorr">ryo</rdg>
+     <rdg wit="#msMpcorr">śūryo</rdg>
+</app>
+
+<app loc="1.37d">
+     <lem wit="#msCb #msCc #msNa #msM">mahīm</lem>
+     <rdg wit="#msCa">mahī<unclear reason="illegible">m</unclear></rdg>
+     <rdg wit="#msNb #msNc #Ed">mahī</rdg>
+</app>
+
+<l n="1.38uvaca"> anarthayajña uvāca</l>
+
+<lg n="1.38" met="anuṣṭubh">
+<l n="ab"> brahmāṇḍānāṁ prasaṁkhyātuṁ mayā śakyaṁ kathaṁ dvija</l>
+
+<app loc="1.38a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">brahmā°</lem>
+     <rdg wit="#msM">brahma°</rdg>
+</app>
+
+<app loc="1.38a">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM">prasaṁkhyātuṁ</lem>
+     <rdg wit="#msNb">prasaṁsā tu</rdg>
+     <rdg wit="#Ed">ca saṁkhyātuṁ</rdg>
+</app>
+
+<app loc="1.38b">
+     <lem wit="#msNa #msNb #Ed">śakyaṁ ka°</lem>
+     <rdg wit="#mssCaCbCc #msNc">śakyā ka°</rdg>
+     <rdg wit="#msM">sakyāṅ ka°</rdg>
+</app>
+
+<l n="cd"> devās te 'pi na jānanti mānuṣāṇāṁ ca kā kathā</l>
+</lg>
+
+<app loc="1.38c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">devās te</lem>
+     <rdg wit="#msM">devatāpi</rdg>
+</app>
+
+<app loc="1.38d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">mānuṣāṇāṁ ca</lem>
+     <rdg wit="#msMacorr">mānuṣārnañ ca</rdg>
+     <rdg wit="#msMpcorr">mānuṣānāñ ca</rdg>
+</app>
+
+<lg n="1.39" met="anuṣṭubh">
+<l n="ab"> paryāyeṇa tu vakṣyāmi yathāśakyaṁ dvijottama</l>
+
+<l n="cd"> brahmaṇā yat purākhyāto mātariśvā yathā tathā</l>
+</lg>
+
+<app loc="1.39c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">purākhyāto</lem>
+     <rdg wit="#msM">purākhyātaṁ</rdg>
+     <rdg wit="#Ed">mamākhyāto</rdg>
+</app>
+
+<lg n="1.40" met="anuṣṭubh">
+<l n="ab"> śivāṇḍābhyantareṇaiva sarveṣām iva bhūbhr̥tām</l>
+
+<app loc="1.40a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">śivāṇḍā°</lem>
+     <rdg wit="#msMacorr">śivāṇḍa°</rdg>
+     <rdg wit="#msMpcorr">śivāṇḍe°</rdg>
+</app>
+
+<app loc="1.40b">
+     <lem type="conj">sarveṣām iva bhūbhr̥tām</lem>
+     <rdg wit="#msCa #msCb #msNc">sarveṣām iva bhūritāḥ</rdg>
+     <rdg wit="#msCc">sarveṣām eva bhūritāḥ</rdg>
+     <rdg wit="#msNa">sarveṣām iva bhūritā</rdg>
+     <rdg wit="#msNb">sarveṣām eva bhūriṇām</rdg>
+     <rdg wit="#msM">sa<unclear reason="illegible">rṣapā</unclear> iva bhāvitā</rdg>
+     <rdg wit="#Ed">sarveṣām eva bhūr imāṁ</rdg>
+</app>
+
+<l n="cd"> daśanāma diśāṣṭānāṁ brahmāṇḍe kīrtitaṁ śr̥ṇu</l>
+</lg>
+
+<app loc="1.40c">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">diśā°</lem>
+     <rdg wit="#msNb">śivā°</rdg>
+</app>
+
+<app loc="1.40d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">brahmāṇḍe</lem>
+     <rdg wit="#msM">brahmaṇḍā</rdg>
+</app>
+
+<app loc="1.40d">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #Ed">kīrtitaṁ śr̥ṇu</lem>
+     <rdg wit="#msCb">ya ca kīrtitam</rdg>
+     <rdg wit="#msM">kīrttitā śr̥ṇu</rdg>
+</app>
+
+<lg n="1.41" met="anuṣṭubh">
+<l n="ab"> sahāsahaḥ sahaḥ sahyo visahaḥ saṁhato 'sahā</l>
+
+<app loc="1.41a">
+     <lem wit="#msNc">sahāsahaḥ</lem>
+     <rdg wit="#mssCaCbCc #msNa #msNb #msM #Ed">sāhāsaha</rdg>
+</app>
+
+<app loc="1.41a">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc">sahaḥ sahyo</lem>
+     <rdg wit="#msCb">sahaḥ sajñā</rdg>
+     <rdg wit="#msM">saho sahyaḥ</rdg>
+     <rdg wit="#Ed">sahaḥ sajño</rdg>
+</app>
+
+<app loc="1.41b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #Ed">visahaḥ</lem>
+     <rdg wit="#msCc #msM">visaha</rdg>
+</app>
+
+<app loc="1.41b">
+     <lem wit="#msM">sahā</lem>
+     <rdg wit="#msCa #msCc #msNa #msNb #msNc">sabhā</rdg>
+     <rdg wit="#msCb">sabhāḥ</rdg>
+     <rdg wit="#Ed">satā</rdg>
+</app>
+
+<l n="cd"> prasaho 'prasahaḥ sānuḥ pūrvato daśa nāyakāḥ</l>
+</lg>
+
+<app loc="1.41c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">prasaho</lem>
+     <rdg wit="#Ed">prasaheḥ</rdg>
+</app>
+
+<app loc="1.41c">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM">prasahaḥ</lem>
+     <rdg wit="#msCc">prasa<unclear reason="illegible">vaḥ</unclear></rdg>
+     <rdg wit="#Ed">saprahaḥ</rdg>
+</app>
+
+<app loc="1.41c">
+     <lem wit="#mssCaCbCc #msNa #msNb">sānuḥ</lem>
+     <rdg wit="#msNc #msM #Ed">sānu</rdg>
+</app>
+
+<app loc="1.41d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">pūrvato</lem>
+     <rdg wit="#Ed">parvato</rdg>
+</app>
+
+<lg n="1.42" met="anuṣṭubh">
+<l n="ab"> prabhāso bhāsano bhānuḥ pradyoto dyutimo dyutiḥ</l>
+
+<app loc="1.42a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM">bhāsano</lem>
+     <rdg wit="#msCc">bhāsa<gap quantity="1" unit="char" reason="lost"/></rdg>
+     <rdg wit="#Ed">bhāsato</rdg>
+</app>
+
+<app loc="1.42a">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #Ed">bhānuḥ</lem>
+     <rdg wit="#msCb #msM">bhānu</rdg>
+</app>
+
+<app loc="1.42b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM">dyutimo</lem>
+     <rdg wit="#msNc #Ed">dyutino</rdg>
+</app>
+
+<l n="cd"> dīptatejāś ca tejāś ca tejā tejavaho daśa</l>
+</lg>
+
+<app loc="1.42c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">dīptatejāś ca tejāś ca</lem>
+     <rdg wit="#msCb">dīptatejāś ca tejaś ca</rdg>
+     <rdg wit="#unmetr">dīptatejas tejaś ca</rdg>
+     <rdg wit="#Ed">dīptatejaś ca tejāś ca</rdg>
+</app>
+
+<app loc="1.42d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">tejā tejavaho</lem>
+     <rdg wit="#msM">tejatejayaha</rdg>
+</app>
+
+<lg n="1.43" met="anuṣṭubh">
+<l n="ab"> āgneye tv etad ākhyātaṁ yāmye śr̥ṇv atha bho dvija</l>
+
+<app loc="1.43a">
+     <lem wit="#mssCaCbCc #msNa #msNb #Ed">āgneye</lem>
+     <rdg wit="#msNc">āgneya</rdg>
+     <rdg wit="#msM">āgnerye</rdg>
+</app>
+
+<app loc="1.43a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">tv etad ā°</lem>
+     <rdg wit="#msM">tv ecam ā</rdg>
+</app>
+
+<app loc="1.43b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">śr̥ṇv atha</lem>
+     <rdg wit="#msM">śr̥ṇutha</rdg>
+</app>
+
+<app loc="1.43b">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM #Ed">dvija</lem>
+     <rdg wit="#msNb">dvijaḥ</rdg>
+</app>
+
+<l n="cd"> yamo 'tha yamunā yāmaḥ saṁyamo yamuno 'yamaḥ</l>
+</lg>
+
+<app loc="1.43d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">saṁyamo</lem>
+     <rdg wit="#msM">saṁyama</rdg>
+</app>
+
+<app loc="1.43d">
+     <lem wit="#msCa #msCb #msNb">yamuno</lem>
+     <rdg wit="#msCc #msNc">yamano</rdg>
+     <rdg wit="#msNa">yumunā</rdg>
+     <rdg wit="#msM">yamato</rdg>
+     <rdg wit="#Ed">yamunā°</rdg>
+</app>
+
+<app loc="1.43d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">yamaḥ</lem>
+     <rdg wit="#msM">yana</rdg>
+</app>
+
+<lg n="1.44" met="anuṣṭubh">
+<l n="ab"> saṁyano yamanoyāno yaniyugmā yanoyanaḥ</l>
+
+<app loc="1.44a">
+     <lem wit="#msNa">saṁyano yamanoyāno</lem>
+     <rdg wit="#msCa #msCc #Ed">saṁyamo yamanoyāno</rdg>
+     <rdg wit="#msCb #msNb">saṁyamo yamunoyāno</rdg>
+     <rdg wit="#msNc">saṁyamā yamano yāmo</rdg>
+     <rdg wit="#msM">yamiyugmā yano yānaḥ</rdg>
+</app>
+
+<app loc="1.44b">
+     <lem wit="#msNb">yaniyugmā yano yanaḥ</lem>
+     <rdg wit="#msCa #msCc #msNa">yaniyugmā nayo yanaḥ</rdg>
+     <rdg wit="#msCb">yaniyugmā nayo nayaḥ</rdg>
+     <rdg wit="#msNc">yaniyugmā nayo yamaḥ</rdg>
+     <rdg wit="#msM">daśamā yāmyam āśr̥tā</rdg>
+     <rdg wit="#Ed">yaniyugmā nayonaya</rdg>
+</app>
+
+<l n="cd"> nagajo naganā nando nagaro naga nandanaḥ</l>
+</lg>
+
+<app loc="1.44c">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #msM">naganā nando</lem>
+     <rdg wit="#msCb">nagajā nando</rdg>
+     <rdg wit="#msM">naganāgendra</rdg>
+     <rdg wit="#Ed">nagano nado</rdg>
+</app>
+
+<app loc="1.44d">
+     <lem wit="#msNb #msMacorr">nagaro naganandanaḥ</lem>
+     <rdg wit="#msCa #msNc">nagaroraganandanaḥ</rdg>
+     <rdg wit="#msCb">nagaro<unclear reason="illegible">nagananda</unclear>naḥ</rdg>
+     <rdg wit="#msCc">naga<unclear reason="illegible">ro</unclear><gap quantity="2" unit="char" reason="lost"/>nandanaḥ</rdg>
+     <rdg wit="#msNa">nagarogaranandanaḥ</rdg>
+     <rdg wit="#msMpcorr">nagaro nananandanaḥ</rdg>
+     <rdg wit="#Ed">nagaronnaganandanaḥ</rdg>
+</app>
+
+<lg n="1.45" met="anuṣṭubh">
+<l n="ab"> nagarbho gahano guhyo gūḍhajo daśa tatparaḥ</l>
+
+<app loc="1.45a">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">nagarbho</lem>
+     <rdg wit="#msNb">nr̥gabho</rdg>
+     <rdg wit="#msM">nagarbha</rdg>
+</app>
+
+<app loc="1.45a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">gahano guhyo</lem>
+     <rdg wit="#msM">guhano guhya</rdg>
+     <rdg wit="#Ed">gahano guhye</rdg>
+</app>
+
+<app loc="1.45b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">gūḍhajo</lem>
+     <rdg wit="#msM">guḍajo</rdg>
+</app>
+
+<app loc="1.45b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">tatparaḥ</lem>
+     <rdg wit="#msM">tatparam</rdg>
+</app>
+
+<l n="cd"> vāruṇena pravakṣyāmi śr̥ṇu vipra nibodha me</l>
+</lg>
+
+<app loc="1.45c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">vāruṇena</lem>
+     <rdg wit="#Ed">vāruṇe ca</rdg>
+</app>
+
+<app loc="1.45d">
+     <lem wit="#msNb #msM">śr̥ṇu</lem>
+     <rdg wit="#msCa #msCb #msNa #msNc">śr̥ṅge</rdg>
+     <rdg wit="#msCc">śr̥<unclear reason="illegible">ṅge</unclear></rdg>
+     <rdg wit="#Ed">mr̥ddhe</rdg>
+</app>
+
+<lg n="1.46" met="anuṣṭubh">
+<l n="ab"> babhraḥ setur bhavodbhadraḥ prabhavodbhavabhājanaḥ</l>
+
+<app loc="1.46a">
+     <lem type="corr">babhraḥ setur bha°</lem>
+     <rdg wit="#msCa #msCb">babhraṁ setur bha°</rdg>
+     <rdg wit="#msCc">babhraṁ setu bha°</rdg>
+     <rdg wit="#msNa">babhraḥ setu bha°</rdg>
+     <rdg wit="#msNb">babhraṁ sotur bha°</rdg>
+     <rdg wit="#msNc">babhra setur bha°</rdg>
+     <rdg wit="#msM">babhrū setu bha°</rdg>
+     <rdg wit="#Ed">babhrūn satur bha°</rdg>
+</app>
+
+<app loc="1.46b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">prabhavodbhava°</lem>
+     <rdg wit="#msM">prabhavobhava°</rdg>
+</app>
+
+<app loc="1.46b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">°bhājanaḥ</lem>
+     <rdg wit="#Ed">°bhājana</rdg>
+</app>
+
+<l n="cd"> bharaṇo bhuvano bhartā daśaite varuṇālayāḥ</l>
+</lg>
+
+<app loc="1.46c">
+     <lem wit="#msCb #msNc">bharaṇo</lem>
+     <rdg wit="#msCa #msNa">bharaṇa</rdg>
+     <rdg wit="#msCc #Ed">bharaṇāṁ</rdg>
+     <rdg wit="#msNb">bharaṇā</rdg>
+     <rdg wit="#msM">bharaṇaḥ</rdg>
+</app>
+
+<app loc="1.46d">
+     <lem wit="#mssCaCbCc #msNa #msNb #Ed">daśaite</lem>
+     <rdg wit="#msNc">daśete</rdg>
+     <rdg wit="#msM">daśaitā</rdg>
+</app>
+
+<app loc="1.46d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">°ālayāḥ</lem>
+     <rdg wit="#msM #Ed">°ālayā</rdg>
+</app>
+
+<lg n="1.47" met="anuṣṭubh">
+<l n="ab"> nr̥garbho 'suragarbhaś ca devagarbho mahīdharaḥ</l>
+
+<app loc="1.47a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">nr̥garbho</lem>
+     <rdg wit="#msM">nr̥gabhā</rdg>
+</app>
+
+<app loc="1.47a">
+     <lem wit="#msCa #msCb #msNb #msNc">°garbhaś ca</lem>
+     <rdg wit="#msCc #msNa #msM #Ed">°garbhāś ca</rdg>
+</app>
+
+<app loc="1.47b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">devagarbho</lem>
+     <rdg wit="#msM">devagarbha</rdg>
+</app>
+
+<l n="cd"> vr̥ṣabho vr̥ṣagarbhaś ca vr̥ṣāṅko vr̥ṣabhadhvajaḥ</l>
+</lg>
+
+<app loc="1.47c">
+     <lem wit="#mssCaCbCc #msNb #msNc #Ed">°garbhaś ca</lem>
+     <rdg wit="#msNa">°garbhāś ca</rdg>
+     <rdg wit="#msM">°garbhoś ca</rdg>
+</app>
+
+<app loc="1.47d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">vr̥ṣāṅko</lem>
+     <rdg wit="#msM">vr̥ṣāṁgo</rdg>
+</app>
+
+<app loc="1.47d">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">vr̥ṣabha°</lem>
+     <rdg wit="#msCc">vr̥ṣa<gap quantity="1" unit="char" reason="illegible"/>°</rdg>
+</app>
+
+<lg n="1.48" met="anuṣṭubh">
+<l n="ab"> jñātavyaś ca tathā samyag vr̥ṣajo vr̥ṣanandanaḥ</l>
+
+<app loc="1.48a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">jñātavyaś ca tathā samyag</lem>
+     <rdg wit="#msM">vr̥ṣañjavr̥ṣanandaś ca</rdg>
+     <rdg wit="#Ed">jñānavāñ ca tathā satya°</rdg>
+</app>
+
+<app loc="1.48b">
+     <lem wit="#mssCaCbCc #msNb #msNc #Ed">vr̥ṣajo vr̥ṣanandanaḥ</lem>
+     <rdg wit="#msNa">vr̥ṣanandanaḥ</rdg>
+     <rdg wit="#msM">daśanāyaka vāyave</rdg>
+</app>
+
+<l n="cd"> nāyakā daśa vāyavye kīrtitā ye mayā dvija</l>
+</lg>
+
+<app loc="1.48cd">
+     <lem wit="#msCa #msCb #msNa #Ed">nāyakā daśa vāyavye kīrtitā ye mayā dvija</lem>
+     <rdg wit="#msCc #msNb">nāyakā daśa vāyavye kīrtitā ye mayā dvija</rdg>
+     <rdg wit="#msNc">nāyakā daśa vāyavye kīrtitā ya mayā dvija</rdg>
+     <rdg wit="#msM">kīrtito yaṁ mayā dvipra yathā tathyena suvrataḥ</rdg>
+</app>
+
+<lg n="1.49" met="anuṣṭubh">
+<l n="ab"> sulabhaḥ sumanaḥ saumyaḥ suprajaḥ sutanuḥ śivaḥ</l>
+
+<app loc="1.49a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">sulabhaḥ</lem>
+     <rdg wit="#Ed">surabhaḥ</rdg>
+</app>
+
+<app loc="1.49a">
+     <lem wit="#mssCaCbCc #msNa #msNb #Ed">sumanaḥ</lem>
+     <rdg wit="#msNc">sumanāḥ</rdg>
+     <rdg wit="#msM">sumano</rdg>
+</app>
+
+<app loc="1.49a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">saumyaḥ</lem>
+     <rdg wit="#msM">somya</rdg>
+</app>
+
+<l n="cd"> sata satya layaḥ śambhur daśanāyakam uttare</l>
+</lg>
+
+<app loc="1.49c">
+     <lem wit="#mssCaCbCc #msNc">sata satya</lem>
+     <rdg wit="#msNa">satyasatya</rdg>
+     <rdg wit="#msNb">suta satya</rdg>
+     <rdg wit="#msM">sutaḥ satya</rdg>
+     <rdg wit="#Ed">sata satyā°</rdg>
+</app>
+
+<app loc="1.49c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM #Ed">layaḥ</lem>
+     <rdg wit="#msNc">layaṁ</rdg>
+</app>
+
+<app loc="1.49cd">
+     <lem wit="#msCa #msCb #msNb #Ed">śambhur da°</lem>
+     <rdg wit="#msCc #msNa #msNc">śambhu da°</rdg>
+     <rdg wit="#msM">śam<unclear reason="illegible">bhuṁ</unclear> da°</rdg>
+</app>
+
+<app loc="1.49d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">°nāyakam u°</lem>
+     <rdg wit="#Ed">°nāyaka u°</rdg>
+</app>
+
+<lg n="1.50" met="anuṣṭubh">
+<l n="ab"> indu bindu bhuvo vajra varado vara varṣaṇaḥ</l>
+
+<app loc="1.50a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">vajra</lem>
+     <rdg wit="#msM">vrajaḥ</rdg>
+</app>
+
+<app loc="1.50b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM">°varṣaṇaḥ</lem>
+     <rdg wit="#msNc">°<gap quantity="1" unit="char" reason="illegible"/><unclear reason="illegible">rśaṇam</unclear></rdg>
+     <rdg wit="#Ed">°daryya ca</rdg>
+</app>
+
+<l n="cd"> ilano valino brahmā daśeśāneṣu nāyakāḥ</l>
+</lg>
+
+<app loc="1.50c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">ilano valino brahmā</lem>
+     <rdg wit="#msM">ilino valino brahmaḥ</rdg>
+</app>
+
+<app loc="1.50d">
+     <lem wit="#msCa #msNa #msNc #Ed">daśe°</lem>
+     <rdg wit="#msCb #msCc #msNb">daśai°</rdg>
+     <rdg wit="#msM">diśai°</rdg>
+</app>
+
+<app loc="1.50d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">nāyakāḥ</lem>
+     <rdg wit="#msM">nāyakā</rdg>
+</app>
+
+<lg n="1.51" met="anuṣṭubh">
+<l n="ab"> aparo vimalo moho nirmalo mana mohanaḥ</l>
+
+<app loc="1.51a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">aparo vimalo moho</lem>
+     <rdg wit="#msM">aparaḥ vimalā mohā</rdg>
+</app>
+
+<app loc="1.51b">
+     <lem type="eme">nirmalo ma°</lem>
+     <rdg wit="#msCa">nimalo ma°</rdg>
+     <rdg wit="#msCb #msNc">nirmalonma°</rdg>
+     <rdg wit="#msCc #Ed">nirmalotma°</rdg>
+     <rdg wit="#msNa #msNb">nimalorma°</rdg>
+     <rdg wit="#msM">nirmalonma°</rdg>
+</app>
+
+<l n="cd"> akṣayaś cāvyayo viṣṇur varado madhyame daśa</l>
+</lg>
+
+<app loc="1.51c">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc">akṣayaś cāvyayo</lem>
+     <rdg wit="#msCc">akṣayāś cāvyayo</rdg>
+     <rdg wit="#msM">akṣayaś cāvyayaṁ</rdg>
+     <rdg wit="#Ed">akṣayañ cāvyayo</rdg>
+</app>
+
+<app loc="1.51cd">
+     <lem wit="#msCa #msCb #msNc #Ed">viṣṇur va°</lem>
+     <rdg wit="#msCc #msNa #msM">viṣṇu va°</rdg>
+     <rdg wit="#msNb">rviṣṇur va</rdg>
+</app>
+
+<app loc="1.51d">
+     <lem wit="#msCa #msCb #msNc">madhyame daśa</lem>
+     <rdg wit="#msCc #msNa">madhyamo daśa</rdg>
+     <rdg wit="#msNb">varavarṣaṇaḥ</rdg>
+     <rdg wit="#msM">madhyamo daśaḥ</rdg>
+     <rdg wit="#Ed">madhyame daśaḥ</rdg>
+</app>
+
+<lg n="1.52" met="anuṣṭubh">
+<l n="ab"> sarveṣāṁ daśam īśānāṁ parivāraśataṁ śataṁ</l>
+
+<app loc="1.52a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM #Ed">sarveṣāṁ</lem>
+     <rdg wit="#msNc">sarveṣā</rdg>
+</app>
+
+<app loc="1.52a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">daśam īśānāṁ</lem>
+     <rdg wit="#Ed">daśarīśānāṁ</rdg>
+</app>
+
+<app loc="1.52b">
+     <lem wit="#msCa #msCc #msNb #msNc #msM #Ed">parivāra°</lem>
+     <rdg wit="#msCb">pari°</rdg>
+     <rdg wit="#msNa">parivāraṁ</rdg>
+</app>
+
+<l n="cd"> śatānāṁ pr̥thag ekaikaṁ sahasraiḥ parivāritam</l>
+</lg>
+
+<app loc="1.52d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">sahasraiḥ</lem>
+     <rdg wit="#msM">sahasrai</rdg>
+</app>
+
+<app loc="1.52d">
+     <lem wit="#msCa #msCb #msCcpcorr #msNa #msNb #msNc">°vāritam</lem>
+     <rdg wit="#msCcacorr">°vāritā</rdg>
+     <rdg wit="#msM">°vāritaḥ</rdg>
+     <rdg wit="#Ed">°vāritāḥ</rdg>
+</app>
+
+<lg n="1.53" met="anuṣṭubh">
+<l n="ab"> sahasreṣu ca ekaikam ayutaiḥ parivāritam</l>
+
+<app loc="1.53ab">
+     <lem wit="#msCa #msCb #msNb #msNc #Ed">ekaikam a°</lem>
+     <rdg wit="#msCc #msNa #msM">ekaikaṁ ma°</rdg>
+</app>
+
+<app loc="1.53b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">parivāritam</lem>
+     <rdg wit="#msM">parivāritaḥ</rdg>
+     <rdg wit="#Ed">parivāritamāḥ</rdg>
+</app>
+
+<l n="cd"> ayutaṁ prayutair vr̥ndaiḥ prayutaṁ niyutair vr̥taḥ</l>
+</lg>
+
+<app loc="1.53c">
+     <lem wit="#Ed">ayutaṁ</lem>
+     <rdg wit="#mssCaCbCc #msNa #msNc #msM">ayutaiḥ</rdg>
+     <rdg wit="#msNb">ayutai</rdg>
+</app>
+
+<app loc="1.53c">
+     <lem wit="#mssCaCbCc #msNa #msNb #Ed">prayutair vr̥ndaiḥ</lem>
+     <rdg wit="#msNc">prayutai vr̥ndaiḥ</rdg>
+     <rdg wit="#msM">prayutair bhr̥tya</rdg>
+</app>
+
+<app loc="1.53d">
+     <lem type="eme">prayutaṁ niyutair vr̥tam</lem>
+     <rdg wit="#msCa #msCb #msNa #msNc">prayutair niyutair vr̥taḥ</rdg>
+     <rdg wit="#msCc">prayuter niyutair vr̥taḥ</rdg>
+     <rdg wit="#msNb">prayutai niyutai vr̥taḥ</rdg>
+     <rdg wit="#msM">prayutaḥ niyutaiḥ vr̥taḥ</rdg>
+     <rdg wit="#Ed">prayutaṁ niyutair vr̥taḥ</rdg>
+</app>
+
+<lg n="1.54" met="anuṣṭubh">
+<l n="ab"> ekaikasya parīvāro niyutaḥ pr̥thag eva ca</l>
+
+<app loc="1.54a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">parīvāro</lem>
+     <rdg wit="#unmetr">parivāra</rdg>
+     <rdg wit="#unmetr">parivāro</rdg>
+</app>
+
+<app loc="1.54b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">niyutaḥ</lem>
+     <rdg wit="#msCc">niyuta</rdg>
+</app>
+
+<app loc="1.54b">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNcpcorr #msM #Ed">ca</lem>
+     <rdg wit="#msNcacorr">caḥ</rdg>
+</app>
+
+<l n="cd"> koṭibhir daśakoṭyena ekaikaḥ parivāritaḥ</l>
+</lg>
+
+<app loc="1.54c">
+     <lem wit="#msCa #msCc #Ed">koṭibhir daśakoṭyena</lem>
+     <rdg wit="#msCb">koṭibhi daśakoṭyena</rdg>
+     <rdg wit="#msNa #msNc">koṭibhir daśakoṭyona</rdg>
+     <rdg wit="#msNb">koṭibhir daśakoṭyenaḥ</rdg>
+     <rdg wit="#msM">koṭibhiḥ parivārāṇi koṭibhi daśakoṭikam</rdg>
+</app>
+
+<app loc="1.54d">
+     <lem wit="#msCb #msNa #Ed">ekaikaḥ parivāritaḥ</lem>
+     <rdg wit="#msCa">ekaikaḥ parivari<unclear reason="illegible">taḥ</unclear></rdg>
+     <rdg wit="#msCc #msNb #msNc">ekaikaparivāritaḥ</rdg>
+     <rdg wit="#msM">ekaikaparivārāṇāṁ</rdg>
+</app>
+
+<lg n="1.55" met="anuṣṭubh">
+<l n="ab"> daśakoṭiṣu ekaikaṁ vr̥ndavr̥ndabhr̥tair vr̥tam</l>
+
+<app loc="1.55a">
+     <lem wit="#msCb #msCc #msNb #Ed">daśakoṭiṣu ekaikaṁ</lem>
+     <rdg wit="#msCa #msNa #msNc">daśakoṭīṣu ekaikaṁ</rdg>
+     <rdg wit="#msM">daśakoṭyeṣu ekakaṁ</rdg>
+</app>
+
+<app loc="1.55b">
+     <lem wit="#mssCaCbCc #msNb">vr̥ndavr̥ndabhr̥tair vr̥tam</lem>
+     <rdg wit="#msNa">vr̥ndavr̥ndavr̥tair vr̥taṁ</rdg>
+     <rdg wit="#msNc">vr̥ndavr̥ndabhr̥tai vr̥taṁ</rdg>
+     <rdg wit="#msM">vr̥ndravr̥ndeṣu ekaikaṁ</rdg>
+     <rdg wit="#Ed">vr̥ndavr̥ndaṁ vr̥tair vr̥taḥ</rdg>
+</app>
+
+<l n="cd"> vr̥ndavargeṣu ekaikaṁ kharvabhiḥ parivāritam</l>
+</lg>
+
+<app loc="1.55c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">vr̥ndavargeṣu</lem>
+     <rdg wit="#msM">vr̥ndavargebhiḥ tai vr̥tam</rdg>
+</app>
+
+<app loc="1.55d">
+     <lem wit="#mssCaCbCc #msNa #msNb">kharvabhiḥ parivāritam</lem>
+     <rdg wit="#msNc">kharvarbhiḥ parivāritam</rdg>
+     <rdg wit="#msM">kharvābhiḥ parivārāṇi</rdg>
+     <rdg wit="#Ed">kharvarbhiḥ parivāritaḥ</rdg>
+</app>
+
+<lg n="1.56" met="anuṣṭubh">
+<l n="ab"> kharvavargeṣu ekaikaṁ daśakharvagaṇair vr̥tam</l>
+
+<app loc="1.56a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">kharvavargeṣu ekaikaṁ</lem>
+     <rdg wit="#msM">kharvavargeva ekakam</rdg>
+</app>
+
+<app loc="1.56b">
+     <lem wit="#msCa #msCc #msNa #msNb">daśakharvagaṇair vr̥tam</lem>
+     <rdg wit="#msCb">daśakharvagaṇai vr̥tam</rdg>
+     <rdg wit="#msNc">daśakharvagaṇe vr̥ttaṁ</rdg>
+     <rdg wit="#msM">daśakharveṣu ekaikaṁ daśakharvagaṇair vr̥tam</rdg>
+     <rdg wit="#Ed">daśakharvagaṇair vr̥taḥ</rdg>
+</app>
+
+<l n="cd"> daśakharveṣu ekaikaṁ śaṅkubhiḥ parivāritam</l>
+</lg>
+
+<app loc="1.56c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msM #Ed">°kharveṣu</lem>
+     <rdg wit="#msNc">°garveṣu</rdg>
+</app>
+
+<app loc="1.56d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">śaṅkubhiḥ parivāritam</lem>
+     <rdg wit="#Ed">śaṅkubhiḥ parivāritaḥ</rdg>
+</app>
+
+<lg n="1.57" met="anuṣṭubh">
+<l n="ab"> śaṅkubhiḥ pr̥thag ekaikaṁ padmena parivāritam</l>
+
+<app loc="1.57a">
+     <lem type="eme">pr̥thag ekaikaṁ</lem>
+     <rdg wit="#msCa #msCc #msNa #msNb #msNc #msM #Ed">pr̥thag enaiva</rdg>
+     <rdg wit="#msCb">pr̥thag ainaiva</rdg>
+</app>
+
+<app loc="1.57b">
+     <lem wit="#msNapcorr #msM">°vāritam</lem>
+     <rdg wit="#mssCaCbCc #msNb #msNc #Ed">°vāritaḥ</rdg>
+     <rdg wit="#msNaacorr">°taṁ</rdg>
+</app>
+
+<l n="cd"> padmavargeṣu ekaikaṁ samudraiḥ parivāritam</l>
+</lg>
+
+<app loc="1.57d">
+     <lem wit="#msCc #msNa #msNb #msNc #msM #Ed">samudraiḥ</lem>
+     <rdg wit="#msCa">samudaiḥ</rdg>
+     <rdg wit="#msCb">damu<unclear reason="illegible">daiḥ</unclear></rdg>
+</app>
+
+<app loc="1.57d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">°vāritam</lem>
+     <rdg wit="#Ed">°vāritaḥ</rdg>
+</app>
+
+<lg n="1.58" met="anuṣṭubh">
+<l n="ab"> samudreṣu tathaikaikaṁ madhyasaṁkhyais tu tair vr̥tam</l>
+
+<app loc="1.58a">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">tathai°</lem>
+     <rdg wit="#msCc">tathe°</rdg>
+</app>
+
+<app loc="1.58b">
+     <lem wit="#mssCaCbCc #msNa #msM">madhyasaṁkhyais tu tair vr̥tam</lem>
+     <rdg wit="#msNb">madhyasakhyais tu tai vr̥tam</rdg>
+     <rdg wit="#msNc">madhyasakhyais tu ter vr̥taṁ</rdg>
+     <rdg wit="#Ed">madhye śaṅkhyāyutair vr̥taḥ</rdg>
+</app>
+
+<l n="cd"> madhyasaṁkhyeṣu ekaikam anantaiḥ parivāritam</l>
+</lg>
+
+<app loc="1.58c">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc">madhyasaṁkhyeṣu</lem>
+     <rdg wit="#msM">madhyasāṁkho ca</rdg>
+     <rdg wit="#Ed">madhye śaṁkheṣu</rdg>
+</app>
+
+<app loc="1.58cd">
+     <lem wit="#mssCaCbCc #msNa #msNb #Ed">ekaikam anantaiḥ</lem>
+     <rdg wit="#msNc">ekaikaṁ manataiḥ</rdg>
+     <rdg wit="#msM">ekaikaṁ anantai</rdg>
+</app>
+
+<app loc="1.58d">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #msM">°vāritam</lem>
+     <rdg wit="#Ed">°vāritaḥ</rdg>
+</app>
+
+<lg n="1.59" met="anuṣṭubh">
+<l n="ab"> ananteṣu ca ekaikaṁ parārdhaparivāritam</l>
+
+<app loc="1.59b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc">parārdhaparivāritam</lem>
+     <rdg wit="#msCc">parārdha<gap quantity="3" unit="char" reason="lost"/>ritam</rdg>
+     <rdg wit="#msM">parārdhai parivāritam| ananteṣu ca ekaikaṁ parārdhaparivāritaṁ</rdg>
+     <rdg wit="#Ed">parārdhaiḥ parivāritaḥ</rdg>
+</app>
+
+<l n="cd"> parārdheṣu ca ekaikaṁ pareṇa parivāritam</l>
+
+<app loc="1.59d">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM">°vāritam</lem>
+     <rdg wit="#msNb">°vārivāritaṁ</rdg>
+     <rdg wit="#Ed">°vāritaḥ</rdg>
+</app>
+
+<l n="ef"> eṣa vai kathito vipra śakyaṁ sāṁkhyam udīritam</l>
+</lg>
+
+<app loc="1.59e">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM">kathito</lem>
+     <rdg wit="#msNb"><unclear reason="illegible">kathito</unclear></rdg>
+     <rdg wit="#Ed">kathitā</rdg>
+</app>
+
+<app loc="1.59f">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">śakyaṁ</lem>
+     <rdg wit="#msCc">śakya</rdg>
+</app>
+
+<app loc="1.59f">
+     <lem wit="#msCa #msCc #msNb #msM">sāṁkhyam u°</lem>
+     <rdg wit="#msCb">sākhyam u°</rdg>
+     <rdg wit="#msNa">syakhyam u°</rdg>
+     <rdg wit="#msNc">saṁkhyam u</rdg>
+     <rdg wit="#Ed">saṁkhyām u°</rdg>
+</app>
+
+<lg n="1.60" met="anuṣṭubh">
+<l n="ab"> pramāṇaṁ śr̥ṇu me vipra saṁkṣepād bruvato mama</l>
+
+<app loc="1.60a">
+     <lem wit="#msCc #msNa #msNc #msM #Ed">pramāṇaṁ</lem>
+     <rdg wit="#msCa #msCb">praṇāmaṁ</rdg>
+     <rdg wit="#msNb">pramāṇa</rdg>
+</app>
+
+<app loc="1.60b">
+     <lem wit="#msCa #msCc #msNa #msNb #Ed">saṁkṣepād bruvato</lem>
+     <rdg wit="#msCb">saṁkṣepād vadato</rdg>
+     <rdg wit="#msNc">saṁkhyepād bruvato</rdg>
+     <rdg wit="#msM">saṁkṣepa bruvato</rdg>
+</app>
+
+<l n="cd"> candrodaye pūrṇamāsyāṁ vapur aṇḍasya tādr̥śam</l>
+</lg>
+
+<lg n="1.61" met="anuṣṭubh">
+<l n="ab"> koṭikoṭisahasraṁ tu yojanānāṁ samantataḥ</l>
+
+<app loc="1.61a">
+     <lem wit="#mssCaCbCc #msNa #msNb #msNc #Ed">koṭikoṭi°</lem>
+     <rdg wit="#msM">koṭīkoṭi°</rdg>
+</app>
+
+<l n="cd"> aṇḍānāṁ ca parīmāṇaṁ brahmaṇā parikīrtitam</l>
+</lg>
+
+<app loc="1.61a">
+     <lem wit="#msCa #msCc #msNa #msNb #msNc #Ed">ca parīmāṇaṁ</lem>
+     <rdg wit="#unmetr">ca parimāṇaṁ</rdg>
+     <rdg wit="#msM">parimāṇañ ca</rdg>
+</app>
+
+<app loc="1.61b">
+     <lem wit="#msCa #msCb #msNa #msNb #msNc #msM #Ed">brahmaṇā</lem>
+     <rdg wit="#msCc"><gap quantity="3" unit="char" reason="lost"/></rdg>
+</app>
+
+<app loc="1.61b">
+     <lem wit="#msCa #msCb #msNb #msNc #Ed">°kīrtitam</lem>
+     <rdg wit="#msCc">°kīrti<unclear reason="illegible">tāḥ</unclear></rdg>
+     <rdg wit="#msNa #msM">°kīrtitaḥ</rdg>
+</app>
+
+<lg n="1.62" met="anuṣṭubh">
+<l n="ab"> saptakoṭisahasrāṇi saptakoṭiśatāni ca</l>
+
+<l n="cd"> viṁśakoṭiṣu gulmeṣu ūrdhvatas tapate raviḥ</l>
+</lg>
+
+<app loc="1.62c">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">viṁśakoṭiṣu gulmeṣu</lem>
+     <rdg wit="#msM">viṁśakoṭi vinā gulme</rdg>
+</app>
+
+<app loc="1.62d">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">ūrdhvatas ta°</lem>
+     <rdg wit="#msM">ūrddhvato ta°</rdg>
+</app>
+
+<app loc="1.62d">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM">raviḥ</lem>
+     <rdg wit="#Ed">ravi</rdg>
+</app>
+
+<lg n="1.63" met="anuṣṭubh">
+<l n="ab"> pramāṇaṁ nāma saṁkhyā ca kīrtitāni samāsataḥ</l>
+
+<app loc="1.63a">
+     <lem wit="#msCa #msCc #msNa #msNc #msM #Ed">pramāṇaṁ</lem>
+     <rdg wit="#msCb">praṇāmaṁ</rdg>
+</app>
+
+<l n="cd"> brahmāṇḍaṁ cāprameyāṇāṁ lakṣaṇaṁ parikīrtitam</l>
+</lg>
+
+<app loc="1.63c">
+     <lem wit="#msNa">brahmāṇḍaṁ cā°</lem>
+     <rdg wit="#msCa #msCb #msNc #msM">brahmāṇḍaś ca</rdg>
+     <rdg wit="#msCc"><unclear reason="illegible">brahmāṇḍāś cā</unclear>°</rdg>
+     <rdg wit="#Ed">brahmāṇḍāś cā</rdg>
+</app>
+
+<app loc="1.63c">
+     <lem wit="#msCa #msNa #msM #Ed">°meyāṇāṁ</lem>
+     <rdg wit="#msCb #msCc #msNc">°meyāṇā</rdg>
+</app>
+
+<app loc="1.63d">
+     <lem wit="#msCa #msCb #msNa #msNc #Ed">°kīrtitam</lem>
+     <rdg wit="#msCc">°kīrtitāḥ</rdg>
+     <rdg wit="#msM">°kīrttitaḥ</rdg>
+</app>
+
+<lg n="1.64" met="anuṣṭubh">
+<l n="ab"> purāṇāśīsahasrāṇi śatāni dvijasattama</l>
+
+<app loc="1.64b">
+     <lem wit="#msCa #msCb #msNa #msNc #msM #Ed">°sattama</lem>
+     <rdg wit="#msCc"><gap quantity="2" unit="char" reason="lost"/>maḥ</rdg>
+</app>
+
+<l n="cd"> brahmaṇā kathitaṁ pūrṇaṁ mātariśvā yathātatham</l>
+</lg>
+
+<app loc="1.64c">
+     <lem wit="#msCa #msCc #msNa #Ed">pūrṇaṁ</lem>
+     <rdg wit="#msCb">pūrve</rdg>
+     <rdg wit="#msNc">pūrṇṇa</rdg>
+     <rdg wit="#msM">pūrvaṁ</rdg>
+</app>
+
+<app loc="1.64d">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">mātariśvā</lem>
+     <rdg wit="#msM">mātariśva</rdg>
+</app>
+
+<app loc="1.64d">
+     <lem wit="#msCa #msCb #msNa #msNc #Ed">°tatham</lem>
+     <rdg wit="#msCc #msM">°tathā</rdg>
+</app>
+
+<lg n="1.65" met="anuṣṭubh">
+<l n="ab"> vāyunā pāda saṁkṣipya prāptaṁ cośanasaṁ purā</l>
+
+<app loc="1.65a">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">saṁkṣipya</lem>
+     <rdg wit="#msM">saṁkṣipyaḥ</rdg>
+</app>
+
+<app loc="1.65b">
+     <lem wit="#msCb #msNa #msNc">prāptaṁ cośanasaṁ</lem>
+     <rdg wit="#msCa">prāptaṁ causanasaṁ</rdg>
+     <rdg wit="#msCc">prāpta<gap quantity="1" unit="char" reason="illegible"/>ausanasaṁ</rdg>
+     <rdg wit="#unmetr">prāptāś cośanasama</rdg>
+     <rdg wit="#Ed">prāptaś cośanasaṁ</rdg>
+</app>
+
+<l n="cd"> tenāpi pāda saṁkṣipya prāptavāṁś ca br̥haspatiḥ</l>
+</lg>
+
+<app loc="1.65c">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">saṁkṣipya</lem>
+     <rdg wit="#msM">saṁkṣipyaḥ</rdg>
+</app>
+
+<app loc="1.65d">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">prāptavāṁś ca br̥haspatiḥ</lem>
+     <rdg wit="#msM">prāptadhañ ca vr̥haspati</rdg>
+</app>
+
+<lg n="1.66" met="anuṣṭubh">
+<l n="ab"> br̥haspatis tu provāca sūryaṁ triṁśatsahasrikam</l>
+
+<app loc="1.66b">
+     <lem wit="#msCc #Ed">sūryaṁ</lem>
+     <rdg wit="#msCa #msNa #msNc">sūryas</rdg>
+     <rdg wit="#msCb #msM">sūrya</rdg>
+</app>
+
+<app loc="1.66b">
+     <lem wit="#msCa #msCb #msNa #msNc #Ed">triṁśatsa°</lem>
+     <rdg wit="#msCc #msM">triṁśasa°</rdg>
+</app>
+
+<l n="cd"> pañcaviṁśatsahasrāṇi mr̥tyuṁ prāha divākaraḥ</l>
+</lg>
+
+<app loc="1.66c">
+     <lem type="corr">°viṁśatsahasrāṇi</lem>
+     <rdg wit="#msCa">°viṁśahasrāṇi</rdg>
+     <rdg wit="#msCb #msCc #msNa #msNc #msM">°viṁśasahasrāṇi</rdg>
+     <rdg wit="#Ed">°viśatsahasrāṇi</rdg>
+</app>
+
+<app loc="1.66d">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">mr̥tyuṁ prāha</lem>
+     <rdg wit="#msM">mr̥tyu prāhaḥ</rdg>
+</app>
+
+<lg n="1.67" met="anuṣṭubh">
+<l n="ab"> ekaviṁśatsahasrāṇi mr̥tyunendrāya kīrtitam </l>
+
+<app loc="1.67a">
+     <lem wit="#Ed">°viṁśat°</lem>
+     <rdg wit="#mssCaCbCc #msNa #msNc #msM">°viṁśa°</rdg>
+</app>
+
+<app loc="1.67b">
+     <lem wit="#Ed">kīrtitam</lem>
+     <rdg wit="#msCa #msCb #msNa #msNcpcorr #msM">kīrtitaḥ</rdg>
+     <rdg wit="#msCc">kīrtitāḥ</rdg>
+     <rdg wit="#msNcacorr">kīrttita</rdg>
+</app>
+
+<l n="cd"> indreṇāha vasiṣṭhāya viṁśatślokasahasrikam</l>
+</lg>
+
+<app loc="1.67c">
+     <lem wit="#msCa #msCc #msNa #msM #Ed">vasiṣṭhāya</lem>
+     <rdg wit="#msCb">viśiṣṭhāya</rdg>
+     <rdg wit="#msNc">vahiṣṭhāya</rdg>
+</app>
+
+<app loc="1.67d">
+     <lem type="corr">viṁśatślo°</lem>
+     <rdg wit="#msCa #msCc #msNa #msNc #Ed">viṁśaślo°</rdg>
+     <rdg wit="#msCb">viśaślo°</rdg>
+     <rdg wit="#msM">triṁśaślo°</rdg>
+</app>
+
+<lg n="1.68" met="anuṣṭubh">
+<l n="ab"> aṣṭādaśasahasrāṇi tena sārasvatāya tu</l>
+
+<app loc="1.68a">
+     <lem wit="#mssCaCbCc #msNa #Ed">aṣṭādaśasahasrāṇi</lem>
+     <rdg wit="#msNc">āṣṭādaśasahasrāṇi</rdg>
+     <rdg wit="#msM">vasiṣṭhedaśasahasraṁ</rdg>
+</app>
+
+<l n="cd"> sārasvatas tridhāmāya sahasradaśa sapta ca</l>
+</lg>
+
+<app loc="1.68c">
+     <lem type="eme">sārasvatas tri°</lem>
+     <rdg wit="#msCa #msCc #msNa #msNc #Ed">sārasvatā tri°</rdg>
+     <rdg wit="#msCb">sārasvatās tri°</rdg>
+     <rdg wit="#msM">sārasvata tr̥°</rdg>
+</app>
+
+<app loc="1.68c">
+     <lem wit="#mssCaCbCc #msNapcorr #msNc #msM #Ed">°dhāmāya</lem>
+     <rdg wit="#msNaacorr">[omitted]</rdg>
+</app>
+
+<app loc="1.68d">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">sahasradaśa</lem>
+     <rdg wit="#msM">sahasrādaśa</rdg>
+</app>
+
+<lg n="1.69" met="anuṣṭubh">
+<l n="ab"> ṣoḍaśānāṁ sahasrāṇi bharadvājāya vai tataḥ</l>
+
+<app loc="1.69b">
+     <lem wit="#msCa #msCb #msNa #msNc #Ed">bhara°</lem>
+     <rdg wit="#msCc">bhāra°</rdg>
+     <rdg wit="#msM">sana°</rdg>
+</app>
+
+<l n="cd"> daśa pañcasahasrāṇi trivr̥ṣāya abhāṣata</l>
+</lg>
+
+<app loc="1.69d">
+     <lem wit="#msCa #msCb #msNa">abhāṣata</lem>
+     <rdg wit="#msCc">a<unclear reason="illegible">bhāṣata</unclear></rdg>
+     <rdg wit="#msNc #Ed">abhāṣataḥ</rdg>
+     <rdg wit="#msM">mabhāsataḥ</rdg>
+</app>
+
+<lg n="1.70" met="anuṣṭubh">
+<l n="ab"> caturdaśasahasrāṇi antarīkṣāya vai tataḥ</l>
+
+<app loc="1.70b">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">antarī°</lem>
+     <rdg wit="#msM">antari°</rdg>
+</app>
+
+<l n="cd"> trayyāruṇiṁ sahasrāṇi trayodaśa abhāṣata</l>
+</lg>
+
+<app loc="1.70c">
+     <lem type="corr">trayyāruṇiṁ</lem>
+     <rdg wit="#msCa #msCb #msNa #msM">tryaiyāruṇi</rdg>
+     <rdg wit="#msCc #Ed">traiyāruṇi</rdg>
+     <rdg wit="#msNc">tryaiyārūpini</rdg>
+</app>
+
+<app loc="1.70d">
+     <lem wit="#msCa #msCc #msNc">abhāṣata</lem>
+     <rdg wit="#msCb">abhāṣataḥ</rdg>
+     <rdg wit="#msNa">svabhāvata</rdg>
+     <rdg wit="#msM">mabhāsataḥ</rdg>
+     <rdg wit="#Ed">hy abhāṣata</rdg>
+</app>
+
+<lg n="1.71" met="anuṣṭubh">
+<l n="ab"> trayyāruṇis tu viprendro dhanaṁjayam abhāṣata</l>
+
+<app loc="1.71a">
+     <lem type="corr">trayyāruṇi°</lem>
+     <rdg wit="#mssCaCbCc #msNc">tryaiyāruṇi°</rdg>
+     <rdg wit="#msNa #Ed">traiyāruṇi°</rdg>
+     <rdg wit="#msM">tryairyāruṇi°</rdg>
+</app>
+
+<app loc="1.71a">
+     <lem wit="#msCa #msCb #msNa #msNc #Ed">viprendro</lem>
+     <rdg wit="#msCc #msM">viprenda</rdg>
+</app>
+
+<app loc="1.71b">
+     <lem wit="#mssCaCbCc #msNapcorr #msNc #msM #Ed">dhanaṁjaya°</lem>
+     <rdg wit="#msNaacorr">dhana°</rdg>
+</app>
+
+<app loc="1.71b">
+     <lem wit="#msCa #msCc #msNa #msNc">°bhāṣata</lem>
+     <rdg wit="#msCb #msM #Ed">°bhāṣataḥ</rdg>
+</app>
+
+<l n="cd"> dvādaśāni sahasrāṇi saṁkṣipya punar abravīt</l>
+</lg>
+
+<lg n="1.72" met="anuṣṭubh">
+<l n="ab"> kr̥taṁjayāya samprāpto dhanaṁjayamahāmuniḥ</l>
+
+<app loc="1.72b">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">°muniḥ</lem>
+     <rdg wit="#msM">°muṇi</rdg>
+</app>
+
+<l n="cd"> kr̥taṁjayād dvijaśreṣṭha r̥ṇaṁjayamahātmane</l>
+</lg>
+
+<app loc="1.72c">
+     <lem wit="#msCa #msNa #Ed">kr̥taṁjayād dvi°</lem>
+     <rdg wit="#msCb #msCc #msNc">kr̥taṁjayā dvi°</rdg>
+     <rdg wit="#msM">dhanañjaya dvi°</rdg>
+</app>
+
+<app loc="1.72c">
+     <lem wit="#mssCaCbCc #msNa #msNc #msM">°śreṣṭha</lem>
+     <rdg wit="#Ed">°śreṣṭho</rdg>
+</app>
+
+<app loc="1.72d">
+     <lem wit="#msCa #msCc #msNa #msNc #msM #Ed">r̥ṇaṁjaya°</lem>
+     <rdg wit="#msCb">r̥ṇaṁjāya°</rdg>
+</app>
+
+<app loc="1.72d">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">°mahātmane</lem>
+     <rdg wit="#msM">°mabhāśataḥ</rdg>
+</app>
+
+<lg n="1.73" met="anuṣṭubh">
+<l n="ab"> r̥ṇañjayāt punaḥ prāpto gautamāya maharṣiṇe</l>
+
+<app loc="1.73a">
+     <lem wit="#mssCaCbCc #msNa #msNc">prāpto</lem>
+     <rdg wit="#msM">prāptaḥ</rdg>
+     <rdg wit="#Ed">prāptau</rdg>
+</app>
+
+<app loc="1.73b">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">maharṣiṇe</lem>
+     <rdg wit="#msM">maharṣiṇaḥ</rdg>
+</app>
+
+<l n="cd"> gautamāc ca bharadvājas tasmād dharyadvatāya tu</l>
+</lg>
+
+<app loc="1.73c">
+     <lem wit="#mssCaCbCc #msNa #Ed">gautamāc ca</lem>
+     <rdg wit="#msNc">gautamāś ca</rdg>
+     <rdg wit="#msM">gautamena</rdg>
+</app>
+
+<app loc="1.73cd">
+     <lem wit="#msCa #msCc #msNa #msNc">bharadvājas tasmād dharyadvatāya</lem>
+     <rdg wit="#msCb">bharadvāras tasmād dharyadvatāya</rdg>
+     <rdg wit="#msM">bharadvāja tasmā haryadvatāya</rdg>
+     <rdg wit="#Ed">bharadvājas tasmād damyāddamāya</rdg>
+</app>
+
+<lg n="1.74" met="anuṣṭubh">
+<l n="ab"> rājaśravās tataḥ prāptaḥ somaśuṣmāya vai tataḥ</l>
+
+<app loc="1.74a">
+     <lem type="eme">rājaśravās ta°</lem>
+     <rdg wit="#mssCaCbCc #msNa #Ed">rājaśrava ta°</rdg>
+     <rdg wit="#msNc">rājaśrava ta°</rdg>
+     <rdg wit="#msM">rājarṣava ta°</rdg>
+</app>
+
+<l n="cd"> somaśuṣmāt tataḥ prāptas tr̥ṇabindus tu bho dvija</l>
+</lg>
+
+<app loc="1.74c">
+     <lem wit="#mssCaCbCc #msNc #msM #Ed">°śuṣmāt ta°</lem>
+     <rdg wit="#msNa">°śuṣmā ta°</rdg>
+</app>
+
+<app loc="1.74cd">
+     <lem wit="#msCa #msCb #msNa #msNc #msM #Ed">prāptas tr̥°</lem>
+     <rdg wit="#msCc">prā<unclear reason="illegible">pta tr̥</unclear>°</rdg>
+</app>
+
+<app loc="1.74d">
+     <lem wit="#msCa #msCc #msNa #msNc #msM #Ed">bho</lem>
+     <rdg wit="#msCb">[omitted]</rdg>
+</app>
+
+<lg n="1.75" met="anuṣṭubh">
+<l n="ab"> tr̥ṇabindus tu vr̥kṣāya vr̥kṣaḥ śaktim abhāṣata</l>
+
+<app loc="1.75b">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">vr̥kṣaḥ</lem>
+     <rdg wit="#msM">vr̥kṣa</rdg>
+</app>
+
+<app loc="1.75b">
+     <lem wit="#msCa #msCb #msNa #msNc">°bhāṣata</lem>
+     <rdg wit="#msCc #msM #Ed">°bhāṣataḥ</rdg>
+</app>
+
+<l n="cd"> śaktiḥ parāśaraṁ prāha jātūkarṇāya vai tataḥ</l>
+</lg>
+
+<app loc="1.75c">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">śaktiḥ parāśaraṁ</lem>
+     <rdg wit="#msMacorr">śaparāsara</rdg>
+     <rdg wit="#msMpcorr">śakti parāsara</rdg>
+</app>
+
+<app loc="1.75d">
+     <lem type="corr">jātū°</lem>
+     <rdg wit="#msCa #msCc #msNa #msNc #Ed">jatu°</rdg>
+     <rdg wit="#msCb">tu°</rdg>
+     <rdg wit="#msM">jaṁtu°</rdg>
+</app>
+
+<lg n="1.76" met="anuṣṭubh">
+<l n="ab"> dvaipāyanaṁ tu provāca jātūkarṇo maharṣiṇam</l>
+
+<app loc="1.76a">
+     <lem type="eme">dvaipāyanaṁ tu</lem>
+     <rdg wit="#mssCaCbCc #msNa #msNc #msM">dvaipāyanas tu</rdg>
+     <rdg wit="#Ed">dvaipāyanāya</rdg>
+</app>
+
+<app loc="1.76b">
+     <lem type="eme">jātūkarṇo maharṣiṇam</lem>
+     <rdg wit="#msCa #msCb #msNapcorr #msNc">jatukarṇo maharṣiṇam</rdg>
+     <rdg wit="#msCc">jatukarṇā maharṣiṇaḥ</rdg>
+     <rdg wit="#msNaacorr">jakarṇo maharṣiṇaṁ</rdg>
+     <rdg wit="#msM">jaṁtukarṇṇamaharṣiṇā</rdg>
+     <rdg wit="#Ed">jatukarṇamaharṣiṇā</rdg>
+</app>
+
+<l n="cd"> romaharṣāya samprāpto dvaipāyanamahāmuniḥ</l>
+</lg>
+
+<app loc="1.76d">
+     <lem wit="#mssCaCbCc #msNa #msNc">°muniḥ</lem>
+     <rdg wit="#msM #Ed">°muni</rdg>
+</app>
+
+<lg n="1.77" met="anuṣṭubh">
+<l n="ab"> romaharṣāya provāca putrāyāmitabuddhaye</l>
+
+<app loc="1.77a">
+     <lem wit="#mssCaCbCc #msNa #msNc">°harṣāya</lem>
+     <rdg wit="#msM">°harṣeṇa</rdg>
+     <rdg wit="#Ed">°harṣaṇāya</rdg>
+</app>
+
+<app loc="1.77b">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">°buddhaye</lem>
+     <rdg wit="#msM">°buddhayaḥ</rdg>
+</app>
+
+<l n="cd"> daśadve ca sahasrāṇi purāṇaṁ samprakāśitam</l>
+
+<app loc="1.77b">
+     <lem wit="#msCa #msCb #msNa #msNc #msM #Ed">purāṇaṁ samprakāśitam</lem>
+     <rdg wit="#msCc">purāṇa samprakāśitāṁ</rdg>
+</app>
+
+<l n="ef"> mānuṣāṇāṁ hitārthāya kiṁ bhūyaḥ śrotum icchasi</l>
+</lg>
+
+<app loc="1.77e">
+     <lem wit="#msCa #msCc #msNa #msNc #Ed">mānuṣāṇāṁ</lem>
+     <rdg wit="#msCb">manuṣāṇāṁ</rdg>
+     <rdg wit="#msM">mānuṣānā</rdg>
+</app>
+
+<app loc="1.77e">
+     <lem wit="#mssCaCbCc #msNa #msNc #Ed">hitārthāya</lem>
+     <rdg wit="#msM">hityathāya</rdg>
+</app>
+
+<app loc="1.77f">
+     <lem wit="#mssCaCbCc #msNa #msNc">bhūyaḥ</lem>
+     <rdg wit="#msM #Ed">bhūya</rdg>
+</app>
+
+<ab type="colophon">iti vr̥ṣasārasaṁgrahe brahmāṇḍasaṁkhyā nāmādhyāyaḥ prathamaḥ</ab>
+
+<app loc="1.77colophon">
+     <lem wit="#mssCaCbCc #msNa #msNc">nāmādhyāyaḥ prathamaḥ</lem>
+     <rdg wit="#msM">nāmādhyāyaḥ prathamaḥ śloka 77</rdg>
+     <rdg wit="#Ed">nāma prathamo 'dhyāya</rdg>
+</app>
+
+</div>
+</body>
+</text>
+</TEI>

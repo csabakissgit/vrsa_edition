@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+ <title>VSS Audio</title>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="style.css">
+
+<script xmlns="http://www.w3.org/1999/xhtml" src="audio_player.js"></script>
+</head>
+
+
+<style>
+
+#devanagari {
+        display: none;
+}
+</style>
+
+<body>
+
+
+<p>Click on a stanza to hear an audio version of it. </p>
+<p onclick="playChapter()">Click <b>here</b> to listen to the whole chapter.</p>
+
+<button id='switchbutton' onclick="turnItDevnag()">Switch to Devanāgarī</button>
+
+<div id='devanagari'>
+<span class="audioelement" id="vss_00_title_dn" onclick="playAudio('vss_00_title', id)">
+<h1>वृषसारसंग्रहम् </h1>
+</span>
+
+<span class="audioelement" id="vss_01_01_dn" onclick="playAudio('vss_01_01', id)"> 
+अनादिमध्यान्तमनन्तपारं <br>
+सुसूक्ष्ममव्यक्तजगत्सुसारम् । <br>
+हरीन्द्रब्रह्मादिभिराप्तमग्रं <br>
+प्रणम्य वक्ष्ये वृषसारसंग्रहम् ।।१.१ ।। <br>
+</span>
+<br> 
+
+<span class="audioelement" id="vss_01_02_dn" onclick="playAudio('vss_01_02', id)"> 
+[ जनमेजयवैशम्पायनसंवादः ] <br>
+शतसाहस्रिकं ग्रन्थं सहस्राध्यायमुत्तमम् । <br>
+पर्व चास्य शतं पूर्णं श्रुत्वा भारतसंहिताम् ।।१.२ ।। <br>
+</span>
+<span class="audioelement" id="vss_01_03_dn" onclick="playAudio('vss_01_03', id)"> 
+अतृप्तः पुन पप्रच्छ वैशम्पायनमेव हि । <br>
+जनमेजय यत्पूर्वं तच्छृणु त्वमतन्द्रितः ।।१.३ ।। <br>
+</span>
+<span class="audioelement" id="vss_01_04_dn" onclick="playAudio('vss_01_04', id)"> 
+जनमेजय उवाच । <br>
+भगवन्सर्वधर्मज्ञ सर्वशास्त्रविशारद । <br>
+अस्ति धर्मं परं गुह्यं संसारार्णवतारणम् ।।१.४ ।। <br>
+</span>
+<span class="audioelement" id="vss_01_05_dn" onclick="playAudio('vss_01_05', id)"> 
+द्वैपायनमुखोद्गीर्णं धर्मं यत्तद्द्विजोत्तम । <br>
+कथयस्व हि मे तृप्तिं कुरु यत्नात्तपोधन ।।१.५ ।। <br>
+</span>
+</div>
+
+
+
+<div id='roman'>
+<span class="audioelement" id="vss_00_title_rm" onclick="playAudio('vss_00_title', id)">
+<h1>Vṛṣasārasaṃgraham</h1>
+</span>
+
+<span class="audioelement" id="vss_01_01_rm" onclick="playAudio('vss_01_01', id)"> 
+anādimadhyāntam anantapāraṃ<br>
+susūkṣmam avyaktajagatsusāram|<br>
+harīndrabrahmādibhir āptam agraṃ<br>
+praṇamya vakṣye vṛṣasārasaṃgraham||1.1|| <br>
+</span>
+<br> 
+
+<span class="audioelement" id="vss_01_02_rm" onclick="playAudio('vss_01_02', id)"> 
+[ janamejayavaiśampāyanasaṃvādaḥ ] <br>
+śatasāhasrikaṃ granthaṃ sahasrādhyāyam uttamam| <br>
+parva cāsya śataṃ pūrṇaṃ śrutvā bhāratasaṃhitām||1.2|| <br>
+</span>
+<span class="audioelement" id="vss_01_03_rm" onclick="playAudio('vss_01_03', id)"> 
+atṛptaḥ puna papraccha vaiśampāyanam eva hi| <br>
+janamejaya yat pūrvaṃ tac chṛṇu tvam atandritaḥ||1.3|| <br>
+</span>
+<span class="audioelement" id="vss_01_04_rm" onclick="playAudio('vss_01_04', id)"> 
+janamejaya uvāca| <br>
+bhagavan sarvadharmajña sarvaśāstraviśārada|<br>
+asti dharmaṃ paraṃ guhyaṃ saṃsārārṇavatāraṇam||1.4|| <br>
+</span>
+<span class="audioelement" id="vss_01_05_rm" onclick="playAudio('vss_01_05', id)"> 
+dvaipāyanamukhodgīrṇaṃ dharmaṃ yat tad dvijottama|<br>
+kathayasva hi me tṛptiṃ kuru yatnāt tapodhana||1.5|| <br>
+</span>
+</div>
+
+<br>
+<p>(This page by Csaba Kiss, 2021.
+Audio produced by the excellent 
+<a href="https://www.hear2read.org/demo/app.php#" >Hear2Read</a> application.<br>
+ The only bug seems to be the pronunciation of the ligature <i>rṇa</i> / र्ण.)</p>
+
+
+</body>
+</html>

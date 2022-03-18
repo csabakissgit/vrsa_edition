@@ -1,0 +1,186 @@
+
+html {
+	}
+
+i {
+        font-style: italic;
+}
+
+body {  zoom: 100%;
+	font: normal 1.4em georgia, sans-serif;  
+        font-size: 1em;
+        font-weight: normal;
+	line-height: 1.88889;
+	color: black; 
+	background-color: white; 
+	margin: 50px; 
+	margin-left: 100px;
+	padding: 0;
+	}
+
+p {     font-size: 100%;
+	color: #555753;
+	margin-top: 0; 
+	text-align: justify;
+	display: inline;
+
+	}
+
+app { 
+	font: sans-serif;
+	margin-bottom: 0; 
+	color: black;
+	display: block;
+        border-style: dashed;
+        border-width: 1px;
+}
+
+txt { 
+        font-size: 120%;
+	font: sans-serif;
+        font-weight: normal;
+	display: inline-block;
+	}
+
+ptext { 
+	font: sans-serif;
+	margin-bottom: 0; 
+	color: red;
+	display: inline-block;
+	}
+
+mainwrap { 
+	font: sans-serif;
+	margin-bottom: 0; 
+	color: #555753;
+	display: inline;
+	}
+
+trs { 
+	font: sans-serif;
+        width: 130%;
+	display:block;
+	color: #1a66ff;
+	}
+
+pvar { 
+	font: sans-serif;
+        width: 100%;
+	display:block;
+	color: black;
+	}
+
+paral { 
+	font: sans-serif;
+	color: black;
+        width: 100%;
+	display:block;
+	}
+
+note { 
+	font: sans-serif;
+	color: #ff8533;
+        width: 70%;
+	display:block;
+	font-size:80%;}
+
+lem { 
+	font: normal 1em georgia, sans-serif;
+	margin-bottom: 0; 
+	color: black;
+        font-weight: bold;
+	}
+
+vsnum {font-size: 1em;
+	color: #cc8800;
+	}
+
+corr {  
+	font-size:60%;
+	vertical-align: super;
+	color: green;
+	}
+
+ms { 
+	font: normal 1em georgia, sans-serif;
+	margin-bottom: 0; 
+	color: green;
+	}
+
+
+h1 { 
+	color: #7D775C;
+	}
+
+h2 {    letter-spacing: 0px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+	}
+
+h3 {    letter-spacing: 0px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+	}
+
+
+colophon {
+	color:  #cc8800;
+	font-weight: normal; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Here starts the section for the check boxes */
+input {
+display: inline;
+}
+
+label {
+font-style: normal;
+display: none;
+}
+
+
+input[type=checkbox]{
+        opacity: 0.4;
+	width: 15px;
+	height: 15px;
+}
+
+input[type=checkbox] + label {
+  display: none;
+  position: relative;
+  top: 100%;
+  right: 0%;
+  left: 0%;
+  padding: .5em;
+  bottom: 0%;
+  width: 70%;
+} 
+
+input[type=checkbox]:checked + label {
+  font-style: normal;
+  left: 0%;
+  width: 70%;
+  font-size: 90%;
+  display: block;
+ 
+} 
+
+
+
+
+
+
+
+

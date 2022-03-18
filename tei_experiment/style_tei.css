@@ -1,0 +1,290 @@
+
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+
+body {
+	font: normal 1.4em georgia, sans-serif;  
+	font-size:30px;
+	line-height: 1.88889;
+	color: black; 
+	margin: 0; 
+	margin-left: 50px;
+	padding: 0;
+	}
+
+
+
+
+title { font-size:30px;
+	font-weight:bold;
+	color: #555753;
+	margin-top: 0; 
+	text-align: justify;
+	display: block;
+	}
+
+
+author { font-size:30px;
+	color: #555753;
+	margin-top: 0; 
+	text-align: justify;
+	display: block;
+	}
+
+idno {     font-size:30px;
+	color: #555753;
+	margin-top: 0; 
+	text-align: justify;
+	display: none;
+	}
+
+repository {     font-size:30px;
+	color: #555753;
+	margin-top: 0; 
+	text-align: justify;
+	display: none;
+	}
+
+
+
+lg {    font-size: 30px;
+	color: #55753;
+	margin-top: 0; 
+	text-align: justify;
+	display: block;
+	}
+
+l {     font-size:20px;
+	color: blue;
+	margin-top: 0; 
+	text-align: justify;
+	display: block;
+	}
+
+sigla { font-size:80%;
+	color: #158753;
+	margin-top: 0; 
+	text-align: justify;
+	display: inline;
+	}
+
+
+app { 
+	font: sans-serif;
+	margin-bottom: 0; 
+	color: grey;
+	width: 80%;
+	display: block;
+	font-size: 80%;
+	text-indent: -4em;
+	margin-left: 5em;
+	}
+
+lm { 
+	color: red;
+	font-size: 100%;
+	display: inline;
+	}
+
+rdg { 
+	font: georgia;
+	margin-bottom: 0; 
+	color: gray;
+	font-size: 70%;
+	display: inline-block;
+	font-weight: normal;
+}
+
+.pada {
+	font: georgia;
+	margin-bottom: 0; 
+	color: blue;
+	font-size: 70%;
+	display: block;
+	font-weight: normal;
+}
+
+
+details {
+	font-size:.9em;
+	color: black;
+	text-align: left;
+        width: 60%;
+	display: block;
+     	margin: 0 40px;
+}
+
+summary {
+	font-size:.5em;
+	color: #b1bcbc;
+	margin-top: 0; 
+	text-align: left;
+ 	text-indent: 2em;	
+	}
+
+
+
+
+vsnum {font-size:0.9em;
+	color: #cc8800;
+	}
+
+corr {  
+	font-size:60%;
+	vertical-align: super;
+	color: grey;
+	}
+
+ms { 
+	font: normal 1em georgia, sans-serif;
+	margin-bottom: 0; 
+	color: grey;
+	}
+
+
+tr { 
+	font: sans-serif;
+	color: blue;
+        width: 70%;
+	display:block;
+	}
+
+h1 { 
+	font: normal bold 1.2em georgia, sans-serif;
+	letter-spacing: 0px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+	}
+h2 {    
+	font: normal 1em georgia, sans-serif;
+	letter-spacing: 0px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+	}
+uv { 
+	font:  normal 1em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: black;
+	}
+
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #B7A5DF;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #D4CDDC;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #9685BA;
+	}
+abbr {
+	border-bottom: none;
+	}
+
+
+/* specific divs */
+.page-wrapper { 
+	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
+	padding: 0 175px 0 110px;  
+	margin: 0; 
+	position: relative;
+	}
+
+.intro { 
+	min-width: 470px;
+	width: 100%;
+	}
+
+header h1 { 
+	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
+	margin-top: 10px;
+	display: block;
+	width: 219px;
+	height: 87px;
+	float: left;
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+header h2 { 
+	background: transparent url(http://csszengarden.com/001/h2.gif) no-repeat top left; 
+	margin-top: 58px; 
+	margin-bottom: 40px; 
+	width: 200px; 
+	height: 18px; 
+	float: right;
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+header {
+	padding-top: 20px;
+	height: 87px;
+}
+
+.summary {
+	clear: both; 
+	margin: 20px 20px 20px 10px; 
+	width: 160px; 
+	float: left;
+	}
+.summary p {
+	font: italic 1.1em/2.2 georgia; 
+	text-align: center;
+	}
+
+
+tooltip {
+  position: relative;
+	color: black; 
+  display: inline;
+}
+
+tooltip:hover{
+  display: inline;
+/*  color: blue;
+  font-size: 1.2em; */
+}
+
+tooltip tooltip-content {
+  display: none;
+  position: relative;
+  top: 0%;
+  right: 0%;
+  left: 0%;
+  padding: .5em;
+  bottom: 125%;
+  width: 40%;
+  font-size: .7em;
+  display: none;
+}
+
+tooltip:hover tooltip-content {
+	display: block;
+
+}
+
+
+
+
+
+
+.tooltip-wrap .tooltip-content p{
+	font-style: normal;
+	color: gray;
+	font-size: .95em;
+	font-weight: normal;
+}
+
+
+

@@ -1,0 +1,792 @@
+#+INFOJS_OPT: view:showall toc:nil path:org-info.js
+#+LATEX_HEADER_EXTRA: \usepackage[utf8x]{inputenx}\input{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_macros.tex}
+#+TITLE: Vṛṣasārasaṃgraha Volume 1: chapters 1--12
+
+
+* Introduction
+** ERC note
+   The present publication is a result of the project DHARMA 
+   `The Domestication of ``Hindu'' Asceticism and the Religious Making of South and Southeast 
+   Asia'. This project has received funding from the European Research Council (ERC) 
+   under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+
+** Acknowledgements
+   - NAK
+   Jyoti Neupane, Manita Neupane, Saubhagya Pradhananga (Chief, National Archives), Rubin Shrestha, Sahan Ranjitkar[?] a morc?,
+   Sushmita Das (VSS MSS in Calcutta)
+   sribin7501@gmail.com
+   - Naples
+   Florinda De Simini, Nirajan Kafle, Kengo Harimoto, Giulia Buriola, Alessandro Battistini,
+   Lucas Boer, Torsten ..., Kenji Takahashi, Francesco Sferra, Dorotea ... , Martina Dello Buono, Chiara ...
+   - Other
+   Judit Törzsök, Dominic Goodall, Harunaga Isaacson, SAS Sarma, Sathyanarayan, Gergely Hidas, my family
+   
+** On the contents of the VSS
+*** On the title
+    ŚDhU:
+    īśvarāyatanasyādhaḥ śrīmān dharmavṛṣaḥ sthitaḥ ||
+    yatra vīravṛṣastatra kṣityāṃ gomātaraḥ sthitā || 12.87 ||
+
+    filtered_temp/kosa/10otherkosas:   dharmo vṛṣo vṛṣaḥ śreṣṭho vṛṣo gaurmūṣiko vṛṣaḥ *
+    filtered_temp/kosa/10otherkosas-   vṛṣo balaṃ vṛṣaḥ kāmo vṛṣalo vṛṣa ucyate ** 48 **
+
+    Manusmṛti 8.16a (vṛṣo hi bhagavān dharma). 
+
+    visnusmrḍn:ViS 86.15a/ vṛṣo hi bhagavān dharmaś catuṣ-pādaḥ prakīrtitaḥ /
+
+    smrti/dharma/krtyaratnākaraḍn: dharmo 'yaṃ vṛṣarūpeṇa nāmnā nandīśavaro vibhuḥ |
+    smrti/dharma/krtyaratnākaraḍn: dharmān māheśvarān vakṣyaty ataḥ prabhṛti nārada||
+
+    tak2015/AtmapujaT55Muktabodha.dn:dharmas tatra vṛṣākāro jñānaḥ sihmasvarūpakaḥ | vairāgyaṃ 
+
+    On the title:
+    MMW 'vṛṣa':  "Justice or Virtue personified as a bull or as "Siva's bull Mn. viii, 16 Pur. Kāvyād.;
+    just or virtuous act, virtue, moral merit "Siś. Vās.;"
+
+    On the title, see De Simini 2016:238 n. 13: ''As noted by Sanderson [...], this title can have a double meaning,
+    since the ‘bull’ (vṛṣa) is both a synonym of ‘religious practice’ and the traditional mount (vāhana) of Śiva.
+
+*** The structure of the VSS
+    Matryoshka, dialogues, affiliations
+**** Contents:
+      24 chapters
+
+      1. brahmāṇḍasaṃkhyā 
+      2. śivāṇḍasaṃkhyā 
+      3. ahiṃsāpraśaṃsā 
+      4. yamavibhāga
+      5. śaucācāravidhi
+      6. yajñavidhi (also lokāḥ)
+      7. dānapraśaṃsā 
+      8. niyamapraśaṃsā (p. 603: types of svādhyāyana: śaiva, sāṃkhya, purāṇa,
+      smārta, bhārata)
+      9. traiguṇyaviśeṣaṇīya
+      10. kāyatīrthavivarṇana
+      11. caturāśramadharmavidhāna 
+      ¤12. vipulopākhyāna  (narrative)
+      On birth:
+      13. garbhotpatti (on conception)
+      14. praśnavyākaraṇa (why people are tall/short etc.)
+      ¤15. jīvanirṇaya 
+      ¤16. adhyātmanirṇaya (yoga) 
+      17. dānadharma
+      18. pūrvakarmavipāka
+      19. dānayajñaviśeṣa
+      20. pañcaviṃśatitattvanirṇaya
+      21. kalpanirṇaya
+      22. varṇagotrāśrama
+      23. nidrotpatti
+      24. śāstravarṇana
+
+**** Summary of the contents of all 24 chapters of the VSS
+*** References to other works
+         Mahābhārata
+         nakule
+         vipule
+         etc.  
+** The role of the VSS in the Śivadharma corpus
+*** general ideas
+    - is this text really Śaiva? why in this collection?
+    - niśvāsa as sadāśiva in ch. 16; Niśvāsa uttarasūtra 5.50-51; see also Kafle Niśvāsamukha p.11ff; ibid. p.12: "The term niśvāsa             means sighing. Thus, an alternative
+            meaning of the Niśvāsatattvasaṃhitā could also be a ‘‘sighing tantra.’’ To be more precise,
+            a tantra that originated from the sighing of Śiva. This is to say, the speech of Śiva."
+    - tattva-system: mati and suśira (ch. 20)
+    - parallels: MBh, Bṛhatkālottara, 
+    - ch. 21: Viṣṇu; is this a Śaiva text?
+    - āśramas are in an order different from usual; compare this to NĀT; "Variations on the āśrama-system"
+
+    History of Dharmasastra 2.1
+    pp. 416ff on āśramas
+
+    n. 988! see Āpastamba-dharma-sūtra ii.9.21.1: catvāra āśramā gārhasthyam ācāryakulaṃ maunaṃ vānaprasthyam iti| Quoted by Śankara
+    But the chapters in Āpastamba follow the traditional order.
+    "Āp. places the householder first among the āśramas, probably on account of the importance of that stage to all other āśramas." Kane ibid.
+
+    ibid p. 417: person in last āśrama is called: parivrāṭ, parivrājaka(!), bhikṣu, muni, yati.
+    See 
+    Olivelle, Patrick. The Āśrama System. The History and Hermeneutics of a Religious Institution. New York, Oxford: Oxford University Press, 1993.  [megvan] p.82ff: The Order of Āśramas; 
+            ibid: "In later texts the usual order is student, householder, hermit, and renouncer, reflecting the sequence of the passage from one _āśrama_ to another... In the Dharmasūtras, however, only Baudhāyana and Vasiṣṭha follow that order... A specific order becomes insignificant when the _āśramas_ are taken as four alternative adult vocations." 
+    Are they alternative adult vocations here in the Vṛṣasārasaṃgraha? They are numbered.
+
+    \textit{Gṛhastha. The Householder in Ancient Indian 
+    Religious Culture.} Edited by Patrick Olivelle. OUP, 2019.
+    Especially Csaba Dezső's article in it.
+
+    %%%%%%
+    %dscn 8034.jpg ff in folder /home/csaba/mmedia/images/scan/saiva/sivadharmacorpus/pasupatimatam4/
+    % in Naraharinātha's Paśupatimatam pp. 580ff
+    % CHECK if Naraharinath seems to be better at Sanskrit in other texts
+    % the edition seems problematic at many places
+    % a dialogue between Janamejaya and Vaiśampāyana, the latter of whom relates
+    dialogues between Vigatarāga and Anarthayajña
+    % revise ¤s and lost/ill
+    Bisschop in "Universal Śaivism": " -- En-dashes indicate a lost or illegible syllable in the manuscript."
+
+    %N. of a celebrated king to whom Vaiśampāyana recited the [MBh.] (greatgrandson to Arjuna, as being son and, successor to Parikshit who was the son of Arjuna's son Abhimanyu) ["SBr.] xi, xīi AitBr. "Sāṅkhir. xvi [MBh.] &c.;
+
+    Bisschop 2018:2:
+            ``The full text of the corpus was first published by Naraharinātha in 1998, while over the past few years several scholars have started to work on individual parts of the corpus or referred to them in their studies. See, in particular, Acharya 2009; Bisschop 2010, 2014; De Simini 2013, 2016a, 2016b, 2017; De Simini & Mirnig 2017; Goodall 2011; Kafle 2013, 2015; Magnone 2005; Sanderson 2003/04, 2012/13; Schwartz 2012. An edition of the Śivadharmaśāstra alone, based on a single manuscript in the Adyar Library, has been published more recently as well (Jugnu & Sharma 2014). The Śivopaniṣad, which also forms part of the Śivadharma corpus, was already published much earlier but was not recognised as such, being included in a collection of Upaniṣads (Kunhan Raja 1933).''
+
+    What MS did Naraharinātha used? See Biscchop 2018:58--59.
+
+    Palm leaf: /home/csaba/mmedia/images/scan/saiva/sivadharmacorpus/mss_florinda/newari/ngmpp/palm_leaf_mtm/A 3:3/fr.8493.0.A 0003-03_3/A3-03+65851+177_vss_start.jpg
+    Paper MS /home/csaba/mmedia/images/scan/saiva/sivadharmacorpus/mss_florinda/newari/ngmpp/paper_mtm/A 1341-06/DSCN0331 fol. 204_vss.JPG
+*** Vipula
+    Vipula in the MBh:
+
+	MBh 13040016aff
+
+	Devaśarman and his wife Ruci
+	13040017a tasya rūpeṇa --> 13040017a tasyā rūpeṇa
+
+	all gods, esp. Indra, are in love with her
+	but Devaśarman guards her
+	wants to perform yajña: how to guard her during the ritual?
+	calls his pupil, Vipula
+	tells him that Indra can assume various forms
+	Vipula decides that the only way to protect her from Indra is to magically 'enter' her (with yoga)
+	he tells her stories and enters her 
+
+	MBh 13041001ff
+	Indra sees the opportunity and enters the āśrama as a beautiful man
+	he sees Vipula's lifeless body
+	Ruci fancies Indra, but Vipula in his body stops her from standing up
+	Indra sings to her beautiful songs
+	he says "I have come for you, I am Devendra, I am in love"
+	Vipula stops her from doing anything
+	Indra is a bit shocked by her not being moved, gets angry and can see now that Vipula is in her
+	Vipula leaves her, enters his own body, and abuses Indra and tells Indra how wicked he is
+	Indra is ashamed and disappears
+	Devaśarman returns to the āśrama, Vipula tells him what happened and Devaśarman praises him
+
+        ETC., see translation here:
+        https://www.sacred-texts.com/hin/m13/m13b005.htm
+
+        See summary also here:
+        V. S. Sukthankar. Critical Studies in the Mahābhārata.
+                Poona, V. S. Sukthankar Memorial Edition Committee, 1944. 317--318
+        https://archive.org/details/in.ernet.dli.2015.281344/page/n333
+
+** Dating and provenance
+   - note the tattva chapter 20 (no tanmātras) 
+   - the archaic yoga of chapter 10 (no Piṅgalā)
+   - check lists of deities such as Vasus 
+   - order of asramas?
+**** Place of composition: geographical names and persons mentioned
+
+** Interpretation of chapters
+*** Chapter 12
+    everybody is donating to everybody, 
+    the final donor is Brahmā
+    lot of testing going on in the frame story and also
+    in chapter 12
+    also the disguise thing is recurring: 12.37 and ch 1 and
+    when Viṣṇu reveals his identity
+** Misc
+*** susūkṣma:
+    Śivadharmottara 10.45cd--46: rudraḥ ṣaḍviṃśakaḥ proktaḥ śivaś ca paratas tataḥ || 45 || saptaviṃśatimaḥ śāntaḥ susūkṣmaḥ parameśvaraḥ | svargāpavargayor dātā taṃ vijñāya vimucyate || 46 ||.
+    yamas-niyamas: see table in Śaiva Utopia p17
+*** other
+    Why is this mentioned at
+    http://cudlḷib.cam.ac.uk/view/MS-ADD-01694-00001/403 :
+    C., Kunhan Raja, Un-published Upanishads (Adyar: The Adyar Library, 1933).
+    Ahhh, Śivopaniṣat is in there!
+    cf. śivasaṃkalpa in pp 319 ff. (Śivasaṃkalpopaniṣat)
+    Bonazzoli, Giorgio, "Introducing Śivadharma and Śivadharmottara", Altorientalische Forschungen vol. 20 issue. 2 pp. 342-349 (1993).
+    "There is no raw data." EdX Harvard Digital Humanities
+
+    CHECK out Kenji on the Umāmaheśvarasaṃvāda in the MBh, his summary looks similar to the VSS
+
+    Kenji:
+    ''BDhS 2: Discussion of gṛhastha. but BDh 2.11.9--34 is a digression on the topic of caturāśrama (vikalpa
+    type, not krama type), and the author denies caturāśrama idea.''
+
+    MSS: see Bisschop Universal ... pp. 52--53; De Simini & Mirnig pp. 587, 591
+    % ``a stable element of the corpus''
+
+    Vindicate your edition: look at the apparatus, all the \Ed entries
+** Notes on language
+    - Special vocabulary/language: karhacit, hṛdi as nominative 10.27cd, tirya, me as mayā
+    - Special structures: 
+                 caturmaunasya vakṣyāmi
+                 indreṇāsmi phalaṃ dattaṃ
+    - Number: singular next to numerals, and general confusion (CHECK)
+
+    'Muta cum liquida' (Balogh 2018?:33 note 6) find sources on metrical licenses / -ces
+    Apte Appendix A p. 1: pra, bra, hra, kra are exceptions
+    In the text below, śra, śya, śva, sva, dva seem additional ones (plus tra and vra? and rp? 11.5X)
+
+    ''According to Kedārabhaṭṭa in Vṛttaratnākara, a short vowel followed by a consonant cluster 
+    (i.e., multiple consonants), although guru by default, can optionally be treated as laghu if
+    that consonant cluster happens to be the beginning of a new word. Implement this option.
+    (With required UI changes, e.g. saying: "this verse can be read as ... if an option is used in places x, y, z.") ''
+    SOURCE: ( https://github.com/shreevatsa/sanskrit/issues/1 )
+
+    Vṛttaratnākara 1.10! (etext downloaded):
+    padādāv iha varṇasya saṃyogaḥ kramasaṃjñikaḥ /
+    puraḥsthitena tena syāl laghutā 'pi kvacid guroḥ // KVrk_1.10 //
+
+    SOURCE: ( https://github.com/shreevatsa/sanskrit/issues/1 ):
+    ``The traditional rule is that the presence of a conjunct consonant (consonant cluster) makes
+      the preceding syllable a guru syllable. For purists, this is an inviolable rule, and there are no exceptions.
+
+        However, under the influence of Prākṛta and deśa-bhāṣā prosody, and also music, 
+        later prosodists give poets the option to either conform to this rule, or to occasionally indulge in an exception.
+        This exception is stated differently by different authors:
+
+        In Kannada and Telugu prosody, under the name of śithila-dvitva, the exception is that sometimes in
+        a consonant cluster of the form [consonant + "r"], the "r" (repha) can be ignored, so that it is not a conjunct consonant anymore.
+        Kedāra-bhaṭṭa in his Vṛtta-ratnākara states the exception as: if the consonant cluster is at the
+        beginning of a word, then it may be treated as a single consonant.
+        Yet another way of stating the exception is that a consonant cluster can be optionally 
+        treated as a single consonant if the effort of pronouncing it is quick 
+        # (तीव्रप्रयत्नेन) 
+        or with less effort
+        # (श्रममन्तरा).)
+    All ways of stating the exception cover the example of
+    # "निद्रव्यो ह्रियमेति ह्रीपरिगतः प्रभ्रश्यते तेजसः", 
+    but Kedārabhaṭṭa's way doesn't cover the example of "राज्ञां मध्ये सपदि जह्रिषे मित्रविन्दामवन्तीम्" from the Nārāyaṇīyam. So far I don't see a reason to prefer Kedārabhaṭṭa's formulation over the others.
+
+    But anyway, to return to the main point:
+
+       The exception is not accepted by purists: Shatavadhani Ganesh says that the Sanskrit masters like
+       Kālidāsa, Bhāravi, Māgha, Śrīharṣa, and Viśākhadatta have not freely used this exception (though the masters in Kannada
+       and other languages have).
+       Being more of a "poetic licence" and a violation of the standard rule (only found in later poetry),
+       it is extremely unlikely that any sane poet would have indulged in that exception in all four pāda-s of a verse.
+       Thus it is very unlikely that the program will miss identifying a verse that indulges in this exception.
+       At least, I haven't seen any example from real life so far. (Just saying that because
+       it would be easy to intentionally compose a verse to disproves this!)
+
+       Reference: see comments by Dr. Ganesh and Nityananda Misra in this thread started by Vishvas Vasuki:
+       https://groups.google.com/forum/#!topic/bvparishat/ya1cGLuhc14/discussion
+    ''
+
+    Nirajan's advice was to look into Chandomañjarī, and here you are:
+    p. 2: 
+    atra pādāntago laghur gurur bhaved| yathā| 
+    taruṇaṃ va?rṣapaśākaṃ navaudanaṃ picchilāni ca dadhīni?|
+    alpavyayena sundari grāmyajano miṣṭam aśnāti||
+    sundarīti grāmyaśabde pare [because it is followed by the word grāmya] vikalpena [option] laghutvam|
+    tathā bhaṭṭiḥ| 
+    atha 
+     . . . . -  . - -   -  - . . - . - . . . - -
+    lulitapatatrimālaṃ rugṇāśanavāṇakesaratamālam|
+    .   . .   . -  . - -  -  -    -! -   . - - -
+    sa vanaṃ viviktamālaṃ sītāṃ draṣṭuṃ jagāmālam|
+    atra prathamapādāntaguror laghutvam| tathā matpituḥ pārijātaharaṇanāṭake| etc.
+    OK, it is also in the Vṛttaratnākara, check it there
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    MBh on the 4-legged bull:
+    03188010c vṛṣaḥ pratiṣṭhito dharmo manuṣyeṣv abhavat purā
+    03188011a adharmapādaviddhas tu tribhir aṃśaiḥ pratiṣṭhitaḥ
+    03188011c tretāyāṃ dvāpare 'rdhena vyāmiśro dharma ucyate
+    03188012a tribhir aṃśair adharmas tu lokān ākramya tiṣṭhati
+    03188012c caturthāṃśena dharmas tu manuṣyān upatiṣṭhati
+    03188013a āyur vīryam atho buddhir balaṃ tejaś ca pāṇḍava
+    03188013c manuṣyāṇām anuyugaṃ hrasatīti nibodha me
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    - How to deal with the problem of info distributed in two volumes?
+    - metre
+      - muta cum liquida
+      - final -am etc. counts as long (reverse of muta cum liquida)
+    - stem form nouns (prātipadika)
+    - Special vocabulary/language: 
+      karhacit, hṛdi as nominative 10.27cd, tirya
+    - Special structures:
+      caturmaunasya vakṣyāmi
+    - number (e.g. singular next to numerals)
+    - gender
+    - me as mayā
+    - a more or less full collation is important: we cannot automatically 
+      reject `ungrammatical' or unmetrical forms because they may well be the
+      `original' one
+** Manuscripts consulted
+   In the manuscript descriptions below, in addition to some general remarks,
+   I will mainly focus on information relevant to the VSS. For much more
+   detail on the overall features of these manuscripts, see De Simini 2016 
+   and the catalogues I mention at each individual manuscript.
+   # SDh MSS from Nepal
+   I owe thanks Florinda De Simini for sharing with me most of the manuscripts
+   listed here, to Kengo Harimoto and Gudrun Melzer (Munich) for providing
+   photos of the Munich MS, and to Nirajan Kafle for sharing the Paris MS. 
+*** The Cambridge MSS
+**** \msCa (NC94): University Library of Cambridge Add. 1694.1.
+          I used this manuscript extensively in the critical edition. 
+          See a detailed description of this MS at
+                  https://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/382
+          Date of creation: 12th century.
+          # CHECK which term:
+          The script is Newari/Nepālākṣara.
+          # Folio height: 5 cm, width: ca. 53.5 cm. 
+          It is a palm-leaf MTM containing 258 folios.
+          Contents:
+                  1) Śivadharmaśāstra 
+                  2) Śivadharmottara 
+                  3) Śivadharmasaṃgraha
+                  4) Umāmaheśvarasaṃvāda
+                  5) Uttarottaramahāsaṃvāda
+                  6) Vṛṣasārasaṃgraha 
+                  7) Dharmaputrikā
+                  8) Śivopaniṣad
+          The VSS occupies 45 folios: 
+                  it starts on f. 193 (the recto side, online image no. 381,      
+                  is an empty folio side, the text itself starts on the verso side);
+                  it ends on f. 239r (and not 193r, as the online description says; online image no. 472).
+                  The text of the VSS is transmitted fully, without any folios or major sections of the text missing.
+          The leaves transmitting the VSS are well-preserved. Some folio
+                sides are faded and most folios are somewhat damaged on the right side, 
+                sometimes at other parts, and it seems from the images that some opaque-looking tape has been
+                applied to protect these damaged sections. In my critical edition the broken off, completely lost,
+                /akṣara/s are represented by ×, the illegible /akṣara/s under the tape by ¤. CHECK
+          The quality of the readings of this manuscript is one of the best,
+          comparable only to \msNa\ and \msP, making it one of the most
+          important sources for the VSS.
+          #                    %ayutaif \msCa 1.53d
+
+**** \msCb (NC45): University Library of Cambridge Add. 1645.
+       I used this manuscript extensively in the critical edition. 
+       See a detailed description of this MS at
+             https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/404 
+       Dated to Nepali Samvat 259 (1138--39 CE).
+       # Folio height: 4.4 cm, width: 61.7 cm. 
+       # CHECK which term:
+       The script is Newari/Nepālākṣara.
+       It is a palm-leaf MTM containing 247 folios.
+       Contents: 
+                  1) Śivadharmaśāstra
+                  2) Śivadharmottara
+                  3) Śivadharmasaṃgraha
+                  4) Śivopaniṣad 
+                  5) Umāmaheśvarasaṃvāda
+                  6) Uttarottaramahāsaṃvāda
+                  7) Vṛṣasārasaṃgraha 
+                  8) Dharmaputrikā 
+          The VSS occupies 37 folios plus one folio side: 
+                  it starts on f. 201v line 4 (online image no. 404),
+                  it ends on f. 238v line 3 (onine image no. 478).
+          The readings of this manuscript seem to follow those of \msNa
+                remarkably closely in the Śivadharmottara (as observed by De Simini
+                and Harimoto.[fn. Personal communication 01-12-2021]
+                This is more difficult to see in the VSS, but indeed, they
+                closely related. CHECK
+
+**** \msCc (NC02) CHECK zero; Cambridge University Library Add. 2102. Palm-leaf, 96 folios.
+       I used this manuscript extensively in the critical edition. 
+       # CHECK which term:
+       The script is Newari/Nepālākṣara.
+       Contents: 
+            1) Śivadharmottara 
+            2) Śivadharmasaṃgraha
+            3) Umāmaheśvarasaṃvāda
+            4) Śivopaniṣad
+            5) Vṛṣasārasaṃgraha
+            6) Dharmaputrikā (only fol. 322v).
+       For a general description of this manuscript, see the online record on the Cambridge Digital Library website:
+             https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/181.
+             f. 237r
+             Remark: the Vṛṣasārasaṃgraha seems to start in a different hand, but then it changes.
+             In this MTM, the VSS is trasmitted in an incomplete form, that is to say,
+                  a number of folios are missing (most notably chapters 15--17).
+             The text starts on a folio which is labelled 237r in the online Digital Library of 
+                  the University of Cambridge (image no. 181). 
+              This folio in fact has no visible foliation and is written in a hand that is clearly different 
+                  from that of the previous one.
+            (That folio, image no. 180, ended with verse 7.122cd of the /Śivopaniṣad/:
+                  /yauvanasthā gṛhasthāś ca/ [/prāsā/]/dasthāś ca ye nṛpāḥ/.)
+            In image 183 (folio 268r, according to the ULC website), the hand changes back to one that is similar to that
+                  in image 180. 
+            In image 184, the characters for folio number 200+60 are visible (268v, according to the ULC website).
+            In image 186, the folio number 269 is clearly visible (f. 269v). 
+            In folio 270v, the continuous text is broken at verse 2.21c (/kāmarū°/), 
+                  folios 271 and 272 are missing, and the text resumes on folio 273r with verse 3.30b
+                  (/ahiṃsā pa/]/ramaṃ sukham/). 
+            In folio 296v (image no. 234) the text breaks off again at
+                  /vātaśūlair upadrutā/ | /śukro/ (verse 14.XX CHECK), the
+                  next folio being 306r (/carmatāś ca dvijasundarīṣu/} (verse 18.XX CHECK) 
+                  (nine folios and chapters 15--17 are completely missing).
+            Again, there are two missing folios after \skt{bandhus sarvva°} in
+                  verse 18.XX CHECK in folio 306v. 
+            The text resumes in folio 309r (image 237) with /°ṇeṣu ca sarvveṣu vidvān sreṣṭha sa ucyate/
+                  (verse 19.XX CHECK). 
+            Another folio is missing between /iṣṭāniṣṭadvaya°/ (verse 20.XX CHECK, folio 309v)
+                  and /snāyu majjā sirā tathā/ (verse 20.XX CHECK, folio 311r). 
+            The VSS ends on folio 322v (image no. 262) with the concluding
+                  colophon /vṛṣasārasaṅgraha samāpta iti/.
+            This folio also contains the beginning of the /Dharmaputrikā/, but this multiple-text manuscript contains no more folios.
+
+*** The Kathmandu MSS
+**** \msNa (NK82): NGMPP A 1082/3, NAK 3-393
+       Palm-leaf, dated to NS 189 (1068--69 CE), 274 folios.
+       I used this manuscript extensively in the critical edition. 
+       See a brief description of this MS at
+            https://catalogue.ngmcp.uni-hamburg.de/receive/aaingmcp_ngmcpdocument_00098499
+       # Size: 55.6 x 5.5 cm 
+       # CHECK which term:
+       The script is Newari/Nepālākṣara.
+       It is a palm-leaf MTM containing 274 folios.
+       Contents:
+          1) Śivadharmaśāstra
+          2) Śivadharmottara
+          3) Śivadharmasaṃgraha
+          4) Umāmaheśvarasaṃvāda
+          5) Śivopaniṣad
+          6) Vṛṣasārasaṃgraha 
+          7) Dharmaputrikā
+          8) Uttarottaramahāsaṃvāda
+          The foliation for the VSS restarts from 1v (f. 1r is a cover) and
+          the text spans fols. 1v--46r. 
+          This a beautifully written and well-preserved manuscript which give
+          very useful readings and proved to be essential for the
+          reconstruction of the VSS.
+**** \msNb (NK10): NGMPP A 10/5, NAK 1-1261
+            Palm-leaf.
+            See a brief description of this MS at:
+                  https://catalogue.ngmcp.uni-hamburg.de/receive/aaingmcp_ngmcpdocument_00085264
+            I used this manuscript extensively in the critical edition. 
+            It is a MTM containing 74 folios.
+            Contents: 
+            1) Śivadharmottara
+            2) Umāmaheśvarasaṃvāda
+            3) Śivopaniṣad  
+            4) Vṛṣasārasaṃgraha
+            Some folios feature monochrome drawings.
+            A great number of the leaves that transmit the VSS
+            are damaged, faded and slightly disordered. The folio numbers are rarely visible.
+            The VSS starts on exp. 44 (upper leaf, no folio number is visible here).
+            It continues on the lower leaf and then on the upper leaf on exp. 43
+                  (going backwards) up to 1.62 (/viṃśakoṭiṣu gulmeṣu ūrdhva°/).
+            Verses 1.62cd--2.22 seem to be missing.
+            The lower leaf on exp. 43 contains verses 2.23--2.39.
+            The single leaf in exp. 42 contains verses 2.40--3.16a.
+            Exp. 41 contains a single leaf of the /Umāmaheśvarasaṃvāda/,
+                  ending in a colophon for its chapter twenty-two,
+                  and still going backwards, the preceding folios continue transmitting the /Umāmaheśvarasaṃvāda/.
+            Exploring the presence of the VSS in
+                  this manuscript further, one should look at the expositions after no. 44.
+            Exp. 45 contains the end of the /Śivopaniṣad/.
+            The single leaf on exp. 46 is almost illegible but most probably contains
+                  a fragment of the /Gautamadharmasūtra/. 
+            The second line just above the string hole on the left reads 
+                  /... vīrud vanaspatīnāṃ ca puṣpāṇi svavad ādadīte.../,
+                  which is a fragment of /Gautamadharmasūtra/ 2.3.25 (12.28).
+            The remaining parts of the VSS are to be found on exp. 47ff. 
+            The upper leaf on exp. 47 continues with VSS 3.16b-36ab,
+                  while the lower leaf contains a text that I have not been able to identify.
+            The lower leaf in exp. 48 transmits 3.36cd--4.11ab, the upper one 4.11b--30a.
+            The lower leaf in exp. 49 contains 4.30ab--47ab, the upper one 47d--68a.
+            And so on so forth.
+            Thus when reading the text from these images, after exp. 48,
+                  one has to start with the lower leaf and continue with the upper one.
+
+**** \msNc (NK07): NGMPP B 7/3 = A 1082/2, NAK 1-1075
+          See a brief description of this MS at:
+            https://catalogue.ngmcp.uni-hamburg.de/receive/aaingmcp_ngmcpdocument_00062373
+          Palm-leaf, dated to NS 290 (1169--70 CE), 289 folios.
+          Contents:
+          1) Śivadharmaśāstra
+          2) Śivadharmottara
+          3) Śivadharmasaṃgraha  
+          4) Umāmaheśvarasaṃvāda
+          5) Śivopaniṣad
+          6) Vṛṣasārasaṃgraha
+          7) Uttarottaramahāsaṃvāda 
+          8) Dharmaputrikā
+      Fol. 209v--264v contain the VSS.
+
+**** \msNd (NK03): NGMPP A 3/3 (= A 1081/5), NAK 5-737
+         Palm-leaf, dated to NS 321 (1200--01 CE), 215 folios.
+         Contents: 
+            1) Śivadharmaśāstra 
+            2) Śivadharmottara
+            3) Śivadharmasaṃgraha missing (only a few folios extant, e.g. ff. 124 and 143)
+            4) Umāmaheśvarasaṃvāda
+            5) Śivopaniṣad
+            6) Uttarottaramahāsaṃvāda
+            7) Vṛṣasārasaṅgraha (fols. 227v--264v)
+            8) Dharmaputrikā 
+         For a brief  description of this manuscript, see the record in the NGMCP online catalogue: 
+<http://catalogue.ngmcp.uni-hamburg.de/wiki/A_3-3(1)_Śivadharma>.
+VSS starts on 177.jpg
+
+      8) -- NAK 5--738 (NGMPP A 11/3): Palm-leaf, dated to NS 516 (1395--96 CE), 253 folios.  Contents: 
+         Śivadharmaśāstra (fols. 1v--43r); Śivadharmottara (fols. 4v--95r); Śivadharmasaṃgraha (fols. 96v--139v); 
+         Umāmaheśvarasaṃvāda (fols. 140v-- 171r); Śivopaniṣad (fols. 172v--189r); Uttarottaramahāsaṃvāda (fols. 
+         190v-- 211v); Vṛṣasārasaṃgraha (fols. 212v--257v). For a description of this manuscript, also see the 
+         record in the NGMCP online catalogue: <http://cata- logue.ngmcp.uni-hamburg.de/wiki/A_11-
+         3_Śivadharmottara>.
+       
+      9) -- NAK 4--1604 (NGMPP A 1365/3). Paper, 90 folios. Contents: Śivopaniṣad (fols.
+          166v--184r); Uttarottaramahāsaṃvāda (fols. 185v--210r); Vṛṣasārasaṃgraha
+          (fols. 211v--255r). For a description of this manuscript, see the record in the
+          NGMCP online catalogue: <http://catalogue.ngmcp.uni-hamburg.de/wiki
+          /A_1365-3(1)_Śivopaniṣad>  ASK
+
+      10) -- NAK 4--2537 (NGMPP B 219/3). Paper, 339 folios. Contents: Śivadharmaśāstra (fols. 1v--58r); 
+           Śivadharmottara (fols. 59v--123v); Śivadharmasaṃgraha (fols.  124v--161v); Umāmaheśvarasaṃvāda (fols. 
+           162v--238v); Vṛṣasārasaṃgraha (fols. 239v--338v). GOTIT
+
+      11) -- NAK 4--93 (NGMPP A 1341/6). Paper, 82 folios. Contents: Śivadharmasaṃgraha (fols. 91r¤--135v); 
+           Vṛṣasārasaṃgraha (fols. 204r¤--243v). GOTIT
+
+
+**** Kesar 218 BLURRED (NGMPP C 25/1). Palm-leaf, 298 folios. Contents: Śivadharmaśāstra (fols. 1v--57r);
+          Śivadharmottara (fols. 57v--134v); Śivadharmasaṃgraha (fols.  135r--215v); Umāmaheśvarasaṃvāda (fols. 
+          216v--255r); Śivopaniṣad (fols. 256v--278r); Umottara°/ Uttarottaramahāsaṃvāda (fols. 279v--299v¤); 
+          Vṛṣasārasaṃgraha (?¤--?¤); (?--?¤).
+
+**** Kesar 537 (NGMPP C 107/7). Paper, dated to NS 803 (1682--83 CE), 174 folios.  Contents:
+          Śivadharmasaṃgraha (fols. 89r--133v); Umāmaheśvarasaṃvāda (fols. 134r--163v); Śivopaniṣad (fols. 
+          164r--181r); Uttarottaramahāsaṃvāda (fols. 182r--206v); Vṛṣasārasaṃgraha (fols. 207r--251v); Dharmaputrikā 
+          (fols. 252r--262v).
+
+**** Kesar 597 (NGMPP C 57/5). Paper, dated to NS 863 (1742--43 CE), 257 folios.  Contents:
+          Śivadharmaśāstra (fols. 1v--41v); Śivadharmottara (fols. 42v--92r); Śivadharmasaṃgraha (fols. 93v--138v); 
+          Umāmaheśvarasaṃvāda (fols. 139v-- 170v); Śivopaniṣad (fols. 171v--188r); Uttarottaramahāsaṃvāda (fols. 
+          189v-- 213r); Vṛṣasārasaṃgraha (fols. 214v--257r).
+
+*** The Paris MS
+   Nirajan using this MS:
+   The Manuscript NP 57
+ 
+   It is a multiple-text palm-leaf manuscript written in Newari script and preserved in de la collection Sylvain Lévi à
+   l’Institut d’études indiennes, collège de France. The manuscript number is: MS. Skt. 57-B. 23. It contains 249
+   palm leaves, each folio containing six lines. The following palm leaves are missing: 3, 8, 47, 48, 135, 197, 214 et
+   216. Foliation is in the verso: on middle of the lef-hand margin in combination of Newari letters and in the
+   middle of right-hand in roman numbers by a second hand. There are two binding holes: one in the centre lef and
+   one in the centre right. The manuscript is some times damaged in margins with considerable loos of the text. The
+   text is written in a clear hand and contains few mistakes. Although it is undated manuscript, it could be dated to
+   the 11th century AD on the palaeographical grounds.3 It contains the following text in the order they are
+   presented in the manuscript: Śivadharmaśāstra (fols. 1--40), Śivadharmottaraśāstra (fols. 40--93),
+   Śivadharmasaṃgraha (fols. 94--142), Umāmaheśvarasaṃvāda (fols. 143--172), Śivopaniṣad (fols. 173-- 189),
+   Uttarottaramahāsaṃvāda (fols. 190--211), Vṛṣasārasaṃgraha (fols. 212--252), Dharmaputrikā (fols. 253--262). This
+   source contains reliable readings and contains few scribble mistakes.Śivāśramā- dhyāya covers fols. 33v4--37r3.
+   Nirajan says it reads close to Naraharinātha's edition
+
+*** The Munich MS
+     Kengo got it in Munich on 16 Nov 2021. VSS starts in 411.jpg
+     'cover' [411.jpg]: ||w|| vṛṣasārasaṃgraha 50 patra ||w||
+     Text starts in 412.jpeg, f.1r 
+     Ends on image 455.jpeg
+     Has interesting readings, but mostly very corrupt and useless.
+     Hand different from that of some of the other texts in this bundle.
+     Collated chapter 1, will probably not go on. Gives number of verses in colophons
+     
+     /\msM\ 412.jpg, f. 1r start; ten folios are missing:/
+                                                - f. 5 (VSS 3.4-3.33)*
+                                                - ff. 11-13 (VSS 6.20-8.45)
+                                                - ff. 24 (VSS 13.9-13.36)
+                                                - ff. 39-43 (VSS 20.38-22.35)
+                                                        *416.jpg lower image is Dharmaputrikā 4.22-39); 
+                                                         417.jpg upper is Dharmaputrikā 4.39-55*
+                                        Kengo writes: ``411.jpg forms a cover that says vṛṣasārasaṅgraha
+                                                                but it is actually 50 verso''
+                                        samvat 282? [that would be 1161 CE, or is it 292? = 1171 CE] 
+                                        No, maybe 192! see Kengo's notes! = 1070 CE
+*** The Oxford MS
+     Bodl. Or. B 125[? Sansk. a. 15]. Palm-leaf, dated to NS 307 (1186--87 CE), 335 folios. Contents: Śivadharmaśāstra 
+    (fols. 1v 1--15v1 / 12r--49v); Śivadharmottara (fols. 50v--113v); Śivadharmasaṃgraha (fols. 114v--159v); 
+    Umāmaheśvarasaṃvāda (fols. 160v--197v); Śivopaniṣad (fols. 198v--219v); Uttarottaramahāsaṃvāda (fols. 
+    220v--247r); Vṛṣasārasaṃgraha (fols. 248v--299r); Dharmaputrikā (fols. 300v--312r). 
+
+*** Kolkata TO BE OBTAINED
+    1) The Asiatic Society, Kolkata, G. 4076 (only the Vṛṣasārasaṃgraha, but once part of a larger corpus) 
+    2) The Asiatic Society, Kolkata, G. 3852 (Śivadharma corpus)
+    3) The Asiatic Society, Kolkata, G 4077. Palm leaf, Newari script, dated [Nepāla] Saṃvat 156 (1035--36 CE). 52 folios
+
+*** The Oxford MS 
+    Bodl. [Or. B 125? cancelled] Sansk. a. 15; GOTIT
+
+*** The London MS
+    -- WI δ 16 (I--VIII). Paper, 406 folios. Contents: Śivadharmaśāstra (serial no. 634), fols. 1v--63r; 
+    Śivadharmottara (s. no. 635), fols. 64r--143v; Śivadharmasaṃgraha (s. no. 633), fols. 144r--217v; 
+    Umāmaheśvarasaṃvāda (s. no. 652), fols. 218v-- 263v; Śivopaniṣad (s. no. 636), fols. 264r--297v; 
+    Uttarottarama-hāsaṃvāda (s. no.  654), fols. 298r--324r; Vṛṣasārasaṃgraha (s. no. 657), fols. 325r--390r; 
+    Dharmapu- trikā (s. no. 608), fols. 391r--406r. Described in: Dominik Wujastyk (1985). A Handlist of the 
+    Sanskrit and Prakrit Manuscripts in the Library of the Wellcome Institute for the History of Medicine, 
+    vol. 1. London, The Wellcome Institute for the History of Medicine.
+    DIRECT COPY of CHECK A82
+
+*** The Edition
+    - \Ed Naraharinath's edition
+
+*** CHECK remaining ones
+   De Simini 2016:240 n. 19 Śivadharma MSS:
+   1) ASC G 3852 (cat. no. 4085); GOTIT 
+   2) ASC G 4077 (cat. no. 4084); GOTIT
+   4) Kesar 218 (NGMPP C 25/1) GOTIT
+   6) NAK 1--1261 (A 10/5); GOTIT
+      National Archives, Kathmandu, 3/393, 274 folios. Microfilmed by the NGMPP, A 1082/3. 
+      115 Palm leaf, Newari script, dated [Nepāla] Saṃvat 189 (1069 CE): Florinda sent it to me!
+   8) NAK 5--737 (NGMPP A 3/3=A 1081/5); GOTIT 
+   9) NAK 5--738 (NGMPP A 11/3); GOTIT 
+   10  NAK 5--841 (NGMPP B 12/4); GOTIT 
+   11) NAK 6--7 (NGMPP A 1028/4);  GOTIT NO VṚṢA! 
+   12) UBT Ma I 582; GOTIT (Tübingen)
+    + Cambridge, Cambridge University Library: Add.1599 no!
+    + Add.2836 no!
+    + Or.726. 
+
+** Editorial policies
+    - avagrahas usually supplied but sometimes found in the MSS
+    - usually 4 pādas to a verse, but I have made arbitrary decisions based on sense-units 
+      because none of the sources really indicate where a verse ends (||).
+    - falsifications everywhere on purpose and accidentally
+* The critically edited Sanskrit text of VSS 1--12
+  Roman or Devanāgarī?
+** Beginning of MSS
+      %not in \msCc\ MS Add.2102
+      <> śrīgaṇeśāya namaḥ<>
+              <AP> \vo \om\ \mssCaCbCc</AP>
+
+      % \msCa f.193v line 1                   image 382
+      % \msCb f.201v line 4                   image 404
+      % \msCc f.267r line 1 (not 237r as online shown) image 181
+                      It is incomplete. It starts on exp. 181.jpg, f. 237v(??! different hand) (1.1)
+                                      it breaks off at 2.21 (270v??) and resumes in 189.jpg, 273r (sic!)
+      % \msNa f.1v (numbering restarts) image 195.jpg upper
+      % \msNb image 44.jpg 
+      % \msNc f.209v image 212.jpg upper  
+      % \msNd A 3/3, 177.jpg, f. 227v
+      % \msL 2014-06-04 13.24.06.jpg (Wellcome Institute)
+* Translation and Notes
+  Separately or in one go?
+* Bibliography
+ 
+  - Bisschop 2018: Bisschop, Peter C. Universal Śaivism. The Appeasement of All Gods and Powers in the Śāntyadhyāya of the Śivadharmaśāstra. In: Gonda Indological Studies no. 18. Leiden: Brill.
+
+  - Bisschop, Peter C., Early Śaivism and the Skandapurāṇa. Sects and Centres (Groningen: Egbert Forsten, 2006).
+
+  - Bisschop, Peter C., "Once Again on the Identity of Caṇḍeśvara in Early Śaivism: A rare Caṇḍeśvara in the British Museum?", Indo-Iranian Journal vol. 53 pp. 233-249 (2010).
+
+  - Bonazzoli, Giorgio, "Introducing Śivadharma and Śivadharmottara", Altorientalische Forschungen vol. 20 issue. 2 pp. 342-349 (1993).
+
+  - De Simini, Florinda, A Critical Edition of Śivadharmottara’s Chapter Two, ‘On The Gift of Knowledge’ (vidyādānādhyāya). With Introduction and English Translation (Forth.).
+
+  - Goodall, Dominic, "The Throne of Worship. An Archaeological Tell of Religious Rivalries", Studies in Indian History vol. 27 issue. 2 pp. 221-250 (2013).
+
+  - Hazra, Rajendra Chandra, "The Śivadharma", Journal of the Ganganath Jha Research Institute vol. 10 pp. 1-20 (1952-3).
+
+  - Hazra, Rajendra Chandra, "The Śivadharmottara", Journal of the Ganganath Jha Research Institute vol. 13 pp. 19-50 (1983).
+
+  - Magnone, Paolo, "Śivadharmottara Purāṇa: a Survey", in Petteri Koskikallio (ed.), Epics, Khilas, and Purāṇas: Continuities and Ruptures. Proceedings of the Third Dubrovnik International Conference on the Sanskrit Epics and Purāṇas. September 2002 (Zagreb: 2005) pp. 575-596.
+     
+  - Sanderson, Alexis, "The Śaiva Religion among the Khmers. Part I", Bulletin de l'École Française d'Extrême-Orient vol. 90-91 pp. 349-462 (2003-2004).
+    
+  - Sanderson, Alexis, Religion and the State: Initiating the Monarch in Śaivism and the Buddhist Way of Mantras (Heidelberg: Harrassowitz, Forth.).
+
+  - De Simini 2016: De Simini, Florinda. ‘Śivadharma Manuscripts from Nepal and the Making of a Śaiva Corpus’. In: Michael Friedrich & Cosima Schwarke (eds), One-Volume Libraries: Composite and Multiple-Text Manuscripts. Berlin, De Gruyter. Studies in Manuscript Cultures, pp. 233--286.
+
+  - De Simini & Mirnig 2017: De Simini, Florinda & Nina Mirnig. ‘Umā and Śiva’s Playful Talks in Detail (Lalitavistara): On the Production of Śaiva Works and their Manuscripts in Medieval Nepal. Studies on the Śivadharma and the Mahābhārata 1.’ in: V. Vergiani, D. Cuneo, C.A. Formigatti (eds.), Indic Manuscript Cultures through the Ages, Berlin: De Gruyter, 587--653.
+
+  - Naraharinath 1998: Naraharinath, Yogin. Śivadharma Paśupatimatam Śivadharmamahāśāstram Paśupatināthadarśanam. Edit. by Yogin Naraharinatha. Kathmandu, saṃvat 2055 (1998 CE). 
+
+  - Olivelle, Patrick. The Āśrama System. The History and Hermeneutics of a Religious Institution. New York, Oxford: Oxford University Press, 1993.
+
+  - Sanderson 2009: Sanderson, Alexis. ‘The Śaiva Age: The Rise and Dominance of Śaivism during the Early Medieval Period.’ In: Genesis and Development of Tantrism. ed. Shingo Einoo. Tokyo: Institute of Oriental Culture, University of Tokyo. Institute of Oriental Culture Special Series, 23, pp. 41--350. 
+
+  - Sanderson 2014: Sanderson, Alexis. ‘The Śaiva Literature.’ Journal of Indological Studies (Kyoto), Nos. 24 & 25 (2012--2013), pp. 1--113.
+    
+  - Shastri 1905, 1915: Śāstri, H. P. A Catalogue of Palm-leaf & Selected Paper MSS belonging to the Durbar Library, Nepal. Vol I--II. Calcutta: Baptist Mission Press, 1905, 1915.
+
+  - Shaman Hatley BraYā vol. i.: a chapter on Śivadharmaśāstra's origin of liṅga story
+
+  - Kenji sent me:
+     Schlingloff 1969: Schlingloff, Dieter. 'The Oldest Extant Parvan-List of the Mahābhārata.'
+     Journal of the American Oriental Society, Vol. 89, No. 2 (Apr. - Jun., 1969), pp. 334-338
+     Stable URL: http://www.jstor.org/stable/596517
+
+* Index
+  A must
+****** asasda  <2021-12-04 szo>
+* COMMENT Technical notes
+** TEI
+    TEI °s:
+    :%s/>°/ rend="circlefront">/g
+    :%s/>.*°/ rend="circleback">&/g
+    :%s/rend="circlefront rend="circleback"/rend="circlearound"/g
+    :%s/°//g       
+     Indexing the xml file:
+         - %index_geo etc.
+** VIM
+    % setl noai nocin nosi inde=
+    % setlocal spelllang=en_us or 
+    % setlocal spelllang=en_gb
+    % to have linebreak only at spaces
+    % set tw=0 wrap linebreak
+    % :%s/\ ([^,]*\), \(.*\)/\2 \1/     delete space before ( here!
+    % vim syntax highlighting: I added this
+            " added by CsK
+            syn match xmlString		+\\[a-zA-Z]*+
+*** vim org mode										:org:
+        zo 	open current fold
+        zO 	recursively open current fold
+        zc 	close current fold
+        zC 	recursively close current fold
+        za 	toggle current fold
+        zA 	recursively open/close current fold
+        zm 	reduce foldlevel by one
+        zM 	close all folds
+        zr 	increase foldlevel by one
+        zR 	open all folds
+        (localleader is \ by default, otherwise :echo mapleader )
+        \hn open same level heading below
+        \hN open same level heading above
+        \sa inserts date! 
+        \st add tag on the right
+        \cn new checkbox below
+        \cN new checkbox above
+        \cc toggle checkbox
+        
+        I modified .vim/ftplugin/orgmode/plugins/Date.py:
+           added this to the preamble:
+        		locale.setlocale(locale.LC_TIME, "en_GB.utf8")
+           and added locale... etc. here:
+           ```
+                 def insert_timestamp(cls, active=True):
+                        u"""
+                        Insert a timestamp at the cursor position.
+                        TODO: show fancy calendar to pick the date from.
+                        TODO: add all modifier of orgmode.
+                        """
+                        # added by Csaba Kiss 04-12-2021
+                        locale.setlocale(locale.LC_TIME, "en_GB.utf8")
+           ```
+***** TODO Insert a % inside [] and it shows your progress in list: [25%]
+                - [ ] item
+                - [X] item
+                - [ ] 
+                - [ ] 
+        \ct cycle throuth TODO options 
+****** VERIFY asdadf
+****** DONE asdadf
+****** TODO asdadfa <2021-12-04 szo>
+****** TODO asdadf
+****** TODO asdadf
+
+
+***** 
+        C-x and C-a: speeddating (change number/date under cursor)
+        \m} or \m{ moves the header up and down
+
+         
+
+          :OrgExportToLaTeX etc. (it actually uses emacs)
+
+          '#' and space to comment out lines for export
+          or  #+BEGIN_COMMENT … #+END_COMMENT
+          _underline_ 
+
+          * bold*
+          /italic/  
+    in emacs: #+TODO: TODO CONSIDER CHECK | DONE CANCELED
+    the above is now handled in .vimrc
+   
+** GIT
+        git status
+        git add .
+        git commit 
+        git log --all --graph --decorate
+        git checkout 9f3a...
+        git branch -d <branchname>
