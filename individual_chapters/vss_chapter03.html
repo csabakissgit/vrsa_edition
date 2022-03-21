@@ -1,68 +1,115 @@
-<!DOCTYPE html>
- <html lang="en">
 
-<head>
- <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <title>Loading...</title>
-<rt id="realtitle">Title</rt>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
- <link rel="stylesheet" href="style_scroll.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="jquery.min.js"></script><script src="colorthemes.js"></script> </head>
-
-<body onload="closeapp();">
-
-<div class="text" id="sanskrittext">
-
-<script xmlns="http://www.w3.org/1999/xhtml" src="showhide.js"></script>
-<script xmlns="http://www.w3.org/1999/xhtml" src="onlytext.js"></script>
-
-<span style="color:green"></span>
-
-
-<br/>
-
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+       <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+       <title>Loading...</title>
+       <rt id="realtitle">Title</rt>
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <link rel="stylesheet" href="css/style_scroll.css">
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+       <script src="js/jquery.min.js"></script>
+       <script src="js/colorthemes.js"></script>
+       <script src="js/showhide.js"></script>
+       <script src="js/onlytext.js"></script>
+    </head>
+       <body onload="closeapp();">
+          <div class="text" id="sanskrittext">
+          <br/>
+        
 <select id="themes"  style="background-color:black">
- <option value="default">--Choose Colour Theme--</option>
- <option value="contrast">Contrasted</option>
- <option value="light">Light</option>
- <option value="gray">Gray</option>
- </select>
-
-  <script>
-    $("select").change(function() {if ($(this).val() === "contrast") {doContrastedColorTheme();} if ($(this).val() === "gray") {doGrayColorTheme();} if ($(this).val() === "light") {doLightColorTheme();}      }) </script>
-
-
-
-
-<div class="header">&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<div class="wrap-main"></div>
-
-<div class="wrap-main"><span class="instr" onclick="showApparatus('instructions')">Help</span>
-<div class="wrap-content" onclick="hideFunction('instructions')" id="instructions">
-<span class="instr"> • Press keys 's', 't' and 'n' to toggle the Sanskrit text, the translation and the notes; press 'a' to open all four windows; press 'o' to open/close all apparatus entries; press 'd' to toggle Roman/Devanāgarī</span> <span class="instr"> • You can also use these buttons for the same:</span> <span class="instr"> &nbsp;&nbsp;&nbsp;&nbsp; <button onclick="showonlytext()" id="showonlytext">Only Skt</button></span>
- <span class="instr"> &nbsp;&nbsp;&nbsp;&nbsp; <button onclick="showtextandtranslation()" id="showtextandtranslation">Skt & Tr</button></span> <span class="instr"> &nbsp;&nbsp;&nbsp;&nbsp; <button onclick="showtexttrnotes()" id="txttrnotes">Skt & Tr & Notes</button></span> <span class="instr"> &nbsp;&nbsp;&nbsp;&nbsp; <button onclick="showall()" id="all">All</button></span> <span class="instr"> &nbsp;&nbsp;&nbsp;&nbsp; <button onclick="openallapp()" id="openallapp">Open all apparatus entries</button></span> <span class="instr">  &nbsp;&nbsp;&nbsp;&nbsp; <button onclick="turnItDevnag()" id="switchbutton">Switch to Devanāgarī</button></span> <span class="instr"> • Click inside this box to close it</span>
-<span class="instr"> • Single click on Sanskrit line to display apparatus and highlight translation of verse (if translation is visible)</span>
-<span class="instr"> • Click inside apparatus box to close it</span>
-<span class="instr"> • Double click on Sanskrit line to scroll to relevant note, if any and if notes are displayed</span>
-<span class="instr"> • Click on translation to toggle highligting on relevant Sanskrit verse</span><span class="instr"> • If your browser has problems rendering the Devanāgarī font, change your browser's default font (e.g. to 'Noto Sans Devanagari' on Ubuntu) </span>
-</div>
-</div>
-</div>
-<br/>
-
-
+              <option value="default">--Choose Colour Theme--</option>
+              <option value="contrast">Contrasted</option>
+              <option value="light">Light</option>
+              <option value="gray">Gray</option>
+             </select>
+           <script>
+           $("select").change(function() {
+                    if ($(this).val() === "contrast") {
+                        doContrastedColorTheme();
+                        }
+                    if ($(this).val() === "gray") {
+                        doGrayColorTheme();
+                        }
+                    if ($(this).val() === "light") {
+                        doLightColorTheme();
+                        }
+                    })
+                    </script>
+                    
+<div class="header">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    <div class="wrap-main">
+     <span class="instr" onclick="showApparatus('instructions')">
+        Help
+     </span>
+     <div class="wrap-content" onclick="hideFunction('instructions')" id="instructions">
+     <span class="instr"> 
+        • Press keys 's', 't' and 'n' to toggle the Sanskrit text, the translation and the notes, respectively; 
+        press 'a' to open all four windows; press 'o' to open/close all apparatus entries;
+        press 'd' to toggle Roman/Devanāgarī
+     </span>
+     <span class="instr">
+         • You can also use these buttons for the same:
+     </span> 
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="showonlytext()" id="showonlytext">Only Skt</button>
+     </span>
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="showtextandtranslation()" id="showtextandtranslation">Skt & Tr</button>
+     </span> 
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="showtexttrnotes()" id="txttrnotes">Skt & Tr & Notes</button>
+     </span> 
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="showall()" id="all">All</button>
+     </span> 
+     <span class="instr"> 
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="openallapp()" id="openallapp">Open all apparatus entries</button>
+     </span> 
+     <span class="instr">  
+          &nbsp;&nbsp;&nbsp;&nbsp; 
+          <button onclick="turnItDevnag()" id="switchbutton">Switch to Devanāgarī</button>
+     </span> 
+     <span class="instr"> 
+          • Click inside this box to close it
+     </span>
+     <span class="instr"> 
+          • Single click on Sanskrit line to display apparatus 
+          and highlight translation of verse (if translation is visible)
+     </span>
+     <span class="instr"> 
+          • Click inside apparatus box to close it
+     </span>
+     <span class="instr"> 
+          • Double click on Sanskrit line to scroll to relevant note, if any and if notes are displayed
+     </span>
+     <span class="instr"> 
+          • Click on translation to toggle highligting on relevant Sanskrit verse
+     </span>
+     <span class="instr"> 
+          • If your browser has problems rendering the Devanāgarī font, 
+          change your browser's default font (e.g. to 'Noto Sans Devanagari' on Ubuntu) 
+     </span>
+     </div>
+     </div>
+     </div>
+     <br/>
+     
 <RMTEXT><h1>
  Vr̥ṣasārasaṁgrahaḥ 
 </h1></RMTEXT>
 <DNTEXT><h1>
  वृषसारसंग्रहः 
   </h1></DNTEXT>
-<NEWCHAPTER/>
+<!-- NEWCHAPTER -->
 <RMTEXT><chapter>
 [ tr̥tīyo 'dhyāyaḥ ]
 </chapter></RMTEXT>
@@ -79,7 +126,7 @@
 <div class="wrap-main">
 <TEXT id="3.1uvaca" class="sktvrs3.1" onclick="showApparatus('app3.1uvaca')" ondblclick="showNote('note3.1')" >
 <RMTEXT><uvaca> vigatarāga uvāca | </uvaca></RMTEXT>
-<DNTEXT>विगतराग उवाच ।   </DNTEXT></TEXT>
+<DNTEXT><uvaca>विगतराग उवाच ।   </uvaca> </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app3.1uvaca')" id="app3.1uvaca">
@@ -169,7 +216,7 @@
 <div class="wrap-main">
 <TEXT id="3.3uvaca" class="sktvrs3.3" onclick="showApparatus('app3.3uvaca')" ondblclick="showNote('note3.3')" >
 <RMTEXT><uvaca> anarthayajña uvāca | </uvaca></RMTEXT>
-<DNTEXT>अनर्थयज्ञ उवाच ।   </DNTEXT></TEXT>
+<DNTEXT><uvaca>अनर्थयज्ञ उवाच ।   </uvaca> </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app3.3uvaca')" id="app3.3uvaca">
@@ -354,8 +401,8 @@
 <RMAPP>        <VSNUMPADA>7cd</VSNUMPADA> <LEM>tasya putrāś ca pautrāś ca anekāś ca babhūva ha</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>10</sub></span>;
 </RMAPP><DNAPP>        <VSNUMPADA>७  cd:</VSNUMPADA> <LEM>तस्य पुत्राश्च पौत्राश्च अनेकाश्च बभूव ह </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>10</sub></span>;
   </DNAPP>
-<RMAPP>                gatiś ca pautrāś ca anekāś ca babhūva ha (<i>eyeskip from 3.5a</i>) <span class="ms">C<sub>45</sub></span>,
-</RMAPP><DNAPP>                गतिश्च पौत्राश्च अनेकाश्च बभूव ह (<i>eyeskip fरोम् ३.५अ</i>) <span class="ms">C<sub>45</sub></span> ,
+<RMAPP>                gatiś ca pautrāś ca anekāś ca babhūva ha (<i>eyeskip to from 3.5a</i>) <span class="ms">C<sub>45</sub></span>,
+</RMAPP><DNAPP>                गतिश्च पौत्राश्च अनेकाश्च बभूव ह (<i>eyeskip to fरोम् ३.५अ</i>) <span class="ms">C<sub>45</sub></span> ,
   </DNAPP>
 <RMAPP>                tasya putrāś ca yotrāś ca anekāś ca babhūva ha <span class="ms">K<sub>82</sub></span><span class="ms">K<sub>07</sub></span>,
 </RMAPP><DNAPP>                तस्य पुत्राश्च योत्राश्च अनेकाश्च बभूव ह <span class="ms">K<sub>82</sub></span><span class="ms">K<sub>07</sub></span> ,
@@ -382,13 +429,13 @@
 <div class="wrap-main">
 <TEXT id="3.8uvaca" class="sktvrs3.8" onclick="showApparatus('app3.8uvaca')" ondblclick="showNote('note3.8')" >
 <RMTEXT><uvaca> vigatarāga uvāca | </uvaca></RMTEXT>
-<DNTEXT>विगतराग उवाच ।   </DNTEXT></TEXT>
+<DNTEXT><uvaca>विगतराग उवाच ।   </uvaca> </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app3.8uvaca')" id="app3.8uvaca">
 
-<RMAPP>        <VSNUMPADA>8</VSNUMPADA> <LEM>vigatarāga uvāca</LEM> <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><corr>pc</corr><span class="ms">K<sub>07</sub></span><span class="ms">E</span>; vigatarāga u <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>10</sub></span>, <i>omitted in</i> <span class="ms">K<sub>82</sub></span><corr>ac</corr><br/>
-</RMAPP><DNAPP>        <VSNUMPADA>8:</VSNUMPADA> <LEM>विगतराग उवाच </LEM> <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><corr>pc</corr><span class="ms">K<sub>07</sub></span><span class="ms">E</span>; विगतराग उ <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>10</sub></span> , <i>omitted in</i> <span class="ms">K<sub>82</sub></span><corr>ac</corr><br/>
+<RMAPP>        <VSNUMPADA>8</VSNUMPADA> <LEM>vigatarāga uvāca</LEM> <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82<corr>pc</corr></sub></span><span class="ms">K<sub>07</sub></span><span class="ms">E</span>; vigatarāga u <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>10</sub></span>, <i>omitted in</i> <span class="ms">K<sub>82<corr>ac</corr></sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>8:</VSNUMPADA> <LEM>विगतराग उवाच </LEM> <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82<corr>pc</corr></sub></span><span class="ms">K<sub>07</sub></span><span class="ms">E</span>; विगतराग उ <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>10</sub></span> , <i>omitted in</i> <span class="ms">K<sub>82<corr>ac</corr></sub></span><br/>
   </DNAPP>
 
 </div>
@@ -421,7 +468,7 @@
 <div class="wrap-main">
 <TEXT id="3.9uvaca" class="sktvrs3.9" onclick="showApparatus('app3.9uvaca')" ondblclick="showNote('note3.9')" >
 <RMTEXT><uvaca> anarthayajña uvāca | </uvaca></RMTEXT>
-<DNTEXT>अनर्थयज्ञ उवाच ।   </DNTEXT></TEXT>
+<DNTEXT><uvaca>अनर्थयज्ञ उवाच ।   </uvaca> </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app3.9uvaca')" id="app3.9uvaca">
@@ -444,11 +491,11 @@
 <RMAPP>                                lakṣmīr dhr̥tis tuṣ <span class="ms">C<sub>45</sub></span>,  
 </RMAPP><DNAPP>                                लक्ष्मीर्धृतिस्तुष् <span class="ms">C<sub>45</sub></span> ,  
   </DNAPP>
-<RMAPP>                                lakṣmī ddhr̥tir ddhr̥tis tuṣṭiḥ <span class="ms">K<sub>82</sub></span><corr>ac</corr>, 
-</RMAPP><DNAPP>                                लक्ष्मी द्धृतिर्द्धृतिस्तुष्टिः <span class="ms">K<sub>82</sub></span><corr>ac</corr> , 
+<RMAPP>                                lakṣmī ddhr̥tir ddhr̥tis tuṣṭiḥ <span class="ms">K<sub>82<corr>ac</corr></sub></span>, 
+</RMAPP><DNAPP>                                लक्ष्मी द्धृतिर्द्धृतिस्तुष्टिः <span class="ms">K<sub>82<corr>ac</corr></sub></span> , 
   </DNAPP>
-<RMAPP>                                lakṣmīr ddhr̥tis tuṣṭiḥ <span class="ms">K<sub>82</sub></span><corr>pc</corr>, 
-</RMAPP><DNAPP>                                लक्ष्मीर्द्धृतिस्तुष्टिः <span class="ms">K<sub>82</sub></span><corr>pc</corr> , 
+<RMAPP>                                lakṣmīr ddhr̥tis tuṣṭiḥ <span class="ms">K<sub>82<corr>pc</corr></sub></span>, 
+</RMAPP><DNAPP>                                लक्ष्मीर्द्धृतिस्तुष्टिः <span class="ms">K<sub>82<corr>pc</corr></sub></span> , 
   </DNAPP>
 <RMAPP>                                lakṣmīṁ dhr̥ti tuṣṭiḥ <span class="ms">K<sub>10</sub></span>,
 </RMAPP><DNAPP>                                लक्ष्मीं धृति तुष्टिः <span class="ms">K<sub>10</sub></span> ,
@@ -574,8 +621,8 @@
 <RMAPP>        <VSNUMPADA>11c</VSNUMPADA> <LEM>tv abhayaḥ putro</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; tūbhayaḥ putrau <span class="ms">E</span><br/>
 </RMAPP><DNAPP>        <VSNUMPADA>११  c:</VSNUMPADA> <LEM>त्वभयः पुत्रो </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; तूभयः पुत्रौ <span class="ms">E</span><br/>
   </DNAPP>
-<RMAPP>        <VSNUMPADA>11d</VSNUMPADA> <LEM>daṇḍaḥ</LEM> <i>corr.</i>; daṇḍe <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span><corr>ac</corr>, daṇḍo <span class="ms">C<sub>45</sub></span>, daṇḍa° <span class="ms">K<sub>82</sub></span><corr>pc</corr><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span><span class="ms">E</span> •<br>
-</RMAPP><DNAPP>        <VSNUMPADA>११  d:</VSNUMPADA> <LEM>दण्डः </LEM> <i>corr.</i>; दण्डे <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span><corr>ac</corr> , दण्डो <span class="ms">C<sub>45</sub></span> , दण्ड° <span class="ms">K<sub>82</sub></span><corr>pc</corr><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span><span class="ms">E</span> •<br>
+<RMAPP>        <VSNUMPADA>11d</VSNUMPADA> <LEM>daṇḍaḥ</LEM> <i>corr.</i>; daṇḍe <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82<corr>ac</corr></sub></span>, daṇḍo <span class="ms">C<sub>45</sub></span>, daṇḍa° <span class="ms">K<sub>82<corr>pc</corr></sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span><span class="ms">E</span> •<br>
+</RMAPP><DNAPP>        <VSNUMPADA>११  d:</VSNUMPADA> <LEM>दण्डः </LEM> <i>corr.</i>; दण्डे <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82<corr>ac</corr></sub></span> , दण्डो <span class="ms">C<sub>45</sub></span> , दण्ड° <span class="ms">K<sub>82<corr>pc</corr></sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span><span class="ms">E</span> •<br>
   </DNAPP>
 <RMAPP>                 <LEM>ca</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; tu <span class="ms">E</span><br/>
 </RMAPP><DNAPP>                 <LEM>च </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; तु <span class="ms">E</span><br/>
@@ -680,7 +727,7 @@
 <div class="wrap-main">
 <TEXT id="3.14uvaca" class="sktvrs3.14" onclick="showApparatus('app3.14uvaca')" ondblclick="showNote('note3.14')" >
 <RMTEXT><uvaca> vigatarāga uvāca | </uvaca></RMTEXT>
-<DNTEXT>विगतराग उवाच ।   </DNTEXT></TEXT>
+<DNTEXT><uvaca>विगतराग उवाच ।   </uvaca> </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app3.14uvaca')" id="app3.14uvaca">
@@ -731,7 +778,7 @@
 <div class="wrap-main">
 <TEXT id="3.15uvaca" class="sktvrs3.15" onclick="showApparatus('app3.15uvaca')" ondblclick="showNote('note3.15')" >
 <RMTEXT><uvaca> anarthayajña uvāca | </uvaca></RMTEXT>
-<DNTEXT>अनर्थयज्ञ उवाच ।   </DNTEXT></TEXT>
+<DNTEXT><uvaca>अनर्थयज्ञ उवाच ।   </uvaca> </DNTEXT></TEXT>
 
 
 <div class="wrap-content" onclick="hideFunction('app3.15uvaca')" id="app3.15uvaca">
@@ -751,8 +798,8 @@
 <RMAPP>        <VSNUMPADA>15a</VSNUMPADA> <LEM>śruti°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; śrutiḥ <span class="ms">C<sub>45</sub></span><span class="ms">E</span><br/>
 </RMAPP><DNAPP>        <VSNUMPADA>१५  a:</VSNUMPADA> <LEM>श्रुति° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; श्रुतिः <span class="ms">C<sub>45</sub></span><span class="ms">E</span><br/>
   </DNAPP>
-<RMAPP>        ab <LEM>°dvayor mūrtir dha°</LEM> <span class="ms">C<sub>94</sub></span>; °dvayo mūrti dha° <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span>, °dvayī mūrti dha° <span class="ms">K<sub>07</sub></span>, 
-</RMAPP><DNAPP>        ab <LEM>°द्वयोर्मूर्तिर्ध° </LEM> <span class="ms">C<sub>94</sub></span>; °द्वयो मूर्ति ध° <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span> , °द्वयी मूर्ति ध° <span class="ms">K<sub>07</sub></span> , 
+<RMAPP>        <VSNUMPADA>15ab</VSNUMPADA> <LEM>°dvayor mūrtir dha°</LEM> <span class="ms">C<sub>94</sub></span>; °dvayo mūrti dha° <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span>, °dvayī mūrti dha° <span class="ms">K<sub>07</sub></span>, 
+</RMAPP><DNAPP>        <VSNUMPADA>१५  ab:</VSNUMPADA> <LEM>°द्वयोर्मूर्तिर्ध° </LEM> <span class="ms">C<sub>94</sub></span>; °द्वयो मूर्ति ध° <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span> , °द्वयी मूर्ति ध° <span class="ms">K<sub>07</sub></span> , 
   </DNAPP>
 <RMAPP>                                                                                        °dvayor mūrti dha° <span class="ms">E</span><br/>
 </RMAPP><DNAPP>                                                                                        °द्वयोर्मूर्ति ध° <span class="ms">E</span><br/>
@@ -890,7 +937,7 @@
 [ yameṣv ahiṁsā (1) ]
 </subchapter></RMTEXT>
 <DNTEXT><subchapter>
-[ यमेष्वअहिंसा (१) ]
+[ यमेष्वहिंसा (१) ]
   </subchapter></DNTEXT>
 
 <div class="wrap-main">
@@ -1159,8 +1206,8 @@
 
 <div class="wrap-content" onclick="hideFunction('app3.25ab')" id="app3.25ab">
 
-<RMAPP>        <VSNUMPADA>25b</VSNUMPADA> <LEM>°taraṁ</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>45</sub></span><corr>pc</corr><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; °tan <span class="ms">C<sub>45</sub></span><corr>ac</corr><span class="ms">E</span><br/>
-</RMAPP><DNAPP>        <VSNUMPADA>२५  b:</VSNUMPADA> <LEM>°तरं </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>45</sub></span><corr>pc</corr><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; °तन् <span class="ms">C<sub>45</sub></span><corr>ac</corr><span class="ms">E</span><br/>
+<RMAPP>        <VSNUMPADA>25b</VSNUMPADA> <LEM>°taraṁ</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>45<corr>pc</corr></sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; °tan <span class="ms">C<sub>45<corr>ac</corr></sub></span><span class="ms">E</span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>२५  b:</VSNUMPADA> <LEM>°तरं </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>45<corr>pc</corr></sub></span><span class="ms">K<sub>82</sub></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; °तन् <span class="ms">C<sub>45<corr>ac</corr></sub></span><span class="ms">E</span><br/>
   </DNAPP>
 
 </div>
@@ -1626,8 +1673,8 @@
 <RMAPP>        <VSNUMPADA>38a</VSNUMPADA>  <LEM>parṇa°</LEM> <span class="ms"><b>C</b></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; paṇṇa° <span class="ms">K<sub>82</sub></span>, parṇā° <span class="ms">E</span><br/>
 </RMAPP><DNAPP>        <VSNUMPADA>३८  a:</VSNUMPADA>  <LEM>पर्ण° </LEM> <span class="ms"><b>C</b></span><span class="ms">K<sub>10</sub></span><span class="ms">K<sub>07</sub></span>; पण्ण° <span class="ms">K<sub>82</sub></span> , पर्णा° <span class="ms">E</span><br/>
   </DNAPP>
-<RMAPP>        <VSNUMPADA>38ab</VSNUMPADA> <LEM>°hārād a°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>02</sub></span><span class="ms">K<sub>10</sub></span><corr>pc</corr><span class="ms">K<sub>07</sub></span><span class="ms">E</span>; °hād a° <span class="ms">K<sub>10</sub></span><corr>ac</corr>, °hārā a° <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><br/>
-</RMAPP><DNAPP>        <VSNUMPADA>३८  ab:</VSNUMPADA> <LEM>°हाराद° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>02</sub></span><span class="ms">K<sub>10</sub></span><corr>pc</corr><span class="ms">K<sub>07</sub></span><span class="ms">E</span>; °हाद° <span class="ms">K<sub>10</sub></span><corr>ac</corr> , °हारा अ° <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><br/>
+<RMAPP>        <VSNUMPADA>38ab</VSNUMPADA> <LEM>°hārād a°</LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>02</sub></span><span class="ms">K<sub>10<corr>pc</corr></sub></span><span class="ms">K<sub>07</sub></span><span class="ms">E</span>; °hād a° <span class="ms">K<sub>10<corr>ac</corr></sub></span>, °hārā a° <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><br/>
+</RMAPP><DNAPP>        <VSNUMPADA>३८  ab:</VSNUMPADA> <LEM>°हाराद° </LEM> <span class="ms">C<sub>94</sub></span><span class="ms">C<sub>02</sub></span><span class="ms">K<sub>10<corr>pc</corr></sub></span><span class="ms">K<sub>07</sub></span><span class="ms">E</span>; °हाद° <span class="ms">K<sub>10<corr>ac</corr></sub></span> , °हारा अ° <span class="ms">C<sub>45</sub></span><span class="ms">K<sub>82</sub></span><br/>
   </DNAPP>
 
 </div>
@@ -1842,43 +1889,39 @@
 </div></div><br/><br/><br/><br/></div>
 
 <div class="translation" id="translation">
-
-
-
-
-<br/>
-<select id="trthemes"  style="background-color:black">
- <option value="default">--Choose Colour Theme--</option>
- <option value="contrast">Contrasted</option>
- <option value="light">Light</option>
- <option value="gray">Gray</option>
- </select>
- <script>
-  $("#trthemes").change(function() {
-    trtexts = document.getElementsByTagName("trnsl");
-           if ($(this).val() === "contrast") { 
-	     $(".translation").css("background-color", "black");
-        for (t = 0; t < trtexts.length; t++) { 
- 		trtexts[t].style.color =  "white"; 
- 	} 
-       }
-       if ($(this).val() === "light") {
-	     $(".translation").css("background-color", "white");
-       for (t = 0; t < trtexts.length; t++) { trtexts[t].style.color =  "black"; 
-  		} 
-       }
-       if ($(this).val() === "gray") {
-	     $(".translation").css("background-color", "black");
-       for (t = 0; t < trtexts.length; t++) { 
- 		trtexts[t].style.color =  "gray"; 
- 	} 
-       }
-       });
-   </script>
-
-
-
-<br/><br/><br/><br/><h2>Translation</h2>
+             <br/>
+             <select id="trthemes" style="background-color:black">
+               <option value="default">--Choose Colour Theme--</option>
+               <option value="contrast">Contrasted</option>
+               <option value="light">Light</option>
+               <option value="gray">Gray</option>
+             </select>
+             <script>
+                $("#trthemes").change(function() {
+                    trtexts = document.getElementsByTagName("trnsl");
+                    if ($(this).val() === "contrast") { 
+                         $(".translation").css("background-color", "black");
+                         for (t = 0; t < trtexts.length; t++) { 
+                             trtexts[t].style.color =  "white";
+                             }
+                     }
+                    if ($(this).val() === "light") {
+                         $(".translation").css("background-color", "white");
+                         for (t = 0; t < trtexts.length; t++) {
+                            trtexts[t].style.color =  "black";
+                           } 
+                       }       
+                    if ($(this).val() === "gray") {
+                       $(".translation").css("background-color", "black");
+                       for (t = 0; t < trtexts.length; t++) { 
+                            trtexts[t].style.color =  "gray";
+                         } 
+                      }
+                    });
+             </script>
+            <br/><br/><br/><br/>
+            <h2>Translation</h2>
+            
 <br/><br/><br/><trnslchapter>  Chapter Three </trnslchapter>
 <br/><br/><trnslsubchapter>An Exposition of Dharma</trnslsubchapter>
 <br/><br/>        
@@ -2102,7 +2145,7 @@
 <span class="vsnum" id="tr3.32">|3.32| </span>        
 <trnsl class="trnsl3.32" onclick="showSkt(&#39sktvrs3.32&#39)">Non-violence is the supreme Dharma. Non-violence is the supreme path.</trnsl>
         
-<trnsl class="trnsl3.32" onclick="showSkt(&#39sktvrs3.32&#39)">Non-violence is the supreme Brahman. Non-violence is supreme Śiva.</trnsl>
+<trnsl class="trnsl3.32" onclick="showSkt(&#39sktvrs3.32&#39)">Non-violence is the supreme Brahman. Non-violence is the supreme welfare (<SKT>śiva</SKT>).</trnsl>
 
 <br/><br/>
 <span class="vsnum" id="tr3.33">|3.33| </span>        
@@ -2182,7 +2225,10 @@
 <h2>Notes</h2>
 
 <br/><br/>|<vsnum id="note3.1">3.1</vsnum>|         <NOTE>For the correct interpretation of <SKT>pāda</SKT> a, namely to decide whether these questions
-                focus on the bull of Dharma or Dharma itself/himself, see MBh 12.110.10–11:
+                focus on the bull of Dharma or Dharma itself/himself, see 
+                the end of the previous chapter, where <SKT>dharma</SKT> was mentioned (2.40b),
+                and to which the present verse is a reaction; and also
+                MBh 12.110.10–11:
                 <br/><br/>
                 <SKT>prabhāvārthāya bhūtānāṁ dharmapravacanaṁ kr̥tam|<br/>
                  yat syād ahiṁsāsaṁyuktaṁ sa dharma iti niścayaḥ||<br/>
@@ -2333,8 +2379,10 @@
         This phenomenon is probably the result of <SKT>’yaśaḥ</SKT> resembling a masculine noun ending in <SKT>-aḥ</SKT>
                 and also of the metrical problem with the grammatically correct
                         <SKT>nātaḥ parataram ayaśaḥ</SKT>.</NOTE>
-<br/><br/>|<vsnum id="note3.26">3.26</vsnum>|         <NOTE><SKT>Pāda</SKT> d (<SKT>nātaḥ paraṁ tapodhana</SKT>) is slightly suspicious. The text may have read <SKT>nātaḥ paratamo ’dhanaḥ</SKT> 
-        (‘There is no bigger loss of wealth’) or possibly something starting with
+<br/><br/>|<vsnum id="note3.26">3.26</vsnum>|         <NOTE><SKT>Pāda</SKT> d (<SKT>nātaḥ paraṁ tapodhana</SKT>) is slightly suspicious. 
+                The vocative <SKT>tapodhana</SKT> usually refers to Anarthayajña in these
+                passages, and not to Vigatarāga, as here.  The text may have read <SKT>nātaḥ paratamo ’dhanaḥ</SKT> 
+                (‘There is no bigger loss of wealth’) or possibly something starting with
                 <SKT>nātaḥ paraṁ tapo ...</SKT> (‘There is no greater austerity...’).</NOTE>
 <br/><br/>|<vsnum id="note3.34">3.34</vsnum>|         <NOTE>See Uttarottara chapter two for a similar section on meat-consumption.</NOTE>
 <br/><br/>|<vsnum id="note3.37">3.37</vsnum>|         <NOTE>See a similarly phrased comparison in Manu 2.86:

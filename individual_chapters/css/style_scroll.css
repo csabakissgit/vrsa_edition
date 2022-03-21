@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Pedantic Devanagari';
-    src: url('PedanticDevanagariBold.woff');
+    src: url('../fonts/PedanticDevanagariBold.woff');
     unicode-range: U+0900-097F,U+A8E0-A8FB,U+1CD0-1CF6,U+2E24;
     font-weight: bold;
 }
