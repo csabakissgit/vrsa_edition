@@ -17,6 +17,7 @@ literature from at least the time of the MBh, e.g. in this
 passage:
 
         MBh on the 4-legged bull:
+        03188010a kṛte catuṣpāt sakalo nirvyājopādhivarjitaḥ
         03188010c vṛṣaḥ pratiṣṭhito dharmo manuṣyeṣv abhavat purā
         03188011a adharmapādaviddhas tu tribhir aṃśaiḥ pratiṣṭhitaḥ
         03188011c tretāyāṃ dvāpare 'rdhena vyāmiśro dharma ucyate
@@ -59,6 +60,24 @@ and the traditional mount (vāhana) of Śiva.
         i.e. Sanderson (Forthc. b), Śaivism and Brahmanism.
         (can't find it)
 
+Sanderson Tolerance p. 210 n. 136: "[...] To laud the bull (*vṛṣa*) [on the
+coins of the Hephthalite Hun Mihirakula, CsK] would be surprising if the intended
+meaning were the bull that is Śiva's mount, but not if the word is intended in
+its figurative meaning, namely *dharmaḥ*, or *sukṛtam* 'the virtuous actions
+[prescribed by the Veda].' For this meaning of *vṛṣaḥ* see, for example,
+Amarasiṃha, *Nāmaliṅgānuśāsana* 1.4.25b (*sukṛtam vṛṣaḥ*), 3.3.220 (*sukṛte
+vṛṣabhe vṛṣaḥ*); Halāyudha, *Abhidhānaratnamālā* 1.125cd (*dharmaḥ puṇyaṃ vṛṣaḥ
+śreyaḥ sukṛtaṃ ca samaṃ smṛtam*); *Manusmṛti* 8[. CsK]16a CHECK (*vṛṣo hi bhagavān
+dharmas ...*); and the Gwalior Museum Stone Inscription of Pataṅgaśambhu
+(\textsc{Mirashi} 1962), l. 15, *vṛṣaikaniṣṭho 'pi jitasmaro 'pi yaḥ śaṅkaro
+'bhūd bhuvi ko 'py apūrvvaḥ,* concerning the Śaiva ascetic Vyomaśambhu: 'He was
+in the world an extraordinary new Śiva, since he too was *vṛṣaikaniṣṭhaḥ*
+('devoted solely to pious observance'; in Śiva’s case 'riding only on the
+Bull') and he too was *jitasmaraḥ* ('one who had defeated sensual urges'; in
+Śiva's case 'the defeater of the Love god Kāmadeva').  This is also the meaning
+of *vṛṣaḥ* in the title *Vṛṣasārasaṃgraha*, one of the works of the Śivadharma
+corpus (see, e.g., \textsc{Sanderson} 2014, p. 2), i.e., 'Summary of the
+Essentials of the [Śiva]dharma'."
     
 The structure of the VSS
 ------------------------
