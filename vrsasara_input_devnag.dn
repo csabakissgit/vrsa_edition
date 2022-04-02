@@ -1,7 +1,7 @@
 \renewcommand{\rmapp}[1]{}\renewcommand{\dnapp}[1]{#1}
 \renewcommand{\mntr}[1]{\mntrdn{#1}}
 \fejno=0\versno=0
-\begin{center}{{\dn\Huge  v.r.sasaarasa.mgraha.h}}\end{center}
+
 \dnvers
 
 \nemsloka
@@ -191,227 +191,204 @@
 \nemsloka
 
 \dnvers
-
-\dnvers
-
-\dnvers
-
-\dnvers
-
-\nemsloka
-
-\dnvers
-
-\nemsloka
-
-\dnvers
-
-\nemsloka
-
-\nemsloka
-
-\dnvers
-
-\nemsloka
-
-\dnvers
-
-\nemsloka
-
-\dnvers
-
-\nemsloka
-
-\dnvers
-
-\nemsloka
-
-\nemsloka
-
-\dnvers
-\szam\bek\versno=0\fejno=22
+\szam\bek\versno=0\fejno=19
 \thispagestyle{empty}
 
 
+\dnvers
+\versno=19
 
-\alfejezetdn{{\dn\Large\dnnum dvaavi.m"so .adhyaaya.h}}\jump\jump
+
+\alalfejezet{\dn\dnnum caaturvar.nyam}
+
+{\dn vigataraaga uvaaca{\dandabdn}\dontdisplaylinenum }
+
+{\dn devaa a.s.tavidhaa.h proktaastiryakpa~ncavidha.h sm.rta.h{\dandadn} \dontdisplaylinenum}
+            \var{{\dn \va devaa a.s.ta@\lem  \mssCaCbCc\msNa\msNb\msNc{\normalfont\thinspace ;} devaa.hra.s.ta@ \Ed}}
+            \var{{\dn \vb @ryakpa@\lem  \msCapcorr\msCb\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} @kpa@ \msCaacorr\oo
+                 sm.rta.h\lem  \msCa\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} sm.rtaa.h \msCb}}
+
+{\dn maanu.samekamevaahu"scaaturvar.na.h katha.m bhavet \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc maanu.sa@\lem  \mssCaCbCc\msNa\msNb\msNc{\normalfont\thinspace ;} maanu.sya@ \Ed}}
+            \var{{\dn \vd @var.na.h\lem  \msCa\msCb\msNa\msNb{\normalfont\thinspace ;} @var.n.na \msNc, @vvar.nya.h \Ed}}
+
+{\dn anarthayaj~na uvaaca{\dandabdn}\dontdisplaylinenum }
+
+{\dn puurvakalpas.rjastve.sa vi.s.nunaa prabhavi.s.nunaa{\dandadn} \dontdisplaylinenum}
+            \var{{\dn \va @s.rjastve.sa\lem  \msCa\msNa\msNb\msNc{\normalfont\thinspace ;} @s.rja{\il}{\il} \msCb, @s.rjatye.sa \Ed}}
+
+{\dn ekavar.no dvija"scaasiitsarvakalpaagramagrata.h \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc ekavar.no dvija"scaasii@\lem  \msNc{\normalfont\thinspace ;} e{\il}{\il}\uncl{r.n.no}{\il}{\il}{\il}"scaasii@ \msCa, 
+                                                ekavar.n.naa dvija"scaasii@ \msCb,
+                                                ekavar.n.na dvija"scaasii@ \msNb,
+                                                ekava\uncl{r.n.no} dvija"scaasii@ \msNa, eva.m var.naa dvija"scaasii@ \Ed}}
+
+{\dn sarvavedavido vipraa.h sarvayaj~navidastathaa{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vb @yaj~na@\lem  \msCa\msCb\msNa\msNb\msNc{\normalfont\thinspace ;} @veda@ \Ed}}
+
+{\dn te.saa.m viprasahasraa.naa.m yaj~notsaahamano bhavet \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc te.saa.m\lem  \msCa\msCb\msNa\msNc{\normalfont\thinspace ;} tathaa \Ed}}
+            \var{{\dn \vd yaj~notsaa@\lem  \msCa\msCb\msNa\Ed{\normalfont\thinspace ;} yaj~nocchaaha@ \msNb, yaj~notasaaha@ \msNc\ \unmetr}}
+
+{\dn v.rddhaviprasahasraa.naa.m matamaaj~naaya braahma.nai.h{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vb @j~naaya\lem  \msNa\msCb\msNb\msNc{\normalfont\thinspace ;} @\uncl{j~naaya} \msCa, @"sritya \Ed\oo
+                 braahma.nai.h\lem  \msCa\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} braahma.ne.h \msCb}}
+
+{\dn kartu.m karma samaarabdha.m karma caapi vibhajyate \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc kartu.m\lem  \msCa\msCb\msNc\Ed{\normalfont\thinspace ;} kartu \msNa\msNb\oo
+                 samaarabdha.m\lem  \msCa\msNa\msNb\msNc{\normalfont\thinspace ;} samaarandha.m \msCb, samaarabdha \Ed}}
+            \var{{\dn \vd karma caapi\lem  \msCa\msCb\msNb\msNc{\normalfont\thinspace ;} karma.m caapi \msNa, karma"scaapi \Ed}}
+
+{\dn .rtvijatve sthitaa.h kecitkecitsa.mrak.sa.ne sthitaa.h{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vb @rak.sa.ne sthitaa.h\lem  \msNa\msNb\msNc\Ed{\normalfont\thinspace ;} @rak.sa{\lost}{\lost}{\lost} \msCa, \uncl{rak.sa.ne sthi}{\il} \msCb}}
+
+{\dn arthopaarjanayuktaanye anye "silpe niyojitaa.h \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc @yuktaanye\lem  \msCa\msNb\msNc\Ed{\normalfont\thinspace ;} @yuktaa\uncl{nye} \msCb, @yuktaatme \msNa}}
+            \var{{\dn \vd anye\lem  \msCapcorr\msCb\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} \om\ \msCaacorr}}
+
+{\dn eva.m yaj~navidhaanena kartumaarebhire puraa{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vb @maarebhire\lem  \msCa\msCb\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} @m{  }aaremire \msNa}}
+
+{\dn yathoddi.s.tena karme.na yaj~notsaahamavartata \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc yathoddi@\lem  \Ed{\normalfont\thinspace ;} yathodi@ \msCa\msCb\msNa\msNb\msNc}}
+            \var{{\dn \vd @vartata\lem  \msCa\msCb\msNa\msNb\Ed{\normalfont\thinspace ;} @varttata.h \msNc}}
+
+{\dn aagataa .r.saya.h sarve devataa.h pitarastathaa{\dandabdn} \dontdisplaylinenum}
+
+{\dn anyonyamabruvantatra devar.sipit.rdevataa.h \vegdn\dontdisplaylinenum}
+
+{\dn yaj~naarthamas.rjadvar.na.m vidhinaa kratuhetava.h{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vab @s.rjadvar.na.m vi@\lem  \msCa\msNb\msNc\Ed{\normalfont\thinspace ;} @s.rjadvar.n.naanvi@ \msCb, @s.rdva.n.nanvivi@ \msNa}}
+            \var{{\dn \vb @dhinaa\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} @dhaanaa.m \msNb\oo
+                 kratuhetava.h\lem  \msNa\msNb\msNc{\normalfont\thinspace ;} \uncl{kratu}{\lost}tava.h \msCa, kratuhetu\uncl{ta} \msCb,
+                                                                                paatuhetava.h \Ed}}
+
+{\dn evameva pravartantu bhavadbhirdvijasattamaa.h \vegdn\dontdisplaylinenum}
+            \var{{\dn \vd bhavadbhirdvi@\lem  \msCapcorr\msCb{\normalfont\thinspace ;} bhagavadbhirdvi@ \msCaacorr, bhavadbhi dvi@ \msNa\msNb\msNc,
+                                                                                                bhavatidvi@ \Ed\oo
+                 @sattamaa.h\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} @sattama.h \msNb}}
+
+{\dn ijyaadhyayanasampannaa braahma.naa ye .atra kalpitaa.h{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vb ye .atra\lem  \msCa\msCb\msNa\msNb\msNc{\normalfont\thinspace ;} yatra \Ed\oo
+                 kalpitaa.h\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} kalpitaa \msNb}}
+
+{\dn suvipraa viprataa.m yaantu .sa.tkarmanirataa.h sadaa \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc suvipraa\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} suvipra \msNb\oo
+                 yaantu\lem  \\msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} yaatu \msNb}}
+            \var{{\dn \vd .sa.tkarma@\lem  \msCa\msCb\msNa\msNb\msNc{\normalfont\thinspace ;} .sa.dkarmaa@ \Ed\oo
+                 sadaa\lem  \msCa\msCb\msNa\Ed{\normalfont\thinspace ;} sajaa \msNb, sadaa.h \msNc}}
+
+{\dn rak.sa.naartha.m tu ye vipraa.h kalpitaa.h "sastrapaa.naya.h{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \va vipraa.h\lem  \msCa\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} vipraa \msCb}}
+            \var{{\dn \vb "sastra@\lem  \msCa\msNa\msNc\Ed{\normalfont\thinspace ;} "saastra@ \msCb\msNb}}
+
+{\dn k.satatraa.naaya vipraa.naa.m nityak.satravratodbhavaa.h \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc k.sata@\lem  \msCa\msNa\msNb{\normalfont\thinspace ;} k.satra@ \msCb\msNc, k.rta@ \Ed\oo
+                 vipraa.naa.m\lem  \msCa\msCb\msNa\Ed{\normalfont\thinspace ;} vipraa.naa \msNb}}
+            \var{{\dn \vd nityak.satra@\lem  \msCa\msCb\msNc{\normalfont\thinspace ;} nitya.m k.satra@ \msNa\msNb, nitya.m k.saatra@ \Ed\oo
+                 @vratodbhavaa.h\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} @vratottama.h \msNb}}
+            \paral{{\dn\vcd }cf.\ MBh 12.59.128ab: {\dn 
+                 braahma.naanaa.m k.satatraa.naattata.h k.satriya ucyate}}
+
+{\dn arthopaarjanamuddi"sya kalpitaa ye dvijaataya.h{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vb ye\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} yo \msNb}}
+
+{\dn te tu vai"syatvamaayaantu vaarttopaayaratodbhavaa.h \vegdn\dontdisplaylinenum}
+            \var{{\dn \vd vaarttopaayarato@\lem  \msCa\msCb\msNa\msNb\msNc{\normalfont\thinspace ;} vaartto aapa.natodbhavaa.h \Ed}}
+
+{\dn vadhabandhanakarmasu "silpasthaanavidhe.su ca{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \va vadhabandhanakarmasu\lem  \msCa\msNa{\normalfont\thinspace ;} vadhavandhanakarme.su \msCb\msNb\msNc\Ed}}
+            \var{{\dn \vb @vidhe.su\lem  \msCa\msCb\msNa\msNb\msNc{\normalfont\thinspace ;} @vadhe.su \Ed}}
+
+{\dn kalpitaa ye dvijaatiinaa.m sarve "suudraa bhavantu te \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc @jaatiinaa.m\lem  \msCa\msCb\msNa\msNb\Ed{\normalfont\thinspace ;} @jaatiinaa \msNc}}
+
+{\dn praajaapatya.m braahma.naanaamijyaadhyayanatatparaat{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vab praajaapatya.m braahma.naanaamijyaadhyayanatatparaat\lem  \msCa\msCb{\normalfont\thinspace ;} 
+                                                                    praajaapatya.m braahma.naanaa.mmijyaadhyayanatatparaat \msNa,
+                                                                    praajaapatya  braahma.naamiijyaadhyayanatatparaat \msNb,
+                                                                    praajaapatya.m braahma.naamiijyaadhyayanatatparaat \msNc,
+                                                                    praajaapatya.m braahma.naanaamiijyaadhyayanatatparaa.m \Ed}}
+
+{\dn sthaanamaindra.m k.satriyaa.naa.m prajaapaalanatatparaat \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc @ndra.m\lem  \msCa\msCb\msNa\Ed{\normalfont\thinspace ;} @ndra \msNb\msNc}}
+            \var{{\dn \vd @tparaat\lem  \msNa\msCb\msNb\msNc{\normalfont\thinspace ;} @\uncl{tparaat} \msCa, @tpara.m \Ed}}
+            \paral{{\dn\vo }cf.\ Vāyupurāṇa 1.8.166: {\dn 
+                praajaapatya.m braahma.naanaa.m sm.rta.m sthaana.m kriyaavataam |
+                sthaanam aindra.m k.satriyaa.naa.m sa.mgraame.svapalaayinaam ||
+                   }\kb\ Bhaviṣyapurāṇa 2.1.34, etc.{\dn }}
+
+{\dn vai"syaanaa.m vaasavasthaana.m vaa.nijyak.r.sijiivinaam{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vb vaa.nijya@\lem  \msCa\msCb\msNb{\normalfont\thinspace ;} vaa.nijya.m \msNa\Ed\oo
+                 @jiivinaam\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} @jiivinam \msNb}}
+
+{\dn "suudraa.naa.m maruta.h sthaana.m "su"sruu.saanirataatmanaam \vegdn\dontdisplaylinenum}
+            \var{{\dn \vcd "suudraa.naa.m maruta.h sthaana.m "su"sruu.saanirataatmanaam\lem  \msCa\msCb\msNc\Ed{\normalfont\thinspace ;} \om\ \msNaacorr,
+                                                        "suudraa.naa.m marutasthaana.m "su"sruu.saanirataatmanaam \msNapcorr
+                                                        "suudraa.naa maruta.h sthaana.m "su"sruu.saanirataatmanaam \msNb}}
+            \paral{{\dn\vo }cf.\ Vāyupurāṇa 1.8.167--168ab: {\dn 
+                vai"syaanaa.m maaruta.m sthaana.m svadharmamupajiivinaam | 
+                gaandharva.m "suudrajaatiinaa.m praticaare.na ti.s.thataam ||
+                sthaanaanyetaani var.naanaa.m vyatyaacaaravataa.m svayam |}}
+
+{\dn mahar.sipit.rdevaanaa.m matamaaj~naaya ni"scita.h{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \va @devaanaa.m ma@\lem  \msCa\msNa\msNb\Ed{\normalfont\thinspace ;} @devaanaa ma@ \msCb}}
+            \var{{\dn \vb mata@\lem  \msCa\msCb\msNa\msNb\Ed{\normalfont\thinspace ;} mana@ \msNc\oo
+                 ni"scita.h\lem  \msCa\msCb\msNb\msNc\Ed{\normalfont\thinspace ;} ni"scitaa.h \msNa}}
+
+{\dn e.sa sa.mkalpito brahmaa padmayoni.h pitaamaha.h \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc @kalpito brahmaa\lem  \msCa\msCb\msNa\Ed{\normalfont\thinspace ;} @kalpitaa braahmaa \msNb}}
+
+{\dn sa.mkalpaprabhavaa.h sarve devadaanavamaanavaa.h{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \vb devadaanavamaanavaa.h\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} devadedaanamaanava.h \msNbacorr, 
+                                                                       devadaanamaanava.h \msNbpcorr}}
+
+{\dn pa"supak.sim.rgaa mukhyaa yaavanti jagasambhavaa.h \vegdn\dontdisplaylinenum}
+            \var{{\dn \vc @m.rgaa\lem  \msCb\msNa\msNb\Ed{\normalfont\thinspace ;} {\il}gaa \msCa}}
+            \var{{\dn \vd jaga@\lem  \msCa\msCb\Ed{\normalfont\thinspace ;} ja.mgama@ \msNa, jage \msNb}}
+
+{\dn bhuutasa.mkalpaka.m naama kalpamaasiiddvijottama{\dandabdn} \dontdisplaylinenum}
+            \var{{\dn \va bhuutasa.mkalpaka.m naama\lem  \msCa\msCb\msNa\msNb\msNc{\normalfont\thinspace ;} bhuutasa.mkalpakartaa ya \Ed}}
+
+{\dn kiirtitaani samaasena kimanyacchrotumicchasi \vegdn\dontdisplaylinenum}
+
 \dnvers
 
-{\dn maanaso yaugapadya"sca sa.mk.sipta"sca vi"saampate{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va yaugapadya"sca\lem  \corr{\normalfont\thinspace ;} yaugapadya~nca \msCa\msCb\msNb,
-                        yogapadya.m ca \msCc\msNa\msNc\msL, yogapadya"sca \Ed}}
-            \var{{\dn \vb @k.sipta"sca\lem  \Ed{\normalfont\thinspace ;} @ksipta.m ca \mssCaCbCc\msNa\msNb\msNc\msL}}
-             \paral{{\dn\vo }cf.\ Dharmaputrikā 1.56: {\dn  sa.mk.siptaa prathamaa j~neyaa vi"saalaa samanantaram||
-                                        tato dvikara.nii ceti trividho yoga ucyate|}}
+\dnvers
 
-{\dn vi"saalaa naama yoga"sca tato dvikara.na.h sm.rta.h \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc vi"saalaa naama yoga"sca\lem  \Ed{\normalfont\thinspace ;} vi{\lost}{\lost}{\lost}{\lost} yoga~nca \msCa, 
-                                        vi"saalaa naama yoga.m ca \msCb\msCc\msNa\msNb\msNc\msL}}
-            \var{{\dn \vd dvikara.na.h\lem  \msCa\msCb\msNa\msL{\normalfont\thinspace ;} vikara.na.h \msCc\Ed, dvikara.nii \msNb, dvikara.na \msNc}}
+\nemsloka
 
-{\dn ravi.h somo hutaa"sa"sca spha.tikaambarameva ca{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va ravi.h\lem  \msCa{\normalfont\thinspace ;} ravi@ \msCb\msCc\msNa\msNb\msNc\msL\Ed}}
-            \var{{\dn \vb spha.tikaambara@\lem  \mssCaCbCc\msNb\msNc\Ed{\normalfont\thinspace ;} spha.tikaa.m{\lost}ra@ \msNa, spha.tikaa.msata@ \msL}}
-            \paral{{\dn\vab }cf. Dharmaputikā 4:5cd: {\dn  suuryacandrahutaa"saarci.hsphaa.tikaambarasannibhaa.h}}
+\dnvers
 
-{\dn da"sayogaasanaasiino nityameva tapodhana.h \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc da"sayogaasanaasiino\lem  \msCa\msCc\msNa\msNb\msNc{\normalfont\thinspace ;} da"sayogasamaasiino \msCb,
-                                       devayogaasataasiino \msL, da"sayogaasanaasiinau \Ed}}
-            \var{{\dn \vd @dhana.h\lem  \msCa\msCb\msNa\msL{\normalfont\thinspace ;} @dhana \msCc\msNb\msNc\Ed}}
+\nemsloka
 
-{\dn anirodhamanaa.h suuk.sma.m dhyaayedyoga.h sa maanasa.h{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va anirodha@\lem  \mssCaCbCc\msNa\msNb\msNc\msL{\normalfont\thinspace ;} anilaadha@ \Ed\oo
-                 @manaa.h\lem  \mssCaCbCc\msNa\msNc\msL\Ed{\normalfont\thinspace ;} @manaa \msNb}}
-            \var{{\dn \vb dhyaayedyo@\lem  \msCa\msCb\msNa\msNb\msNc\msL{\normalfont\thinspace ;} dhyaayo@ \msCc, dhyaana.m yo@ \Ed}}
-            \paral{{\dn\vab }cf.\ Dharmaputrikā 1.54: {\dn  ak.rtvaa praa.nasa.mrodha.m manasaikena kevalam|
-                                dhyaayeta parama.m suuk.sma.m sa yogo maanasa.h sm.rta.h||}}
+\dnvers
 
-{\dn praa.naayaamairmano ruddhvaa yaugapadya.h sa ucyate \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc @yaamairma@\lem  \msCa\msNa\msNb\msNcpcorr\msL\Ed{\normalfont\thinspace ;}
-                                 @yaamai ma@ \msCb, @yaamai mma@ \msCc, @yaamerma@ \msNcacorr\oo
-                 ruddhvaa\lem  \mssCaCbCc\msNa\msNb\msNc\msL{\normalfont\thinspace ;} ruddhaa \Ed}}
-            \var{{\dn \vd yauga@\lem  \msCa\msCb\msNa\msNcpcorr\msL{\normalfont\thinspace ;} yoga@ \msCc\msNb\msNcacorr\Ed}}
-            \paral{{\dn\vcd }cf.\ Dharmaputrikā 1.55:{\dn  sa.myamya manasaa praa.na.m praa.naayaamairmanastathaa|
-                                        eva.m dhyaayetpara.m suuk.sma.m yaugapadya.h sa ucyate||}}
+\nemsloka
 
-{\dn brahmaadistambaparyanta.m sarva.m sthaavaraja"ngamam{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \vo (brahmaadi@} ... {\dn  vicintayet)\lem  \mssCaCbCc\msNa\msNc\msL\Ed{\normalfont\thinspace ;} \om\ \msNb}}
-            \var{{\dn \va @stamba@\lem  \mssCaCbCc\msNa\msNc\Ed{\normalfont\thinspace ;} \om\ \msNb, @sta.mbha@ \msL\oo
-                 @paryanta.m\lem  \msCb\msCc\msNa\msL{\normalfont\thinspace ;} @\uncl{dviya}{\lost}@ \msCa, \om\ \msNb, @paryanta@ \msNc\Ed}}
-            \var{{\dn \vb sarva.m\lem  \msCb\msNa{\normalfont\thinspace ;} {\lost}{\lost} \msCa, sarva@ \msCc\msNc\msL\Ed, \om\ \msNb}}
-            \paral{{\dn\vab }\kb\ Dharmaputrikā 1.57cd: {\dn  brahmaadistambhaparyantaa.h sarve sthaavaraja"ngamaa.h}}
+\nemsloka
 
-{\dn praliiyamaana.m dhyaayeta kramaatsuuk.sma.m vicintayet \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc praliiya@\lem  \mssCaCbCc\msNa\msNc\Ed{\normalfont\thinspace ;} \om\ \msNb, pra.niiya@ \msL}}
-            \var{{\dn \vd kramaatsuu@\lem  \msCa\msCb\msNa\msNc\msL\Ed{\normalfont\thinspace ;} kramaa suu@ \msCc, \om\ \msNb}}
-            \paral{{\dn\vcd }\kb\ Dharmaputrikā 1.59ab: {\dn  praliiyamaanandhyaayeta kramaacchuunya.m bhavejjagat}}
+\dnvers
 
-{\dn sa.mk.sipta e.sa aakhyaato vi"saalaa.m ch.r.nu tattvata.h{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \vo (sa.mk.sipta} ... {\dn  vicak.sa.na.h)\lem  \mssCaCbCc\msNa\msNc\msL\Ed{\normalfont\thinspace ;} \om\ \msNb}}
-            \var{{\dn \va sa.mk.sipta\lem  \mssCaCbCc\msNa\msNc\Ed{\normalfont\thinspace ;} \om\ \msNb, sa.mk.sipta.h \msL\oo
-                 e.sa\lem  \mssCaCbCc\msNa\msNc\msL{\normalfont\thinspace ;} \om\ \msNb, eva \Ed\oo
-                 aakhyaato\lem  \msCb\msNc{\normalfont\thinspace ;} aakhyaata.h \msCa\msCc\msNa\msL\Ed, \om\ \msNb}}
-            \paral{{\dn\vab }cf.\ Dharmaputrikā 1.60ab: {\dn  e.sa yogavidhi.h prokta.h sa.mk.sipto naama naamata.h}}
+\nemsloka
 
-{\dn brahmaadisuuk.smaparyanta.m cintayiita vicak.sa.na.h \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc @suuk.sma@\lem  \mssCaCbCc\msNc\Ed{\normalfont\thinspace ;} @sta.mba@ \msNa, \om\ \msNb, tava \msL\oo
-                 @paryanta.m\lem  \mssCaCbCc\msNa\msL{\normalfont\thinspace ;} \om\ \msNb, @paryanta \msNc\Ed}}
-            \var{{\dn \vd cintayiita\lem  \msCa\msCbpcorr\msCc\msNa\msNc\msL\Ed{\normalfont\thinspace ;} \om\ \msNb, ciyiita \msCbacorr}}
+\dnvers
 
-{\dn sa.mk.siptaa.m ca vi"saalaa.m ca cintayiita parasparam{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \vo (sa.mk.siptaa.m} ... {\dn  vidhirucyate)\lem  \mssCaCbCc\msNa\msNc\msL\Ed{\normalfont\thinspace ;} \om\ \msNb}}
-            \var{{\dn \va sa.mk.siptaa.m\lem  \msCb\msNc{\normalfont\thinspace ;} sa.mk.siptaa \msCapcorr\msCc\msNa\msL\Ed, \om\ \msCaacorr\msNb\oo
-                 vi"saalaa.m\lem  \msCapcorr\msCb\msNc{\normalfont\thinspace ;} \om\ \msCaacorr, vi"saalaa \msCc\msNa\msL\Ed, \om\ \msNb}}
+\nemsloka
 
-{\dn e.saa dvikara.nii naama yogasya vidhirucyate \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc dvi@\lem  \msCa\msCb\msNa\msNc\msL{\normalfont\thinspace ;} vi@ \msCc\Ed, \om\ \msNb}}
-            \paral{{\dn\vo }\kb\ Dharmaputrikā 1.62cd--63ab: {\dn  etau sa.mhaaravargau dvau paaramparye.na cintayet||
-                                                       e.saa dvikara.nii naama yogasya vidhiri.syate|}}
+\dnvers
 
-{\dn dehamadhye h.rdi j~neya.m h.rdimadhye tu pa"nkajam{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va j~neya.m\lem  \msCa\msCb\msNa\msNc\Ed{\normalfont\thinspace ;} j~neya \msCc\msL, j~ne \msNbacorr, j~ne{\lost} \msNbpcorr}}
-            \var{{\dn \vb tu pa"nkajam\lem  \msCb\msCc\msNa\msNb\msNc\msL\Ed{\normalfont\thinspace ;} \uncl{tu} pa{\lost}{\lost} \msCa}}
+\nemsloka
 
-{\dn pa"nkajasya ca madhye tu kar.nikaa.m viddhi gopate \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc pa"nkajasya ca\lem  \msCb\msCc\msNa\msNc\Ed{\normalfont\thinspace ;} {\lost}"nkajasya ca \msCa,
-                                                        ka"nkasya tu \msNb, pankaja.msya ca \msL}}
-            \var{{\dn \vd kar.nikaa.m viddhi gopate\lem  \msCa\msCb\msNa\msNb\msNc\msL{\normalfont\thinspace ;} kar.niddhiddhi gopate \msCc, 
-                                                               kar.nikaa.m ca vi.m"saapate \Ed}}
+\dnvers
 
-{\dn kar.nikaayaastu madhye tu pa~ncabindu.m vidurbudhaa.h{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \vb @bindu.m\lem  \msCa\msNc{\normalfont\thinspace ;} @bindu \msCb\msCc\msNa\msNb\msL\Ed}}
+\nemsloka
 
-{\dn ravisoma"sikhaa.m caiva spha.tikaambarameva ca \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc @"sikhaa.m\lem  \msCa\msNa\msL{\normalfont\thinspace ;} @"sikhaa \msCb\msCc\msNb\msNc\Ed}}
-            \var{{\dn \vd spha.ti@\lem  \msCa\msCc\msNa\msNb\msNc\msL\Ed{\normalfont\thinspace ;} sphaa.ti@ \msCb}}
-            \paral{{\dn\vcd }cf.\ Dharmaputrikā 4.5cd: {\dn  suuryacandraprakaa\-"saarcisphaa.tikaambarasannibhaa.h}}
+\nemsloka
 
-{\dn ravima.n.dalamadhye tu bhaavayeccandrama.n.dalam{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \vb bhaavayeccandrama.n.dalam\lem  \msCa\msCb\msNa\msNb\msNc\msL\Ed{\normalfont\thinspace ;} bhaavaye candrama.n.dala.h \msCc}}
+\dnvers
 
-{\dn tasya madhye "sikhaa.m dhyaayennirdhuumajvalanaprabhaam \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc @"sikhaa.m\lem  \msCa\msCb\msNa\msNb\msNc\msL{\normalfont\thinspace ;} @"sikhaa \msCc\Ed}}
-
-{\dn agnimadhye ma.ni.m dhyaayecchuddhadhaaraajalaprabham{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \vab ma.ni.m dhyaayecchuddha@\lem  \msCb\msNa\msNb\msNc\msL\Ed{\normalfont\thinspace ;} {\lost}{\lost}{\lost}{\lost}{\lost}{\lost} \msCa, 
-                                                mani.m dhyaayecchuddha@ \msCc}}
-            \var{{\dn \vb @dhaaraa@\lem  \msCa\msCb\msNa\msNb\msNc\msL{\normalfont\thinspace ;} @dhaara@ \msCc\Ed\oo
-                  @prabham\lem  \msCc\msNa\msNb\msNc\msL\Ed{\normalfont\thinspace ;} @prabhaam \msCa\msCb}}
-
-{\dn tasya madhye .ambara.m dhyaayetsusuuk.sma.m "sivamavyayam \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc .ambara.m\lem  \msCa\msCb\msNa\msNb\msNc{\normalfont\thinspace ;} .ambara \msCc, bara.m \msL, .ak.sara.m \Ed}}
-            \var{{\dn \vd susuuk.sma.m\lem  \msCc\msNa\msNc\msL{\normalfont\thinspace ;} suuk.sma.m \msCa, susuuk.sma@ \msCb, 
-                                        \uncl{sva}suuk.sma@ \msNb, sasuuk.sma.m \Ed}}
-
-{\dn da"sayogamida.m raajankathita.m ca mayaa tava{\dandabdn} \dontdisplaylinenum}
-
-{\dn da"sadhyaana.m samaasena kiirtita.m "s.r.nu tadyathaa \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc @dhyaana.m\lem  \mssCaCbCc\msNa\msNc{\normalfont\thinspace ;} @dhyaana \msNb\msL\Ed}}
-
-{\dn gho.sa.nii pi"ngalaa caiva vaidyutii candramaalinii{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va gho.sa.nii\lem  \mssCaCbCc\msNa\msNb\msNc\msL{\normalfont\thinspace ;} gho.sa.naa \Ed}}
-            \var{{\dn \vb vaidyutii\lem  \msCa\msCb\msNa\msNb\msNc\msL\Ed{\normalfont\thinspace ;} vidyuta \msCc, vidyutii \Ed}}
-
-{\dn candraa mano.anugaa caiva suk.rtaa ca tathaaparaa \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc candraa mano.anugaa\lem  \msCb\msNa\msNb\msNc\msL{\normalfont\thinspace ;} 
-                                candraa manaanugaa \msCa, candramanonugaa \msCc, candro mano.anugaa \Ed}}
-            \var{{\dn \vd suk.rtaa ca tathaaparaa\lem  \msCa\msCc\msNa\msNc\msL{\normalfont\thinspace ;} suk.rtaa tathaaparaa \msCb, \om\ \msNb,
-                                                                suk.rtaa ca tathaapara \Ed}}
-
-{\dn saumyaa nira~njanaa caiva niraalambaa ca kiirtitaa{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va saumyaa nira~njanaa caiva\lem  \msCb\msCc\msNa\msL\Ed{\normalfont\thinspace ;} saumyaa nira~njanaa {\lost}{\lost} \msCa, \om\ \msNb,
-                                                                saumyaa .nira~njanaa caiva \msNc}}
-            \var{{\dn \vb kiirtitaa\lem  \mssCaCbCc\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} kiirtitaa.h \msL}}
-
-{\dn supi.sitvaa"ngulau "srotre dhvanimaakar.nayennara.h \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc supi.sitvaa"ngulau\lem  \msCa\msCb\msNa\msNb\msNc{\normalfont\thinspace ;} su{\csi{}\lost}{}.sicaa"ngulau \msCc,
-                                               supithitvaa"ngulau \msL, su"si.si caa"ngulau \Ed}}
-            \var{{\dn \vd @kar.naye@\lem  \msNb{\normalfont\thinspace ;} @kar.saye@ \mssCaCbCc\msNa\msNc\Ed, @kar.saya@ \msL}}
-
-{\dn tattadak.saramaakar.nya am.rtatvaaya kalpyate{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va @kar.nya\lem  \mssCaCbCc\msNb\msNc\msL\Ed{\normalfont\thinspace ;} @ka.n.nya \msNa}}
-
-{\dn pi"ngalaa.m tu "sikhaadhuumaa.m dhyaayennityamatandrita.h \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc pi"ngalaa.mtu "sikhaadhuumaa.m\lem  \msCa\msCb\msNb\msL{\normalfont\thinspace ;} pi"ngalaa tu "sikhaadhuuma.m \msCc\Ed,
-                                        pi"ngalaa.mntu "sikhaadhuumaa.m \msNa, pi"ngalaantu "sikhaadhuumaa \msNc}}
-            \var{{\dn \vd @tandrita.h\lem  \mssCaCbCc\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} @tendrita.h \msL}}
-
-{\dn vimukta.h sarvapaapebhyo nirdvandvapadamaapnuyaat{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va vimukta.h\lem  \msCa\msCb\msNa\msNb\msNc\msL\Ed{\normalfont\thinspace ;} vimukta \msCc}}
-            \var{{\dn \vb nirdvandva@\lem  \mssCaCbCc\msNc{\normalfont\thinspace ;} nidvanda@ \msNa\msNb\msL, nirdvanda@ \Ed}}
-
-{\dn vaidyutii tu ni"saamadhye lak.sate .ajamanaamayam \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc vaidyutii tu\lem  \mssCaCbCc\msNa\msNb\msNc\Ed{\normalfont\thinspace ;} vaidyutiinta \msL}}
-            \var{{\dn \vd lak.sate .ajama@\lem  \msCc\Ed{\normalfont\thinspace ;} lak.sye tejaa@ \msCa\msCb, lak.syatejaa@ \msNa\msNb\msL,
-                                                                                 lak.sateja a@ \msNc}}
-
-{\dn pa~ncamaasasadaabhyaasaaddivyacak.surbhavennara.h{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va pa~ncamaasasadaa@\lem  \msCb\msNa\msNb\msL{\normalfont\thinspace ;} \uncl{pa}{\lost}{\lost}sasadaa@ \msCa, pa~ncamaasassadaa@ \msCc, 
-                                                      pa~ncamaasasamaa@ \Ed, pa~ncamaasa.m sadaa@ \msNc}}
-            \var{{\dn \vab @saaddi\lem  \mssCaCbCc\msNa\msNb\msL\Ed{\normalfont\thinspace ;} @saa di@ \msNc}}
-            \var{{\dn \vb @k.surbhavenna@\lem  \msCa\msCb\msNa\Ed{\normalfont\thinspace ;} @k.surbhave na@ \msCc,
-                                        @k.su bhavenna@ \msNb\msL, @rk.su bhavenna \msNc}}
-
-{\dn bindumaalaa.m tata.h pa"syettarucchaayaasamaa"sritaam \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc tata.h pa"syet\lem  \mssCaCbCc\msNa\msNb\msNc\msL{\normalfont\thinspace ;} tu ya.h pa"syen \Ed}}
-            \var{{\dn \vd tarucchaayaa@\lem  \mssCaCbCc\msNa\msNb\msNc\msL{\normalfont\thinspace ;} naracchaayaa.m \Ed\oo
-                 @"sritaam\lem  \mssCaCbCc\msNb{\normalfont\thinspace ;} @"sritaa.h \msNa\msL, @"sritam \msNc\Ed}}
-
-{\dn jaatyaspha.tikasa.mkaa"sa.m d.r.s.tvaa mucyati bandhanai.h{\dandabdn} \dontdisplaylinenum}
-            \var{{\dn \va @kasa.mkaa"sa.m\lem  \mssCaCbCc\msNa\msNb\msNc\msLpcorr\Ed{\normalfont\thinspace ;} @sa.mkakaa"sa.m \msLpcorr}}
-            \var{{\dn \vb bandhanai.h\lem  \msCa\msNa\msNc{\normalfont\thinspace ;} bandhavai.h \msCb, bandhanaat \msCc\msNb\Ed,
-                                                                                va.mcanai.h \msL}}
-
-{\dn dhyaayenmano.anugaa naama pak.smiiraapii.dya locane \vegdn\dontdisplaylinenum}
-            \var{{\dn \vd pak.smii@\lem  \mssCaCbCc\msNa\msL{\normalfont\thinspace ;} yak.smii \msNb, yak.smo@ \msNc, pak.sii@ \Ed\oo
-                 locane\lem  \msCa\msCb\msNa\msL{\normalfont\thinspace ;} locana.h \msNb, locanai.h \msCc\Ed, locanai \msNc}}
-
-{\dn "svetapiitaaru.na.m bindu.m d.r.s.tvaa bhuuyo na jaayate{\dandabdn} \dontdisplaylinenum}
-
-{\dn mano.anugaadi .sa.ttvete dhyaanamukta.m mayaa tava \vegdn\dontdisplaylinenum}
-            \var{{\dn \vc @.sa.ttvete\lem  \msCa\msNa\msNb\msNc\msL{\normalfont\thinspace ;} @.sa.ttvetaa \msCb, @.sa.tkena \msCc\Ed}}
-            \var{{\dn \vd @kta.m mayaa tava\lem  \msCc\msNa\msNc\msL\Ed{\normalfont\thinspace ;} \uncl{ka}{\lost}{\lost} tava \msCa, @kta.m samaasata.h \msCb,
-                                                                                @kta mayaa tava \msNb}}
+\dnvers
 
 \nemsloka
 
