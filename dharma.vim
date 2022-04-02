@@ -15,9 +15,8 @@ vnoremap <NL> dp   " the same downwards
 nnoremap <NL> :move+
 vnoremap  dkkp " for org: open subtree (if it's closed), close subtree, delete, move up, paste
 nnoremap  :move-2
-nnoremap  :wgf
-nnoremap <silent>  :w
 vnoremap <silent>  :w
+nnoremap <silent>  :w
 onoremap <silent>  :w
 xmap  <Plug>SpeedDatingDown
 nmap  <Plug>SpeedDatingDown
@@ -68,8 +67,6 @@ nnoremap msna a\msNa
 nnoremap mscc a\msCc
 nnoremap mscb a\msCb
 nnoremap msca a\msCa
-nnoremap <silent> <C-S> :w
-nnoremap <BS> :wgg/Back\ to\ 8lgf:nohlsearch
 vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(expand((exists("g:netrw_gx")? g:netrw_gx : '<cfile>')),netrw#CheckIfRemote())
 nnoremap <silent> <Plug>CalendarT :cal calendar#show(2)
@@ -95,6 +92,7 @@ nnoremap <Up> <Nop>
 nnoremap <Right> :bn
 nnoremap <Left> :bp
 vnoremap <silent> <C-S> :w
+nnoremap <silent> <C-S> :w
 onoremap <silent> <C-S> :w
 vnoremap <C-J> dp   " the same downwards
 vnoremap <C-K> dkkp " for org: open subtree (if it's closed), close subtree, delete, move up, paste
@@ -148,17 +146,14 @@ set ruler
 set runtimepath=~/.vim,~/.vim/plugged/vim-orgmode,~/.vim/plugged/goyo.vim,~/.vim/pack/git-plugins/start/speeddating,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim81,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,~/.vim/after
 set scrolloff=12
 set showcmd
-set smartcase
 set statusline=\ %F%m%r%h%w\ %=%({%{&ff}|%{(&fenc==\"\"?&enc:&fenc).((exists(\"+bomb\")\ &&\ &bomb)?\",B\":\"\")}%k|%Y}%)\ %([%l,%v][%p%%]\ %)\ %{wordcount()[\"words\"]}
 set suffixes=.bak,~,.swp,.o,.info,.aux,.log,.dvi,.bbl,.blg,.brf,.cb,.ind,.idx,.ilg,.inx,.out,.toc
-set textwidth=100
 set ttimeout
 set ttimeoutlen=10
 set undodir=~/.vim/undodir
 set undofile
 set wildignore=*/.git/*,*/tmp/*,*.swp,*~,*.log,#*
 set wildmenu
-set window=15
 let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
 let v:this_session=expand("<sfile>:p")
 silent only
@@ -170,8 +165,8 @@ endif
 set shortmess=aoO
 argglobal
 %argdel
-$argadd indology/dharma_project/vrsa_edition/vssbook/vssbook_vimwiki/index.md
-edit vrsasarasamgraha.xml
+$argadd indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
+edit indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 set splitbelow splitright
 set nosplitbelow
 set nosplitright
@@ -228,7 +223,7 @@ let &cpo=s:cpo_save
 unlet s:cpo_save
 setlocal keymap=sanskrit
 setlocal noarabic
-setlocal noautoindent
+setlocal autoindent
 setlocal backupcopy=
 setlocal balloonexpr=
 setlocal nobinary
@@ -252,7 +247,6 @@ setlocal nocopyindent
 setlocal cryptmethod=
 setlocal nocursorbind
 setlocal nocursorcolumn
-set cursorline
 setlocal nocursorline
 setlocal cursorlineopt=both
 setlocal define=
@@ -277,7 +271,7 @@ setlocal foldminlines=1
 setlocal foldnestmax=20
 setlocal foldtext=foldtext()
 setlocal formatexpr=xmlformat#Format()
-setlocal formatoptions=tcq
+setlocal formatoptions=croql
 setlocal formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*
 setlocal formatprg=
 setlocal grepprg=
@@ -285,7 +279,7 @@ setlocal iminsert=1
 setlocal imsearch=-1
 setlocal include=
 setlocal includeexpr=
-setlocal indentexpr=
+setlocal indentexpr=XmlIndentGet(v:lnum,1)
 setlocal indentkeys=o,O,*<Return>,<>>,<<>,/,{,},!^F
 setlocal noinfercase
 setlocal iskeyword=@,48-57,_,192-255
@@ -337,7 +331,7 @@ setlocal tags=
 setlocal termwinkey=
 setlocal termwinscroll=10000
 setlocal termwinsize=
-setlocal textwidth=100
+setlocal textwidth=0
 setlocal thesaurus=
 setlocal undofile
 setlocal undolevels=-123456
@@ -349,20 +343,14 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 5930 - ((13 * winheight(0) + 15) / 31)
+let s:l = 1 - ((0 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-5930
-normal! 025|
+1
+normal! 0
 tabnext 1
-badd +0 vrsasarasamgraha.xml
-badd +31 indology/dharma_project/vrsa_edition/vssbook/vssbook_vimwiki/index.md
-badd +11 indology/dharma_project/vrsa_edition/vssbook/vssbook_vimwiki/Introduction.md
-badd +6 indology/dharma_project/vrsa_edition/vssbook/vssbook_vimwiki/ManuscriptsConsulted.md
-badd +7 indology/dharma_project/vrsa_edition/vssbook/vssbook_vimwiki/KathmanduMSS.md
-badd +188 indology/dharma_project/vrsa_edition/vssbook/vssbook_vimwiki/CambridgeMSS.md
-badd +17 ~/.vimrc
+badd +0 indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
@@ -374,6 +362,7 @@ if file_readable(s:sx)
   exe "source " . fnameescape(s:sx)
 endif
 let &so = s:so_save | let &siso = s:siso_save
+nohlsearch
 doautoall SessionLoadPost
 unlet SessionLoad
 " vim: set ft=vim :
