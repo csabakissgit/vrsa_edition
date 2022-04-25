@@ -123,6 +123,8 @@ of *vṛṣaḥ* in the title *Vṛṣasārasaṃgraha*, one of the works of the
 corpus (see, e.g., \textsc{Sanderson} 2014, p. 2), i.e., 'Summary of the
 Essentials of the [Śiva]dharma'."
     
+02sdhu/sivadharmottara_complete.txt:  4501:     īśvarāyatanasyādhaḥ śrīmān dharmavṛṣaḥ sthitaḥ ||
+
 ### The structure of the VSS
     - Matryoshka 
     - dialogues

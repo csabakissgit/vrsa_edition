@@ -28,10 +28,12 @@
 %folioinfo \Ed\ p.580: atha vṛsasārasaṃgrahaprārambha(ḥ) )
 
 
+<START/>
 
 <TITLE>Vṛṣasārasaṃgrahaḥ</TITLE>
 %chapter 1
 
+<STOP/>
 
 <CHAPTER>prathamo 'dhyāyaḥ</CHAPTER>
         <!-- <TRCHAPTER>Chapter One</TRCHAPTER> -->
@@ -8140,6 +8142,7 @@ Dadhīca said:<br>
         <APP>\vb <LEM>krimikīṭajalaukasaḥ</LEM> \mssCaCbCc\msNa; krimikīṭajalokasaḥ \msNb, 
                                         krimikīṭajalauka<UNCL>sāḥ</UNCL> \msNc, kimikīṭajalaukasāṃ \Ed</APP>
         <!-- <TR>...</TR> -->
+%index_grammar: misplaced ādi?
 
 <TEXT> yūkoddaṃśamaśānāṃ ca viṣṭajās{ }tamasāttvikāḥ||</TEXT> 9.28
         <APP>\vc <LEM>yūkoddaṃśamaśānāṃ ca</LEM> \msCa;
@@ -14917,6 +14920,7 @@ Chapter 17 missing in edition?
 %folioinfo \msM\ 443.jpg upper, f. 35v line 4 
 %folioinfo \Ed\ p.651
 % \msThub\ 4012.g
+<STOP/>
 
 <ANUSTUBH/>
 <STOP/>
@@ -15103,7 +15107,7 @@ kartuṅ ... samārabdhaṅ \msCa
         <APP>\vb <LEM>°dhinā</LEM> \msCa\msCb\msNa\msNc\Ed; °dhānāṃ \msNb\oo
                  <LEM>kratuhetavaḥ</LEM> \msNa\msNb\msNc; <UNCL>kratu</UNCL>×tavaḥ \msCa, kratuhetu<UNCL>ta</UNCL> \msCb,
                                                                                 pātuhetavaḥ \Ed</APP>
-        <!-- <TR>Brahmā (Łvidhi$) created class for the sake of sacrifice.
+                <!-- <TR>Brahmā/Viṣṇu (Łvidhi$) created class for the sake of sacrifice.
                  [The classes are] for the purpose of rituals (Łkratu$).</TR> -->
 
 <TEXT> evam{ }eva pravartantu bhavadbhir{ }dvijasattamāḥ||</TEXT> 19.27
@@ -15124,7 +15128,7 @@ kartuṅ ... samārabdhaṅ \msCa
         <APP>\vd <LEM>ṣaṭkarma°</LEM> \msCa\msCb\msNa\msNb\msNc; ṣaḍkarmā° \Ed\oo
                  <LEM>sadā</LEM> \msCa\msCb\msNa\Ed; sajā \msNb, sadāḥ \msNc</APP>
         <!-- <TR>those good Brahmins (Łsuvipra$) shall become Brahmins (Łvipratāṃ yāntu$), 
-                 always engaged in the six duties [of Brahmins] (Łṣaṭkarma$).</TR> -->
+                 always engaged in the six duties [of Brahmins] (Łṣaṭkarman$).</TR> -->
 % ṇiratāḥ \msNc
 
 <TEXT> rakṣaṇārthaṃ tu ye viprāḥ kalpitāḥ śastrapāṇayaḥ|</TEXT>
@@ -15152,7 +15156,7 @@ kartuṅ ... samārabdhaṅ \msCa
 %                                         vrato?
 <TEXT> te tu vaiśyatvam{ }āyāntu vārttopāyaratodbhavāḥ||</TEXT> 19.30
         <APP>\vd <LEM>vārttopāyarato°</LEM> \msCa\msCb\msNa\msNb\msNc; vārtto āpaṇatodbhavāḥ \Ed</APP>
-        <!-- <TR>they shall become Vaiśyas, involved in the means of business???</TR> -->
+        <!-- <TR>they shall become Vaiśyas, involved in the means of trade.</TR> -->
 
 <TEXT> vadhabandhanakarmasu śilpasthānavidheṣu ca|</TEXT>
         <APP>\va <LEM>vadhabandhanakarmasu</LEM> \msCa\msNa; vadhavandhanakarmeṣu \msCb\msNb\msNc\Ed</APP>
@@ -15277,7 +15281,7 @@ EDDIG \msCa\msNa (from 19.20)
 
 
 <TEXT> dharmahīno mṛtas{ }tulyo devatulyo jitendriyaḥ|</TEXT>
-<TEXT> yajñatulyo 'bhayaṃ dātā śivatulyao manonmanaḥ||</TEXT>
+<TEXT> yajñatulyo 'bhayaṃ dātā śivatulyo manonmanaḥ||</TEXT>
 
 <TEXT> vigatarāga uvāca|*</TEXT>
 <TEXT> dāna yajñas{ }tapas{ }tīrthaṃ saṃnyāsaṃ yoga eva ca|</TEXT>
