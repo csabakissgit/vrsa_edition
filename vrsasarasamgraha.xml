@@ -11,7 +11,7 @@
 %folioinfo \msNa\ f.1v (numbering restarts) image 195.jpg upper
 %folioinfo \msNb\ image 44.jpg, breaks off at 1.62d and resumes at 2.23 % left margin broken CHECK
 %folioinfo \msNc\ 212.jpg upper, line 1, f. 209v  
-%folioinfo \msNd\ A 3/3, 177.jpg, f. 227v
+%folioinfo \msNd\ A 3/3, 177.jpg, f. 227v (Kengo: last folio of this MS belongs to VSS)
 
 %folioinfo \msL 2014-06-04 13.24.06.jpg (Wellcome Institute)
 %folioinfo \msP[aris] MS: 412.jpg
@@ -19,8 +19,9 @@
 %folioinfo \msM[unich]: 'cover' [411.jpg]: ||w|| vṛṣasārasaṃgraha 50 patra ||w||
 %folioinfo \msM\ 412.jpg, f. 1r start; ten folios are missing:
                 - f. 5 (VSS 3.4-3.33)*
+Kengo:          "IMG_0486.jpg of the Munich MS photos has f. 5r of the VSS, and 487 top is its verso"
                 - ff. 11-13 (VSS 6.20-8.45)
-                - ff. 24 (VSS 13.9-13.36)
+                - f. 24 (VSS 13.9-13.36)
                 - ff. 39-43 (VSS 20.38-22.35)
                         *416.jpg lower image is Dharmaputrikā 4.22-39); 
                          417.jpg upper is Dharmaputrikā 4.39-55 
@@ -35,6 +36,7 @@
 
 <STOP/>
 
+<START/>
 <CHAPTER>prathamo 'dhyāyaḥ</CHAPTER>
         <!-- <TRCHAPTER>Chapter One</TRCHAPTER> -->
 
@@ -52,7 +54,7 @@ Is 'oṃ namaḥ śivāya' there?
                         %pāragaṃ \msNd\msBod
         <PARAL>\va Łcf. Śivadharmottara 10.6: $
                 ādimadhyāntanirmuktaḥ svabhāvavimalaḥ prabhuḥ |
-                sarvajñaḥ paripūrṇaś ca śivo jñeyaḥ śivāgame ||</PARAL>
+                sarvajñaḥ paripūrṇaś{ }ca śivo jñeyaḥ śivāgame ||</PARAL>
 
 <TEXT> susūkṣmam{ }avyaktajagatsusāram|</TEXT>
         <APP>\vb <LEM>susūkṣma°</LEM> \msCa\msCb\msNa\msNb\msNc\msNd\msM\Ed; śusukṣma° \msCc\oo
@@ -77,18 +79,18 @@ Is 'oṃ namaḥ śivāya' there?
 
 <TEXT> praṇamya vakṣye vṛṣasārasaṃgraham||</TEXT> 1.1
         <APP>\vc <LEM>vṛṣa°</LEM> \msCapcorr\msCb\msCc\msNa\msNb\msNc\msNd\msM\Ed; °vṛṣo \msCaacorr</APP>
-        <PARAL>ŁTestimonia for this chapter:    \msCa\ ff.\thinspace 193v--195v,
-                                                \msCb\ ff.\thinspace 201v--203v,
-                                                \msCc\ ff.\thinspace 267r--270r,
-                                                \msNa\ ff.\thinspace 1v--3v,
-                                                \msNb\ exp.\thinspace 44 (then exp.\thinspace
-                                                        43 lower and then upper leaves; 1.62cd--2.22 are missing),
-                                                \msNc\ ff.\thinspace 209v--211v,
-                                                \msNd\ ff.\thinspace 227v--229v; 
-                                                \msM\  ff.\thinspace 1r--3v;
-                                                \mssCaCbCc\ = \msCa + \msCb + \msCc; 
-                                                lemmata in parentheses indicate a longer chuck of text for
-                                                which there may be additional variants given in the apparatus$</PARAL>
+        <PARAL>ŁTestimonia for this chapter:    \msCa\ ff.\thinspace 193v--195v,$
+                                                Ł\msCb\ ff.\thinspace 201v--203v,$
+                                                Ł\msCc\ ff.\thinspace 267r--270r,$
+                                                Ł\msNa\ ff.\thinspace 1v--3v,$
+                                                Ł\msNb\ exp.\thinspace 44 (then exp.\thinspace$
+                                                Ł        43 lower and then upper leaves; 1.62cd--2.22 are missing),$
+                                                Ł\msNc\ ff.\thinspace 209v--211v,$
+                                                Ł\msNd\ ff.\thinspace 227v--229v; $
+                                                Ł\msM\  ff.\thinspace 1r--3v;$
+                                                Ł\mssCaCbCc\ = \msCa + \msCb + \msCc; $
+                                                Łlemmata in parentheses indicate a longer chunck of text for$
+                                                Łwhich there may be additional variants given in the apparatus$ </PARAL>
                         % pranamya \msCc
                         %Łpāragaṃ$ in \msNa\msNb: the same extra syllable as in pāda d.
 <NOTE>ŁPāda$ a is reminiscent of, among other famous passages, Bhagavadgītā 11.19:
@@ -283,7 +285,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                                                                 bhagavaṃ sa° \msM\oo
                 <LEM>°dharmajña</LEM> \mssCaCbCc\msNb\msNc\msM\Ed; °jña \msNa, °dharmajñaḥ \msNd</APP>
        <APP>\vb <LEM>°viśārada</LEM> \msCa\msNb\msNc\msNd; °visāradaḥ \msCb\msCc\msNa\Ed, °viśāradam \msM</APP>
-       <PARAL>\vab Ł= MBh 13.112.9ab</PARAL>
+       <PARAL>\vab Ł= MBh 13.112.9ab$</PARAL>
 
 % Kenji says neuter Dharma
 % Flo guhya dharma is a formula
@@ -384,7 +386,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 <TRSUBCHAPTER>The knowledge of Brahman</TRSUBCHAPTER>
 %folioinfo \Ed\ p.581
 
-<TEXT> [vigatarāga uvāca|]*</TEXT>
+<TEXT> [vigatarāga uvāca|*]</TEXT>
         <!-- <TR>[Vigatarāga spoke:]</TR> -->
 
 <TEXT> brahmavidyā kathaṃ jñeyā rūpavarṇavivarjitā|</TEXT>
@@ -417,7 +419,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <!-- <TR>``That syllable is not to be pronounced, is unquestionable, non-dividable, consistent,</TR> -->
         <APP>\va <LEM>°ccārya°</LEM> \msCa\msCb\msNa\msNb\msM\Ed; °cārya° \msCc\msNc\msNd</APP>
         <APP>\vab <LEM>°sandigdham{ }avicchinnam{ }anākulam</LEM> \msCa\msCb\msNa\msNc\msNd\msM\Ed;
-                                °vicchinnasandigdham{ }anākuna \msCc, °sandigdha\-m{ }anacchinnam{ }anākulam \msNb</APP>
+                                °vicchinnasandigdham{ }anākuna \msCc, °sandigdham{ }anacchinnam{ }anākulam \msNb</APP>
 
 %folioinfo \msCc\ 182.jpg, f. 267v (not 237v as online shown)
 <TEXT> nirmalaṃ sarvagaṃ sūkṣmam{ }akṣaraṃ kimu tatparam||</TEXT> 1.10
@@ -1414,8 +1416,7 @@ saiva/sivadharma/01sdhs/sivadharmasastra.dn:kalpako.tisahasraa.ni kalpako.ti"sat
         <APP>\vc <LEM>viṃśakoṭiṣu gulmeṣu</LEM> \mssCaCbCc\msNa\msNc\Ed; viṃśakoṭi vinā gulme \msM</APP>
         <APP>\vd <LEM>ūrdhvatas{ }ta°</LEM> \mssCaCbCc\msNa\msNc\Ed; ūrddhvato ta° \msM\oo
                  <LEM>raviḥ</LEM> \mssCaCbCc\msNa\msNc\msM; ravi \Ed</APP>
-        <PARAL>\vcd ŁThe folio in \msNb\ ends with $ ūrdhva°, Łand the folios that 
-                may have contained verses 1.62d--2.22 are missing.$</PARAL>
+        <PARAL>\vcd ŁThe folio in \msNb\ ends with $ ūrdhva°, Łand the folios that may have contained verses 1.62d--2.22 are missing.$</PARAL>
         <!-- <TR>The Sun shines from above from seven thousand and seven hundred Łkoṭi$ [height] ... twenty Łkoṭi$ gulma?? mūrdha?</TR> -->
 
 <TEXT> pramāṇaṃ nāma saṃkhyā ca kīrtitāni samāsataḥ|</TEXT>
@@ -1493,6 +1494,8 @@ saiva/sivadharma/01sdhs/sivadharmasastra.dn:kalpako.tisahasraa.ni kalpako.ti"sat
                 ity eva vākyaṃ brahmādiguruṇāṃ samudāhṛtam||  $ <br/>
                 </NOTE>
 
+The World of the Skandapurāṇa p.3 n9: "The reference in SP 1.9 to ‘the Purān.a’ may refer to a text basically consisting
+of the Purān.apañcalakṣaṇa (see SP I, 20–22)."
 % mātariśvā for mātariśvānaṃ
 <TEXT> brahmaṇā kathitaṃ pūrṇaṃ mātariśvā yathātatham||</TEXT> 1.64
         <APP>\vc <LEM>pūrṇaṃ</LEM> \msCa\msCc\msNa\Ed; pūrve \msCb, pūrṇṇa \msNc, pūrvaṃ \msM</APP>
@@ -1678,6 +1681,7 @@ Pre Angkor K0359.txt: raamaayanapuraa.naabhyaam a"sesha.m bhaaratan dadat  Kengo
 %END OF CHAPTER 1
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+<STOP/>
 
 
 
@@ -14912,7 +14916,6 @@ Chapter 17 missing in edition?
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-<START/>
 <startchapter-n="19"/> 
 %chapter 19
 %folioinfo \msCa\ 447.jpg, f. 226r line 4 
@@ -14920,10 +14923,8 @@ Chapter 17 missing in edition?
 %folioinfo \msM\ 443.jpg upper, f. 35v line 4 
 %folioinfo \Ed\ p.651
 % \msThub\ 4012.g
-<STOP/>
 
 <ANUSTUBH/>
-<STOP/>
 <CHAPTER>19 dānayajñaviśeṣaḥ</CHAPTER>
 
 <SUBCHAPTER>gāvaḥ</SUBCHAPTER>
@@ -14998,7 +14999,6 @@ saiva/sivadharma/01sdhs/sivadharmasastra.dn:varṣakoṭiśataṃ divyaṃ śiva
 <TEXT> na śakyaṃ vistarād{ }vaktuṃ gomahātmyasamuttamam||</TEXT>
 
 
-<START/>
 
 <SETVSNUM="20"/>
 %folioinfo \msCa\ 448.jpg, f. 226v line 6 
@@ -15124,7 +15124,7 @@ kartuṅ ... samārabdhaṅ \msCa
 
 <TEXT> suviprā vipratāṃ yāntu ṣaṭkarmaniratāḥ sadā||</TEXT> 19.28
         <APP>\vc <LEM>suviprā</LEM> \msCa\msCb\msNa\msNc\Ed; suvipra \msNb\oo
-                 <LEM>yāntu</LEM> \\msCa\msCb\msNa\msNc\Ed; yātu \msNb</APP>
+                 <LEM>yāntu</LEM> \msCa\msCb\msNa\msNc\Ed; yātu \msNb</APP>
         <APP>\vd <LEM>ṣaṭkarma°</LEM> \msCa\msCb\msNa\msNb\msNc; ṣaḍkarmā° \Ed\oo
                  <LEM>sadā</LEM> \msCa\msCb\msNa\Ed; sajā \msNb, sadāḥ \msNc</APP>
         <!-- <TR>those good Brahmins (Łsuvipra$) shall become Brahmins (Łvipratāṃ yāntu$), 
@@ -15245,7 +15245,6 @@ See Vāyupurāṇa (4-5th c.?) 1.8 (important chapter)
 <TEXT> kīrtitāni samāsena kim{ }anyac{ }chrotum{ }icchasi||</TEXT> 19.36
         <!-- <TR>[The social classes] have been taught briefly. What else do you wish to hear?</TR> -->
 
-<STOP/>
 EDDIG \msCa\msNa (from 19.20)
 
 
@@ -17592,6 +17591,8 @@ MBh rivers:
                 in disguise, who appears as a Brahmin to test Anarthayajña in 1.8.</NOTE>
 
 % emend to saṃkalpaṃ?
+% On Saṃkalpa, see: Words and Deeds Hindu and Buddhist Rituals in South Asia Edited by Jörg Gengnagel, Ute Hüsken and Srilata Raman
+% Axel Michaels' article therein
 <TEXT> saṃkalpas{ }tasya rājendra kathayiṣyāmi tac{ }chṛṇu||</TEXT> 22.9
         <APP>\vc <LEM>saṃkalpas{ }ta</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; saṃkalpa ta \msL</APP>
         <!-- <TR>O great King, I shall tell you about his vow, listen.</TR> -->
@@ -19203,6 +19204,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
 %folioinfo \msM\ 452.jpg upper, f. 48v 
 <TEXT> kuravaḥ saptamo jñeyo bhadrāśvaś{ }cāṣṭamaḥ smṛtaḥ||</TEXT> 24.33
         <APP>\vo <LEM>(pañcamaṃ°Ł...$prakīrtitāḥ)</LEM> \msCa\msCb; \om\ \Ed</APP>
+03sdhsangr/sivadharmasangraha10-12raw.txt:  431:        saptamaśca karu: khyāto bhadrāśvaśca tathāṣṭamaḥ ॥65॥
 
 <TEXT> navamaḥ ketumālo 'bhūn navavarṣāḥ prakīrtitāḥ|</TEXT>
         <APP>\vc <LEM>°mālo</LEM> \msCa; °māno \msCb, \om\ \Ed</APP>
