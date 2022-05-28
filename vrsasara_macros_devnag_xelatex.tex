@@ -1,4 +1,4 @@
-\usepackage{libertine}
+%\usepackage{libertine}
 % \usepackage{hyperref}
 %\usepackage{kpfonts}
 %\usepackage[osf]{Alegreya,AlegreyaSans}
@@ -29,15 +29,15 @@
 \headheight14.5pt
 \usepackage[noeledmac]{ledmac}
 
-\usepackage[english]{babel}
-\usepackage{graphicx}
+%\usepackage[english]{babel}
+%\usepackage{graphicx}
 %\usepackage{marvosym} % for moon and sun
 %\usepackage[T1]{fontenc}
-\usepackage{pdflscape}
-\usepackage{ulem}
-\normalem
-\usepackage{index}
-\usepackage{amsmath,amssymb,amsfonts,textcomp}
+%\usepackage{pdflscape}
+%\usepackage{ulem}
+%\normalem
+%\usepackage{index}
+%\usepackage{amsmath,amssymb,amsfonts,textcomp}
 %\usepackage{ledpar}
 %\usepackage{boxedminipage}
 
@@ -62,7 +62,7 @@
 \newcount\ajsa
 
 \fejno=1
-\versno=0
+\versno=1
 \newcommand{\ujvers}{\global\advance\versno by1}
 \newcommand{\ujfej}{\versno=0\global\advance\fejno by1}
 \newcommand{\newchapter}{\ujfej}
@@ -73,7 +73,7 @@
 %\newcommand{\trvs}{\norm \the\fejno .\the\versno\ }
 %\newcommand{\ujtr}{\ujvers\trvs\hskip 1cm}
 \newcommand{\vsveg}{{\the\fejno.\the\versno}}
-\newcommand{\vs}{\the\versno}
+\newcommand{\vs}{\textbf{\englishfont\the\versno}}
 
 %%%%% Sections: from--to
 \newcount\innen%Pl. 14.24-46
@@ -86,15 +86,15 @@
 %%%%  Types of paragraph
 \newcommand{\proza}{\leftskip 4em\noindent}
 \newcommand{\ujproza}{\global\advance\versno by1\leftskip 4em\noindent}
-\newcommand{\vers}{\leftskip 9em}
-\newcommand{\dnvers}{\leftskip 3em}
+\newcommand{\vers}{\leftskip 5em}
+\newcommand{\dnvers}{\leftskip 6em}
 
 \newcommand{\sloka}{\vers}
 
-\newcommand{\nemsloka}{\leftskip 9em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\newcommand{\nemslokab}{\leftskip 11em} % pada b
-\newcommand{\nemslokac}{\leftskip 9em} % pada c
-\newcommand{\nemslokad}{\leftskip 11em} % pada d
+\newcommand{\nemsloka}{\leftskip 5em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\nemslokab}{\leftskip 7em} % pada b
+\newcommand{\nemslokac}{\leftskip 5em} % pada c
+\newcommand{\nemslokad}{\leftskip 7em} % pada d
 
 
 \newcommand{\dnnemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
@@ -128,19 +128,10 @@
 \newcommand{\prose}{\leftskip 0em\noindent\advanceline{0}}
 %\newcommand{\dontdisplaylinenum}{\advanceline{1}\skipnumbering}
 \newcommand{\dontdisplaylinenum}{\skipnumbering}
-
-
-
-
-
-
 %%%% Apparatus
 
-\newcommand{\var}[1]{\ \ #1}
-\newcommand{\varr}[1]{\edtext{}{\Dfootnote{#1}}}
-\newcommand{\paral}[1]{\edtext{}{\Cfootnote{#1}}}
-\newcommand{\lacuna}[1]{\edtext{}{\Bfootnote{#1}}}
-\newcommand{\prosevar}[1]{\edtext{}{\Afootnote{#1}}}
+%\newcommand{\var}[1]{\edtext{}{\Dfootnote{#1}}}
+
 
 %%%%% Nirajan's apparatus %%%%%%%%%%
 %\newcommand{\var}[1]{
@@ -155,9 +146,14 @@
 %\begin{minipage}{0.7\textwidth}
 %\footnotesize $\rightarrow$ #1\end{minipage}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\newcommand{\var}[1]{\edtext{}{\Dfootnote{#1}}}
 
 % when 2-col app requires grouping of variants of one single verse:
+%\newcommand{\var}[1]{\ \ #1}
+\newcommand{\var}[1]{\edtext{}{\Cfootnote{#1}}}
+\newcommand{\paral}[1]{\edtext{}{\Bfootnote{#1}}}
+\newcommand{\marginalia}[1]{\edtext{}{\Bfootnote{#1}}}
+\newcommand{\prosevar}[1]{\edtext{}{\Afootnote{#1}}}
+\newcommand{\lacuna}[1]{\edtext{}{\Afootnote{#1}}}
 
 %%%%%%%  Dandas
 \newcommand{\padaA}{a}
@@ -165,18 +161,18 @@
 \newcommand{\padaAB}{ab}
 \newcommand{\dandab}{\ujvers\danda\renewcommand{\padaA}{a}\renewcommand{\padaB}{b}\renewcommand{\padaAB}{ab}}
 \newcommand{\dandad}{\danda\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
-\newcommand{\danda}{$\cal j$}
-\newcommand{\ketdanda}{$\cal k$}
+\newcommand{\danda}{।}
+\newcommand{\ketdanda}{॥}
 \newcommand{\ketdandadn}{{\dn ..}}
 \newcommand{\dnd}{\danda}
 \newcommand{\dnddnd}{\ketdanda}
-\newcommand{\veg}{{\rm\ketdanda\vsveg\ketdanda}\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
+\newcommand{\veg}{}%{{\rm\ketdanda\vsveg\ketdanda}\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
 \newcommand{\vsvegdn}{\the\fejno\kern-0.3em{\rm\ :}\kern0.1em\the\versno\kern-0.15em}
-\newcommand{\vegdn}{{\dn ..}$~${\dn\vsvegdn}{\dn ..} \vrule depth6pt width0pt}
+\newcommand{\vegdn}{॥$~${\vsvegdn}॥ \vrule depth6pt width0pt}
 \newcommand{\sixlsloka}{\renewcommand{\padaA}{e}\renewcommand{\padaB}{f}\renewcommand{\padaAB}{ef}}
 \newcommand{\vegg}[1]{{\rm \ketdanda#1\ketdanda}}
-\newcommand{\dandadn}{{\dn .}}
-\newcommand{\dandabdn}{\ujvers{\dn .}}
+\newcommand{\dandadn}{।}
+\newcommand{\dandabdn}{\ujvers{।}}
 
 
 %%%%%%%%%%%
@@ -192,8 +188,8 @@
 \newcommand{\Nob}{N}
 \newcommand{\BORIPRP}{{B$_{1}$}}
 \newcommand{\Pollytextii}{{\sc Sharma}~1942}
-\newcommand{\A}{{\normalfont A}}
-%\newcommand{\B}{{\normalfont B}}
+\newcommand{\A}{{\englishfont A}}
+%\newcommand{\B}{{\englishfont B}}
 \newcommand{\AB}{AB}
 %\newcommand{\C}{C}
 \newcommand{\AC}{AC}
@@ -214,97 +210,97 @@
 
 
 % original:
-%\newcommand{\msCa}{{\normalfont C$_\textrm{a}$}}
-%\newcommand{\msCaacorr}{{\normalfont C$_\textrm{a}$\kern-.4em$^{ac}$\/}}
-%\newcommand{\msCapcorr}{{\normalfont C$_\textrm{a}$\kern-.5em$^{pc}$\/}}
+%\newcommand{\msCa}{{\englishfont C$_\textrm{a}$}}
+%\newcommand{\msCaacorr}{{\englishfont C$_\textrm{a}$\kern-.4em$^{ac}$\/}}
+%\newcommand{\msCapcorr}{{\englishfont C$_\textrm{a}$\kern-.5em$^{pc}$\/}}
 % Peter Bisschop etc.:
 %\newcommand{\msCa}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 94}$}}
 %\newcommand{\msCaacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 94}$}}
 %\newcommand{\msCapcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 94}$}}
 % my try:
-\newcommand{\msCa}{{\rm C$_{\scriptscriptstyle 94}$}\allowbreak}
-\newcommand{\msCaacorr}{{\rm C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 94}$}\allowbreak}
-\newcommand{\msCapcorr}{{\rm C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 94}$}\allowbreak}
+\newcommand{\msCa}{{\englishfont C$_{\scriptscriptstyle 94}$}\allowbreak}
+\newcommand{\msCaacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 94}$}\allowbreak}
+\newcommand{\msCapcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 94}$}\allowbreak}
 
 % original
-%\newcommand{\msCb}{{\normalfont C$_\textrm{b}$}}
-%\newcommand{\msCbacorr}{{\normalfont C$_\textrm{b}$\kern-.4em$^{ac}$\/}}
-%\newcommand{\msCbpcorr}{{\normalfont C\raisebox{-.1em}{$_\textrm{b}$}\kern-.57em$^{pc}$\/}}
+%\newcommand{\msCb}{{\englishfont C$_\textrm{b}$}}
+%\newcommand{\msCbacorr}{{\englishfont C$_\textrm{b}$\kern-.4em$^{ac}$\/}}
+%\newcommand{\msCbpcorr}{{\englishfont C\raisebox{-.1em}{$_\textrm{b}$}\kern-.57em$^{pc}$\/}}
 %\newcommand{\msCb}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 45}$}}
 %\newcommand{\msCbacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 45}$}}
 %\newcommand{\msCbpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 45}$}}
-\newcommand{\msCb}{{\rm C$_{\scriptscriptstyle 45}$}\allowbreak}
-\newcommand{\msCbacorr}{{\rm C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 45}$}\allowbreak}
-\newcommand{\msCbpcorr}{{\rm C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 45}$}\allowbreak}
+\newcommand{\msCb}{{\englishfont C$_{\scriptscriptstyle 45}$}\allowbreak}
+\newcommand{\msCbacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 45}$}\allowbreak}
+\newcommand{\msCbpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 45}$}\allowbreak}
 
-%\newcommand{\msCc}{{\normalfont C$_\textrm{c}$}}
-%\newcommand{\msCcacorr}{{\normalfont C$_\textrm{c}$\kern-.16cm$^{ac}$\/}}
-%\newcommand{\msCcpcorr}{{\normalfont C$_\textrm{c}$\kern-.16cm$^{pc}$\/}}
+%\newcommand{\msCc}{{\englishfont C$_\textrm{c}$}}
+%\newcommand{\msCcacorr}{{\englishfont C$_\textrm{c}$\kern-.16cm$^{ac}$\/}}
+%\newcommand{\msCcpcorr}{{\englishfont C$_\textrm{c}$\kern-.16cm$^{pc}$\/}}
 %\newcommand{\msCc}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 02}$}}
 %\newcommand{\msCcacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 02}$}}
 %\newcommand{\msCcpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 02}$}}
-\newcommand{\msCc}{{\rm C$_{\scriptscriptstyle 02}$}\allowbreak}
-\newcommand{\msCcacorr}{{\rm C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 02}$}\allowbreak}
-\newcommand{\msCcpcorr}{{\rm C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 02}$}\allowbreak}
+\newcommand{\msCc}{{\englishfont C$_{\scriptscriptstyle 02}$}\allowbreak}
+\newcommand{\msCcacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 02}$}\allowbreak}
+\newcommand{\msCcpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 02}$}\allowbreak}
 
-%\newcommand{\msNa}{{\normalfont N$_\textrm{a}$}}
-%\newcommand{\msNaacorr}{{\normalfont N$_\textrm{a}$\kern-.10cm$^{ac}$\/}}
-%\newcommand{\msNapcorr}{{\normalfont N$_\textrm{a}$\kern-.13cm$^{pc}$\/}}
+%\newcommand{\msNa}{{\englishfont N$_\textrm{a}$}}
+%\newcommand{\msNaacorr}{{\englishfont N$_\textrm{a}$\kern-.10cm$^{ac}$\/}}
+%\newcommand{\msNapcorr}{{\englishfont N$_\textrm{a}$\kern-.13cm$^{pc}$\/}}
 %\newcommand{\msNa}{{\rm N$^{\scriptscriptstyle K}_{\scriptscriptstyle 82}$}}  
 %\newcommand{\msNaacorr}{{\rm N$^{\scriptscriptstyle Kac}_{\scriptscriptstyle 82}$}}
 %\newcommand{\msNapcorr}{{\rm N$^{\scriptscriptstyle Kpc}_{\scriptscriptstyle 82}$}}
-\newcommand{\msNa}{{\rm K$_{\scriptscriptstyle 82}$}\allowbreak}  
-\newcommand{\msNaacorr}{{\rm K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$}\allowbreak}
-\newcommand{\msNapcorr}{{\rm K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$}\allowbreak}
+\newcommand{\msNa}{{\englishfont K$_{\scriptscriptstyle 82}$}\allowbreak}  
+\newcommand{\msNaacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$}\allowbreak}
+\newcommand{\msNapcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$}\allowbreak}
 
-\newcommand{\msNb}{{\rm K$_{\scriptscriptstyle 10}$}\allowbreak}  
-\newcommand{\msNbacorr}{{\rm K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 10}$}\allowbreak}
-\newcommand{\msNbpcorr}{{\rm K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 10}$}\allowbreak}
+\newcommand{\msNb}{{\englishfont K$_{\scriptscriptstyle 10}$}\allowbreak}  
+\newcommand{\msNbacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 10}$}\allowbreak}
+\newcommand{\msNbpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 10}$}\allowbreak}
 
-\newcommand{\msNc}{{\rm K$_{\scriptscriptstyle 7}$}\allowbreak}  
-\newcommand{\msNcacorr}{{\rm K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 7}$}\allowbreak}
-\newcommand{\msNcpcorr}{{\rm K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 7}$}\allowbreak}
+\newcommand{\msNc}{{\englishfont K$_{\scriptscriptstyle 7}$}\allowbreak}  
+\newcommand{\msNcacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 7}$}\allowbreak}
+\newcommand{\msNcpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 7}$}\allowbreak}
 
-\newcommand{\msNd}{{\rm K$_{\scriptscriptstyle 3}$}\allowbreak}  
-\newcommand{\msNdacorr}{{\rm K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}\allowbreak}
-\newcommand{\msNdpcorr}{{\rm K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}\allowbreak}
+\newcommand{\msNd}{{\englishfont K$_{\scriptscriptstyle 3}$}\allowbreak}  
+\newcommand{\msNdacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}\allowbreak}
+\newcommand{\msNdpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}\allowbreak}
 
-\newcommand\msBod{{\rm B}\allowbreak}
-\newcommand\msBodacorr{{\rm B}$^{\scriptscriptstyle ac}$\allowbreak}
-\newcommand\msBodpcorr{{\rm B}$^{\scriptscriptstyle pc}$\allowbreak}
+\newcommand\msBod{{\englishfont B}\allowbreak}
+\newcommand\msBodacorr{{\englishfont B}$^{\scriptscriptstyle ac}$\allowbreak}
+\newcommand\msBodpcorr{{\englishfont B}$^{\scriptscriptstyle pc}$\allowbreak}
 
 \newcommand\msL{{\rm L}\allowbreak}
-\newcommand\msLacorr{{\rm L}$^{\scriptscriptstyle ac}$\allowbreak}
-\newcommand\msLpcorr{{\rm L}$^{\scriptscriptstyle pc}$\allowbreak}
+\newcommand\msLacorr{{\englishfont L}$^{\scriptscriptstyle ac}$\allowbreak}
+\newcommand\msLpcorr{{\englishfont L}$^{\scriptscriptstyle pc}$\allowbreak}
 
-\newcommand\msP{{\rm P}\allowbreak}
-\newcommand\msPacorr{{\rm P}$^{\scriptscriptstyle ac}$\allowbreak}
-\newcommand\msPpcorr{{\rm P}$^{\scriptscriptstyle pc}$\allowbreak}
+\newcommand\msP{{\englishfont P}\allowbreak}
+\newcommand\msPacorr{{\englishfont P}$^{\scriptscriptstyle ac}$\allowbreak}
+\newcommand\msPpcorr{{\englishfont P}$^{\scriptscriptstyle pc}$\allowbreak}
 
-\newcommand\msM{{\rm M}\allowbreak}
-\newcommand\msMacorr{{\rm M}$^{\scriptscriptstyle ac}$\allowbreak}
-\newcommand\msMpcorr{{\rm M}$^{\scriptscriptstyle pc}$\allowbreak}
+\newcommand\msM{{\englishfont M}\allowbreak}
+\newcommand\msMacorr{{\englishfont M}$^{\scriptscriptstyle ac}$\allowbreak}
+\newcommand\msMpcorr{{\englishfont M}$^{\scriptscriptstyle pc}$\allowbreak}
 
-%\newcommand{\Ed}{{\normalfont Ed$_\textrm{N}$}}
+%\newcommand{\Ed}{{\englishfont Ed$_\textrm{N}$}}
 %\newcommand{\Ed}{{\rm E$^{\scriptscriptstyle N}$}\allowbreak}
-\newcommand{\Ed}{{\rm E}\allowbreak}
+\newcommand{\Ed}{{\englishfont E}\allowbreak}
 
 
 
 
-\newcommand{\msCaNa}{{\normalfont C$_\textrm{a}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCbNa}{{\normalfont C$_\textrm{b}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCcNa}{{\normalfont C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCabNa}{{\normalfont C$_\textrm{a}$C$_\textrm{b}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCbcNa}{{\normalfont C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCabcNa}{{\normalfont C$_\textrm{a}$C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCab}{{\normalfont C$_\textrm{a}$C$_\textrm{b}$}\allowbreak}
-\newcommand{\msCac}{{\normalfont C$_\textrm{a}$C$_\textrm{c}$}\allowbreak}
-\newcommand{\msCbc}{{\normalfont C$_\textrm{b}$C$_\textrm{c}$}\allowbreak}
-\newcommand{\msCabc}{{\normalfont C$_\textrm{a}$C$_\textrm{b}$$_\textrm{c}$}\allowbreak}
+\newcommand{\msCaNa}{{\englishfont C$_\textrm{a}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCbNa}{{\englishfont C$_\textrm{b}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCcNa}{{\englishfont C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCabNa}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCbcNa}{{\englishfont C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCabcNa}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
+\newcommand{\msCab}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$}\allowbreak}
+\newcommand{\msCac}{{\englishfont C$_\textrm{a}$C$_\textrm{c}$}\allowbreak}
+\newcommand{\msCbc}{{\englishfont C$_\textrm{b}$C$_\textrm{c}$}\allowbreak}
+\newcommand{\msCabc}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$$_\textrm{c}$}\allowbreak}
 
-\newcommand{\mssCaCbCc}{{\normalfont C}\allowbreak}
-\newcommand{\mssNaNbNc}{{\normalfont N}\allowbreak}
+\newcommand{\mssCaCbCc}{{\englishfont C}\allowbreak}
+\newcommand{\mssNaNbNc}{{\englishfont N}\allowbreak}
 
 \newcommand{\Cod}{\textit{Cod.}\allowbreak}
 \newcommand{\Codd}{$\Sigma$\allowbreak}
@@ -313,7 +309,7 @@
 \newcommand{\APP}{ĀPP\index{Atmarthapujapaddhati@\textsl{\=Atm\=arthap\=uj\=apaddhati}}}
 \newcommand{\RV}{\d RV\index{Rigveda@\textsl{\d Rgveda}}}
 \newcommand{\BhG}{BhG\index{Bhagavadgita@\textsl{Bhagavadg\=\i t\=a}}}
-\newcommand{\BhP}{BhP\index{Bhagavatapurana@\textsl{Bh\=agavatapur\=a\d na}}}
+\newcommand{\BhP}{BhP}%\index{Bhagavatapurana@\textsl{Bh\=agavatapur\=a\d na}}}
 \newcommand{\GS}{GS\index{Gherandasamhita@\textsl{Ghera\d n\d dasa\d mhit\=a}}}
 \newcommand{\GorakSatBriggs}{{G\'S$_\textrm{B}$}\index{Goraksasataka@\textsl{Gorak\d sa\'sataka}}}
 \newcommand{\GorakSatLonavla}{{G\'{S}}$_\textrm{L}$\index{Goraksasataka@\textsl{Gorak\d sa\'sataka}}}
@@ -330,16 +326,16 @@
 \newcommand{\KhV}{KhV\index{Khecarividya@\textsl{Khecar\=\i vidy\=a}}}
 \newcommand{\LP}{{\rm Li\.nPu}\index{Lingapurana@\textsl{Li\.ngapur\=a\d na}}}
 \newcommand{\MKS}{MKS\index{Mahakalasamhita@\textsl{Mah\=ak\=alasa\d mhit\=a}}}
-\newcommand{\MP}{MatPu\index{Matsyapurana@\textsl{Matsyapur\=a\d na}}}
+\newcommand{\MP}{MatPu}%\index{Matsyapurana@\textsl{Matsyapur\=a\d na}}}
 \newcommand{\MUT}{MUT\index{Matottaratantra@\textsl{Matottaratantra}}}
 \newcommand{\MVUT}{MVUT\index{Malinivijayottaratantra@\textsl{M\=alin\=\i vijayottaratantra}}}
 \newcommand{\MaSam}{MaSa\d m} %\index{Matsyendrasamhita@\textsl{Matsyendrasa\d mhit\=a}}}
-\newcommand{\MBh}{MBh\index{Mahabharata@\textsl{Mah\=abh\=arata}}}
+\newcommand{\MBh}{MBh}%\index{Mahabharata@\textsl{Mah\=abh\=arata}}}
 \newcommand{\NAT}{N\=AT\index{Nityahnikatilaka@\textsl{Nity\=ahnikatilaka}}}
 \newcommand{\Nisv}{Ni\'sv\index{Nisvasatattvasamhita@\textsl{Ni\'sv\=asatattvasa\d mhit\=a}}}
 \newcommand{\NSA}{N\d SA\index{Nityasodasikarnava@\textsl{Nity\=a\d so\d da\'sik\=ar\d nava} alias\\ \textsl{V\=amake\'svar\=\i mata}}}
 \newcommand{\PrS}{PrS\index{Prapancasara@\textsl{Prapa\~ncas\=ara}}}
-\newcommand{\PS}{PS\index{Pasupatasutra@\textsl{P\=a\'supatas\=utra}}}
+\newcommand{\PS}{PS}%\index{Pasupatasutra@\textsl{P\=a\'supatas\=utra}}}
 \newcommand{\RY}{RY\index{Rudrayamala@\textsl{Rudray\=amala}}}
 \newcommand{\SNT}{\'SNT\index{Sambhunirnayatantra@\textsl{\'Sambhunir\d nayatantra}}}
 \newcommand{\SP}{SP\index{Svacchandapaddhati@\textsl{Svacchandapaddhati}}}
@@ -374,32 +370,32 @@
 \newcommand{\thdanda}{{\thinspace$\cal j$}}
 \newcommand{\thketdanda}{\thinspace$\cal k$}
 %%%%%%%%% Padas
-\newcommand{\vo}{{\normalfont\textbf{\vs~}}}
+\newcommand{\vo}{{\englishfont\textbf{\vs~}}}
 \newcommand{\vA}{\textbf{\vs \padaA~}} % I dont use these any more
 \newcommand{\vB}{\textbf{\vs \padaB~}} % I dont use these any more
 \newcommand{\p}{\textbf{\vs \padaA~}}
 \newcommand{\pp}{\textbf{\vs \padaB~}}
 \newcommand{\ppp}{\textbf{\vs \padaAB~}}
-\newcommand{\va}{{\normalfont \textbf{\vs a~}}} % I dont use these any more, only in non-anu.s.tubh
-\newcommand{\vb}{{\normalfont \textbf{\vs b~}}} % I dont use these any more, only in non-anu.s.tubh
-\newcommand{\vc}{{\normalfont \textbf{\vs c~}}} % I dont use these any more, only in non-anu.s.tubh
-\newcommand{\vd}{{\normalfont\textbf{\vs d~}}} % I dont use these any more, only in non-anu.s.tubh
-\newcommand{\ve}{{\normalfont\textbf{\vs e~}}} % I dont use these any more
-\newcommand{\vf}{{\normalfont\textbf{\vs f~}}} % I dont use these any more
-\newcommand{\vab}{{\normalfont\textbf{\vs ab~}}} % I dont use these any more
-\newcommand{\vcd}{{\normalfont\textbf{\vs cd~}}} % I dont use these any more
-\newcommand{\vef}{{\normalfont\textbf{\vs ef~}}} % I dont use these any more
-\newcommand{\vabce}{{\normalfont\textbf{\vs a--d~}}} % I dont use these any more
-\newcommand{\vcdef}{{\normalfont\textbf{\vs c--f}}} % I dont use these any more
+\newcommand{\va}{{\textbf{\englishfont \vs a~}}} % I dont use these any more, only in non-anu.s.tubh
+\newcommand{\vb}{{\textbf{\englishfont  \vs b~}}} % I dont use these any more, only in non-anu.s.tubh
+\newcommand{\vc}{{\textbf{\englishfont \vs c~}}} % I dont use these any more, only in non-anu.s.tubh
+\newcommand{\vd}{{\textbf{\englishfont \vs d~}}} % I dont use these any more, only in non-anu.s.tubh
+\newcommand{\ve}{{\textbf{\englishfont \vs e~}}} % I dont use these any more
+\newcommand{\vf}{{\textbf{\englishfont \vs f~}}} % I dont use these any more
+\newcommand{\vab}{{\textbf{\englishfont \vs ab~}}} % I dont use these any more
+\newcommand{\vcd}{{\textbf{\englishfont \vs cd~}}} % I dont use these any more
+\newcommand{\vef}{{\textbf{\englishfont \vs ef~}}} % I dont use these any more
+\newcommand{\vabce}{{\textbf{\englishfont \vs a--d~}}} % I dont use these any more
+\newcommand{\vcdef}{{\textbf{\englishfont \vs c--f}}} % I dont use these any more
 
 \newcommand{\subb}[1]{\bigskip\textbf{#1}\medskip}
 %\newcommand{\jati}[1]{{\fbox{\parbox{\linewidth}{#1}}}}
 %\newcommand{\jati}[2][]{\tikz[overlay]\node[fill=blue!20,inner sep=2pt, anchor=text, rectangle, rounded corners=1mm,#1] {#2};\phantom{#2}}
 \newcommand{\jati}[1]{\textbf{#1}}
 \newcommand{\Notes}{\textit{Textual Notes}}
-\newcommand{\Colo}{{\normalfont\textbf{Colophon}}}
+\newcommand{\Colo}{{\englishfont\textbf{Colophon}}}
 \newcommand{\notelemm}[2]{#1: \textbf{#2}~]}
-\newcommand{\lem}{{\normalfont \thinspace \textbf{]} }}
+\newcommand{\lem}{{\englishfont \thinspace \textbf{]} }}
 \newcommand{\note}[1]{#1:}
 %\newcommand{\AD}{\textsc{ad}}
 \newcommand{\CE}{\textsc{ce}}
@@ -425,11 +421,11 @@
 
 \newcommand{\New}{\textbf{\hbox{N\lower0.2em\hbox{E}\hbox{W}}!!!}}
 %%% Apparatus signs
-\newcommand{\corrKiss}{{\normalfont\corr}}
-\newcommand{\emeKiss}{{\normalfont\eme}}
-\newcommand{\conjKiss}{{\rm\conj}}
+\newcommand{\corrKiss}{{\englishfont\corr}}
+\newcommand{\emeKiss}{{\englishfont\eme}}
+\newcommand{\conjKiss}{{\englishfont\conj}}
 \newcommand{\corrHaru}{\corr~\Haru}
-\newcommand{\emeHaru}{{\normalfont\eme~\Haru}}
+\newcommand{\emeHaru}{{\englishfont\eme~\Haru}}
 \newcommand{\conjHaru}{\conj~\Haru}
 %\newcommand{\corrHidas}{\corr~\textsc{Hidas}}
 %\newcommand{\emeHidas}{\eme~\textsc{Hidas}}
@@ -440,29 +436,29 @@
 \newcommand{\corrSzanto}{\corr~\textsc{Sz\'ant\'o}}
 \newcommand{\emeSzanto}{\eme~\textsc{Sz\'ant\'o}}
 \newcommand{\conjSzanto}{\conj~\textsc{Sz\'ant\'o}}
-\newcommand{\corrTorzsok}{{\normalfont\corr~\Torzsok}}
-\newcommand{\emeTorzsok}{{\normalfont\eme~\Torzsok}}
-\newcommand{\conjTorzsok}{{\normalfont\conj~\Torzsok}}
+\newcommand{\corrTorzsok}{{\englishfont\corr~\Torzsok}}
+\newcommand{\emeTorzsok}{{\englishfont\eme~\Torzsok}}
+\newcommand{\conjTorzsok}{{\englishfont\conj~\Torzsok}}
 \newcommand{\corrHatley}{\corr~\Hatley}
 \newcommand{\emeHatley}{\eme~\Hatley}
 \newcommand{\conjHatley}{\conj~\Hatley}
-\newcommand{\corrGoodall}{{\normalfont\corr~\Goodall}}
-\newcommand{\emeGoodall}{{\normalfont\eme~\Goodall}}
-\newcommand{\conjGoodall}{{\normalfont\conj~\Goodall}}
-\newcommand{\corrKafle}{{\normalfont\corr~\Kafle}}
-\newcommand{\emeKafle}{{\normalfont\eme~\Kafle}}
-\newcommand{\conjKafle}{{\normalfont\conj~\Kafle}}
+\newcommand{\corrGoodall}{{\englishfont\corr~\Goodall}}
+\newcommand{\emeGoodall}{{\englishfont\eme~\Goodall}}
+\newcommand{\conjGoodall}{{\englishfont\conj~\Goodall}}
+\newcommand{\corrKafle}{{\englishfont\corr~\Kafle}}
+\newcommand{\emeKafle}{{\englishfont\eme~\Kafle}}
+\newcommand{\conjKafle}{{\englishfont\conj~\Kafle}}
 \newcommand{\corrSanderson}{\corr~\Sanderson}
 \newcommand{\emeSanderson}{\eme~\Sanderson}
 \newcommand{\conjDiwakar}{\conj~Diwakar}
 \newcommand{\corrDiwakar}{\corr~Diwakar}
 \newcommand{\emeDiwakar}{\eme~Diwakar}
 \newcommand{\conjSanderson}{\conj~\Sanderson}
-\newcommand{\oo}{{\normalfont\ \ ${\bullet}$\ \ }}
-\newcommand{\unmetr}{{\normalfont (unmetr.)}}
-\newcommand{\conj}{{\normalfont conj.}}
-\newcommand{\corr}{{\normalfont corr.}}
-\newcommand{\eme}{{\normalfont em.}}
+\newcommand{\oo}{{\englishfont\ \ ${\bullet}$\ \ }}
+\newcommand{\unmetr}{{\englishfont (unmetr.)}}
+\newcommand{\conj}{{\englishfont conj.}}
+\newcommand{\corr}{{\englishfont corr.}}
+\newcommand{\eme}{{\englishfont em.}}
 \newcommand{\kozep}[1]{\begin{center}{#1}\end{center}}
 \newcommand{\paralid}{}
 \newcommand{\crux}[1]{{\dag #1\dag}}
@@ -474,21 +470,21 @@
 
 
 \newcommand{\alfejezet}[1]{\begin{center}
-        {\textbf{{{\normalfont\textbf{\large[}}{\large#1}{\normalfont  \textbf{\large]}}}}}\dontdisplaylinenum
+        {\textbf{{{\textbf{\large[}}{\large#1}{\textbf{\englishfont\large]}}}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsection}{#1}
 \end{center}
 
 }
 
 \newcommand{\alalfejezet}[1]{\begin{center}
-\textbf{{{\normalfont\textbf{[}}{#1}{\normalfont\textbf{]}}}}\dontdisplaylinenum
+\textbf{{{\englishfont\textbf{[}}{#1}{\englishfont\textbf{]}}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center}
 
 }
 
 \newcommand{\alalalfejezet}[1]{\begin{center}
-\textbf{{{\normalfont\textbf{[}}{\footnotesize#1}{\normalfont\textbf{]}}}}\dontdisplaylinenum
+\textbf{{{\englishfont\textbf{[}}{\footnotesize#1}{\englishfont\textbf{]}}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center}
 
@@ -496,14 +492,14 @@
 
 
 \newcommand{\alfejezetdn}[1]{\begin{center}
-        {\textbf{{{\normalfont\Large [}{\dn#1}{\normalfont\Large  ]}}}}\dontdisplaylinenum 
+        {\textbf{{{\englishfont\Large [}{\dn#1}{\englishfont\Large  ]}}}}\dontdisplaylinenum 
 \addcontentsline{toc}{subsection}{#1}
 \end{center}
 
 }
 
 \newcommand{\alalfejezetdn}[1]{\begin{center}
-\textbf{{{\normalfont\large [}{\dn#1}{\normalfont\large  ]}}}\dontdisplaylinenum 
+\textbf{{{\englishfont\large [}{\dn#1}{\englishfont\large  ]}}}\dontdisplaylinenum 
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center} 
 
@@ -560,8 +556,8 @@
 \newcommand{\frecto}[1]{\ledleftnote{\tiny{#1\recto}}\vers}
 \newcommand{\fverso}[1]{\ledleftnote{\tiny{#1\verso}}\vers}
 \newcommand{\kkicsi}{}
-%\newcommand{\toplost}{{\normalfont(\textit{top of akṣaras lost})}}
-\newcommand{\toplost}{{\normalfont(top of akṣaras lost)}}
+%\newcommand{\toplost}{{\englishfont(\textit{top of akṣaras lost})}}
+\newcommand{\toplost}{{\englishfont(top of akṣaras lost)}}
 \newcommand{\vverso}{\verso}
 \newcommand{\rrecto}{\recto}
 \newcommand{\trvers}[1]{$^{{\textnormal{\scriptsize [#1]}}}$}
@@ -621,16 +617,16 @@
 \newcommand{\ienoindex}[1]{(\skt{#1})}%no indexing
 \newcommand{\suppl}[1]{$<${#1}$>$}
 \newcommand{\error}[1]{{\sout{#1}}}
-%\newcommand{\om}{{\normalfont\textit{omitted in}}}
-\newcommand{\om}{{\normalfont omitted in}}
+%\newcommand{\om}{{\englishfont\textit{omitted in}}}
+\newcommand{\om}{{\englishfont omitted in}}
 \newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
-\newcommand{\cancelled}{{\normalfont(\textit{cancelled})}}
-\newcommand{\isitcancelled}{{\normalfont(\textit{cancelled?})}}
-\newcommand{\eyeskip}[1]{{\normalfont (eyeskip to #1)}}
+\newcommand{\cancelled}{{\englishfont(\textit{cancelled})}}
+\newcommand{\isitcancelled}{{\englishfont(\textit{cancelled?})}}
+\newcommand{\eyeskip}[1]{{\englishfont (eyeskip to #1)}}
 \newcommand{\recto}{$^r$\/}
 \newcommand{\verso}{$^v$\/}
-\newcommand{\pcorr}{{\normalfont $^{pc}$\/}}
-\newcommand{\acorr}{{\normalfont $^{ac}$\/}}
+\newcommand{\pcorr}{{\englishfont $^{pc}$\/}}
+\newcommand{\acorr}{{\englishfont $^{ac}$\/}}
 \newcommand{\sadhaka}{S{\=a}\-dha\-ka\index{sādhaka}}
 \newcommand{\mantrin}{Mantrin\index{mantrin}}
 %\newcommand{\kalpa}{Kalpa\index{kalpa}}
@@ -642,7 +638,7 @@
 \newcommand{\titl}[1]{\textsl{#1}}%Titles in slanted
 \newcommand{\cimnoindex}[1]{\textsl{#1}}%Titles in slanted
 \newcommand{\il}{${\star}$}
-\newcommand{\lost}{\normalfont{×}}
+\newcommand{\lost}{\englishfont{×}}
 \newcommand{\chapp}[1]{\textit{#1}}
 \newcommand{\att}[1]{\underline{#1}}
 \newcommand{\allpatalas}[1]{\textit{Pa\d{t}ala} #1}
@@ -670,7 +666,7 @@
 \newcommand{\Bader}{\textsc{Bader}}%\index{Bader}}
 \newcommand{\Clark}{\textsc{Clark}}%\index{Clark}}
 \newcommand{\Jowett}{\textsc{Jowett}}%\index{Jowett}}
-\newcommand{\Goodall}{{\normalfont\textsc{Good\-all}}\index{Goodall, Dominic}}
+\newcommand{\Goodall}{{\englishfont\textsc{Good\-all}}}%\index{Goodall, Dominic}}
 \newcommand{\Kloppenborg}{\textsc{Kloppenborg}}%\index{Kloppenborg}}
 \newcommand{\Dehejia}{\textsc{Dehejia}}%\index{Dehejia}}
 \newcommand{\Pandeya}{\textsc{P\={a}\d{n}\d{d}eya}}%\index{{P\={a}\d{n}\d{d}eya}}}
@@ -678,7 +674,7 @@
 \newcommand{\Hatley}{\textsc{Hat\-ley}\index{Hatley, Shaman}}
 \newcommand{\Wise}{\textsc{Wise}}%\index{Wise}}
 \newcommand{\Dey}{\textsc{Dey}}%\index{Dey}}
-\newcommand{\Torzsok}{\textsc{T\"or\-zs\"ok}\index{Törzsök, Judit}}
+\newcommand{\Torzsok}{{\englishfont\textsc{T\"or\-zs\"ok}}}%\index{Törzsök, Judit}}
 \newcommand{\Haru}{\textsc{Isa{a}cson}\index{Isa{a}cson, Harunaga}}
 \newcommand{\Nirajan}{{\rm \textsc{Kafle}}\index{Kafle, Nirajan}}
 \newcommand{\Kafle}{{\rm \textsc{Kafle}}\index{Kafle, Nirajan}}
@@ -806,7 +802,7 @@
 \makeatletter
  \def\lemmaesszamnelkulfmt#1#2#3{%
 \tolerance=9999\normal@pars\rightskip=0pt\leftskip=0pt
-\parindent=0pt \parfillskip=0pt plus 1fil\textit{#3}\penalty-10}
+\parindent=0pt \parfillskip=0pt plus 1fil {#3}\penalty-10}
 \makeatother
 
 
@@ -844,22 +840,26 @@
 \footparagraph{C}
 
 %\footparagraph{D}
-\foottwocol{D} % if you want 2-col apparatus STEP 1
+%\foottwocol{D} % if you want 2-col apparatus STEP 1
 
 \footparagraph{E}
 
 % register separators
 \usepackage{bbding} % for the lohere symbol
-\newcommand{\bnormalfootnoterule}{\begin{center}{\vskip-.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
-\newcommand{\cnormalfootnoterule}{\begin{center}{\vskip.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
-\newcommand{\dnormalfootnoterule}{\begin{center}{\vskip-.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
-\renewcommand{\cnormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}}
-\renewcommand{\dnormalfootnoterule}{\begin{center}{\vskip-.5em}\end{center}\vskip.5em}
+\newcommand{\anormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}}
+\newcommand{\bnormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}\vskip.5em}
+%\newcommand{\bnormalfootnoterule}{\begin{center}{\vskip-.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
+%\newcommand{\cnormalfootnoterule}{\begin{center}{\vskip.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
+%\newcommand{\dnormalfootnoterule}{\begin{center}{\vskip-.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
+\newcommand{\cnormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}}
+\newcommand{\dnormalfootnoterule}{\begin{center}{\vskip-.5em}\end{center}\vskip.5em}
 %\newcommand{\paranormalfootnoterule}{\begin{center}{\rule{3em}{.1pt}}\end{center}\vskip-.1em}
 
+\let\Afootnoterule=\anormalfootnoterule
 \let\Bfootnoterule=\bnormalfootnoterule
 \let\Cfootnoterule=\cnormalfootnoterule
 \let\Dfootnoterule=\dnormalfootnoterule
+
 
 
 \makeatletter
@@ -870,13 +870,11 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\let\Afootfmt\lemmaesszamnelkulfmt % without automatic lemma and any number; these you add manually; for Sanskrit, automatic lemma is a nightmare 
+\let\Afootfmt\lemmaesszamnelkulfmt
 \let\Bfootfmt\lemmaesszamnelkulfmt
-\let\Cfootfmt\lemmaesszamnelkulparallelsfmt
-
+\let\Cfootfmt\lemmaesszamnelkulfmt
 %\let\Dfootfmt\lemmaesszamnelkulfmt % original 1-col apparatus
-\let\Dfootfmt\lemmaesszamnelkultwocolfmt % if you want 2-col apparatus STEP 2
-
-\let\Afootfmt\myparafootfmt
+\let\Dfootfmt\lemmaesszamnelkulfmt
 %\let\Dfootfmt\parafootfmt % another type of apparatus layer
 
 \lineation{page}
@@ -894,15 +892,15 @@
 \renewcommand\section{\@startsection{section}{1}{\z@}%
                                    {-3.5ex \@plus -1ex \@minus -.2ex}%
                                    {2.3ex \@plus.2ex}%
-                                   {\normalfont\LARGE\bfseries}}% from \Large
+                                   {\englishfont\LARGE\bfseries}}% from \Large
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
                                      {-3.25ex\@plus -1ex \@minus -.2ex}%
                                      {1.5ex \@plus .2ex}%
-                                     {\normalfont\Large\bfseries}}% from \large
+                                     {\englishfont\Large\bfseries}}% from \large
 \renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
                                      {-0ex\@plus -1ex \@minus -.2ex}%
                                      {1.5ex \@plus .2ex}%
-                                     {\normalfont\large\bfseries}}% from \normalsize
+                                     {\englishfont\large\bfseries}}% from \normalsize
 \makeatother
 
 % Linux Tamil font

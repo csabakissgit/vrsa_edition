@@ -2,35 +2,86 @@
 % !TEX encoding = UTF-8
 
 \documentclass[12pt]{book}
+
+% PACKAGES
 \usepackage{fontspec} % Font selection for XeLaTeX; see fontspec.pdf for documentation
 \defaultfontfeatures{Mapping=tex-text} % to support TeX conventions like ``---''
 \usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
-
 %\defaultfontfeatures{Mapping=tex-text} % ditto
-%
 %\usepackage{hyperref}
 %\usepackage{glossaries}
 \usepackage{polyglossia}
 %\newfontfamily\devanagarifont[Script=Devanagari]{Pedantic Indic}
 %\newfontfamily\devanagarifont[Script=Devanagari]{Sahadeva}
-\newfontfamily\devanagarifont[Script=Devanagari]{Noto Serif Devanagari}\newfontfamily\englishfont[Script=Latin]{EB Garamond}
-\setmainlanguage{english}
-\setotherlanguages{sanskrit}
-
-\setmainfont{EB Garamond} 
 \usepackage{xltxtra} % Extra customizations for XeLaTeX
 %\setsansfont{Deja Vu Sans}
 %\setmonofont{Deja Vu Mono}
 % other LaTeX packages.....
 \usepackage[total={11.7cm,20cm},
 top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+\usepackage{pdfpages}
+
+
+% bibliography
+\usepackage{natbib}
+
+% notesep below is for the sep between year and page num
+\setcitestyle{authoryear, round, aysep={ },numbers,open={},close={},notesep={,\thinspace }}
+% to modify the appearance of the label (SANDERSON 2009) in the bibliography (get rid of []s):
+\makeatletter                         % Reference list option change
+\renewcommand\@biblabel[1]{#1:}      %   from [1] to 1.
+\makeatother      
+% Title of biblio
+%For book-classes: 
+%\newcommand{\UnexpandableProtect}{}
+\newcommand{\mycite}[1]{\citeauthor{#1} \citeyear{#1}}
+\newcommand{\mycitep}[2]{\citeauthor{#1} \citeyear{#1}, #2}
+
+% Finally! To hide the numbering in the Biblio 
+\makeatletter
+\renewcommand\@biblabel[1]{}
+\makeatother
+
+% to change indentation in the Bibliography
+\usepackage{enumitem}
+\makeatletter
+\renewenvironment{thebibliography}[1]
+     {\section*{Refs!}%
+     \fancyhead[CE]{}
+     \fancyhead[CO]{}
+     \@mkboth{header!}{header!}%
+      \begin{enumerate}[label={[\arabic{enumi}]},itemindent=-2em,leftmargin=2em]
+      \@openbib@code
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \end{enumerate}}
+\makeatother
+
+
+
+
+
+
+
+
+
+% FONT STUFF
+\newfontfamily\devanagarifont[Script=Devanagari]{Noto Serif Devanagari}
+\newfontfamily\englishfont[Script=Latin]{EB Garamond}
+\setmainlanguage{english}
+\setotherlanguages{sanskrit}
+\setmainfont{EB Garamond} 
 \renewcommand{\baselinestretch}{.95}
-
-\pagenumbering{roman}
-
-%\usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
-\usepackage{graphicx} % support the \includegraphics command and options
-
+% Activate to begin paragraphs with an empty line rather than an indent
+%\usepackage[parfill]{parskip}
+% support the \includegraphics command and options:
+\usepackage{graphicx} 
+\usepackage{makeidx}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 
@@ -38,32 +89,69 @@ top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
 \fancyhead[CO]{}
 \renewcommand{\headrulewidth}{0pt}
 \cfoot{\thepage}
+
+% FOOTNOTES
 \renewcommand{\footnoterule}{}
-\renewcommand{\thepage}{\roman{page}}% Roman page numbers
 \usepackage[]{footmisc}
-\renewcommand{\footnotelayout}{\hspace{.5em}}% Here you can modify the spacing between the footnote number and the text of footnote; keep this value and \hangfootparindent value the same
+% Here you can modify the spacing between the footnote number and the text of footnote; keep this value and \hangfootparindent value the same
+\renewcommand{\footnotelayout}{\hspace{.5em}}
 
+%COMMANDS
+\newcommand{\mychapter}[2]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
+\newcommand{\mysection}[2]{\vskip1em\noindent\textbf{\Large #1}\label{#2}\vskip1em}
+\newcommand{\mysubsection}[2]{\vskip1em\noindent\textbf{\large #1}\label{#2}\hskip2em}
+\newcommand{\mysubsubsection}[2]{\vskip1em\noindent\textbf{#1}\label{#2}\hskip2em}
+\newcommand{\skt}[1]{\textit{#1}}
+\newcommand{\skttitle}[2]{\textsl{#1}\index{#2@\textsl{#1}}}
 
+\newcommand{\Vss}{\textsl{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}\index{Vrsasarasamgraha@\textsl{Vṛṣasārasaṃgraha}}}
+\newcommand{\Vssnonsl}{\textbf{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}\index{Vrsasarasamgraha@\textsl{Vṛṣasārasaṃgraha}}}
+\newcommand{\VSS}{{VSS}\index{Vrsasarasamgraha@\textsl{Vṛṣasārasaṃgraha}}}
+\newcommand{\MBh}{\textsl{Mahābhārata}\index{Mahabharata@\textsl{Mahābhārata}}}
 
+\newcommand{\CE}{{\footnotesize\textsc{ce}}}
+\newcommand{\bc}{{\footnotesize\textsc{bc}}}
+\newcommand{\AD}{{\footnotesize\textsc{ad}}}
+
+\newcommand{\hide}[1]{}
+%MISC
+\frenchspacing
+\makeindex 
+
+% not used, just an experiment
+\newcommand{\BisschopetalUtopia}{%
+{Bisschop \&\ Kafle \&\ Lubin 2021}%
+\newwrite\outputstream%
+\immediate\openout\outputstream=myfile.tmp%
+\immediate\write\outputstream{%
+Bisschop \&\ Kafle \&\ Lubin 2021: Bisschop, Peter C. \&\
+Kafle, Nirajan \&\ Lubin, Timothy. 
+\string\textsl{A Śaiva Utopia. The Śivadharma’s Revision of Brahmanical Varṇāśramadharma. Critical Edition, Translation \&\ 
+Study of the Śivāśramādhyāya of the Śivadharmaśāstra}. 
+No. I in Studies in the History of Śaivism. 
+Napoli: Università degli Studi di Napoli
+L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
+\immediate\closeout\outputstream
+}
 
 
 
 
 
 \begin{document}
-%\textenglish{
 
+\pagenumbering{roman}
 \thispagestyle{empty}
 \ \vskip5cm
 
+
 \begin{center}
 \textit{\large 
-	Vṛṣasārasaṃgraha, a text of the Śivadharma corpus}\\ 
+	The Vṛṣasārasaṃgraha, a text of the Śivadharma corpus}\\ 
 \vskip.3em	
  	A Critical Edition
 \vskip.3em	
 	Volume 1\\\end{center}
-
 \vfill
 \pagebreak
 
@@ -108,10 +196,15 @@ National de la Recherche Scientifique), Yuko Yokochi (Kyoto University)
 \includegraphics[scale=.3]{eu.png}
 
 \end{center}
-
-
-
 \pagebreak
+
+
+
+
+
+
+
+
 
 \thispagestyle{empty}
 \ \vskip3cm
@@ -131,14 +224,14 @@ XX??
 \vskip2cm
 
 \textit{\large 
-	Vṛṣasārasaṃgraha, a text of the Śivadharma corpus}\\ 
+	The Vṛṣasārasaṃgraha, a text of the Śivadharma corpus}\\ 
 \vskip.3em	
  	A Critical Edition
 \vskip.3em	
 	Volume 1\\
 \vskip1cm
 
-{\footnotesize  Csaba Kiss (ed)}
+{\footnotesize  Csaba Kiss}
 
 \vfill
 \includegraphics[scale=.2]{up.png}
@@ -176,6 +269,17 @@ Il presente volume è stato sottoposto al vaglio di due revisori anonimi
 
 
 \pagebreak
+
+
+
+
+
+
+
+
+
+
+
 \thispagestyle{empty}
 
 \begin{center}
@@ -193,9 +297,16 @@ Preface \dotfill \pageref{preface}
 
 Introduction \dotfill\  \pageref{introduction}
 
-Sanskrit text of Vṛṣasārasaṃgraha 1--12 \dotfill \pageref{skt-text}
+A Critical Edition of  Vṛṣasārasaṃgraha 1--12 \dotfill
+						\pageref{a-critical-edition-of-vss-1-12}
+						
+\hskip2em Witnesses \dotfill \pageref{witnesses}
 
-Translation of Vṛṣasārasaṃgraha 1--12  \dotfill \pageref{translation}
+\hskip2em Editorial policies \dotfill \pageref{editorial-policies}
+
+\hskip2em  Sanskrit text of Vṛṣasārasaṃgraha 1--12 \dotfill \pageref{skt-text}??
+
+Translation of Vṛṣasārasaṃgraha 1--12  \dotfill \pageref{annotated-translation}
 
 Index \dotfill \pageref{index}
 
@@ -204,9 +315,23 @@ Bibliography \dotfill \pageref{bibliography}
 
 \vfill
 \pagebreak
+
+
+
+
+
+
+
+
+
+
+
 \thispagestyle{empty}
 \ 
 \pagebreak
+
+
+
 
 
 \thispagestyle{empty}
@@ -223,7 +348,7 @@ Bibliography \dotfill \pageref{bibliography}
 \noindent
 I am grateful to Alexis Sanderson, Dominic Goodall and 
 Harunaga Isaacson for initiating me into the philological 
-study of Śaiva Tantrism, and to Florinda De Simini for
+study of Śaivism, and to Florinda De Simini for
 encouraging me to apply for a position in her 
 \textsc{\hbox{śivadharma} project} (ERC no.\thinspace 803624),
 for sharing with me all the relevant manuscript material and
@@ -232,48 +357,30 @@ generous way through difficult Covid-affected years.
 Working on the \textsl{Vṛṣa\-sāra\-saṃgraha}, 
 I have been also affiliated with another ERC project, 
 the \textsc{dharma project} (ERC no.\thinspace 809994), 
-and I'm grateful to all my colleagues involved: to
-Arlo Griffith, Emmanuel Francis, Annette\linebreak Schmiedchen, 
+and I'm grateful to all my colleagues involved including
+Arlo Griffith, Emmanuel Francis, Annette Schmiedchen, and
 Dániel Balogh.
 
-During my visiti to the National Archives in Kathmandu,
-the staff were helpful and professional. I wish to express my
-thanks to Jyoti Neupane, Manita Neupane, Saubhagya
-Pradhananga, Rubin Shrestha, Sahan Ranjitkar, and all %sribin7501@gmail.com
-other members. Sushmita Das made great efforts to
-acquire the manusctipts in Calcutta.
+During my visit to the National Archives in Kathmandu, 
+the staff were helpful and professional. I wish to express my thanks to Jyoti Neupane, Manita Neupane, Saubhagya Pradhananga, Rubin Shrestha, Sahan Ranjitkar, and all %sribin7501@gmail.com
+other members. Sushmita Das made great efforts to acquire the manuscripts in Calcutta.
 
-My colleagues and friends working in Naples or visiting Naples 
-for shorter periods have helped me on a daily
-basis, during our regular reading sessions and in every other possible
-way, and I am thankful to them: to Florinda De Simini, Nirajan Kafle,
-Kengo Harimoto, Giulia Buriola, Alessandro Battistini, Lucas den Boer,
-Torsten Gerloff, Kenji Takahashi, Francesco Sferra, Dorotea Operato,
-Daniela Cappello, Michael Bluett,\linebreak
-Marco Franceschini, Martina Dello Buono, Chiara Livio, Margherita\linebreak Trento, Nina Mirnig, Timothy Lubin,
-SAS Sarma, R.\thinspace Sathyanarayanan, and others.
+My colleagues and friends working in Naples or visiting Naples for shorter periods helped me on a daily basis, during our regular reading sessions and in every other possible way, and I am thankful to them: to Florinda De Simini, Nirajan Kafle, Kengo Harimoto, Giulia Buriola, Alessandro Battistini, Lucas den Boer, Torsten Gerloff, Kenji Takahashi, Francesco Sferra, Dorotea Operato, Daniela Cappello, Michael Bluett, Marco Franceschini, Martina Dello Buono, Chiara Livio, Margherita Trento, Nina Mirnig, Timothy Lubin, SAS Sarma, R.\thinspace Sathyanarayanan, and others.
 % students in Naples?
 
-Colleagues I have known for countless years, 
-such as Judit Törzsök, Dominic Goodall, Harunaga
-Isaacson, Csaba Dezső and Gergely Hidas, are always the first to help 
-my work and support me in every possible way.
+Colleagues I have known for countless years, such as Judit Törzsök, Dominic Goodall, Harunaga Isaacson, Csaba Dezső 
+and Gergely Hidas, are always the first
+to help my work and support me in every possible way.
 
-I am infinitely grateful for my family for always supporting me unwaveringly.
+I am infinitely grateful to my family for always supporting me unwaveringly.
 
 \bigskip
 
 \noindent
 {\footnotesize
-The present publication is a result of the project 
-\textsc{dharma} `The Domestication of ``Hindu'' Asceticism and the Religious Making of South and Southeast Asia'. 
-This project has received funding from the European
-Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement 
-no.\thinspace 809994).
-``This book reflects the views of the author only. 
-The funding body is not responsible for any use that may be made
-of the information contained therein.%
-}
+The present publication is a result of the project \textsc{dharma} `The
+Domestication of ``Hindu'' Asceticism and the Religious Making of South and Southeast Asia'.  This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no.\thinspace 809994).  This book reflects the views of the author only.  The funding body is not responsible for any use that
+may be made of the information contained therein.}
 
 %CHECK what to add for the Śivadharma project?
 
@@ -281,11 +388,8 @@ of the information contained therein.%
 \pagebreak
 
 
-\begin{center}
-{\Large Preface}
-\vskip.4cm
-\end{center}
-\label{preface}
+
+\mychapter{Preface}{preface}
 
 How to deal with the problem of info distributed in two volumes?
 
@@ -293,42 +397,40 @@ How to deal with the problem of info distributed in two volumes?
 \pagebreak
 
 
-\fancyhead[CE]{{\footnotesize Csaba Kiss}}
+\fancyhead[CE]{{\footnotesize \textit{Vṛṣasārasaṃgraha}}}
 \fancyhead[CO]{{\footnotesize \textit{Introduction}}}
 
-\begin{center}
-	{\Large Introduction}
-\end{center}
-\label{introduction}
 
 
+\mychapter{Introduction}{introduction}
+\thispagestyle{empty}
+\frenchspacing
 
-{%
-\subsection{On the contents of the
-VSS}\label{on-the-contents-of-the-vss}}
 
-{%
-\subsubsection{On the title}\label{on-the-title}}
+\mysubsection{On the contents of the \Vssnonsl}{on-the-contents-of-the-vss}
 
-The main question concerning the title Vṛṣasārasaṃgraha (`A Compendium
-on the Essence of the Bull {[}of Dharma{]}') is weather the bull in the
-title is only a reference to a representation of Dharma or also a hint
-at Śiva's vehicle, sometimes named Nandi.
 
-Dharma has frequently been referred to as a bull in Sanskrit literature
-from at least the time of the MBh, e.g.~in this passage:
+\mysubsubsection{On the title}{on-the-title}
+The main question concerning the title
+\skttitle{Vṛṣasārasaṃgraha}{Vrsasarasamgraha} (`A Compendium on the Essence of the Bull [of Dharma]') is weather the bull in the title is only a reference to a representation of Dharma or also a hint at Śiva's vehicle, sometimes named Nandi.
 
-\begin{verbatim}
-    MBh on the 4-legged bull:
-    03188010a kṛte catuṣpāt sakalo nirvyājopādhivarjitaḥ
-    03188010c vṛṣaḥ pratiṣṭhito dharmo manuṣyeṣv abhavat purā
-    03188011a adharmapādaviddhas tu tribhir aṃśaiḥ pratiṣṭhitaḥ
-    03188011c tretāyāṃ dvāpare 'rdhena vyāmiśro dharma ucyate
-    03188012a tribhir aṃśair adharmas tu lokān ākramya tiṣṭhati
-    03188012c caturthāṃśena dharmas tu manuṣyān upatiṣṭhati
-    03188013a āyur vīryam atho buddhir balaṃ tejaś ca pāṇḍava
-    03188013c manuṣyāṇām anuyugaṃ hrasatīti nibodha me
-\end{verbatim}
+Dharma has frequently been referred to as a (four-legged) 
+bull in Sanskrit literature from at least the time of the MBh. 
+See, e.g., this passage
+(\MBh\ 3.188.10--13):
+
+\begin{quote}
+{\footnotesize
+  \skt{kṛte catuṣpāt sakalo nirvyājopādhivarjitaḥ} |\\
+  \skt{vṛṣaḥ pratiṣṭhito dharmo manuṣyeṣv abhavat purā} || 10 ||\\
+  \skt{adharmapādaviddhas tu tribhir aṃśaiḥ pratiṣṭhitaḥ} |\\
+  \skt{tretāyāṃ dvāpare 'rdhena vyāmiśro dharma ucyate} || 11 ||\\
+  \skt{tribhir aṃśair adharmas tu lokān ākramya tiṣṭhati} |\\
+  \skt{caturthāṃśena dharmas tu manuṣyān upatiṣṭhati} || 12 ||\\
+  \skt{āyur vīryam atho buddhir balaṃ tejaś ca pāṇḍava} |\\
+  \skt{manuṣyāṇām anuyugaṃ hrasatīti nibodha me} || 13 ||\\
+  }
+\end{quote}
 
 Manusmṛti also confirms this (8.16a): vṛṣo hi bhagavān dharma.
 
@@ -363,7 +465,9 @@ nārada\textbar{}\textbar{}
 tak2015/AtmapujaT55Muktabodha.dn: dharmas tatra vṛṣākāro jñānaḥ
 siṃhasvarūpakaḥ \textbar{} vairāgyaṃ
 
-On the title, see De Simini 2016:238 n.~13: `'As noted by Sanderson
+On the title, see 
+\mycite{DeSiminiMSSFromNepal2016} (238, n.\thinspace 13):
+ `'As noted by Sanderson
 {[}\ldots{}{]}, this title can have a double meaning, since the `bull'
 (vṛṣa) is both a synonym of `religious practice' and the traditional
 mount (vāhana) of Śiva. i.e.~Sanderson (Forthc. b), Śaivism and
@@ -392,9 +496,52 @@ one of the works of the Śivadharma corpus (see, e.g., \textsc{Sanderson}
 2014, p.~2), i.e., `Summary of the Essentials of the
 {[}Śiva{]}dharma'.''
 
-{%
-\subsubsection{The structure of the
-VSS}\label{the-structure-of-the-vss}}
+
+\mysubsubsection{Vṛṣadeva's commission?}{vrsadeva}
+As a fanciful experiment, and if one supposes that the 
+\VSS\ originated in Nepal, one could wonder if the 
+title \Vss\ has anything to do with the Licchavi king
+Vṛṣadeva.
+\citeauthor{SandersonSaivaAge} 
+(\citeyear{SandersonSaivaAge}, 74) mentions that  
+Vṛṣadeva is ``described in an inscription of his eighth-century 
+descendant Jayadeva as having inclined towards Buddhism;''
+(\mycitep{Vajracarya1973}{148, l. 9}: 
+\skt{sugataśāsanapakṣapātī}) 
+``a view conﬁrmed by a local chronicle, which attributes to
+him the establishing of Buddhist images,''
+%fn: Lévi 1990, vol. 2, p. 98.
+and that this king established 
+``the Caitya of the Sı̄nagu-vihāra (the Svayambhūnāth Caitya).''
+More importantly, Sanderson summarises the 
+information to be found in the 
+Changu Narayana Pillar Inscription (east shaft),%
+		\footnote{Gnoli etc. and 
+		https://siddham.network/inscription/in02001/} 
+namely that Vṛṣadeva was the great-grandfather of Mānadeva, whose
+``dated inscriptions range in date from 459 to 505/6 [\CE]''
+(\mycitep{SandersonSaivaAge}{75}).%
+	   \footnote{Vṛṣadeva was succeeded by Śaṅkaradeva and
+	   		            Dharmadeva.}
+This would place 
+the reign of Vṛṣadeva around 400\CE. 
+The early fifth century may look too early for the date of composition
+of the \Vss, and any connection between this king
+and the text is impossible to prove at the moment, 
+but it is equally impossible to reject any connection, 
+and if there were one, it would give some explanation for the slightly
+unusual nature of the title.
+\hide{
+%https://siddham.network/inscription/in02087/
+%https://siddham.network/inscription/in02087/?section=translation
+%https://siddham.network/inscription/in02002/
+%https://siddham.network/inscription/in02001/
+%https://infogalactic.com/info/Licchavi_(kingdom):
+}
+
+Petech 1984:80 Vṛttasārasaṃgraha = Vṛṣasārasaṅgraha
+
+\mysubsubsection{The structure of the VSS}{the-structure-of-the-vss}
 
 \begin{verbatim}
 - Matryoshka 
@@ -521,7 +668,7 @@ corpus}\label{the-role-of-the-vss-in-the-ux15bivadharma-corpus}}
   was the son of Arjuna's son Abhimanyu) {[}"SBr.{]} xi, xīi AitBr.
   "Sāṅkhir. xvi {[}MBh.{]} \&c.;
 \item
-  Bisschop 2018:2: ``The full text of the corpus was first published by
+  \mycitep{bisschop_universal_2018}{2}: ``The full text of the corpus was first published by
   Naraharinātha in 1998, while over the past few years several scholars
   have started to work on individual parts of the corpus or referred to
   them in their studies. See, in particular, Acharya 2009; Bisschop
@@ -594,7 +741,7 @@ corpus}\label{the-role-of-the-vss-in-the-ux15bivadharma-corpus}}
   \item
     the archaic yoga of chapter 10 (no Piṅgalā), Śaiva
   \item
-    order of āśramas, cf.~Śaiva Utopia p23, Chapter 11, Śaiva
+    order of āśramas, cf. \mycitep{saiva_utopia2021}{23}, Chapter 11, Śaiva
   \item
     11.23a: 4 kalās (nivṛttyādi caturvedaś), instead of the later 5,
     Śaiva
@@ -644,7 +791,8 @@ chapters}\label{interpretation-of-chapters}}
   śivaś ca paratas tataḥ \textbar{}\textbar{} 45 \textbar{}\textbar{}
   saptaviṃśatimaḥ śāntaḥ susūkṣmaḥ parameśvaraḥ \textbar{}
   svargāpavargayor dātā taṃ vijñāya vimucyate \textbar{}\textbar{} 46
-  \textbar{}\textbar{}. yamas-niyamas: see table in Śaiva Utopia p17
+  \textbar{}\textbar{}. yamas-niyamas: see table in 
+  \mycitep{saiva_utopia2021}{17}
 \item
   other Why is this mentioned at
   http://cudlḷib.cam.ac.uk/view/MS-ADD-01694-00001/403 : C., Kunhan
@@ -662,27 +810,36 @@ chapters}\label{interpretation-of-chapters}}
   digression on the topic of caturāśrama (vikalpa type, not krama type),
   and the author denies caturāśrama idea.''
 \item
-  MSS: see Bisschop Universal \ldots{} pp.~52--53; De Simini \& Mirnig
+  MSS: see \mycitep{bisschop_universal_2018}{52--53}; 
+  De Simini \& Mirnig
   pp.~587, 591 \% ``a stable element of the corpus''
 \item
   Vindicate your edition: look at the apparatus, all the Ed entries
 \end{itemize}
 
-{%
-\section{Notes on the language}\label{notes-on-the-language}}
 
+
+\vfill
+\pagebreak
+
+
+\mysection{Notes on the language}{notes-on-the-language}
+
+\noindent
 The language of the VSS goes beyond the idiosyncrasies of epic Sanskrit.
-It exhibits strong similarities to Śaiva Aiśa Sanskrit,\footnote{See
-  Goodall, Törzsök, Hatley, Kiss, Meyr?} and it applies particular
-metrical licences and uses a special vocabulary, morphology and syntax.
-The analysis of this language may lead us to the author(s) and to the
+It exhibits strong similarities to Śaiva Aiśa Sanskrit,% 
+		\footnote{See Goodall, Törzsök, Hatley, Kiss, Meyr?} 
+and it applies particular metrical licences and 
+uses a special vocabulary, morphology and syntax.
+The analysis of this language, ideally, could lead us to the 
+author(s) or redactors of the text and to its
 place of composition. Here I only give a brief overview of the most
-important phenomena. For details see the Notes on the constitution of
-the Sanskrit text and the Index.
+important phenomena. For details see the observatoins 
+on the constitution of the Sanskrit text in the footnotes 
+to the translation (pp. ??), as well as the Index.
 
-{%
-\subsection{Metre}\label{metre}}
 
+\mysubsection{Metre}{metre}
 As regards metrical licences, the first striking feature is the generous
 use of the poetic licence sometimes labelled `muta cum
 liquida,'\footnote{For recent contributions on this phenomenon, see
@@ -697,11 +854,10 @@ pra, and also śya, śva, sva, dva, all involving conjunct consonants with
 a liquid sounds or semi-vowels in second position, and possibly also
 rpa,CHECK! seem additional ones.
 
-The well-known author on prosody, Kedārabhaṭṭa, who must definitely be
-much later than the time of composition of the VSS since he is
+The well-known author on prosody, Kedārabhaṭṭa (11-12th centuries),%
+		\footnote{SOURCE}	 
 frequently quoted by Mallinātha, gives the following definition in his
-Vṛttaratnākara (here given together with Sulhana's Sukavihṛdayanandinī
-commentary):
+\skttitle{Vṛttaratnākara}{Vrttaratnakara} (here given together with Sulhaṇa's \skttitle{Sukavihṛdayanandinī}{Sukavihrdayanandini} commentary):
 
 \begin{quote}
 \emph{padādāv iha varṇasya saṃyogaḥ kramasaṃjñikaḥ} \textbar{}\\
@@ -798,20 +954,20 @@ the VSS and from my emendations. CHECK
   \%https://groups.google.com/forum/\#!topic/bvparishat/ya1cGLuhc14/discussion
 \end{itemize}
 
-{%
-\subsection{Vocabulary}\label{vocabulary}}
+
+\mysubsection{Vocabulary}{vocabulary}
 
 \begin{itemize}
 
 \item
   Special vocabulary/language: karhacit, hṛdi as nominative 10.27cd,
-  tirya, me as mayā
+  tirya, me as mayā, āhūtaplavana
 \item
   generate list from index
 \end{itemize}
 
-{%
-\subsection{Number and gender}\label{number-and-gender}}
+
+\mysubsection{Number and gender}{number-and-gender}
 
 \begin{itemize}
 
@@ -819,8 +975,8 @@ the VSS and from my emendations. CHECK
   Number: singular next to numerals, and general confusion (CHECK)
 \end{itemize}
 
-{%
-\subsection{Syntax}\label{syntax}}
+
+\mysubsection{Syntax}{syntax}
 
 \begin{itemize}
 
@@ -828,8 +984,8 @@ the VSS and from my emendations. CHECK
   Special structures: caturmaunasya vakṣyāmi indreṇāsmi phalaṃ dattaṃ
 \end{itemize}
 
-{%
-\subsection{Stem form nouns}\label{stem-form-nouns}}
+
+\mysubsection{Stem form nouns}{stem-form-nouns}
 
 \begin{itemize}
 \item
@@ -837,23 +993,40 @@ the VSS and from my emendations. CHECK
 \item
   a more or less full collation is important: we cannot automatically
   reject `ungrammatical' or unmetrical forms because they may well be
-  the `original' one Manuscripts consulted ---------------------
+  the `original' one
 \end{itemize}
 
-{%
-\subsection{Witnesses}\label{witnesses}}
 
+
+
+\vfill
+\pagebreak
+
+
+\mychapter{A Critical Edition\\ \vskip.3em of\\ \vskip.6em Vṛṣasārasaṃgraha 1--12}{a-critical-edition-of-vss-1-12}
+
+\vfill
+\pagebreak
+\mysection{Witnesses}{witnesses}
+\frenchspacing
+
+\noindent
 In the manuscript descriptions below, in addition to some general
 remarks, I will mainly focus on information relevant to the VSS. For
-much more detail on the overall features of these manuscripts, see De
-Simini 2016 {[}CHECK SDh MSS from Nepal{]} and the catalogues I mention
-at each individual manuscript.\footnote{I owe thanks to Florinda De
-  Simini for sharing with me most of the manuscripts listed here, to
-  Kengo Harimoto and Gudrun Melzer (Munich) for providing photos of the
-  Munich MS, and to Nirajan Kafle for sharing the Paris MS with me.}
+much more detail on the overall features of these manuscripts, see 
+\mycite{DeSiminiMSSFromNepal2016} and the catalogues I mention
+at each individual manuscript.%
+		\footnote{I owe thanks to Florinda De Simini for 
+			sharing with me most of the manuscripts listed here, to
+  			Kengo Harimoto and Gudrun Melzer (Munich) for 
+  			providing photos of the  Munich MS, and to 
+  			Nirajan Kafle for sharing the Paris MS with me.}
 
 In recently published and forthcoming critical editions of and articles
-on the Śivadharma corpus (CHECK examples), the sigla of the manuscripts
+on the Śivadharma corpus 
+(e.g. \mycite{bisschop_universal_2018} and 
+\mycite{saiva_utopia2021}), 
+the sigla of the manuscripts
 used are made up of a letter signifying the script (e.g.~`N' for
 Nepālākṣara/Newari), a superscript letter for the current location where
 the manuscript is deposited (e.g.~`C' for Cambridge), and two (sometimes
@@ -861,48 +1034,42 @@ only one or even three) subscript digits echoing the last digit(s) of
 the reference number of the manuscript in the library where it is
 located or, in the case of NGMPP reel numbers, the last two digits of
 the first part of the reel number. For details of this system and for
-the underlying reasons, see Bisschop 2018b, 50--51 (UnivŚ). Since in the
-case of the Vṛṣasārasaṃgraha all available manuscripts use some variants
+the underlying reasons, see 
+\mycitep{bisschop_universal_2018}{50--51}. 
+Since in the case of the Vṛṣasārasaṃgraha all available manuscripts use some variant
 of the Nepālākṣara script, in this publication I have left the first
 letter out, making the letter for the current location non-superscript.
-This makes the apparatus more readable. In the manuscript descriptions
+This keeps the apparatus more readable. In the manuscript descriptions
 below, I give this implied `N' in brackets as a reminder.
 
 {The Edition by Naraharinath}
 
 {CHECK remaining ones}
 
-{%
-\section{How to describe a MS?}\label{how-to-describe-a-ms}}
 
-In general these categories should be included: - {[}X{]} Siglum - {[}
-{]} Location where it is deposited - {[} {]} Ms no. - {[} {]} How much
-do I use it? - {[} {]} Catalogued by and where and under what no., with
-what title - {[} {]} what does the catalogue says - {[} {]} Physical: -
-{[} {]} material - {[} {]} dimensions - {[} {]} no of folios - {[} {]}
-condition - {[} {]} format, binding - {[} {]} Text - {[} {]} script -
-{[} {]} contains these texts - {[} {]} complete - {[} {]} language
-(implied) - {[} {]} MTM? - {[} {]} foliation - {[} {]} hands - {[} {]}
-initial rubric, incipit, explicit, final rubric (in edition) - {[} {]}
-colophons (in edition) - {[} {]} dating - {[} {]} description in detail,
-remarks
+%\section{How to describe a MS?}\label{how-to-describe-a-ms}
 
-{%
-\section{The Cambridge Manuscripts}\label{the-cambridge-manuscripts}}
+%In general these categories should be included: - {[}X{]} Siglum - {[} {]} Location where it is deposited - {[} {]} Ms no. - {[} {]} How much do I use it? - {[} {]} Catalogued by and where and under what no., with what title - {[} {]} what does the catalogue says - {[} {]} Physical: - {[} {]} material - {[} {]} dimensions - {[} {]} no of folios - {[} {]} condition - {[} {]} format, binding - {[} {]} Text - {[} {]} script - {[} {]} contains these texts - {[} {]} complete - {[} {]} language (implied) - {[} {]} MTM? - {[} {]} foliation - {[} {]} hands - {[} {]} initial rubric, incipit, explicit, final rubric (in edition) - {[} {]} colophons (in edition) - {[} {]} dating - {[} {]} description in detail, remarks
 
-{%
-\subsection{(N)C94}\label{nc94}}
+\mysubsection{The Cambridge Manuscripts}{the-cambridge-manuscripts}
 
+\noindent
+\mysubsubsection{(N)C$_{94}$}{nc94}
 Cambridge University Library, Add. 1694.1. Fully collated for chapters
 1--12 of the critical edition in this volume. See a detailed description
 of this manuscript at the CUL online catalogue.\footnote{https://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/382}
-According to this catalogue, the date of creation is the 12th century,
-the dimensions of the manuscript are 5cm × ca. 53.5cm. The script is
+According to this catalogue, the date of creation of this manuscript 
+is the 12th century, its dimensions are 5 × ca. 53.5 cm. The script is
 Nepālākṣara. It is a palm-leaf multiple-text manuscript containing 258
-folios. Eight texts are transmitted in this manuscript: 1)
-Śivadharmaśāstra 2) Śivadharmottara 3) Śivadharmasaṃgraha 4)
-Umāmaheśvarasaṃvāda 5) Uttarottaramahāsaṃvāda 6) Vṛṣasārasaṃgraha 7)
-Dharmaputrikā 8) Śivopaniṣad.
+folios and transmitting eight texts: 
+1) \skttitle{Śivadharmaśāstra}{Sivadharmasastra} 
+2) \skttitle{Śivadharmottara}{Sivadharmottara} 
+3) \skttitle{Śivadharmasaṃgraha}{Sivadharmasamgraha} 
+4) \skttitle{Umāmaheśvarasaṃvāda}{Umamahesvarasamvada} 
+5) \skttitle{Uttarottaramahāsaṃvāda}{Uttarottaramahasamvada} 
+6) \skttitle{Vṛṣasārasaṃgraha}{Vrsasarasamgraha}
+7) \skttitle{Dharmaputrikā}{Dharmaputrika} 
+8) \skttitle{Śivopaniṣad}{Sivopanisad}.
 
 The VSS occupies 45 folios: it starts on f.~193 (the recto side, online
 image no. 381, is an empty folio side, the text itself starts on the
@@ -910,18 +1077,16 @@ verso side); it ends on f.~239r (and not 193r, as the online description
 says; online image no. 472). The text of the VSS is transmitted fully,
 without any folios or major sections of the text missing. The leaves
 transmitting the VSS are well-preserved. Some folio sides are faded and
-most folios are somewhat damaged on the right side, sometimes at other
-parts, and it seems from the images that some opaque-looking tape has
-been applied to protect these damaged sections. In my critical edition
+most folios are somewhat damaged on the right side, sometimes at other parts, and it seems from the images that some opaque-looking tape has been applied to protect these damaged sections. 
+In my critical edition
 the broken off, completely lost, \emph{akṣara}s are represented by ×,
 the illegible \emph{akṣara}s under the tape by ¤ (`illegible'). The
 quality of the readings of this manuscript is one of the best,
 comparable only to msNa and msP, making it one of the most important
 sources for the VSS.
 
-{%
-\subsection{(N)C45}\label{nc45}}
 
+\mysubsubsection{(N)C$_{45}$}{nc45}
 Cambridge University Library, Add. 1645. Fully collated for chapters
 1--12 of the critical edition in this volume. See a detailed description
 of this manuscript at the CUL online catalogue.\footnote{https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/404}
@@ -958,14 +1123,14 @@ The VSS occupies 37 folios plus one folio side: it starts on f.~201v
 line 4 (online image no. 404), it ends on f.~238v line 3 (online image
 no. 478). The readings of this manuscript seem to follow those of msNa
 remarkably closely transmitting the Śivadharmottara (as observed by De
-Simini and Harimoto.\footnote{Personal communication, 1 Dec 2021.} This
+Simini and Harimoto)\footnote{Personal communication, 1 Dec 2021.}. This
 is more difficult to see in the VSS, but indeed, they seem closely
 related. CHECK MORE on this
 
-{%
-\subsection{(N)C02}\label{nc02}}
 
-Cambridge University Library, Add. 2102. Palm-leaf, 96 folios. Fully
+\mysubsubsection{(N)C$_{02}$}{nc02}
+Cambridge University Library, Add.\thinspace 2102. 
+Palm-leaf, 96 folios. Fully
 collated all available folios for chapters 1--12 of the critical edition
 in this volume. See a detailed description of this manuscript at the CUL
 online catalogue.\footnote{https://cudl.lib.cam.ac.uk/view/MS-ADD-02102/181}
@@ -1023,17 +1188,14 @@ concluding colophon \emph{vṛṣasārasaṅgraha samāpta iti}. This folio also
 contains the beginning of the \emph{Dharmaputrikā}, but this
 multiple-text manuscript contains no more folios.
 
-{%
-\section{The Kathmandu Manuscripts}\label{the-kathmandu-manuscripts}}
 
-{%
-\subsection{(N)K82}\label{nk82}}
+\mysubsection{The Kathmandu Manuscripts}{the-kathmandu-manuscripts}
 
+\mysubsubsection{(N)K$_{82}$}{nk82}
 NGMPP A 1082/3, NAK 3/393. Fully collated for chapters 1--12 of the
 critical edition in this volume. See a brief description of this MS in
 the NGMCP online catalogue.\footnote{https://catalogue.ngmcp.uni-hamburg.de/receive/aaingmcp\_ngmcpdocument\_00098499}
-According to this catalogue, the dimensions of the manuscript are 55.6cm
-x 5.5cm. Dated to NS 189 (1068--69 CE).\footnote{F. 12r line 2 of the
+According to this catalogue, the dimensions of the manuscript are 55.6cm × 5.5cm. Dated to NS 189 (1068--69 CE).\footnote{F. 12r line 2 of the
   \emph{Dharmaputrikā}: \emph{navottarāsītiyute sate bde āsāḍhaśuklasya
   tithau tṛtīye}, translated by De Simini 2016, 252 n.~49 (NMSS) as: `in
   {[}the year{]} 189, in the 3rd lunar day of the bright {[}fortnight{]}
@@ -1051,9 +1213,8 @@ spans fols.~1v--46r. This is a beautifully written and well-preserved
 manuscript which gives very useful readings and has proved to be
 essential for the reconstruction of the Vṛṣasārasaṃgraha.
 
-{%
-\subsection{(N)K10}\label{nk10}}
 
+\mysubsubsection{(N)K$_{10}$}{nk10}
 NGMPP A 10/5, NAK 1/1261. Fully collated for chapters 1--12 of the
 critical edition in this volume. See a brief description of this MS in
 the NGMCP online catalogue.\footnote{https://catalogue.ngmcp.uni-hamburg.de/receive/aaingmcp\_ngmcpdocument\_00085264}
@@ -1089,9 +1250,8 @@ contains 4.30ab--47ab, the upper one 47d--68a. And so on so forth. Thus
 when reading the text from these images, after exp. 48, one has to start
 with the lower leaf and continue with the upper one.
 
-{%
-\subsection{(N)K7}\label{nk7}}
 
+\mysubsubsection{(N)K$_7$}{nk7}
 NGMPP B 7/3 = A 1082/2, NAK 1/1075. Fully collated for chapters 1--12 of
 the critical edition in this volume. See a brief description of this MS
 in the NGMCP online catalogue.\footnote{https://catalogue.ngmcp.uni-hamburg.de/receive/aaingmcp\_ngmcpdocument\_00062373}
@@ -1106,9 +1266,8 @@ Dharmaputrikā.
 It is a nicely written manuscript, giving generally good readings. Fols.
 209v--264v contain the VSS.
 
-{%
-\subsection{(N)K3}\label{nk3}}
 
+\mysubsubsection{(N)K$_3$}{nk3}
 NGMPP A 3/3 (= A 1081/5), NAK 5-737. Collated only for verses 1.1--15
 CHECK. See a brief description of this MS in the NGMCP online
 catalogue.\footnote{http://catalogue-old.ngmcp.uni-hamburg.de/mediawiki/index.php/A\_3-3\_\%C5\%9Aivadharma
@@ -1169,8 +1328,8 @@ manuscript, see the record in the NGMCP online catalogue:
 \textless{}http://catalogue.ngmcp.uni-hamburg.de/wiki
 /A\_1365-3(1)\_Śivopaniṣad\textgreater{} ASK*
 
-{%
-\section{The Kolkata MSS}\label{the-kolkata-mss}}
+
+\mysubsection{The Kolkata MSS}{the-kolkata-mss}
 
 Should get hold of the VSS part because Peter B and Kengo says a bit
 diff. transmission The Tübingen MS
@@ -1184,10 +1343,8 @@ G 4077. Palm leaf, Newari script, dated [Nepāla]
 Saṃvat 156 (1035--36 CE). 52 folios
 \end{verbatim}
 
-{%
-\section{The London MS}\label{the-london-ms}}
 
-
+\mysubsection{The London MS}{the-london-ms}
 
 -- WI δ 16 (I--VIII). Paper, 406 folios. Contents: Śivadharmaśāstra
 (serial no. 634), fols.~1v--63r; Śivadharmottara (s. no. 635),
@@ -1201,8 +1358,8 @@ the Library of the Wellcome Institute for the History of Medicine,
 vol.~1. London, The Wellcome Institute for the History of Medicine.
 DIRECT COPY of CHECK A82
 
-{%
-\section{The Oxford MS}\label{the-oxford-ms}}
+
+\mysubsection{The Oxford MS}{the-oxford-ms}
 
 Bodl. Or. B 125{[}? Sansk. a. 15{]}. Palm-leaf, dated to NS 307
 (1186--87 CE), 335 folios. Contents: Śivadharmaśāstra (fols.~1v 1--15v1
@@ -1211,8 +1368,8 @@ Bodl. Or. B 125{[}? Sansk. a. 15{]}. Palm-leaf, dated to NS 307
 (fols.~198v--219v); Uttarottaramahāsaṃvāda (fols.~220v--247r);
 Vṛṣasārasaṃgraha (fols.~248v--299r); Dharmaputrikā (fols.~300v--312r).
 
-{%
-\section{The Munich MS}\label{the-munich-ms}}
+
+\mysubsection{The Munich MS}{the-munich-ms}
 
 Kengo got it in Munich on 16 Nov 2021. VSS starts in 411.jpg `cover'
 {[}411.jpg{]}: \textbar{}\textbar{}w\textbar{}\textbar{}
@@ -1230,34 +1387,44 @@ that says vṛṣasārasaṅgraha but it is actually 50 verso'' samvat 282?
 {[}that would be 1161 CE, or is it 292? = 1171 CE{]} No, maybe 192! see
 Kengo's notes! = 1070 CE
 
-{%
-\section{NP57}\label{np57}}
+
+\mysubsection{The Paris Manuscript}{paris-ms}
+
+\mysubsubsection{(N)P$_{57}$}{np57}
+This is a multiple-text palm-leaf manuscript written in 
+Nepālākṣara script and preserved in the 
+Collection Sylvain Lévi at the Institut d'études
+indiennes, Collège de France as MS Skt 57-B 23. 
+It contains 249 palm leaves, each folio containing six lines. 
+Folios 214 and 216, are missing from the 
+part of the manuscript that transmits the VSS,
+thus we don't have verses 1.60d--2.21ab, as well as
+3.14--42 and 4.1--7.
+%also 3, 8, 47, 48, 135, 197, .
+%Folio 215v ends with \skt{kautūhalam atī} in 3.14a and the next available folio starts with \skt{tyam iṣṭagatiḥ proktaṃ} in 4.8a. This means that verses 3.14--42 and 4.1--7 of the VSS, altogether 36 verses are missing. This is indeed approximately the number of verses that two folio sides contain.
+Foliation is in the verso: on middle of the left-hand margin in
+combination of Newari letters and in the middle of right-hand in arabic
+numerals by a second hand. 
+%There are two binding holes: one in the centre
+%left and one in the centre right. 
+The manuscript damaged in margins with considerable loss of the text.?? The text is written in a clear hand and contains few mistakes. Although it is undated manuscript, it could be dated to the 11th century AD on palaeographical grounds. It contains the following text in the order they are presented in the manuscript:
+Śivadharmaśāstra (fols.~1--40), 
+Śivadharmottaraśāstra (fols.~40--93), 
+Śivadharmasaṃgraha (fols.~94--142), 
+Umāmaheśvarasaṃvāda (fols.~143--172), 
+Śivopaniṣad (fols.~173-- 189), 
+Uttarottaramahāsaṃvāda (fols. 190--211), 
+Vṛṣasārasaṃgraha (fols.~212--252), 
+Dharmaputrikā (fols.~253--262). 
+This source contains reliable readings and contains
+few scribal mistakes.%
+	\footnote{This description had as its starting point a
+			          shorter description written and 
+			          shared with me by Nirajan Kafle.}
+%Śivāśramādhyāya covers fols.~33v4--37r3. Nirajan says it reads close to Naraharinātha's edition
 
 
-
-It is a multiple-text palm-leaf manuscript written in Newari script and
-preserved in de la collection Sylvain Lévi à l'Institut d'études
-indiennes, collège de France. The manuscript number is: MS. Skt. 57-B.
-23. It contains 249 palm leaves, each folio containing six lines. The
-following palm leaves are missing: 3, 8, 47, 48, 135, 197, 214 et 216.
-Foliation is in the verso: on middle of the lef-hand margin in
-combination of Newari letters and in the middle of right-hand in roman
-numbers by a second hand. There are two binding holes: one in the centre
-lef and one in the centre right. The manuscript is some times damaged in
-margins with considerable loos of the text. The text is written in a
-clear hand and contains few mistakes. Although it is undated manuscript,
-it could be dated to the 11th century AD on the palaeographical
-grounds.3 It contains the following text in the order they are presented
-in the manuscript: Śivadharmaśāstra (fols.~1--40), Śivadharmottaraśāstra
-(fols. 40--93), Śivadharmasaṃgraha (fols.~94--142), Umāmaheśvarasaṃvāda
-(fols.~143--172), Śivopaniṣad (fols.~173-- 189), Uttarottaramahāsaṃvāda
-(fols. 190--211), Vṛṣasārasaṃgraha (fols.~212--252), Dharmaputrikā
-(fols.~253--262). This source contains reliable readings and contains
-few scribble mistakes.Śivāśramādhyāya covers fols.~33v4--37r3. Nirajan
-says it reads close to Naraharinātha's edition
-
-{%
-\section{Naraharinath's edition}\label{naraharinaths-edition}}
+\mysection{Naraharinath's edition}{naraharinaths-edition}
 
 \begin{itemize}
 \item
@@ -1276,8 +1443,8 @@ says it reads close to Naraharinātha's edition
   Add.2836 no! + Or.726.
 \end{itemize}
 
-{%
-\subsubsection{Editorial policies}\label{editorial-policies}}
+
+\mysection{Editorial policies}{editorial-policies}
 
 \begin{verbatim}
 - orthography: deviant orth, sandhi, punctuation?
@@ -1289,26 +1456,34 @@ says it reads close to Naraharinātha's edition
 
 SDh MSS from Nepal
 
+
+\pagenumbering{arabic}
+
+
+
+
+\label{skt-text}
+
+\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
+
+
+
+%\mychapter{Notes on the Constituted Text}{notes-on-the-constituted-text}
+
+
+
+\mychapter{An Annotated Translation}{annotated-translation}
+
+%\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.pdf}
+\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex}
+
+
+
+
+
 {%
-\section{A Critical Edition of VSS
-1--12}\label{a-critical-edition-of-vss-112}}
-
-\ldots{} TO BE SUPPLIED
-
-{%
-\section{Notes on the Constituted
-Text}\label{notes-on-the-constituted-text}}
-
-\ldots{} TO BE SUPPLIED
-
-{%
-\section{An Annotated Translation}\label{an-annotated-translation}}
-
-\ldots{} TO BE SUPPLIED
-
-{%
-\section{Abbreviations and
-Bibliography}\label{abbreviations-and-bibliography}}
+\mychapter{Abbreviations and
+Bibliography}{abbreviations-and-bibliography}}
 
 \begin{itemize}
 
@@ -1336,24 +1511,38 @@ Bibliography}\label{abbreviations-and-bibliography}}
 
 \noindent
 \textsanskrit{\large 
-तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\\
-नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥\\
-को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\\
-धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ \\
-तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\\
-नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥\\
-को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\\
-धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ \\
-तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\\
-नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥\\
-को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\\
-धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ \\
-तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\\
-नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥\\
-को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\\
-धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ 
+%तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\\
+%नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥\\
+%को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\\
+%धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ \\
+%तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\\
+%नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥\\
+%को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\\
+%धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ \\
+%तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\\
+%नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥\\
+%को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\\
+%धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ \\
+%तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\\
+%नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥\\
+%को ऽन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\\
+%धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ 
 }
 
+%(\cite[see][13 ff.]{OlivelleGrhastha})
+
+
+
+% print biblio:
+\bibliographystyle{csaba2022}
+%\renewcommand*{\bibname}{References huhu}
+\label{bibliography}
+\bibliography{vssbiblio}
+
+
+\label{index}
+\renewcommand*{\indexname}{{\begin{center}\normalfont Index\end{center}}}
+\printindex
 
 
 \end{document}

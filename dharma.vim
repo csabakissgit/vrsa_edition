@@ -15,8 +15,8 @@ vnoremap <NL> dp   " the same downwards
 nnoremap <NL> :move+
 vnoremap  dkkp " for org: open subtree (if it's closed), close subtree, delete, move up, paste
 nnoremap  :move-2
-vnoremap <silent>  :w
 nnoremap <silent>  :w
+vnoremap <silent>  :w
 onoremap <silent>  :w
 xmap  <Plug>SpeedDatingDown
 nmap  <Plug>SpeedDatingDown
@@ -27,10 +27,14 @@ xnoremap K :move-2gv=gv
 map L $
 map Q gq
 nnoremap WW :w
+nmap <silent> [e <Plug>JumpDiffCharPrevEnd
+nmap <silent> [b <Plug>JumpDiffCharPrevStart
 nmap \caL <Plug>CalendarH
 nmap \cal <Plug>CalendarV
 nnoremap \m yiw:!grep -R --colour=always -e /home/csaba/indology/monier/mw_colored.xml 5T/2h i "^.....<pa" A | less -RF"h
 vnoremap \m y:!grep -R --colour=always -e /home/csaba/indology/monier/mw_colored.xml 45h i "^.....<pa"59la | less -R70h
+nmap <silent> ]e <Plug>JumpDiffCharNextEnd
+nmap <silent> ]b <Plug>JumpDiffCharNextStart
 vnoremap _f :!fmt -w60
 nnoremap _f :!fmt -w60
 nnoremap _w :VimwikiSplitLink
@@ -67,8 +71,11 @@ nnoremap msna a\msNa
 nnoremap mscc a\msCc
 nnoremap mscb a\msCb
 nnoremap msca a\msCa
+nnoremap <silent> <C-S> :w
 vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(expand((exists("g:netrw_gx")? g:netrw_gx : '<cfile>')),netrw#CheckIfRemote())
+nmap <silent> <F8> <Plug>ToggleDiffCharCurrentLine
+nmap <silent> <F7> <Plug>ToggleDiffCharAllLines
 nnoremap <silent> <Plug>CalendarT :cal calendar#show(2)
 nnoremap <silent> <Plug>CalendarH :cal calendar#show(1)
 nnoremap <silent> <Plug>CalendarV :cal calendar#show(0)
@@ -92,7 +99,6 @@ nnoremap <Up> <Nop>
 nnoremap <Right> :bn
 nnoremap <Left> :bp
 vnoremap <silent> <C-S> :w
-nnoremap <silent> <C-S> :w
 onoremap <silent> <C-S> :w
 vnoremap <C-J> dp   " the same downwards
 vnoremap <C-K> dkkp " for org: open subtree (if it's closed), close subtree, delete, move up, paste
@@ -132,6 +138,7 @@ set keymap=sanskrit
 set background=dark
 set backspace=indent,eol,start
 set backup
+set diffexpr=DiffCharExpr(200)
 set expandtab
 set fileencodings=ucs-bom,utf-8,default,latin1
 set guifont=Monospace\ 16
@@ -154,6 +161,7 @@ set undodir=~/.vim/undodir
 set undofile
 set wildignore=*/.git/*,*/tmp/*,*.swp,*~,*.log,#*
 set wildmenu
+set window=7
 let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
 let v:this_session=expand("<sfile>:p")
 silent only
@@ -223,7 +231,7 @@ let &cpo=s:cpo_save
 unlet s:cpo_save
 setlocal keymap=sanskrit
 setlocal noarabic
-setlocal autoindent
+setlocal noautoindent
 setlocal backupcopy=
 setlocal balloonexpr=
 setlocal nobinary
@@ -279,7 +287,7 @@ setlocal iminsert=1
 setlocal imsearch=-1
 setlocal include=
 setlocal includeexpr=
-setlocal indentexpr=XmlIndentGet(v:lnum,1)
+setlocal indentexpr=
 setlocal indentkeys=o,O,*<Return>,<>>,<<>,/,{,},!^F
 setlocal noinfercase
 setlocal iskeyword=@,48-57,_,192-255
@@ -343,12 +351,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 15) / 31)
+let s:l = 11795 - ((2 * winheight(0) + 3) / 6)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-1
-normal! 0
+11795
+normal! 08|
 tabnext 1
 badd +0 indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
@@ -362,7 +370,6 @@ if file_readable(s:sx)
   exe "source " . fnameescape(s:sx)
 endif
 let &so = s:so_save | let &siso = s:siso_save
-nohlsearch
 doautoall SessionLoadPost
 unlet SessionLoad
 " vim: set ft=vim :
