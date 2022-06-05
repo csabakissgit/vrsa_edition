@@ -1,0 +1,275 @@
+% PACKAGES
+\usepackage{fontspec} % Font selection for XeLaTeX; see fontspec.pdf for documentation
+\defaultfontfeatures{Ligatures=TeX, Mapping=tex-text} % to support TeX conventions like ``---''
+\usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
+%\defaultfontfeatures{Mapping=tex-text} % ditto
+%\usepackage{hyperref}
+%\usepackage{glossaries}
+\usepackage{polyglossia}
+%\newfontfamily\devanagarifont[Script=Devanagari]{Pedantic Indic}
+%\newfontfamily\devanagarifont[Script=Devanagari]{Sahadeva}
+\usepackage{xltxtra} % Extra customizations for XeLaTeX
+%\setsansfont{Deja Vu Sans}
+%\setmonofont{Deja Vu Mono}
+% other LaTeX packages.....
+\usepackage[total={11.7cm,20cm},
+top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+\usepackage{pdfpages}
+\usepackage{todonotes}
+
+
+% bibliography
+\usepackage{natbib}
+
+% notesep below is for the sep between year and page num
+\setcitestyle{authoryear, round, aysep={ },numbers,open={},close={},notesep={,\thinspace }}
+% to modify the appearance of the label (SANDERSON 2009) in the bibliography (get rid of []s):
+\makeatletter                         % Reference list option change
+\renewcommand\@biblabel[1]{#1:}      %   from [1] to 1.
+\makeatother      
+% Title of biblio
+%For book-classes: 
+%\newcommand{\UnexpandableProtect}{}
+\newcommand{\mycite}[1]{\citeauthor{#1} \citeyear{#1}}
+\newcommand{\mycitep}[2]{\citeauthor{#1} \citeyear{#1}, #2}
+
+% Finally! To hide the numbering in the Biblio 
+\makeatletter
+\renewcommand\@biblabel[1]{}
+\makeatother
+
+% to change indentation in the Bibliography
+\usepackage{enumitem}
+\makeatletter
+\renewenvironment{thebibliography}[1]
+     {\chapter*{Refs!}%
+     \fancyhead[CE]{}
+     \fancyhead[CO]{}
+     \@mkboth{header!}{header!}%
+      \begin{enumerate}[label={[\arabic{enumi}]},itemindent=-2em,leftmargin=2em]
+      \@openbib@code
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \end{enumerate}}
+\makeatother
+
+%INDEX
+\newcommand{\csindex}[1]{#1\index{#1}}
+\newcommand{\csindexx}[2]{#1\index{#1@#2}}
+\newcommand{\cskt}[2]{\skt{#1}\index{#2@\skt{#1}}}
+
+\tolerance=1000
+\hbadness=800
+\hfuzz=2pt
+
+% FONT STUFF
+\newfontfamily\devanagarifont[Script=Devanagari]{Noto Serif Devanagari}
+\newfontfamily\englishfont[Script=Latin]{EB Garamond}
+\setmainlanguage{english}
+\setotherlanguages{sanskrit}
+\setmainfont[
+  SmallCapsFont={Latin Modern Roman Caps}, 
+  Renderer=ICU,
+%  SmallCapsFeatures={Letters=SmallCaps},
+]{EB Garamond} 
+\renewcommand{\baselinestretch}{.95}
+% Activate to begin paragraphs with an empty line rather than an indent
+%\usepackage[parfill]{parskip}
+% support the \includegraphics command and options:
+\usepackage{graphicx} 
+\usepackage{makeidx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\fancyhead[CE]{}
+\fancyhead[CO]{}
+\renewcommand{\headrulewidth}{0pt}
+\cfoot{{\footnotesize\thepage}}
+
+
+% TOC
+\setcounter{secnumdepth}{0}
+% section titles
+\usepackage{titlesec}
+  \titleformat{\chapter}
+  {\normalfont\Huge\color{blue}}{%
+    %\hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+    %{\color{white}\hspace{-1cm}\normalfont\thesection\hspace{5pt}}
+  }{0em}{}
+ 
+  \titleformat{\section}
+  {\normalfont\Large\itshape\color{red}}{%
+  %  \hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+   % {\color{white}\hspace{-1cm}\normalfont\thesection\hspace{5pt}}
+  }{0em}{}
+
+  \titleformat{\subsection}
+  {\normalfont\large\itshape\color{red}}{%
+    \hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+    {\color{white}\hspace{-1cm}\normalfont\thesubsection\hspace{5pt}}
+  }{1em}{}
+  
+%\newcommand{\mychapter}[2]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
+\newcommand{\mychapter}[1]{\chapter*{#1}
+\addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{}#1}{}}}
+
+%\newcommand{\mysection}[2]{\vskip1em\begin{center}{\textsc{\large #1}}\end{center}\label{#2}\vskip1em}
+\newcommand{\mysection}[1]{\section{#1}
+\addtocontents{toc}{\protect\contentsline{section}{\protect\numberline{}#1}{}}}
+
+
+\newcommand{\mysubsection}[2]{\vskip1em\noindent\textit{#1}\label{#2}\\% 
+\noindent%
+}
+\newcommand{\mysubsubsection}[2]{\vskip1em\noindent{#1}\label{#2}\hskip2em}
+
+
+
+  
+% FOOTNOTES
+\renewcommand{\footnoterule}{}
+\usepackage[]{footmisc}
+% Here you can modify the spacing between the footnote number and the text of footnote; keep this value and \hangfootparindent value the same
+\renewcommand{\footnotelayout}{\hspace{.5em}}
+
+%COMMANDS
+\newcommand{\skt}[1]{\textit{#1}}
+\newcommand{\skttitle}[2]{\textsl{#1}\index{#2@\textsl{#1}}}
+
+
+%SMALL CAPS HACKS
+\newcommand\scR{r\kern-.35em\raisebox{-.17em}{.}\kern.15em}
+\newcommand\scS{s\kern-.35em\raisebox{-.17em}{.}\kern.13em}
+\newcommand\scM{m\kern-.5em\raisebox{-.17em}{.}\kern.25em}
+
+
+
+\newcommand{\Vss}{\textsl{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}\index{Vrsasarasamgraha@\textsl{Vṛṣasārasaṃgraha}}}
+\newcommand{\Vsssc}{{V\scR\scS a\-sā\-ra\-sa\scM\-gra\-ha}%
+								\index{Vrsasarasamgraha@\textsl{Vṛṣasārasaṃgraha}}}
+\newcommand{\VSS}{{VSS}\index{Vrsasarasamgraha@\textsl{Vṛṣasārasaṃgraha}}}
+
+\newcommand{\MBh}{\textsl{Mahābhārata}\index{Mahabharata@\textsl{Mahābhārata}}}
+\newcommand{\MBH}{MBh\index{Mahabharata@\textsl{Mahābhārata}}}
+
+\newcommand{\SivP}{\textsl{Śivapurāṇa}\index{Sivapurana@\textsl{Śivapurāṇa}}}
+\newcommand{\SIVP}{SIVP\index{Sivapurana@\textsl{Śivapurāṇa}}}
+
+\newcommand{\MatsP}{\textsl{Matsyapurāṇa}\index{Matsyapurana@\textsl{Matsyapurāṇa}}}
+\newcommand{\MATSP}{MATSP\index{Matsyapurana@\textsl{Matsyapurāṇa}}}
+
+\newcommand{\asrama}{\cskt{āśrama}{asrama}}
+
+\newcommand{\CE}{{\footnotesize\textsc{ce}}}
+\newcommand{\bc}{{\footnotesize\textsc{bc}}}
+\newcommand{\AD}{{\footnotesize\textsc{ad}}}
+
+\newcommand{\hide}[1]{}
+
+%FOOTNOTE
+\let\svthefootnote\thefootnote
+\newcommand\blankfootnote[1]{%
+  \let\thefootnote\relax\footnotetext{#1}%
+  \let\thefootnote\svthefootnote%
+}
+% for the translation: chapter and verse number; translation; notes
+\newcommand{\slokawithfn}[3]{\blankfootnote{\kern-1em#1: #3}\textbf{#1} #2}
+\newcommand{\slokawithoutfn}[2]{\textbf{#1} #2}
+
+\renewcommand{\labelitemi}{$-$}
+
+% INDIVIDUALS
+\newcommand{\authorfont}[1]{{#1}}
+%\newcommand{\authorfont}[1]{\textsc{#1}}
+
+\newcommand{\Kiss}{\textsc{Kiss}\index{Kiss, Csaba}}
+\newcommand{\Bader}{\textsc{Bader}}%\index{Bader}}
+\newcommand{\Clark}{\textsc{Clark}}%\index{Clark}}
+\newcommand{\Jowett}{\textsc{Jowett}}%\index{Jowett}}
+\newcommand{\Goodall}{{\authorfont{Good\-all}}\index{Goodall, Dominic}}
+\newcommand{\Kloppenborg}{\textsc{Kloppenborg}}%\index{Kloppenborg}}
+\newcommand{\Dehejia}{\textsc{Dehejia}}%\index{Dehejia}}
+\newcommand{\Pandeya}{\textsc{P\={a}\d{n}\d{d}eya}}%\index{{P\={a}\d{n}\d{d}eya}}}
+\newcommand{\Sanderson}{\authorfont{Sand\-erson}\index{Sanderson, Alexis@\authorfont{Sanderson}, Alexis}}
+\newcommand{\Hatley}{\textsc{Hat\-ley}\index{Hatley, Shaman}}
+\newcommand{\Wise}{\textsc{Wise}}%\index{Wise}}
+\newcommand{\Dey}{\textsc{Dey}}%\index{Dey}}
+\newcommand{\Torzsok}{\textsc{T\"or\-zs\"ok}\index{Törzsök, Judit}}
+\newcommand{\Haru}{\textsc{Isa{a}cson}\index{Isa{a}cson, Harunaga}}
+\newcommand{\Nirajan}{{\rm \textsc{Kafle}}\index{Kafle, Nirajan}}
+\newcommand{\Kafle}{{\rm \textsc{Kafle}}\index{Kafle, Nirajan}}
+\newcommand{\Mallinson}{\textsc{Mallin\-son}\index{Mallin\-son, James}}
+\newcommand{\White}{\textsc{White}\index{White}}
+\newcommand{\Goudr}{\textsc{Goudria{a}n}\index{Goudria{a}n, Teun}}
+\newcommand{\Kale}{\textsc{Kale}\index{Kale}}
+\newcommand{\Bagchi}{\textsc{Bagchi}}%\index{Bagchi}}
+\newcommand{\Briggs}{\textsc{Briggs}}%\index{Briggs}}
+\newcommand{\Brunner}{\textsc{Brunner}\index{Brunner, H\'el\`ene}}
+\newcommand{\Dyczkowski}{\textsc{Dyczkowski}}%\index{Dyczkowski}}
+\newcommand{\Finn}{\textsc{Finn}}%\index{Finn}}
+\newcommand{\Garzilli}{\textsc{Garzilli}}%\index{Garzilli}}
+\newcommand{\Heilijgers}{\textsc{Heilijgers}}%\index{Heilijgers}}
+\newcommand{\Mallik}{\textsc{Mallik}}%\index{Mallik}}
+\newcommand{\McGregor}{\textsc{McGregor}}%\index{McGregor}}
+\newcommand{\Rao}{\textsc{Rao}}%\index{Rao}}
+\newcommand{\Vasudeva}{\textsc{Vasudeva}\index{Vasudeva, Somadeva}}
+\newcommand{\Vyas}{\textsc{Vyas \&\ Kshirsagar}}%\index{Vyas \&\ Kshirsagar}}
+\newcommand{\Bouy}{\textsc{Bouy}}%\index{Bouy}}
+\newcommand{\Sensharma}{\textsc{Sensharma}}%\index{Sensharma}}
+\newcommand{\Bisschop}{\textsc{Bisschop}}%\index{Bisschop}}
+\newcommand{\Schoterman}{\textsc{Schoterman}}%\index{Schoterman}}
+\newcommand{\Gonda}{\textsc{Gonda}}%\index{Gonda}}
+\newcommand{\Brooks}{\textsc{Brooks}}%\index{Brooks}}
+\newcommand{\Buhnemann}{\textsc{B\"uhnemann}}%\index{B\"uhnemann}}
+\newcommand{\Khanna}{\textsc{Khanna}}%\index{Khanna}}
+\newcommand{\Gupta}{\textsc{Gupta}}%\index{Gupta}}
+\newcommand{\Hoens}{\textsc{Hoens}}%\index{Hoens}}
+\newcommand{\Padoux}{\textsc{Padoux}}%\index{Padoux}}
+\newcommand{\Avalon}{\textsc{Avalon}}%\index{Avalon}}
+\newcommand{\MookerjeeKhanna}{\textsc{Mookerjee \&\ Khanna}}%\index{Mookerjee \&\ Khanna}}
+\newcommand{\Rawson}{\textsc{Rawson}}%\index{Rawson}}
+\newcommand{\Uberoi}{\textsc{Uberoi}}%\index{Uberoi}}
+\newcommand{\Tapasyananda}{\textsc{Tapasyananda}}%\index{Tapasyananda}}
+\newcommand{\Dvivedi}{\textsc{Dvivedi}}%\index{Dvivedi}}
+\newcommand{\Mallman}{\textsc{Mallman}}%\index{Mallman}}
+\newcommand{\West}{\textsc{West}}%\index{West}}
+\newcommand{\Dearing}{\textsc{Dearing}}%\index{Dearing}}
+\newcommand{\Chaudhuri}{\textsc{Chaudhuri}}%\index{Chaudhuri}}
+\newcommand{\Deshpande}{\textsc{Deshpande}}%\index{Deshpande}}
+\newcommand{\Digby}{\textsc{Digby}}%\index{Digby}}
+\newcommand{\Levi}{\textsc{Levi}}%\index{Levi}}
+\newcommand{\Dupuche}{\textsc{Dupuche}}%\index{Dupuche}}
+\newcommand{\Rukmini}{\textsc{Rukmini}}%\index{Rukmini}}
+\newcommand{\Rose}{\textsc{Rose}}%\index{Rose}}
+\newcommand{\Bunce}{\textsc{Bunce}}%\index{Bunce}}
+\newcommand{\Antarkar}{\textsc{Antarkar}}%\index{Antarkar}}
+\newcommand{\Locke}{\textsc{Locke}}%\index{Locke}}
+\newcommand{\Upadhyay}{\textsc{Upadhyay}}%\index{Upadhyay}}
+\newcommand{\Diwakar}{\textsc{Diwakar}}%\index{Diwakar}}
+\newcommand{\Wallis}{\textsc{Wallis}\index{Wallis, Christopher}}
+
+
+
+
+
+% not used, just an experiment
+\newcommand{\BisschopetalUtopia}{%
+{Bisschop \&\ Kafle \&\ Lubin 2021}%
+\newwrite\outputstream%
+\immediate\openout\outputstream=myfile.tmp%
+\immediate\write\outputstream{%
+Bisschop \&\ Kafle \&\ Lubin 2021: Bisschop, Peter C. \&\
+Kafle, Nirajan \&\ Lubin, Timothy. 
+\string\textsl{A Śaiva Utopia. The Śivadharma’s Revision of Brahmanical Varṇāśramadharma. Critical Edition, Translation \&\ 
+Study of the Śivāśramādhyāya of the Śivadharmaśāstra}. 
+No. I in Studies in the History of Śaivism. 
+Napoli: Università degli Studi di Napoli
+L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
+\immediate\closeout\outputstream
+}
+

@@ -36,6 +36,8 @@ Kengo:          "IMG_0486.jpg of the Munich MS photos has f. 5r of the VSS, and 
 
 <STOP/>
 
+<START/>
+<startchapter-n="1"/> 
 <CHAPTER>prathamo 'dhyāyaḥ</CHAPTER>
         <!-- <TRCHAPTER>Chapter One</TRCHAPTER> -->
 
@@ -45,7 +47,7 @@ Is 'oṃ namaḥ śivāya' there?
 % \msCa\msCb\msCc\msNa\msNb\msNc\msNd\msM[?]  have a Siddham symbol before oṃ
 % \Ed: atha vṛsasārasaṃgrahaprārambha(ḥ)
 
-<startchapter-n="1"/> 
+<TRSUBCHAPTER>Invocation</TRSUBCHAPTER>
 <NOTANUSTUBH/> upajāti
 <TEXT> anādimadhyāntam{ }anantapāraṃ</TEXT>   
         <APP>\va <LEM>°ntam{ }ananta°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\msNd\msM\Ed; °ntam{ }anta° \msCbacorr\oo
@@ -447,9 +449,9 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                 of metathesis, from Ł°viṣā°$ (`by poison'). Nevertheless, 
                 jackals seems appropriate in this context, for they 
                 are commonly associated with human corpses, death and the cremation ground
-                (see e.g. Ohnuma 2019). 
-                (Reiko Ohnuma 2019 = Ohnuma, R. The Heretical, Heterodox Howl: 
-                        Jackals in Pāli Buddhist Literature. Religions 2019, 10, 221.)</NOTE>
+                (see e.g. <cite>Ohnuma2019</cite>).</NOTE>
+
+% if you wanna cite with page number etc, do this: (see e.g. <citep>Ohnuma2019<pnum>123</pnum></citep>). 
 
 %index_biblio: Kūrmapurāṇa
 %index_biblio: Ohnuma 2019: Reiko Ohnuma. The Heretical, Heterodox Howl: Jackals in Pāli Buddhist Literature. Religions 2019, 10, 221.
@@ -470,7 +472,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <!-- <TR>How is it bound by the nooses of death/time? And if it is bodiless, how can it move?</TR> -->
         <NOTE>The word Łkāla$ has, as usual, a double meaning in this verse: Łkālapāśa$
                         is both Yama's noose, and also the limitation caused by time, 
-                        as becomes clear at the discussion on the different time units in verses 1.11--31.</NOTE>
+                        as becomes clear at the discussion on the different time units in verses 1.18--31.</NOTE>
 
 %index_voc: nirdeha
 
@@ -601,7 +603,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <NOTE>1.18d and 1.19a are problematic in the light of 1.19b, which 
                         redefines Łkalā$ in harmony with the traditional
                         interpretaion, see e.g. Arthaśāstra 2.20.33: Łtrimśatkāṣṭhāḥ kalāḥ$.
-                        On divisions of time, see alse e.g. Manu 1.64ff.</NOTE>
+                        On divisions of time, see also, e.g., Manu 1.64ff.</NOTE>
 
 %index_biblio: Arthaśāstra
 %index_biblio: Manu
@@ -812,7 +814,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
 %folioinfo \msM\ 413.jpg lower, f. 2r
 <SUBCHAPTER>parārdhādi</SUBCHAPTER>
-<TRSUBCHAPTER>The Łparārdha$ etc.: numbers</TRSUBCHAPTER>
+<TRSUBCHAPTER>The parārdha etc.: numbers</TRSUBCHAPTER>
 <TEXT> vigatarāga uvāca|*</TEXT>
         <!-- <TR>Vigatarāga spoke:</TR> -->
 
@@ -990,7 +992,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 				in Brahmā's Egg, [which is] inside Śiva's Egg,  
 				are being taught now, listen.</TR> -->
 			<NOTE>My conjecture in pāda b is based on the fact that the 
-			reading transmitted in the MSS seem unintelligible and more importantly that
+			readings transmitted in the MSS seem unintelligible and more importantly that
 			these names are said to belong to Łnāyaka$s in the subsequent verses,
 			a possible synonym of Łbhūbhṛt$, ('a king'), and also that
 			it is a minute intervention.
@@ -1388,7 +1390,7 @@ NUMBERS:
         <APP>\va <LEM>pramāṇaṃ</LEM> \msCc\msNa\msNc\msM\Ed; praṇāmaṃ \msCa\msCb, pramāṇa \msNb</APP>
         <APP>\vb <LEM>saṃkṣepād{ }bruvato</LEM> \msCa\msCc\msNa\msNb\Ed; saṃkṣepād{ }vadato \msCb,
                                         saṃkhyepād{ }bruvato \msNc, saṃkṣepa bruvato \msM</APP>
-        <LACUNA>\vc ŁFolio 213v in \msP\ ends with $saṃkṣepāŁ and the next folio,
+        <LACUNA>\vc ŁFolio 213v in \msP\ ends with $saṃkṣepā Ł and the next folio,
                      containing verses 1.60d--2.21ab, is missing.$</LACUNA>
 
 %lacuna_start: \msP
@@ -1418,7 +1420,7 @@ saiva/sivadharma/01sdhs/sivadharmasastra.dn:kalpako.tisahasraa.ni kalpako.ti"sat
         <APP>\vc <LEM>viṃśakoṭiṣu gulmeṣu</LEM> \mssCaCbCc\msNa\msNc\Ed; viṃśakoṭi vinā gulme \msM</APP>
         <APP>\vd <LEM>ūrdhvatas{ }ta°</LEM> \mssCaCbCc\msNa\msNc\Ed; ūrddhvato ta° \msM\oo
                  <LEM>raviḥ</LEM> \mssCaCbCc\msNa\msNc\msM; ravi \Ed</APP>
-        <PARAL>\vcd ŁThe folio in \msNb\ ends with $ ūrdhva°, Łand the folios that may have contained verses 1.62d--2.22 are missing.$</PARAL>
+        <LACUNA>\vcd ŁThe folio in \msNb\ ends with $ ūrdhva°, Łand the folios that may have contained verses 1.62d--2.22 are missing.$</LACUNA>
         <!-- <TR>The Sun shines from above from seven thousand and seven hundred Łkoṭi$ [height] ... twenty Łkoṭi$ gulma?? mūrdha?</TR> -->
 
 <TEXT> pramāṇaṃ nāma saṃkhyā ca kīrtitāni samāsataḥ|</TEXT>
@@ -2295,7 +2297,6 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
 % abrupt start, although dharma has just been mentioned, so Judit is wrong, I think:
 % Judit "he is talking about vṛṣa, also why do we talk about dharma"
 % vṛṣa 
-% CHECK Vṛṣadeva Śaiva Age p. 74
 %folioinfo \msNa\ 198.jpg lower, f.5r
 <TEXT> kimarthaṃ dharmam{ }ity{ }āhuḥ katimūrtiś{ }ca kīrtyate|</TEXT>
         <APP>\va <LEM>āhuḥ</LEM> \msP\msCa\msCb\msNa\msNb\msNc; āhu \Ed</APP>
@@ -2393,6 +2394,12 @@ Kenji
         <!-- <TR>The four-legged Bull is the embodiment of both Śruti and Smṛti.
                The four Łāśrama$s are taught by the wise to be [the four legs of] Dharma.
                 [or rather: ... which is Dharma as made up of the four āśramas... kīrtitaḥ!]</TR> -->
+Śivapurāṇa:
+śuddhasphaṭikasaṃkāśo vṛṣabhaḥ sarvasundaraḥ ||
+yo dharma ucyate vedaiḥ śāstraiḥ siddhamaharṣibhiḥ ||54||
+tam ārūḍho mahādevo vṛṣabhaṃ dharmavatsalaḥ||
+śuśubhe 'tīva devarṣisevitaḥ sakalair vrajan ||55||
+
 % only 3 āśramas here ! Judit ; CsK: maybe taṃ santo... is the fourth? NEW
 % Olivelle Āśrama p55: "Elsewhere also in the same dialogue the author affirms "the unity of all the āśramas with
 respect to their end" (12.262.34) and calls the āśramas the four feet of dharma (12.262.19,21)."
@@ -2670,9 +2677,9 @@ respect to their end" (12.262.34) and calls the āśramas the four feet of dharm
         <APP>\vd <LEM>kartaya</LEM> \eme; kīrtaya \msCa\msCb\msNa\msNb\msNc\Ed\oo
                  <LEM>°saṃśayam</LEM> \msCa\msNa\msNc\Ed; °saṃśayaḥ \msCb\msNb</APP>
                 <!-- <TR>I am extremely intrigued. Cut my doubts concerning [this] knowledge.</TR> -->
-        <LACUNA>\vc ŁFolio 215v ends with $kautūhalam{ }atī Łand the next available folio (217r) start with 
-                    $ tyam iṣṭagatiḥ proktaṃ Ł in 4.8a. Thus one folio, containing
-                      3.14d--4.7, is missing.</LACUNA>
+        <LACUNA>\vc ŁIn \msP, folio 215v ends with $kautūhalam{ }atī Łand the next available folio side (217r) starts with 
+                    $ tyam{ }iṣṭagatiḥ proktaṃ Ł in 4.8a. Thus one folio (f. 216), containing
+                      3.14d--4.7, is missing.$</LACUNA>
         <NOTE>Note Łdharma$ as a neuter noun and the form Łatīvaṃ$ for Łatīva$ metri causa. 
         My emendation from Łkīrtaya$ (`declare') to Łkartaya$ (`cut') was influenced by the combination
         of Łchindhi$ and Łsaṃśaya$, often with Łkautūhala$, elsewhere in the VSS:
@@ -4887,7 +4894,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 <TEXT> parārthe śṛṇu bhūyo 'nya anyāyārtha{-}m{-}upārjanam|</TEXT>
         <APP>\vb <LEM>anyāyā°</LEM> \mssCaCbCc\msNa\msNc\Ed; anyayā° \msNb\oo
                  <LEM>°rjanam</LEM> \mssCaCbCc\msNa\msNc\Ed; °rjjavam \msNb</APP>
-        <PARAL>\vb Łcf.\ Bhagvadgītā 16.12: $
+        <PARAL>\vb Łcf.\ Bhagavadgītā 16.12: $
                 āśāpāśaśatair{ }baddhāḥ kāmakrodhaparāyaṇāḥ|
                 īhante kāmabhogārtham{ }anyāyenārthasaṃcayān||</PARAL>
         <!-- <TR>Listen further to something else with regards to others' wealth.
@@ -8516,12 +8523,13 @@ Dadhīca said:<br>
 
 <TEXT> gaṅgāgniṃ somatīrthaṃ ca sūryapuṣkaramānasam||</TEXT> 10.7
         <APP>\vc <LEM>gaṅgāgniṃ</LEM> \msCa\msCb; gaṅgāgni \msCc\msNa\msNb\msNc, gaṅgā'gni° \Ed </APP>
-        <!-- <TR>Gaṅgā, Agni, Somatīrtha, Sūrya, Puṣkara, Mānasa,</TR> -->
+        <!-- <TR>Gaṅgā, Agni[tīrtha], Somatīrtha, Sūrya[tīrtha], Puṣkara, Mānasa,</TR> -->
         
-<TEXT> naimiṣaṃ bindusāraṃ ca setubandhaṃ surahradam|</TEXT>
+<TEXT> naimiṣaṃ bindusāraṃ ca setubandhaṃ suradraham|</TEXT>
         <APP>\va <LEM>naimiṣaṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; nemisa \msNc</APP>
-        <APP>\vb <LEM>°bandhaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °bandha° \Ed</APP>
-        <!-- <TR>Naimiṣa, Bindusaras, Setubandha, Surahrada,</TR> -->
+        <APP>\vb <LEM>°bandhaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °bandha° \Ed\oo
+                 <LEM>°draham </LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; °hradaṃ \Ed</APP>
+        <!-- <TR>Naimiṣa, Bindusaras, Setubandha, Suradraha,</TR> -->
         <NOTE>Note Łbindusāraṃ$ for Łbindusaras/°saraṃ/°sarasaṃ$ metri causa.</NOTE>
 
 <TEXT> ghaṇṭikeśvaravāgīśaṃ jñātvā niścayapāpahā||</TEXT> 10.8
@@ -8913,13 +8921,13 @@ Dadhīca said:<br>
 
 %index_geo: Setubandha
 
-<SUBSUBCHAPTER>surahradaḥ</SUBSUBCHAPTER>
-<TRSUBSUBCHAPTER>Surahrada</TRSUBSUBCHAPTER>
+<SUBSUBCHAPTER>suradrahaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Suradraha</TRSUBSUBCHAPTER>
 <NOTANUSTUBH/> sragdharā 
 <TEXT> saptadvīpāntamadhye śṛṇu śaśivadane sarvaduḥkhāntalābham</TEXT>
         <APP>\va <LEM>°dvīpā°</LEM> \mssCaCbCc\msNa\msNb\Ed; °dīpā° \msNc</APP>
-        <!-- <TR>O Moon-faced goddess, listen to [Surahrada], the reaching of the cessation of
-                        all sorrow, located in the centre of the seven islands.</TR> -->
+        <!-- <TR>O Moon-faced goddess, listen to [the description of Suradraha], the way to the cessation of
+                        all sorrow, in the centre of the seven islands.</TR> -->
 
 <TEXT> īśānenābhijuṣṭaṃ hṛdi hrada vimalaṃ nādaśītāmbupūrṇam|</TEXT>
         <APP>\vb <LEM>īśānenābhijuṣṭaṃ</LEM> \msCc\msNa\msNc\Ed; īśānenābhiduṣṭaṃ \msCa\msNb,
@@ -8941,10 +8949,10 @@ Dadhīca said:<br>
         <!-- <TR>It is praised by the five voids, it is the path to the supreme level, and 
                         it is to be served if one wishes to obtain [heaven].</TR> -->
 
-%index_geo: Surahrada
+%index_geo: Suradraha
 
 %[1]Gaṅgā, [2]Agni, [3]Somatīrtha, [4]Sūrya, [5]Puṣkara, [6]Mānasa,
-%[7]Naimiṣa, [8]Bindusara, [9]Setubandha, [10]Surahrada, [11]Ghaṇṭikeśvara, [12]Vāgīśa
+%[7]Naimiṣa, [8]Bindusara, [9]Setubandha, [10]Suradraha, [11]Ghaṇṭikeśvara, [12]Vāgīśa
 <SUBSUBCHAPTER>ghaṇṭikeśvaram</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Ghaṇṭikeśvara</TRSUBSUBCHAPTER>
 <NOTANUSTUBH/> sragdharā 
@@ -10091,7 +10099,6 @@ REVISE
 
 
 
-<START/>
 
 %folioinfo \msM\ 427.jpg upper, f. 18v line 1
 
@@ -10125,13 +10132,16 @@ the king of the Gandharvas
 
 
 <CHAPTER>dvādaśamo 'dhyāyaḥ</CHAPTER> 
+<!-- <TRCHAPTER> Chapter Twelve </TRCHAPTER> -->
+
 <SUBCHAPTER>ātithyadharmaḥ</SUBCHAPTER> 
 <TRSUBCHAPTER>The rules of hospitality</TRSUBCHAPTER> 
 
 <ANUSTUBH/>
 <TEXT> devy{ }uvāca|*</TEXT>
-        <APP>\vo <LEM>devy{ }uvāca</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; \om\ \msBod\msM</APP>
+        <APP>\vo <LEM>devy{ }uvāca</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; \om\ \msM</APP>
         <!-- <TR>The Goddess spoke:</TR> -->
+\om\ \msBod
 
 <TEXT> ahiṃsā paramo dharmaḥ satataṃ parikīrtyate|</TEXT>
         <APP>\vab <LEM>dharmaḥ sa°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dharmos{ }sa° \msCc</APP>
@@ -12226,7 +12236,7 @@ stambhāṇi \msCc
         <APP>\vc <LEM>sahasrāṇāṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; sahasrāṇā \msCb</APP>
         <APP>\vd <LEM>apsarā</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; apsaro \msCc\oo
                 <LEM>°rūpiṇī</LEM> \mssCaCbCc\msNa\msNb\msNc; °rūpiṇi \Ed</APP>
-        <!-- <TR>There are thousands and thousands of sexy Apsarases</TR> -->
+        <!-- <TR>There are thousands and thousands of sexy Apsarases,</TR> -->
         <NOTE>Note that here, as often in this text, nouns stand in the singular
                 after numbers such as a thousand.</NOTE>
 %index_grammar: singular after numbers
@@ -12235,10 +12245,10 @@ stambhāṇi \msCc
         <APP>\va <LEM>tavārthīyo°</LEM> \msCa; tavārthāyo° \msCb\msNa\msNb\msNc, taṃvārthīyo° \msCc, tavārtheyo° \Ed</APP>
         <APP>\vb <LEM>°sarpanti</LEM> \mssCaCbCc\msNa\msNb\Ed; °ṣapyanti \msNc\oo
                  <LEM>°bhūṣitāḥ</LEM> \mssCaCbCc\msNb\msNc\Ed; °bhūṣitaḥ \msNa</APP>
-        <NOTE>Understand Łtavārthīyopasarpanti$ as Łtavārtāyā upasarpanti$ (double sandhi).
+        <NOTE>Understand Łtavārthīyopasarpanti$ as Łtavārthīyā upasarpanti$ (double sandhi).
                 Łtavārthāyo°$ may work as well (\msCb\ and \msNa) but I consider 
                 Łtavārtīyo°$ the lectio difficilior, thus potentially the original reading.</NOTE>
-        <!-- <TR>adorned with all kinds of ornaments approaching you gently.</TR> -->
+        <!-- <TR>adorned with all kinds of ornaments, making advances towards you.</TR> -->
 %index_grammar: double sandhi
 
 <TEXT> yāvat{ }kalpasahasrāṇi parārdhāni tapodhana|</TEXT>
@@ -13153,16 +13163,16 @@ MBh check context in more detail:
         <APP>\vab <LEM>śreṣṭhaḥ śreṣṭhā gaṅgā</LEM> \msCa\msNa\msNb\msNc\Ed; śreṣṭhā gaṅgāṇāñ{ }ca \msCb</APP>
 %index_geo: Gaṅgā
 
-<TEXT> anāśanas{ }tapaḥśreṣṭhas{ }tīrthaśreṣṭhaḥ surahradaḥ||</TEXT> 15.18
+<TEXT> anāśanas{ }tapaḥśreṣṭhas{ }tīrthaśreṣṭhaḥ suradrahaḥ||</TEXT> 15.18
         <APP>\vc <LEM>anāśana°</LEM> \msCa\msCb\msNa\msNb\Ed; anaśana° \msNc</APP>
         <APP>\vd <LEM>°rthaśreṣṭhaḥ</LEM> \msCa\msCb\msNa\msNb\Ed; °rthaśreṣṭha \msNc\oo
-                 <LEM>°hradaḥ</LEM> \msCa\msNa\msNb\msNc\Ed; °drahaḥ \msCb</APP>
+                 <LEM>°drahaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; °hradaḥ \Ed</APP>
         <!-- <TR>The best god is Hari. The best river is the Ganges.
-                  The best austerity is fasting. The best pilgrimage-place is Surahrada.</TR> -->
+                  The best austerity is fasting. The best pilgrimage-place is Suradraha.</TR> -->
         <NOTE>Łanāśanas$ (or Łanāsanas$ in most MSS) stands for Łanaśanas$ (found only in \msNc) but the latter would cause 
                 a metrical problem, namely both the second and third syllables would be two short. This is why I retained
                         the non-standard form Łanāśanas$.</NOTE>
-%index_geo: Surahrada
+%index_geo: Suradraha
 
 <TEXT> kṣomaṃ vastreṣu ca śreṣṭhaṃ yaśaḥ śreṣṭhaṃ vibhūṣaṇam|</TEXT>
         <APP>\va <LEM>kṣaumaṃ</LEM> \msNc\Ed; kṣomaṃ \msCa\msCb\msNa, kṣoma \msNb</APP>
@@ -17636,6 +17646,7 @@ the feathers of the parrot, and in some a mass of pure crystal.
 % vakṣyāmyiva \msBod
 % °pa] \msBod
 
+https://goo.gl/maps/vrYvhGGDvTuYpNMt6
 <TEXT> himavaddakṣiṇe pārśve mṛgendraśikhare nṛpa|</TEXT>
         <APP>\vb <LEM>mṛgendra°</LEM> \msCb\msCc\msNa\msNb\msNc\msL\Ed; <UNCL>mṛ</UNCL>×ndra° \msCa\oo
                  <LEM>nṛpa</LEM> \mssCaCbCc\msNa\msNb; nṛpaḥ \msNc\msL\Ed</APP>
@@ -17678,7 +17689,7 @@ MBh rivers:
         <!-- <TR>with his arrogance, fear, and anger conquered, with his
                                         greediness completely conquered.</TR> -->
 
-% Soma vaṃśa (= Candravaṃśa)... Arjuna?
+% Soma vaṃśa (= Candravaṃśa)... Arjuna? Licchavis usually Sūryavaṃśa
 <TEXT> somavaṃśaprasūtās{ }te kṣatriyā dvijatāṃ gatāḥ|</TEXT>
         <APP>\va <LEM>soma°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; soya° \msL\oo
                  <LEM>prasūtās{ }te</LEM> \msCb\msCc\msNb\msNc\Ed; pra××× \msCa, prasūtas{ }te \msNa\msL</APP>

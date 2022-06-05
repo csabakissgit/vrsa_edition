@@ -179,7 +179,9 @@ FUNCTION {bib.name.font}
 FUNCTION {bib.fname.font}
 { skip$ }
 FUNCTION {cite.name.font}
-{ scaps }
+% change font in refs in main text and in biblio
+%{ scaps }
+{ skip$ }
 FUNCTION {tie.or.space.prefix}
 { duplicate$ text.length$ #3 <
     { "~" }

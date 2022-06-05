@@ -5,6 +5,10 @@
 \renewcommand{\baselinestretch}{.9}
 \usepackage{pdfpages}
 \usepackage{dev}
+
+% tabulator
+\usepackage{tabto}
+%\NumTabs{2}
 %this one used only for the LaTeX version, see it there:
 %\usepackage[utf8x]{inputenx}
 
@@ -23,7 +27,10 @@
 %\lhead{Bal}\rhead{Jobb}
 %\fancyhead[RE]{\csabafont\nouppercase{The Rel. Observ. \&\
 %Sexual Rit. of the Tantric Pract.: BraY\=a 3, 21, 45}}
-\fancyfoot{}
+% page number in the footer
+%\fancyfoot{\thepage}
+\cfoot{{\englishfont\thepage}}
+
 %\renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\headrulewidth}{0pt}
 \headheight14.5pt
@@ -86,15 +93,15 @@
 %%%%  Types of paragraph
 \newcommand{\proza}{\leftskip 4em\noindent}
 \newcommand{\ujproza}{\global\advance\versno by1\leftskip 4em\noindent}
-\newcommand{\vers}{\leftskip 5em}
-\newcommand{\dnvers}{\leftskip 6em}
+\newcommand{\vers}{\leftskip 3em}
+\newcommand{\dnvers}{\leftskip 5em}
 
 \newcommand{\sloka}{\vers}
 
-\newcommand{\nemsloka}{\leftskip 5em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\newcommand{\nemslokab}{\leftskip 7em} % pada b
-\newcommand{\nemslokac}{\leftskip 5em} % pada c
-\newcommand{\nemslokad}{\leftskip 7em} % pada d
+\newcommand{\nemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\nemslokab}{\leftskip 5em} % pada b
+\newcommand{\nemslokac}{\leftskip 3em} % pada c
+\newcommand{\nemslokad}{\leftskip 5em} % pada d
 
 
 \newcommand{\dnnemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
@@ -218,9 +225,9 @@
 %\newcommand{\msCaacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 94}$}}
 %\newcommand{\msCapcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 94}$}}
 % my try:
-\newcommand{\msCa}{{\englishfont C$_{\scriptscriptstyle 94}$}\allowbreak}
-\newcommand{\msCaacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 94}$}\allowbreak}
-\newcommand{\msCapcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 94}$}\allowbreak}
+\newcommand{\msCa}{{\englishfont C$_{\scriptscriptstyle 94}$}}
+\newcommand{\msCaacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 94}$}}
+\newcommand{\msCapcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 94}$}}
 
 % original
 %\newcommand{\msCb}{{\englishfont C$_\textrm{b}$}}
@@ -229,9 +236,9 @@
 %\newcommand{\msCb}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 45}$}}
 %\newcommand{\msCbacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 45}$}}
 %\newcommand{\msCbpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 45}$}}
-\newcommand{\msCb}{{\englishfont C$_{\scriptscriptstyle 45}$}\allowbreak}
-\newcommand{\msCbacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 45}$}\allowbreak}
-\newcommand{\msCbpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 45}$}\allowbreak}
+\newcommand{\msCb}{{\englishfont C$_{\scriptscriptstyle 45}$}}
+\newcommand{\msCbacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 45}$}}
+\newcommand{\msCbpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 45}$}}
 
 %\newcommand{\msCc}{{\englishfont C$_\textrm{c}$}}
 %\newcommand{\msCcacorr}{{\englishfont C$_\textrm{c}$\kern-.16cm$^{ac}$\/}}
@@ -239,9 +246,9 @@
 %\newcommand{\msCc}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 02}$}}
 %\newcommand{\msCcacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 02}$}}
 %\newcommand{\msCcpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 02}$}}
-\newcommand{\msCc}{{\englishfont C$_{\scriptscriptstyle 02}$}\allowbreak}
-\newcommand{\msCcacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 02}$}\allowbreak}
-\newcommand{\msCcpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 02}$}\allowbreak}
+\newcommand{\msCc}{{\englishfont C$_{\scriptscriptstyle 02}$}}
+\newcommand{\msCcacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 02}$}}
+\newcommand{\msCcpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 02}$}}
 
 %\newcommand{\msNa}{{\englishfont N$_\textrm{a}$}}
 %\newcommand{\msNaacorr}{{\englishfont N$_\textrm{a}$\kern-.10cm$^{ac}$\/}}
@@ -249,61 +256,61 @@
 %\newcommand{\msNa}{{\rm N$^{\scriptscriptstyle K}_{\scriptscriptstyle 82}$}}  
 %\newcommand{\msNaacorr}{{\rm N$^{\scriptscriptstyle Kac}_{\scriptscriptstyle 82}$}}
 %\newcommand{\msNapcorr}{{\rm N$^{\scriptscriptstyle Kpc}_{\scriptscriptstyle 82}$}}
-\newcommand{\msNa}{{\englishfont K$_{\scriptscriptstyle 82}$}\allowbreak}  
-\newcommand{\msNaacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$}\allowbreak}
-\newcommand{\msNapcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$}\allowbreak}
+\newcommand{\msNa}{{\englishfont K$_{\scriptscriptstyle 82}$}}  
+\newcommand{\msNaacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$}}
+\newcommand{\msNapcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$}}
 
-\newcommand{\msNb}{{\englishfont K$_{\scriptscriptstyle 10}$}\allowbreak}  
-\newcommand{\msNbacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 10}$}\allowbreak}
-\newcommand{\msNbpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 10}$}\allowbreak}
+\newcommand{\msNb}{{\englishfont K$_{\scriptscriptstyle 10}$}}  
+\newcommand{\msNbacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 10}$}}
+\newcommand{\msNbpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 10}$}}
 
-\newcommand{\msNc}{{\englishfont K$_{\scriptscriptstyle 7}$}\allowbreak}  
-\newcommand{\msNcacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 7}$}\allowbreak}
-\newcommand{\msNcpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 7}$}\allowbreak}
+\newcommand{\msNc}{{\englishfont K$_{\scriptscriptstyle 7}$}}  
+\newcommand{\msNcacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 7}$}}
+\newcommand{\msNcpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 7}$}}
 
-\newcommand{\msNd}{{\englishfont K$_{\scriptscriptstyle 3}$}\allowbreak}  
-\newcommand{\msNdacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}\allowbreak}
-\newcommand{\msNdpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}\allowbreak}
+\newcommand{\msNd}{{\englishfont K$_{\scriptscriptstyle 3}$}}  
+\newcommand{\msNdacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}}
+\newcommand{\msNdpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}}
 
-\newcommand\msBod{{\englishfont B}\allowbreak}
-\newcommand\msBodacorr{{\englishfont B}$^{\scriptscriptstyle ac}$\allowbreak}
-\newcommand\msBodpcorr{{\englishfont B}$^{\scriptscriptstyle pc}$\allowbreak}
+\newcommand\msBod{{\englishfont B}}
+\newcommand\msBodacorr{{\englishfont B}$^{\scriptscriptstyle ac}$}
+\newcommand\msBodpcorr{{\englishfont B}$^{\scriptscriptstyle pc}$}
 
-\newcommand\msL{{\rm L}\allowbreak}
-\newcommand\msLacorr{{\englishfont L}$^{\scriptscriptstyle ac}$\allowbreak}
-\newcommand\msLpcorr{{\englishfont L}$^{\scriptscriptstyle pc}$\allowbreak}
+\newcommand\msL{{\rm L}}
+\newcommand\msLacorr{{\englishfont L}$^{\scriptscriptstyle ac}$}
+\newcommand\msLpcorr{{\englishfont L}$^{\scriptscriptstyle pc}$}
 
-\newcommand\msP{{\englishfont P}\allowbreak}
-\newcommand\msPacorr{{\englishfont P}$^{\scriptscriptstyle ac}$\allowbreak}
-\newcommand\msPpcorr{{\englishfont P}$^{\scriptscriptstyle pc}$\allowbreak}
+\newcommand\msP{{\englishfont P}}
+\newcommand\msPacorr{{\englishfont P}$^{\scriptscriptstyle ac}$}
+\newcommand\msPpcorr{{\englishfont P}$^{\scriptscriptstyle pc}$}
 
-\newcommand\msM{{\englishfont M}\allowbreak}
-\newcommand\msMacorr{{\englishfont M}$^{\scriptscriptstyle ac}$\allowbreak}
-\newcommand\msMpcorr{{\englishfont M}$^{\scriptscriptstyle pc}$\allowbreak}
+\newcommand\msM{{\englishfont M}}
+\newcommand\msMacorr{{\englishfont M}$^{\scriptscriptstyle ac}$}
+\newcommand\msMpcorr{{\englishfont M}$^{\scriptscriptstyle pc}$}
 
 %\newcommand{\Ed}{{\englishfont Ed$_\textrm{N}$}}
-%\newcommand{\Ed}{{\rm E$^{\scriptscriptstyle N}$}\allowbreak}
-\newcommand{\Ed}{{\englishfont E}\allowbreak}
+%\newcommand{\Ed}{{\rm E$^{\scriptscriptstyle N}$}}
+\newcommand{\Ed}{{\englishfont E}}
 
 
 
 
-\newcommand{\msCaNa}{{\englishfont C$_\textrm{a}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCbNa}{{\englishfont C$_\textrm{b}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCcNa}{{\englishfont C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCabNa}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCbcNa}{{\englishfont C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCabcNa}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}\allowbreak}
-\newcommand{\msCab}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$}\allowbreak}
-\newcommand{\msCac}{{\englishfont C$_\textrm{a}$C$_\textrm{c}$}\allowbreak}
-\newcommand{\msCbc}{{\englishfont C$_\textrm{b}$C$_\textrm{c}$}\allowbreak}
-\newcommand{\msCabc}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$$_\textrm{c}$}\allowbreak}
+\newcommand{\msCaNa}{{\englishfont C$_\textrm{a}$N$_\textrm{a}$}}
+\newcommand{\msCbNa}{{\englishfont C$_\textrm{b}$N$_\textrm{a}$}}
+\newcommand{\msCcNa}{{\englishfont C$_\textrm{c}$N$_\textrm{a}$}}
+\newcommand{\msCabNa}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$N$_\textrm{a}$}}
+\newcommand{\msCbcNa}{{\englishfont C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}}
+\newcommand{\msCabcNa}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$C$_\textrm{c}$N$_\textrm{a}$}}
+\newcommand{\msCab}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$}}
+\newcommand{\msCac}{{\englishfont C$_\textrm{a}$C$_\textrm{c}$}}
+\newcommand{\msCbc}{{\englishfont C$_\textrm{b}$C$_\textrm{c}$}}
+\newcommand{\msCabc}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$$_\textrm{c}$}}
 
-\newcommand{\mssCaCbCc}{{\englishfont C}\allowbreak}
-\newcommand{\mssNaNbNc}{{\englishfont N}\allowbreak}
+\newcommand{\mssCaCbCc}{{\englishfont C}}
+\newcommand{\mssNaNbNc}{{\englishfont N}}
 
-\newcommand{\Cod}{\textit{Cod.}\allowbreak}
-\newcommand{\Codd}{$\Sigma$\allowbreak}
+\newcommand{\Cod}{\textit{Cod.}}
+\newcommand{\Codd}{$\Sigma$}
 
 \newcommand{\AP}{AP\index{Agnipurana@\textsl{Agnipur\=a\d na}}}
 \newcommand{\APP}{ĀPP\index{Atmarthapujapaddhati@\textsl{\=Atm\=arthap\=uj\=apaddhati}}}
@@ -461,7 +468,7 @@
 \newcommand{\eme}{{\englishfont em.}}
 \newcommand{\kozep}[1]{\begin{center}{#1}\end{center}}
 \newcommand{\paralid}{}
-\newcommand{\crux}[1]{{\dag #1\dag}}
+\newcommand{\crux}[1]{{\englishfont$\dag$}{\thinspace #1}{\englishfont$\dag$}}
 \newcommand{\cruxdn}[1]{{$\dag\thinspace$#1$\dag$}}
 \newcommand{\fejezet}[1]{\subsection{#1}
 				
@@ -470,21 +477,21 @@
 
 
 \newcommand{\alfejezet}[1]{\begin{center}
-        {\textbf{{{\textbf{\large[}}{\large#1}{\textbf{\englishfont\large]}}}}}\dontdisplaylinenum
+        {\textbf{{{\textbf{\large[ }}{\large#1}{\textbf{\englishfont\large]}}}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsection}{#1}
 \end{center}
 
 }
 
 \newcommand{\alalfejezet}[1]{\begin{center}
-\textbf{{{\englishfont\textbf{[}}{#1}{\englishfont\textbf{]}}}}\dontdisplaylinenum
+\textbf{{{\englishfont\textbf{[ }}{#1}{\englishfont\textbf{]}}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center}
 
 }
 
 \newcommand{\alalalfejezet}[1]{\begin{center}
-\textbf{{{\englishfont\textbf{[}}{\footnotesize#1}{\englishfont\textbf{]}}}}\dontdisplaylinenum
+\textbf{{{\englishfont\textbf{[ }}{\footnotesize#1}{\englishfont\textbf{]}}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center}
 
@@ -622,7 +629,11 @@
 \newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
 \newcommand{\cancelled}{{\englishfont(\textit{cancelled})}}
 \newcommand{\isitcancelled}{{\englishfont(\textit{cancelled?})}}
+%REVISE
 \newcommand{\eyeskip}[1]{{\englishfont (eyeskip to #1)}}
+\newcommand{\eyeskipto}[1]{{\englishfont (eyeskip to #1)}}
+\newcommand{\eyeskipfrom}[2]{{\englishfont (eyeskip from #1)}}
+
 \newcommand{\recto}{$^r$\/}
 \newcommand{\verso}{$^v$\/}
 \newcommand{\pcorr}{{\englishfont $^{pc}$\/}}
@@ -766,7 +777,7 @@
   \leavevmode
   \strut\hbox to 1.5em{\notenumfont\printlines#1|\hfil}\ignorespaces
   {\select@lemmafont#1|#2}\rbracket\enskip
-  #3\strut\par\allowbreak}
+  #3\strut\par}
 
 % And I'd like the 2-col notes printedf with a double colon:
 \def\doublecolon{{\rm\thinspace::\thinspace}}
@@ -779,7 +790,7 @@
   \leavevmode
   \strut{\notenumfont\printlines#1|}\enspace
   {\select@lemmafont#1|#2}\doublecolon\enskip
-  #3\strut\par\allowbreak}
+  #3\strut\par}
 
 % And in the paragraphed footnotes, I'd like a colon too:
 \def\parafootfmt#1#2#3{%
