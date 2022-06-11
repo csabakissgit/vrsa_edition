@@ -93,7 +93,9 @@ top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
 
 
 % TOC
+% no section numbering in text:
 \setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{3}
 % section titles
 \usepackage{titlesec}
   \titleformat{\chapter}
@@ -110,8 +112,14 @@ top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
 
   \titleformat{\subsection}
   {\normalfont\large\itshape\color{red}}{%
-    \hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
-    {\color{white}\hspace{-1cm}\normalfont\thesubsection\hspace{5pt}}
+    %\hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+    %{\color{white}\hspace{-1cm}\normalfont\thesubsection\hspace{5pt}}
+  }{1em}{}
+
+  \titleformat{\subsubsection}
+  {\normalfont\large\color{black}}{%
+   % \hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+   % {\color{white}\hspace{-1cm}\normalfont\thesubsection\hspace{5pt}}
   }{1em}{}
   
 %\newcommand{\mychapter}[2]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
@@ -132,7 +140,7 @@ top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
 
   
 % FOOTNOTES
-\renewcommand{\footnoterule}{}
+%\renewcommand{\footnoterule}{}
 \usepackage[]{footmisc}
 % Here you can modify the spacing between the footnote number and the text of footnote; keep this value and \hangfootparindent value the same
 \renewcommand{\footnotelayout}{\hspace{.5em}}
@@ -178,8 +186,12 @@ top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
   \let\thefootnote\svthefootnote%
 }
 % for the translation: chapter and verse number; translation; notes
-\newcommand{\slokawithfn}[3]{\blankfootnote{\kern-1em#1: #3}\textbf{#1} #2}
-\newcommand{\slokawithoutfn}[2]{\textbf{#1} #2}
+\newcommand{\slokawithfn}[3]{\blankfootnote{\kern-1em#1: #3}%
+%\textbf
+\noindent{#1} #2\medskip}
+\newcommand{\slokawithoutfn}[2]{%
+%\textbf
+\noindent{#1} #2\medskip}
 
 \renewcommand{\labelitemi}{$-$}
 

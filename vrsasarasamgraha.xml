@@ -79,7 +79,7 @@ Is 'oṃ namaḥ śivāya' there?
 %index_voc: āsamagra
 
 <TEXT> praṇamya vakṣye vṛṣasārasaṃgraham||</TEXT> 1.1
-        <APP>\vc <LEM>vṛṣa°</LEM> \msCapcorr\msCb\msCc\msNa\msNb\msNc\msNd\msM\Ed; °vṛṣo \msCaacorr</APP>
+        <APP>\vd <LEM>vṛṣa°</LEM> \msCapcorr\msCb\msCc\msNa\msNb\msNc\msNd\msM\Ed; °vṛṣo \msCaacorr</APP>
         <PARAL>ŁTestimonia for this chapter:    \msCa\ ff.\thinspace 193v--195v,$
                                                 Ł\msCb\ ff.\thinspace 201v--203v,$
                                                 Ł\msCc\ ff.\thinspace 267r--270r,$
@@ -263,8 +263,8 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                    <LEM>°tandritaḥ</LEM> \msCc\msNa; °tandritam \msCa\msCb\msNc\msNd\msM\Ed,
                                                 ××× \msNb</APP>
                         %\msCc chruṇa ... atandritaḥ CHECK
-		<NOTE>Vaiśampāyana, a Ṛṣi, the disciple of Vyāsa, great-grandson to Arjuna,
-		recited the Mahābhārata at the snake sacrifice of 
+                  <NOTE>Vaiśampāyana, a Ṛṣi, the disciple of Vyāsa, great-grandson to Arjuna,
+                  recited the Mahābhārata at the snake sacrifice of 
                 Janamejaya. This setting is an echo of the starting point of the Mahābhārata, see MBh 1.1.8ff.
                 In fact the next few verses in the VSS make it clear that we the VSS
                 picks up where the Mahābhārata left off: Janamejaya has heard the whole Mahābhārata from
@@ -293,7 +293,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 <TEXT> asti dharmaṃ paraṃ guhyaṃ saṃsārārṇavatāraṇam||</TEXT> 1.4
         <!-- <TR>Is there a supreme and secret Dharma which liberates [us] from the ocean of 
                         mundane existence (Łsaṃsāra$)?</TR> -->
-        <APP>\vd <LEM>asti dharmaṃ</LEM> \msCa\msNa\msNb\msNc\Ed; asti dharmaḥ \msCb, asti dharma \msCc\msM, adharma \msNd\oo
+        <APP>\vc <LEM>asti dharmaṃ</LEM> \msCa\msNa\msNb\msNc\Ed; asti dharmaḥ \msCb, asti dharma \msCc\msM, adharma \msNd\oo
                  <LEM>paraṃ guhyaṃ</LEM> \msCa\msNb\msNd\msM\Ed; paro guhya \msCb, paraṃ guhya \msCc\msNa, paraguhyaṃ \msNc</APP>
         <NOTE>Note Łdharma$ as a neuter noun in Łpāda$ c and in the next verse.</NOTE> -->
                 % Liṅgapurāṇa: bhavyaṃ pāśupataṃ nityaṃ saṃsārārṇavatārakam।। 1.108.18 ।।
@@ -836,11 +836,11 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <NOTE>The reading of all manuscripts consulted, Łvinisṛtam$, 
                 may be considered metrical if we interpret it, loosely, as Łvinisritam$.
         <sep/>
-		ŁPāda$ d is suspicious and my translation is tentative.
-		\msM s reading in pāda d (Łsrotuṃ naḥ pratidīyatāṃ$) might make sense 
-		("give it back/repeat it for us again"), but it sounds forced,
-		as if the scribe tried to come up with a reading that he understood
-		better than Łsrotuṃ vaḥ pratidīpitam$, which is in fact not easy to interpret.</NOTE>
+                  ŁPāda$ d is suspicious and my translation is tentative.
+                  \msM s reading in pāda d (Łsrotuṃ naḥ pratidīyatāṃ$) might make sense 
+                  ("give it back/repeat it for us again"), but it sounds forced,
+                  as if the scribe tried to come up with a reading that he understood
+                  better than Łsrotuṃ vaḥ pratidīpitam$, which is in fact not easy to interpret.</NOTE>
 % pratipādita?
 
 %folioinfo \msCa\ 384.jpg
@@ -865,8 +865,8 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <APP>\va <LEM>nikharvaṃ ca</LEM> \mssCaCbCc\msNa\msNc\Ed; nikharvaṃ tu \msNb, nisarvañ{ }ca \msM</APP>
         <APP>\vb <LEM>śaṅkuḥ</LEM> \corr; śaṅku \mssCaCbCc\msNa\msNb\msNc\msM, śaṃkha \Ed\oo
                  <LEM>padmaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; padma \msM</APP>
-		<!-- <TR>ten billion (Łkharva$), a hundred billion (Łnikharva$), one trillion (Łśaṅku$, 10
-			to the power of 12), 
+                  <!-- <TR>ten billion (Łkharva$), a hundred billion (Łnikharva$), one trillion (Łśaṅku$, 10
+                           to the power of 12), 
              and ten trillion (Łpadma$),</TR> -->
         <PARAL>\vab Ł = Brahmāṇḍapurāṇa 3.2.101 $ </PARAL>
 
@@ -877,11 +877,11 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                  <LEM>madhyam{ }antaṃ ca</LEM> \mssCaCbCc\msNaacorr\msM; madhyamāntaṃ ca \msNapcorr, 
                         madhya<UNCL>mantañ{ }ca</UNCL> \msNb, madhyam{ }antaś{ }ca \msNc, \om\ \Ed</APP>
         <APP>\vd <LEM>parārdhaṃ ca paraṃ tathā</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; parārddhaparadveguṇām \msM</APP>
-		<!-- <TR>a hundred trillion (Łsamudra$), one quadrillion (Łmadhya$ 10 to the power of 15),
-		         ten quadrillion (Ł[an]anta$),
+                  <!-- <TR>a hundred trillion (Łsamudra$), one quadrillion (Łmadhya$ 10 to the power of 15),
+                           ten quadrillion (Ł[an]anta$),
                          a hundred quadrillion (Łparārdha$), and two hundred quadrillion (Łpara$).</TR> -->
-		 <NOTE>For Łanta$ meaning Łananta$, see 1.58cd-59ab. \msM's reading in pāda d
-	               may be a result of an eyeskip to 1.35c.</NOTE>
+                   <NOTE>For Łanta$ meaning Łananta$, see 1.58cd-59ab. \msM's reading in pāda d
+                        may be a result of an eyeskip to 1.35c.</NOTE>
 % \msM again is creative
 %index_voc: ananta, anta as a number
 
@@ -906,7 +906,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
 <TEXT> purāṇavedapaṭhitā mayākhyātā dvijottama||</TEXT> 1.36
 <APP>\ve <LEM>°veda°</LEM> \msCa\Ed; °vede \msCb\msCc\msNb\msNc\ \unmetr,
-	                                 °vedā \msNa, °vedaiḥ \msM</APP>
+                                          °vedā \msNa, °vedaiḥ \msM</APP>
         <APP>\vf <LEM>°ākhyātā</LEM> \msCa\msCb\msNa; °ākhyātaṃ \msCc\msNb\msNc\msM\Ed\oo
                  <LEM>°ttama</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; °tama \msM</APP>
         <!-- <TR>which is based on my readings of the Purāṇas and the Vedas 
@@ -976,28 +976,28 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
 <TEXT> śivāṇḍābhyantareṇaiva sarveṣām{ }iva bhūbhṛtām|</TEXT>
         <APP>\va <LEM>śivāṇḍā°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; śivāṇḍa° \msMacorr, śivāṇḍe° \msMpcorr</APP>
-	<APP>\vb <LEM>sarveṣām{ }iva bhūbhṛtām</LEM> \conj; sarveṣām{ }iva bhūritāḥ \msCa\msCb\msNc,
-	                                sarveṣām{ }eva bhūritāḥ \msCc,
-					sarveṣām{ }iva bhūritā \msNa, sarveṣām{ }eva bhūriṇām \msNb,
-					sa<UNCL>rṣapā</UNCL> iva bhāvitā \msM,
-					sarveṣām{ }eva bhūr imāṃ \Ed</APP>
+         <APP>\vb <LEM>sarveṣām{ }iva bhūbhṛtām</LEM> \conj; sarveṣām{ }iva bhūritāḥ \msCa\msCb\msNc,
+                                         sarveṣām{ }eva bhūritāḥ \msCc,
+                                             sarveṣām{ }iva bhūritā \msNa, sarveṣām{ }eva bhūriṇām \msNb,
+                                             sa<UNCL>rṣapā</UNCL> iva bhāvitā \msM,
+                                             sarveṣām{ }eva bhūr imāṃ \Ed</APP>
                                                                  % phps bhūriṇām for bhūrīṇām? or bhūr -in?
 
 <TEXT> daśanāma diśāṣṭānāṃ brahmāṇḍe kīrtitaṃ śṛṇu||</TEXT> 1.40
         <APP>\vc <LEM>diśā°</LEM> \mssCaCbCc\msNa\msNc\msM\Ed; śivā° \msNb</APP>
         <APP>\vd <LEM>brahmāṇḍe</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; brahmaṇḍā \msM\oo
-		 <LEM>kīrtitaṃ śṛṇu</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; 
-					ya ca kīrtitam \msCb, kīrttitā śṛṇu \msM</APP>
-		<!-- <TR>Ten names of all the [cosmic] rulers of each of the eight directions 
-				in Brahmā's Egg, [which is] inside Śiva's Egg,  
-				are being taught now, listen.</TR> -->
-			<NOTE>My conjecture in pāda b is based on the fact that the 
-			readings transmitted in the MSS seem unintelligible and more importantly that
-			these names are said to belong to Łnāyaka$s in the subsequent verses,
-			a possible synonym of Łbhūbhṛt$, ('a king'), and also that
-			it is a minute intervention.
-				In Łpāda$ c, understand Łdiśāṣṭānāṃ$ as Łdiśām aṣṭānāṃ$ 
-				or Łdigaṣṭakānāṃ$</NOTE>
+                   <LEM>kīrtitaṃ śṛṇu</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; 
+                                             ya ca kīrtitam \msCb, kīrttitā śṛṇu \msM</APP>
+                  <!-- <TR>Ten names of all the [cosmic] rulers of each of the eight directions 
+                                    in Brahmā's Egg, [which is] inside Śiva's Egg,  
+                                    are being taught now, listen.</TR> -->
+                           <NOTE>My conjecture in pāda b is based on the fact that the 
+                           readings transmitted in the MSS seem unintelligible and more importantly that
+                           these names are said to belong to Łnāyaka$s in the subsequent verses,
+                           a possible synonym of Łbhūbhṛt$, ('a king'), and also that
+                           it is a minute intervention.
+                                    In Łpāda$ c, understand Łdiśāṣṭānāṃ$ as Łdiśām aṣṭānāṃ$ 
+                                    or Łdigaṣṭakānāṃ$</NOTE>
 % FIX '
 
 
@@ -1007,9 +1007,9 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 <SUBSUBCHAPTER>pūrvataḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>East</TRSUBSUBCHAPTER>
 <TEXT> sahāsahaḥ sahaḥ sahyo visahaḥ saṃhato 'sahā|</TEXT>
-	<APP>\va <LEM>sahāsahaḥ</LEM> \msNc; sāhāsaha \mssCaCbCc\msNa\msNb\msM\Ed\oo
-		 <LEM>sahaḥ sahyo</LEM> \msCa\msCc\msNa\msNb\msNc;
-		      sahaḥ sajñā \msCb, saho sahyaḥ \msM, sahaḥ sajño \Ed</APP>
+         <APP>\va <LEM>sahāsahaḥ</LEM> \msNc; sāhāsaha \mssCaCbCc\msNa\msNb\msM\Ed\oo
+                   <LEM>sahaḥ sahyo</LEM> \msCa\msCc\msNa\msNb\msNc;
+                        sahaḥ sajñā \msCb, saho sahyaḥ \msM, sahaḥ sajño \Ed</APP>
         <APP>\vb <LEM>visahaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; visaha \msCc\msM\oo
                  <LEM>sahā</LEM> \msM; sabhā \msCa\msCc\msNa\msNb\msNc, sabhāḥ \msCb, satā \Ed</APP>
         <!-- <TR>[1] Saha, [2] Asaha, [3] Sahas, [4] Sahya, [5] Visaha, [6] Saṃhata, [7] Asahā,</TR> -->
@@ -1038,7 +1038,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <!-- <TR>[1] Prabhāsa, [2] Bhāsana, [3] Bhānu, [4] Pradyota, [5] Dyutima, [6] Dyuti,</TR> -->
 
 <TEXT> dīptatejāś{ }ca tejāś{ }ca tejā tejavaho daśa||</TEXT> 1.42
-	<APP>\vc <LEM>dīptatejāś{ }ca tejāś{ }ca</LEM> \mssCaCbCc\msNa\msNb\msNc; dīptatejāś{ }ca tejaś{ }ca \msCb, 
+         <APP>\vc <LEM>dīptatejāś{ }ca tejāś{ }ca</LEM> \mssCaCbCc\msNa\msNb\msNc; dīptatejāś{ }ca tejaś{ }ca \msCb, 
                                  dīptatejas tejaś{ }ca \msM\ \unmetr, dīptatejaś{ }ca tejāś{ }ca \Ed</APP>
         <APP>\vd <LEM>tejā tejavaho</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; tejatejayaha \msM</APP>
         <!-- <TR>[7] Dīptatejas, [8] Tejas, [9] Tejā, [10] Tejavaho: [these are] the ten</TR> -->
@@ -1059,18 +1059,18 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 <TRSUBSUBCHAPTER>South</TRSUBSUBCHAPTER>
 <TEXT> yamo 'tha yamunā yāmaḥ saṃyamo yamuno 'yamaḥ||</TEXT> 1.43
         <APP>\vd <LEM>saṃyamo</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; saṃyama \msM\oo
-		 <LEM>yamuno</LEM> \msCa\msCb\msNb; yamano \msCc\msNc, yumunā \msNa,
-				yamato \msM, yamunā° \Ed\oo
+                   <LEM>yamuno</LEM> \msCa\msCb\msNb; yamano \msCc\msNc, yumunā \msNa,
+                                    yamato \msM, yamunā° \Ed\oo
                  <LEM>yamaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; yana \msM</APP>
         <!-- <TR>[1] Yama, [2] Yamunā, [3] Yāma, [4] Saṃyama, [5] Yamuna, [6] Ayama,</TR> -->
 
 <TEXT> saṃyano yamanoyāno yaniyugmā yanoyanaḥ|</TEXT>
-	<APP>\va <LEM>saṃyano yamanoyāno</LEM> \msNa; saṃyamo yamanoyāno \msCa\msCc\Ed, 
-				saṃyamo yamunoyāno \msCb\msNb,
+         <APP>\va <LEM>saṃyano yamanoyāno</LEM> \msNa; saṃyamo yamanoyāno \msCa\msCc\Ed, 
+                                    saṃyamo yamunoyāno \msCb\msNb,
                                          saṃyamā yamano yāmo \msNc, yamiyugmā yano yānaḥ \msM</APP>
-	<APP>\vb <LEM>yaniyugmā yano yanaḥ</LEM> \msNb; yaniyugmā nayo yanaḥ \msCa\msCc\msNa,
-				 yaniyugmā nayo nayaḥ \msCb,
-	yaniyugmā nayo yamaḥ \msNc, daśamā yāmyam{ }āśṛtā \msM, yaniyugmā nayonaya \Ed</APP>
+         <APP>\vb <LEM>yaniyugmā yano yanaḥ</LEM> \msNb; yaniyugmā nayo yanaḥ \msCa\msCc\msNa,
+                                     yaniyugmā nayo nayaḥ \msCb,
+         yaniyugmā nayo yamaḥ \msNc, daśamā yāmyam{ }āśṛtā \msM, yaniyugmā nayonaya \Ed</APP>
         <!-- <TR>[7] Saṃyana, [8] Yamanoyāna, [9] Yaniyugmā, [10] Yanoyana.</TR> -->
         <NOTE>I have choosen the variant Łsaṃyano$ in Łpāda$ c only to avoid the repetition of
                         the name Łsaṃyama$, and the variant Łyanoyanaḥ$ because I suspect that
@@ -1085,10 +1085,10 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <APP>\vc <LEM>naganā nando</LEM> \msCa\msCc\msNa\msNb\msNc\msM;
                                 nagajā nando \msCb, naganāgendra \msM, nagano nado \Ed</APP>
         <APP>\vd <LEM>nagaro naganandanaḥ</LEM> \msNb\msMacorr; nagaroraganandanaḥ \msCa\msNc,
-		   nagaro<UNCL>nagananda</UNCL>naḥ \msCb,
-		   naga<UNCL>ro</UNCL>××nandanaḥ \msCc,
-		   nagarogaranandanaḥ \msNa, nagaro nananandanaḥ \msMpcorr, nagaronnaganandanaḥ \Ed</APP>
-	<!-- <TR>[1] Nagaja, [2] Naganā, [3] Nanda, [4] Nagara, [5] Naga, [6] Nandana,</TR> -->
+                     nagaro<UNCL>nagananda</UNCL>naḥ \msCb,
+                     naga<UNCL>ro</UNCL>××nandanaḥ \msCc,
+                     nagarogaranandanaḥ \msNa, nagaro nananandanaḥ \msMpcorr, nagaronnaganandanaḥ \Ed</APP>
+         <!-- <TR>[1] Nagaja, [2] Naganā, [3] Nanda, [4] Nagara, [5] Naga, [6] Nandana,</TR> -->
 
 %folioinfo \msCc\ 185.jpg f.269r
 <TEXT> nagarbho gahano guhyo gūḍhajo daśa tatparaḥ|</TEXT>
@@ -1099,27 +1099,27 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <!-- <TR>[7] Nagarbha, [8] Gahana, [9] Guhyo, [10] Gūḍhaja: [these are] the ten associated with 
                         [the South-West].</TR> -->
         <NOTE>Note that the reconstruction of these names are tentative. What is clear here is that the
-		initials should be Łna$ and Łga$, probably suggesting a connection with
-				Łnirṛti$, Łnaraka$ and Łnāga$s.</NOTE>
+                  initials should be Łna$ and Łga$, probably suggesting a connection with
+                                    Łnirṛti$, Łnaraka$ and Łnāga$s.</NOTE>
 
 <SUBSUBCHAPTER>vāruṇe</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>West</TRSUBSUBCHAPTER>
 <TEXT> vāruṇena pravakṣyāmi śṛṇu vipra nibodha me||</TEXT> 1.45
         <APP>\vc <LEM>vāruṇena</LEM> \mssCaCbCc\msNa\msNb\msNc\msM; vāruṇe ca \Ed</APP>
-	<APP>\vd <LEM>śṛṇu</LEM> \msNb\msM; śṛṅge \msCa\msCb\msNa\msNc,
-				śṛ<UNCL>ṅge</UNCL> \msCc, mṛddhe \Ed</APP>
-	<!-- <TR>I shall teach you the [names] in Varuṇa's direction [in the west].
-			Listen, O Brahmin, learn from me.</TR> -->
+         <APP>\vd <LEM>śṛṇu</LEM> \msNb\msM; śṛṅge \msCa\msCb\msNa\msNc,
+                                    śṛ<UNCL>ṅge</UNCL> \msCc, mṛddhe \Ed</APP>
+         <!-- <TR>I shall teach you the [names] in Varuṇa's direction [in the west].
+                           Listen, O Brahmin, learn from me.</TR> -->
 
 % W
 <TEXT> babhraḥ setur{ }bhavodbhadraḥ prabhavodbhavabhājanaḥ|</TEXT>
-	<APP>\va <LEM>babhraḥ setur{ }bha°</LEM> \corr; babhraṃ setur{ }bha° \msCa\msCb,
-					babhraṃ setu bha° \msCc,
+         <APP>\va <LEM>babhraḥ setur{ }bha°</LEM> \corr; babhraṃ setur{ }bha° \msCa\msCb,
+                                             babhraṃ setu bha° \msCc,
                       babhraḥ setu bha° \msNa, babhraṃ sotur{ }bha° \msNb, babhra setur{ }bha° \msNc,
                                     babhrū setu bha° \msM, babhrūn{ }satur{ }bha° \Ed</APP>
         <APP>\vb <LEM>prabhavodbhava°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; prabhavobhava° \msM\oo
                  <LEM>°bhājanaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc\msM; °bhājana \Ed</APP>
-	<!-- <TR>[1] Babhra, [2] Setu, [3] Bhava, [4] Udbhadra, [5] Prabhava, [6] Udbhava, [7] Bhājana,</TR> -->
+         <!-- <TR>[1] Babhra, [2] Setu, [3] Bhava, [4] Udbhadra, [5] Prabhava, [6] Udbhava, [7] Bhājana,</TR> -->
         % °bhadraf \msCa
 
 <TEXT> bharaṇo bhuvano bhartā daśaite varuṇālayāḥ||</TEXT> 1.46
@@ -1127,10 +1127,10 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                                         bharaṇā \msNb, bharaṇaḥ \msM</APP>
         <APP>\vd <LEM>daśaite</LEM> \mssCaCbCc\msNa\msNb\Ed; daśete \msNc, daśaitā \msM\oo
                  <LEM>°ālayāḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; °ālayā \msM\Ed</APP>
-	<!-- <TR>[8] Bharaṇa, [9] Bhuvana, and [10] Bhartṛ:
-			these ten dwell in Varuṇa's direction [in the west].</TR> -->
-	<NOTE>Varuṇa upholds the sky and the earth. That could be the reason why 
-		these names unclude Łbharaṇa$ and Łbhartṛ$.</NOTE>
+         <!-- <TR>[8] Bharaṇa, [9] Bhuvana, and [10] Bhartṛ:
+                           these ten dwell in Varuṇa's direction [in the west].</TR> -->
+         <NOTE>Varuṇa upholds the sky and the earth. That could be the reason why 
+                  these names include Łbharaṇa$ and Łbhartṛ$.</NOTE>
 
 <SUBSUBCHAPTER>vāyavye</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>North-West</TRSUBSUBCHAPTER>
@@ -1146,7 +1146,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <APP>\vd <LEM>vṛṣāṅko</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; vṛṣāṃgo \msM\oo
                  <LEM>vṛṣabha°</LEM> \msCa\msCb\msNa\msNb\msNc\msM\Ed; vṛṣa¤° \msCc</APP>
         <!-- <TR>[5] Vṛṣabha, [6] Vṛṣagarbha, [7] Vṛṣāṅka, [8] Vṛṣabhadhvaja,</TR> -->
-	% what is the association?
+         % what is the association?
 
 %folioinfo \msCb\ 407.jpg f.203r
 <TEXT> jñātavyaś{ }ca tathā samyag vṛṣajo vṛṣanandanaḥ|</TEXT>
@@ -1175,16 +1175,16 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
 %folioinfo \msCa\ 385.jpg 
 <TEXT> sata satya layaḥ śambhur{ }daśanāyakam{ }uttare||</TEXT> 1.49  
-	<APP>\vc <LEM>sata satya</LEM> \mssCaCbCc\msNc; satyasatya \msNa, suta satya \msNb,
-				sutaḥ satya \msM, sata satyā° \Ed\oo
+         <APP>\vc <LEM>sata satya</LEM> \mssCaCbCc\msNc; satyasatya \msNa, suta satya \msNb,
+                                    sutaḥ satya \msM, sata satyā° \Ed\oo
                  <LEM>layaḥ</LEM> \mssCaCbCc\msNa\msNb\msM\Ed; layaṃ \msNc</APP>
-	<APP>\vcd <LEM>śambhur{ }da°</LEM> \msCa\msCb\msNb\Ed; śambhu da° \msCc\msNa\msNc,
-		 		śam<UNCL>bhuṃ</UNCL> da° \msM</APP>
+         <APP>\vcd <LEM>śambhur{ }da°</LEM> \msCa\msCb\msNb\Ed; śambhu da° \msCc\msNa\msNc,
+                                     śam<UNCL>bhuṃ</UNCL> da° \msM</APP>
         <APP>\vd <LEM>°nāyakam{ }u°</LEM> \mssCaCbCc\msNa\msNb\msNc\msM; °nāyaka u° \Ed</APP>
-	<!-- <TR>[7] Sata, [8] Satya, [9] Laya, [10] Śambhu: 
-	[these are] the ten leaders in the north.</TR> -->
-	<NOTE>Note how Łdaśanāyakam$ is a singular collective noun in pāda d.</NOTE>
-	% CHECK north associated with Śiva?
+         <!-- <TR>[7] Sata, [8] Satya, [9] Laya, [10] Śambhu: 
+         [these are] the ten leaders in the north.</TR> -->
+         <NOTE>Note how Łdaśanāyakam$ is a singular collective noun in pāda d.</NOTE>
+         % CHECK north associated with Śiva?
 
 
 <SUBSUBCHAPTER>īśāne</SUBSUBCHAPTER>
@@ -1192,18 +1192,18 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 %folioinfo \msNc\ 213.jpg lower, f. 211r
 <TEXT> indu bindu bhuvo vajra varado vara varṣaṇaḥ|</TEXT>
         <APP>\va <LEM>vajra</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; vrajaḥ \msM</APP>
-	<APP>\vb <LEM>°varṣaṇaḥ</LEM> \mssCaCbCc\msNa\msNb\msM; 
-			°¤<UNCL>rśaṇam</UNCL> \msNc, °daryya ca \Ed</APP>
+         <APP>\vb <LEM>°varṣaṇaḥ</LEM> \mssCaCbCc\msNa\msNb\msM; 
+                           °¤<UNCL>rśaṇam</UNCL> \msNc, °daryya ca \Ed</APP>
         <!-- <TR>[1] Indu, [2] Bindu, [3] Bhuva, [4] Vajra, [5] Varada, [6] Vara, [7] Varṣaṇa,</TR> -->
 
 <TEXT> ilano valino brahmā daśeśāneṣu nāyakāḥ||</TEXT> 1.50
         <APP>\vc <LEM>ilano valino brahmā</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; ilino valino brahmaḥ \msM</APP>
         <APP>\vd <LEM>daśe°</LEM> \msCa\msNa\msNc\Ed; daśai° \msCb\msCc\msNb, diśai° \msM\oo
                  <LEM>nāyakāḥ</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; nāyakā \msM</APP>
-	<!-- <TR>[8] Ilana, [9] Valina, [10] Brahmā: [these are] the ten leaders in the Īśāna
-				direction [in the north-east].</TR> -->
-	<NOTE>The North-East seems to be occupied by Brahmā, and by kings whose names should
-				somehow evoke Brahmā's name.</NOTE>
+         <!-- <TR>[8] Ilana, [9] Valina, [10] Brahmā: [these are] the ten leaders in the Īśāna
+                                    direction [in the north-east].</TR> -->
+         <NOTE>The North-East seems to be occupied by Brahmā, and by kings whose names should
+                                    somehow evoke Brahmā's name.</NOTE>
 
 <SUBSUBCHAPTER>madhyame</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Center</TRSUBSUBCHAPTER>
@@ -1221,9 +1221,9 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <APP>\vd <LEM>madhyame daśa</LEM> \msCa\msCb\msNc; madhyamo daśa \msCc\msNa, 
                                         varavarṣaṇaḥ \msNb, madhyamo daśaḥ \msM, madhyame daśaḥ \Ed</APP>
         <!-- <TR>[7] Akṣaya, [8] Avyaya, [9] Viṣṇu, [10] Varada: [these are] the ten [leaders] in the centre.</TR> -->
-	<NOTE>Note how the center of the universe seems to be occupied by Viṣṇu and
-			notice that the last three lists above have been associated 
-			with Śiva, Brahmā and Viṣṇu, respectively.</NOTE>
+         <NOTE>Note how the center of the universe seems to be occupied by Viṣṇu and
+                           notice that the last three lists above have been associated 
+                           with Śiva, Brahmā and Viṣṇu, respectively.</NOTE>
 
 
 % daśa-m-īśānāṃ        
@@ -1236,7 +1236,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 %folioinfo \Ed\ p.584
 <TEXT> śatānāṃ pṛthag{ }ekaikaṃ sahasraiḥ parivāritam||</TEXT> 1.52
         <APP>\vd <LEM>sahasraiḥ</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; sahasrai \msM\oo
-		 <LEM>°vāritam</LEM> \msCa\msCb\msCcpcorr\msNa\msNb\msNc; °vāritā \msCcacorr, °vāritaḥ \msM, °vāritāḥ \Ed</APP>
+                   <LEM>°vāritam</LEM> \msCa\msCb\msCcpcorr\msNa\msNb\msNc; °vāritā \msCcacorr, °vāritaḥ \msM, °vāritāḥ \Ed</APP>
                               % sahasraif \msCa
         <!-- <TR>Each one in [these groups of] a hundred [deities] is surrounded by a thousand.</TR> -->
 
@@ -1333,8 +1333,8 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                         madhyasakhyais{ }tu tai vṛtam \msNb,
                         madhyasakhyais{ }tu ter{ }vṛtaṃ \msNc,
                         madhye śaṅkhyāyutair{ }vṛtaḥ \Ed</APP>
-	<!-- <TR>And each of those hundred trillion (Łsamudra$) is surrounded by those whose
-				number is one quadrillion (Łmadhya$).</TR> -->
+         <!-- <TR>And each of those hundred trillion (Łsamudra$) is surrounded by those whose
+                                    number is one quadrillion (Łmadhya$).</TR> -->
 
 <TEXT> madhyasaṃkhyeṣu ekaikam{ }anantaiḥ parivāritam||</TEXT> 1.58
         <APP>\vc <LEM>madhyasaṃkhyeṣu</LEM> \mssCaCbCc\msNa\msNb\msNc; madhyasāṃkho ca \msM, madhye śaṃkheṣu \Ed</APP>
@@ -1364,21 +1364,21 @@ NUMBERS:
 10
 100
 1000
-10,000 			10 thousand		ayuta
-100,000 		100 thousand 		prayuta
-1,000,000 		a million 		niyuta
-10,000,000 		10 million 		koṭi
-100,000,000     	100 million 		arbuda
-1,000,000,000  	        one billion	10^9 	vṛnda 
-10,000,000,000  	10 billion 		kharva
-100,000,000,000		100 billion 		nikharva
-1,000,000,000,000	one trillion 	10^12	śaṅku
-10,000,000,000,000	10 trillion 		padma
-100,000,000,000,000  	100 trillion 		samudra
-1,000,000,000,000,000	one quadrillion 10^15	madhya
-10,000,000,000,000,000  10 quadrillion 		[an]anta
-100,000,000,000,000,000	100 quadrillion 	parārdha
-200,000,000,000,000,000 200 quadrillion 	para
+10,000                            10 thousand                  ayuta
+100,000                   100 thousand                   prayuta
+1,000,000                   a million                   niyuta
+10,000,000                   10 million                   koṭi
+100,000,000              100 million                   arbuda
+1,000,000,000                   one billion         10^9          vṛnda 
+10,000,000,000           10 billion                   kharva
+100,000,000,000                  100 billion                   nikharva
+1,000,000,000,000         one trillion          10^12         śaṅku
+10,000,000,000,000         10 trillion                   padma
+100,000,000,000,000           100 trillion                   samudra
+1,000,000,000,000,000         one quadrillion 10^15         madhya
+10,000,000,000,000,000  10 quadrillion                   [an]anta
+100,000,000,000,000,000         100 quadrillion          parārdha
+200,000,000,000,000,000 200 quadrillion          para
 
 
 
@@ -5101,7 +5101,7 @@ Brahmavihāras go back to the upaniṣads
                         <skt>mokṣasyāyatanāni ṣaṭ|<br/>
                         apramādas tathā śraddhā vīryārambhas tathā dhṛtiḥ|<br/>
                         jñānābhyāsaḥ saṃtāśleṣo mokṣasyāyatanāni ṣaṭ||1.3||<br/>
-                        nava śāntisamprāptihetavaḥ|</br>
+                        nava śāntisamprāptihetavaḥ|<br/>
                         dānaṃ śīlaṃ damaḥ kṣāntir maitrī bhūteṣv ahiṃsatā|<br/>
                         karuṇāmuditopekṣā śāntisamprāptihetavaḥ||1.4||<br/></skt>
 </NOTE>
@@ -5208,7 +5208,7 @@ Brahmavihāras go back to the upaniṣads
                 ŁSee also Yājñavalkyasmṛti 3.227: $
                         brahmahā madyapaḥ stenas{ }tathaiva gurutalpagaḥ |
                         ete mahāpātakino yaś{ }ca taiḥ saha saṃvaset || </PARAL>
-% brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ ।168.024  	 purana/agni-puranam/168.txt
+% brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ ।168.024            purana/agni-puranam/168.txt
 
 %folioinfo \msM\ 420.jpg lower, f. 9r  
 <TEXT> mahāpātakam{ }ity{ }āhus{ }tatsaṃyogī ca pañcamaḥ||</TEXT> 4.77
@@ -5224,7 +5224,7 @@ Brahmavihāras go back to the upaniṣads
         <!-- <TR>A lie concerning one's superiority, a slander that reaches the king's ear,</TR> -->
 % Judit concerns the king 
 % Flo Pañcatantra jackal etc.
-% anṛte ca samutkarṣo rājagāmi ca paiśunaṃ ।168.025  	 purana/agni-puranam/168.txt
+% anṛte ca samutkarṣo rājagāmi ca paiśunaṃ ।168.025            purana/agni-puranam/168.txt
 
 <TEXT> guroś{ }cālīkanirbaddhaḥ samāni brahmahatyayā||</TEXT> 4.78
         <APP>\vc <LEM>°nirbaddhaḥ</LEM> \msCa\msCb\msNc; nibaddhas \msCa\msCc\msNa\msNb, nirvaddhas \Ed</APP>
@@ -5237,7 +5237,7 @@ Brahmavihāras go back to the upaniṣads
         <NOTE>The translation of this verse is based on Olivelle's (Olivelle Crit Ed. p. 218).</NOTE>
 % Judit would emend nirbandha
 Manubhāṣya nirbandha Nirajan
-% guroścālīkanirbandhaḥ samānaṃ brahmahatyayā(1) ॥168.025  	 purana/agni-puranam/168.txt
+% guroścālīkanirbandhaḥ samānaṃ brahmahatyayā(1) ॥168.025            purana/agni-puranam/168.txt
 
 <TEXT> brahmo ṛgvedanindā ca kūṭasākṣī suhṛdvadhaḥ|</TEXT>
         <APP>\va <LEM>brahmo</LEM> \mssCaCbCc\msNa\msNb\msNc; brahma \Ed</APP>
@@ -5257,7 +5257,7 @@ Manubhāṣya nirbandha Nirajan
                         gurūṇām{ }adhyadhikṣepo vedanindā suhṛdvadhaḥ |
                         brahmahatyāsamaṃ jñeyam{ }adhītasya ca nāśanam ||</PARAL>
         <!-- <TR>eating unfit or forbidden food are six [deeds that are] equal to drinking alcohol.</TR> -->
-% garhitānnājyayorjagdhiḥ(2) surāpānasamāni ṣaṭ ॥168.026  	 purana/agni-puranam/168.txt
+% garhitānnājyayorjagdhiḥ(2) surāpānasamāni ṣaṭ ॥168.026            purana/agni-puranam/168.txt
 % Perhaps check variants in Olivelle's edition
 % Manu garhitānna... Judit
 % jagdhi used as a verb? Judit maybe keep it
@@ -5268,7 +5268,7 @@ Manubhāṣya nirbandha Nirajan
         <!-- <TR>Sexual intercourse with a female relative, with an unmarried girl,
                  with women of the lowest castes,</TR> -->
 % Judit like in tantric text : śiroddeśa from śirodeśa, keep it, it does not mean ut-! originally phps some gemination
-% retaḥsekaḥ svayonyāṣu kumārīṣvantyajāsu ca ।168.028  	 purana/agni-puranam/168.txt
+% retaḥsekaḥ svayonyāṣu kumārīṣvantyajāsu ca ।168.028            purana/agni-puranam/168.txt
 
 <TEXT> sakhyuḥ putrasya ca strīṣu gurutalpasamaḥ smṛtaḥ||</TEXT> 4.80
         <APP>\vc <LEM>sakhyuḥ</LEM> \eme; sakhya \mssCaCbCc\msNa\Ed, ¤¤ \msNb, sa<UNCL>khyu</UNCL> \msNc\oo
@@ -5279,14 +5279,14 @@ Manubhāṣya nirbandha Nirajan
                                 sakhyuḥ putrasya ca strīṣu gurutalpasamaṃ viduḥ ||</PARAL>
         <!-- <TR>with the wife of a friend or of one's own son are said to be equal to violating the guru's bed.</TR> -->
 % Flo Śivadharmaśāstra/Śivadharmottara Manu quotations are better/more Manu, more faithful
-                % sakhyuḥ putrasya ca(3) strīṣu gurutalpasamaṃ viduḥ ॥168.028  	 purana/agni-puranam/168.txt
+                % sakhyuḥ putrasya ca(3) strīṣu gurutalpasamaṃ viduḥ ॥168.028            purana/agni-puranam/168.txt
 
 <TEXT> nikṣepasyāpaharaṇaṃ narāśvarajatasya ca|</TEXT>
         <APP>\va <LEM>nikṣepa°</LEM> \msCa\msCc\msNa\msNc\Ed; <UNCL>nikṣepa°</UNCL> \msNb, nikhepa° \msCb</APP>
         <APP>\vb <LEM>narāśvarajatasya</LEM> \msCa\msCc\msNa\msNc\Ed; <UNCL>narāśvarajatasya</UNCL> \msNb,
                                                         narāṇāṃ svajanasya \msCb</APP>
         <!-- <TR>Stealing/taking away deposits, people, horses, silver,</TR> -->
-                nikṣepasyāpaharaṇaṃ narāśvarajatasya ca ।168.027  	 purana/agni-puranam/168.txt
+                nikṣepasyāpaharaṇaṃ narāśvarajatasya ca ।168.027            purana/agni-puranam/168.txt
 
 %folioinfo \msNc\ 219.jpg lower, 217r
 % manīnāṃ \msCb
@@ -5299,7 +5299,7 @@ Manubhāṣya nirbandha Nirajan
 %nikṣepasyāpaharaṇaṃ narāśvarajatasya ca|
 %bhūmivajramaṇīnāṃ ca rukmasteyasamaṃ smṛtam||
 % Nirajan rugma might be acceptable
-% bhūmivajramaṇīnāñca rukmasteyasamaṃ smṛtaṃ ॥168.027  	 purana/agni-puranam/168.txt
+% bhūmivajramaṇīnāñca rukmasteyasamaṃ smṛtaṃ ॥168.027            purana/agni-puranam/168.txt
 
 <TEXT> catvāra ete sambhūya yat{ }pāpaṃ kurute naraḥ|</TEXT>
         <APP>\va <LEM>ete</LEM> \mssCaCbCc\msNa\msNc; <UNCL>ete</UNCL> \msNb, eva \Ed\oo
@@ -5769,7 +5769,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\vc <LEM>kākolūkaṃ balākaṃ ca</LEM> \msCb\msNc; kākolūka<UNCL>sva</UNCL>¤¤ñ{ }ca \msCa,
                                                         kākolūkabalākaṃ ca \msCc\msNa\Ed, 
                                                         <UNCL>kākolūkaṃ balākaṃ ca</UNCL> \msNb</APP>
-        <!-- <TR>He should also avoid [eating] swans, cranes, Łcakravāka$ birds, dogs, parrots and hawks,
+        <!-- <TR>He should also avoid [eating] geese, cranes, Łcakravāka$ birds, dogs, parrots and hawks,
                 crows, owls, Łbalāka$ cranes, fish etc.</TR> -->
 
 <TEXT> amedhyāṃś{ }cāpavitrāṃś{ }ca sarvān{ }eva vivarjayet|</TEXT> 
@@ -6233,7 +6233,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\vc <LEM>°bhyasanaṃ caiva</LEM> \msCb\msCc\msNa\msNc\Ed; °bhyasana¤¤ \msCa, °bhyasa<UNCL>naṃ</UNCL> caiva \msNb</APP>
         <PARAL>\vcd Ł \kb\ MBh 6.39.15cd: $ svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate</PARAL>
         <!-- <TR>Verbal penance is taught as speech that causes no anxiety,
-                which is kind, true and useful, and [it include] also the practice of recitation.</TR> -->
+                which is kind, true and useful, and [it includes] also the practice of recitation.</TR> -->
 
 <TEXT> ārjavaṃ ca ahiṃsā ca brahmacaryaṃ surārcanam|</TEXT>
         <APP>\va <LEM>ārjavaṃ ca ahiṃsā ca</LEM> \mssCaCbCc\msNa\msNb\msNc;
@@ -6261,7 +6261,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\vd <LEM>tapa uktaṃ maharṣibhiḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; tapam{ }uktaṃ mahirṣibhiḥ \Ed</APP>
         <!-- <TR>[Penance] which is a mixture of the mental [and the verbal] is
                 taught by the great Ṛṣis to be these five:
-                He should speak [about things that are] agreeable, virtuous [bhāva?], auspicious, 
+                he should speak [about things that are] agreeable, virtuous [bhāva?], auspicious, 
                 salutary and useful.</TR> -->
 
 <TEXT> svastimaṅgalam{ }āśīrbhir{ }atithigurupūjanam|</TEXT>
@@ -8973,7 +8973,7 @@ Dadhīca said:<br>
                  <LEM>°prapañcam</LEM> \msCa\msNa\msNb\msNc; °prapañca \msCb\msCc\Ed</APP>
 
 % unmetr
-%       - - -    -  . - -!. .  . .    .  . -  -   .    - - . -  -	
+%       - - -    -  . - -!. .  . .    .  . -  -   .    - - . -  -         
 <TEXT> deveśaṃ ghaṇṭikeśamarabhavam{ }abhavantīrtham{ }ākāśabindum||</TEXT> 10.32
         <APP>\vd <LEM>deveśaṃ</LEM> \msCb\msNb\Ed; devyeśaṃ \msCa\msCc\msNa, devyeśa \msNc\oo
                  <LEM>ghaṇṭikeśamara°</LEM> \msCa\msCb\msNb\msNc; ghaṇṭikeśāmara° \msCc,
@@ -9057,6 +9057,8 @@ Dadhīca said:<br>
 %folioinfo \msNc\ 7804.jpg upper (= 226.jpg upper, f. 223v) line 4  CHANGE CHECK this again because I used the blurred images, but there are better ones
 %folioinfo \msM\ 425.jpg upper, f. 16v line 4
 %folioinfo \Ed\ p.613; somehow Ed seems to be close to \msCb and also sometimes \msCc here
+
+% CHECK ŚDhU 10.77 (Dominic) on internal sacrifice
 
 <CHAPTER>ekādaśamo 'dhyāyaḥ</CHAPTER> 
 <!-- <TRCHAPTER> Chapter Eleven </TRCHAPTER> -->
@@ -13104,7 +13106,7 @@ MBh check context in more detail:
 06035015a bahir antaś ca bhūtānām acaraṃ caram eva ca
 06035015c sūkṣmatvāt tad avijñeyaṃ dūrasthaṃ cāntike ca tat
 
-%  bahirantaśca bhūtānāmacarañcarameva ca ।  	 purana/agni-puranam/381.txt
+%  bahirantaśca bhūtānāmacarañcarameva ca ।            purana/agni-puranam/381.txt
 
 <TEXT> aprameyo 'vināśī ca aprapañcaḥ prapañcakaḥ|</TEXT>
         <APP>\vab <LEM>(aprameyoŁ...$ prapañcakaḥ)</LEM> \msCa\msCb\msNa\msNc\Ed; \om\ \msNb</APP>
@@ -13489,7 +13491,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
                 % Agnipurāṇa check if larger 
                 % CHECK parallel ŚDU 3.41 yajñair ...
                 % vairañjyaṃ Nirajan 
-                        % yajñaiśca devānāpnoti vairājaṃ tapasā padaṃ ।  	 purana/agni-puranam/379.txt
+                        % yajñaiśca devānāpnoti vairājaṃ tapasā padaṃ ।            purana/agni-puranam/379.txt
 
 %folioinfo \Ed\ p.642                                     eme layaḥ? 
 % Kenji castes?
@@ -13652,7 +13654,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <!-- <TR>holding his trunk, head and neck level, staying [in the position] without any movement.</TR> -->
         % Sarvajñānottara: āsanaṃ ruciraṃ baddhvā ūrdhvakāyaḥ samaṃ śiraḥ 27:10
         % Nirajan this is the karaṇa
-% samakāyaśiragrīvaṃ dhārayannacalaṃ sthiraḥ ।। 373.3 ।।  	 purana/agni-puranam/373.txt
+% samakāyaśiragrīvaṃ dhārayannacalaṃ sthiraḥ ।। 373.3 ।।            purana/agni-puranam/373.txt
 
 <TEXT> pratyāhāras{ }tathā dhyānaṃ prāṇāyāmaś{ }ca dhāraṇā|</TEXT>
         <APP>\va <LEM>pratyāhāras{ }ta°</LEM> \msCa\msCb\msNa\msNb\msNc; pratyahāras{ }ta° \Ed\oo
@@ -16116,7 +16118,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> prayāṇaṃ kurute yasmāt{ }tasmāt{ }prāṇa iti smṛtaḥ||</TEXT> 20.26
         <APP>\vc <LEM>prayāṇaṃ</LEM> \msCa\msCb\msNa\msNb; prayāṇā \Ed</APP>
         <!-- <TR>It is called Prāṇa because it sets [beings] in motion (Łprayāṇaṃ kurute$).</TR> -->
-% prayāṇaṃ kurute yasmāttasmātprāṇaḥ prakīrtitaḥ ॥8  	 purana/agni-puranam/214.txt
+% prayāṇaṃ kurute yasmāttasmātprāṇaḥ prakīrtitaḥ ॥8            purana/agni-puranam/214.txt
 
 % manujām for pl gen, or emend to nṛṇām (Bṛhatkālottara) aiśa
 <TEXT> apanayaty{ }apānas{ }tu āhāraṃ manujām{ }adhaḥ|</TEXT>
@@ -16129,7 +16131,7 @@ senses, which are left out of the classical Sāmkhya listing.
         <APP>\vd <LEM>°pānas{ }tena</LEM> \msCa\msNa\msNb\Ed; °vānas{ }tena \msCb</APP>
         <!-- <TR>It gets rid of semen and urine, that is why it is called
                         Apāna [the 'down and out' Wind].</TR> -->
-% mūtraśukravaho vāyurapānastena kīrtitaḥ ॥9  	 purana/agni-puranam/214.txt
+% mūtraśukravaho vāyurapānastena kīrtitaḥ ॥9            purana/agni-puranam/214.txt
 
 <TEXT> pītabhakṣitam{ }āghrātaṃ raktapittakaphānilam|</TEXT>
         <APP>\va <LEM>°ghrātaṃ</LEM> \msCa\msCb\msNb\Ed; °ghrāti \msNa</APP>
@@ -16141,14 +16143,14 @@ senses, which are left out of the classical Sāmkhya listing.
         <!-- <TR>The Wind called Samāna brings into equilibrium that which has been drunk,
                 the food that has been eaten, the blood [and the three humours] Pitta,
                         Kapha and Anila.</TR> -->
-               samannayati gātreṣu samāno nāma mārutaḥ ॥10  	 purana/agni-puranam/214.txt
+               samannayati gātreṣu samāno nāma mārutaḥ ॥10            purana/agni-puranam/214.txt
 
 % verse 20.30:
 <TEXT> spandayaty{ }adharaṃ vaktraṃ netragātraprakopanam|</TEXT>
         <APP>\vo <LEM>(spandayaty{ }adharaṃŁ...$ mārutaḥ)</LEM> \msCa\msCb\msNa\Ed; \om\ \msNb</APP>
         <APP>\va <LEM>°dharaṃ</LEM> \msCa\msCb\msNa; \om\ \msNb, °dhara° \Ed\ \unmetr</APP>
         <APP>\vb <LEM>°gātrapra°</LEM> \msCa\msNa\Ed; °gātram{ }pra° \msCb, \om\ \msNb</APP>
-                spandayatyadharaṃ vaktraṃ netrarāgaprakopanaṃ ।  	 purana/agni-purana
+                spandayatyadharaṃ vaktraṃ netrarāgaprakopanaṃ ।            purana/agni-purana
 
 <TEXT> udvejayati marmāṇi udāno nāma mārutaḥ||</TEXT> 20.29
         <APP>\vc <LEM>marmāṇi</LEM> \msCa\msCb\msNa; \om\ \msNb, karmāṇi \Ed</APP>
@@ -16373,7 +16375,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> śabdaḥ sparśaś{ }ca rūpaṃ ca raso gandhaś{ }ca pañcamaḥ||</TEXT> 20.47
         <APP>\vc <LEM>rūpaṃ ca</LEM> \msCa\msNa; rūpaś{ }ca \msCb\Ed</APP>
         <APP>\vd <LEM>pañcamaḥ</LEM> \msCa\msCb\msNa; pañcama \Ed</APP>
-% śabdaḥ sparśaśca rupañca rasoṃ gandhaśca tadguṇāḥ ।  	 purana/agni-puranam/376.txt
+% śabdaḥ sparśaśca rupañca rasoṃ gandhaśca tadguṇāḥ ।            purana/agni-puranam/376.txt
 
 <TEXT> āpaḥpūrvaguṇāḥ proktā bhūmer{ }gandhaguṇaṃ śṛṇu|</TEXT>
         <APP>\va <LEM>āpaḥ°</LEM> \msCa\msCb\msNa; āpa° \Ed\oo
@@ -16802,7 +16804,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> śaṅkhacakragadāpāṇiḥ pītāmbaradharo hariḥ||</TEXT> 21.6
         <APP>\vc <LEM>śaṅkhacakragadāpāṇiḥ</LEM> \mssCaCbCc\msNa\msNc\Ed; ×××××××× \msNb</APP>
         <!-- <TR>holding in his hands a conch-shell, a discus and a mace, wearing yellow garments.</TR> -->
-% śaṅkhacakragadāvedapāṇiścāśvaśirā hariḥ।  	 purana/agni-puranam/049.txt
+% śaṅkhacakragadāvedapāṇiścāśvaśirā hariḥ।            purana/agni-puranam/049.txt
 
 %folioinfo \msNb\ 076.jpg lower image
 % ma-vipulā
@@ -16827,7 +16829,7 @@ senses, which are left out of the classical Sāmkhya listing.
                                         <UNCL>adya</UNCL>××××<UNCL>janma</UNCL> \msCc</APP>
                  <PARAL>\vcd Ł= Kūrmapurāṇa 1.11.219 \kb\ MBh 5.113.5ab: $ adya me saphalaṃ janma tāritaṃ cādya me kulam
                                 \kb\ MBh 13.14.179a: $ adya jāto hy ahaṃ deva adya me saphalaṃ tapaḥ</PARAL>
-% adya me saphalaṃ janma adya me saphalaṃ tapaḥ।  	 purana/vayu-puranam/02/044.txt
+% adya me saphalaṃ janma adya me saphalaṃ tapaḥ।            purana/vayu-puranam/02/044.txt
                         
 
 
@@ -19132,7 +19134,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
                                            kumā¤××××¤¤ṇīcakaḥ \msCa</APP>
         <!-- <TR>Jalada, Kumāra, Sukumāra, Maṇīcaka,</TR> -->
 %sivadharmasangraha10-12raw.txt: janadaśca kūmāraśca sukūmāro maṇīcakaḥ
-% jaladaśca kumāraśca sukumāro maṇīvakaḥ ।119.019  	 purana/agni-puranam/119.txt
+% jaladaśca kumāraśca sukumāro maṇīvakaḥ ।119.019            purana/agni-puranam/119.txt
 
 
 %folioinfo \msCa\ 469.jpg f.237r
@@ -19163,7 +19165,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
                                 yavanaś{ }cāndhakārakaḥ \Ed</APP>
         <!-- <TR>Kuśala, Manonuga, Uṣṇa, Yāvana, Andhakāraka,</TR> -->
         <NOTE>Note that pāda a is hypermetrical.</NOTE>
-% kuśalo manonugaścoṣṇaḥ pradhāno'thāndhakārakaḥ ।119.015  	 purana/agni-puranam/119.txt
+% kuśalo manonugaścoṣṇaḥ pradhāno'thāndhakārakaḥ ।119.015            purana/agni-puranam/119.txt
 
 <TEXT> muniś{ }ca dundubhiś{ }caiva sutā dyutimatas{ }tu vai||</TEXT> 24.21
         <APP>\vd <LEM>sutā dyutimatas</LEM> \msCa\msCb; sutadyutimanas \Ed</APP>
@@ -19348,7 +19350,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
 %folioinfo \msCa\ 470.jpg
 <TEXT> indradvīpaḥ kaśeruś{ }ca tāmravarṇo gabhastimān||</TEXT> 24.35
 % sivadharmasangraha10-12raw.txt: indradvīpaḥ kaśaruśca tāmravarṇogabhastimāna 
-% indradvīpaḥ kaseruśca tāmravarṇo gabhastimān ॥118.003  	 purana/agni-puranam/118.txt
+% indradvīpaḥ kaseruśca tāmravarṇo gabhastimān ॥118.003            purana/agni-puranam/118.txt
 
 <TEXT> nāgadvīpas{ }tathā saumyo gāndharvaś{ }cātha vāruṇaḥ|</TEXT>
         <APP>\vc <LEM>saumyo</LEM> \msCb\Ed; saumyā \msCa</APP>
@@ -19356,7 +19358,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
         <!-- <TR>Indradvīpa, Kaśeru, Tāmravarṇa, Gabhastimat,
              Nāgadvīpa, Saumya, Gāndharva, Vāruṇa,</TR> -->
   % Liṅgapurāṇa 1:  nāgadvīpaṃ tatā saumyaṃ gāṃdharvaṃ vāruṇaṃ gatāḥ।।
-  % nāgadvīpastathā saumyo gāndharvastvatha vāruṇaḥ ।118.004  	 purana/agni-puranam/118.txt
+  % nāgadvīpastathā saumyo gāndharvastvatha vāruṇaḥ ।118.004            purana/agni-puranam/118.txt
 
 
 % CHANGE DAṆḌAS:
@@ -19390,7 +19392,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
 % 02sdhu/sivadharmottara_complete.txt:  4377:     himavān hemakūṭaś ca niṣadhaś ceti dakṣiṇe ||
 % 02sdhu/sivadharmottara_complete.txt-  4378-     nīlaḥ śvetaś ca śṛṅgī ca meror uttaratas trayaḥ || 12.26 ||
 % sivadharmasangraha10-12raw.txt: himavān hemakūṭaśca niṣadhonīla eva ca
-% himavān hemakūṭaśca niṣadho nīla eva ca ।। 219.56 ।।  	 purana/agni-puranam/219.txt
+% himavān hemakūṭaśca niṣadho nīla eva ca ।। 219.56 ।।            purana/agni-puranam/219.txt
 
 <TEXT> śvetaś{ }caivatriśṛṅgaś{ }ca nīlaś{ }caiva tathottare||</TEXT> 24.43
 %sivadharmottara_complete.txt: 
