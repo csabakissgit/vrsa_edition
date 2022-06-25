@@ -351,15 +351,6 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
 <TEXT> śīlaśaucasamācāraṃ sarvabhūtadayāparam||</TEXT> 1.7
         <APP>\vd <LEM>°param</LEM> \msCa\msCb\msNa\msNc\msM\Ed; °nvitam \msCc\msNd, °<UNCL>pa</UNCL>raṃ \msNb</APP>
-<!-- <TR>|F| Viṣṇu, the great Lord, assuming the form
-         of a twice-born [Brahmin], wanted to
-         test the one (i.e. Anarthayajña) who performed
-         nonmaterial sacrifices (i.e. Łanarthayajña$),
-         the one who focused on his austerities and
-         observances, the one whose conduct was virtuous
-         and pure, and who was intent on compassion towards
-         all living beings, and therefore he (Viṣṇu)
-         humbly asked him a question.</TR> -->
         <NOTE>Note the odd syntax here: Łviṣṇunā... dvijarūpadharo bhūtvā papraccha$.
                The agent of the active verb is in the instrumental case.
                 <sep/>
@@ -378,6 +369,15 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 <TEXT> dvijarūpadharo bhūtvā papraccha vinayānvitaḥ||</TEXT> 1.8
         <APP>\vc <LEM>°dharo</LEM> \msCb\msCc\msNa\msNc\msNd\msM\Ed; °¤ro \msCa, °dharā \msNb</APP>
         <APP>\vd <LEM>°nvitaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °nvitaṃ \msCc\msNd\msM</APP>
+<!-- <TR>|F| Viṣṇu, the great Lord, assuming the form
+         of a twice-born [Brahmin], wanted to
+         test the one (i.e. Anarthayajña) who performed
+         nonmaterial sacrifices (i.e. Łanarthayajña$),
+         the one who focused on his austerities and
+         observances, the one whose conduct was virtuous
+         and pure, and who was intent on compassion towards
+         all living beings, and therefore he (Viṣṇu)
+         humbly asked him a question.</TR> -->
 % śīla and vinaya sound Buddhist Kenji (KCs yes, but also wide-spread in the epics etc.)
 % \msNc\ rāpadharo 
 % \msNc\ <CANCELLED>paṃ</CANCELLED> papraccha 
@@ -5896,7 +5896,7 @@ Manubhāṣya nirbandha Nirajan
 
 % CHECK Śivadharmottara 3.12-15 !!
 
-<SUBCHAPTER>niyameṣu ijyā (2)</SUBCHAPTER>
+<SUBCHAPTER>niyameṣv{ }ijyā (2)</SUBCHAPTER>
 <TRSUBCHAPTER>The second niyama-rule: Sacrifice</TRSUBCHAPTER>
 <ANUSTUBH/>
 <TEXT> [anarthayajña uvāca|*]</TEXT>
@@ -5969,7 +5969,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\va <LEM>°yajñaṃ tato</LEM> \msCa\msNa\msNb\msNc\Ed; °yajñaṃ tapo \msCb °yajñas{ }tato \msCc</APP>
 
 % stem form
-<TEXT> vedādhyayana kartavyaṃ śivasaṃhitam{ }eva ca||</TEXT> 6.5
+<TEXT> vedādhyayana kartavyaṃ śivasaṃhitam{ }eva ca|</TEXT>
         <APP>\vc <LEM>vedā°</LEM> \mssCaCbCc\msNa\msNc\Ed; adā° \msNb</APP>
         <!-- <TR>Next I shall teach you the sacrifice with recitation, 
                 the bestower of the fruits of heaven and liberation.
@@ -5977,7 +5977,7 @@ Manubhāṣya nirbandha Nirajan
         <NOTE>Note vedādhyayana (stem form) and °saṃhitam for saṃhitāṃ metri causa.</NOTE>
 
 %folioinfo \msNb\ 50.jpg upper 
-<TEXT> itihāsapurāṇaṃ ca japayajñaḥ sa ucyate|</TEXT>
+<TEXT> itihāsapurāṇaṃ ca japayajñaḥ sa ucyate||</TEXT> 6.5
         <APP>\va <LEM>°purāṇaṃ ca</LEM> \mssCaCbCc\msNa\msNb\msNc; °purāṇaś{ }ca \Ed</APP>
         <APP>\vb <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °yajña \msCc</APP>
         <!-- <TR>the epics and the Purāṇas: this is called sacrifice with recitation.</TR> -->
@@ -5988,7 +5988,7 @@ Manubhāṣya nirbandha Nirajan
 <TRSUBSUBCHAPTER>Sacrifice through knowledge</TRSUBSUBCHAPTER>
 
 %folioinfo \msM\ 422.jpg upper, f. 10v 
-<TEXT> idaṃ karma akarmedam{ }ūhāpohaviśāradaḥ||</TEXT> 6.6
+<TEXT> idaṃ karma akarmedam{ }ūhāpohaviśāradaḥ|</TEXT> 
         <APP>\vc <LEM>karma</LEM> \mssCaCbCc\msNa\msNb\msNc; kramam \Ed</APP>
         <!-- <TR>He who is knowledgeable about inference CHECK and reasoning,
              [and knows that] ``this is [proper] action; the other is improper action'',</TR> -->
@@ -5997,7 +5997,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\va <LEM>°cakṣuḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °cakṣu \msCc</APP>
         <APP>\vb <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc, °<UNCL>yajñas</UNCL> \msNb</APP>
         
-<TEXT> dhyānayajñaṃ samāsena kathayiṣyāmi te śṛṇu||</TEXT> 6.7
+<TEXT> dhyānayajñaṃ samāsena kathayiṣyāmi te śṛṇu||</TEXT> 6.6
         <APP>\vc <LEM>°yajñaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc\msNb</APP>
         <!-- <TR>and views [things through?] the eyes of science is called
                         [a person performing] sacrifice through knowledge.
@@ -6012,7 +6012,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\va <LEM>dhyānaṃ</LEM> \mssCaCbCc\msNb\Ed; dhyāna \msNa\msNc</APP>
 
 % unmetr
-<TEXT> sūryaḥ somo 'gni sphaṭikaḥ sūkṣmaṃ tattvaṃ ca pañcamam||</TEXT> 6.8
+<TEXT> sūryaḥ somo 'gni sphaṭikaḥ sūkṣmaṃ tattvaṃ ca pañcamam||</TEXT> 6.7
         <APP>\vc <LEM>somo</LEM> \msCa\msCc\msNa\msNc; somā° \msCb\msNb\Ed</APP>
         <APP>\vd <LEM>sūkṣmaṃ tattvaṃ ca pañcamam</LEM> \msCb;
                                 sūkṣmaṃ ta<UNCL>tva</UNCL>×××ñcamam \msCa, 
@@ -6025,7 +6025,7 @@ Manubhāṣya nirbandha Nirajan
 <TEXT> sūryamaṇḍalam{ }ādau tu tattvaṃ prakṛtir{ }ucyate|</TEXT>
 
 %       mudhye \msNa
-<TEXT> tasya madhye śaśiṃ dhyāyet{ }tattvaṃ puruṣa ucyate||</TEXT> 6.9
+<TEXT> tasya madhye śaśiṃ dhyāyet{ }tattvaṃ puruṣa ucyate||</TEXT> 6.8
         <APP>\vc <LEM>śaśiṃ</LEM> \mssCaCbCc\msNa\Ed; śaśi \msNb, śaśiṃn \msNc</APP>
         <APP>\vcd <LEM>dhyāyet{ }ta°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dhyāye ta° \msCc</APP>
         <!-- <TR>First it is the Sun [that should be meditated upon], 
@@ -6036,7 +6036,7 @@ Manubhāṣya nirbandha Nirajan
 <TEXT> candramaṇḍalamadhye tu jvālām{ }agniṃ vicintayet|</TEXT>
         <APP>\vb <LEM>jvālām{ }agniṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; jālām{ }agni \msNc</APP>
 
-<TEXT> prabhutattvaḥ sa vijñeyo janmamṛtyuvināśanaḥ||</TEXT> 6.10
+<TEXT> prabhutattvaḥ sa vijñeyo janmamṛtyuvināśanaḥ||</TEXT> 6.9
         <APP>\vc <LEM>°tattvaḥ</LEM> \mssCaCbCc\msNc; °tatva \msNa, °tatvaṃ \msNb\Ed</APP>
         <APP>\vd <LEM>°nāśanaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; °nāśanam \msCc\Ed</APP>
         <!-- <TR>In the centre of the Moon disk, he should visualise a flame, a fire.
@@ -6048,7 +6048,7 @@ Manubhāṣya nirbandha Nirajan
                                         dhyāye sphaṭika \msCc\Ed\oo
                  <LEM>°malam</LEM> \mssCaCbCc\msNb\Ed; °malaḥ \msNa, <UNCL>°malaḥ</UNCL> \msNc</APP>
 
-<TEXT> vidyātattvaḥ sa vijñeyaḥ kāraṇam{ }ajam{ }avyayam||</TEXT> 6.11
+<TEXT> vidyātattvaḥ sa vijñeyaḥ kāraṇam{ }ajam{ }avyayam||</TEXT> 6.10
         <APP>\vc <LEM>tattvaḥ sa</LEM> \msCb\msNa\msNb\msNc; ta<UNCL>tvan</UNCL>× \msCa, tatva sa \msCc, tatvaṃ sa \Ed</APP>
         <APP>\vd <LEM>°jam{ }avyayam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °m{ }avyayaṃ \msCc</APP>
         <!-- <TR>In the centre of the ring of fire, he should visualize a spottless crystal.
@@ -6061,7 +6061,7 @@ Manubhāṣya nirbandha Nirajan
 <TEXT> akīrtitam{ }anaupamyaṃ śivam{ }akṣayam{ }avyayam|</TEXT>
         DhP akīrtitamanaupamyaṃ pañcamaṃ śivamaṇḍalam| 4.14ab
 
-<TEXT> pañcamaṃ dhyānayajñasya tattvam{ }uktaṃ samāsataḥ||</TEXT> 6.12
+<TEXT> pañcamaṃ dhyānayajñasya tattvam{ }uktaṃ samāsataḥ||</TEXT> 6.11
         <APP>\vc <LEM>°yajñasya</LEM> \msCa\msCb\msNa\msNb\msNc; °yajñañ{ }ca \msCc\Ed</APP>
         <APP>\vd <LEM>samāsataḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; sanātanaḥ \Ed</APP>
         <!-- <TR>In the centre of the disk of Vidyā, he should visualize the highest Tattva,
@@ -6078,7 +6078,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\va <LEM>hi</LEM> \Ed; tri° \mssCaCbCc\msNa\msNb\msNc</APP>
         <NOTE>Łtri°$ in the MSS is a problem.</NOTE>
 
-<TEXT> kāni lokāḥ prapadyante kālaṃ vāsya tapodhana||</TEXT> 6.13
+<TEXT> kāni lokāḥ prapadyante kālaṃ vāsya tapodhana||</TEXT> 6.12
         <APP>\vc <LEM>lokāḥ</LEM> \msCa\msNa\msNc; lokā \msCb\msCc\msNb\Ed\oo
                  <LEM>prapadyante</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; pra¤¤¤ \msCa</APP>
         <APP>\vd <LEM>°dhana</LEM> \msCa\msCc\msNa\msNb\Ed; °dhanaḥ \msCb\msNc</APP>
@@ -6097,7 +6097,7 @@ Manubhāṣya nirbandha Nirajan
                                                                     \om\ \msNaacorr\oo
                   <LEM>prakṛticintayā</LEM> \mssCaCbCc\msNa\msNb\msNc; ca kṛticintaya \Ed</APP>
 
-<TEXT> kalpakoṭisahasrāṇi śivavan{ }modate sukhī||</TEXT> 6.14
+<TEXT> kalpakoṭisahasrāṇi śivavan{ }modate sukhī||</TEXT> 6.13
         <APP>\vd <LEM>sukhī</LEM> \mssCaCbCc\msNa\msNb\msNc; sukham \Ed</APP>
         <!-- <TR>The first [world to reach] is Brahmaloka,
              through the meditation on the first Tattva, Prakṛti.
@@ -6107,7 +6107,7 @@ Manubhāṣya nirbandha Nirajan
 %folioinfo \msCb\ 420.jpg f. 209v
 <TEXT> dvitīyaṃ tattva puruṣaṃ dhyāyamāno mṛto yadi|</TEXT>
 
-<TEXT> viṣṇulokam{ }ito yāti kalpakoṭyayutaṃ sukhī||</TEXT> 6.15
+<TEXT> viṣṇulokam{ }ito yāti kalpakoṭyayutaṃ sukhī||</TEXT> 6.14
         <APP>\vc <LEM>yāti</LEM> \mssCaCbCc\msNa\msNb\msNc; yānti \Ed</APP>
         <!-- <TR>If one dies while meditating on the second Tattva, 
              Puruṣa, one goes to Viṣṇuloka from this world, [and will live there] happily
@@ -6121,7 +6121,7 @@ Manubhāṣya nirbandha Nirajan
                                                         dhayāyāmāno mariṣyati \Ed</APP>
 
 % !! Narahari 
-<TEXT> śivaloke vasen{ }nityaṃ kalpakotyayutaṃ śatam||</TEXT> 6.16
+<TEXT> śivaloke vasen{ }nityaṃ kalpakoṭyayutaṃ śatam||</TEXT> 6.15
         <APP>\vc <LEM>śivaloke</LEM> \msCa\msCc\msNa\msNb\msNc; śivaloka \msCb, rudraloke \Ed\oo
                  <LEM>vasen{ }ni°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; vase ni° \msCc</APP> 
         <APP>\vd <LEM>°yutaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; °yuta \msNb</APP>
@@ -6131,7 +6131,7 @@ Manubhāṣya nirbandha Nirajan
 <TEXT> vidyātattvāmṛtaṃ dhyāyet{ }sadāśivam{ }anāmayam|</TEXT>
         <APP>\va <LEM>°tattvāmṛtaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; °tatvamṛtan \msCc, °tattvāmataṃ \Ed</APP>
 
-<TEXT> akṣayaṃ lokam{ }āpnoti kalpānāntaparaṃ tathā|| </TEXT> 6.17
+<TEXT> akṣayaṃ lokam{ }āpnoti kalpānāntaparaṃ tathā|| </TEXT> 6.16
         <APP>\vc <LEM>akṣayaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; akṣaya° \Ed</APP>
         <!-- <TR>If he visualizes Vidyā Tattva, [i.e.] Sadāśiva [or sadā śivam?] 
              he can reach [His] immortal, diseaseless, imperishable world [and can live there]
@@ -6140,7 +6140,7 @@ Manubhāṣya nirbandha Nirajan
 %folioinfo \msNc\ 221.jpg upper, f. 218v
 <TEXT> pañcamaṃ śivatattvaṃ tu sūkṣmaṃ cātmani saṃsthitam|</TEXT>
 
-<TEXT> na kālasaṃkhyā tatrāsti śivena saha modate||</TEXT> 6.18
+<TEXT> na kālasaṃkhyā tatrāsti śivena saha modate||</TEXT> 6.17
         <!-- <TR>The fifth one, the subtle Śivatattva dwells in the Self.
              There is no counting of time there and he will be rejoicing [there] together with Śiva.</TR> -->
 
@@ -6180,7 +6180,7 @@ Manubhāṣya nirbandha Nirajan
 %folioinfo \msCc\ 201,jpg f. 279r
 %folioinfo \msNa\ 204.jpg upper, f. 10v
 %        -  -  -     - . - -   . . . . . . -    -  . -  - . - - 
-<TEXT> pratyakṣān{ }nānumānaṃ sakalamalaharaṃ svātmasaṃvedanīyam||</TEXT> 6.19
+<TEXT> pratyakṣān{ }nānumānaṃ sakalamalaharaṃ svātmasaṃvedanīyam||</TEXT> 6.18
         <APP>\vd <LEM>pratyakṣā°</LEM> \mssCaCbCc\msNb\msNc\Ed; pratyakṣa° \msNa\oo
                  <LEM>°vedanīyam</LEM> \msCb\msNa\msNb; °vedanīyaḥ \msCa\msCc\msNc, °vedanīya \Ed</APP>
         <!-- <TR>[This is known] as the destroyer of all impurity. [It's ascertainable] by direct perception. 
@@ -6203,7 +6203,7 @@ Manubhāṣya nirbandha Nirajan
                  <LEM>°param</LEM> \msCc; °paraḥ \msCa\msCb\msNa\msNb\msNc\Ed</APP>
 
 % stem form
-<TEXT> kāyikaṃ vācikaṃ caiva tapo miśraka pañcamam||</TEXT> 6.20
+<TEXT> kāyikaṃ vācikaṃ caiva tapo miśraka pañcamam||</TEXT> 6.19
         <APP>\vc <LEM>kāyikaṃ</LEM> \mssCaCbCc\msNb\msNc\Ed; kāyika \msNa</APP>
         <!-- <TR>The first [type of penance] is mental penance, the second is verbal penance,
              the third is the bodily one, the next one[??] is the one which is both mental and verbal action. 
@@ -6217,7 +6217,7 @@ Manubhāṣya nirbandha Nirajan
         <NOTE>Note that miśraka in pāda b stands for miśrakaṃ metri causa.</NOTE>
 
 % tapa is stem form
-<TEXT> maunaṃ bhāvaviśuddhiś{ }ca pañcaitat{ }tapa mānasam||</TEXT> 6.21
+<TEXT> maunaṃ bhāvaviśuddhiś{ }ca pañcaitat{ }tapa mānasam||</TEXT> 6.20
         <APP>\vc <LEM>maunaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; mauna¤ \Ed\oo
                  <LEM>°śuddhiś{ }ca</LEM> \msCa\msCb\msNa\msNb\msNc; °śuddhiṃ ca \msCc\Ed</APP>
         <APP>\vd <LEM>pañcaitat</LEM> \msCa\msNb\msNc; pañcaite \msCb\msNa, pañcetat \msCc, pañcaitan \Ed</APP>
@@ -6229,7 +6229,7 @@ Manubhāṣya nirbandha Nirajan
 % blurred lines in ed.:
 <TEXT> anudvegakarā vāṇī priyaṃ satyaṃ hitaṃ ca yat|</TEXT>
 
-<TEXT> svādhyāyābhyasanaṃ caiva vācikaṃ tapa ucyate||</TEXT> 6.22
+<TEXT> svādhyāyābhyasanaṃ caiva vācikaṃ tapa ucyate||</TEXT> 6.21
         <APP>\vc <LEM>°bhyasanaṃ caiva</LEM> \msCb\msCc\msNa\msNc\Ed; °bhyasana¤¤ \msCa, °bhyasa<UNCL>naṃ</UNCL> caiva \msNb</APP>
         <PARAL>\vcd Ł \kb\ MBh 6.39.15cd: $ svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate</PARAL>
         <!-- <TR>Verbal penance is taught as speech that causes no anxiety,
@@ -6240,7 +6240,7 @@ Manubhāṣya nirbandha Nirajan
                                         ārjavatvam{ }ahiṃsāś{ }ca \Ed</APP>
         <APP>\vb <LEM>°caryaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; °carya \msCc\Ed</APP>
 
-<TEXT> śaucaṃ pañcamam{ }ity{ }etat{ }kāyikaṃ tapa ucayate||</TEXT> 6.23
+<TEXT> śaucaṃ pañcamam{ }ity{ }etat{ }kāyikaṃ tapa ucayate||</TEXT> 6.22
         <APP>\vc <LEM>śaucaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; śauca \Ed</APP>
         <!-- <TR>Bodily penance is taught as the following:
                 honesty, harmlessness, chastity, the worship of gods, and purity as the fifth.</TR> -->
@@ -6255,7 +6255,7 @@ Manubhāṣya nirbandha Nirajan
                 mayā nāgapuraṃ gatvā sabhāyāṃ dhṛtarāṣṭrajaḥ|
                 tathyaṃ pathyaṃ hitaṃ cokto na ca gṛhṇāti durmatiḥ||</PARAL>
 
-<TEXT> manomiśraka pañcaitat{ }tapa uktaṃ maharṣibhiḥ||</TEXT> 6.24
+<TEXT> manomiśraka pañcaitat{ }tapa uktaṃ maharṣibhiḥ||</TEXT> 6.23
         <APP>\vc <LEM>mano°</LEM> \mssCaCbCc\msNa\msNb\msNc; mana° \Ed\oo
                  <LEM>pañcaitat</LEM> \mssCaCbCc\msNa\msNb; pañcetat \msNc, pañcaitān \Ed</APP>
         <APP>\vd <LEM>tapa uktaṃ maharṣibhiḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; tapam{ }uktaṃ mahirṣibhiḥ \Ed</APP>
@@ -6270,7 +6270,7 @@ Manubhāṣya nirbandha Nirajan
 
 %folioinfo \Ed\ p.601
 % stem form
-<TEXT> kāyamiśraka pañcaitat{ }tapa uktaṃ mahātmabhiḥ||</TEXT> 6.25
+<TEXT> kāyamiśraka pañcaitat{ }tapa uktaṃ mahātmabhiḥ||</TEXT> 6.24
         <APP>\vc <LEM>°miśraka</LEM> \msCc\msNa\msNb\msNc\Ed; °¤¤ka \msCa, °mityaśraka \msCb\oo
                  <LEM>pañcaitat</LEM> \mssCaCbCc\msNa\msNb\msNc; pañcaitan \Ed</APP>
         <APP>\vd <LEM>tapa uktaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; tapam{ }uktaṃ \Ed</APP>
@@ -6286,7 +6286,7 @@ Manubhāṣya nirbandha Nirajan
                 also Umā 6.26ab: $maṇḍūkayogo hemante grīṣme pañcatapās{ }tathā|</PARAL>
 
 % emend to kāśo
-<TEXT> abhrāvakāśe varṣāsu tapaḥ sādhanam{ }ucyate||</TEXT> 6.26
+<TEXT> abhrāvakāśe varṣāsu tapaḥ sādhanam{ }ucyate||</TEXT> 6.25
         <APP>\vd <LEM>tapaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; tapa \msCc\oo
                  <LEM>sādhanam{ }u°</LEM> \msCa\msNa\msNc\Ed; sādhana u° \msCb\msCc\msNb</APP>
         <!-- <TR>[Being] a [so-called] frog-yogin in the winter,
@@ -6298,7 +6298,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\va <LEM>dānaṃ</LEM> \mssCaCbCc\msNa\msNc; <UNCL>dāna</UNCL> \msNb\ \toplost, dānaś \Ed</APP>
         <PARAL>\vab ŁCf. 2.38 and 17.xx ff. $</PARAL>
 
-<TEXT> puṣpam{ }utpādya dānaṃ{ }ca sarve te tapa sādhanāḥ||</TEXT> 6.27
+<TEXT> puṣpam{ }utpādya dānaṃ{ }ca sarve te tapa sādhanāḥ||</TEXT> 6.26
         <APP>\vc <LEM>dānaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; dānaś \Ed</APP>
         <APP>\vd <LEM>tapa</LEM> \Ed; tapaḥ \mssCaCbCc\msNa\msNb\msNc\ \unmetr</APP>
         <!-- <TR>Carving out his own flesh as a donation, or 
@@ -6309,7 +6309,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\va <LEM>kṛcchrātikṛcchraṃ</LEM> \msCa\msCb\msNa\Ed; kṛcchrādikṛcchra \msCc, kṛcchrātikṛcchra \msNb, kṛcchātikṛcchaṃ \msNc</APP>
         <APP>\vb <LEM>°yācitam</LEM> \mssCaCbCc\msNa\msNb\msNc; °yācitaḥ \Ed</APP>
 
-<TEXT> cāndrāyaṇaṃ parākaṃ ca tapaḥ sāṃtapanādayaḥ||</TEXT> 6.28
+<TEXT> cāndrāyaṇaṃ parākaṃ ca tapaḥ sāṃtapanādayaḥ||</TEXT> 6.27
         <APP>\vc <LEM>cāndrāyaṇaṃ parākaṃ</LEM> \msCa\msCc\msNb\msNc; cāndrāyanaṃ parākaṃ \msCb, 
                                                         candrāyaṇaṃ parākaṃ \msNa, cāndrāyaṇavarākaś \Ed</APP>
         <APP>\vd <LEM>tapaḥ sāṃtapanādayaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; tapasāntapanādayaḥ \msCc\Ed</APP>
@@ -6339,7 +6339,7 @@ Sāntapana etc. Kane Dharmaśāstra v4 p151
         <APP>\vc <LEM>°kāṅkṣya°</LEM> \mssCaCbCc\msNa\msNb\msNc; °kāṃkṣa° \Ed\oo
                  <LEM>sarvāntikaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; sarvārttikaṃ \msCb</APP>
 
-<TEXT> jantuḥ śāśvatajanmamṛtyubhavane tanniṣṭhasādhyaṃ vahet||</TEXT> 6.29
+<TEXT> jantuḥ śāśvatajanmamṛtyubhavane tanniṣṭhasādhyaṃ vahet||</TEXT> 6.28
         <APP>\vd <LEM>°bhavane</LEM> \mssCaCbCc\msNa\msNb\Ed; °bhavene \msNc\oo
                  <LEM>°sādhyaṃ vahet</LEM> \msCc\msNa\msNb\msNc; °<UNCL>sādhyam</UNCL>¤¤ \msCa, 
                                                   °sādhya vahet \msCb, °sādhyaṃ vadet \Ed</APP>
@@ -7643,7 +7643,7 @@ Dadhīca said:<br>
         <APP>\vb <LEM>vividhaṃ naraiḥ</LEM> \mssCaCbCc\msNa; vidhivan{ }naraiḥ \msNc\msP\Ed, 
                                                              vivin{ }naraiḥ \msNb</APP>
         <!-- <TR>A water bath (Łvāruṇa$) is to be performed with water by people in various ways</TR> -->
-        <NOTE>The reading Łvvidhaṃ$ in pāda b seems to be the lectio difficilior as opposed to
+        <NOTE>The reading Łvividhaṃ$ in pāda b seems to be the lectio difficilior as opposed to
                 the rejected Łvidhivat$.</NOTE>
 
 <TEXT> nadītoyataḍāgeṣu prasraveṣu hradeṣu ca||</TEXT> 8.40
@@ -8671,6 +8671,7 @@ Dadhīca said:<br>
                 <sep/>
                 Note \Ed's attempt to make pāda a metrical.</NOTE>
         <!-- <TR>The Suṣumnā[-tube] is the Honourable Gaṅgā, Iḍā[-tube] is the river Yamunā.</TR> -->
+% maybe Bhāgmatī?
 %index_geo: Yamunā
 
 % srotovahā?
@@ -8731,6 +8732,7 @@ Dadhīca said:<br>
                  <LEM>°rava°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc; °ravi° \msCbacorr, °rāva° \Ed\oo
                  <LEM>°cihnitā</LEM> \msCa\msCb\msNa\msNc\Ed; °cihnikā \msCc, °cihnatā \msNb</APP>
         <!-- <TR>Somatīrtha is the tube Iḍā. It is characterised by the ringing of small bells.</TR> -->
+        <NOTE>Iḍā has already been identified as the the Yamunā in 10.17b.</NOTE>
 
 <TEXT> taṃ tu śrutvā na saṃdehaḥ sarvapāpakṣayo bhavet||</TEXT> 10.20
         <APP>\vc <LEM>taṃ tu</LEM> \corr; <UNCL>tan{ }tu</UNCL> \msCa, tan{ }tu \msCb\msCc\msNa\msNc\Ed, 
@@ -8750,6 +8752,7 @@ Dadhīca said:<br>
         <APP>\vb <LEM>nīravā°</LEM> \Ed; vīravā° \msCa\msCc, cīravā° \msCb\msNa\msNb\msNc\oo
                  <LEM>°yutā</LEM> \msCa\msNa\msNc\Ed; °yutam \msCb\msCc, °yutāṃ \msNb</APP>
         <!-- <TR>Sūryatīrtha is the [tube] Suṣumnā .... </TR> -->
+        <NOTE>Suṣumnā has already been identified as the the Gaṅgā in 10.17a.</NOTE>
 
 %folioinfo \msCb\ 428.jpg 
 <TEXT> śrutimātrād{ }vimucyeta pāparāśir{ }mahān{ }api||</TEXT> 10.21
@@ -8826,6 +8829,7 @@ Dadhīca said:<br>
         <APP>\vd <LEM>ātmano</LEM> \msCb\msCc\msNa\msNb\msNc; ¤nmano \msCa, svātmāno \Ed\oo
                  <LEM>parasya vā</LEM> \mssCaCbCc\msNa\msNb\msNc; parasya ca \Ed</APP>
         <!-- <TR>One can observe one's own or others' shadow properly[?].</TR> -->
+% CHECK Niśv book 389 etc. search for 'shadow'
 
 %folioinfo \msCa\ jpg.411
 <TEXT> āyatapy{ }aṅgulīmātraṃ nimiṣākṣi sa paśyati|</TEXT>
@@ -8904,7 +8908,7 @@ Dadhīca said:<br>
         <APP>\vc <LEM>°mīnā</LEM> \mssCaCbCc\msNa\msNb\msNc; °mānā \Ed\oo
                  <LEM>daśa°</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; ¤¤ \msCa\oo
                  <LEM>visargā</LEM> \mssCaCbCc; visargāḥ \msNa\msNb\msNc\Ed</APP>
-        <!-- <TR>It's full of the roar of Ganges crocodiles and full of fish, ten types of sea-monsters [also: makāra?],
+        <!-- <TR>It's full of the roar of crocodiles and full of fish, ten types of sea-monsters [also: makāra?],
                          terrifying alligators and with Łvisarga$[?]</TR> -->
 
 %folioinfo \msM\ 425.jpg upper, f. 16v 
@@ -8952,7 +8956,7 @@ Dadhīca said:<br>
 %index_geo: Suradraha
 
 %[1]Gaṅgā, [2]Agni, [3]Somatīrtha, [4]Sūrya, [5]Puṣkara, [6]Mānasa,
-%[7]Naimiṣa, [8]Bindusara, [9]Setubandha, [10]Suradraha, [11]Ghaṇṭikeśvara, [12]Vāgīśa
+%[7]Naimiṣa, [8]Bindusaras, [9]Setubandha, [10]Suradraha, [11]Ghaṇṭikeśvara, [12]Vāgīśa
 <SUBSUBCHAPTER>ghaṇṭikeśvaram</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Ghaṇṭikeśvara</TRSUBSUBCHAPTER>
 <NOTANUSTUBH/> sragdharā 
@@ -9029,12 +9033,12 @@ Dadhīca said:<br>
         <APP>\vd <LEM>prāptaṃ tena na saṃśayaḥ śivapadaṃ duṣprāpya devair{ }api</LEM> \msCa\msCbpcorr\msNa\msNc; 
                       prāptaṃ tena na saṃśayaṃ śivapadaṃ duṣprāpya devair{ }api \msCc\Ed,
                       prāptaṃ tena na saṃśayaḥ   śivadaṃ duṣprāpya devair{ }api \msCbacorr,
-                      prā××××××      <UNCL>yaḥ śiva</UNCL> ¤¤¤¤ <UNCL>ya devair{ }api</UNCL> \msNb</APP>
+                      prā×××××× <UNCL>yaḥ śiva</UNCL> ¤¤¤¤ <UNCL>ya devair{ }api</UNCL> \msNb</APP>
 
 
 %folioinfo \msCb\ 429.jpg 
 <ANUSTUBH/>
-<TEXT> <COLOPHON>iti vṛsasārasaṃgrahe kāyatīrthopavarṇano nāmādhyāyo daśamaḥ</COLOPHON></TEXT>
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe kāyatīrthopavarṇano nāmādhyāyo daśamaḥ</COLOPHON></TEXT>
             <APP><LEM>kāyatīrthopavarṇano</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; kāyatī¤¤¤rṇṇano \msCa\oo
                  <LEM>nāmādhyāyo daśamaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; nāma daśamo 'dhyāyaḥ \Ed</APP>
 %END OF CHAPTER 10
@@ -9074,7 +9078,7 @@ Dadhīca said:<br>
         <APP>\vb <LEM>anyaḥ</LEM> \msCb\msNa\msNc; anya \msCa\msCc\msNb, cānyā \Ed\oo
                  <LEM>°ttama</LEM> \mssCaCbCc\msNa\msNb\Ed; °ttamaḥ \msNc</APP>
         <!-- <TR>O Paraśreṣṭha, O Surottama! Is there another [form of] universal sacrifice,</TR> -->
-% [everybody can do it accessible to all] 
+% [everybody can do it, accessible to all] 
         <PARAL>ŁTestimonia for this chapter:    \msCa\ ff.\thinspace 208v--210r,
                                                 \msCb\ ff.\thinspace 214r--215v,
                                                 \msCc\ ff.\thinspace 285v--287v,
@@ -9822,7 +9826,7 @@ REVISE
 
 <TEXT> ! janmavyādhiharam{ }akarmadahanaṃ sevet{ }sa dharmottamam||</TEXT> 11.43
         <APP>\vc <LEM>sevet{ }sa</LEM> \msCa\msCb\msNa\msNc\Ed; seve sa \msCc, sevet{ }ta \msNb</APP>
-        <PARAL>\cd ŁAfter this line, \Ed\ adds the following Śārdūlavikrīḍita line: $
+        <PARAL>\vcd ŁAfter this line, \Ed\ adds the following Śārdūlavikrīḍita line: $
                  śraddhāpūrvakam{ }eva yaḥ saniyamaṃ sākṣāc{ }ca jīvan{ }śivaḥ</PARAL>
         <!-- <TR>removes rebirth, disease and burns his bad karma.</TR> -->
 % śevet \msNa       

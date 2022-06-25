@@ -145,10 +145,16 @@
 \newcommand{\similar}{${\approx}$}
 
 
-\newcommand{\chptr}[1]{\vfill\pagebreak \begin{center}[\textbf{#1}]\end{center}}
-\newcommand{\subchptr}[1]{\begin{center}{[\textit{#1}]}\end{center}}
-\newcommand{\subsubchptr}[1]{{[\textit{#1}]}}
+\newcommand{\chptr}[1]{\vfill\pagebreak\thispagestyle{empty} \centerline{[\textbf{\thinspace#1\thinspace}]}}
+\newcommand{\subchptr}[1]{\centerline{{[\textit{\thinspace#1\thinspace}---}}}
+\newcommand{\subsubchptr}[1]{\centerline{[\textit{\thinspace#1\thinspace}---}}
+\newcommand{\trchptr}[1]{\centerline{[\textbf{#1}]}}
+\newcommand{\trsubchptr}[1]{\centerline{#1]}}
+\newcommand{\trsubsubchptr}[1]{\centerline{#1]}}
 
+
+
+\renewcommand{\footnoterule}{\vspace{1em}}
 
 \newcommand\blankfootnote[1]{%
   \let\thefootnote\relax\noindent\footnotetext{#1}%
@@ -168,16 +174,17 @@
 \textit{#1}}
 
 \newcommand{\translation}[1]{
-\begin{quote}
-{\normalsize #1}
-\end{quote}
-}
 
-\newcommand{\note}[1]{
-\begin{quote}
-{\footnotesize #1}
-\end{quote}
-}
+\leftskip4em
+\noindent
+%\begin{quote}
+%\normalsize 
+#1
+%\end{quote}
+
+\medskip
+
+\leftskip0em}
 
 
 

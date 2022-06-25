@@ -140,7 +140,7 @@ top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
 
   
 % FOOTNOTES
-%\renewcommand{\footnoterule}{}
+\renewcommand{\footnoterule}{}
 \usepackage[]{footmisc}
 % Here you can modify the spacing between the footnote number and the text of footnote; keep this value and \hangfootparindent value the same
 \renewcommand{\footnotelayout}{\hspace{.5em}}
@@ -180,11 +180,34 @@ top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
 \newcommand{\hide}[1]{}
 
 %FOOTNOTE
+
+
+% Reformat footnotes
+\makeatletter % <=======================================================
+\renewcommand{\@makefntext}[1]{%
+  \setlength{\parindent}{20pt}%
+  %\begin{list}{}
+  {\setlength{\labelwidth}{6mm}% 1.5em <==================
+    \setlength{\leftmargin}{0pt}%{\labelwidth}%
+    \setlength{\labelsep}{10pt}%
+    \setlength{\itemsep}{0pt}%
+    \setlength{\parsep}{0pt}%
+    \setlength{\topsep}{0pt}%
+    \footnotesize}%
+  %\item[\@thefnmark\hfil]
+  #1% @makefnmark
+  %\end{list}%
+}
+\makeatother % <========================================================
+
 \let\svthefootnote\thefootnote
+
 \newcommand\blankfootnote[1]{%
   \let\thefootnote\relax\footnotetext{#1}%
   \let\thefootnote\svthefootnote%
 }
+
+
 % for the translation: chapter and verse number; translation; notes
 \newcommand{\slokawithfn}[3]{\blankfootnote{\kern-1em#1: #3}%
 %\textbf
@@ -288,18 +311,28 @@ L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
 
 
 % for translation with Sanskrit
-\newcommand{\chptr}[1]{\vfill\pagebreak \begin{center}[\textbf{#1}]\end{center}}
-\newcommand{\subchptr}[1]{\begin{center}{[\textit{#1}]}\end{center}}
-\newcommand{\subsubchptr}[1]{{[\textit{#1}]}}
+\newcommand{\chptr}[1]{\vfill\pagebreak\thispagestyle{empty} \centerline{[\textbf{\thinspace#1\thinspace}]}}
+\newcommand{\subchptr}[1]{\centerline{{[\textit{\thinspace#1\thinspace}---}}}
+\newcommand{\subsubchptr}[1]{\centerline{[\textit{\thinspace#1\thinspace}---}}
+\newcommand{\trchptr}[1]{\centerline{[\textbf{#1}]}}
+\newcommand{\trsubchptr}[1]{\centerline{#1]}}
+\newcommand{\trsubsubchptr}[1]{\centerline{#1]}}
+
 \newcommand{\maintext}[1]{
 %\smallskip
 \textit{#1}}
 
 \newcommand{\translation}[1]{
-\begin{quote}
-{\normalsize #1}
-\end{quote}
-}
+
+\leftskip4em
+\noindent
+%\begin{quote}
+%\normalsize 
+#1
+%\end{quote}
+
+\medskip
+\leftskip0em}
 
 \newcommand{\msCa}{{\englishfont C$_{\scriptscriptstyle 94}$}}
 \newcommand{\msCaacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 94}$}}
