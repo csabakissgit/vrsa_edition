@@ -827,14 +827,15 @@
 % NAPLES : two-column apparatus
 \makeatletter
  \def\lemmaesszamnelkultwocolfmt#1#2#3{%
-\normal@pars\parindent=-10pt\rightskip=0pt\leftskip=10pt
+\normal@pars
+\parindent=-10pt\rightskip=0pt\leftskip=10pt
 \tolerance=9999
   \hsize .46\hsize
   %\raggedright
   %\leavevmode 
   \strut{}%\enspace
   {\select@lemmafont#1|#2}%\enskip
-  \textit{#3}\strut\par}
+  #3\strut\par}
 \makeatother
 
 %%%% lemma nelkul%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -849,11 +850,10 @@
 \footparagraph{A}
 \footparagraph{B}
 \footparagraph{C}
-
 %\footparagraph{D}
-%\foottwocol{D} % if you want 2-col apparatus STEP 1
 
 \footparagraph{E}
+\foottwocol{C} % if you want 2-col apparatus STEP 1
 
 % register separators
 \usepackage{bbding} % for the lohere symbol
@@ -887,6 +887,8 @@
 %\let\Dfootfmt\lemmaesszamnelkulfmt % original 1-col apparatus
 \let\Dfootfmt\lemmaesszamnelkulfmt
 %\let\Dfootfmt\parafootfmt % another type of apparatus layer
+% TWO COLUMN, comment out if no two-column is needed STEP 2:
+\let\Cfootfmt\lemmaesszamnelkultwocolfmt
 
 \lineation{page}
 \linenummargin{outer}
