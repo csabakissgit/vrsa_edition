@@ -150,11 +150,12 @@ set incsearch
 set laststatus=2
 set printoptions=paper:a4
 set ruler
-set runtimepath=~/.vim,~/.vim/plugged/vim-orgmode,~/.vim/plugged/goyo.vim,~/.vim/pack/git-plugins/start/speeddating,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim81,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,~/.vim/after
+set runtimepath=~/.vim,~/.vim/plugged/vim-orgmode,~/.vim/plugged/goyo.vim,~/.vim/plugged/diffchar.vim,~/.vim/pack/git-plugins/start/speeddating,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim81,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,~/.vim/after
 set scrolloff=12
 set showcmd
 set statusline=\ %F%m%r%h%w\ %=%({%{&ff}|%{(&fenc==\"\"?&enc:&fenc).((exists(\"+bomb\")\ &&\ &bomb)?\",B\":\"\")}%k|%Y}%)\ %([%l,%v][%p%%]\ %)\ %{wordcount()[\"words\"]}
 set suffixes=.bak,~,.swp,.o,.info,.aux,.log,.dvi,.bbl,.blg,.brf,.cb,.ind,.idx,.ilg,.inx,.out,.toc
+set textwidth=40
 set ttimeout
 set ttimeoutlen=10
 set undodir=~/.vim/undodir
@@ -279,7 +280,7 @@ setlocal foldminlines=1
 setlocal foldnestmax=20
 setlocal foldtext=foldtext()
 setlocal formatexpr=xmlformat#Format()
-setlocal formatoptions=croql
+setlocal formatoptions=cq
 setlocal formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*
 setlocal formatprg=
 setlocal grepprg=
@@ -339,7 +340,7 @@ setlocal tags=
 setlocal termwinkey=
 setlocal termwinscroll=10000
 setlocal termwinsize=
-setlocal textwidth=0
+setlocal textwidth=40
 setlocal thesaurus=
 setlocal undofile
 setlocal undolevels=-123456
@@ -351,12 +352,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 11795 - ((2 * winheight(0) + 3) / 6)
+let s:l = 911 - ((12 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-11795
-normal! 08|
+911
+normal! 042|
 tabnext 1
 badd +0 indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0

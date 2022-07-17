@@ -18,6 +18,13 @@ footskip=1.7cm, footnotesep=1cm]{geometry}
 \usepackage{pdfpages}
 \usepackage{todonotes}
 
+% customize the TOC
+\usepackage{tocloft}
+\renewcommand{\cftsecafterpnum}{\hspace*{5em}}
+\renewcommand{\cftsubsecafterpnum}{\hspace*{5em}}
+\renewcommand{\cftsubsubsecafterpnum}{\hspace*{5em}}
+\renewcommand{\cftchapafterpnum}{\hspace*{5em}}
+
 
 % bibliography
 \usepackage{natbib}
@@ -125,7 +132,7 @@ footskip=1.7cm, footnotesep=1cm]{geometry}
   
 %\newcommand{\mychapter}[2]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
 \newcommand{\mychapter}[1]{\chapter*{#1}
-\addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{}#1}{}}}
+\addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}#1}{}}}
 
 %\newcommand{\mysection}[2]{\vskip1em\begin{center}{\textsc{\large #1}}\end{center}\label{#2}\vskip1em}
 \newcommand{\mysection}[1]{\section{#1}
@@ -304,6 +311,7 @@ L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
 
 
 
+
 % for translation with Sanskrit
 \newcommand{\chptr}[1]{\vfill\pagebreak\thispagestyle{empty} \centerline{[\textbf{\thinspace#1\thinspace}]}}
 \newcommand{\subchptr}[1]{%
@@ -332,9 +340,14 @@ L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
 \medskip
 \leftskip0em}
 
+\newcommand{\CHECK}{{\englishfont\color{red}{CHECK}}}
+
+
 \newcommand{\msCa}{{\englishfont C$_{\scriptscriptstyle 94}$}}
 \newcommand{\msCaacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 94}$}}
 \newcommand{\msCapcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 94}$}}
+
+\newcommand{\mssCaCbCc}{{\englishfont C$^{\scriptscriptstyle\Sigma}$}}
 
 % original
 %\newcommand{\msCb}{{\englishfont C$_\textrm{b}$}}
@@ -379,17 +392,30 @@ L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
 \newcommand{\msNdacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}}
 \newcommand{\msNdpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}}
 
-\newcommand\msBod{{\englishfont B}}
-\newcommand\msBodacorr{{\englishfont B}$^{\scriptscriptstyle ac}$}
-\newcommand\msBodpcorr{{\englishfont B}$^{\scriptscriptstyle pc}$}
+\newcommand\msBod{{\englishfont O$_{\scriptscriptstyle 15}$}}
+\newcommand\msBodacorr{{\englishfont O$_{\scriptscriptstyle 15}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msBodpcorr{{\englishfont O$_{\scriptscriptstyle 15}$}$^{\scriptscriptstyle pc}$}
 
-\newcommand\msL{{\rm L}}
-\newcommand\msLacorr{{\englishfont L}$^{\scriptscriptstyle ac}$}
-\newcommand\msLpcorr{{\englishfont L}$^{\scriptscriptstyle pc}$}
 
 \newcommand\msP{{\englishfont P$_{\scriptscriptstyle 57}$}}
 \newcommand\msPacorr{{\englishfont P$_{\scriptscriptstyle 57}$}$^{\scriptscriptstyle ac}$}
 \newcommand\msPpcorr{{\englishfont P$_{\scriptscriptstyle 57}$}$^{\scriptscriptstyle pc}$}
+
+\newcommand\msL{{\englishfont L$_{\scriptscriptstyle 16}$}}
+\newcommand\msLacorr{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msLapcorr{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle pc}$}
+
+\newcommand\msKoa{{\englishfont Ko$_{\scriptscriptstyle 76}$}}
+\newcommand\msKoaacorr{{\englishfont Ko$_{\scriptscriptstyle 76}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msKoapcorr{{\englishfont Ko$_{\scriptscriptstyle 76}$}$^{\scriptscriptstyle pc}$}
+
+\newcommand\msKob{{\englishfont Ko$_{\scriptscriptstyle 52}$}}
+\newcommand\msKobacorr{{\englishfont Ko$_{\scriptscriptstyle 52}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msKobpcorr{{\englishfont Ko$_{\scriptscriptstyle 52}$}$^{\scriptscriptstyle pc}$}
+
+\newcommand\msKoc{{\englishfont Ko$_{\scriptscriptstyle 77}$}}
+\newcommand\msKocacorr{{\englishfont Ko$_{\scriptscriptstyle 77}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msKocpcorr{{\englishfont Ko$_{\scriptscriptstyle 77}$}$^{\scriptscriptstyle pc}$}
 
 \newcommand\msM{{\englishfont M}}
 \newcommand\msMacorr{{\englishfont M}$^{\scriptscriptstyle ac}$}
@@ -400,5 +426,6 @@ L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
 \newcommand{\Ed}{{\englishfont E}}
 
 \newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
+\newcommand{\shortsyllable}{\raise-.5em\hbox{˘}$\,$}
 
 

@@ -306,7 +306,7 @@
 \newcommand{\msCbc}{{\englishfont C$_\textrm{b}$C$_\textrm{c}$}}
 \newcommand{\msCabc}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$$_\textrm{c}$}}
 
-\newcommand{\mssCaCbCc}{{\englishfont C}}
+\newcommand{\mssCaCbCc}{{\englishfont C$^{\scriptscriptstyle\Sigma}$}}
 \newcommand{\mssNaNbNc}{{\englishfont N}}
 
 \newcommand{\Cod}{\textit{Cod.}}
@@ -337,7 +337,7 @@
 \newcommand{\MUT}{MUT\index{Matottaratantra@\textsl{Matottaratantra}}}
 \newcommand{\MVUT}{MVUT\index{Malinivijayottaratantra@\textsl{M\=alin\=\i vijayottaratantra}}}
 \newcommand{\MaSam}{MaSa\d m} %\index{Matsyendrasamhita@\textsl{Matsyendrasa\d mhit\=a}}}
-\newcommand{\MBh}{MBh}%\index{Mahabharata@\textsl{Mah\=abh\=arata}}}
+%\newcommand{\MBh}{MBh}%\index{Mahabharata@\textsl{Mah\=abh\=arata}}}
 \newcommand{\NAT}{N\=AT\index{Nityahnikatilaka@\textsl{Nity\=ahnikatilaka}}}
 \newcommand{\Nisv}{Ni\'sv\index{Nisvasatattvasamhita@\textsl{Ni\'sv\=asatattvasa\d mhit\=a}}}
 \newcommand{\NSA}{N\d SA\index{Nityasodasikarnava@\textsl{Nity\=a\d so\d da\'sik\=ar\d nava} alias\\ \textsl{V\=amake\'svar\=\i mata}}}
@@ -362,6 +362,33 @@
 \newcommand{\YBh}{YBh\index{Yogabhāṣya@\textsl{Yogabh\=a\d sya}}}
 \newcommand{\YSS}{YSS\index{Yogasarasamgraha@\textsl{Yogas\=arasa\d mgraha}}}
 \newcommand{\TAK}{TAK} %\index{Tantrikabhidhanakosa@\textsl{T\=antrik\=abhidh\=anako\'sa}}}
+
+
+\newcommand{\Uma}{\textsl{Umāmaheśvarasaṃvāda}}
+\newcommand{\UMA}{Umā}
+
+\newcommand{\KurmPu}{\textsl{Kū\-rma\-pu\-rā\-ṇa}}
+\newcommand{\KURMPU}{KūrmP}
+
+\newcommand{\GarPu}{\textsl{Ga\-ru\-ḍa\-pu\-rā\-ṇa}}
+\newcommand{\GARPUR}{GarP}
+
+\newcommand{\BrahandaPu}{\textsl{Bra\-hmā\-ṇḍa\-pu\-rā\-ṇa}}
+\newcommand{\BRAHMANDAPUR}{BrahmāṇḍaP}
+
+\newcommand{\MBh}{\textsl{Ma\-hā\-bhā\-ra\-ta}}
+\newcommand{\MBH}{MBh}
+
+\newcommand{\SDhS}{\textsl{Śi\-va\-dhar\-ma\-śās\-tra}}
+\newcommand{\SDHS}{ŚDhŚ}
+
+\newcommand{\SDhU}{\textsl{Śi\-va\-dhar\-mo\-tta\-ra}}
+\newcommand{\SDHU}{ŚDhU}
+
+\newcommand{\Vss}{\textsl{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}}
+\newcommand{\Vsssc}{{V\scR\scS a\-sā\-ra\-sa\scM\-gra\-ha}}
+\newcommand{\VSS}{{VSS}}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Śaṅkaradigvijayas
 
@@ -463,9 +490,12 @@
 \newcommand{\conjSanderson}{\conj~\Sanderson}
 \newcommand{\oo}{{\englishfont\ \ ${\bullet}$\ \ }}
 \newcommand{\unmetr}{{\englishfont (unmetr.)}}
+\newcommand{\hypermetr}{{\englishfont (hy\-per\-metr.)}}
+\newcommand{\hypometr}{{\englishfont (hy\-po\-metr.)}}
 \newcommand{\conj}{{\englishfont conj.}}
 \newcommand{\corr}{{\englishfont corr.}}
 \newcommand{\eme}{{\englishfont em.}}
+\newcommand{\CHECK}{{\englishfont\color{red}{CHECK}}}
 \newcommand{\kozep}[1]{\begin{center}{#1}\end{center}}
 \newcommand{\paralid}{}
 \newcommand{\crux}[1]{{\englishfont$\dag$}{\thinspace #1}{\englishfont$\dag$}}
@@ -648,8 +678,16 @@
 \newcommand{\cim}[1]{\textsl{#1}\index{#1}}%Titles in slanted
 \newcommand{\titl}[1]{\textsl{#1}}%Titles in slanted
 \newcommand{\cimnoindex}[1]{\textsl{#1}}%Titles in slanted
-\newcommand{\il}{${\star}$}
-\newcommand{\lost}{\englishfont{×}}
+%\newcommand{\il}{${\star}$}
+% illegible syllable:
+%\def\langkort{\setbox0=\hbox{{\bf --}}\dimen0=\ht0
+     %  \advance\dimen0 by-2.5ex
+      %  \copy0\kern -1\wd0
+       % \raise\dimen0\hbox to\wd0{\hss{\bf \char'025}\hss}}
+%\newcommand{\il}{\raise.2em\hbox{\englishfont{ -\kern-.27em\raise-.5em\hbox{˘}$\,$}}}
+%\newcommand{\il}{\hspace{.08em}\raise.2em\hbox{-}\kern-.33em\raise-.0em\hbox{\englishfont{˘}$\,$}}
+\newcommand{\il}{\englishfont{×}} % note that I use × for lost in the base file! this here is an anceps
+\newcommand{\lost}{\englishfont{$\_$\thinspace }}
 \newcommand{\chapp}[1]{\textit{#1}}
 \newcommand{\att}[1]{\underline{#1}}
 \newcommand{\allpatalas}[1]{\textit{Pa\d{t}ala} #1}
@@ -660,6 +698,8 @@
 \newcommand{\edmntrsmall}[1]{{\textsc{#1}}}%Mantras in small capitals
 \newcommand{\vegeadalnak}{\bekveg\szamveg\vfill\pagebreak}
 \newcommand{\kb}{${\approx}$}
+\newcommand\compare{{cf.}}
+\newcommand{\similar}{${\approx}$}
 \newcommand{\scsmall}{\mntr} % outdated
 \newcommand{\verbalroot}[1]{$\sqrt{#1}$}
 \newcommand{\fb}{${\Rsh}$} %folio break
