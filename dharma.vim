@@ -352,12 +352,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 911 - ((12 * winheight(0) + 15) / 31)
+let s:l = 1123 - ((14 * winheight(0) + 19) / 38)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-911
-normal! 042|
+1123
+normal! 0
 tabnext 1
 badd +0 indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0

@@ -948,7 +948,6 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
 %index_grammar: na-vipulā
 
-% EDDIG
 
 <SUBCHAPTER>brahmāṇḍam</SUBCHAPTER>
 <TRSUBCHAPTER>Brahmā's Egg</TRSUBCHAPTER>
@@ -961,15 +960,18 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <APP>\vb <LEM>pramāṇaṃ prāpitaṃ kvacit</LEM> \conj; pramāṇañ{ }cāpitaṃ  kvacit \mssCaCbCc\msNa\msNb\Ed,
                                                 pramāñ{ }cāpitat kvacit \msNc, pramāṇañ{ }cāpitāṃ kati \msM</APP>
         <!-- <TR>How many eggs of Brahmā are there? And are its measurements available anywhere?</TR> -->
-        <NOTE>The word Łprāpitaṃ$ is a conjecture for Łcāpitaṃ$, which I find unintelligible. 
+        <NOTE>The use of the singular next to numerals is one of the hallmarks of the \VSS\ 
+                (see p. \verify). As an introduction to this phenomenon, Łpāda$ a has
+                Łbrahmāṇḍaṃ$ in the singular where we would expect a plural form.
+                The word Łprāpitaṃ$ is a conjecture for Łcāpitaṃ$, which I find unintelligible. 
                 Another possibility could be Łjñāpitaṃ$.</NOTE>
 %index_check: prāpita
 
 <TEXT> kati cāṅgulimūrdheṣu sūryas{ }tapati vai mahīm||</TEXT> 1.37
         <APP>\vd <LEM>sūryas{ }ta°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; ryo \msMacorr, śūryo \msMpcorr\oo
-                 <LEM>mahīm</LEM> \msCb\msCc\msNa\msM; mahī<UNCL>m</UNCL> \msCa, mahī \msNb\msNc\Ed</APP>
+                 <LEM>mahīm</LEM> \msCb\msCc\msNa\msM; mahī<UNCL>m </UNCL> \msCa, mahī \msNb\msNc\Ed</APP>
         <!-- <TR>From how many finger's breadths high does the sun heat the earth?</TR> -->
-        <NOTE>The purport of Łpāda$s c and d is slightly obscure to me.</NOTE>
+        <NOTE>The interpretation of Łpāda$s cd is tentative.</NOTE>
  
 %folioinfo \Ed\ p.583
 <TEXT> anarthayajña uvāca|*</TEXT>
@@ -979,9 +981,10 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <APP>\va <LEM>brahmā°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; brahma° \msM\oo
                  <LEM>prasaṃkhyātuṃ</LEM> \mssCaCbCc\msNa\msNc\msM; prasaṃsā tu \msNb, ca saṃkhyātuṃ \Ed</APP>
         <APP>\vb <LEM>śakyaṃ ka°</LEM> \msNa\msNb\Ed; śakyā ka° \mssCaCbCc\msNc, sakyāṅ{ }ka° \msM</APP>
-        <!-- <TR>How could I enumerate all the eggs of Brahmā, O twice-born?</TR> -->
+        <!-- <TR>How could I enumerate [all] the eggs of Brahmā, O twice-born?</TR> -->
         <NOTE>One would expect Łbrahmāṇḍāni$ in Łpāda$ a instead of Łbrahmāṇḍānāṃ$,
-                but we should probably understand Łbrahmāṇḍānāṃ viśeṣān prasaṃkhyātuṃ...$</NOTE>
+                but we should probably understand Łbrahmāṇḍānāṃ viśeṣān prasaṃkhyātuṃ...$
+                The structure noun in genitive + verb meaning 'telling' occurs also in \verify .</NOTE>
         % praśaṃsā is an interesting variant and it explains śakyā
 
 %index_grammar: gen + telling
@@ -989,25 +992,19 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 <TEXT> devās{ }te 'pi na jānanti mānuṣāṇāṃ ca kā kathā||</TEXT> 1.38
         <APP>\vc <LEM>devās{ }te</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; devatāpi \msM</APP>
         <APP>\vd <LEM>mānuṣāṇāṃ ca</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; mānuṣārnañ{ }ca \msMacorr, mānuṣānāñ{ }ca \msMpcorr</APP>
-        <!-- <TR>Even the gods don't know [all the details], not to mention mortals.</TR> -->
+        <!-- <TR>Even the gods don't know [all the details], not to mention humans.</TR> -->
 
 <TEXT> paryāyeṇa tu vakṣyāmi yathāśakyaṃ dvijottama|</TEXT>
-        <!-- <TR>I shall teach [these details to you] one by one, as far as I can, O great Brahmin,</TR> -->
+        <!-- <TR>I shall teach [you], as far as I can, in due order and truthfully, that, O great Brahmin,</TR> -->
         % paryāyena \msNb\msM
 
 <TEXT> brahmaṇā yat{ }purākhyāto mātariśvā yathā tathā||</TEXT> 1.39
         <APP>\vc <LEM>purākhyāto</LEM> \mssCaCbCc\msNa\msNb\msNc; purākhyātaṃ \msM, mamākhyāto \Ed</APP>
-% accept \msM?
-        <!-- <TR>in the manner in which Brahmā taught Mātariśvan in the past, truthfully.</TR> -->
         <PARAL>\vcd Łcf. \BRAHMANDAPUR\ 3.4.58cd: $ 
                         brahmā dadau śāstram{ }idaṃ purāṇaṃ mātariśvane</PARAL> 
-        <NOTE>Note that in Łpāda$ d Łmātariśvan$ stands for the accusative Łmātariśvānaṃ$ or
-                        the dative Łmātariśvane$ or the genitive Łmātariśvanaḥ$.
-                        The claim that Brahmā taught Mātariśvan is confirmed in 1.64cd,
-                        again using the nominative for the accusative, dative or genitive, and
-                        also e.g. in Brahmāṇḍapurāṇa 3.4.58cd (see the apparatus).</NOTE>
-
-%index_grammar: nom. for dat/gen
+        <NOTE>The claim that Brahmā taught Mātariśvan is confirmed in 1.64cd, and
+                        also, e.g., in \BrahmandaPur\ 3.4.58cd (see the apparatus).</NOTE>
+        <!-- <TR>which Mātariśvan was taught by Brahmā in the past.</TR> -->
 
 <TEXT> śivāṇḍābhyantareṇaiva sarveṣām{ }iva bhūbhṛtām|</TEXT>
         <APP>\va <LEM>śivāṇḍā°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; śivāṇḍa° \msMacorr, śivāṇḍe° \msMpcorr</APP>
@@ -1015,25 +1012,25 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                                          sarveṣām{ }eva bhūritāḥ \msCc,
                                              sarveṣām{ }iva bhūritā \msNa, sarveṣām{ }eva bhūriṇām \msNb,
                                              sa<UNCL>rṣapā</UNCL> iva bhāvitā \msM,
-                                             sarveṣām{ }eva bhūr imāṃ \Ed</APP>
-                                                                 % phps bhūriṇām for bhūrīṇām? or bhūr -in?
+                                             sarveṣām{ }eva bhūr{ }imāṃ \Ed</APP>
 
 <TEXT> daśanāma diśāṣṭānāṃ brahmāṇḍe kīrtitaṃ śṛṇu||</TEXT> 1.40
         <APP>\vc <LEM>diśā°</LEM> \mssCaCbCc\msNa\msNc\msM\Ed; śivā° \msNb</APP>
         <APP>\vd <LEM>brahmāṇḍe</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; brahmaṇḍā \msM\oo
-                   <LEM>kīrtitaṃ śṛṇu</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; 
+                 <LEM>kīrtitaṃ śṛṇu</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; 
                                              ya ca kīrtitam \msCb, kīrttitā śṛṇu \msM</APP>
                   <!-- <TR>Ten names of all the [cosmic] rulers of each of the eight directions 
                                     in Brahmā's Egg, [which is] inside Śiva's Egg,  
                                     are being taught now, listen.</TR> -->
-                           <NOTE>My conjecture in pāda b is based on the fact that the 
-                           readings transmitted in the MSS seem unintelligible and more importantly that
-                           these names are said to belong to Łnāyaka$s in the subsequent verses,
-                           a possible synonym of Łbhūbhṛt$, ('a king'), and also that
-                           it is a minute intervention.
-                                    In Łpāda$ c, understand Łdiśāṣṭānāṃ$ as Łdiśām aṣṭānāṃ$ 
-                                    or Łdigaṣṭakānāṃ$</NOTE>
-% FIX '
+                   <NOTE>My conjecture in Łpāda$ b (Łbhūbhṛtām$) is based on the fact that the 
+                   readings transmitted in the MSS seem unintelligible and, more importantly, that
+                   these names are said to belong to Łnāyaka$s in the subsequent verses,
+                   a possible synonym of Łbhūbhṛt$ (`a king'), and also that it is a minute intervention.
+                   In Łpāda$ c, understand Łdiśāṣṭānāṃ$ as Łdiśām aṣṭānāṃ$ or Łdigaṣṭakānāṃ$, 
+                   and note the one of the hallmarks of the language of the \VSS\ is the use
+                   of the singular in the proximity of numerals, where a plural would be expected.</NOTE>
+
+%index_grammar: singular after numbers
 
 
 <SUBCHAPTER>bhūbhṛtāṃ nāmāni</SUBCHAPTER>
@@ -1041,28 +1038,31 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
 <SUBSUBCHAPTER>pūrvataḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>East</TRSUBSUBCHAPTER>
-<TEXT> sahāsahaḥ sahaḥ sahyo visahaḥ saṃhato 'sahā|</TEXT>
+<TEXT> sahāsahaḥ sahaḥ sahyo visahaḥ saṃhato 'sabhā|</TEXT>
          <APP>\va <LEM>sahāsahaḥ</LEM> \msNc; sāhāsaha \mssCaCbCc\msNa\msNb\msM\Ed\oo
-                   <LEM>sahaḥ sahyo</LEM> \msCa\msCc\msNa\msNb\msNc;
-                        sahaḥ sajñā \msCb, saho sahyaḥ \msM, sahaḥ sajño \Ed</APP>
+                  <LEM>sahaḥ sahyo</LEM> \msCa\msCc\msNa\msNb\msNc;
+                                        sahaḥ sajñā \msCb, saho sahyaḥ \msM, sahaḥ sajño \Ed</APP>
         <APP>\vb <LEM>visahaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; visaha \msCc\msM\oo
-                 <LEM>sahā</LEM> \msM; sabhā \msCa\msCc\msNa\msNb\msNc, sabhāḥ \msCb, satā \Ed</APP>
-        <!-- <TR>[1] Saha, [2] Asaha, [3] Sahas, [4] Sahya, [5] Visaha, [6] Saṃhata, [7] Asahā,</TR> -->
-        <NOTE>I chose to supply an Łavagraha$ before Łsahā$ only because all the sources 
-                consulted read Łsaṃhato$ as the previous word, making the Łsandhi$
-                Ło-s$ suspicious. 
-                Note that many of the names here and in the following verses are,
+                 <LEM>'sabhā</LEM> \msCa\msCc\msNa\msNb\msNc; sahā \msM, sabhāḥ \msCb, satā \Ed</APP>
+        <!-- <TR>[1] Sahā, [2] Asaha, [3] Saha, [4] Sahya, [5] Visaha, [6] Saṃhata, [7] Asabhā,</TR> -->
+        <NOTE>Note that many of the names here and in the following verses are,
                 in the absence of any parallel passage, rather insecure.
-                What is clear here is that the names evoke the name Sahasrākṣa,
-                one of the appellations of
-                Indra, the guadrian of the eastern direction.</NOTE>
+                In order to avoid the repetition of the name Saha, I take the first name here
+                as feminine; Asabhā seems also to be a feminine ruler's name. Later on there
+                seem to come more feminine names (Tejā, Yamunā, Naganā, etc.), therefore it 
+                may be correct to interpret some of the names as names of queens.
+                What is clear here is that the list evokes the name Sahasrākṣa,
+                one of the appellations of Indra, the guadrian of the eastern direction.</NOTE>
 
 <TEXT> prasaho 'prasahaḥ sānuḥ pūrvato daśa nāyakāḥ||</TEXT> 1.41
         <APP>\vc <LEM>prasaho</LEM> \mssCaCbCc\msNa\msNb\msNc\msM; prasaheḥ \Ed\oo
                  <LEM>prasahaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\msM; prasa<UNCL>vaḥ</UNCL> \msCc, saprahaḥ \Ed\oo
                  <LEM>sānuḥ</LEM> \mssCaCbCc\msNa\msNb; sānu \msNc\msM\Ed</APP>
         <APP>\vd <LEM>pūrvato</LEM> \mssCaCbCc\msNa\msNb\msNc\msM; parvato \Ed</APP>
-        <!-- <TR>[8] Prasaha, [9] Aprasaha, [10] Sānu: [these are] the ten Leaders in the East.</TR> --> % sānuf \msCa % \msCb and \msCc have an avagraha before saprahaḥ/prasavaḥ
+        <!-- <TR>[8] Prasaha, [9] Aprasaha, [10] Sānu: [these are] the ten Leaders in the East.</TR> --> 
+% sānuf \msCa % \msCb and \msCc have an avagraha before saprahaḥ/prasavaḥ
+
+
 
 <SUBSUBCHAPTER>āgneye</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>South-East</TRSUBSUBCHAPTER>
@@ -1086,15 +1086,18 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                  <LEM>tv{ }etad{ }ā°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; tv{ }ecam{ }ā \msM</APP>
         <APP>\vb <LEM>śṛṇv{ }atha</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; śṛṇutha \msM\oo
                  <LEM>dvija</LEM> \mssCaCbCc\msNa\msNc\msM\Ed; dvijaḥ \msNb</APP>
-        <!-- <TR>[leaders] in the direction of Agni [SE]. Now listen to [the names for]
+        <!-- <TR>[rulers] in the direction of Agni [SE]. Now listen to [the names for]
                 the direction of Yama [S], O twice-born.</TR> -->
+        <NOTE>Here, in the region of Agni, the names evidently evoke the image of flames.</NOTE>
 % \msCb\ yāmya? 
+
+
 
 <SUBSUBCHAPTER>yāmye</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>South</TRSUBSUBCHAPTER>
 <TEXT> yamo 'tha yamunā yāmaḥ saṃyamo yamuno 'yamaḥ||</TEXT> 1.43
         <APP>\vd <LEM>saṃyamo</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; saṃyama \msM\oo
-                   <LEM>yamuno</LEM> \msCa\msCb\msNb; yamano \msCc\msNc, yumunā \msNa,
+                 <LEM>yamuno</LEM> \msCa\msCb\msNb; yamano \msCc\msNc, yumunā \msNa,
                                     yamato \msM, yamunā° \Ed\oo
                  <LEM>yamaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; yana \msM</APP>
         <!-- <TR>[1] Yama, [2] Yamunā, [3] Yāma, [4] Saṃyama, [5] Yamuna, [6] Ayama,</TR> -->
@@ -1102,17 +1105,21 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 <TEXT> saṃyano yamanoyāno yaniyugmā yanoyanaḥ|</TEXT>
          <APP>\va <LEM>saṃyano yamanoyāno</LEM> \msNa; saṃyamo yamanoyāno \msCa\msCc\Ed, 
                                     saṃyamo yamunoyāno \msCb\msNb,
-                                         saṃyamā yamano yāmo \msNc, yamiyugmā yano yānaḥ \msM</APP>
-         <APP>\vb <LEM>yaniyugmā yano yanaḥ</LEM> \msNb; yaniyugmā nayo yanaḥ \msCa\msCc\msNa,
-                                     yaniyugmā nayo nayaḥ \msCb,
-         yaniyugmā nayo yamaḥ \msNc, daśamā yāmyam{ }āśṛtā \msM, yaniyugmā nayonaya \Ed</APP>
+                                    saṃyamā yamano yāmo \msNc, yamiyugmā yano yānaḥ \msM</APP>
+         <APP>\vb <LEM>yaniyugmā yanoyanaḥ</LEM> \msNb; yaniyugmā nayo yanaḥ \msCa\msCc\msNa,
+                                    yaniyugmā nayo nayaḥ \msCb, yaniyugmā nayo yamaḥ \msNc,
+                                    daśamā yāmyam{ }āśṛtā \msM, yaniyugmā nayonaya \Ed</APP>
         <!-- <TR>[7] Saṃyana, [8] Yamanoyāna, [9] Yaniyugmā, [10] Yanoyana.</TR> -->
-        <NOTE>I have choosen the variant Łsaṃyano$ in Łpāda$ c only to avoid the repetition of
-                        the name Łsaṃyama$, and the variant Łyanoyanaḥ$ because I suspect that
+        <NOTE>I have choosen the variant Łsaṃyano$ in Łpāda$ a only to avoid the repetition of
+                        the name Łsaṃyama$, and the variant Łyanoyanaḥ$ in Łpāda$ d because I suspect that
                         most of the names here should begin with Łya$. All the name forms
                         in this verse are to be taken as tentative. The only 
                         guiding light is the presence of Łya$, reinforcing a connection with Yama.</NOTE>
         % \va yāneṃ? \msCa 
+
+
+
+% EDDIG
 
 <SUBSUBCHAPTER>nairṛte</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>South-West</TRSUBSUBCHAPTER>
