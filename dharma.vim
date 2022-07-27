@@ -155,7 +155,7 @@ set scrolloff=12
 set showcmd
 set statusline=\ %F%m%r%h%w\ %=%({%{&ff}|%{(&fenc==\"\"?&enc:&fenc).((exists(\"+bomb\")\ &&\ &bomb)?\",B\":\"\")}%k|%Y}%)\ %([%l,%v][%p%%]\ %)\ %{wordcount()[\"words\"]}
 set suffixes=.bak,~,.swp,.o,.info,.aux,.log,.dvi,.bbl,.blg,.brf,.cb,.ind,.idx,.ilg,.inx,.out,.toc
-set textwidth=40
+set textwidth=80
 set ttimeout
 set ttimeoutlen=10
 set undodir=~/.vim/undodir
@@ -234,7 +234,7 @@ setlocal keymap=sanskrit
 setlocal noarabic
 setlocal noautoindent
 setlocal backupcopy=
-setlocal balloonexpr=
+setlocal balloonexpr=netrw#BalloonHelp()
 setlocal nobinary
 setlocal nobreakindent
 setlocal breakindentopt=
@@ -280,7 +280,7 @@ setlocal foldminlines=1
 setlocal foldnestmax=20
 setlocal foldtext=foldtext()
 setlocal formatexpr=xmlformat#Format()
-setlocal formatoptions=cq
+setlocal formatoptions=croql
 setlocal formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*
 setlocal formatprg=
 setlocal grepprg=
@@ -352,14 +352,16 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1123 - ((14 * winheight(0) + 19) / 38)
+let s:l = 2512 - ((18 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-1123
-normal! 0
+2512
+normal! 023|
+lcd ~/
 tabnext 1
-badd +0 indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
+badd +3652 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
+badd +21 ~/indology/dharma_project/2022july_heidelberg.txt
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
