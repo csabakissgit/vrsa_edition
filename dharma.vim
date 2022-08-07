@@ -352,15 +352,15 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 2512 - ((18 * winheight(0) + 15) / 31)
+let s:l = 3566 - ((25 * winheight(0) + 19) / 38)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-2512
-normal! 023|
+3566
+normal! 0
 lcd ~/
 tabnext 1
-badd +3652 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
+badd +0 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 badd +21 ~/indology/dharma_project/2022july_heidelberg.txt
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf

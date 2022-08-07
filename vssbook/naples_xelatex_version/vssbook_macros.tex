@@ -68,11 +68,12 @@ footskip=1.7cm, footnotesep=1cm]{geometry}
 
 %INDEX
 \newcommand{\csindex}[1]{#1\index{#1}}
-\newcommand{\csindexx}[2]{#1\index{#1@#2}}
+\newcommand{\csindexx}[2]{#1\index{#2@#1}}
+\newcommand{\csindexxx}[3]{#1\index{#2@#3}}
 \newcommand{\cskt}[2]{\skt{#1}\index{#2@\skt{#1}}}
 
-\tolerance=1500
-\hbadness=1500
+\tolerance=100
+\hbadness=100
 \hfuzz=2pt
 
 % FONT STUFF
@@ -158,12 +159,19 @@ footskip=1.7cm, footnotesep=1cm]{geometry}
 \newcommand{\skttitle}[2]{\textsl{#1}\index{#2@\textsl{#1}}}
 
 
+% SANSKRIT WORKS
+
 %SMALL CAPS HACKS
 \newcommand\scR{r\kern-.35em\raisebox{-.17em}{.}\kern.15em}
 \newcommand\scS{s\kern-.35em\raisebox{-.17em}{.}\kern.13em}
 \newcommand\scM{m\kern-.5em\raisebox{-.17em}{.}\kern.25em}
 
+\newcommand{\Uums}{\textsl{Utta\-ro\-tta\-ma\-ma\-hā\-saṃ\-vā\-da}\index{Uttarottaramahasamvada@\textsl{Uttarottaramahāsaṃvāda}}}
+\newcommand{\UUMS}{UUMS\index{Uttarottaramahasamvada@\textsl{Uttarottaramahāsaṃvāda}}}
 
+
+\newcommand{\KurmP}{\textsl{Kū\-rma\-pu\-rā\-ṇa}}
+\newcommand{\KURMP}{KūrmP}
 
 \newcommand{\Vss}{\textsl{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}\index{Vrsasarasamgraha@\textsl{Vṛṣasārasaṃgraha}}}
 \newcommand{\Vsssc}{{V\scR\scS a\-sā\-ra\-sa\scM\-gra\-ha}%
@@ -188,20 +196,30 @@ footskip=1.7cm, footnotesep=1cm]{geometry}
 \newcommand{\MatsP}{\textsl{Matsyapurāṇa}\index{Matsyapurana@\textsl{Matsyapurāṇa}}}
 \newcommand{\MATSP}{MatsP\index{Matsyapurana@\textsl{Matsyapurāṇa}}}
 
-\newcommand{\BrahmandaPur}{\textsl{Bra\-hmā\-ṇḍa\-pu\-rā\-ṇa}}
-\newcommand{\BRAHMANDAPUR}{BrahmāṇḍaP}
+\newcommand{\BrahmandaPur}{\textsl{Bra\-hmā\-ṇḍa\-pu\-rā\-ṇa}\index{Brahmandapurana@\textsl{Brahmāṇḍapurāṇa}}}
+\newcommand{\BRAHMANDAPUR}{BrahmāṇḍaP\index{Brahmandapurana@\textsl{Brahmāṇḍapurāṇa}}}
 
-\newcommand{\VisnuPu}{\textsl{Vi\-ṣṇu\-pu\-rā\-ṇa}}
-\newcommand{\VISHNUPU}{ViṣṇuP}
+\newcommand{\BhavP}{\textsl{Bha\-vi\-ṣya\-pu\-rā\-ṇa}\index{Bhavisyapurana@\textsl{Bhaviṣyapurāṇa}}}
+\newcommand{\BHAVP}{BhavP\index{Bhavisyapurana@\textsl{Bhaviṣyapurāṇa}}}
 
-\newcommand{\VayuP}{\textsl{Vā\-yu\-pu\-rā\-ṇa}}
-\newcommand{\VAYUP}{VāyuP}
+\newcommand{\BhagP}{\textsl{Bhā\-ga\-va\-ta\-pu\-rā\-ṇa}\index{Bhagavatapurana@\textsl{Bhāgavatapurāṇa}}}
+\newcommand{\BHAGP}{BhāgP\index{Bhagavatapurana@\textsl{Bhāgavatapurāṇa}}}
 
-\newcommand{\SivPu}{\textsl{Śi\-va\-pu\-rā\-ṇa}}
-\newcommand{\SIVPU}{ŚivP}
+\newcommand{\VisnuP}{\textsl{Vi\-ṣṇu\-pu\-rā\-ṇa}\index{Visnupurana@\textsl{Viṣṇupurāṇa}}}
+\newcommand{\VISNUP}{ViṣṇuP\index{Visnupurana@\textsl{Viṣṇupurāṇa}}}
 
-\newcommand{\SkandaP}{\textsl{Ska\-nda\-pu\-rā\-ṇa}}
-\newcommand{\SKANDAP}{SkandaP}
+\newcommand{\VayuP}{\textsl{Vā\-yu\-pu\-rā\-ṇa}\index{Vayupurana@\textsl{Vāyupurāṇa}}}
+\newcommand{\VAYUP}{VāyuP\index{Vayupurana@\textsl{Vāyupurāṇa}}}
+
+\newcommand{\SivPu}{\textsl{Śi\-va\-pu\-rā\-ṇa}\index{Sivapurana@\textsl{Śivapurāṇa}}}
+\newcommand{\SIVPU}{ŚivP\index{Sivapurana@\textsl{Śivapurāṇa}}}
+
+\newcommand{\SkandaP}{\textsl{Ska\-nda\-pu\-rā\-ṇa}\index{Skandapurana@\textsl{Skandapurāṇa}}}
+\newcommand{\SKANDAP}{SkandaP\index{Skandapurana@\textsl{Skandapurāṇa}}}
+
+
+
+
 
 
 \newcommand{\similar}{${\approx}$}
@@ -348,6 +366,8 @@ L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
 \newcommand{\trsubsubchptr}[1]{\centerline{#1 ]}}
 
 \newcommand{\maintext}[1]{
+\leftskip0em
+\noindent
 %\smallskip
 \textit{#1}}
 
@@ -355,14 +375,16 @@ L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
 			                
 \newcommand{\translation}[1]{
 
-\leftskip4em
+\leftskip1em
+
 \noindent
 %\begin{quote}
 %\normalsize 
 #1
 %\end{quote}
 
-\medskip
+\smallskip
+
 \leftskip0em}
 
 \newcommand{\CHECK}{{\englishfont\color{red}{CHECK}}}
