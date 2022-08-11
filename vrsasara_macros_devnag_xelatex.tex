@@ -3,11 +3,12 @@
 %\usepackage{kpfonts}
 %\usepackage[osf]{Alegreya,AlegreyaSans}
 \renewcommand{\baselinestretch}{.9}
+\parindent2em
 \usepackage{pdfpages}
 \usepackage{dev}
 
 % tabulator
-\usepackage{tabto}
+%\usepackage{tabto}
 %\NumTabs{2}
 %this one used only for the LaTeX version, see it there:
 %\usepackage[utf8x]{inputenx}
@@ -91,17 +92,17 @@
 \newcommand{\innentoll}{\global\innenn=\versno}
 
 %%%%  Types of paragraph
-\newcommand{\proza}{\leftskip 4em\noindent}
-\newcommand{\ujproza}{\global\advance\versno by1\leftskip 4em\noindent}
-\newcommand{\vers}{\leftskip 3em}
-\newcommand{\dnvers}{\leftskip 5em}
+\newcommand{\proza}{\leftskip 3em\noindent}
+\newcommand{\ujproza}{\global\advance\versno by1\leftskip 3em\noindent}
+\newcommand{\vers}{\leftskip3em}
+\newcommand{\dnvers}{\leftskip3em}
 
 \newcommand{\sloka}{\vers}
 
-\newcommand{\nemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\newcommand{\nemslokab}{\leftskip 5em} % pada b
-\newcommand{\nemslokac}{\leftskip 3em} % pada c
-\newcommand{\nemslokad}{\leftskip 5em} % pada d
+\newcommand{\nemsloka}{\leftskip3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\nemslokab}{\leftskip5em} % pada b
+\newcommand{\nemslokac}{\leftskip3em} % pada c
+\newcommand{\nemslokad}{\leftskip5em} % pada d
 
 
 \newcommand{\dnnemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
@@ -333,7 +334,7 @@
 \newcommand{\KhV}{KhV\index{Khecarividya@\textsl{Khecar\=\i vidy\=a}}}
 
 \newcommand{\MKS}{MKS\index{Mahakalasamhita@\textsl{Mah\=ak\=alasa\d mhit\=a}}}
-\newcommand{\MP}{MatPu}%\index{Matsyapurana@\textsl{Matsyapur\=a\d na}}}
+%\newcommand{\MP}{MatPu}%\index{Matsyapurana@\textsl{Matsyapur\=a\d na}}}
 \newcommand{\MUT}{MUT\index{Matottaratantra@\textsl{Matottaratantra}}}
 \newcommand{\MVUT}{MVUT\index{Malinivijayottaratantra@\textsl{M\=alin\=\i vijayottaratantra}}}
 \newcommand{\MaSam}{MaSa\d m} %\index{Matsyendrasamhita@\textsl{Matsyendrasa\d mhit\=a}}}
@@ -364,17 +365,27 @@
 \newcommand{\TAK}{TAK} %\index{Tantrikabhidhanakosa@\textsl{T\=antrik\=abhidh\=anako\'sa}}}
 
 
+\newcommand{\AgniP}{\textsl{A\-gni\-pu\-rā\-ṇa}}
+\newcommand{\AGNIP}{AgniP}
+
+
+\newcommand{\Amara}{\textsl{Amarakośa}}
+\newcommand{\AMARA}{Amara}
+
 \newcommand{\Uums}{\textsl{Uttarottaramahāsaṃvāda}}
 \newcommand{\UUMS}{UUMS}
 
-\newcommand{\Uma}{\textsl{Umāmaheśvarasaṃvāda}}
-\newcommand{\UMA}{Umā}
+\newcommand{\Ums}{\textsl{Umāmaheśvarasaṃvāda}}
+\newcommand{\UMS}{UMS}
 
 \newcommand{\KurmP}{\textsl{Kū\-rma\-pu\-rā\-ṇa}}
 \newcommand{\KURMP}{KūrmP}
 
 \newcommand{\GarPu}{\textsl{Ga\-ru\-ḍa\-pu\-rā\-ṇa}}
 \newcommand{\GARPUR}{GarP}
+
+\newcommand{\TakI}{\textsl{Tā\-ntri\-kā\-bhi\-dhā\-na\-ko\-śa I}}
+\newcommand{\TAKI}{TAK I}
 
 \newcommand{\DeviP}{\textsl{De\-vī\-pu\-rā\-ṇa}}
 \newcommand{\DEVIP}{DevīP}
@@ -388,20 +399,47 @@
 \newcommand{\BhagP}{\textsl{Bhā\-ga\-va\-ta\-pu\-rā\-ṇa}}
 \newcommand{\BHAGP}{BhāgP}
 
-\newcommand{\MatsP}{\textsl{Ma\-tsya\-pu\-rā\-ṇa}}
-\newcommand{\MATSP}{MatP}
+\newcommand{\Nisvmukh}{\textsl{Ni\-śvā\-sa mu\-kha}}
+\newcommand{\NISVMUKH}{NiśvMukha}
 
-\newcommand{\VisnuP}{\textsl{Vi\-ṣṇu\-pu\-rā\-ṇa}}
-\newcommand{\VISHNUP}{ViṣṇuP}
+\newcommand{\MatsP}{\textsl{Ma\-tsya\-pu\-rā\-ṇa}}
+\newcommand{\MATSP}{MatsP}
+
+\newcommand{\MarkP}{\textsl{Mārkaṇḍeyapurāṇa}}
+\newcommand{\MARKP}{MarkP}
 
 \newcommand{\MBh}{\textsl{Ma\-hā\-bhā\-ra\-ta}}
 \newcommand{\MBH}{MBh}
+
+\newcommand{\Mitaksara}{\textsl{Mi\-tā\-kṣa\-ra}}
+\newcommand{\MITAKSARA}{Mitākṣara}
+
+\newcommand{\YajnS}{\textsl{Yājñavalkyasmṛti}}
+\newcommand{\YAJNS}{YājñS}
 
 \newcommand{\LinPu}{\textsl{Li\-ṅga\-pu\-rā\-ṇa}}
 \newcommand{\LINPU}{LiṅP}
 
 \newcommand{\VayuP}{\textsl{Vā\-yu\-pu\-rā\-ṇa}}
 \newcommand{\VAYUP}{VāyuP}
+
+\newcommand{\VamP}{\textsl{Vā\-ma\-na\-pu\-rā\-ṇa}}
+\newcommand{\VAMP}{VamP}
+
+\newcommand{\VarP}{\textsl{Va\-rā\-ha\-pu\-rā\-ṇa}}
+\newcommand{\VARP}{VarP}
+
+\newcommand{\VDhU}{\textsl{Vi\-ṣṇu\-dha\-rmo\-tta\-ra}}
+\newcommand{\VDHU}{VDhU}
+
+\newcommand{\VDh}{\textsl{Vi\-ṣṇu\-dha\-rma}}
+\newcommand{\VDH}{VDh}
+
+\newcommand{\VisnuP}{\textsl{Vi\-ṣṇu\-pu\-rā\-ṇa}}
+\newcommand{\VISHNUP}{ViṣṇuP}
+
+\newcommand{\VisnuS}{\textsl{Vi\-ṣṇu\-smṛ\-ti}}
+\newcommand{\VISNUS}{ViṣṇuS}
 
 \newcommand{\Vss}{\textsl{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}}
 \newcommand{\Vsssc}{{V\scR\scS a\-sā\-ra\-sa\scM\-gra\-ha}}

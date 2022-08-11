@@ -352,12 +352,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 3566 - ((25 * winheight(0) + 19) / 38)
+let s:l = 4566 - ((12 * winheight(0) + 18) / 36)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-3566
-normal! 0
+4566
+normal! 046|
 lcd ~/
 tabnext 1
 badd +0 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
