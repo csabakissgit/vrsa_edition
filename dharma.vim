@@ -29,8 +29,6 @@ map Q gq
 nnoremap WW :w
 nmap <silent> [e <Plug>JumpDiffCharPrevEnd
 nmap <silent> [b <Plug>JumpDiffCharPrevStart
-nmap \caL <Plug>CalendarH
-nmap \cal <Plug>CalendarV
 nnoremap \m yiw:!grep -R --colour=always -e /home/csaba/indology/monier/mw_colored.xml 5T/2h i "^.....<pa" A | less -RF"h
 vnoremap \m y:!grep -R --colour=always -e /home/csaba/indology/monier/mw_colored.xml 45h i "^.....<pa"59la | less -R70h
 nmap <silent> ]e <Plug>JumpDiffCharNextEnd
@@ -76,9 +74,6 @@ vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(expand((exists("g:netrw_gx")? g:netrw_gx : '<cfile>')),netrw#CheckIfRemote())
 nmap <silent> <F8> <Plug>ToggleDiffCharCurrentLine
 nmap <silent> <F7> <Plug>ToggleDiffCharAllLines
-nnoremap <silent> <Plug>CalendarT :cal calendar#show(2)
-nnoremap <silent> <Plug>CalendarH :cal calendar#show(1)
-nnoremap <silent> <Plug>CalendarV :cal calendar#show(0)
 vnoremap <silent> <Plug>(calendar) :Calendar
 nnoremap <silent> <Plug>(calendar) :Calendar
 map <M-Left> :vertical resize -1
@@ -155,27 +150,25 @@ set scrolloff=12
 set showcmd
 set statusline=\ %F%m%r%h%w\ %=%({%{&ff}|%{(&fenc==\"\"?&enc:&fenc).((exists(\"+bomb\")\ &&\ &bomb)?\",B\":\"\")}%k|%Y}%)\ %([%l,%v][%p%%]\ %)\ %{wordcount()[\"words\"]}
 set suffixes=.bak,~,.swp,.o,.info,.aux,.log,.dvi,.bbl,.blg,.brf,.cb,.ind,.idx,.ilg,.inx,.out,.toc
-set textwidth=80
 set ttimeout
 set ttimeoutlen=10
 set undodir=~/.vim/undodir
 set undofile
 set wildignore=*/.git/*,*/tmp/*,*.swp,*~,*.log,#*
 set wildmenu
-set window=7
 let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
 let v:this_session=expand("<sfile>:p")
 silent only
 silent tabonly
-cd ~/
+cd ~/indology/dharma_project/vrsa_edition
 if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
   let s:wipebuf = bufnr('%')
 endif
 set shortmess=aoO
 argglobal
 %argdel
-$argadd indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
-edit indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
+$argadd vrsasarasamgraha.xml
+edit vrsasarasamgraha.xml
 set splitbelow splitright
 set nosplitbelow
 set nosplitright
@@ -232,9 +225,9 @@ let &cpo=s:cpo_save
 unlet s:cpo_save
 setlocal keymap=sanskrit
 setlocal noarabic
-setlocal noautoindent
+setlocal autoindent
 setlocal backupcopy=
-setlocal balloonexpr=netrw#BalloonHelp()
+setlocal balloonexpr=
 setlocal nobinary
 setlocal nobreakindent
 setlocal breakindentopt=
@@ -288,7 +281,7 @@ setlocal iminsert=1
 setlocal imsearch=-1
 setlocal include=
 setlocal includeexpr=
-setlocal indentexpr=
+setlocal indentexpr=XmlIndentGet(v:lnum,1)
 setlocal indentkeys=o,O,*<Return>,<>>,<<>,/,{,},!^F
 setlocal noinfercase
 setlocal iskeyword=@,48-57,_,192-255
@@ -340,7 +333,7 @@ setlocal tags=
 setlocal termwinkey=
 setlocal termwinscroll=10000
 setlocal termwinsize=
-setlocal textwidth=40
+setlocal textwidth=0
 setlocal thesaurus=
 setlocal undofile
 setlocal undolevels=-123456
@@ -352,16 +345,14 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 4566 - ((12 * winheight(0) + 18) / 36)
+let s:l = 4901 - ((14 * winheight(0) + 15) / 30)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-4566
-normal! 046|
-lcd ~/
+4901
+normal! 0
 tabnext 1
-badd +0 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
-badd +21 ~/indology/dharma_project/2022july_heidelberg.txt
+badd +0 vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif

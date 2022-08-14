@@ -54,7 +54,7 @@ Is 'oṃ namaḥ śivāya' there?
         <APP>\va <LEM>°ntam{ }ananta°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\msNd\msM\Ed; °ntam{ }anta° \msCbacorr\oo
                  <LEM>°pāraṃ</LEM> \mssCaCbCc\msNc\msM\Ed; °pāragaṃ \msNa\msNb\msNd</APP>
                         %pāragaṃ \msNd\msBod
-        <PARAL>\va Ł\compare\ \SDHU\ 10.6: $
+        <PARAL>\va <rm>\compare\ \SDHU\ 10.6: </rm>
                 ādimadhyāntanirmuktaḥ svabhāvavimalaḥ prabhuḥ |
                 sarvajñaḥ paripūrṇaś{ }ca śivo jñeyaḥ śivāgame ||</PARAL>
 
@@ -78,6 +78,7 @@ Is 'oṃ namaḥ śivāya' there?
                                                                 °bhir{ }yat{ }samagraṃ \msM\ \unmetr
 
 %index_voc: āsamagra
+%index_metre: muta cum liquida 
 
 <TEXT> praṇamya vakṣye vṛṣasārasaṃgraham||</TEXT> 1.1
         <APP>\vd <LEM>vṛṣa°</LEM> \msCapcorr\msCb\msCc\msNa\msNb\msNc\msNd\msM\Ed; °vṛṣo \msCaacorr</APP>
@@ -208,7 +209,7 @@ line, a change from Łtriṣṭubh$ to Łjagatī$ (as suggested by Dominic Gooda
         <APP>\vd <LEM>śrutvā</LEM> \msCa\msCc\msNa\msNb\msNc\msNd\msM\Ed; śraddhā \msCb\oo
                  <LEM>bhāratasaṃhitām</LEM> \msCa\msCb\msNa\msNb\msNc\msM; bhārasaṃhitā \msCc,
                                          bhāratasaṃhitaṃ \msNd, nārādasaṃhitām \Ed</APP>
-        <PARAL>\vc Ł\compare\ \MBH\ 1.2.70ab: $ etat{ }parvaśataṃ pūrṇaṃ vyāsenoktaṃ mahātmanā</PARAL>
+        <PARAL>\vc <rm>\compare\ \MBH\ 1.2.70ab: </rm> etat{ }parvaśataṃ pūrṇaṃ vyāsenoktaṃ mahātmanā</PARAL>
         <NOTE>The dialogue of Janamejaya and Vaiśampāyana makes up the outermost layer of the \VSS\ 
                 (except for the introductory stanzas 1.1--3; see Introduction \CHECK), mostly containing
                 general Łdharmaśāstric$ material.
@@ -294,7 +295,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                                                                 bhagavaṃ sa° \msM\oo
                 <LEM>°dharmajña</LEM> \mssCaCbCc\msNb\msNc\msM\Ed; °jña \msNa, °dharmajñaḥ \msNd</APP>
        <APP>\vb <LEM>°viśārada</LEM> \msCa\msNb\msNc\msNd; °visāradaḥ \msCb\msCc\msNa\Ed, °viśāradam \msM</APP>
-       <PARAL>\vab Ł= \MBH\ 13.112.9ab$</PARAL>
+       <PARAL>\vab <rm>= \MBH\ 13.112.9ab</rm></PARAL>
 
 % Kenji says neuter Dharma
 % Flo guhya dharma is a formula
@@ -429,10 +430,10 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
         %CHECK /gretil/stkal_au.htm.txt and Niśv kārikā
 <TEXT> anuccāryam{ }asandigdham{ }avicchinnam{ }anākulam|</TEXT>
-        <!-- <TR>That syllable is not to be pronounced, is unquestionable, non-dividable, consistent,</TR> -->
         <APP>\va <LEM>°ccārya°</LEM> \msCa\msCb\msNa\msNb\msM\Ed; °cārya° \msCc\msNc\msNd</APP>
         <APP>\vab <LEM>°sandigdham{ }avicchinnam{ }anākulam</LEM> \msCa\msCb\msNa\msNc\msNd\msM\Ed;
                                 °vicchinnasandigdham{ }anākuna \msCc, °sandigdham{ }anacchinnam{ }anākulam \msNb</APP>
+        <!-- <TR>That syllable is not to be pronounced, is unquestionable, non-dividable, consistent,</TR> -->
 
 %folioinfo \msCc\ 182.jpg, f. 267v (not 237v as online shown)
 <TEXT> nirmalaṃ sarvagaṃ sūkṣmam{ }akṣaraṃ kimu tatparam||</TEXT> 1.10
@@ -454,7 +455,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         <APP>\va <LEM>dehe kṣa°</LEM> \msCa\msCc\msNc; dehāt{ }kṣa° \msCb, dehakṣa° \msNa\msNb\msNd\msM\Ed\oo
                  <LEM>yāte</LEM> \mssCaCbCc\msNa\msNb\msNc\msM\Ed; yānte \msNd</APP>
         <APP>\vb <LEM>°gniśivādibhiḥ</LEM> \msCa\msCb\msNa\msNb\msNc\msM\Ed; °gniśivādibhi \msCc, °gniṃ śi*dibhi \msNd</APP>
-        <PARAL>\vb Ł\compare\ \KURMP\ 2.23.74: $ 
+        <PARAL>\vb <rm>\compare\ \KURMP\ 2.23.74: </rm> 
                 atha kaścit{ }pramādena mriyate 'gniviṣādibhiḥ| 
                 tasyāśaucaṃ vidhātavyaṃ kāryaṃ caivodakādikam||</PARAL>
         <NOTE>The word Ł°śivā°$ in Łpāda$ b is slightly suspect, and could be the result
@@ -805,7 +806,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 <TEXT> kālaḥ sṛjati bhūtāni kālaḥ saṃharate punaḥ|</TEXT>
         <APP>\vb <LEM>kālaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc\msM; kāla \Ed</APP>
         <!-- <TR>Time creates living beings and time destroys them again.</TR> -->
-        <PARAL>\vab Ł\similar\ \UMS\ 12.34cd: $
+        <PARAL>\vab <rm>\similar\ \UMS\ 12.34cd: </rm>
                         kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ</PARAL>
 
 %folioinfo \msCb\ 406.jpg f.202v
@@ -814,7 +815,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                  <LEM>vaśagāḥ</LEM> \mssCaCbCc\msNa\msNb\msNc\msM; vaśagā \Ed</APP>
         <APP>\vd <LEM>kālavaśakṛ°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; kālo vaśakṛ° \msM</APP>
         <!-- <TR>Everything is under the control of time. There is nothing that can bring time under control.</TR> -->
-        <PARAL>\vo \similar\ Ł\KURMP\ 1.11.32: $ 
+        <PARAL>\vo \similar\ <rm>\KURMP\ 1.11.32: </rm> 
                 kālaḥ sṛjati bhūtāni kālaḥ saṃharate prajāḥ |
                 sarve kālasya vaśagā na kālaḥ kasyacid{ }vaśe ||</PARAL>
 
@@ -827,7 +828,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
         % rddhāṇi \msNa
 
 <TEXT> kālena samatītāni kālo hi duratikramaḥ||</TEXT> 1.30
-        <PARAL>\vd Ł = \MBH\ 12.220.41d = \GARPUR\ 1.108.7d $</PARAL>
+        <PARAL>\vd <rm> = \MBH\ 12.220.41d = \GARPUR\ 1.108.7d </rm></PARAL>
         <!-- <TR>have passed by over time, for time is difficult to overcome.</TR> -->
         <NOTE>Note that Łsamatītāni$ (neuter) most probably picks up Łdevarājāḥ$
                 (masculine) in this verse, or rather Łdevarājā$ stands for
@@ -879,6 +880,8 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                   One would expect a phrase meaning `please tell me about these.'</NOTE>
 % pratipādita?
 
+%index_metre: ṛ -> ri (actually corrected)
+
 %folioinfo \msCa\ 384.jpg
 <TEXT> anarthayajña uvāca|*</TEXT>
         <APP>\vo <LEM>anarthayajña uvāca</LEM> \mssCaCbCc\msNapcorr\msNb\msNc\msM\Ed; \om\ \msNaacorr</APP>
@@ -904,7 +907,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
                  <LEM>padmaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; padma \msM</APP>
                   <!-- <TR>ten billion (Łkharva$), a hundred billion (Łnikharva$), one trillion 
                          (Łśaṅku$, 10<tothepowerof>12</tothepowerof>), and ten trillion (Łpadma$),</TR> -->
-        <PARAL>\vab Ł = \BRAHMANDAPUR\ 3.2.101 $ </PARAL>
+        <PARAL>\vab <rm> = \BRAHMANDAPUR\ 3.2.101 </rm> </PARAL>
 
 %folioinfo \msNa\ 196.jpg upper f.2v
 <TEXT> samudro madhyam{ }antaṃ ca parārdhaṃ ca paraṃ tathā||</TEXT> 1.34
@@ -1007,7 +1010,7 @@ cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate 
 
 <TEXT> brahmaṇā yat{ }purākhyāto mātariśvā yathā tathā||</TEXT> 1.39
         <APP>\vc <LEM>purākhyāto</LEM> \mssCaCbCc\msNa\msNb\msNc; purākhyātaṃ \msM, mamākhyāto \Ed</APP>
-        <PARAL>\vcd Łcf. \BRAHMANDAPUR\ 3.4.58cd: $ 
+        <PARAL>\vcd <rm>cf. \BRAHMANDAPUR\ 3.4.58cd: </rm> 
                         brahmā dadau śāstram{ }idaṃ purāṇaṃ mātariśvane</PARAL> 
         <NOTE>The claim that Brahmā taught Mātariśvan is confirmed in 1.64cd, and
                         also, e.g., in \BrahmandaPur\ 3.4.58cd (see the apparatus).</NOTE>
@@ -1796,7 +1799,7 @@ saiva/sivadharma/01sdhs/sivadharmasastra.dn:kalpako.tisahasraa.ni kalpako.ti"sat
 <TEXT> romaharṣeṇa provāca putrāyāmitabuddhaye|</TEXT>
         <APP>\va <LEM>°harṣeṇa</LEM> \msM; °harṣāya \mssCaCbCc\msNa\msNc, °harṣaṇāya \Ed</APP>
         <APP>\vb <LEM>°buddhaye</LEM> \mssCaCbCc\msNa\msNc\Ed; °buddhayaḥ \msM</APP>
-        <PARAL>\vab \similar\ Ł\BRAHMANDAPUR\ 3.4.67ab: $
+        <PARAL>\vab \similar\ <rm>\BRAHMANDAPUR\ 3.4.67ab: </rm>
                 mayā caitat{ }punaḥ proktaṃ putrāyāmitabuddhaye</PARAL>
         <NOTE>Romaharṣa is usually considered to be the same person as Sūta, disciple of Vyāsa Dvaipāyana.
                 
@@ -1949,7 +1952,7 @@ Also Yuko's article in our volume and
         <APP>\va <LEM>agamyagamanaṃ</LEM> \msCa\msCb\msNa\Ed; agamyagagahanaṃ \msCc, agamyagagamanaṃ \msNc</APP>
         <APP>\vb <LEM>guhyā°</LEM> \msNc\Ed; guhā° \mssCaCbCc\msNa\oo
                  <LEM>samuddhṛtam</LEM> \eme; samuddhitam \mssCaCbCc\msNa, samraddhitaṃ \msNc, samṛddhidam \Ed</APP>
-        <PARAL>\vab Ł\compare\ \LINPU\ 1.21.71ab: $ namo guṇyāya guhyāya agamyagamanāya ca</PARAL>
+        <PARAL>\vab <rm>\compare\ \LINPU\ 1.21.71ab: </rm> namo guṇyāya guhyāya agamyagamanāya ca</PARAL>
         <NOTE>My emendation to Łsamuddhṛtam$ in Łpāda$ b is not fully satisfactory, but the 
               readings transmitted in the witnesses are problematic. \msM, a MS not collated for
               this chapter, gives a confusing reading: Łsa<UNCL>murdhni</UNCL>dam$. I doubt
@@ -1984,6 +1987,7 @@ sam ud dhā  KENJI
         <!-- <TR>There are no truthful or untruthful people there, no moral or immoral people,</TR> -->
 
 %index_voc: duḥśīlavān should be pronounced as duśīlavān metri causa
+%index_metre: duḥśīlavān should be pronounced as duśīlavān metri causa
 
 <TEXT> nānṛjur{ }na ca dambhitvaṃ na tṛṣṇā na ca īrṣyatā||</TEXT> 2.6
         <APP>\vc <LEM>nānṛjur{ }na</LEM> \eme; nāṛjur{ }nna \msCa\Ed, nāṛjur{ }na \msCb\msNc, nāṛjun{ }na \msNa,
@@ -2110,7 +2114,7 @@ sam ud dhā  KENJI
 <TEXT> na vrataṃ na tapaś{ }caiva na tiryannarakaṃ tathā||</TEXT> 2.16
         <APP>\vd <LEM>na tiryannarakaṃ</LEM> \eme; nātiryannarakas \msCa\msCc\msNa,
                                  nātiryanarakan \msCb, nātriryaṃ narakas \msNc, na tīrthannarakan \Ed</APP>
-        <PARAL>\vd Ł\compare\ 19.48cd: $viśiṣṭhe tv{ }indriyagrāme tiryannarakasādhanam</PARAL>
+        <PARAL>\vd <rm>\compare\ 19.48cd: </rm>viśiṣṭhe tv{ }indriyagrāme tiryannarakasādhanam</PARAL>
         <NOTE>The phrase of Łtiryaṅnaraka$ appears in \MBH\ 3.181.18ab: 
                 Łaśubhaiḥ karmabhiḥ pāpās tiryaṅnarakagāminaḥ$. Here <cite>GanguliMBh</cite> translates Łtiryaṅ$ 
                 separately as `in a crooked way,' but I suspect that in the \VSS\ Łtiryannaraka$ has
@@ -2135,8 +2139,8 @@ Candrakirti_Catuhsatakatika , line 646
 
 
 <TEXT> tasyeśānasya devasya aiśvaryaguṇavistaram|</TEXT>
-        <PARAL>\vc Ł\compare\ \MBH\ (Indeces) 14.4.2743: $ aiśvaryaguṇasaṃpannāḥ krīḍanti ca yathāsukham, 
-                              Łand \BRAHMANDAPUR\ 1.26.1: $ mahādevasya mahātmyaṃ prabhutvaṃ ca mahātmanaḥ |  
+        <PARAL>\vc <rm>\compare\ \MBH\ (Indeces) 14.4.2743: </rm> aiśvaryaguṇasaṃpannāḥ krīḍanti ca yathāsukham, 
+                              <rm>and \BRAHMANDAPUR\ 1.26.1: </rm> mahādevasya mahātmyaṃ prabhutvaṃ ca mahātmanaḥ |  
                                                             śrotum{ }icchāmahe samyag{ }aiśvaryaguṇavistaram ||</PARAL>
         <!-- <TR>Nobody would be able to tell the extent of the qualities of the god Īśāna's</TR> -->
 
@@ -2463,7 +2467,7 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
 <TEXT> saptadvīpasamudrāṇi ratnapūrṇāni bho dvija|</TEXT>
         <APP>\va <LEM>°dvīpa°</LEM> \msCa\msCb\msNa\msNb\Ed; °dīpa° \msNc\oo
                  <LEM>°samudrāṇi</LEM> \msCa\msCb\msNa\msNc\Ed; °samudrāya \msNb</APP>
-        <PARAL>\vab ŁCf. \SDHU\ 2.104: $ triḥ pradatvā mahīṃ pūrṇāṃŁ...$</PARAL>
+        <PARAL>\vab <rm>Cf. \SDHU\ 2.104: </rm> triḥ pradatvā mahīṃ pūrṇāṃ<rm>...</rm></PARAL>
 
 %folioinfo \msCa\ 389.jpg
 <TEXT> dattvā vā vedaviduṣe śraddhābhaktisamanvitaḥ|</TEXT>
@@ -2660,16 +2664,16 @@ Kenji
         <APP>\vc <LEM>ādhāraṇān{ }ma°</LEM> \msP\msCa\msNb; ādhāraṇāt{ }pa° \msCb, ādhāraṇāt{ }ma° \msNa\msNc, ādhāreṇa ma° \Ed</APP>
         <APP>\vd <LEM>ity{ }abhidhīyate</LEM> \msCa\msNa\msNc\Ed; i<UNCL>ty{ }abhidhīyate</UNCL> \msP,
                                                                                  ity{ }avidhīyate \msCb\msNb</APP>
-        <PARAL>\vcd Ł\compare\ \LINPU\ 1.10.12cd--13ab: $
+        <PARAL>\vcd <rm>\compare\ \LINPU\ 1.10.12cd--13ab: </rm>
                         dhāraṇārthe mahān{ }hy{ }eṣa dharmaśabdaḥ prakīrtitaḥ ||
                         adhāraṇe 'mahattve ca adharma iti cocyate |
-               \vo\ Ł\compare\ \BRAHMANDAPUR\ 1.32.29: $
+               \vo\ <rm>\compare\ \BRAHMANDAPUR\ 1.32.29: </rm>
                         dhāraṇārtho dhṛtiś{ }caiva dhātuḥ śabde prakīrtitaḥ |
                         adhāraṇāmahattve ca adharma iti cocyate ||;
-                    Ł\compare\ \VAYUP\ 1.59.28: $
+                    <rm>\compare\ \VAYUP\ 1.59.28: </rm>
                         dhāraṇā dhṛtir{ }ity{ }arthād{ }dhātor{ }dharmaḥ prakīrtitaḥ |
                         adhāraṇe 'mahattve ca adharma iti cocyate ||;
-                    Ł\similar\ \MATSP\ 145.27: $  dharmeti dhāraṇe dhātur{ }mahatve caiva ucyate|
+                    <rm>\similar\ \MATSP\ 145.27: </rm>  dharmeti dhāraṇe dhātur{ }mahatve caiva ucyate|
                                                   ādhāraṇe mahattve vā dharmaḥ sa tu nirucyate|</PARAL>
         <!-- <TR>It is called Łdharma$ because it supports (ŁāDHĀRaṇa$) and because it is great (ŁMAhattva$).</TR> -->
 
@@ -2747,8 +2751,8 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
         <APP>\va <LEM>brahmaṇo</LEM> \msP\msCa\msNa\msNb\msNc; \om\ \msCb, brāhmaṇo \Ed\oo
                  <LEM>bhittvā</LEM> \msP\msCa\msCb\msNa\msNc\Ed; vittvā \msNb</APP>
         <APP>\vb <LEM>dharmaḥ</LEM> \msP\msCa\msCb\msNa\msNc\Ed; dharma \msNb</APP>
-        <PARAL>\vab Ł\compare\ \DEVIP\ 4.59cd: $ brahmaṇo hṛdayāj{ }jātaḥ putro dharma iti smṛtaḥ \oo 
-                    Ł\compare\ also \MBH\ 1.60.40ab: $ brahmaṇo hṛdayaṃ bhittvā niḥsṛto bhagavān{ }bhṛguḥ</PARAL>
+        <PARAL>\vab <rm>\compare\ \DEVIP\ 4.59cd: </rm> brahmaṇo hṛdayāj{ }jātaḥ putro dharma iti smṛtaḥ \oo 
+                    <rm>\compare\ also \MBH\ 1.60.40ab: </rm> brahmaṇo hṛdayaṃ bhittvā niḥsṛto bhagavān{ }bhṛguḥ</PARAL>
         <!-- <TR>Eternal Dharma was born after splitting Brahmā's heart.</TR> -->
 
 <TEXT> tasya patnī mahābhāgā trayodaśa sumadhyamāḥ||</TEXT> 3.6
@@ -2826,7 +2830,6 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
 <TEXT> anarthayajña uvāca|*</TEXT>
         <!-- <TR>Anarthayajña spoke:</TR> -->
 
-        % unmetr
 <TEXT> śraddhā lakṣmīr{ }dhṛtis{ }tuṣṭiḥ puṣṭir{ }medhā kriyā lajjā|</TEXT>
         <APP>\va <LEM>lakṣmīr{ }dhṛtis{ }tuṣṭiḥ</LEM> \msCa; 
                                 lakṣmīr{ }dhṛtis{ }tuṣ \msCb,  
@@ -2840,7 +2843,9 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
         <!-- <TR>[Dharma's wives are] [1] Śraddhā (`Faith'), [2] Lakṣmī (`Prosperity'), [3] Dhṛti (`Resolution'), 
         [4] Tuṣṭi (`Satisfaction'), [5] Puṣṭi (`Growth'), [6] Medhā (`Wisdom'), 
         [7] Kriyā (`Labour'), [8] Lajjā (`Modesty'),</TR> -->
-        <NOTE>For Dharma's thirteen wives and their sons, see, e.g., \LINPU\ 1.5.34--37 (note the 
+        <NOTE>Note how Łlajjā$ in Łpāda$ b makes the line unumetrical.
+
+        For Dharma's thirteen wives and their sons, see, e.g., \LINPU\ 1.5.34--37 (note the 
                        similarity between the first line and \VSS\ 3.6cd--7ab above):
         <sep/>
             Łdharmasya patnyaḥ śraddhādyāḥ kīrtitā vai trayodaśa |
@@ -2851,6 +2856,8 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
         <br/>kṣemaṃ sukhaṃ yaśaś caiva dharmaputrāś ca tāsu vai || 
         <br/>dharmasya vai kriyāyāṃ tu daṇḍaḥ samaya eva ca |
         <br/>apramādas tathā bodho buddher dharmasya tau sutau ||$.</NOTE>
+
+%index_metre: unmetrical at end of line
 
 <TEXT> buddhiḥ śāntir{ }vapuḥ kīrtiḥ siddhiḥ prasūtisambhavāḥ||</TEXT> 3.9
         <APP>\vc <LEM>buddhiḥ</LEM> \msP\msCb\msNa\msNb\msNc\Ed; buddhi \msCa</APP>
@@ -2890,8 +2897,8 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
 %index_grammar: stem form noun, or split sandhi
 
 <TEXT> dhṛtyās{ }tu niyamaḥ putraḥ saṃtoṣas{ }tuṣṭijaḥ smṛtaḥ||</TEXT> 3.10
-        <PARAL>\vo ŁFor 3.10--13, see a rather similar 
-        passage e.g.\ in \KURMP\ 1.8.20 ff.: $
+        <PARAL>\vo <rm>For 3.10--13, see a rather similar 
+        passage e.g.\ in \KURMP\ 1.8.20 ff.: </rm>
         śraddhāyā ātmajaḥ kāmo darpo lakṣmīsutaḥ smṛtaḥ |
         dhṛtyās{ }tu niyamaḥ putras{ }tuṣṭyāḥ saṃtoṣa ucyate || 
         puṣṭyā lābhaḥ sutaś{ }cāpi medhāputraḥ śrutas{ }tathā | 
@@ -2914,9 +2921,9 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
         <APP>\vc <LEM>tv{ }abhavat{ }putro</LEM> \eme; tv{ }abhayaḥ putro \msCa\msCb\msNa\msNb\msNc, tūbhayaḥ putrau \Ed</APP>
         <APP>\vd <LEM>daṇḍaḥ</LEM> \corr; daṇḍe \msCa\msNaacorr, daṇḍo \msCb, daṇḍa° \msNapcorr\msNb\msNc\Ed\oo
                  <LEM>ca</LEM> \msCa\msCb\msNa\msNb\msNc; tu \Ed</APP>
-        <PARAL>\vcd Ł\similar\ \LINPU\ 1.70.295ab: $kriyāyām{ }abhavat{ }putro daṇḍaḥ samaya eva ca;
-                    Ł\similar\ \KURMP\ 1.8.22cd:   $kriyāyāś{ }cābhavat{ }putro daṇḍaḥ samaya eva ca;
-                    Ł\compare\ \LINPU\ 1,5.37:     $dharmasya vai kriyāyāṃ tu daṇḍaḥ samaya eva ca</PARAL>
+        <PARAL>\vcd <rm>\similar\ \LINPU\ 1.70.295ab: </rm>kriyāyām{ }abhavat{ }putro daṇḍaḥ samaya eva ca;
+                    <rm>\similar\ \KURMP\ 1.8.22cd:   </rm>kriyāyāś{ }cābhavat{ }putro daṇḍaḥ samaya eva ca;
+                    <rm>\compare\ \LINPU\ 1,5.37:     </rm>dharmasya vai kriyāyāṃ tu daṇḍaḥ samaya eva ca</PARAL>
         <!-- <TR>Kriyā's sons are Daṇḍa (`Punishment') and Samaya (`Law').</TR> -->
         <NOTE>I have emended Łabhayaḥ$ to Łabhavat$ in Łpāda$ c, following the relevant line in the \KURMP\ cited above
                         (Łkriyāyāś cābhavat putro daṇḍaḥ samaya eva ca$) and also \LINPU\ 1.5.37 quoted in the 
@@ -3030,8 +3037,8 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
 <TEXT> dārāgnihotrasambandham{ }ijyā śrautasya lakṣaṇam|</TEXT>
         <APP>\vcd <LEM>°bandham{ }i°</LEM> \eme; °baddha i° \msCa\msCb\msNa\msNc, °bandha i° \msNb\Ed</APP>
         <APP>\vd <LEM>śrautasya</LEM> \eme; śrotasya \msCa\msCb\msNc, śrautrasya \msNa, srotrasya \msNb, śrutasya \Ed</APP>
-        <PARAL>\vcd Ł\compare\ Manu 3.171ab: $dārāgnihotrasaṃyogaṃ kurute yo 'graje sthite; 
-                        Łand also \MATSP\ 142.41: $ 
+        <PARAL>\vcd <rm>\compare\ Manu 3.171ab: </rm>dārāgnihotrasaṃyogaṃ kurute yo 'graje sthite; 
+                        <rm>and also \MATSP\ 142.41: </rm> 
                         dārāgnihotrasambandham{ }ṛgyajuḥsāmasaṃhitāḥ|
                         ityādibahulaṃ śrautaṃ dharmaṃ saptarṣayo 'bruvan||</PARAL>
         <!-- <TR>The characteristics of the Śrauta [tradition] are an association with a wife [i.e.\ marriage] and with
@@ -3040,13 +3047,13 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
  
 <TEXT> smārto varṇāśramācāro yamaiś{ }ca niyamair{ }yutaḥ||</TEXT> 3.15
         <APP>\ve <LEM>smārto</LEM> \eme; smārta \msCa\msCb\msNa\msNb\msNc\Ed</APP>
-        <PARAL>\vcdef\ Ł \similar\ \MBH\ Indeces 1.36.10: 
-                                $dānāgnihotram{ }ijyā ca śrautasyaitad{ }dhi lakṣaṇam|
+        <PARAL>\vcdef\ <rm> \similar\ \MBH\ Indeces 1.36.10: 
+                                </rm>dānāgnihotram{ }ijyā ca śrautasyaitad{ }dhi lakṣaṇam|
                                 smārto varṇāśramācāro yamaiś{ }ca niyamair{ }yutaḥ||
-                         \similar\ Ł\MATSP\ 145.30cd--31ab:
-                                $dārāgnihotrasambandham{ }ijyā śrautasya lakṣaṇam|
+                         \similar\ <rm>\MATSP\ 145.30cd--31ab:
+                                </rm>dārāgnihotrasambandham{ }ijyā śrautasya lakṣaṇam|
                                 smārto varṇāśramācāro yamaiś{ }ca niyamair{ }yutaḥ||
-                         \similar\ Ł\BRAHMANDAPUR\ 1.32.33cd--34ab: $
+                         \similar\ <rm>\BRAHMANDAPUR\ 1.32.33cd--34ab: </rm>
                                 dārāgnihotrasambandhād dvidhā śrautasya lakṣaṇam|
                                 smārto varṇāśramācārair{ }yamaiḥ sa niyamaiḥ smṛtaḥ||</PARAL>
         % CHECK how to refer to \MBh\ Indeces
@@ -3086,9 +3093,9 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
         %                       ānṛśaṃsya?
 <TEXT> ahiṃsā satyam{ }asteyam{ }ānṛśaṃsyaṃ damo ghṛṇā|</TEXT>
         <APP>\vd <LEM>°m{ }ānṛśaṃsyaṃ</LEM> \eme; °m{ }anṛśaṃsyo \msCa\msCb\msNa\msNb\Ed, °m{ }ānṛśaṃsyā \msNc</APP>
-        <PARAL>\vcd Ł\similar\ \MBH\ 12.8.17ab: $ ahiṃsā satyavacanam{ }ānṛśaṃsyaṃ damo ghṛṇā
-                \vo Ł\similar\ \VDHU\ 3.233.203: 
-                        $ānṛśaṃsyaṃ kṣamā satyam{ }ahiṃsā ca damaḥ spṛhā |
+        <PARAL>\vcd <rm>\similar\ \MBH\ 12.8.17ab: </rm> ahiṃsā satyavacanam{ }ānṛśaṃsyaṃ damo ghṛṇā
+                \vo <rm>\similar\ \VDHU\ 3.233.203: 
+                        </rm>ānṛśaṃsyaṃ kṣamā satyam{ }ahiṃsā ca damaḥ spṛhā |
                         dhyānaṃ prasādo mādhuryaṃ cārjavaṃ ca yamā daśa ||</PARAL>
         <NOTE>Note that this is the beginning of a long section in our text
                 that describes the Łyama-niyama$ rules, reaching up to the end of chapter eight. 
@@ -3212,12 +3219,13 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
         <!-- <TR>He is [to be] struck down by those whose livelihood got damaged by him.</TR> -->
 
 %folioinfo \msCb\ 411.jpg, 205r
-% unmetr
 % MĀRAṆA PEOPLE
 <TEXT> viṣavahniśaraśastrair{ }māyāyogabalena vā|</TEXT>
         <APP>\vab <LEM>°śastrair{ }māyā°</LEM> \msCa\msCb\msNa\msNb; °śastrai mā° \msNc, °śastrair{ }mmayā° \Ed</APP>
         <!-- <TR>[Those who kill other people] with poison, fire, arrows, swords, or by the force of 
                                 magic or yoga</TR> -->
+
+%index_metre: unmetrical
 
 <TEXT> hiṃsakāny{ }āhu viprendra munayas{ }tattvadarśinaḥ||</TEXT> 3.23
         <APP>\vc <LEM>hiṃsakāny{ }āhu vi°</LEM> \msCb\msNb\msNc; 
@@ -3303,7 +3311,7 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
 %lacuna_end: msCc
 <TEXT> ahiṃsā paramaṃ dānam{ }ahiṃsā paramaṃ sukham||</TEXT> 3.29
         <!-- <TR>Non-violence is the highest donation. Non-violence is the highest joy.</TR> -->
-        <PARAL>\vo ŁThis and the following verses are similar to MBh 13.117.37--38$</PARAL> 
+        <PARAL>\vo <rm>This and the following verses are similar to MBh 13.117.37--38</rm></PARAL> 
         <LACUNA>\vd Ł\msCc\ resumes here in exp.\ 189, f. 273r (sic!) with $ramaṃ sukham</LACUNA>
         % See also Umā 3.43ff and the same in the Lalitavistara
         % Śivadharmottatra 3 is similar when talking about jñānayoga Florinda
@@ -3359,8 +3367,8 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
 <TEXT> svamāṃsaṃ paramāṃsena yo vardhayitum{ }icchati|</TEXT>
         <APP>\va <LEM>°māṃsena</LEM> \mssCaCbCc\msNa\msNb\Ed; °māsena \msNc</APP>
         <APP>\vb <LEM>vardhayitu°</LEM> \mssCaCbCc\msNa\msNc\Ed; varddhayati \msNb</APP>
-        <PARAL>\vab Ł = \MBH\ 13.116.14ab and 13.116.34ab \similar\ \UUMS\ 2.48cd:
-                         $svamāṃsaṃ paramāṃsena yo dehe vṛddhim{ }icchati</PARAL>
+        <PARAL>\vab <rm> = \MBH\ 13.116.14ab and 13.116.34ab \similar\ \UUMS\ 2.48cd:
+                         </rm>svamāṃsaṃ paramāṃsena yo dehe vṛddhim{ }icchati</PARAL>
         <NOTE>See \UUMS\ chapter two for a similar section on meat-consumption.</NOTE>
         <!-- <TR>He who wishes to nourish his own flesh with the flesh of other [beings],</TR> -->
 
@@ -3369,7 +3377,7 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
 <TEXT> anabhyarcya pitṝn{ }devān{ }na tato 'nyo 'sti pāpakṛt||</TEXT> 3.34
         <APP>\vc <LEM>pitṝn</LEM> \msCa\msCb\msNa\msNc; pitṛn \msCc\Ed, <UNCL>pitṝn</UNCL> \msNb</APP>
         <APP>\vd <LEM>tato 'nyo</LEM> \mssCaCbCc\msNa\msNb\msNc; tad{ }anyo \Ed</APP>
-        <PARAL>\vo Ł\similar\ Manu 5.52$</PARAL>
+        <PARAL>\vo <rm>\similar\ Manu 5.52</rm></PARAL>
         <!-- <TR>outside of worshipping the ancestors and the gods, is the biggest sinner of all.</TR> -->
 
 % madhuparka : `honey-mixture' in Śaiva Utopia p.37
@@ -3384,7 +3392,7 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
                                         atraiva paśavo hiṃsā \msCb, atraiva paśavo hiṃsyān \msNa,
                                                         ×××××××× \msNb</APP>
         <APP>\vd <LEM>nānyatra manur{ }abravīt</LEM> \mssCaCbCc\msNa\msNc\Ed; ××<UNCL>tra manur{ }abravīt</UNCL> \msNb</APP>
-        <PARAL>\vo Ł\similar\ Manu 5.41: $
+        <PARAL>\vo <rm>\similar\ Manu 5.41: </rm>
                         madhuparke ca yajñe ca pitṛdaivatakarmaṇi|
                         atraiva paśavo hiṃsyā nānyatrety{ }abravīn{ }manuḥ||</PARAL>
         <!-- <TR>only in these cases are animals to be slaughtered and not in any other case.
@@ -3405,7 +3413,7 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
 <TEXT> devān{ }pitṝṃś{ }cārcayitvā khādan{ }māṃsaṃ na doṣabhāk||</TEXT> 3.36
         <APP>\vc <LEM>pitṝṃś{ }cārcayitvā</LEM> \mssCaCbCc\msNa\msNc; pitṝś{ }cārcayitvā \msNb, pitṛś{ }cārpayitvā \Ed</APP>
         <APP>\vd <LEM>māṃsaṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; māsaṃ \msNc</APP>
-        <PARAL>\vo Ł= Manu 5.32 (in Olivelle's critical edition; other editions read $ paropakṛta°Ł) $</PARAL>
+        <PARAL>\vo <rm>= Manu 5.32 (in Olivelle's critical edition; other editions read </rm> paropakṛta°<rm>) </rm></PARAL>
         <!-- <TR>if he eats meat, he will not sin if he first worships the gods and the ancestors.</TR> -->
 
 <TEXT> vedayajñatapastīrthadānaśīlakriyāvrataiḥ|</TEXT>
@@ -3529,10 +3537,6 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
                  and by bathing [at] a thousand times ten million times a million (Łniyuta$) 
                                                 sacred places at once.</TR> -->
 
-%index_grammar: long syllable at end of word
-
-%index_metre: śārdūlavikrīḍita
-
         <NOTE>Metre: Łśārdūlavikrīḍita$. 
               On Łpadma$ meaning `ten trillion', and on other words for numbers, see 1.32--35. 
         <sep/>
@@ -3560,8 +3564,8 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
                 happens often at word-boundaries in this text; and 
                 note how \msNc\ aims to restore the metre by inserting Łtv$ after its Łphalaṃ$.</NOTE>
 
-%index_grammar: long syllable at end of word
-
+%index_metre: long syllable at end of word
+%index_metre: śārdūlavikrīḍita
 Peter Bisschop studied the kotihoma CHECK
                         
 %folioinfo \msNc\ 217.jpg upper, f. 214v
@@ -3617,7 +3621,7 @@ Peter Bisschop studied the kotihoma CHECK
         <APP>\vab <LEM>satyam{ }ity{ }āhur{ }dṛ°</LEM> \msCb\msNa\msNc\Ed; satya<UNCL>m{ }i</UNCL>ty{ }āhu dṛ° \msCa,
                                 satyam{ }ity{ }āhu dṛ° \msCc, satyām{ }ity{ }āhur{ }dṛ° \msNb</APP>
         <APP>\vb <LEM>°pratyaya°</LEM> \msCa\msCb\msNa\msNb; °pratya° \msCc, °pratyeya° \msNc, pratyakṣa° \Ed</APP>
-        <PARAL>\va Ł\similar\ \MBH\ 12.288.45d: $ sadbhāvaḥ satyam{ }ucyate Ł \oo \compare\  also \BRAHMANDAPUR\ 3.3.86ab: $
+        <PARAL>\va <rm>\similar\ \MBH\ 12.288.45d: </rm> sadbhāvaḥ satyam{ }ucyate <rm> \oo \compare\  also \BRAHMANDAPUR\ 3.3.86ab: </rm>
                         asadbhāvo 'nṛtaṃ jñeyaṃ sadbhāvaḥ satyam{ }ucyate </PARAL>
         <!-- <TR>The state of being real (Łsad-bhāva$) is called truth (Łsat-ya$).
                  Alternatively, it is also a certainty (Łpratyaya$) that originates in perception (Łdṛṣṭa$).</TR> -->
@@ -3630,7 +3634,7 @@ Peter Bisschop studied the kotihoma CHECK
                 yathābhūtārtha \msCcacorr, yathābhūtārtha¤kta kathanaṃ \msCcpcorr</APP>
         <APP>\vd <LEM>tat{ }satyakathanaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed;
                 tat{ }satyakathakaṃ \msCb, kathanaṃ smṛtaṃ \msCcacorr, satyakakathanaṃ smṛtaṃ \msCcpcorr</APP>
-        <PARAL>\vcd Ł\compare\ \SDHS\ 11.105: $ 
+        <PARAL>\vcd <rm>\compare\ \SDHS\ 11.105: </rm> 
                 svānubhūtaṃ svadṛṣṭaṃ ca yaḥ pṛṣṭārthaṃ na gūhati|
                 yathābhūtārthakathanam{ }ity{ }etat{ }satyalakṣaṇam||</PARAL>
         <NOTE>Although the rather similar line in the \SDHS\ (11.105cd: Łyathābhūtārthakathanam ity etat satyalakṣaṇam$) 
@@ -3651,7 +3655,7 @@ Peter Bisschop studied the kotihoma CHECK
 <TEXT> kṣamate yo jitātmā tu sa ca satyam{ }udāhṛtam||</TEXT> 4.2
         <APP>\vd <LEM>satyam{ }udāhṛtam</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; 
         <UNCL>satya</UNCL>m{ }u<UNCL>dā</UNCL>hṛtam \msCa</APP>
-        <PARAL>\vo Ł\compare\ \SDHS\ 11.82: $
+        <PARAL>\vo <rm>\compare\ \SDHS\ 11.82: </rm>
                 ākruṣṭas{ }tāḍito vāpi yo nākrośen{ }na tāḍayet |
                 vāgādy{ }avikṛtaḥ svasthaṃ kṣāntir{ }eṣā sunirmalā ||</PARAL>
         <NOTE>Łsuduḥsaham$ (singular) in Łpāda$ b picks up Ł°ādīni$ (plural) in Łpāda$ a.
@@ -3692,12 +3696,11 @@ Peter Bisschop studied the kotihoma CHECK
 
 
 <NOTANUSTUBH/> upajāti
-% unmetr 'laghuguru'
 %       .  -  . -  .?   . . -  .  -  .  
 <TEXT> na narmayuktam{ }anṛtaṃ hinasti</TEXT>
         <APP>\va <LEM>hinasti</LEM> \msCa\msCb\msNb\msNc; hi nāsti \msCc\msNa\Ed</APP>
 
-%index_grammar: long syllable at end of word
+%index_metre: long syllable at end of word
 
         %      -    - .  - -     .  . - . - -
 <TEXT> na strīṣu rājan{ }na vivāhakāle|</TEXT>
@@ -3714,14 +3717,14 @@ Peter Bisschop studied the kotihoma CHECK
         with women, O king, at the time of marriage,
         at the departure from life and when one's entire wealth is about to be taken away.
         They call these five kinds of lies truths.</TR> -->
-        <PARAL>\vo Ł\similar\ \MBH\ 1.77.16: $ na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
+        <PARAL>\vo <rm>\similar\ \MBH\ 1.77.16: </rm> na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
                                                prāṇātyaye sarvadhanāpahāre pañcānṛtāny{ }āhur{ }apātakāni||;
-                           Ł\MBH\ 12.159.28: $ na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
+                           <rm>\MBH\ 12.159.28: </rm> na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
                                                na gurvarthe nātmano jīvitārthe pañcānṛtāny{ }āhur{ }apātakāni||;
-                             Ł\MATSP\ 31.16: $ na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
-        ŁAbhidharmakośabhāṣya 24114--24117 (introduced by $ mohajo mṛṣāvādo yathāhaŁ): $
+                             <rm>\MATSP\ 31.16: </rm> na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
+        <rm>Abhidharmakośabhāṣya 24114--24117 (introduced by </rm> mohajo mṛṣāvādo yathāha<rm>): </rm>
                                                na narmayuktam{ }anṛtaṃ hi nāsti na strīṣu rājan{ }na vivāhakāle|
-                                               prāṇātyaye sarvadhanāpahāre pañcānṛtāny{ }āhur{ }apātakāni|| Łetc.$</PARAL>
+                                               prāṇātyaye sarvadhanāpahāre pañcānṛtāny{ }āhur{ }apātakāni|| <rm>etc.</rm></PARAL>
         <NOTE>This Łupajāti$ verse appears in countless sources, beginning with the \MBH\ (see the apparatus). All versions 
               contain a vocative addressing a king, which is out of context in the \VSS, the addressee being Vigatarāga,
               i.e. Viṣṇu diguised as a Brahmin. The redactors did not notice or did not care about this
@@ -3791,7 +3794,7 @@ Peter Bisschop studied the kotihoma CHECK
 <TEXT> satyaṃ sopānam{ }ūrdhvasya satyaṃ kīrtir{ }yaśaḥ sukham||</TEXT> 4.9
         <APP>\vc <LEM>satyaṃ</LEM> \msCa\msCc\msNa\msNb\Ed; saṃtyaṃ \msCb, satya \msNc</APP>
         <APP>\vd <LEM>sukham</LEM> \mssCaCbCc\msNa\msNb\msNc; sukhaḥ \Ed</APP>
-        <PARAL>\vc Ł\similar\ \VARP\ 193.36cd: $ satyaṃ svargasya sopānaṃ pārāvārasya naur{ }iva</PARAL>
+        <PARAL>\vc <rm>\similar\ \VARP\ 193.36cd: </rm> satyaṃ svargasya sopānaṃ pārāvārasya naur{ }iva</PARAL>
         <NOTE>Looking at the similar line in the \VARP\ (193.36cd, see the apparatus), one 
               wonders if the slightly odd Łūrdhvasya$ in Łpāda$ c is not a corrupt form of 
               Łsvargasya$.</NOTE>
@@ -3805,10 +3808,10 @@ Peter Bisschop studied the kotihoma CHECK
 <TEXT> aśvamedhasahasrād{ }dhi satyam{ }eva viśiṣyate||</TEXT> 4.10
         <APP>\vc <LEM>°sahasrād{ }dhi</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °sahasrā hi \msCc</APP>
         <APP>\vd <LEM>eva</LEM> \msCa\msCb\msNa\msNb\msNc; evaṃ \msCc\Ed</APP>
-        <PARAL>\vo Ł = \MBH\ 1.69.22 = \MBH\ Indeces 13.20.330 = \MARKP\ 8.42 = \VDHU\ 3.265.7
-                \similar\ \MBH\ 12.156.26 (pāda d reads $ satyam{ }evātiricyateŁ) \similar\ \VDH\ 55.6 
-                           (pāda d reads $ satyam{ }etad{ }viśiṣyateŁ)$ \oo
-        Ł\compare\ \SDHS\ 11.107: $
+        <PARAL>\vo <rm> = \MBH\ 1.69.22 = \MBH\ Indeces 13.20.330 = \MARKP\ 8.42 = \VDHU\ 3.265.7
+                \similar\ \MBH\ 12.156.26 (pāda d reads </rm> satyam{ }evātiricyate<rm>) \similar\ \VDH\ 55.6 
+                           (pāda d reads </rm> satyam{ }etad{ }viśiṣyate<rm>)</rm> \oo
+        <rm>\compare\ \SDHS\ 11.107: </rm>
                         aśvamedhāyutaṃ pūrṇaṃ satyañ{ }ca tulitaṃ purā|
                         aśvamedhāyutāt{ }satyam{ }adhikaṃ bahubhir{ }guṇaiḥ||</PARAL>
         <!-- <TR>truth indeed surpasses a thousand Aśvamedha sacrifices.</TR> -->
@@ -3824,10 +3827,10 @@ Peter Bisschop studied the kotihoma CHECK
 <TEXT> satyena vāyavo vānti satye toyaṃ ca śītalam||</TEXT> 4.11
         <APP>\vc <LEM>vāyavo</LEM> \mssCaCbCc\msNa\msNc\Ed; vātyavo \msNb</APP>
         <APP>\vd <LEM>satye</LEM> \mssCaCbCc\msNa\msNb\msNc; satyāt \Ed</APP>
-        <PARAL>\vo Ł\similar\ \VARP\ 193.37: $ 
+        <PARAL>\vo <rm>\similar\ \VARP\ 193.37: </rm> 
                         sūryas{ }tapati satyena vātaḥ satyena vāti ca|  
                         agnir{ }dahati satyena satyena pṛthivī sthitā|| 
-                   Ł\similar\ \VDHU\ 3.265.4cd--5ab: $
+                   <rm>\similar\ \VDHU\ 3.265.4cd--5ab: </rm>
                         satyena vāyur{ }abhyeti satyenābhāsate raviḥ || 
                         satyena cāgnir{ }dahati svargaṃ satyena gacchati | </PARAL>
         <!-- <TR>The winds blow because of truth. Water is cooling through truth.</TR> -->
@@ -3902,7 +3905,7 @@ RV_10.085.02.2{20} athonakṣatrāṇāmeṣāmupasthe soma āhitaḥ
         <APP>\vab <LEM>satyena satyena</LEM> \mssCaCbCc\msNapcorr\msNb\Ed; satyena \msNaacorr\msNc</APP>
         <APP>\vb <LEM>śaśinācaraḥ</LEM> \conj; saśi<UNCL>bhācaraḥ</UNCL> \msCa, śaśir{ }ācaraḥ \msNa\msNb\msNc,
                       śa<UNCL>si</UNCL>¤caraḥ \msCb, sa śirā varaḥ \msCc, śaśibhāṣkaraḥ \Ed</APP>
-        <PARAL>\vc Ł\similar\ \VARP\ 193.37cd: $ 
+        <PARAL>\vc <rm>\similar\ \VARP\ 193.37cd: </rm> 
                 agnir{ }dahati satyena satyena pṛthivī sthitā</PARAL>
         <NOTE>Since Łśaśi$ (instead of Łśaśin$) is a possible stem in this text, 
                 Łśaśir ācaraḥ$ could be acceptable here in Łpāda$ b (see \msNa\msNb\msNc), perhaps standing for 
@@ -4179,7 +4182,7 @@ utkocena kāryapratibandhanirāsārtham adhikṛtebhyo dattam
 <TEXT> cauralakṣaṇakāś{ }cānye kūṭakāpaṭikā narāḥ||</TEXT> 4.23
         <APP>\vd <LEM>kūṭakāpaṭikā</LEM> \msNb; <UNCL>ku</UNCL>ṭakā yaṭikā \msCa, kūṭakāyaṭikā \msCb\msCc\msNaacorr\msNc,
                                          kūṭakāryaṭikā \msNapcorr\Ed</APP>
-        <PARAL>\vcd Ł\compare\ \UMS\ 8.3cd: $kūṭakāpaṭikāś{ }caiva satyārjavavivarjitāḥ</PARAL>
+        <PARAL>\vcd <rm>\compare\ \UMS\ 8.3cd: </rm>kūṭakāpaṭikāś{ }caiva satyārjavavivarjitāḥ</PARAL>
         <!-- <TR>Other people, deceitful swindlers (Łkūṭa-kāpaṭika$) share the characteristics of thieves.</TR> -->
 
 <TEXT> durbalārjavabāleṣu cchadmanā vā balena vā|</TEXT> 
@@ -4307,7 +4310,7 @@ sa jaghanyataras teṣāṃ naiva dāsyāt pramucyate  // Nar_5.35 //
 % dāya for daya metri causa Florinda Dāyabhāga
 
 %index_metre: śārdūlavikrīḍita
-%index_grammar: long syllable at end of word
+%index_metre: long syllable at end of word
 
 
 
@@ -4370,6 +4373,7 @@ sa jaghanyataras teṣāṃ naiva dāsyāt pramucyate  // Nar_5.35 //
 REVISE: % Judit: MSS prāptaśśāsana? CHECK yes: \msCa no: \msCb\msCc\msNa\msNb
 
 % unmetr                            !
+%       - - -   . . -  .  - .  . . -    -  - .  -  - . -
 <TEXT> kālena mriyate sa yāti nirayam{ }ākrandamāno bhṛśam||</TEXT> 4.29
         <APP>\vd <LEM>nirayam{ }ākrandamāno</LEM> \mssCaCbCc\msNa; <UNCL>nira</UNCL>yam{ }ākrandamā<UNCL>no</UNCL> \msNb, 
                                                                nirayaṃ sa krandamāno \msNc, niyamam{ }ākrandramāno \Ed</APP>
@@ -4540,16 +4544,16 @@ MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with th
         <APP>\va <LEM>pavitraṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; <UNCL>pavitra</UNCL> \msNb\oo
                  <LEM>maṅgalyaṃ</LEM> \msCa\msCb\msNa; <UNCL>maṅgalyaṃ</UNCL> \msNb, māṅgalyaṃ \msCc\msNc\Ed\oo
                  <LEM>devatāḥ</LEM> \mssCaCbCc\msNc; daivatāḥ \msNa, <UNCL>devatāḥ</UNCL> \msNb, devatā \Ed</APP>
-        <PARAL>\va Ł\similar\ \VISNUS\ 23.57c: $ gāvaḥ pavitramaṅgalyaṃ (goṣu lokāḥ pratiṣṭhitā)\oo
-                Ł\compare\ also \MBH\ Indices 13.15.33: $ gāvaḥ pavitraṃ paramaṃ goṣu lokāḥ pratiṣṭhitāḥ 
-                Łand \AGNIP\ 291.1cd: $ gāvaḥ pavitrā māṅgalyā goṣu lokāḥ pratiṣṭhitāḥ</PARAL>
+        <PARAL>\va <rm>\similar\ \VISNUS\ 23.57c: </rm> gāvaḥ pavitramaṅgalyaṃ (goṣu lokāḥ pratiṣṭhitā)\oo
+                <rm>\compare\ also \MBH\ Indices 13.15.33: </rm> gāvaḥ pavitraṃ paramaṃ goṣu lokāḥ pratiṣṭhitāḥ 
+                <rm>and \AGNIP\ 291.1cd: </rm> gāvaḥ pavitrā māṅgalyā goṣu lokāḥ pratiṣṭhitāḥ</PARAL>
         <!-- <TR>Cows are an auspicious blessing, they are the gods of the gods.</TR> -->
 
 %index_grammar: ma-vipulā
 
 <TEXT> sarvadevamayā gāvas{ }tasmād{ }eva na hiṃsayet||</TEXT> 4.35
         <APP>\vd <LEM>°smād{ }eva</LEM> \msCa\msCc\msNa\msNb\msNc; °smād{ }uva \msCb, °smād{ }gāvaṃ \Ed</APP>
-        <PARAL>\vc Ł= \VDHU\ 3.291.25c$</PARAL>
+        <PARAL>\vc <rm>= \VDHU\ 3.291.25c</rm></PARAL>
         <!-- <TR>Cows contain in themselves all the gods. That is exactly why one should not hurt them.</TR> -->
 
 <TEXT> jātamātrasya lokasya gāvas{ }trātā na saṃśayaḥ|</TEXT>
@@ -4558,20 +4562,17 @@ MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with th
                 <!-- <TR>Cows are the protectors of the world as if the world were their new-born [calf], 
                                         there is no doubt about it.</TR> -->
 
-% EDDIG
 %folioinfo \msNa\ 201.jpg upper, f.7v
 %folioinfo \Ed\ p.594
 % unmetr
-<TEXT> ghṛtaṃ kṣīraṃ dadhi mūtraṃ śakṛt{ }karṣaṇam{ }eva ca||</TEXT> 4.36
+<TEXT> ghṛtaṃ kṣīraṃ dadhi mūtraṃ śakṛtkarṣaṇam{ }eva ca||</TEXT> 4.36
         <APP>\vd <LEM>śakṛt{ }ka°</LEM> \msCa\msCc\msNa\msNc\Ed; <UNCL>śakṛt{ }ka°</UNCL> \msNb, kṣat{ }ka° \msCb</APP>
-        <!-- <TR>The collection of [the five products of the cow, the Łpañcagavya$,] 
+        <NOTE>The use of Łkarsaṇa$ in Łpāda$ d, most probably in the sense of `collecting,' is slightly odd.</NOTE>
+        <!-- <TR>Collecting [the five products of the cow, the Łpañcagavya$,] 
                         ghee, milk, curd, and [the cow's] urine and dung [is auspicious].</TR> -->
-% collecting all these Judit Nirajan
-                <PARAL>\vo 
-                        ŁSee a passage in Śivadharmottara 12.92 ff.\ (especially 12.92, 100, 102--104) that
-                        seems closely related to VSS 4.36--39: $
+                <PARAL>\vo <rm>\compare\ \SDHU\ 12.92ff</rm></PARAL>
 tṛṇāni khādanti vasanty{ }araṇye pibanti toyāny{ }aparigrahāṇi|
-duhyanti bāhyanti punanti pāpaṃ gavāṃ rasair{ }jjīvati jīvalokaḥ|| 92||
+duhyanti bāhyanti punanti pāpaṃ gavāṃ rasair{ }jīvati jīvalokaḥ|| 92||
 kutas{ }teṣāṃ hi pāpāni yeṣāṃ gṛham{ }alaṅkṛtaṃ|
 satataṃ bālavatsābhir gobhiḥ śrībhir iva svayaṃ|| 93||
 ye kurvanti gavāṃ bhaktiṃ tṛṇatoyapradānataḥ|
@@ -4586,8 +4587,8 @@ ihalokasukhārthāya paralokahitāya ca|
 sarvasvenāpi gāntasmād{ }ādadīta vipaścitaiḥ|| 98||
 aho sumahadāś{ }caryam{ }aho suṣṭhu subhāṣitaṃ|
 yat{ }pavitraś{ }ca mṛṣṭaś{ }ca goraso buddhivarddhanaḥ|| 99||
-gomatā nirjjitāḥ lokā vṛtāśāgomatārjitāḥ|
-gomatā nirjjitaḥ svargaḥ samastaṃ gomatā jitaṃ|| 100||
+gomatā nirjitāḥ lokā vṛtāśāgomatārjitāḥ|
+gomatā nirjitaḥ svargaḥ samastaṃ gomatā jitaṃ|| 100||
 gāvo bandhur{ }manuṣyāṇāṃ gāvaś{ }ca dhanam{ }uttamaṃ|
 gāvo yeṣāṃ gṛhe na syur{ }abandhur{ }iva tadgṛhaṃ|| 101||
 spṛṣṭvā tu gāvaḥ śamayanti pāpaṃ datvā tu gāvas{ }tridivaṃ nayanti|
@@ -4598,9 +4599,6 @@ tṛṇāni śuṣkāṇi vane caritvā pītvā ca toyāny{ }amṛtaṃ sravanti
 yad{ }gomayādyaiś{ }ca punanti lokān{ }gobhir{ }nna tulyan{ }dhanam{ }asti kiñcit|| 104||
 sa eva loke paramaḥ pavitro gavāṃ rasaḥ puṣṭi vivarddhanaś{ }ca|
 aśnāti nityaṃ vividhānnayuktāmiṣṭañ{ }ciraṃ yena śiva prasādāt|| 105||
-                        Ł... etc.$ 
-        </PARAL>
-
 gomātṛśālāṃ yaḥ kuryāt sudṛḍhāmiṣṭakāmayīṃ ||
 mṛtpiṇḍakāṣṭhākuḍyaṃ vā satkapāṭārgalānvitāṃ || 12.106 ||
 sapidhānairgavākṣaiś ca caturbhiḥ samalaṅkṛtāṃ ||
@@ -4635,16 +4633,15 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
         <APP>\va <LEM>°pavitrapūtam</LEM> \msCc\msNa\Ed; °pavitrapūtana \msCa\ \unmetr,
                         °pavitraṃ \msCb\ \unmetr, °pavitrapūta \msNb,
                         °pavitrapūtaṃnaṃ \msNc\ \unmetr</APP>
-% Nirajan reciting the Brahmamantras? MAYBE! CsK (pavitra)
-% oṃkāra?
 
 %       -  -  . -  -   . . -   . - - 
 <TEXT> ye pañcagavyaṃ puruṣāḥ pibanti|</TEXT>
         <APP>\vb <LEM>°gavyaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °gavyā \msCc, <UNCL>°gavyāṃ</UNCL> \msNb\oo
                  <LEM>puruṣāḥ</LEM> \msCa\msCb\msNa\msNb\msNc; puruṣā \msCc, puruṣaḥ \Ed\oo
                  <LEM>pibanti</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; vivanti \msCc</APP>
+        <NOTE>The five Pavitras are most probably the five Łbrahmamantras$, see, e.g., \TAKIII\ s.v. Łpavitra$ 1.</NOTE>
         <!-- <TR>People who drink the five products of the cow,
-                 the five nectars, the five holy and pure [substances] [or: clarified with a strainer??],</TR> -->
+                 the five nectars, purified by the five Pavitras,</TR> -->
 
 %       -  - . -  -  .   . -   .  -  -
 <TEXT> te vājimedhasya phalaṃ labhanti</TEXT> 
@@ -4656,118 +4653,112 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
         <APP>\vd <LEM>svarga°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; sva° \msCb</APP>
         <!-- <TR>and then reach the undecaying heavens.</TR> -->
 
+%index_metre: upajāti
 
-% unmetr
 <TEXT> gobhir{ }na tulyaṃ dhanam{ }asti kiṃcid</TEXT>
         <APP>\va <LEM>gobhir{ }na tu°</LEM> \msNc; na gobhis{ }tu° \mssCaCbCc\msNa\msNb\ \unmetr, na gāvatu° \Ed</APP>
-        <PARAL>\va Ł= ŚDhU 12.102d, 103d, 104d; $
-                   Łcf. MBh 13.51.26cd: $ gobhis{ }tulyaṃ na paśyāmi dhanaṃ kiṃcid{ }ihācyuta</PARAL>
+        <PARAL>\va <rm>= \SDHU\ 12.102d, 103d, 104d; </rm> 
+                   <rm>\compare\ \MBH\ 13.51.26cd: </rm> gobhis{ }tulyaṃ na paśyāmi dhanaṃ kiṃcid{ }ihācyuta</PARAL>
         <!-- <TR>There is no wealth comparable to [having] a cow. </TR> -->
 
-% as pass.                    you don't have to feed them? connect to next line? CsK
-<TEXT> duhyanti vāhyanti bahiścaranti|</TEXT>
-        <!-- <TR>They yield milk, they draw [a plough etc.]. [As] they roam under the sky,</TR> -->
+<TEXT> duhyanti vāhyanti bahiś{ }caranti|</TEXT>
+        <NOTE>Note that Łduhyanti$ and Łvāhyanti$ are supposed to be understood as passive,
+              as in the similar verse in \SDHU\ 12.92 (see apparatus).</NOTE>
+        <!-- <TR>They yield milk, they draw [a plough etc.], they roam under the sky.</TR> -->
 % Nirajan wild cows?
 
 <TEXT> tṛṇāni bhuktvā amṛtaṃ sravanti</TEXT>
-        <!-- <TR>feeding on grass, they issue nectar.</TR> -->
+        <!-- <TR>Feeding on grass, they issue nectar.</TR> -->
 
 <TEXT> vipreṣu dattāḥ kulam{ }uddharanti||</TEXT> 4.38
         <APP>\vd <LEM>dattāḥ</LEM> \msCa\msCb\msNa\msNb\msNc; <UNCL>dattā</UNCL> \msCc, dattā \Ed</APP>
-        <!-- <TR>When given to Brahmins, they deliver the family [from Łsaṃsāra$/the suffering experienced in hell].</TR> -->
-% from naraka Niraja
+        <PARAL>\vo <rm>\compare\ \SDHU\ 12.92: </rm>
+                        tṛṇāni khādanti vasanty{ }araṇye pibanti toyāny{ }aparigrahāṇi|
+                        duhyanti bāhyanti punanti pāpaṃ gavāṃ rasair{ }jīvati jīvalokaḥ||</PARAL>
+        <!-- <TR>When given to Brahmins, they deliver the family [from Łsaṃsāra$ or the suffering experienced in hell].</TR> -->
 
+%index_metre: upajāti
 
 <TEXT> gavāhnikaṃ yaś{ }ca karoti nityaṃ</TEXT>
         <APP>\va <LEM>gavāhnikaṃ</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; gavāṃhnikaṃ \msCa\oo
                  <LEM>yaś{ }ca karoti</LEM> \mssCaCbCc\msNa\msNb\msNc; yaḥ prakaroti \Ed</APP>
-        <!-- <TR>He who never fails to serve the cow daily [e.g. with a handful of grass], </TR> -->
-% Nirajan giving a handful of grass offering
-% MW on gavāhnika
-
-
-11:07:09 From Kengo Harimoto To Everyone : 
-Vācaspatyam
-skandapurāṇe 
-tṛṇāni khādanti vasanty araṇye pibanti toyāny aparigrahāṇi.
-duhyanti vāhyanti punanti pāpaṃ gavāṃ rasair jīvati jīvalokaḥ.
-tuṣṭās tu gāvaḥ śamayanti pāpaṃ dattās tu gāvas tridivan nayanti.
-saṃrakṣitāś copanayanti tittaṃ 
-gobhir na tulyaṃ dhanam asti kiñcit.
-śaṣpaṃ samaśnāti dadāti nityaṃ 
-pāpakṣatiṃ mitravivardhanaṃ ca.
-sa eva cāryaiḥ paribhujyate ca 
-gobhirna tulyaṃ dhanamasti kiñcit.
-tṛṇāni śuṣkāṇi vane caritvā 
-pītvāpi toyāny amṛtaṃ sravanti.
-yadgomayādyāś ca punanti lokān 
-gobhir na tulyaṃ dhanam asti kiñcit.
-
-Revise!
-CsK: but this is in the Śivadharmottara!
-
+        <!-- <TR>He who never fails to serve the cow daily [e.g. with a handful of grass],</TR> -->
 
 <TEXT> śuśrūṣaṇaṃ yaḥ kurute gavāṃ tu|</TEXT>
         <APP>\vb <LEM>gavāṃ tu</LEM> \msCb\msNc; gavān{ }tu \msCa\msCc\msNa\msNb, gavānām \Ed</APP>
       % aseṣa/asaiṣa \msCa
-        <!-- <TR>and he who tends to the cows' service,</TR> -->
+        <!-- <TR>he who tends to the cows' service,</TR> -->
 
 % unmetr
 <TEXT> aśeṣayajñatapadānapuṇyaṃ</TEXT>
         <APP>\vc <LEM>°tapa°</LEM> \mssCaCbCc\msNa\msNc; <UNCL>°tapa°</UNCL> \msNb, °japa° \Ed</APP>
+        <NOTE>Strictly speaking, Łpāda$ c is unmetrical. The second syllable of Łtapa$ counts as
+              long (see Intro \verify).</NOTE>
 
-%       .  -     . -   -!   . . -  . -  -  
-<TEXT> labhaty{ }asau tam{ }anṛśaṃsakartā||</TEXT> 4.39
-        <APP>\vd <LEM>labhaty{ }asau tam{ }anṛśaṃsakartā</LEM> \msCb\msNa\msNb\msNc;
+%index_metre: long syllable at end of word
+
+%       .  -     . -   -    . . -  . -  -  
+<TEXT> labhaty{ }asau tām{ }anṛśaṃsakartā||</TEXT> 4.39
+        <APP>\vd <LEM>labhaty{ }asau tām{ }anṛśaṃsakartā</LEM> \eme;
+                      labhaty{ }asau tam{ }anṛśaṃsakartā</LEM> \msCb\msNa\msNb\msNc,
                          labhaty{ }asau bham{ }anṛśaṃsakarttā \msCa,
                                  labhaty{ }asau tam{ }anṛtaṃ sa karttā \msCc,
                                  bhavaty{ }asau dharmam{ }aśeṣakartā \Ed</APP>
-        <!-- <TR>will obtain the merits of all sacrifices, austerities and donation [because]
-                        he is one who is kind to it (Łtām$?) [i.e. to the cow].</TR> -->
-% Judit tam for puṇyam
-% Nirajan/CsK tām
+        <NOTE>Although the accusative with °Łkartā$ in Łpāda$ d is still not optimal, my 
+              emendation of Łtaṃ$ to Łtāṃ$ at least restores the metre and improves 
+              upon the meaning of the sentece. Alternatively, as suggested by Törzsök,
+              Łtaṃ$ could be understood as Łtad$, picking up Łpuṇyaṃ$ in Łpāda$ c,
+              but in this way any reference to cows here is only implied.</NOTE>
+        <!-- <TR>he who is kind to her [i.e. to the cow], will obtain the merits of all sacrifices,
+                 austerities and donation.</TR> -->
 
+
+%index_metre: upajāti
 
 <ANUSTUBH/>
 <TEXT> atithiṃ yo 'nugaccheta atithiṃ yo 'numanyate|</TEXT> 
-        <!-- <TR>He who looks after a guest, he who respects a guest, </TR> -->
+        <NOTE>Note the peculiar active verb forms Łanugaccheta$ and Łanupūjyeta$.
+              On this formation, see a remark about \Nisvmul\ 2.8 in <citep>NisvasaGoodall</citep><pnum>247</pnum>:
+                        `We have assumed that Łpūjyeta$ is intended to mean Łpūjayet$ and is
+                        perhaps a contraction of Łpūjayeta$.'</NOTE> 
+        <!-- <TR>One who looks after a guest, one who respects a guest,</TR> -->
                 % Nirajan: follows Dharmasūtras , accompany
 
 <TEXT> atithiṃ yo 'nupūjyeta atithiṃ yaḥ praśaṃsate||</TEXT> 4.40
         <APP>\vd <LEM>praśaṃsate</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; praśaṃsyate \msCc</APP>
-        <!-- <TR>he who worships a guest, he who praises a guest,</TR> -->
-        <NOTE>Not the peculiar verb forms Łanugaccheta$ and Łanupūjyeta$) in this verse.</NOTE> 
+        <!-- <TR>one who worships a guest, one who praises a guest,</TR> -->
 
-                % from 10th class or denominative / causative
 %folioinfo \msCa\ 395.jpg
 <TEXT> atithiṃ yo na pīḍyeta atithiṃ yo na duṣyati|</TEXT>
-        <APP>\va <LEM>na pīḍyeta</LEM> \msCa\msCb\msNa\Ed; na gaccheta <EYESKIP>to 4.40c</EYESKIP> \msCc,
+        <APP>\va <LEM>na pīḍyeta</LEM> \msCa\msCb\msNa\Ed; na gaccheta (Łeyeskip to 4.40c$) \msCc,
                                                  <UNCL>na pī</UNCL>¤¤ \msNb, nipīḍyeta \msNc</APP>
         <APP>\vb <LEM>atithiṃ</LEM> \msCa\msCb\msNa\msNc\Ed; atiṃ \msCc, ¤¤¤ \msNb\oo
                  <LEM>na duṣyati</LEM> \msCa\msCc\msNa\msNc\Ed; nuduṣyati \msCb, ¤duṣyati \msNb</APP>
-        <!-- <TR>he who does not harm a guest, he who does not commit a fault towards a guest, </TR> -->
+        <NOTE>On the form Łpīḍyeta$, see previous note.</NOTE>
+        <!-- <TR>one who does not harm a guest, one who does not commit a fault towards a guest,</TR> -->
 
 <TEXT> atithipriyakartā yaḥ atitheḥ paricārakaḥ|</TEXT>
         <APP>\vc <LEM>atithi°</LEM> \msCa\msNa; atithiṃ \msCb\msCc\msNc\Ed, ati<UNCL>thiṃ</UNCL> \msNb\oo
                  <LEM>°priya°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; priyaḥ \msCc\oo
                  <LEM>yaḥ</LEM> \msCb\msCc\msNb\msNc\Ed; yar \msCa, ya \msNa</APP>
                         % second time of r being a sandhi bridge?
-        <!-- <TR>he who does kind things to a guest, he who attends to the needs of a guest,</TR> -->
+        <!-- <TR>one who keeps the guest happy, one who attends to the needs of a guest,</TR> -->
 
 <TEXT> atitheḥ kṛtasaṃtoṣas{ }tasya puṇyam{ }anantakam||</TEXT> 4.41
         <APP>\ve <LEM>atitheḥ</LEM> \msCb\msCc\msNc; atithi° \msCa\msNa\msNb, atithiṃ \Ed</APP>
         <APP>\vef <LEM>°saṃtoṣas{ }tasya</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °saṃtā yasya \msCb</APP>
         <APP>\vf <LEM>puṇya°</LEM> \mssCaCbCc\msNa\msNb\Ed; pūna° \msNc</APP>
-        <!-- <TR>he who makes a guest satisfied: his merits are endless.</TR> -->
+        <!-- <TR>one who makes a guest satisfied: his merits are endless.</TR> -->
 
-%                 pātreṇa?
-<TEXT> āsanenārghapādyena pādaśaucajalena ca|</TEXT>
-        <APP>\va <LEM>°ārgha°</LEM> \mssCaCbCc\msNa\msNb\msNc; °ārdhya° \Ed</APP>
-        <!-- <TR>He should offer [the guest] a seat, water-offering, feet-washing water [or: °pātreṇa?],
-                water for washing his feet[?],</TR> -->
-        <NOTE>Pāda b seems to awkwardly repeat what Łarghapādyena$ in pāda a signifies.
-                Some emendation may be required here, perhaps taking into account bathing (Łsnāna$) or 
+<TEXT> āsanenārghapātreṇa pādaśaucajalena ca|</TEXT>
+        <APP>\va <LEM>°ārgha°</LEM> \mssCaCbCc\msNa\msNb\msNc; °ārdhya° \Ed\oo
+                 <LEM>°pātreṇa</LEM> \conj; °pādyena \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <NOTE>My conjecture in Łpāda$ a (°Łpātreṇa$ for °Łpādyena$) was inspired by the fact that 
+                Łpāda$ b seems to awkwardly repeat what °Łpādyena$ in Łpāda$ a signifies.
+                Other possibilities could include taking into account bathing (Łsnāna$) or 
                         an unguent (Łabhyaṅga$).</NOTE>
+        <!-- <TR>He should offer [the guest] a seat, a vessel with water-offering, and 
+                                water for washing his feet,</TR> -->
 
 <TEXT> annavastrapradānair{ }vā sarvaṃ vāpi nivedayet||</TEXT> 4.42
         <APP>\vc <LEM>annava°</LEM> \msCa\msCb\msNa\msNc\Ed; annam{ }va° \msCc, <UNCL>anna</UNCL>va° \msNb</APP>
@@ -4778,29 +4769,31 @@ CsK: but this is in the Śivadharmottara!
         <APP>\va <LEM>°dārātmanā</LEM> \eme; °dārātmano \msCb\msCc\msNa\msNb\msNc,
                                 °<UNCL>dārā</UNCL>tmano \msCa, °dārātmako \Ed</APP>
         <APP>\vb <LEM>°pūjayet</LEM> \msCa\msNa\Ed; °pūjyate \msCb\msCc\msNb, °pūjate \msNc</APP>
-        <!-- <TR>He who worships the guest by [offering him] his own son, wife or himself</TR> -->
         <NOTE>For the requirement that one could part with his wife or son, or his own life,
-                for the benefit of someone else, see VSS 2.38 and the narrative in VSS chapter 12;
-                these influenced my decision to emend Ł°ātmano$ to Ł°ātmanā$ in pāda a.</NOTE>
+                for the benefit of someone else, see \VSS\ 2.38 and the narrative in \VSS\ chapter 12
+                which tells about a Brahmin giving away his own wife to a guest;
+                these influenced my decision to emend Ł°ātmano$ to Ł°ātmanā$ in Łpāda$ a.
+                Note that in fact \VSS\ 4.44cd below echoes verse 37cd in the above mentioned chapter 12: 
+                        Łdvijarūpadharo dharmaḥ svayam eva ihāgataḥ$.</NOTE>
+        <!-- <TR>He who worships the guest by [offering him] his own son, wife or himself</TR> -->
 
 <TEXT> śraddhayā cāvikalpena aklībamānasena ca||</TEXT> 4.43
         <APP>\vc <LEM>śraddhayā</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; śraddhāyā \msCc\oo
                  <LEM>cāvikalpena</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; cāpi kalpena \msCa</APP>
-        <!-- <TR>with willingness and with a brave and non-hesitating mind,</TR> -->
-% śraddhā as willingness also below... write about it
+        <!-- <TR>with willingness, without hesitation, and with a brave heart,</TR> -->
 
 <TEXT> na pṛcched{ }gotracaraṇaṃ svādhyāyaṃ deśajanmanī|</TEXT>
         <APP>\va <LEM>°caraṇaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °pravaraṃ \Ed</APP>
         <APP>\vb <LEM>deśajanmanī</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; deśajanmanā \msCa</APP>
-        <PARAL> Ł\vab = Uttarottara 10.7ab = Umāmaheśvarasaṃvāda 6.11ab \similar\ \MBh\ 13.62.18ab:
-                $ na pṛcched{ }gotracaraṇaṃ svādhyāyaṃ deśam{ }eva vā</PARAL>
+        <PARAL> <rm>\vab = \UUMS\ 10.7ab = \UMS\ 6.11ab \similar\ \MBH\ 13.62.18ab:
+                </rm>na pṛcched{ }gotracaraṇaṃ svādhyāyaṃ deśam{ }eva vā</PARAL>
         <!-- <TR>and does not ask [the guests about their] lineage, Vedic affiliation (Łcaraṇa$), 
                                         studies, country or birth,</TR> -->
-
 
 <TEXT> cintayen{ }manasā bhaktyā dharmaḥ svayam{ }ihāgataḥ||</TEXT> 4.44
         <APP>\vc <LEM>cintayen{ }ma°</LEM> \msCa\msCc\msNa\msNb\Ed; cittayet{ }ma° \msCb, cintayet{ }ma° \msNc</APP>
         <APP>\vd <LEM>°gataḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °gatāḥ \msCc, ga<UNCL>tam</UNCL> \msNb</APP>
+        <PARAL>\vcd <rm>\compare\ 12.37cd: </rm>dvijarūpadharo dharmaḥ svayam eva ihāgataḥ</PARAL>
         <!-- <TR>and imagines mentally, with devotion, that it is Dharma himself who has arrived,</TR> -->
                
 <TEXT> aśvamedhasahasrāṇi rājasūyaśatāni ca|</TEXT> 
@@ -4830,43 +4823,46 @@ CsK: but this is in the Śivadharmottara!
         <APP>\vb <LEM>nṛśaṃsamatam{ }utsṛjet</LEM> \msCa\msNa\msNc; nṛśaṃsamata utsṛjet \msCb, 
                              nṛśaṃsakamamam{ }utsṛjet \msCc, nṛsasamatam{ }utsṛjet \msNb, na saṃśaya samaśnute \Ed</APP>
         <!-- <TR>he whose guest is satisfied [and] he who can abandon the sentiment of cruelty,</TR> -->
-        <NOTE>The demonstrative pronoun Łtasya$ in pāda c may refer to the guest:
-              `he will obtain all his [i.e. the guest's] merits', hinting at some sort of karmic exchange.
-                Nevertheless, I think that Łtasya$ points at the merits one can obtain by rituals listed 
-                in the previous verse. This is suggested by passages such as the following:
-                <sep/>
-                Mahābhārata Supp. 13.14.379 ff.:<br/>
-                   <skt>ahany ahani yo dadyāt kapilāṃ dvādaśīḥ samāḥi|<br/>
-                        māsi māsi ca satreṇa yo yajeta sadā naraḥ|| <br/>
-                        gavāṃ śatasahasraṃ ca yo dadyāj jyeṣṭhapuṣkare| <br/>
-                        na taddharmaphalaṃ tulyam <b>atithir yasya tuṣyati</b>||</skt>
-                <sep/>
-                 Brahmavaivartapurāṇa 3.44--46:<br/>
-                   <skt>atithiḥ pūjito yena pūjitāḥ sarvadevatāḥ|<br/>
-                        <b>atithir yasya santuṣṭas</b> tasya tuṣṭo hariḥ svayam||<br/>
-                        snānena sarvatīrtheṣu sarvadānena yat phalam|<br/>  
-                        sarvavratopavāsena sarvayajñeṣu dīkṣayā|| <br/>
-                        sarvais tapobhir vividhair nityair naimittikādibhiḥ|  <br/>
-                        tad evātithisevāyāḥ kalāṃ nārhanti ṣoḍaśīm||</skt> 
-        </NOTE>
 % See also Vāyupurāṇa 1.23.105ff
 
 %folioinfo \msCc\ 194.jpg, f. 275v
 %folioinfo \msNb\ 49.jpg upper
 <TEXT> sa tasya sakalaṃ puṇyaṃ prāpnuyān{ }nātra saṃśayaḥ||</TEXT> 4.46
-                <!-- <TR>will obtain all the merits of [the above], there is no doubt about it.</TR> -->
+        <NOTE>The demonstrative pronoun Łtasya$ in Łpāda$ c may refer to the guest:
+              `he will obtain all his [i.e. the guest's] merits,' hinting at some sort of karmic exchange.
+                Nevertheless, I think rather that Łtasya$ points to the merits one can obtain by the rituals listed 
+                in the previous verse. This is suggested by passages such as the following:
+                <sep/>
+                \MBH\ Supp. 13.14.379 ff.:<br/>
+                       Łahany ahani yo dadyāt kapilāṃ dvādaśīḥ samāḥi |<br/>
+                        māsi māsi ca satreṇa yo yajeta sadā naraḥ || <br/>
+                        gavāṃ śatasahasraṃ ca yo dadyāj jyeṣṭhapuṣkare | <br/>
+                        na taddharmaphalaṃ tulyam atithir yasya tuṣyati ||$
+                <sep/>
+                 \BRAHMAVP\ 3.44--46:<br/>
+                        Łatithiḥ pūjito yena pūjitāḥ sarvadevatāḥ |<br/>
+                        atithir yasya saṃtuṣṭas tasya tuṣṭo hariḥ svayam ||<br/>
+                        snānena sarvatīrtheṣu sarvadānena yat phalam |<br/>  
+                        sarvavratopavāsena sarvayajñeṣu dīkṣayā || <br/>
+                        sarvais tapobhir vividhair nityair naimittikādibhiḥ |  <br/>
+                        tad evātithisevāyāḥ kalāṃ nārhanti ṣoḍaśīm ||$.</NOTE>
+                <!-- <TR>will obtain all the merits of the above, there is no doubt about it.</TR> -->
+
 %folioinfo \msNc\ 218.jpg lower, f. 216r
-<TEXT> <crux>na gatim{ }atithijñasya gatim{ }āpnoti karhicit</crux>|</TEXT>
+<TEXT> <crux>na gatim{ }atithijñasya</crux> gatim{ }āpnoti karhicit|</TEXT>
         <APP>\va <LEM>na gatim{ }a°</LEM> \msCa\msCb\msNb\msNc; na gati nā° \msNa, na tithim{ }a° \msCc\Ed</APP>
         <APP>\vb <LEM>karhicit</LEM> \msCa\Ed; karhacit \msCb\msCc\msNa\msNb\msNc</APP>
-        <!-- <TR>... he who [does not] know [how to greet his] guests ... will never reach the path ... ?</TR> -->
-                % nāgatātithyavajñasya?
+        <NOTE>Something has gone wrong with Łpāda$s ab and I am unable to reconstruct the
+                meaning. The line may have begun with something like Łnāgatātithyavajña$°
+                (`he who despise a guest that has arrived will not\dots').</NOTE>
+        <!-- <TR>\dots\ will ever reach the path.</TR> -->
+              
 
 %folioinfo \msM\ 419.jpg lower, f. 8r  
 <TEXT> tasmād{ }atithim{ }āyāntam{ }abhigacchet{ }kṛtāñjaliḥ||</TEXT> 4.47
         <APP>\vc <LEM>°yānta°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °yānti° \msCc</APP>
-        <PARAL>\vcd Ł= Vāyupurāṇa 2.17.8 = Brahmāṇḍapurāṇa 2.15.8; 
-                        \kb Śivadharmottara 4.44ab: $
+        <PARAL>\vcd <rm>= \VAYUP\ 2.17.8 = \BRAHMANDAPUR\ 2.15.8; 
+                        \kb \SDHU\ 4.44ab: </rm>
                         tasmād{ }atithim{ }āyāntam{ }anugacchet{ }kṛtāñjaliḥ</PARAL> 
         <!-- <TR>Therefore one should go up to the arriving guest with respectfully joined palms.</TR> -->
 
@@ -4875,40 +4871,39 @@ CsK: but this is in the Śivadharmottara!
                  <LEM>caikena</LEM> \mssCaCbCc\msNa\msNb\Ed; cekena \msNc</APP>
         <APP>\vb <LEM>āsīn{ }mahādbhutaḥ</LEM> \corr; āsīn{ }mahadbhutaḥ \msCa\msCb\msNa\msNb, āsī mahadbhutaḥ \msCc, 
                                                āsīt{ }mahādbhutaḥ \msNc, āsīn{ }mahadbhutam \Ed</APP>
-        <!-- <TR>By one Łprastha$ of coarsely ground grains</TR> -->
-        <NOTE>This verse is a reference to the story related by a mongoose in MBh 14.92--93: 
+        <NOTE>This verse is a reference to the story related by a mongoose in \MBH\ 14.92--93: 
                 A Brahmin who practises the vow of gleaning (Łuñcha$) and his family
                 receive a guest. They feed the guest with the last morsels of the little food
                 they have. In the end, the guest reveals that he is in fact Dharma (14.93.80cd) and as 
                 a reward the family departs to heaven. The noble act of the poor Brahmin and his family
                 is depicted as yielding greater rewards than Yudhiṣṭhira's grandiose horse-sacrifice. 
-                (See some remarks on this story in Takahashi 2021.)</NOTE>
+                (See some remarks on this story in <cite>TakahashiUnca</cite>.)
+
+        </NOTE>
+        <!-- <TR>By one Łprastha$ [a small unit of weight] of coarsely ground grains</TR> -->
 
 <TEXT> atithiprāptadānena svaśarīraṃ divaṃ gatam||</TEXT> 4.48
         <APP>\vc <LEM>°dānena</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °prādānena \msCc</APP>
         <APP>\vd <LEM>sva°</LEM> \mssCaCbCc\msNa\msNb; <UNCL>sa°</UNCL> \msNc, sa° \Ed\oo
                  <LEM>°gatam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °gataḥ \msCc</APP>
-        <!-- <TR>given to a guest, an extremely great sacrifice was performed [so to say],
-        and his [the Brahmin's and his family members'] bodies (Łsvaśarīraṃ$) reached heaven.</TR> -->
-         <NOTE><sep/>We would be forced to accept the reading of \Ed\ in pāda d if the expression
-                were in the masculine (Łsaśarīro divaṃ gataḥ$). This would make sense
-                and it would also echo expressions occuring e.g. in the Mahābhārata:
-                3.164.33cd: <skt>paśya puṇyakṛtāṃ lokān saśarīro divaṃ vraja</skt>;
-                14.5.10cd:  <skt>saṃjīvya kālam iṣṭaṃ ca saśarīro divaṃ gataḥ</skt>.
-                It is tempting to emend the pāda accordingly, but I have retained 
-                        Łsvaśarīraṃ divaṃ gatam$ and I interpret it as 
-                        referring to the Brahmin's whole family (Łsva$).
-                </NOTE>
+        <NOTE>We would be forced to accept the reading of \Ed\ in Łpāda$ d (Łsaśarīro$) 
+                if the expression were in the masculine (Łdivaṃ gataḥ$). This would make sense
+                and it would also echo expressions occuring, e.g., in the \MBH:
+                3.164.33cd: Łpaśya puṇyakṛtāṃ lokān saśarīro divaṃ vraja$;
+                14.5.10cd: Łsaṃjīvya kālam iṣṭaṃ ca saśarīro divaṃ gataḥ$.
+                It is tempting to emend accordingly, but instead I have retained 
+                Łsvaśarīraṃ divaṃ gatam$, and I interpret it in a general way.</NOTE>
+        <!-- <TR>given to a guest, an extremely wonderful sacrifice was performed [so to say],
+                and his body [i.e. the protagonist in his mortal form] reached heaven.</TR> -->
 
 <TEXT> nakulena purādhītaṃ vistareṇa dvijottama|</TEXT> 
         <APP>\vb <LEM>°ttama</LEM> \msCa\msCb\msNa\msNb\msNc; °ttamam \msCc, °ttamaḥ \Ed</APP>
-        <!-- <TR>The mongoose related [this story in the Mahābhārata] in the past in detail, O great Brahmin,</TR> -->
+        <!-- <TR>The mongoose related [this story in the ŁMahābhārata$] in the past in detail, O great Brahmin,</TR> -->
 
 <TEXT> viditaṃ ca tvayā pūrvaṃ prasthavārttā ca kīrtitā||</TEXT> 4.49
         <APP>\vd <LEM>kīrtitā</LEM> \msCa\msCb\msNa\msNb\msNc; kīrtitam \msCc, kīrtitāḥ \Ed</APP>
-        <!-- <TR>and you've known it already. The story of the Łprastha$ is well-known.</TR> -->
+        <!-- <TR>and you known it already. The story of the Łprastha$ is well-known.</TR> -->
 % https://www.sacred-texts.com/hin/m14/m14090.htm (= etext 14.92.1 ff.)
-
 
 
 
@@ -4917,8 +4912,8 @@ CsK: but this is in the Śivadharmottara!
 
 <TEXT> dama eva manuṣyāṇāṃ dharmasārasamuccayaḥ|</TEXT> 
         <APP>\vb <LEM>dharmasāra°</LEM> \eme; dharmaḥ sāra° \mssCaCbCc\msNa\msNb\msNc, dharmabhāra° \Ed</APP>
-        <PARAL>\vb Łcf.\ Mahābhārata Indeces 14.4.2477: $ śrotum icchāmi kārtsnyena dharmasārasamuccayam</PARAL>
-        <!-- <TR>Self-restraint of humans is in itself the collected essence of Dharma.</TR> -->
+        <PARAL>\vb <rm>\compare\ e.g. \MBH\ Indeces 14.4.2477: </rm>śrotum icchāmi kārtsnyena dharmasārasamuccayam</PARAL>
+        <!-- <TR>Self-restraint is in itself the collected essence of Dharma for humans.</TR> -->
 % see MBh e.g. maybe quote some for support
 % a work called dharmasārasamuccaya:
 % http://catalogue-old.ngmcp.uni-hamburg.de/mediawiki/index.php/C_44-8(7)_S%C4%81rasamuccaya
@@ -4926,42 +4921,47 @@ CsK: but this is in the Śivadharmottara!
 <TEXT> damo dharmo damaḥ svargo damaḥ kīrtir{ }damaḥ sukham||</TEXT> 4.50
         <APP>\vc <LEM>svargo</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; svarga \msCc</APP>
         <APP>\vd <LEM>kīrtir{ }da°</LEM> \msCa\msCb\msNb\Ed; kīrti da° \msCc\msNa\msNc</APP>
-        <!-- <TR>Self-restraint is Dharma, Self-restraint is heaven, 
-                 Self-restraint is fame, Self-restraint is happiness.</TR> -->
+        <!-- <TR>Self-restraint is Dharma, self-restraint is heaven, 
+                 self-restraint is fame, self-restraint is happiness.</TR> -->
 
 %                                              damaḥs \msCc
 <TEXT> damo yajño damas{ }tīrthaṃ damaḥ puṇyaṃ damas{ }tapaḥ|</TEXT>
         <APP>\va <LEM>damas{ }tī°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; dama tī° \msCb</APP>
-        <!-- <TR> Self-restraint is sacrifice, Self-restraint is a pilgrimage-place, 
-                  Self-restraint is merit, Self-restraint is religious austerity.</TR> -->
+        <!-- <TR> Self-restraint is sacrifice, self-restraint is a pilgrimage-place, 
+                  self-restraint is merit, self-restraint is religious austerity.</TR> -->
 
-% hīnam sandhi bridge?
 <TEXT> damahīna{-}m{-}adharmaś{ }ca damaḥ kāmakulapradaḥ||</TEXT> 4.51
         <APP>\vd <LEM>damaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; dama \msCc, damaṃ \Ed\oo
                  <LEM>kāma°</LEM> \mssCaCbCc\msNa\msNb\Ed; kāmaṃ \msNc</APP>
-        <!-- <TR>If one has no Self-restraint, there is no Dharma, 
-                 [while] Self-restraint yields a multitude of desired objects.</TR> -->
-% if everything else is there but no dama
-% JT maybe kula = family, kula is usually animate, 
-% Flo kulakāmaprada?
-% CsK emend to kāmaphala? or kāmasukhaprada (Śivadharmaśāstra)
+         <NOTE>I suspect that the final Łm$ in Łdhamahīnam$ in Łpāda$ c is a hiatus filler: Łdhamahīna-m-adharmaś ca$.
+                 Łkāmakulapradaḥ$ in Łpāda$ d is suspect, and my translation is 
+                 unsatisfactory. This compound could be interpreted as `fullfilling desires and giving a family' or 
+                 it may have originally read Łsarvakāmapradaḥ$ (`fullfilling all desires') or
+                 Łkulakāmapradaḥ$ (`fullfilling the desires of the family').
+                 \SDHS\ 4.28b reads Łsarvakāmasukhapradam$, which opens up further possibilities.</NOTE>
+        <!-- <TR>If one has no self-restraint, one is a sinner (Ładharma$), 
+                 [while] self-restraint yields a multitude of desired objects.</TR> -->
 
 % unmetr!
 <TEXT> nirdamaḥ kari mīnaś{ }ca pataṅgabhramaramṛgāḥ|</TEXT>
         <APP>\va <LEM>°damaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °dama \msCc</APP>
         <APP>\vb <LEM>°bhramara°</LEM> \mssCaCbCc\msNa\msNb\Ed\ \unmetr; °bhrama<UNCL>rā</UNCL>° \msNc</APP>
-        <!-- <TR>The elephant, the fish, the moth, the bee and the deer are without Self-restraint.</TR> -->
-        <NOTE>Note Łkari$ for Łkarī$ metri causa, and the end of pāda b (Ł°mṛgāḥ$), which 
+        <NOTE>Note Łkari$ for Łkarī$ metri causa, and the end of Łpāda$ b (Ł°mṛgāḥ$), which 
                         should be treated metrically as if it read Ł°mrigāḥ$.</NOTE>
+        <!-- <TR>The elephant, the fish, the moth, the bee and the deer are without self-restraint.</TR> -->
 % nirdama is a rare word, but it's in the Harivaṃśa:
 tava sapta vṛṣā gopa nirdamāḥ sasyaghātakāḥ HV_App.I,12.55
 
+%index_metre: unmetrical at end of line and ṛ -> ri
+%index_voc: nirdama is rare?
+%index_grammar: shortening metri causa
 
 %folioinfo \msNa\ 201.jpg lower, f.8r
 <TEXT> tvag{ }jihvā ca tathā ghrāṇā cakṣuḥ śravaṇam{ }indriyāḥ||</TEXT> 4.52
         <APP>\vc <LEM>ghrāṇā</LEM> \msCa\msNa\msNb\msNc\Ed; ghrāṇaṃ \msCb, ghrāṇa \msCc</APP>
         <APP>\vd <LEM>°ndriyāḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; °ndriyaḥ \Ed</APP>
         <!-- <TR>The senses are the skin, the tongue, the nose, the eye and the ear.</TR> -->
+
 %folioinfo \Ed\ p.595
 
 <TEXT> durjayendriyam{ }ekaikaṃ sarve prāṇaharāḥ smṛtāḥ|</TEXT>
@@ -4970,10 +4970,12 @@ tava sapta vṛṣā gopa nirdamāḥ sasyaghātakāḥ HV_App.I,12.55
                 <!-- <TR>Each of these sense faculties are hard to conquer and 
                         all are known to be fatal [if unconquered].</TR> -->
 
-<TEXT> damaṃ yo jayate samyag{ }nirdamo nidhanaṃ vrajet||</TEXT> 4.53
+<TEXT> damaṃ yo jayate 'samyag{ }nirdamo nidhanaṃ vrajet||</TEXT> 4.53
         <APP>\vd <LEM>vrajet</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; vraje× \msCa</APP>
-        <!-- <TR>If one masters Self-restraint, the [one with a?] lack of Self-restraint will die.???? </TR> -->
-% damo yo...? damo yasya sa ... ? yojayate?
+        <NOTE>The only way to make sense of Łpāda$s cd is to supply and Łavagraha$ before
+              Łsamyag$. Otherwise some text may have dropped out here.</NOTE>
+        <!-- <TR>If one masters self-restraint in a less than proper way,
+                 one remains unrestrained and will die .</TR> -->
 
 %folioinfo \msCb\ 417.jpg, f. 207v
 <TEXT> mṛge śrotravaśān{ }mṛtyuḥ pataṅgāś{ }cakṣuṣor{ }mṛtāḥ|</TEXT>
@@ -4982,35 +4984,41 @@ tava sapta vṛṣā gopa nirdamāḥ sasyaghātakāḥ HV_App.I,12.55
                  <LEM>°vaśā°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °vacaśā° \msCb</APP>
         <APP>\vb <LEM>pataṅgāś{ }ca°</LEM> \mssCaCbCc\msNa\msNb\msNc; pataṅgā ca° \Ed\oo
                  <LEM>°ṣor{ }mṛtāḥ</LEM> \msCa\msCb\msNa\msNb\Ed; °so mṛtāḥ \msCc, °ṣo mṛtāḥ \msNc</APP>
-        <!-- <TR>In the case of the deer, death comes about because of hearing [when hunters use buck grunts].
-                 Moths die because[?] of their eyes [as they are attracted to the light of a lamp].</TR> -->
-                          % loc/gen for abl?
-% too specific Judit (buck grunt)
+        <!-- <TR>In the case of the deer, death comes about because of hearing [when, e.g., hunters use buck grunts].
+                 Moths die because of their eyes [as they are attracted to the light of a lamp].</TR> -->
+
+%index_grammar: loc/gen for abl cakṣusor
 % Alessandro: 'sajāla' hunting; imitate sounds? śyainika śāstra? "hunters shouting" try to frighten the deer?
 
 <TEXT> ghrāṇayā bhramaro naṣṭo naṣṭo mīnaś{ }ca jihvayā||</TEXT> 4.54
         <APP>\vc <LEM>ghrāṇayā</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; ghrātayā \msCb</APP>
         <APP>\vcd <LEM>naṣṭo naṣṭo</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; naṣṭo \msCb</APP>
-        <!-- <TR>Bees perish because of their smelling, fish because of their tongues.</TR> -->
-        <PARAL>\vo ŁCf. Buddhacarita 11.35: $ 
+        <!-- <TR>Bees perish because of their smelling [as they are attracted to smells],
+                 fish because of their tongues [when fishermen feed them].</TR> -->
+        <PARAL>\vo <rm>\compare\ \BUDDHACARITA\ 11.35: </rm> 
                gītair{ }hriyante hi mṛgā vadhāya rūpārtham{ }agnau śalabhāḥ patanti| 
-               matsyo giraty{ }āyasam{ }āmiṣārthī tasmād{ }anarthaṃ viṣayāḥ phalanti||
-        </PARAL>
+               matsyo giraty{ }āyasam{ }āmiṣārthī tasmād{ }anarthaṃ viṣayāḥ phalanti||</PARAL>
+        <NOTE>My comments in square brackets in the translation are tentative.</NOTE>
+
 See also Harśacarita 3:
 māndhātā mārgaṇavyasanena saputrapautro rasātalamagāt|
 purukutsaḥ kutsitaṃ karma tapasyannapi mekalakandhakāyāmakarot|
 etc.
 
-
 % melasse Alessandro
-% Judit elephant izé
-
 <TEXT> sparśena ca karī naṣṭo bandhanāvāsaduḥsahaḥ|</TEXT> 
         <APP>\vb <LEM>°saduḥsahaḥ</LEM> \msCa\msCc\msNa\msNc\Ed; °saduḥsaha \msCb, °sudussahaḥ \msNb</APP>
-        <!-- <TR>The elephant perishes because of touch, not being able to tolerate being in fetters [?].</TR> -->
+        <NOTE>ŁMātaṅgalīlā$ 11.1 may shed some light on elephants dying in captivity:
+               Łvānyas tatra sukhoṣitā vidhivaśād grāmāvatīrṇā gajā baddhās tīkṣṇakaṭūgravāgbhir atiśugbhīmohabandhādibhiḥ |
+                udvignāś ca manaḥśarīrajanitair duḥkhair atīvākṣamāḥ prāṇān dhārayituṃ ciraṃ naravaśaṃ prāptāḥ svayūthād atha$ ||.
+                In Edgerton's translation <nocite>EdgertonElephant</nocite>(1931, 92): 
+                `Forest elephants who dwell there happily and by
+                the power of fate have been brought to town in bonds, afflicted by harsh, bitter, cruel words,
+                by excessive grief, fear, bewilderment, bondage, etc., and by sufferings of mind and body,
+                are quite unable for long to sustain life, when from their own herds they have come into
+                the control of men.'</NOTE>
+        <!-- <TR>The elephant perishes because of touch, not being able to tolerate being in fetters.</TR> -->
 % Trautmann on elephants Flo
-% Judit elephant kills by touching??
-% See Mātaṃgalīlā 11.1?
 
 <TEXT> kiṃ punaḥ pañcabhuktānāṃ mṛtyus{ }tebhyaḥ kim{ }adbhutam||</TEXT> 4.55
         <APP>\vc <LEM>punaḥ</LEM> \msCapcorr\msCb\msCc\msNa\msNb\msNc\Ed; puna \msCaacorr</APP>
@@ -5023,50 +5031,56 @@ etc.
         <APP>\va <LEM>purūravo</LEM> \msCa\msCb\msNa\msNb\msNc; purorave \msCc, pururavā° \Ed\oo
                  <LEM>tilobhena atikāmena</LEM> \mssCaCbCc\msNa\msNb\msNc; tikāmena atilobhena \Ed</APP>
         <APP>\vb <LEM>daṇḍakaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; puṇḍakaḥ \Ed</APP>
-        <NOTE>Purūravas (double sandhi originally? purūravās ati° -- purūravā ati° -- purūravāti°).
-        Pāda a may refer to the following passage in the Mahābhārata (1.70.16--18, 20ab):
+        <NOTE>We may treat Łpurūravo$ in Łpāda$ a as a stem form noun or thematised stem, or imagine that the
+                 original reading was Łpurūravā$° with double sandhi:
+                 Łpurūravās ati$° \rightarrow\ Łpurūravā ati$° \rightarrow\ Łpurūravāti$°.
+
+                 ŁPāda$ a may refer to the following passage in the \MBH\ (1.70.16--18, 20ab):
         <br/>
-                                 <skt>purūravās tato vidvān ilāyāṃ samapadyata|<br/>
-                                 sā vai tasyābhavan mātā pitā ceti hi naḥ śrutam||<br/>
-                                 trayodaśa samudrasya dvīpān aśnan purūravāḥ|<br/>
-                                 amānuṣair vṛtaḥ sattvair mānuṣaḥ san mahāyaśāḥ||<br/>
-                                 vipraiḥ sa vigrahaṃ cakre vīryonmattaḥ purūravāḥ|<br/>
-                                 jahāra ca sa viprāṇāṃ ratnāny utkrośatām api||<br/>
-                                        ... <br/>
-                                 tato maharṣibhiḥ kruddhaiḥ śaptaḥ sadyo vyanaśyata|</skt>
+                                 <skt>purūravās tato vidvān ilāyāṃ samapadyata |<br/>
+                                 sā vai tasyābhavan mātā pitā ceti hi naḥ śrutam ||<br/>
+                                 trayodaśa samudrasya dvīpān aśnan purūravāḥ |<br/>
+                                 amānuṣair vṛtaḥ sattvair mānuṣaḥ san mahāyaśāḥ ||<br/>
+                                 vipraiḥ sa vigrahaṃ cakre vīryonmattaḥ purūravāḥ |<br/>
+                                 jahāra ca sa viprāṇāṃ ratnāny utkrośatām api ||<br/>
+                                       [\dots] 
+                                 tato maharṣibhiḥ kruddhaiḥ śaptaḥ sadyo vyanaśyata |</skt>
         <sep/>
                         (``The wise Purūravas was born to Ilā. We heard that Ilā 
-                                was both his mother and his father. 
+                           was both his mother and his father. 
                            The great Purūravas ruled over thirteen islands of the ocean
                            and, though human, he was always surrounded by superhuman beings.
                            Intoxicated with his power, Purūravas quarrelled with some Brahmins  
                            and robbed them of their wealth even though they were protesting. [...]
-                           Therefore, cursed be the great Ṛṣis, he perished.'')
-        <sep/>
-        See also Buddhacarita 11.15 (Aiḍa = Purūravas):<sep/>
+                           Therefore, cursed by the great Ṛṣis, he perished.'')
+        See also \BUDDHACARITA\ 11.15 (Aiḍa = Purūravas):<sep/>
                 <skt> aiḍaś ca rājā tridivaṃ vigāhya<br/> 
-                        nītvāpi devīṃ vaśam urvaśīṃ tām|<br/>
+                        nītvāpi devīṃ vaśam urvaśīṃ tām |<br/>
                       lobhād ṛṣibhyaḥ kanakaṃ jihīrṣur  <br/>
-                        jagāma nāśaṃ viṣayeṣv atṛptaḥ||</skt>
+                        jagāma nāśaṃ viṣayeṣv atṛptaḥ ||</skt>
         <sep/>
-                For Daṇḍa(ka)'s story, see Rāmāyaṇa 7.71.31 ff.:
+
+                For Daṇḍa(ka)'s story, see \RAMAYANA\ 7.71.31 ff.:
                 Daṇḍa meets Arajā, a beautiful girl, in a forest and rapes her. As a consequence, her father, Śukra/Bhārgava,
-                destroyes Daṇḍa's kingdom, which thus becomes the desolate Daṇḍaka-forest.
-                  </NOTE>
+                destroyes Daṇḍa's kingdom, which thus becomes the desolate Daṇḍaka-forest.</NOTE>
         <!-- <TR>Purūravas [perished] by excessive greed, Daṇḍaka by excessive desire,</TR> -->
 
 <TEXT> sāgarāś{ }cātidarpeṇa atimānena rāvaṇaḥ||</TEXT> 4.56
         <APP>\va <LEM>sāgarā°</LEM> \eme; sagara° \msCa\msCb\msNa\msNb\msNc\Ed, sāgara° \msCc</APP>
         <!-- <TR>Sagara's sons by excessive pride, Rāvaṇa by excessive haughtiness,</TR> -->
-        <NOTE><sep/>For two versions of the destruction of
+        <NOTE>
+                <sep/>
+                For two versions of the destruction of
                 Sagara's sons, who were chasing the sacrificial horse of their father's Aśvamedha sacrifice,
                 and by doing so disturbed Kapila's meditation, and who in turn burnt them to ashes,
-                see Mahābhārata 3.105.9 ff. and Brahmāṇḍapurāṇa 2.52--53.
+                see \MBH\ 3.105.9 ff. and \BRAHMANDAPUR\ 2.52--53.
+
                 <sep/>
                 As for Rāvaṇa's haughtiness,
                 especially the fact that he chose to be invincible by all creatures except humans,
                 and its consequences,
-                one should recall the story of the Rāmāyaṇa and Rāvaṇa's destruction brought about by Rāma therein.</NOTE>
+                one should recall the story of the \RAMAYANA\ and Rāvaṇa's destruction brought about by Rāma therein.</NOTE>
+
 gretil/mbh1_18uḥtmṭxt-03,105.024a             tataḥ pūrvottare deśe samudrasya mahīpate
 gretil/mbh1_18uḥtmṭxt-03,105.024b*0522_01     vidāryamāṇāṃ pṛthivīṃ sāgarair baladarpitaiḥ
 gretil/mbh1_18uḥtmṭxt:03,105.024c             vidārya pātālam atha saṃkruddhāḥ sagarātmajāḥ
@@ -5084,12 +5098,13 @@ gretil/mbh1_18uḥtmṭxt-03,105.025a             kapilaṃ ca mahātmānaṃ te
         <NOTE>Saudāsa, also known as Kalmāṣapāda, hit Śakti, Vasiṣṭha's son, with a whip because
                 the latter did not give way to him, and as a consequence Śakti cursed Saudāsa:
                 Saudāsa had to roam the world as a Rākṣasa for twelve years. 
-                See Mahābhārata 1.166.1 ff.
+                See \MBH\ 1.166.1 ff.
+
                 <sep/>
-                As for the end of the Yādavas, see the short Mausalaparvan of the Mahābhārata (canto 16):
+                As for the end of the Yādavas, see the short ŁMausalaparvan$ of the \MBH\ (canto 16):
                 cursed by the sages Viśvāmitra, Kaṇva and Nārada, and seeing menacing omens,
-                the Yādavas take to drinking in Prabhāsa and destroy each other.
-        </NOTE>
+                the Yādavas take to drinking in Prabhāsa and destroy each other.</NOTE>
+
 % check Saudāsa's death
 
 <TEXT> atitṛṣṇāc{ }ca māndhātā nahuṣo dvijavajñayā||</TEXT> 4.57
@@ -5103,27 +5118,43 @@ gretil/mbh1_18uḥtmṭxt-03,105.025a             kapilaṃ ca mahātmānaṃ te
         <NOTE><sep/>Most probably, Łatitṛṣṇā$ in the MSS stand for Łatitṛṣṇāt$ (intending Łatitṛṣṇayā$).
                 The form Łmāndhāto$ in \msCb\ stands for Łmāndhātā$ (nominative of Łmāndhātṛ$).
                 I have corrected it in spite of the fact that the authors' knowledge about his story may
-                come from Divyāvadāna 17, where it sometimes appears to be an a-stem noun (Łmāndāta$).
+                come from \DIVYAV\ 17, where it sometimes appears to be an a-stem noun (Łmāndāta$).
                 Łdvijavajñayā$ in Łpāda$ d stands for Łdvijāvajñayā$ metri causa.
+
                 <sep/>
                 Māndhātṛ was born from his father's body who, being excessively thirsty once,
                 had drank some decoction prepared for ritual purposes and as a result become pregnant with him.
-                Nevertheless, Buddhacarita 11.13 suggests that Māndhātṛ himself was still unsatisfied
+                Nevertheless, \BUDDHACARITA\ 11.13 suggests that Māndhātṛ himself was still unsatisfied
                 with wordly objects even after he had obtained half of Indra's throne:
-                <sep/>
-                <skt>                devena vṛṣṭe 'pi hiraṇyavarṣe  <br/>
+                                <skt>devena vṛṣṭe 'pi hiraṇyavarṣe  <br/>
                                         dvīpān samagrāṃś caturo 'pi jitvā|  <br/>
                                      śakrasya cārdhāsanam apy avāpya   <br/>
-                                        māndhātur āsīd viṣayeṣv atṛptiḥ||</skt> <sep/>
-                In fact, as Monika Zin points out (2012: 149) Māndhātṛ/Māndhāta's rise and fall is a very popular theme
+                                        māndhātur āsīd viṣayeṣv atṛptiḥ||</skt>. 
+                In fact, as Monika Zin points out (<citep>ZinMandhatar</citep><pnum>149</pnum>),
+                Māndhātṛ/Māndhāta's rise and fall is a very popular theme
                 in the `Narrative Art of the Amaravati School': 
-                ``Statistics show that in the Amaravati School the most frequently represented narrative is
-                  the story of King Māndhātar, which appears 47 times.''
-        See ibid. p. 151:
-        ''The story [e.g. <i>Divyāvadāna</i> XVII, see more sources in fn. 17 of this article] 
-        relates that Māndhātar was a miraculously born <i>cakravartin</i> with Seven
+                `Statistics show that in the Amaravati School the most frequently represented narrative is
+                  the story of King Māndhātar, which appears 47 times.'
+ 
+                <sep/>
+                Nahuṣa was elevated to the position of Indra for a period of time and he also wanted
+                to take Śacī, Indra's wife. Indra instructed Śacī to tell Nahuṣa to 
+                harness some Ṛsis to a vehicle and use this vehicle to take Śacī. 
+                Agastya, one of the Ṛṣis, was insulted even further by Nahuṣa, therefore
+                he cursed Nahuṣa, who then fell from the vehicle. See \MBH\ 12.329.35 ff. and
+                a verse in the \BUDDHACARITA\ (11.14) that follows the one about Māndhātṛ:
+        <sep/>
+                                        <skt>bhuktvāpi rājyaṃ divi devatānāṃ   <br/>
+                                                śatakratau vṛtrabhayāt pranaṣṭe|<br/>
+                                             darpān maharṣīn api vāhayitvā  <br/>
+                                                kāmeṣv atṛpto nahuṣaḥ papāta||</skt>.</NOTE>
+
+
+        See Zin ibid. p. 151:
+        ''The story [e.g. ŁDivyāvadāna$ XVII, see more sources in fn. 17 of this article] 
+        relates that Māndhātar was a miraculously born <skt>cakravartin</skt> with Seven
         Jewels who could cause rain to fall so that his subjects could prosper; not usual rain, but rain
-        of coins, of grain or of cloth. By virtue of his moral strength alone, Māndhātar conquered the world -
+        of coins, of grain or of cloth. By virtue of his moral strength alone, Māndhātar conquered the world---
         without any weapons. He conquered all the countries on earth, then Uttarakuru,
         Pūrvavideha and Aparagodānīya, after which he set out to conquer the heavens. When he was
         traversing from one abode of the gods to the next (Nāgas, Sadāmattas, Mālādharas, etc.)
@@ -5137,25 +5168,6 @@ gretil/mbh1_18uḥtmṭxt-03,105.025a             kapilaṃ ca mahātmānaṃ te
         At that very moment Māndhatar fell from heaven, down to his former realm, became sick and died.
         Shortly before his death, he preached a sermon to his subjects in which <i>gātha</i>s 
         from the <i>Dhammapada</i> (186--187) appear...''
- 
-                <sep/>
-                Nahuṣa was elevated to the position of Indra for a period of time and he also wanted
-                to take Śacī, Indra's wife. Indra instructed Śacī to tell Nahuṣa to 
-                harness some Ṛsis to a vehicle and use this vehicle to take Śacī. 
-                Agastya, one of the Ṛṣis, was insulted even further by Nahuṣa, therefore
-                he cursed Nahuṣa, who then fell from the vehicle. See Mahābhārata 12.329.35 ff. and
-                the verse in the Buddhacarita (11.14) that follows the one about Māndhātṛ:
-        <sep/>
-                                <skt>        bhuktvāpi rājyaṃ divi devatānāṃ   <br/>
-                                                śatakratau vṛtrabhayāt pranaṣṭe|<br/>
-                                             darpān maharṣīn api vāhayitvā  <br/>
-                                                kāmeṣv atṛpto nahuṣaḥ papāta||</skt>
-                </NOTE>
-
-Bibl:
-Zin, Monika (2012). `Māndhātar, the Universal Monarch, and the Meaning of Representations of the Cakravartin in the Amaravati School, and of the Kings on the Kanaganahalli Stūpa.' In: Buddhist Narrative in Asia and Beyond: In Honour of HRH Princess Maha Chakri Sirindhorn. On Her Fifty-Fifth Birth Anniversary, Skilling, Peter / McDaniel, Justin (edd.) Bankok: Institute of Thai Studies, Chulalongkon University, vol. I
-
-
 
 Buddhacarita:
 
@@ -5231,6 +5243,7 @@ MSS_0566-1 atidīrghajīvidoṣād vyāsena yaśo'pahāritaṃ hanta /<BR>
 
 
 
+%EDDIG
 kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 % sandhi
 <TEXT> atidānād{ }balir{ }naṣṭa atiśauryeṇa arjunaḥ|</TEXT>
@@ -5244,9 +5257,9 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         <APP>\vc <LEM>atidyūtān{ }nalo</LEM> \msCa\msCc\msNb\msNc; atidyūtān{ }naro \msCb\msNa, atikhyātān{ }nalo \Ed</APP>
         <APP>\vd <LEM>nṛgo go°</LEM> \Ed; nṛgaṅ{ }go° \msCa\msCc\msNb\msNc, nṛgaṃ go° \msCb\msNa</APP>
         <!-- <TR>King Nala by excessive gambling, Nṛga by taking a cow.</TR> -->
-        <PARAL>\vo ŁAfter this verse, \Ed\ adds: $ 
+        <PARAL>\vo <rm>After this verse, \Ed\ adds: </rm> 
                         tasmād{ }dama sadā sa rakṣet ati sarvatra varjayet
-                       Ł(understand: $ tasmād{ }damaṃ sadā rakṣet ati sarvatra varjayetŁ)$</PARAL>
+                       <rm>(understand: </rm> tasmād{ }damaṃ sadā rakṣet ati sarvatra varjayet<rm>)</rm></PARAL>
         %``Therefore one should always preserve Self-restraint and should always avoid excessiveness.''
         % PaperMS A1341 does note have this extra line:
         /home/csaba/mmedia/images/scan/saiva/sivadharmacorpus/mss_florinda/newari/ngmpp/paper_mtm/A 1341-06/DSCN0337.JPG
@@ -5258,13 +5271,10 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
                        As for Nṛga, see Mahābhārata 14.93.74: <br/>
                        <skt>
                        gopradānasahasrāṇi dvijebhyo 'dān nṛgo nṛpaḥ|<br/>
-                       ekāṃ dattvā sa pārakyāṃ narakaṃ samavāptavān||<br/>
-                        
-                       </skt>
+                       ekāṃ dattvā sa pārakyāṃ narakaṃ samavāptavān||</skt>
                                (``King Nṛga had made gifts of thousands of cows for the twice-born.
                                  By giving away one single cow that belonged to someone else, 
-                                 he fell into hell.'')
-                </NOTE>
+                                 he fell into hell.'') </NOTE>
  
 <NOTANUSTUBH/> upajāti
 <TEXT> damena hīnaḥ puruṣo dvijendra</TEXT>
@@ -5346,7 +5356,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 <TEXT> parārthe śṛṇu bhūyo 'nya anyāyārtha{-}m{-}upārjanam|</TEXT>
         <APP>\vb <LEM>anyāyā°</LEM> \mssCaCbCc\msNa\msNc\Ed; anyayā° \msNb\oo
                  <LEM>°rjanam</LEM> \mssCaCbCc\msNa\msNc\Ed; °rjjavam \msNb</APP>
-        <PARAL>\vb Łcf.\ Bhagavadgītā 16.12: $
+        <PARAL>\vb <rm>cf.\ Bhagavadgītā 16.12: </rm>
                 āśāpāśaśatair{ }baddhāḥ kāmakrodhaparāyaṇāḥ|
                 īhante kāmabhogārtham{ }anyāyenārthasaṃcayān||</PARAL>
         <!-- <TR>Listen further to something else with regards to others' wealth.
@@ -5389,7 +5399,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         <!-- <TR>And what is the hurting of others? Listen, O Brahmin, I'll tell you briefly.</TR> -->
 
 <TEXT> devānāṃ brāhmaṇānāṃ ca gurumātātithidviṣaḥ||</TEXT> 4.65
-        <PARAL>\vcd ŁThese two pādas are illegible in \msNb$</PARAL>
+        <PARAL>\vcd <rm>These two pādas are illegible in \msNb</rm></PARAL>
         <!-- <TR>He who is hostile to the gods, Brahmins, gurus, mothers and guests [hurts others].</TR> -->
         <NOTE>Note Łmātā$ as a stem form.</NOTE>
 % dviṣaḥ as nom. of all the others Judit 
@@ -5403,7 +5413,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 % any association with alcohol
 <TEXT> sūtake mṛtake śauṇḍe varṇabhraṣṭakule naṭe||</TEXT> 4.66
         <APP>\vc <LEM>śauṇḍe</LEM> \msNa; sauṇḍye \msCa\msCc\msNc, śoṇḍye \msCb, <UNCL>sauṇḍe</UNCL> \msNb, sauṇḍo \Ed</APP>
-        <PARAL>\vo ŁThis verse is mostly illegible in \msNb$</PARAL>
+        <PARAL>\vo <rm>This verse is mostly illegible in \msNb</rm></PARAL>
         <!-- <TR>[e.g.] after birth or death [in the family], in case there are vendors of alcohol,
                 in the case of a family having lost their caste, and in the case of a Naṭa [dancer caste?].</TR> -->
 % kule ... bahuvrīhi individual
@@ -5499,7 +5509,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 <TEXT> pāruṣyapiśunāmithyāsambhinnāni ca varjayet||</TEXT> 4.69
         <APP>\vc <LEM>pāruṣya°</LEM> \mssCaCbCc\msNb\msNc\Ed; pāruṣyaṃ \msNa\oo
                  <LEM>°piśunā°</LEM> \mssCaCbCc\msNa\msNb\msNc; °piṇḍānā° \Ed</APP>
-        <PARAL>\vcd Łcf. Divyāvadāna 186.21: $ārya, kim{ }ebhiḥ karma kṛtam{ }yenaivaṃvidhāni duḥkhāni pratyanubhavantīti? 
+        <PARAL>\vcd <rm>cf. Divyāvadāna 186.21: </rm>ārya, kim{ }ebhiḥ karma kṛtam{ }yenaivaṃvidhāni duḥkhāni pratyanubhavantīti? 
                     sa kathayati| ete prāṇātipātikā adattādāyikāḥ kāmamithyācārikā mṛṣāvādikāḥ paiśunikāḥ pāruṣikāḥ 
                     saṃbhinnapralāpikā abhidhyālavo vyāpannacittā mithyādṛṣṭikāḥ|</PARAL>
         <!-- <TR>One should avoid [1] violent [words], [2] slanderous [words], [3] lies, and [4] idle [talk].</TR> -->
@@ -5600,7 +5610,7 @@ Brahmavihāras go back to the upaniṣads
 
 <TEXT> gṛhastho brahmacārī ca vānaprastho 'tha bhaikṣukaḥ||</TEXT> 4.74
         <APP>\vd <LEM>bhaikṣukaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; bhakṣakaḥ \Ed</APP>
-        <PARAL>\vcd Ł = MBh 12.234.13ab \similar\ MBh 14.4513ab etc. $ </PARAL>
+        <PARAL>\vcd <rm> = MBh 12.234.13ab \similar\ MBh 14.4513ab etc. </rm> </PARAL>
         <!-- <TR>[those of] the householder, the chaste one, the forest-dweller and the mendicant.</TR> -->
         % vāṇa \msCc
         % found these parallels with python software
@@ -5649,13 +5659,13 @@ Brahmavihāras go back to the upaniṣads
 % ṅgaṇāgamam \msCc
 <TEXT> brahmahatyā surāpānaṃ steyo gurvaṅganāgamam|</TEXT> 
         <!-- <TR>Murdering a Brahmin, drinking alcohol, stealing, having sex with the guru's wife:</TR> -->
-        <PARAL>\vcdef Ł\similar\ \MBh\ Indeces 12.30: $
+        <PARAL>\vcdef <rm>\similar\ \MBh\ Indeces 12.30: </rm>
                     brahmahatyāṃ surāpānaṃ steyaṃ gurvaṅganāgamam |
                     mahānti pātakāny{ }āhuḥ saṃyogaṃ caiva taiḥ saha ||
-                    Ł \similar\ Manu 11.55 (in Olivelle's edition): $
+                    <rm> \similar\ Manu 11.55 (in Olivelle's edition): </rm>
                     brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ |
                     mahānti pātakāny{ }āhuḥ saṃsargaś{ }cāpi taiḥ saha ||
-                ŁSee also Yājñavalkyasmṛti 3.227: $
+                <rm>See also Yājñavalkyasmṛti 3.227: </rm>
                         brahmahā madyapaḥ stenas{ }tathaiva gurutalpagaḥ |
                         ete mahāpātakino yaś{ }ca taiḥ saha saṃvaset || </PARAL>
 % brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ ।168.024            purana/agni-puranam/168.txt
@@ -5679,10 +5689,10 @@ Brahmavihāras go back to the upaniṣads
 <TEXT> guroś{ }cālīkanirbaddhaḥ samāni brahmahatyayā||</TEXT> 4.78
         <APP>\vc <LEM>°nirbaddhaḥ</LEM> \msCa\msCb\msNc; nibaddhas \msCa\msCc\msNa\msNb, nirvaddhas \Ed</APP>
         <APP>\vd <LEM>brahmahatyayā</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; bra¤¤¤yā \msCa</APP>
-        <PARAL>\vo \similar\ ŁMBh 5.40.3: $
+        <PARAL>\vo \similar\ <rm>MBh 5.40.3: </rm>
                  anṛtaṃ ca samutkarṣe rājagāmi ca paiśunam |
                  guroś{ }cālīkanirbandhaḥ samāni brahmahatyayā ||
-                        Ł= Manu 11.56 \similar\ Viṣṇusmṛti 37.1--4 \similar\ Agnipurāṇa 168.25$ </PARAL>
+                        <rm>= Manu 11.56 \similar\ Viṣṇusmṛti 37.1--4 \similar\ Agnipurāṇa 168.25</rm> </PARAL>
         <!-- <TR>and false accusations against an elder are equal to killing a Brahmin.</TR> -->
         <NOTE>The translation of this verse is based on Olivelle's (Olivelle Crit Ed. p. 218).</NOTE>
 % Judit would emend nirbandha
@@ -5700,10 +5710,10 @@ Manubhāṣya nirbandha Nirajan
         <APP>\vc <LEM>°nādyayor{ }jagdhiḥ</LEM> \eme; °nnañ{ }ca yo jagdhis \msCa, °nnañ{ }ca yo jagdhi \msCb,
                                  °nnañ{ }ca yodvignaḥ \msCc, °nnaṃ ca yo jagdhiḥ \msNa, °nnaṃ ca yo jagdhiḥ \msNb,
                                  °nnañ{ }ca yo jave \msNc, °nnaś{ }ca yo vipraḥ \Ed</APP>
-        <PARAL>\vo \similar\ ŁManu 11.57: $
+        <PARAL>\vo \similar\ <rm>Manu 11.57: </rm>
                 brahmojjhatā vedanindā kauṭasākṣyaṃ suhṛdvadhaḥ |
                 garhitānādyayor{ }jagdhiḥ surāpānasamāni ṣaṭ ||
-                ŁSee also Yājñavalkyasmṛti 3.228: $
+                <rm>See also Yājñavalkyasmṛti 3.228: </rm>
                         gurūṇām{ }adhyadhikṣepo vedanindā suhṛdvadhaḥ |
                         brahmahatyāsamaṃ jñeyam{ }adhītasya ca nāśanam ||</PARAL>
         <!-- <TR>eating unfit or forbidden food are six [deeds that are] equal to drinking alcohol.</TR> -->
@@ -5724,7 +5734,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\vc <LEM>sakhyuḥ</LEM> \eme; sakhya \mssCaCbCc\msNa\Ed, ¤¤ \msNb, sa<UNCL>khyu</UNCL> \msNc\oo
                  <LEM>putrasya ca strīṣu</LEM> \mssCaCbCc\msNa\msNc; ¤¤¤¤¤¤ \msNb, putrīṣu cāstrīṣu \Ed</APP>
         <APP>\vd <LEM>°samaḥ</LEM> \mssCaCbCc\msNa\msNc; ¤¤ \msNb, °sama \Ed</APP>
-        <PARAL>\vo \similar\ ŁManu 11.59: $
+        <PARAL>\vo \similar\ <rm>Manu 11.59: </rm>
                                 retaḥsekaḥ svayonīṣu kumārīṣv{ }antyajāsu ca |
                                 sakhyuḥ putrasya ca strīṣu gurutalpasamaṃ viduḥ ||</PARAL>
         <!-- <TR>with the wife of a friend or of one's own son are said to be equal to violating the guru's bed.</TR> -->
@@ -5744,7 +5754,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\vd <LEM>rukmasteya°</LEM> \eme; <UNCL>rūgya</UNCL>¤ya° \msCa,
                                 rugmasteya° \msCb\msCc\msNa\msNc, ¤¤¤¤ \msNb, hṛtasteya° \Ed\oo
                  <LEM>°samaḥ</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc; saḥ \msCbacorr, °sama \Ed</APP>
-        <PARAL>\vo Ł= Manu 11.58 $</PARAL>
+        <PARAL>\vo <rm>= Manu 11.58 </rm></PARAL>
         <!-- <TR>land, diamonds, or gems are said to be equal to stealing gold.</TR> -->
 %nikṣepasyāpaharaṇaṃ narāśvarajatasya ca|
 %bhūmivajramaṇīnāṃ ca rukmasteyasamaṃ smṛtam||
@@ -6027,7 +6037,7 @@ Manubhāṣya nirbandha Nirajan
 
 <TEXT> vratopavāsamaunaṃ ca snānaṃ ca niyamā daśa||</TEXT> 5.3
         <!-- <TR>religious observances, fasting, taciturnity, and bathing: these are the ten Niyamas.</TR> -->
-        <PARAL>\vo = Ł Liṅgapurāṇa 1.8.29cd--30ab = \VDHU\ 3.233.202$</PARAL>
+        <PARAL>\vo = <rm> Liṅgapurāṇa 1.8.29cd--30ab = \VDHU\ 3.233.202</rm></PARAL>
     % daṣa \msCb
 
 
@@ -6101,7 +6111,7 @@ Manubhāṣya nirbandha Nirajan
                  <LEM>gude</LEM> \msCa\msCb\msNa\msNc\Ed; °gudo \msCc\msNb</APP>
         <APP>\vb <LEM>tathaikatra</LEM> \msCa\msCc\msNa\msNb\msNc; tathaika<UNCL>tra</UNCL> \msCb, tathaikaś{ }ca \Ed\oo
                  <LEM>daśa</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; daśaḥ \msCc</APP>
-        <PARAL>\vab Ł \similar\ Manu 5.136ab: $ ekā liṅge gude tisras{ }tathaikatra kare daśa</PARAL>
+        <PARAL>\vab <rm> \similar\ Manu 5.136ab: </rm> ekā liṅge gude tisras{ }tathaikatra kare daśa</PARAL>
 % \msCc\ and \msNb\ seem to go together, see also above
 
 
@@ -6111,7 +6121,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\vd <LEM>mṛdaḥ</LEM> \mssCaCbCc\msNc\Ed; mṛtaḥ \msNa, mṛdā \msNb\oo
                  <LEM>śuddhiṃ samīhatā</LEM> \msCa\msCb\msNa; śuddhisamīhayā \msCc, śu<UNCL>ddhi</UNCL> samīhatā \msNb,
                                                                 śuddhiḥ samīhatā \msNc, śuddhiṃ samāhitā \Ed</APP>
-        <PARAL>\vcd Ł \similar\ Manu 5.136cd: $ ubhayoḥ sapta dātavyā mṛdaḥ śuddhim{ }abhīpsatā</PARAL>
+        <PARAL>\vcd <rm> \similar\ Manu 5.136cd: </rm> ubhayoḥ sapta dātavyā mṛdaḥ śuddhim{ }abhīpsatā</PARAL>
 
 
 
@@ -6119,7 +6129,7 @@ Manubhāṣya nirbandha Nirajan
 <TEXT> etac{ }chaucaṃ gṛhasthānāṃ dviguṇaṃ brahmacāriṇām|</TEXT>
         <APP>\va <LEM>etac{ }chaucaṃ</LEM> \msCa\msCb\msNa\msNc; cetac{ }hauca \msCc\Ed, eta¤¤ \msNb</APP>
         <APP>\vb <LEM>°guṇaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °guṇa \msCc</APP>
-        <PARAL>\vab Ł = Manu 5.137ab $ </PARAL>
+        <PARAL>\vab <rm> = Manu 5.137ab </rm> </PARAL>
 
 %folioinfo \msNb\ 51.jpg lower
 %index_grammar: tri licence na-vipulā
@@ -6127,7 +6137,7 @@ Manubhāṣya nirbandha Nirajan
         <!-- <TR>This is the purification for the householder (Łgṛhastha$), twice as much for the chaste one (Łbrahmacārin$),
                  three times as much for the forest-dweller (Łvānaprastha$), four times as much for the ascetic (Łyati$).</TR> -->
         <APP>\vc <LEM>tri°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dvi° \msCc</APP>
-        <PARAL>\vcd Ł \similar\ Manu 5.137cd: $ triguṇaṃ syād{ }vanasthānāṃ yatīnāṃ tu caturguṇam </PARAL>
+        <PARAL>\vcd <rm> \similar\ Manu 5.137cd: </rm> triguṇaṃ syād{ }vanasthānāṃ yatīnāṃ tu caturguṇam </PARAL>
 
 
 
@@ -6188,7 +6198,7 @@ Manubhāṣya nirbandha Nirajan
 <TEXT> laśunaṃ ca palāṇḍuṃ ca gṛñjanaṃ kacakāni ca|</TEXT>
         <APP>\va <LEM>palāṇḍuṃ</LEM> \Ed; palaṇḍuṃ \mssCaCbCc\msNb\msNc, palaḍuṃ \msNa</APP>
         <APP>\vb <LEM>kavakāni</LEM> \mssCaCbCc\msNa\msNb\msNc; ca kacāni \Ed</APP>
-        <PARAL>Ł\vab cf.\ Manu 5.5ab: $ laśunaṃ gṛñjanaṃ caiva palāṇḍuṃ kavakāni ca</PARAL>
+        <PARAL><rm>\vab cf.\ Manu 5.5ab: </rm> laśunaṃ gṛñjanaṃ caiva palāṇḍuṃ kavakāni ca</PARAL>
 
 <TEXT> gauraṃ ca śūkaraṃ māṃsaṃ varjayec{ }ca vidhānataḥ||</TEXT> 5.13
         <APP>\vc <LEM>gauraṃ ca</LEM> \eme; gorasva \msCa\msNb, goraś{ }ca \msCb\msCc\msNa\msNc, gauraś{ }ca \Ed\oo
@@ -6200,7 +6210,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\va <LEM>chattrākaṃ</LEM> \msNa\msCa\msCb\msNb\msNc\Ed; chattrāka \msCc\oo
                  <LEM>viḍva°</LEM> \mssCaCbCc\msNb\Ed; vidva° \msNa\msNc</APP>
         <APP>\vb <LEM>gomāṃsaṃ</LEM> \msNa\msCa\msCbpcorr\msCc\msNb\msNc\Ed; gomāñ \msCbacorr</APP>
-        <PARAL>\vab ŁCf. Manu 5.19ab: $ chatrākaṃ viḍvarāhaṃ ca laśunaṃ grāmakukkuṭam</PARAL>
+        <PARAL>\vab <rm>Cf. Manu 5.19ab: </rm> chatrākaṃ viḍvarāhaṃ ca laśunaṃ grāmakukkuṭam</PARAL>
 
 %folioinfo \msM\ 421.jpg lower, f. 10r 
 <TEXT> caṭakaṃ ca kapotaṃ ca jālapādāṃś{ }ca varjayet||</TEXT> 5.14
@@ -6263,19 +6273,19 @@ Manubhāṣya nirbandha Nirajan
         <APP>\vd <LEM>°śaucaṃ paraṃ smṛtam</LEM> \msCa\msNa\msNb\msNc; °śaucaṃ para smṛtam \msCb\msCc,
                                                       °śaucayanaṃ smṛtaḥ \Ed</APP>
         <!-- <TR>Of all the [ways of] purification, material purification is taught to be the highest.</TR> -->
-        <PARAL>\vcd Ł = Manu 5.106ab$</PARAL>
+        <PARAL>\vcd <rm> = Manu 5.106ab</rm></PARAL>
 
 % unmetr
 <TEXT> yo 'rthe hi śuciḥ sa śucir{ }na mṛdvāriśuciḥ śuciḥ|</TEXT>
         <APP>\vab <LEM>yo 'rthe hi śuciḥ sa śucir{ }na</LEM> \mssCaCbCc\msNc\ \unmetr; 
                                 yo 'rthe hi śuciḥ sa śuci na \msNa\msNb, yo 'rthe hi suśucir{ }vipra na \Ed</APP>
         <APP>\vb <LEM>°śuciḥ śuciḥ</LEM> \mssCaCbCc\msNa\msNc; śuci śuciḥ \msNb, °śuciḥ śuci \Ed</APP>
-        <PARAL>\vab Ł\similar\ Manu 5.106cd: $ yo 'rthe śucir{ }hi sa śucir{ }na mṛdvāriśuciḥ śuciḥ</PARAL>
+        <PARAL>\vab <rm>\similar\ Manu 5.106cd: </rm> yo 'rthe śucir{ }hi sa śucir{ }na mṛdvāriśuciḥ śuciḥ</PARAL>
 
 <TEXT> kāyavāṅmanasāṃ śaucaṃ sa śuciḥ sarvavastuṣu||</TEXT> 5.20
         <APP>\vd <LEM>śuciḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; śuci \msCc\oo
                  <LEM>vastuṣu</LEM> \mssCaCbCc\msNa\msNb\Ed; vastuṣuḥ \msNc</APP>
-        <PARAL>\vcd Ł \Ed\ adds here, after pādas cd: $ śaucāśaucavidhir{ }jñātvā mucyate sarvakilbiṣāt</PARAL>
+        <PARAL>\vcd <rm> \Ed\ adds here, after pādas cd: </rm> śaucāśaucavidhir{ }jñātvā mucyate sarvakilbiṣāt</PARAL>
         <!-- <TR>For he who is pure with regards to material things is truly pure,
                 and not he who [only] uses clay and water [i.e. who performs only ordinary baths].
                 When purification pertains to the body, to speech and to the mind, that is purity
@@ -6682,7 +6692,7 @@ Manubhāṣya nirbandha Nirajan
 
 <TEXT> svādhyāyābhyasanaṃ caiva vācikaṃ tapa ucyate||</TEXT> 6.21
         <APP>\vc <LEM>°bhyasanaṃ caiva</LEM> \msCb\msCc\msNa\msNc\Ed; °bhyasana¤¤ \msCa, °bhyasa<UNCL>naṃ</UNCL> caiva \msNb</APP>
-        <PARAL>\vcd Ł \similar\ MBh 6.39.15cd: $ svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate</PARAL>
+        <PARAL>\vcd <rm> \similar\ MBh 6.39.15cd: </rm> svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate</PARAL>
         <!-- <TR>Verbal penance is taught as speech that causes no anxiety,
                 which is kind, true and useful, and [it includes] also the practice of recitation.</TR> -->
 
@@ -6702,7 +6712,7 @@ Manubhāṣya nirbandha Nirajan
         <APP>\va <LEM>iṣṭaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; iṣṭa \msCc\msNb\oo
                  <LEM>°bhāvaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °bhāvaś \Ed</APP>
         <APP>\vb <LEM>pathyaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; satyaṃ \Ed</APP>
-        <PARAL>\vc ŁMBh 5.145.6: $ 
+        <PARAL>\vc <rm>MBh 5.145.6: </rm> 
                 mayā nāgapuraṃ gatvā sabhāyāṃ dhṛtarāṣṭrajaḥ|
                 tathyaṃ pathyaṃ hitaṃ cokto na ca gṛhṇāti durmatiḥ||</PARAL>
 
@@ -6732,9 +6742,9 @@ Manubhāṣya nirbandha Nirajan
 
 <TEXT> maṇḍūkayogī hemante grīṣme pañcatapās{ }tathā|</TEXT>
         <APP>\vb <LEM>grīṣme</LEM> \mssCaCbCc\msNa\msNb\msNc; gṛṣme \Ed</APP>
-        <PARAL>\vab ŁSee MBh and Lalitavistara passages in Umā Playful article (p.627): $
-               maṇḍūkayogī hemante grīṣmapañcā tapās bhavet Ł...
-                also Umā 6.26ab: $maṇḍūkayogo hemante grīṣme pañcatapās{ }tathā|</PARAL>
+        <PARAL>\vab <rm>See MBh and Lalitavistara passages in Umā Playful article (p.627): </rm>
+               maṇḍūkayogī hemante grīṣmapañcā tapās bhavet <rm>...
+                also Umā 6.26ab: </rm>maṇḍūkayogo hemante grīṣme pañcatapās{ }tathā|</PARAL>
 
 % emend to kāśo
 <TEXT> abhrāvakāśe varṣāsu tapaḥ sādhanam{ }ucyate||</TEXT> 6.25
@@ -6747,7 +6757,7 @@ Manubhāṣya nirbandha Nirajan
 
 <TEXT> svamāṃsoddhṛtya dānaṃ ca hastapādaśiras{ }tathā|</TEXT>
         <APP>\va <LEM>dānaṃ</LEM> \mssCaCbCc\msNa\msNc; <UNCL>dāna</UNCL> \msNb\ \toplost, dānaś \Ed</APP>
-        <PARAL>\vab ŁCf. 2.38 and 17.xx ff. $</PARAL>
+        <PARAL>\vab <rm>Cf. 2.38 and 17.xx ff. </rm></PARAL>
 
 <TEXT> puṣpam{ }utpādya dānaṃ{ }ca sarve te tapa sādhanāḥ||</TEXT> 6.26
         <APP>\vc <LEM>dānaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; dānaś \Ed</APP>
@@ -6902,7 +6912,7 @@ CHECK Haracaritacintāmaṇi 30.50ff and ŚDhu 7.27 etc.!
 %folioinfo \msNa\ 204.jpg lower, f.11r
 <TEXT> tasmād{ }annasamaṃ dānaṃ na bhūtaṃ na bhaviṣyati||</TEXT> 7.5
         <APP>\vd <LEM>bhūtaṃ</LEM> \msCc\msNa\msNb\msNc; ×tan \msCa, bhūte \msCb, bhūto \Ed</APP>
-        <PARAL>\vcd Ł = ŚDhU 7.31cd \similar\ MBh 13.62.6ab: $annena sadṛśaṃ dānaṃ na bhūtaṃ na bhaviṣyati</PARAL>
+        <PARAL>\vcd <rm> = ŚDhU 7.31cd \similar\ MBh 13.62.6ab: </rm>annena sadṛśaṃ dānaṃ na bhūtaṃ na bhaviṣyati</PARAL>
         <!-- <TR>Therefore nothing is equal to the donation of food, nothing was, nothing will be.</TR> -->
 
 
@@ -6964,7 +6974,7 @@ CHECK Haracaritacintāmaṇi 30.50ff and ŚDhu 7.27 etc.!
         <APP>\va <LEM>°sattva°</LEM> \mssCaCbCc\msNa\msNb\msNc; °sa ca° \Ed</APP>
 
 <TEXT> pātradravyaviśeṣeṇa phalam{ }āhuḥ pṛthak{ }pṛthak||</TEXT> 7.11
-        <PARAL>\vo Łcf. Manu 7.86--87 (the latter usually labelled as an additional verse): $
+        <PARAL>\vo <rm>cf. Manu 7.86--87 (the latter usually labelled as an additional verse): </rm>
                         pātrasya hi viśeṣeṇa śraddadhānatayāiva ca| 
                         alpaṃ vā bahu vā pretya dānasya phalam{ }aśnute||
                         deśakālavidhānena dravyaṃ śraddhāsamanvitam|
@@ -7032,7 +7042,7 @@ CHECK Haracaritacintāmaṇi 30.50ff and ŚDhu 7.27 etc.!
 
 <TEXT> mucyate sarvapāpebhyo rāhunā candramā yathā||</TEXT> 7.15
         <!-- <TR>he will be freed of all sins, just as the moon is freed from [the demon] Rāhu.</TR> -->
-        <PARAL>\vcd Ł = 22.38 CHECK $</PARAL>
+        <PARAL>\vcd <rm> = 22.38 CHECK </rm></PARAL>
 
 % ma-vipulā:
 <TEXT> dattvā suvarṇaṃ viprebhyo devebhyaś{ }ca dvijarṣabha|</TEXT>
@@ -7189,10 +7199,10 @@ CHECK Haracaritacintāmaṇi 30.50ff and ŚDhu 7.27 etc.!
 <TEXT> viprāya vedaviduṣe dattvānantaphalaṃ smṛtam||</TEXT> 7.25
         <APP>\vd <LEM>dattvānanta°</LEM> \mssCaCbCc\msNa\msNb\msNc; dattvānta° \Ed</APP>
         <!-- <TR>when given to a Veda-knowing Brahmin, [produces] rewards that are said to be endless.</TR> -->
-        <PARAL>\vo Łcf. e.g. MBh 7.58.18: $
+        <PARAL>\vo <rm>cf. e.g. MBh 7.58.18: </rm>
                 tathā gāḥ kapilā dogdhrīḥ sarṣabhāḥ pāṇḍunandanaḥ|
                 hemaśṛṅgī rūpyakhurā dattvā cakre pradakṣiṇam||
-                      Łand Bhaviṣyapurāṇa Uttara 12.25 CHECK: $
+                      <rm>and Bhaviṣyapurāṇa Uttara 12.25 CHECK: </rm>
                 hemaśṛṃgīṃ raupyakhurāṃ saghaṃṭāṃ kāṃsyadohanām| 
                 mahādevāya gāṃ dadyād{ }dīkṣitāya dvijāya vai||</PARAL>
 
@@ -7468,9 +7478,9 @@ named Samrāṭ and Kukṣi were born to Priyavrata.
         <APP>\vb <LEM>°patny{ }api</LEM> \msCa\msCb\msNa\msNb\msNc\msP\Ed; °patnī pi \msCc</APP>
         <!-- <TR>A woman is not to be approached sexually in daytime and 
                 on the four days of the changes of the Moon (Łparvan$), even if she is one's lawful wife. </TR> -->
-        <PARAL>\vab Łcf.\ Manu 11.175 (Olivelle's edition): $
+        <PARAL>\vab <rm>cf.\ Manu 11.175 (Olivelle's edition): </rm>
                          maithunaṃ tu samāsevya puṃsi yoṣiti vā dvijaḥ |
-                         goyāne 'psu divā caiva savāsāḥ snānam{ }ācaret || Łand Manu 3.45 (Olivelle's edition): $
+                         goyāne 'psu divā caiva savāsāḥ snānam{ }ācaret || <rm>and Manu 3.45 (Olivelle's edition): </rm>
                          ṛtukālābhigāmī syāt{ }svadāranirataḥ sadā |
                          parvavarjaṃ vrajec{ }caināṃ tadvrato ratikāmyayā ||</PARAL>
         <NOTE>Understand Łparve$ as Łparvani$ (thematisation of the stem in Ł-an$).</NOTE>
@@ -7549,7 +7559,7 @@ tauryatrikaṃ vṛthāṭyā ca kāmajo daśako gaṇaḥ // Manu_7.47
         <APP>\vc <LEM>hy{ }etāḥ</LEM> \msNc; hy{ }etā \mssCaCbCc\msNa\msNb\msP\Ed</APP>
         <APP>\vd <LEM>striyo</LEM> \mssCaCbCc\msNa\msNb\msNc\msP; strīyo \Ed\oo
                  <LEM>°kīrtitāḥ</LEM> \mssCaCbCc\msNa\msNb\msP\Ed; °kīrtitā \msNc</APP>
-        <PARAL>\vcd Łcf.\ Padmapurāṇa 1.13.395cd: $parityajadhvaṃ dārāṇi svargamārgārgalāni ca</PARAL>
+        <PARAL>\vcd <rm>cf.\ Padmapurāṇa 1.13.395cd: </rm>parityajadhvaṃ dārāṇi svargamārgārgalāni ca</PARAL>
 
         <!-- <TR>Women are called `the bolts [that block the gate to] the path to heaven'.</TR> -->
 
@@ -7722,9 +7732,9 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
 <TEXT> sadopavāsī bhavati yo na bhuṅkte kadācana||</TEXT> 8.21
         <APP>\vc <LEM>°vāsī bhavati</LEM> \msCa\msCb\msNa\msNb\msNc\msP\Ed; °vāsī ca bhavati \msCc</APP>
         <APP>\vd <LEM>kadācana</LEM> \msCa\msCb\msNa\msNb\msNc\msP\Ed; kadācanaḥ \msCc</APP>
-        <PARAL>\vcd \similar\ ŁMBh 12.214.9:  $antarā prātarāśaṃ ca sāyamāśaṃ tathaiva ca|
+        <PARAL>\vcd \similar\ <rm>MBh 12.214.9:  </rm>antarā prātarāśaṃ ca sāyamāśaṃ tathaiva ca|
                                          sadopavāsī ca bhaved yo na bhuṅkte kathaṃcana|| \similar\
-                         ŁMBh 13.93.10: $antarā sāyamāśaṃ ca prātarāśaṃ tathaiva ca|
+                         <rm>MBh 13.93.10: </rm>antarā sāyamāśaṃ ca prātarāśaṃ tathaiva ca|
                                          sadopavāsī bhavati yo na bhuṅkte 'ntarā punaḥ||</PARAL>
                 <!-- <TR>He will be regarded as one that is always fasting 
                         if he never eats between breakfast and dinner.</TR> -->
@@ -8824,7 +8834,7 @@ Dadhīca said:<br>
 
 <TEXT> mānāpamānayos{ }tulyo guṇātītaḥ sa ucyate|| </TEXT> 9.42
         <!-- <TR>to respect and contempt is called `one who is beyond the Łguṇa$s'.</TR> -->
-        <PARAL>\vo Łcf.\ MBh 6.36.24cd--25 (BhG 14.24cd--25): $
+        <PARAL>\vo <rm>cf.\ MBh 6.36.24cd--25 (BhG 14.24cd--25): </rm>
                         tulyapriyāpriyo dhīras{ }tulyanindātmasaṃstutiḥ ||
                         mānāvamānayos{ }tulyas{ }tulyo mitrāripakṣayoḥ |
                         sarvārambhaparityāgī guṇātītaḥ sa ucyate ||
@@ -8920,7 +8930,7 @@ Dadhīca said:<br>
 
 <TEXT> kailāsaśikhare ramye siddhacāraṇasevite|</TEXT>
         <APP>\va <LEM>kailāsa°</LEM> \mssCaCbCc\msNa\msNb\msNc; kailāśe \Ed</APP>
-        <PARAL>\vab Ł cf.\ MBh 12.327.18cd: $ merau girivare ramye siddhacāraṇasevite </PARAL>
+        <PARAL>\vab <rm> cf.\ MBh 12.327.18cd: </rm> merau girivare ramye siddhacāraṇasevite </PARAL>
         <!-- <TR>On a beautiful peak of Mount Kailāsa, which is
                  frequented by Siddhas and celestial singers (Łcāraṇa$),</TR> -->
 
@@ -9057,7 +9067,7 @@ Dadhīca said:<br>
 % Which BhG commentator started to talk about Kurukṣetra being in the body?
 
 <TEXT> sarvayajñaphalāvāptiḥ sarvadānaphalāni ca|</TEXT>
-        <PARAL>\vab Ł\similar\ Umāmaheśvarasaṃvāda 21.48cd: $
+        <PARAL>\vab <rm>\similar\ Umāmaheśvarasaṃvāda 21.48cd: </rm>
                                 sarvayajñaphalāvāptiḥ sarvadānaphalaṃ labhet</PARAL>
         <!-- <TR>[And there will be] the obtaining of the fruits of all sacrifices,
                         the fruits of all [possible] donations,</TR> -->
@@ -9530,13 +9540,13 @@ Dadhīca said:<br>
                  <LEM>°ttama</LEM> \mssCaCbCc\msNa\msNb\Ed; °ttamaḥ \msNc</APP>
         <!-- <TR>O Paraśreṣṭha, O Surottama! Is there another [form of] universal sacrifice,</TR> -->
 % [everybody can do it, accessible to all] 
-        <PARAL>ŁTestimonia for this chapter:    \msCa\ ff.\thinspace 208v--210r,
+        <PARAL><rm>Testimonia for this chapter:    \msCa\ ff.\thinspace 208v--210r,
                                                 \msCb\ ff.\thinspace 214r--215v,
                                                 \msCc\ ff.\thinspace 285v--287v,
                                                 \msNa\ ff.\thinspace 15v--17v,
                                                 \msNb\ ff.\thinspace 221v--223v,
                                                 \msNc\ ff.\thinspace 223v--225v;
-                                                        \mssCaCbCc\ = \msCa + \msCb + \msCc $</PARAL>
+                                                        \mssCaCbCc\ = \msCa + \msCb + \msCc </rm></PARAL>
 
 % See ŚDh 1.7
 % irregular sandhi masc nom? also the other sandhi
@@ -9606,9 +9616,9 @@ Dadhīca said:<br>
         <APP>\vb <LEM>yajñaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; yajña \Ed\oo
                  <LEM>sārvakāmikaḥ</LEM> \msCb\Ed; sarvakālikaḥ \msCa\msNc,
                                    sarvakāmika \msCc, sārvakālikaḥ \msNa, sārvakāmikāḥ \msNb</APP>
-         <PARAL>\vab Ł See a sequence or list of the four āśramas in 4.75: $
+         <PARAL>\vab <rm> See a sequence or list of the four āśramas in 4.75: </rm>
                 gṛhastho brahmacārī ca vānaprastho 'tha bhaikṣukaḥ;
-                Ł see also 5.9: $ 
+                <rm> see also 5.9: </rm> 
                 etac{ }chaucaṃ gṛhasthānāṃ dviguṇaṃ brahmacāriṇām|
                 vānaprasthasya triguṇaṃ yatīnāṃ tu caturguṇam||</PARAL>
         <!-- <TR>Immaterial sacrifice satisfies all desires.</TR> -->
@@ -9632,7 +9642,7 @@ Dadhīca said:<br>
         <APP>\vd <LEM>pravibhāga°</LEM> \msCb; pravibhoga° \msCa\msCc(?)\msNa\msNc\Ed, pratibhoga° \msNb\oo
                  <LEM>°phalā smṛtā</LEM> \msCc; °phalaḥ smṛtaḥ \msCapcorr\msCb\msNa\msNb\msNc, 
                                                 °phala smṛtaḥ \msCaacorr, °pradaḥ smṛtaḥ \Ed</APP>
-                 <PARAL>\vcd ŁSee e.g.\ \BhP\ 6.9.6: $ brahmahatyām{ }añjalinā jagrāha yad{ }apīśvaraḥ|
+                 <PARAL>\vcd <rm>See e.g.\ \BhP\ 6.9.6: </rm> brahmahatyām{ }añjalinā jagrāha yad{ }apīśvaraḥ|
                                     saṃvatsarānte tad{ }aghaṃ bhūtānāṃ sa viśuddhaye|
                                     bhūmyambudrumayoṣidbhyaś{ }caturdhā vyabhajad{ }dhariḥ||</PARAL>
                  <NOTE>Context: Viśvarūpa was a son of Tvaṣṭṛ. Viśvarūpa's heads were struck off by Indra. 
@@ -9923,7 +9933,7 @@ svaśarīre sthitaṃ tīrthaṃ śruto vistarato mayā||13.2
 <TEXT> dakṣiṇām{ }abhayaṃ bhūte dattvā yajñaṃ yajet{ }sadā||</TEXT> 11.23
         <APP>\vc <LEM>°bhayaṃ bhūte</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °bhakṣayam{ }bhūtai \msCb</APP>
         <APP>\vd <LEM>yajñaṃ yajet</LEM> \mssCaCbCc\msNa\msNb\msNc; yajña dadat \Ed</APP>
-        <PARAL>\vc Łcf.\ 22.14ab:$ dakṣiṇābhaya bhūtebhyaḥ paśubandhaḥ svayaṃkṛtaḥ</PARAL>
+        <PARAL>\vc <rm>cf.\ 22.14ab:</rm> dakṣiṇābhaya bhūtebhyaḥ paśubandhaḥ svayaṃkṛtaḥ</PARAL>
         <!-- <TR>He should always perform a sacrifice donating the priestly fee of
              providing being[s] with freedom from danger.</TR> -->
 
@@ -9964,14 +9974,14 @@ svaśarīre sthitaṃ tīrthaṃ śruto vistarato mayā||13.2
 %folioinfo \Ed\ p.615
 <TEXT> dvitīyam{ }āśramaṃ devi sarvapāpavināśanam||</TEXT> 11.26
         <APP>\vd <LEM>°vināśanam</LEM> \mssCaCbCc\msNa\msNc\Ed; °pranāśanam \msNb</APP>
-        <PARAL>\vcd Ł cf.\ MBh 12.184.10A: $ gārhasthyaṃ khalu dvitīyam āśramaṃ vadanti</PARAL>
+        <PARAL>\vcd <rm> cf.\ MBh 12.184.10A: </rm> gārhasthyaṃ khalu dvitīyam āśramaṃ vadanti</PARAL>
         <!-- <TR>[This is] the second life-stage, O Devī, the destroyer of all sins.</TR> -->
 
 %folioinfo \msCc\ 216.jpg                         EMENDATION
 <TEXT> vrataṃ brahmaparaṃ dhyānaṃ sāvitrī prakṛti{-}r{-}layam|</TEXT>
         <APP>\va <LEM>°paraṃ dhyānaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °parijñānaṃ \Ed</APP>
         <APP>\vb <LEM>°kṛtir{ }layam</LEM> \msCa\msNa\msNc\Ed; °kṛtālayam \msCb, °kṛtīlayam \msCc, °kṛtilaḥ \msNb</APP>
-        <PARAL>\vab Łcf.\ 16.8cd$</PARAL>
+        <PARAL>\vab <rm>cf.\ 16.8cd</rm></PARAL>
         <NOTE>One could emend Łprakṛtir layam$ in pāda b to Łprakṛtau layaḥ$,
                 but I retained the reading of \msCa\msNa\msNc\Ed because
                 it may have been the original way to make the compound Łprakṛtilaya$
@@ -10065,7 +10075,7 @@ svaśarīre sthitaṃ tīrthaṃ śruto vistarato mayā||13.2
         <!-- <TR>One's mother is the material realm,
                      one's father the supreme spirit.</TR> -->
         <APP>\va <LEM>smṛto</LEM> \msCa\msCc\msNa\msNb\msNc; ×× \msCb, smṛtau \Ed</APP>
-        <PARAL>\vab Łcf.\ 22.10ab:$ adhyātmanagarasphītaḥ adhibhūtajanākulaḥ</PARAL>
+        <PARAL>\vab <rm>cf.\ 22.10ab:</rm> adhyātmanagarasphītaḥ adhibhūtajanākulaḥ</PARAL>
         % see adhyātmika as sāṃkhyayoga in Niśv mukha
 
 %index_grammar: licence bhr !
@@ -10139,7 +10149,7 @@ svaśarīre sthitaṃ tīrthaṃ śruto vistarato mayā||13.2
         <!-- <TR>He should perform sacrifice to Śiva [with/as?] the worship of the eight [yogic?] practices.</TR> -->
         <APP>\va <LEM>°yajñaṃ</LEM> \msCa\msCb\msNa\msNb\Ed; °yajña \msCc\msNc</APP>
         <APP>\vb <LEM>°pūjanam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °pūjikaṃ \msCc</APP>
-        <PARAL>\vb Łcf.\ Dharmaputrikā 2.1:$ 
+        <PARAL>\vb <rm>cf.\ Dharmaputrikā 2.1:</rm> 
                 aṣṭabhiḥ sādhanair{ }ebhiś{ }cittaṃ kāyañ{ }ca yatnataḥ|
                 śodhayitvā tato yogī yogābhyāsaṃ samācaret||</PARAL>
 % correct DhP dn text: samācareta
@@ -10156,7 +10166,7 @@ svaśarīre sthitaṃ tīrthaṃ śruto vistarato mayā||13.2
        <APP>\vb <LEM>°sayet</LEM> \eme; °śrayet \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
          <!-- <TR>Having bathed and having sipped water [there],
              he should take honour the three junctures of the day.</TR> -->
-        <PARAL>\vb ŁSee 11.59cd:$ śivasya hṛdayaṃ saṃdhyā tasmāt{ }saṃdhyām{ }upāsayet</PARAL>
+        <PARAL>\vb <rm>See 11.59cd:</rm> śivasya hṛdayaṃ saṃdhyā tasmāt{ }saṃdhyām{ }upāsayet</PARAL>
 % upāśrayet can be OK
 
 % TENTATIVE
@@ -10277,7 +10287,7 @@ REVISE
 
 <TEXT> ! janmavyādhiharam{ }akarmadahanaṃ sevet{ }sa dharmottamam||</TEXT> 11.43
         <APP>\vc <LEM>sevet{ }sa</LEM> \msCa\msCb\msNa\msNc\Ed; seve sa \msCc, sevet{ }ta \msNb</APP>
-        <PARAL>\vcd ŁAfter this line, \Ed\ adds the following Śārdūlavikrīḍita line: $
+        <PARAL>\vcd <rm>After this line, \Ed\ adds the following Śārdūlavikrīḍita line: </rm>
                  śraddhāpūrvakam{ }eva yaḥ saniyamaṃ sākṣāc{ }ca jīvan{ }śivaḥ</PARAL>
         <!-- <TR>removes rebirth, disease and burns his bad karma.</TR> -->
 % śevet \msNa       
@@ -10300,14 +10310,14 @@ REVISE
         <APP>\vc <LEM>°duḥkhaṃ</LEM> \msCb; °duḥkha \msCa\msCc\msNa\msNb\msNc\Ed</APP>
         <APP>\vd <LEM>lobhamoha°</LEM> \msCb; lābhālobha° \msCa\msNa\msNb\msNc, lābhalobha° \msCc, lābhālābha° \Ed\oo
                  <LEM>°varjitaḥ</LEM> \mssCaCbCc\msNa\msNc\Ed; °varjitāḥ \msNb</APP>
-        <PARAL>\vd Ł cf.\ 4.71: $  
+        <PARAL>\vd <rm> cf.\ 4.71: </rm>  
                      kāmaḥ krodhaś{ }ca lobhaś{ }ca mohaś{ }caiva caturvidhaḥ|
                      catuḥśatrur{ }nihantavyaḥ sarvathā vītakalmaṣaḥ||</PARAL>
         <!-- <TR>Making joy and pain equal, he gets rid of greed and folly.</TR> -->
 
 <TEXT> varjayen{ }madhu māṃsāni paradārāṃś{ }ca varjayet|</TEXT>
         <APP>\va <LEM>varjayen</LEM> \msCa\msNb; varjayet \msCb\msCc\msNa\msNc\Ed</APP>
-        <PARAL>\va = ŁKūrmapurāṇa 2.27.12a etc.$</PARAL>
+        <PARAL>\va = <rm>Kūrmapurāṇa 2.27.12a etc.</rm></PARAL>
         <!-- <TR>He should avoid honey and meat, as well as others' wives.</TR> -->
 % honey or alcohol either...
 
@@ -10399,7 +10409,7 @@ REVISE
                  <LEM>°satya°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °saṃtya° \msCc</APP>
         <APP>\vd <LEM>nirmamo</LEM> \msNc\Ed; nirmāṃso \mssCaCbCc\msNa, nirmaṃso \msNb\oo
                  <LEM>°kṛtaḥ</LEM> \mssCaCbCc\msNb\msNc; °kṛtaṃ \msNa, °kṛtiḥ \Ed</APP>
-                 <PARAL>\vcd Łcf. BhG 2.45cd: $nirdvandvo nityasatvastho niryogakṣema ātmavān</PARAL>
+                 <PARAL>\vcd <rm>cf. BhG 2.45cd: </rm>nirdvandvo nityasatvastho niryogakṣema ātmavān</PARAL>
         <!-- <TR>He is indifferent to the opposites [such as cold and heat, good and bad],
                  dwells always in truthfulness, unselfish, humble.</TR> -->
                  % \vd Ł = Brahmapurāṇa 244.37.$
@@ -10428,7 +10438,7 @@ REVISE
         <!-- <TR>He should not stick to items of clothes, food or a bed for long.</TR> -->
 
 <TEXT> nābhinandeta maraṇaṃ nābhinandeta jīvitam|</TEXT>
-        <PARAL>\vab Ł= MBh 12.237.15ab, Manu 6.45ab, Nāradaparivrājakopaniṣad 3.61cd. $</PARAL>
+        <PARAL>\vab <rm>= MBh 12.237.15ab, Manu 6.45ab, Nāradaparivrājakopaniṣad 3.61cd. </rm></PARAL>
         <!-- <TR>He should nor rejoice in death, he should not rejoice in life.</TR> -->
 
 %folioinfo \msNa\ 211.jpg upper, f. 17v
@@ -10475,7 +10485,7 @@ REVISE
         <APP>\vb <LEM>tūṇaṃ pūrṇam{ }u°</LEM> \emeGoodall; tūṇṇāpūrṇṇam{ }u° \msCa,
                       tūṇāpūrṇṇam{ }u° \msCb, tū<UNCL>na</UNCL>pūrṇṇam{ }u° \msCc,
                       tūṇṇāpūṇṇām{ }u° \msNa, tūrṇṇāpūrṇṇam{ }u° \msNb\msNc, tūṇīpūrṇam{ }u° \Ed</APP> 
-        <PARAL>\vo ŁCf.\ 4.72: $ caturāyatanaṃ vipra kathayiṣyāmi tac{ }chṛṇu|
+        <PARAL>\vo <rm>Cf.\ 4.72: </rm> caturāyatanaṃ vipra kathayiṣyāmi tac{ }chṛṇu|
                                  karuṇāmuditopekṣāmaitrī cāyatanaṃ smṛtam||</PARAL>
         <NOTE>Note the Buddhist terms Łmuditā$ and Łupekṣā$ in this verse.</NOTE>
 
@@ -10493,7 +10503,7 @@ REVISE
 
 <TEXT> śivasya hṛdayaṃ saṃdhyā tasmāt{ }saṃdhyām{ }upāsayet||</TEXT> 11.59
         <APP>\vd <LEM>°sayet</LEM> \msCa\msCc\msNb; °śayet \msCb\msNa, °śrayet \msNc\Ed</APP>
-        <PARAL>\vo \similar\ Ł Saubhāgyabhāskara of Bhāskararāya ad Lalitāsahasranāmastotra 302: $
+        <PARAL>\vo \similar\ <rm> Saubhāgyabhāskara of Bhāskararāya ad Lalitāsahasranāmastotra 302: </rm>
                 brahmaṇo hṛdayaṃ viṣṇur{ }viṣṇor{ }api śivaḥ smṛtaḥ|
                 śivasya hṛdayaṃ sandhyā tenopāsyā dvijātibhiḥ||
                 iti kaśyapādivacanaiḥ kaurmapādmaskāndādinikhilapurāṇeṣu ca tatra 
@@ -10667,7 +10677,7 @@ the king of the Gandharvas
 
 %folioinfo \msCa\ image 416.jpg
 <TEXT> dharmanityo jitakrodhaḥ satyavādī jitendriyaḥ|</TEXT>
-        <PARAL>\vb Ł = MBh 12.218.13b $</PARAL>
+        <PARAL>\vb <rm> = MBh 12.218.13b </rm></PARAL>
         <!-- <TR>He always followed his Dharma, he conquered anger, he spoke only
                                  the truth and he conquered his senses.</TR> -->
 
@@ -10812,7 +10822,7 @@ the king of the Gandharvas
                  <LEM>°śita°</LEM> \eme; °śrita° \mssCaCbCc\msNa\msNb\msNc\Ed\oo
                  <LEM>°vrata</LEM> \conj; °vra¤ \msCa, °vrataḥ \msCb\msCc\msNa\msNb\msNc\Ed</APP>
         <!-- <TR>Vipula joined his hands [and said:] ``O virtuous Brahmin,</TR> -->
-        <PARAL>\vd Ł = MBh 12.213.18d and 12.347.1d $</PARAL>
+        <PARAL>\vd <rm> = MBh 12.213.18d and 12.347.1d </rm></PARAL>
 
 <TEXT> ājñāpaya dvijaśreṣṭha adya me 'nugrahaṃ kuru|</TEXT>
         <APP>\vb <LEM>°grahaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °graha \msCb</APP>
@@ -10939,7 +10949,7 @@ kalyā<UNCL>ṇa</UNCL> \msCc
 
 <TEXT> mandapālo dvijaśreṣṭho gataḥ svargaṃ tapobalāt||</TEXT> 12.24
         <APP>\vc <LEM>°pālo</LEM> \msNc\Ed; °pāla \mssCaCbCc\msNa\msNb</APP>
-        <PARAL>\vc ŁSee Mandapāla's story in MBh 1.220.5ff.$</PARAL>
+        <PARAL>\vc <rm>See Mandapāla's story in MBh 1.220.5ff.</rm></PARAL>
         <!-- <TR>Mandapāla, the great Brahmin, went to heaven as a reward of his austerities.</TR> -->
 %index_persons: Mandapāla
 
@@ -11139,16 +11149,16 @@ prabhāvena \msNa\msNb\msNc CHECK other MSS
                 <!-- <TR>The best time is the time of the eclipse of the Sun.
                 The best one among the rivers is the Gaṅgā.</TR> -->
 % \msNcpcorr is perhaps in another hand
-        <PARAL>\vc Łcf.\ e.g.\ Āgamakalpalatā 3.128:$
+        <PARAL>\vc <rm>cf.\ e.g.\ Āgamakalpalatā 3.128:</rm>
                 sūryagrahaṇakālasya samānā nāsti bhūtale |
                 atra yad{ }yat{ }kṛtaṃ karma anantaphaladaṃ bhavet ||
-                Łcf.\ also Agastyasaṃhitā X.XXcd (on the proper date for initiation): $
+                <rm>cf.\ also Agastyasaṃhitā X.XXcd (on the proper date for initiation): </rm>
                 sūryagrahaṇakālena samāno nāsti kaścana  
-                Łalso ibid. X.XX (on image installation): $
+                <rm>also ibid. X.XX (on image installation): </rm>
                 sūryagrahe mahāpuṇye kurukṣetre vidhānataḥ |
                 kṛtair{ }yat{ }puṇyam{ }āpnoti tulāpuruṣakādibhiḥ ||
-                tatpuṇyaṃ prāpnuyāmartyaḥ Ł...$</PARAL>
-       <PARAL>\vd Ł\similar\ 15.18b: $ śreṣṭhā gaṅgā nadīṣu ca</PARAL>
+                tatpuṇyaṃ prāpnuyāmartyaḥ <rm>...</rm></PARAL>
+       <PARAL>\vd <rm>\similar\ 15.18b: </rm> śreṣṭhā gaṅgā nadīṣu ca</PARAL>
        <NOTE>I understand Łgrahaḥ sūryo$ in pāda c as Łsūryagrahaḥ$ (or Łsūryagrahaṇam$):
                the eclipse of the Sun, which appears to be an auspicious day. See parallels in the apparatus.</NOTE>
         % See the sāraśreṣṭha chapter
@@ -12502,7 +12512,7 @@ stambhāṇi \msCc
         <APP>\vcd <LEM>vimānakoṭikoṭīnāṃ sarvakāmasamanvitam</LEM> \msCb\msCc\msNa\msNc; 
                         vimānakoṭikoṭīśaṃ sarvakāmasamanvitam \msCa, ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ \msNb, \om\ \Ed</APP>
         <!-- <TR>and millions and millions of floating aerial palaces possessing everything wished for.</TR> -->
-        <PARAL>\vo Łcf.\ ŚDhŚ 10.41 (on the results of an observance): $
+        <PARAL>\vo <rm>cf.\ ŚDhŚ 10.41 (on the results of an observance): </rm>
                 sūryakoṭipratīkāśair{ }vimānaiḥ sārvakāmikaiḥ|
                 rudrakanyāsamākīrṇair{ }mahāvṛṣabhasaṃyutaiḥ||</PARAL>
         <NOTE>Perhaps understand Łvimānakoṭikoṭīnāṃ$ as Łvimānakoṭīnāṃ koṭiḥ$ and
@@ -12864,8 +12874,8 @@ not in C107 8320.jpg lower
 <TEXT> chittvā mohāndhaśatruṃ vrajasi ca paramaṃ brahmabhūyatvam{ }eṣi||</TEXT> 12.151
         <APP>\vd <LEM>°śatruṃ</LEM> \msCa\msNa\msNb\msNc\Ed; °śatru \msCb\msCc\oo
                  <LEM>paramaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; parama \msNb</APP>
-        <PARAL>\vd Łcf.\ Manu 1.98cd: $ sa hi dharmārtham{ }utpanno brahmabhūyāya kalpate
-                Łand Manu 12.102cd: $ ihaiva loke tiṣṭhan{ }sa brahmabhūyāya kalpate</PARAL>
+        <PARAL>\vd <rm>cf.\ Manu 1.98cd: </rm> sa hi dharmārtham{ }utpanno brahmabhūyāya kalpate
+                <rm>and Manu 12.102cd: </rm> ihaiva loke tiṣṭhan{ }sa brahmabhūyāya kalpate</PARAL>
         <!-- <TR>Killing the enemy who is the darkness of illusions, 
                         and you will reach the ultimate, the absorption into the Brahman.''</TR> -->
 
@@ -13068,7 +13078,7 @@ not in C107 8320.jpg lower
 % lehyaṃ
 <TEXT> śayanāsanayānāni vastrāṇy{ }ābharaṇāni ca|</TEXT>
 <TEXT> yad{ }yad{ }ākāṃkṣate kiṃcit{ }tat{ }tad{ }āsyai pradāpayet||</TEXT> 13.
-        <PARAL> \vo ŁCf.\ MBh 13.40.12:$
+        <PARAL> \vo <rm>Cf.\ MBh 13.40.12:</rm>
         śayyāsanam alaṃkāram annapānam anāryatām
         durvāgbhāvaṃ ratiṃ caiva dadau stgrībhyaḥ prajāpatiḥ</PARAL>
 % read pānāni? see Bṛhatkālottara Gaurīyāna 90
@@ -13385,12 +13395,12 @@ TEXT TEXT
                  I do not know about its location or form or colour, O Īśvara.</TR> -->
         % sthāna is illegible in \msCa
         % rūpavarṇa \Ed
-        <PARAL>ŁTestimonia for this chapter: \msCa\ ff.\thinspace 219r--220r, 
+        <PARAL><rm>Testimonia for this chapter: \msCa\ ff.\thinspace 219r--220r, 
                                              \msCb\ ff.\thinspace 222v--223v, 
                                              \msCc\ is not available for this chapter,
                                              \msNa\ ff.\thinspace 26r--27r, 
                                              \msNb\ ff.\thinspace 230v--231r, 
-                                             \msNc\ ff.\thinspace 234r--235r$</PARAL>
+                                             \msNc\ ff.\thinspace 234r--235r</rm></PARAL>
 
 <TEXT> etat{ }kautūhalaṃ chindhi saṃśayaṃ parameśvara|</TEXT>
         <APP>\va <LEM>etat{ }kautūhalaṃ</LEM> \msCa\msCb\msNa\msNb\Ed; etat{ }kautūlaṃ \msNc\oo
@@ -13540,7 +13550,7 @@ TEXT TEXT
                  <LEM>yadā devi</LEM> \msCa\msCb\msNa\msNb\msNc; tathā dehī \Ed</APP>
         <!-- <TR>there is no perceivable difference when the pot is broken to pieces, O Viśālākṣī.
                   [Similarly,] when the body perishes, O goddess, there is no perceivable destruction [of the soul].</TR> -->
-        <PARAL>\vo Łcf.\ Bhāgavatapurāṇa 12.5.5: $
+        <PARAL>\vo <rm>cf.\ Bhāgavatapurāṇa 12.5.5: </rm>
                          ghaṭe bhinne ghaṭākāśa ākāśaḥ syād yathā purā|
                          evaṃ dehe mṛte jīvo brahma sampadyate punaḥ||</PARAL>
 
@@ -13553,7 +13563,7 @@ TEXT TEXT
                  <LEM>saḥ</LEM> \msCa\msCb\msNa\msNb\msNc; sa \Ed</APP>
         <!-- <TR>It is extremely subtle, omnipresent, pervasive, it is the supreme soul, it is imperishable.
              It is outside and inside the living beings. It is immovable and moving.</TR> -->
-        <PARAL>\vcd Ł\similar\ MBh 6.35.15ab: $ bahir antaś{ }ca bhūtānām acaraṃ caram{ }eva ca</PARAL>
+        <PARAL>\vcd <rm>\similar\ MBh 6.35.15ab: </rm> bahir antaś{ }ca bhūtānām acaraṃ caram{ }eva ca</PARAL>
         <NOTE>Note Łparamātmānam$ for Łparamātmā$.</NOTE>
 MBh check context in more detail:
 06035012c anādimat paraṃ brahma na sat tan nāsad ucyate
@@ -13570,7 +13580,7 @@ MBh check context in more detail:
         <APP>\vab <LEM>(aprameyoŁ...$ prapañcakaḥ)</LEM> \msCa\msCb\msNa\msNc\Ed; \om\ \msNb</APP>
 
 <TEXT> sarvendriyaguṇābhāsaḥ sarvendriyavivarjitaḥ||</TEXT> 15.14
-        <PARAL>\vcd Ł\similar\ MBh 6.35.14ab: $ sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam</PARAL>
+        <PARAL>\vcd <rm>\similar\ MBh 6.35.14ab: </rm> sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam</PARAL>
         <!-- <TR>It is immeasurable, imperishable, unmanifest and manifest.
                  It appears as having the qualities of all the senses but is devoid of senses.</TR> -->
                          Agnipurāṇa: 
@@ -13818,12 +13828,12 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\vb <LEM>°sadbhāva°</LEM> \msCa\msCb\msNa\msNb\Ed; °saṃdbhāva° \msNc\oo
                  <LEM>°nirṇayam</LEM> \msCa\msCb\msNa\msNb\msNc; °nirṇayaḥ \Ed</APP>
         <!-- <TR>Now I would like to hear the exposition of the essence of yoga.</TR> -->
-        <PARAL>\vo Ł  \msCa\ 435.jpg line 2; 
+        <PARAL>\vo <rm>  \msCa\ 435.jpg line 2; 
                       \msCb\ 448.jpg line 2;
                       This chapter is missing in \msCc.
                       \msNa\ 220.jpg lower image line 5; 
                       \msNb\ 65.jpg upper image line 6;
-                      \msNc\ f. 235r line 3$</PARAL>
+                      \msNc\ f. 235r line 3</rm></PARAL>
 
 % the things you actually do, theory, Francesco;  check Niśvā: preparation of the body Nirajan 
 <TEXT> karaṇaṃ ca yathānyāyaṃ kathayasva sureśvara||</TEXT> 16.1
@@ -13863,7 +13873,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <!-- <TR>He who engages in Prāṇāyāma for [just] half a moment or for a moment,</TR> -->
         <APP>\va <LEM>muhūrtārdhe muhūrte vā</LEM> \msCa\msNb\msNc; muhūrtārdhe vā \msCb,
                 muhūrttārddha muhūrte vā \msNa, muhūrtārdhamuhūrtaṃ ca \Ed</APP>
-        <PARAL>\vo Ł cf.\ 16.10. $</PARAL>
+        <PARAL>\vo <rm> cf.\ 16.10. </rm></PARAL>
         % Flo phps change to mānas tu
         % Francesco : 2 persons?
 
@@ -13877,7 +13887,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\vd <LEM>narāt</LEM> \msCb\msNa\msNc; narān \msCa\msNb\Ed</APP>
         <!-- <TR>[and] focuses on the object to be visualized (dhyeya) will have those sins destroyed ...
                          [kṣaṇāt? cf. parallel] </TR> -->
-        <PARAL>\vo Ł \similar\ a citation in Kauṇḍinya's commentary ad \PS\ 5.24: $
+        <PARAL>\vo <rm> \similar\ a citation in Kauṇḍinya's commentary ad \PS\ 5.24: </rm>
                 muhūrtārdhaṃ muhūrtaṃ vā prāṇāyāmāntare 'pi vā| 
                 dhyeyaṃ cintayamānas{ }tu pāpaṃ kṣapayate naraḥ|| </PARAL>
         % ask Peter about this section if it is OK this way in Kauṇḍinya
@@ -13887,7 +13897,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <!-- <TR>Mighty [balavat] Yama, the cruel Ender, frightening-looking death</TR> -->
         <APP>\vb <LEM>mṛtyur{ }bhī°</LEM> \msCa\msCb\Ed; mṛtyu bhī° \msNa\msNb\msNc\oo 
                  <LEM>bhīmavigrahaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; nāpavigrahaḥ \Ed</APP>
-                 <PARAL>\vab \similar\ Ł MBh 12.289.25ab: $ na yamo nāntakaḥ kruddho na mṛtyur{ }bhīmavikramaḥ</PARAL>
+                 <PARAL>\vab \similar\ <rm> MBh 12.289.25ab: </rm> na yamo nāntakaḥ kruddho na mṛtyur{ }bhīmavikramaḥ</PARAL>
 
 %folioinfo \msNa\ 221.jpg upper
 % mahātmāno metri causa
@@ -13915,10 +13925,10 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\vd <LEM>nigrahāt</LEM> \msCa\msCb\msNa\msNc\Ed; nigrahān \msNb</APP>
         <!-- <TR>in the same way sins are surely burnt away by the control of the breath.</TR> -->
         % Niranjana : dharmaśāstric concept? Āpastamb; Vass the heat takes away the faults
-        <PARAL>\vo  Ł \similar\ Bhaviṣyapurāṇa 1.145.9: $
+        <PARAL>\vo  <rm> \similar\ Bhaviṣyapurāṇa 1.145.9: </rm>
                                 dhyāyamānasya dahyante cānte doṣā yathāgninā|
                                 tathendriyakṛtā doṣā dahyante prāṇanigrahāt||
-                    Ł \similar\ Gheraṇḍasaṃhitā (ed.\ Thomi) 4.11: $
+                    <rm> \similar\ Gheraṇḍasaṃhitā (ed.\ Thomi) 4.11: </rm>
                                 yathā parvatadhātūnāṃ doṣā dahyanti dhāmyatām|
                                 tathendriyakṛtā doṣā dahyante prāṇanigrahāt||</PARAL>
 
@@ -13937,13 +13947,13 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 % ma-vipulā
 <TEXT> yajñena devān{ }āpnoti rājyaṃ vai tapasaḥ phalam|</TEXT>
         <APP>\va <LEM>devān{ }āpnoti</LEM> \msCa\msCb\msNa\msNbpcorr\msNc\Ed; devāpnoti \msNbacorr</APP>
-        <PARAL>\vo \similar\ Ł Agnipurāṇa 378.1: $ 
+        <PARAL>\vo \similar\ <rm> Agnipurāṇa 378.1: </rm> 
                 yajñaiś{ }ca devān{ }āpnoti vairājaṃ(?)\ tapasā padam|
                 brahmaṇaḥ karmasannyāsād{ }vairāgyāt{ }prakṛtau layam||
-                \similar\ Ł Maskarin's commentary CHECK ad Gautamadharmasūtra 3.1: $
+                \similar\ <rm> Maskarin's commentary CHECK ad Gautamadharmasūtra 3.1: </rm>
                         yajñena devān{ }āpnoti vairājaṃ(!)\ tapasā punaḥ|
                         saṃnyāsād{ }brahmaṇaḥ sthānaṃ vairāgyāt{ }prakṛtau layam||
-                Łcf.\ ŚDhU 3.40: $
+                <rm>cf.\ ŚDhU 3.40: </rm>
                 yajñena devān{ }āpnoti taporbhir{ }brahmaṇaḥ padam|
                 dānena vividhān{ }bhogān jñānān{ }mokṣam{ }avāpnuyāt||</PARAL>
                 % Agnipurāṇa check if larger 
@@ -13958,7 +13968,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\vc <LEM>°d{ }brahmaṇaḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °d{ }brāhmaṇaḥ \msNb</APP>
         <APP>\vd <LEM>vairāgyāt{ }prakṛtālayam</LEM> \msCa\msNa\msNb\msNc\Ed;
                                                         mahātmāno prakṛtālayam \msCb\ (Łeyeskip to 16.5c?$)</APP>
-                 <PARAL>\vcd Łcf.\ 11.27ab above$</PARAL>
+                 <PARAL>\vcd <rm>cf.\ 11.27ab above</rm></PARAL>
         <!-- <TR>By sacrifice, one can reach the gods [Veda?]. The result of austerities is sovereignty [in yoga?].
                  By renunciation, one reaches Brahmā's place, and by indifference, Prakṛti's abode. </TR> -->
         vairāgyāt{ }prakṛtau layam \eme; vairāgyāt{ }prakṛtālayam \msCa\msNa\msNb\msNc\Ed,
@@ -13985,7 +13995,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
                          muhūrtārdha muhūrtaṃ vā \Ed</APP>
         <APP>\vb <LEM>yogaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; yoga \msNb\oo
                  <LEM>yogavit</LEM> \msCa\msCb\msNa\msNb\Ed; yovit \msNc</APP>
-        <PARAL>\vo Ł cf.\ 16.4. $</PARAL>
+        <PARAL>\vo <rm> cf.\ 16.4. </rm></PARAL>
 
 %folioinfo \msM\ 437.jpg upper, f. 29v
 <TEXT> nistaret{ }sarvapāpāni amṛtatvaṃ ca gacchati||</TEXT> 16.10
@@ -14078,7 +14088,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 %folioinfo \msCb\ 449.jpg
 <TEXT> ardhacandraṃ ca daṇḍaṃ ca paryaṅkaṃ bhadram{ }eva ca||</TEXT> 16.16
         <APP>\vd <LEM>paryaṅkaṃ</LEM> \msCb\msNa\msNb\msNc\Ed; pa¤ṅkaṃ \msCa</APP>
-        <PARAL>\vo Ł cf.\ Sarvajñānottara 27:9cd--10ab: $ 
+        <PARAL>\vo <rm> cf.\ Sarvajñānottara 27:9cd--10ab: </rm> 
                 padmakaṃ svastikaṃ vāpi upasthāñjalikaṃ tathā|| 
                 pīṭhārdham{ }ardhacandraṃ vā sarvatobhadram{ }eva vā|</PARAL>
         <!-- <TR>[The āsanas are:] padmaka, svastika, niṣkala, añjali, ardhacandra, daṇḍa, paryaṅka, and bhadra.</TR> -->
@@ -14108,7 +14118,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 
 <TEXT> samaṃ kāyaśirogrīvaṃ dhārayann{ }acalasthitaḥ||</TEXT> 16.17
         <APP>\vc <LEM>samaṃ</LEM> \msCa\msCb\msNa\Ed; sama° \msNb\msNc</APP>
-        <PARAL>\vcd \similar\ Ł MBh 6.28.13ab (BhG 6.13ab): $ samaṃ kāyaśirogrīvaṃ dhārayann acalaṃ sthiraḥ</PARAL>
+        <PARAL>\vcd \similar\ <rm> MBh 6.28.13ab (BhG 6.13ab): </rm> samaṃ kāyaśirogrīvaṃ dhārayann acalaṃ sthiraḥ</PARAL>
         <!-- <TR>holding his trunk, head and neck level, staying [in the position] without any movement.</TR> -->
         % Sarvajñānottara: āsanaṃ ruciraṃ baddhvā ūrdhvakāyaḥ samaṃ śiraḥ 27:10
         % Nirajan this is the karaṇa
@@ -14122,8 +14132,8 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
                                 breat-controll (prāṇayāma), concentration (dhāraṇā),</TR> -->
 
 <TEXT> tarkaś{ }caiva samādhiś{ }ca ṣaḍaṅgo yoga ucyate||</TEXT> 16.18
-     <PARAL>\vo Ł = Dharmaputrikā 1.13 (with $ prāṇāyāmo 'tha Ł ) $
-             Ł cf.\ Sarvajñānottaravṛtti ad Yogapāda 27(?).1: $ 
+     <PARAL>\vo <rm> = Dharmaputrikā 1.13 (with </rm> prāṇāyāmo 'tha <rm> ) </rm>
+             <rm> cf.\ Sarvajñānottaravṛtti ad Yogapāda 27(?).1: </rm> 
              yad{ }uktaṃ śrīmanmataṅge|
                 prāṇāyāmas{ }tathā dhyānaṃ pratyāhāro 'tha dhāraṇam|
                 tarkaś{ }caiva samādhiś{ }ca ṣaḍaṅgo yoga ucyate iti||</PARAL>
@@ -14147,7 +14157,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 <TEXT> manasākarṣayed{ }yas{ }tu pratyāhāraḥ sa ucyate||</TEXT> 16.19
         <APP>\vc <LEM>manasā°</LEM> \msCa\msCb\msNa\msNb\msNc; manamā° \Ed</APP>
         <APP>\vd <LEM>pratyāhāraḥ sa</LEM> \msCa\msCb\msNa\msNb\msNc; pratyahāras{ }tad \Ed</APP>
-        <PARAL>\vo \similar\ Ł Dharmaputrikā 1.14: $ 
+        <PARAL>\vo \similar\ <rm> Dharmaputrikā 1.14: </rm> 
                 viṣayeṣv{ }atisaktāni indriyāṇi prati prati|
                 cittenākarṣaṇaṃ yatra pratyāhāraḥ sa ucyate||</PARAL>
         <!-- <TR>with the help of the mind is called withdrawal of the senses. </TR> -->
@@ -14157,8 +14167,8 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 %viṣayāṃ \msNa
 <TEXT> śabdādiviṣayān{ }devi vartulīkṛtya dhārayet|</TEXT>
         <APP>\va <LEM>°viṣayān{ }de°</LEM> \msCa\msNa\msNb\msNc\Ed; viṣayā de° \msCb</APP>
-        <PARAL>\vo Ł cf.\ Dharmaputrikā 1.16cd: 
-                $ ekatra vartulīkṛtya dhyeye vastuni yojayet </PARAL>
+        <PARAL>\vo <rm> cf.\ Dharmaputrikā 1.16cd: 
+                </rm> ekatra vartulīkṛtya dhyeye vastuni yojayet </PARAL>
         <!-- <TR>O Devī, [the yogin] should concentrate on the [five] 
                 sense-objects beginning with sound after he has made them into a ball.</TR> -->
 
@@ -14171,16 +14181,16 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\va <LEM>ātmā</LEM> \msCa\msCb\msNa\msNb\msNc; ātma \Ed\oo
                  <LEM>dhyātā</LEM> \msCa\msCb\msNa\msNc\Ed; dhyātaṃ \msNb</APP>
         <APP>\vb <LEM>paraḥ śivaḥ</LEM> \msCb\msNa\msNb\msNc; paraśivaḥ \msCa\Ed\ \unmetr</APP>
-        <PARAL>\vo Ł \similar\ Śivadharmottara 10.49: $
+        <PARAL>\vo <rm> \similar\ Śivadharmottara 10.49: </rm>
                 dhyātā dhyānaṃ tathā dhyeyaṃ yac{ }ca dhyāne prayojanam|
                 etac{ }catuṣṭayaṃ jñātvā yogaṃ yuñjīta yogavit||
-                Ł \similar\ Dharmaputrikā 1.18: $
+                <rm> \similar\ Dharmaputrikā 1.18: </rm>
                 dhyeyaḥ śivo dhyātṛ mano dhyānam{ }ekāgracittatā|
                 duḥkhahānir{ }guṇaiśvaryaṃ svātantryañ{ }ca prayojanam||
-                Ł \similar\ Sarvajñānottara Yogapāda 27(?):4: $
+                <rm> \similar\ Sarvajñānottara Yogapāda 27(?):4: </rm>
                 ātmā dhyātā mano dhyānaṃ dhyeyaḥ sūkṣmo maheśvaraḥ|
                 yat{ }paraṃ paramaiśvaryam etad{ }dhyānaprayojanam||
-                \similar\ Ł Agnipurāṇa 165.22cd: $
+                \similar\ <rm> Agnipurāṇa 165.22cd: </rm>
                 ātmā dhyātā mano dhyānaṃ dhyeyo viṣṇuḥ phalaṃ hariḥ</PARAL>
         <!-- <TR>The Self is the meditator (dhyātṛ), the mind is meditation (dhyāna), 
                         the object of meditation (dhyeya) is Pure Supreme Śiva</TR> -->
@@ -14197,16 +14207,16 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 
 %folioinfo \msNb\ 66.jpg upper
 <TEXT> pūrakaḥ kumbhakaś{ }caiva recakas{ }tadanantaram|</TEXT>
-        <PARAL>\vo = Ł Dharmaputrikā 1.19ab (with $ caiva Łfor $ cetiŁ )$ </PARAL>
+        <PARAL>\vo = <rm> Dharmaputrikā 1.19ab (with </rm> caiva <rm>for </rm> ceti<rm> )</rm> </PARAL>
 
 <TEXT> praśāntaś{ }ceti vikhyātaḥ prāṇāyāmaś{ }caturvidhaḥ||</TEXT> 16.22
         <APP>\vc <LEM>praśānta°</LEM> \msCb\msNa\msNb\msNc\Ed; <UNCL>pra</UNCL>śānta° \msCa\oo
                  <LEM>vikhyātaḥ</LEM> \msCa\msCb\msNb\msNc\Ed; vikhyātāḥ \msNa</APP>
         <APP>\vd <LEM>°vidhaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; °vidhāḥ \Ed</APP>
-        <PARAL>\vcd Ł See NiśvāsaNaya 4:113: $
+        <PARAL>\vcd <rm> See NiśvāsaNaya 4:113: </rm>
                 nābhyāṃ hṛdayasaṃcārān{ }manaś{ }cendriyagocarāt|
                 prāṇāyāmaś{ }caturthas{ }tu supraśāntas{ }tu viśrutaḥ|| 
-                Ł See also Svaccandatantra 7.298ab: $
+                <rm> See also Svaccandatantra 7.298ab: </rm>
                 prāṇāyāmaś{ }caturthas{ }tu supraśānta iti śrutaḥ</PARAL> 
                 %% `There is a fourth breath-exercise which is called Supra"saanta
                 %% [achieved] by moving [the vital energy] from the heart into the
@@ -14289,7 +14299,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
                 yaugapadya<UNCL>ś{ }ca</UNCL> ¤\csi¤¤ \msCa,
                 yogapadyaś{ }ca dvirūpo \msCb\msNb,
                 yogapadyañ{ }ca dvirūpo \Ed</APP>
-        <PARAL>\vcd = Ł Dharmaputrikā 1.54ab.$ </PARAL>
+        <PARAL>\vcd = <rm> Dharmaputrikā 1.54ab.</rm> </PARAL>
         <!-- <TR>[The yogin should] always be practising yoga with the six ancillaries.
                   Yoga is taught as having two forms: mental (mānasa) and simultaneous?? (yaugapadya).</TR> -->
 % independent i, fix it
@@ -14306,7 +14316,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\vd <LEM>sa yogo</LEM> \msCa\msNa\msNb\msNc\Ed; saṃyogo \msCb\oo
                  <LEM>mānasaḥ</LEM> \msCapcorr\msCb\msNb\msNc\Ed; mānasa \msCaacorr\msNa\oo
                  <LEM>smṛtaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; smṛtam \Ed</APP>
-        <PARAL>\vo = Ł Dharmaputrikā 1.54cd--55ab.$ </PARAL>
+        <PARAL>\vo = <rm> Dharmaputrikā 1.54cd--55ab.</rm> </PARAL>
         <!-- <TR>[The yogin] can meditate on the supreme subtle one only mentally, without performing breath-control:
                   that type of yoga is called mental [yoga] (mānasa).</TR> -->
 
@@ -14319,7 +14329,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 
 <TEXT> evaṃ dhyāyet{ }paraṃ sūkṣmaṃ yaugapadyaḥ sa ucyate||</TEXT> 16.29
         <APP>\vb <LEM>yaugapadyaḥ</LEM> \msCa\msCb\msNc\Ed; yogapadyaḥ \msNa, yogapadya \msNb</APP>
-        <PARAL>\vo \similar\ Ł Dharmaputrikā 1.55cd--56ab: $
+        <PARAL>\vo \similar\ <rm> Dharmaputrikā 1.55cd--56ab: </rm>
                 saṃyamya manasā prāṇaṃ prāṇāyāmair{ }manas{ }tathā|
                 evaṃ dhyāyet{ }paraṃ sūkṣmaṃ yaugapadyaḥ sa ucyate||</PARAL>
         <!-- <TR>[If the yogin] controls his breath with his mind, and his mind with breath-control,
@@ -14340,10 +14350,10 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
               % Flo ca na CHECK MSS , naiva?
 
 <TEXT> tāḍitaṃ na ca vindeta yadā tanmayatāṃ gataḥ||</TEXT> 16.30
-        <PARAL>\vo \similar\ Ł Kulasāra f.\ 38r: $
+        <PARAL>\vo \similar\ <rm> Kulasāra f.\ 38r: </rm>
                  śaṃkhabherīmṛdaṃgaiś{ }ca vīṇāveṇuśatair{ }api| 
                  tāḍyamānair{ }na vindeta yadā tanmayatāṃ gataḥ||</PARAL>
-        <PARAL>\vef Ł cf. NiśvāsaMukha 4:65: $
+        <PARAL>\vef <rm> cf. NiśvāsaMukha 4:65: </rm>
                 tāḍitañ{ }ca na vindeta cakṣuṣā na ca paśyati|
                 divyadṛṣṭiḥ prajāyeta yadā tanmayatāṅ{ }gataḥ||</PARAL>
         <!-- <TR>When a conch-shell, kettle-drum, mṛdaṅga-drum, flute or dundubhi-drum is beaten,
@@ -14568,7 +14578,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 % everything is turned in to acc. wrongly
 <TEXT> taj{ }jñeyaṃ gatim{ }uttamaṃ śivapadaṃ saṃsāraduḥkhacchidaṃ</TEXT>
        %  °ttamāṃ \eme; °ttamaṃ \msCa\msCb\msNa\msNb\Ed
-        <PARAL>\vc Ł cf.\ 22.41d: $ uttamāṃ gatim{ }āpnuyāt</PARAL>
+        <PARAL>\vc <rm> cf.\ 22.41d: </rm> uttamāṃ gatim{ }āpnuyāt</PARAL>
         <!-- <TR>That is to be known as the highest path, Śiva's abode, which puts an end to mundane suffering.</TR> -->
 
 <TEXT> vedānteṣu ca niṣṭha eṣa kathitaḥ kiṃ śāstram{ }anyad{ }viśet||</TEXT> 16.41
@@ -15728,7 +15738,7 @@ kartuṅ ... samārabdhaṅ \msCa
                  <LEM>viprāṇāṃ</LEM> \msCa\msCb\msNa\Ed; viprāṇā \msNb</APP>
         <APP>\vd <LEM>nityakṣatra°</LEM> \msCa\msCb\msNc; nityaṃ kṣatra° \msNa\msNb, nityaṃ kṣātra° \Ed\oo
                  <LEM>°vratodbhavāḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °vratottamaḥ \msNb</APP>
-        <PARAL>\vcd Łcf.\ MBh 12.59.128ab: $
+        <PARAL>\vcd <rm>cf.\ MBh 12.59.128ab: </rm>
                  brāhmaṇānāṃ kṣatatrāṇāt{ }tataḥ kṣatriya ucyate</PARAL>
         <!-- <TR>to protect the Brāhmins (Łvipra$) from injury, they shall eternally follow[?] the 
                  vow of Kṣatras.</TR> -->
@@ -15768,10 +15778,10 @@ kartuṅ ... samārabdhaṅ \msCa
         <APP>\vd <LEM>°tparāt</LEM> \msNa\msCb\msNb\msNc; °<UNCL>tparāt</UNCL> \msCa, °tparaṃ \Ed</APP>
         <!-- <TR>The [world] of Indra belongs to the Kṣatriyas because
                  they are devoted to the protection of the people.</TR> -->
-        <PARAL>\vo Łcf.\ Vāyupurāṇa 1.8.166: $
+        <PARAL>\vo <rm>cf.\ Vāyupurāṇa 1.8.166: </rm>
                 prājāpatyaṃ brāhmaṇānāṃ smṛtaṃ sthānaṃ kriyāvatām |
                 sthānam aindraṃ kṣatriyāṇāṃ saṃgrāmeṣv{ }apalāyinām ||
-                   Ł\similar\ Bhaviṣyapurāṇa 2.1.34, etc.$</PARAL>
+                   <rm>\similar\ Bhaviṣyapurāṇa 2.1.34, etc.</rm></PARAL>
 
 
 purana/vAyu-purANam/01/008.md-sāmānyāni tu karmāṇi brahmakṣatraviśāṃ punaḥ।  
@@ -15792,7 +15802,7 @@ See Vāyupurāṇa (4-5th c.?) 1.8 (important chapter)
                                                         śūdrāṇā marutaḥ sthānaṃ śuśrūṣāniratātmanām \msNb</APP>
         <!-- <TR>The [world] of Marut belongs to the Śūdras who
                  devote themselves to sevice.</TR> -->
-        <PARAL>\vo Łcf.\ Vāyupurāṇa 1.8.167--168ab: $
+        <PARAL>\vo <rm>cf.\ Vāyupurāṇa 1.8.167--168ab: </rm>
                 vaiśyānāṃ mārutaṃ sthānaṃ svadharmamupajīvinām | 
                 gāndharvaṃ śūdrajātīnāṃ praticāreṇa tiṣṭhatām ||
                 sthānāny{ }etāni varṇānāṃ vyatyācāravatāṃ svayam |</PARAL>
@@ -15848,7 +15858,7 @@ EDDIG \msCa\msNa (from 19.20)
 <TEXT> kṛṣir{ }dhanaṃ tathā vaiśyaḥ śūdraḥ śuśrūṣaṇaṃ dhanam||</TEXT>
 
 <TEXT> ārambhayajñaḥ kṣatrasya havir{ }yajño viśas{ }tathā|</TEXT>
-        <PARAL>\vab Ł \similar\ MBh 12.224.61ab and 12.230.12ab $ </PARAL>
+        <PARAL>\vab <rm> \similar\ MBh 12.224.61ab and 12.230.12ab </rm> </PARAL>
 <TEXT> śūdraḥ paricaro yajño japayajño dvijātayaḥ||</TEXT> 19.40
 
 % a lot of nom. for gen, and stem forms
@@ -16022,7 +16032,7 @@ EDDIG \msM folios
 
 <TEXT> sarvendriyaguṇābhāsaḥ sarvendriyavivarjitaḥ|</TEXT>
         <APP>\vab <LEM>sarve°Ł...$ varjitaḥ</LEM> \mssCaCbCc\msNa\msNb; \om\ \Ed</APP>
-        <PARAL>\vab Ł\similar\ MBh 6.35.14ab: $ sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam </PARAL>
+        <PARAL>\vab <rm>\similar\ MBh 6.35.14ab: </rm> sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam </PARAL>
         <!-- <TR>It appears to have the qualities of all the sense faculties
                          but is devoid of all sense faculties.</TR> -->
                          Agnipurāṇa: 
@@ -16448,7 +16458,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> ākāśasya guṇāḥ śabdo vyāpitvaṃ chidratāpi ca||</TEXT> 20.18
         <APP>\vc <LEM>ākāśasya</LEM> \msCb\msCc\msNa\msNb\Ed; ākāśa× \msCa</APP>
         <APP>\vd <LEM>vyāpitvaṃ</LEM> \msCa\msCc\msNa\msNb\Ed; vyāpitvāṃ \msCb</APP>
-        <PARAL>\vcd Ł \similar\ MBh 12.247.7ab: $ākāśasya guṇaḥ śabdo vyāpitvaṃ chidratāpi ca</PARAL>
+        <PARAL>\vcd <rm> \similar\ MBh 12.247.7ab: </rm>ākāśasya guṇaḥ śabdo vyāpitvaṃ chidratāpi ca</PARAL>
         <!-- <TR>The qualities of Space are Sound, pervasion and `perforatedness' [being pervaded],</TR> -->
 
 <TEXT> anāśrayanirālambam{ }avyaktam{ }avikāritā|</TEXT>
@@ -16457,7 +16467,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> apratīghātitā caiva bhūtatvaṃ prakṛtāni ca||</TEXT> 20.19
         <APP>\vc <LEM>apratīghātitā</LEM> \msCa\msNa\msNb\Ed; apratīghātatā \msCb\msCc</APP>
         <!-- <TR>not being restrainable, being an element, and ...,  [?].</TR> -->
-        <PARAL>\vo Ł \similar\ MBh 12.247.7cd--8ab: $
+        <PARAL>\vo <rm> \similar\ MBh 12.247.7cd--8ab: </rm>
                          anāśrayam{ }anālambam{ }avyaktam{ }avikāritā||
                          apratīghātatā caiva bhūtatvaṃ vikṛtāni ca|</PARAL>
 
@@ -16487,7 +16497,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> kaṭhinaś{ }cikkaṇaḥ ślakṣṇo mṛdusnigdhakharadravāḥ||</TEXT> 20.21
         <APP>\vc <LEM>cikkaṇaḥ</LEM> \corr; cikkanaḥ \msCa\msCb\msNa\msNb, cikkalaḥ \msCc, cikkaraḥ \Ed</APP>
         <APP>\vd <LEM>°snigdha°</LEM> \msCa\msCc\msNa\msNb\Ed; °śnidha° \msCb</APP>
-        <PARAL>\vcd Ł \kb MBh 12.177.34ab: $ kaṭhinaś{ }cikkaṇaḥ ślakṣṇaḥ picchalo mṛdudāruṇaḥ</PARAL>
+        <PARAL>\vcd <rm> \kb MBh 12.177.34ab: </rm> kaṭhinaś{ }cikkaṇaḥ ślakṣṇaḥ picchalo mṛdudāruṇaḥ</PARAL>
         <!-- <TR>Hard, smooth, slippery, soft, sticky, sharp, fluid,</TR> -->
 
 %folioinfo \msM\ 446.jpg upper, f. 38v 
@@ -16500,8 +16510,8 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> iṣṭāniṣṭadvayasparśa vapuṣā parigṛhyate||</TEXT> 20.22
         <APP>\vc <LEM>°dvaya°</LEM> \mssCaCbCc\msNa\Ed; °dvayo \msNb</APP>
         <APP>\vd <LEM>°gṛhyate</LEM> \msCa\msNa\msNb\Ed; °gṛhate \msCb</APP>
-        <PARAL>\vc Ł Folio 309v in \msCc\ ends with $ iṣṭāniṣṭadvaya Ł and the next folio is missing.
-                  \msCc\ resumes on folio 311r with 20.51c $(mānsañ{ }ca medañ{ }ca)</PARAL>
+        <PARAL>\vc <rm> Folio 309v in \msCc\ ends with </rm> iṣṭāniṣṭadvaya <rm> and the next folio is missing.
+                  \msCc\ resumes on folio 311r with 20.51c </rm>(mānsañ{ }ca medañ{ }ca)</PARAL>
         <!-- <TR>It is the body that senses both pleasant and unpleasant touches.</TR> -->
 
 %folioinfo \msCb\ 462.jpg, f.230v
@@ -16512,7 +16522,7 @@ senses, which are left out of the classical Sāmkhya listing.
 
 <TEXT> prāṇo 'pānaḥ samānaś{ }ca udāno vyāna eva ca|</TEXT>
         <APP>\va <LEM>'pānaḥ</LEM> \msCa\msNa\Ed; pāna° \msCb\msNb</APP>
-        <PARAL>\vab Ł= Dharmaputrikā 4.16ab$</PARAL>
+        <PARAL>\vab <rm>= Dharmaputrikā 4.16ab</rm></PARAL>
         <!-- <TR>Prāṇa, Apāna, Samāna, Udāna and Vyāna,</TR> -->
                 This section is very closely parallel to Agnipurāṇa 214.5 ff !!!
 
@@ -16520,8 +16530,8 @@ senses, which are left out of the classical Sāmkhya listing.
         <APP>\vc <LEM>nāga°</LEM> \msCb\msNa\msNb\Ed; nāma° \msCa\oo
                  <LEM>kṛkaro</LEM> \msCa\msCb\msNa\msNb; kṛkalo \Ed</APP>
         <!-- <TR>Nāga, Kūrma, Kṛkara, Devadatta, Dhanaṃjaya:</TR> -->
-        <PARAL>\vo Ł The next XX verses are parallel to a
-                         passage in the Bṛhatkālottara (NGMPP Reel No.\ B 29/59 Manuscript No.\ pra - 89): $
+        <PARAL>\vo <rm> The next XX verses are parallel to a
+                         passage in the Bṛhatkālottara (NGMPP Reel No.\ B 29/59 Manuscript No.\ pra - 89): </rm>
         prāṇopānaḥ samānaś{ }ca udāno vyāna eva ca||
         nāgaḥ kurmodhva kṛkaro devadattadhanaṃyayau|
         prāṇas{ }tu prathamo vāyur{ }daśānām{ }api sa prabhuḥ||
@@ -16537,8 +16547,8 @@ senses, which are left out of the classical Sāmkhya listing.
         udvejayati marmāṇi udāto nāma mārutaḥ||
         vyāno vināmayatyaṃgaṃ vyāno vyādhiprakopakaḥ|
         prītecināsī kathito vāddhikyāt vyāna ucyate||
-        Ł...
-         cf.\ also Sārdhatriśatikālottara, Agnipurāṇa and Dīpikā by Aghoraśivācārya on the Mṛgendra $ </PARAL>
+        <rm>...
+         cf.\ also Sārdhatriśatikālottara, Agnipurāṇa and Dīpikā by Aghoraśivācārya on the Mṛgendra </rm> </PARAL>
 % purana/linga-puranam/01/008.txt:prāṇo'pānaḥ samānaśca udāno vyāna eva ca।। 8.61 ।।
 % dharmaputrika_kafleḍn:prāṇo'pānaḥ samānaśca udāno vyāna eva ca|%
 
@@ -16648,7 +16658,7 @@ senses, which are left out of the classical Sāmkhya listing.
 % CHECK niyama
 
 <TEXT> balaṃ śīghraṃ ca mokṣaṃ ca ceṣṭā karmātmanā bhavaḥ||</TEXT> 20.32
-        <PARAL>\vo Ł \similar\ MBh 12.247.6: $
+        <PARAL>\vo <rm> \similar\ MBh 12.247.6: </rm>
                         vāyor{ }aniyamaḥ sparśo vādasthānaṃ svatantratā|
                         balaṃ śaighryaṃ ca mohaś{ }ca ceṣṭā karmakṛtā bhavaḥ||</PARAL>
         <!-- <TR>strength, quickness, release, movement and performing actions and existence.</TR> -->
@@ -16699,7 +16709,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> śuklaḥ kṛṣṇas{ }tathā rakto nīlaḥ pīto 'ruṇas{ }tathā||</TEXT> 20.35
         <APP>\vc <LEM>śuklaḥ</LEM> \msCa\msCb\msNa; śuklaṃ \Ed</APP>
         <APP>\vd <LEM>nīlaḥ</LEM> \msCa\msCb\msNa; nīla° \Ed</APP>
-        <PARAL>\vcd Ł = MBh 12.177.32cd $ </PARAL>
+        <PARAL>\vcd <rm> = MBh 12.177.32cd </rm> </PARAL>
         <!-- <TR>Light, dark, red, blue, yellow, brown,</TR> -->
 
 <TEXT> śyāmaḥ piṅgala babhruś{ }ca nava raṅgāḥ prakīrtitāḥ|</TEXT>
@@ -16744,7 +16754,7 @@ senses, which are left out of the classical Sāmkhya listing.
                  <LEM>laghus{ }taikṣṇyaṃ</LEM> \corr; laghus{ }taikṣṇaṃ \msCa\msNa\Ed, laghus{ }tīkṣṇaṃ \msCb</APP>
         <APP>\vd <LEM>daśamaṃ cordhvabhāgitā</LEM> \eme; daśapañcorddhabhāṣitam \msCa, daśamaṃ cordhabhāṣitam \msCb\msNa, 
                                                                 daśamaś{ }cordhabhāṣitam \Ed</APP>
-        <PARAL>\vcd Ł \similar\ MBh 12.247.5cd: $ 
+        <PARAL>\vcd <rm> \similar\ MBh 12.247.5cd: </rm> 
                 agner{ }durdharṣatā tejas{ }tāpaḥ pākaḥ prakāśanam|
                 śaucaṃ rāgo laghus{ }taikṣṇyaṃ daśamaṃ cordhvabhāgitā||</PARAL>
         <!-- <TR>Fire has [the following qualities:] unconquerable, ..., splendour, heat, cooking,
@@ -16766,7 +16776,7 @@ senses, which are left out of the classical Sāmkhya listing.
 %folioinfo \Ed\ p.658
 <TEXT> śabdaḥ sparśaś{ }ca rūpaṃ ca rasaś{ }ca sa caturguṇaḥ|</TEXT>
         <APP>\va <LEM>rūpaṃ</LEM> \msCa\msCb\msNa; rūpaś \Ed</APP>
-        <PARAL>\vab \similar\ Ł MBh 12.299.11ab (= 3.202.5ab = 6.6.5ab = 12.299.11ab): $ 
+        <PARAL>\vab \similar\ <rm> MBh 12.299.11ab (= 3.202.5ab = 6.6.5ab = 12.299.11ab): </rm> 
                 śabdaḥ sparśaś{ }ca rūpaṃ ca raso gandhaś{ }ca pañcamaḥ</PARAL>
 
 % stem form
@@ -16813,7 +16823,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> jihvā viṣyandinī caiva bhaumānyaśravaṇādhamaḥ|</TEXT>
         <APP>\va <LEM>viṣyandinī</LEM> \msCb\msNa; °vi<UNCL>ṣ</UNCL>××nī \msCa, °niṣpandinī \Ed</APP>
         <APP>\vb <LEM>bhaumānyaśravaṇādhamaḥ</LEM> \msCa\msCb\msNa; bhaumān{ }daśaguṇāñ{ }śṛṇu \Ed</APP>
-        <PARAL>\vo Ł\similar\ MBh 12.247.4 (with $ adbhyaḥŁ as a variant in the critical edition): $
+        <PARAL>\vo <rm>\similar\ MBh 12.247.4 (with </rm> adbhyaḥ<rm> as a variant in the critical edition): </rm>
                 apāṃ śaityaṃ rasaḥ kledo dravatvaṃ snehasaumyatā|
                 jihvā viṣyandinī caiva bhaumāpyāsravaṇaṃ tathā||</PARAL>
 
@@ -16873,7 +16883,7 @@ senses, which are left out of the classical Sāmkhya listing.
                                 tvacaṃ māsaṃ ca medaṃ ca \msNa, tvacā māṃsaś{ }ca medaś{ }ca \Ed</APP>
         <APP>\vd <LEM>snāyu</LEM> \msCc\msNa\Ed; śnāyuṃ \msCa\msCb\oo
                  <LEM>sirā tathā</LEM> \eme;  śirās{ }tathā \msCa\msNa, śiras{ }tathā \msCb\msCc\Ed</APP>
-        <PARAL>\vc Ł\msCc\ resumes here with $ mānsañ{ }ca medañ{ }ca</PARAL>
+        <PARAL>\vc <rm>\msCc\ resumes here with </rm> mānsañ{ }ca medañ{ }ca</PARAL>
 
 <TEXT> nakhadantaruhāś{ }caiva keśaś{ }ca daśamas{ }tathā|</TEXT>
         <APP>\vb <LEM>keśa°</LEM> \mssCaCbCc\msNa; keśā° \Ed</APP>
@@ -16891,7 +16901,7 @@ senses, which are left out of the classical Sāmkhya listing.
 
 <TEXT> gandho guruś{ }ca śaktiś{ }ca nīhārasthāpanākṛtiḥ||</TEXT> 20.53
         <APP>\vd <LEM>°kṛtiḥ</LEM> \msCa\msCb\msNa\Ed; °kṛti \msCc</APP>
-        <PARAL>\vo Ł\similar\ MBh 12.247.3: $
+        <PARAL>\vo <rm>\similar\ MBh 12.247.3: </rm>
                         bhūmeḥ sthairyaṃ pṛthutvaṃ ca kāṭhinyaṃ prasavātmatā|
                         gandho gurutvaṃ śaktiś ca saṃghātaḥ sthāpanā dhṛtiḥ||</PARAL>
 
@@ -16914,7 +16924,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> vaikārikam{ }ahaṃkāraṃ sattvodriktāt{ }tu sāttvikaḥ|</TEXT>
         <APP>\vab <LEM>sattvodriktāt{ }tu</LEM> \corr;
                                  sattvodṛktāt{ }tu \msCa, sattvonuktānu \Ed</APP>
-        <PARAL>\vab Ł\similar\ Liṅgapurāṇa 1.70.38cd (= Śivapurāṇa 7.1.10.14cd): $
+        <PARAL>\vab <rm>\similar\ Liṅgapurāṇa 1.70.38cd (= Śivapurāṇa 7.1.10.14cd): </rm>
                 vaikārikād{ }ahaṃkārāt{ }sattvodriktāt{ }tu sāttvikāt</PARAL>
 
 % in classical Sāṃkhya the vaikṛta and sāttvika  ahaṃkāra gives birth to the karmendriyas!
@@ -16924,7 +16934,7 @@ senses, which are left out of the classical Sāmkhya listing.
 12291023c ahaṃkāreṣu bhūteṣu caturthaṃ viddhi vaikṛtam
 
 <TEXT> śrotraṃ tvak{ }cakṣuṣī jihvā nāsikā caiva pañcamī||</TEXT> 20.55
-        <PARAL>\vcd Ł= MBh 14.42.13ab = Liṅgapurāṇa 1.7.41ab$</PARAL> 
+        <PARAL>\vcd <rm>= MBh 14.42.13ab = Liṅgapurāṇa 1.7.41ab</rm></PARAL> 
 
 <TEXT> buddhīndriyāṇi pañcaiva kīrtitāni dvijottama|</TEXT>
 
@@ -17086,13 +17096,13 @@ senses, which are left out of the classical Sāmkhya listing.
 
 <TEXT> sad{ }asac{ }cāśutā caiva manaso nava vai guṇāḥ||</TEXT>
         <APP>\ve <LEM>cāśutā</LEM> \Ed; cāśutāñ \msCa</APP>
-        <PARAL>\vcdef Ł = MBh 12.247.9 $ </PARAL> 
+        <PARAL>\vcdef <rm> = MBh 12.247.9 </rm> </PARAL> 
 
 % sadasavvā? \msCa
 <TEXT> iṣṭāniṣṭavikalpaś{ }ca vyavasāyaḥ samādhitā|</TEXT>
         <APP>\va <LEM>iṣṭā°</LEM> \Ed; ×ṣṭā° \msCa</APP>
         <APP>\vb <LEM>samādhitā</LEM>  \msCa; samādhinā \Ed</APP>
-        <PARAL>\vab Ł = MBh 12.247.10ab $</PARAL> 
+        <PARAL>\vab <rm> = MBh 12.247.10ab </rm></PARAL> 
 
 <TEXT> manaso dvividhaṃ rūpaṃ manaś{ }conmana eva ca||</TEXT>
         <APP>\vd <LEM>conmana</LEM> \Ed; cotmana \msCa</APP>
@@ -17286,8 +17296,8 @@ senses, which are left out of the classical Sāmkhya listing.
         <!-- <TR>``My birth and my austerities have now borne their fruits.</TR> -->
         <APP>\vc <LEM>adya me saphalaṃ janma</LEM> \msCa\msCb\msNa\msNb\msNc\Ed;
                                         <UNCL>adya</UNCL>××××<UNCL>janma</UNCL> \msCc</APP>
-                 <PARAL>\vcd Ł= Kūrmapurāṇa 1.11.219 \similar\ MBh 5.113.5ab: $ adya me saphalaṃ janma tāritaṃ cādya me kulam
-                                \similar\ MBh 13.14.179a: $ adya jāto hy ahaṃ deva adya me saphalaṃ tapaḥ</PARAL>
+                 <PARAL>\vcd <rm>= Kūrmapurāṇa 1.11.219 \similar\ MBh 5.113.5ab: </rm> adya me saphalaṃ janma tāritaṃ cādya me kulam
+                                \similar\ MBh 13.14.179a: </rm> adya jāto hy ahaṃ deva adya me saphalaṃ tapaḥ</PARAL>
 % adya me saphalaṃ janma adya me saphalaṃ tapaḥ।            purana/vayu-puranam/02/044.txt
                         
 
@@ -17539,7 +17549,7 @@ senses, which are left out of the classical Sāmkhya listing.
 <TEXT> namo namas{ }te śivasarvade namaḥ||</TEXT> 21.20
         <APP>\vd <LEM>°sarvade</LEM> \mssCaCbCc\msNa\msNc\Ed; °sarvado \msNb</APP>
         <!-- <TR>Obeisance to you who bestow happiness on everyone, obeisance!</TR> -->
-        <PARAL>\vd ŁCf.\ Bṛhatkālottara (NGMPP B 29/59) f.\ 87a: $ 
+        <PARAL>\vd <rm>Cf.\ Bṛhatkālottara (NGMPP B 29/59) f.\ 87a: </rm> 
                 jñāna 2 śabda 2 sūkṣma 2 śivasarvada oṃ namaḥ śivāya|</PARAL>
 % note how this last namaḥ ends this section
 
@@ -17978,7 +17988,7 @@ the feathers of the parrot, and in some a mass of pure crystal.
 <TEXT> tasmān{ }nāsti jagatsusāravimalaṃ muktvā śivaṃ śāśvatam||</TEXT>
         <!-- <TR>Therefore there is nothing that is untouched by the fine[?] essence of the world except for eternal Śiva.</TR> -->
         <APP>\vd <LEM>°vimalaṃ muktvā</LEM> \msCc; °viralaṃ muktvā \msCa\msCb\msNa\msNb\msNc, °viralamuktā \Ed</APP>
-        <PARAL>\vd ŁSee the expression $ jagatsusāra Łalso in 1.1b$</PARAL>
+        <PARAL>\vd <rm>See the expression </rm> jagatsusāra <rm>also in 1.1b</rm></PARAL>
 
 
 <ANUSTUBH/>
@@ -18019,13 +18029,13 @@ the feathers of the parrot, and in some a mass of pure crystal.
         śruto vābjamukhād{ }dharmaḥ \msCa, śruto vābjamukhod{ }dharmaḥ \msCb, śruto vābjamukhā dharmaḥ \msCc, 
         śruto cābjamukhād{ }dharmaḥ \msNa\msL, śruto cābdamukhā dharmaḥ \msNb, śrutvā vābjamukhād{ }dharmaḥ \msNc,
                         śruto vā tvanmukhād{ }dharmaḥ \Ed</APP>
-        <PARAL>ŁTestimonia for this chapter: \msCa\ ff.\thinspace 232r--234v, 
+        <PARAL><rm>Testimonia for this chapter: \msCa\ ff.\thinspace 232r--234v, 
                                              \msCb\ ff.\thinspace 233v--235r, 
                                              \msCc\ ff.\thinspace 314r--317r,
                                              \msNa\ ff.\thinspace 39r--41v,
                                              \msNb\ ff.\thinspace 241v--243v, 
                                              \msNc\ ff.\thinspace 247v--250r;
-                                                \mssCaCbCc\ = \msCa + \msCb + \msCc $</PARAL>
+                                                \mssCaCbCc\ = \msCa + \msCb + \msCc </rm></PARAL>
 % śruto vābjamukhā dharmaḥ \msCc\msBod
 % vai Nirājan
 % śrutvā te 'bjamukhād ? DG
@@ -18196,7 +18206,7 @@ MBh rivers:
              the ten abodes and the five [phps Sāṃkhyatattvas??].</TR> -->
         <APP>\vc <LEM>°sāṃnidhyaṃ</LEM> \msCa\Ed; sānaidhyaṃ \msCb\msCc\msNa\msNb\msL, sānnaidhyaṃ \msNc</APP>
         <APP>\vd <LEM>daśā°</LEM> \mssCaCbCc\msNa\msNb\msNc\msL; deśā° \Ed</APP>
-        <PARAL>\vo ŁCf.\ 4.72: $ caturāyatanaṃ vipra kathayiṣyāmi tac{ }chṛṇu|
+        <PARAL>\vo <rm>Cf.\ 4.72: </rm> caturāyatanaṃ vipra kathayiṣyāmi tac{ }chṛṇu|
                                  karuṇāmuditopekṣāmaitrī cāyātanaṃ smṛtam||</PARAL>
 
 <TEXT> daśayajñavrataṃ cīrṇaṃ daśakāmaparājitaḥ|</TEXT>
@@ -18209,7 +18219,7 @@ MBh rivers:
 % are my priests ... DG
 <TEXT> niyamān{ }daśa saṃśritya daśa vāyava ṛtvijaḥ||</TEXT> 22.11
         <APP>\vc <LEM>niyamān{ }daśa</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; nimāyā daśa \msLacorr, niyamā daśa \msLpcorr</APP>
-        <PARAL>\vd Łcf.\ 11.17ab: $ dhāraṇādhvaryuvat{ }kṛtvā prāṇāyāmaś{ }ca ṛtvijaḥ</PARAL>
+        <PARAL>\vd <rm>cf.\ 11.17ab: </rm> dhāraṇādhvaryuvat{ }kṛtvā prāṇāyāmaś{ }ca ṛtvijaḥ</PARAL>
         <!-- <TR>He followed the ten Niyama-rules. The ten winds were his priest.</TR> -->
 % niyamāṃ \msNb\msNc and phps others
 
@@ -18301,10 +18311,10 @@ MBh rivers:
                  <LEM>°yajño</LEM> \msCa\msCb\msNa\msNb\Ed; °yojño \msNc, °yajña \msCc\msL</APP>
         <APP>\vb <LEM>yajño</LEM> \msCa\msCb\msNa\msL; yajña° \msCc\msNb\msNc\Ed\oo
                  <LEM>°titheś{ }ca ha</LEM> \msCb; °tithiś{ }ca ha \msCa\msCc\msNa\msNb\msNc\msL, °tithiñ{ }ca yaḥ \Ed</APP>
-        <PARAL>\vb Łcf.\ Śatapathabrāhmana 11.5.6: $ aharaharbhūtebhyo baliṃ haret tathaitam bhūtayajñaṃ\oo
+        <PARAL>\vb <rm>cf.\ Śatapathabrāhmana 11.5.6: </rm> aharaharbhūtebhyo baliṃ haret tathaitam bhūtayajñaṃ\oo
         <!-- <TR>Sacrifice to/with the Brahman [?; = Vedic offering at <i>saṃdhyā</i>], to the Devas,
                          the Ancestors, the Ghosts, the Guests,</TR> -->
-                ŁGaruḍapurāṇa 1.50.71cd: $ bhūtayajñaḥ sa vai jñeyo bhūtebhyo yastvayaṃ baliḥ</PARAL> 
+                <rm>Garuḍapurāṇa 1.50.71cd: </rm> bhūtayajñaḥ sa vai jñeyo bhūtebhyo yastvayaṃ baliḥ</PARAL> 
 % Manu 3.7 brahmayajña Kenji
 
 <TEXT> japo yogas{ }tapo dhyānaṃ svādhyāyaś{ }ca daśa smṛtaḥ||</TEXT> 22.16
@@ -18339,7 +18349,7 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
         <APP>\va <LEM>yaugapadyaś{ }ca</LEM> \corr; yaugapadyañ{ }ca \msCa\msCb\msNb,
                         yogapadyaṃ ca \msCc\msNa\msNc\msL, yogapadyaś{ }ca \Ed</APP>
         <APP>\vb <LEM>°kṣiptaś{ }ca</LEM> \Ed; °ksiptaṃ ca \mssCaCbCc\msNa\msNb\msNc\msL</APP>
-         <PARAL>\vo Łcf.\ Dharmaputrikā 1.56: $ saṃkṣiptā prathamā jñeyā viśālā samanantaram||
+         <PARAL>\vo <rm>cf.\ Dharmaputrikā 1.56: </rm> saṃkṣiptā prathamā jñeyā viśālā samanantaram||
                                         tato dvikaraṇī ceti trividho yoga ucyate|</PARAL>
         % viśāmyate? \msNa
         % see ch. 16, i.e. this chapter is summarising chs 11 and 16
@@ -18359,7 +18369,7 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
         <APP>\va <LEM>raviḥ</LEM> \msCa; ravi° \msCb\msCc\msNa\msNb\msNc\msL\Ed</APP>
         <APP>\vb <LEM>sphaṭikāmbara°</LEM> \mssCaCbCc\msNb\msNc\Ed; sphaṭikāṃ×ra° \msNa, sphaṭikāṃsata° \msL</APP>
         % not yet in html or pdf:
-        <PARAL>\vab Łcf. Dharmaputrikā 4:5cd: $ sūryacandrahutāśārciḥsphāṭikāmbarasannibhāḥ</PARAL>
+        <PARAL>\vab <rm>cf. Dharmaputrikā 4:5cd: </rm> sūryacandrahutāśārciḥsphāṭikāmbarasannibhāḥ</PARAL>
 
 %folioinfo \msNa\ 233.jpg lower
 <TEXT> daśayogāsanāsīno nityam{ }eva tapodhanaḥ||</TEXT> 22.19
@@ -18376,7 +18386,7 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
         <APP>\va <LEM>anirodha°</LEM> \mssCaCbCc\msNa\msNb\msNc\msL; anilādha° \Ed\oo
                  <LEM>°manāḥ</LEM> \mssCaCbCc\msNa\msNc\msL\Ed; °manā \msNb</APP>
         <APP>\vb <LEM>dhyāyed{ }yo°</LEM> \msCa\msCb\msNa\msNb\msNc\msL; dhyāyo° \msCc, dhyānaṃ yo° \Ed</APP>
-        <PARAL>\vab Łcf.\ Dharmaputrikā 1.54: $ akṛtvā prāṇasaṃrodhaṃ manasaikena kevalam|
+        <PARAL>\vab <rm>cf.\ Dharmaputrikā 1.54: </rm> akṛtvā prāṇasaṃrodhaṃ manasaikena kevalam|
                                 dhyāyeta paramaṃ sūkṣmaṃ sa yogo mānasaḥ smṛtaḥ||</PARAL>
 % sūkṣma mantra? Florinda
 % sūkṣmaṃ adv.? Marco
@@ -18387,7 +18397,7 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
                                  °yāmai ma° \msCb, °yāmai mma° \msCc, °yāmer{ }ma° \msNcacorr\oo
                  <LEM>ruddhvā</LEM> \mssCaCbCc\msNa\msNb\msNc\msL; ruddhā \Ed</APP>
         <APP>\vd <LEM>yauga°</LEM> \msCa\msCb\msNa\msNcpcorr\msL; yoga° \msCc\msNb\msNcacorr\Ed</APP>
-        <PARAL>\vcd Łcf.\ Dharmaputrikā 1.55:$ saṃyamya manasā prāṇaṃ prāṇāyāmair{ }manas{ }tathā|
+        <PARAL>\vcd <rm>cf.\ Dharmaputrikā 1.55:</rm> saṃyamya manasā prāṇaṃ prāṇāyāmair{ }manas{ }tathā|
                                         evaṃ dhyāyet{ }paraṃ sūkṣmaṃ yaugapadyaḥ sa ucyate||</PARAL>
 
 <TEXT> brahmādistambaparyantaṃ sarvaṃ sthāvarajaṅgamam|</TEXT>
@@ -18397,14 +18407,14 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
         <APP>\va <LEM>°stamba°</LEM> \mssCaCbCc\msNa\msNc\Ed; \om\ \msNb, °staṃbha° \msL\oo
                  <LEM>°paryantaṃ</LEM> \msCb\msCc\msNa\msL; °<UNCL>dviya</UNCL>×° \msCa, \om\ \msNb, °paryanta° \msNc\Ed</APP>
         <APP>\vb <LEM>sarvaṃ</LEM> \msCb\msNa; ×× \msCa, sarva° \msCc\msNc\msL\Ed, \om\ \msNb</APP>
-        <PARAL>\vab Ł\similar\ Dharmaputrikā 1.57cd: $ brahmādistambhaparyantāḥ sarve sthāvarajaṅgamāḥ</PARAL>
+        <PARAL>\vab <rm>\similar\ Dharmaputrikā 1.57cd: </rm> brahmādistambhaparyantāḥ sarve sthāvarajaṅgamāḥ</PARAL>
 
         % kramāt vicintayet more and more subtle DG
 <TEXT> pralīyamānaṃ dhyāyeta kramāt{ }sūkṣmaṃ vicintayet||</TEXT> 22.21
         <!-- <TR>as gradually dissolving, and should reflect upon the subtle one:</TR> -->
         <APP>\vc <LEM>pralīya°</LEM> \mssCaCbCc\msNa\msNc\Ed; \om\ \msNb, praṇīya° \msL</APP>
         <APP>\vd <LEM>kramāt{ }sū°</LEM> \msCa\msCb\msNa\msNc\msL\Ed; kramā sū° \msCc, \om\ \msNb</APP>
-        <PARAL>\vcd Ł\similar\ Dharmaputrikā 1.59ab: $ pralīyamānan{ }dhyāyeta kramāc{ }chūnyaṃ bhavej{ }jagat</PARAL>
+        <PARAL>\vcd <rm>\similar\ Dharmaputrikā 1.59ab: </rm> pralīyamānan{ }dhyāyeta kramāc{ }chūnyaṃ bhavej{ }jagat</PARAL>
 % sūkṣmaṃ is the subtle form as result Francesco 
 
 % Judit szerint a viśālā nem egy krama, csak a DhP csinál belőle saṃhāra-sarga párt
@@ -18414,7 +18424,7 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
         <APP>\va <LEM>saṃkṣipta</LEM> \mssCaCbCc\msNa\msNc\Ed; \om\ \msNb, saṃkṣiptaḥ \msL\oo
                  <LEM>eṣa</LEM> \mssCaCbCc\msNa\msNc\msL; \om\ \msNb, eva \Ed\oo
                  <LEM>ākhyāto</LEM> \msCb\msNc; ākhyātaḥ \msCa\msCc\msNa\msL\Ed, \om\ \msNb</APP>
-        <PARAL>\vab Łcf.\ Dharmaputrikā 1.60ab: $ eṣa yogavidhiḥ proktaḥ saṃkṣipto nāma nāmataḥ</PARAL>
+        <PARAL>\vab <rm>cf.\ Dharmaputrikā 1.60ab: </rm> eṣa yogavidhiḥ proktaḥ saṃkṣipto nāma nāmataḥ</PARAL>
         <!-- <TR>this is called condensed [yoga]. Now listen to the Viśālā.</TR> -->
         % viśālāṃ \msCa\msCb, viśālāñ \Ed
 
@@ -18438,7 +18448,7 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
 <TEXT> eṣā dvikaraṇī nāma yogasya vidhir{ }ucyate||</TEXT> 22.23
         <!-- <TR>this is the yoga method called Dvikaraṇī.</TR> -->
         <APP>\vc <LEM>dvi°</LEM> \msCa\msCb\msNa\msNc\msL; vi° \msCc\Ed, \om\ \msNb</APP>
-        <PARAL>\vo Ł\similar\ Dharmaputrikā 1.62cd--63ab: $ etau saṃhārasargau dvau pāramparyeṇa cintayet||
+        <PARAL>\vo <rm>\similar\ Dharmaputrikā 1.62cd--63ab: </rm> etau saṃhārasargau dvau pāramparyeṇa cintayet||
                                                        eṣā dvikaraṇī nāma yogasya vidhir{ }iṣyate|</PARAL>
 
 <TEXT> dehamadhye hṛdi jñeyaṃ hṛdimadhye tu paṅkajam|</TEXT>
@@ -18465,7 +18475,7 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
         <APP>\vc <LEM>°śikhāṃ</LEM> \msCa\msNa\msL; °śikhā \msCb\msCc\msNb\msNc\Ed</APP>
         <APP>\vd <LEM>sphaṭi°</LEM> \msCa\msCc\msNa\msNb\msNc\msL\Ed; sphāṭi° \msCb</APP>
         <!-- <TR>the sun, the moon, the flame, the crystal and the sky.</TR> -->
-        <PARAL>\vcd Łcf.\ Dharmaputrikā 4.5cd: $ sūryacandraprakā\-śārcisphāṭikāmbarasannibhāḥ</PARAL>
+        <PARAL>\vcd <rm>cf.\ Dharmaputrikā 4.5cd: </rm> sūryacandraprakā\-śārcisphāṭikāmbarasannibhāḥ</PARAL>
 
 <TEXT> ravimaṇḍalamadhye tu bhāvayec{ }candramaṇḍalam|</TEXT>
         <!-- <TR>He should visualize the disk of the moon in the centre of the sun.</TR> -->
@@ -19440,7 +19450,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
 <SUBCHAPTER>sapta pātālāḥ</SUBCHAPTER>
 <TEXT> upariṣṭāt{ }tu vijñeyāḥ pātālāḥ sapta eva tu|</TEXT>
         <!-- <TR>Above them are the Pātālas, which are only seven.</TR> -->
-        <PARAL>ŁNiśv Kārikā 149:$ upariṣṭāt tu deveśi pātālās{ }sapta eva tu</PARAL>
+        <PARAL><rm>Niśv Kārikā 149:</rm> upariṣṭāt tu deveśi pātālās{ }sapta eva tu</PARAL>
 % Niśv Kārikā T17A
 
 % metre vipulā bha-vipulā
@@ -19488,8 +19498,8 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
         <APP>\vo <LEM>(saptaŁ...$°parākramaḥ)</LEM> \msCa\msCb; \om\ \Ed</APP>
         <!-- <TR>Ten sons of kingly heroism were born to Priyavrata [Manu's son]:</TR> -->
         <NOTE>Note putro for plural. Perhaps the original read putrābhūd (with double sandhi)?</NOTE>
-        <PARAL>ŁFor a similar enumeration of Priyavrata's ten sons and the seven islands,
-                see, e.g., Vāyupurāṇa 33.1 ff.$</PARAL>
+        <PARAL><rm>For a similar enumeration of Priyavrata's ten sons and the seven islands,
+                see, e.g., Vāyupurāṇa 33.1 ff.</rm></PARAL>
 
 <TEXT> agnīdhraś{ }cāgnibāhuś{ }ca medhā medhātithir{ }vasuḥ|</TEXT>
         <APP>\vab <LEM>agnīdhraś{ }cāgnibāhuś{ }ca medhā medhātithir{ }vasuḥ</LEM> \corr;
@@ -19503,14 +19513,14 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
         <APP>\vcd <LEM>havyaḥ savanaḥ patra eva ca</LEM> \msCa\Ed; 
                                 <UNCL>havyaḥ savanaḥ patra eva ca</UNCL> \msCb</APP>
         <!-- <TR>Jyotiṣmat, Dyutimat, Havya, Savana, and Patra.</TR> -->
-        <PARAL>\vo Ł\similar\ Liṅgapurāṇa 1.46.17: $
+        <PARAL>\vo <rm>\similar\ Liṅgapurāṇa 1.46.17: </rm>
                 āgnīdhraś{ }cāgnibāhuś{ }ca medhā medhātithir{ }vasuḥ|
                 jyotiṣmān{ }dyutimān havyaḥ savanaḥ putra eva ca||
-                Ł\similar\ Brahmapurāṇa 5.9: $
+                <rm>\similar\ Brahmapurāṇa 5.9: </rm>
                 āgnīdhraś cāgnibāhuś ca medhyo medhātithir vasuḥ|
                 jyotiṣmān dyutimān havyaḥ savalaḥ putrasaṃjñakaḥ||
-                Ł\similar\ Brahmāṇḍapurāṇa 1.13.104 and 1.14.9 
-                \similar\ Padmapurāṇa 1.7.83 etc.$</PARAL>
+                <rm>\similar\ Brahmāṇḍapurāṇa 1.13.104 and 1.14.9 
+                \similar\ Padmapurāṇa 1.7.83 etc.</rm></PARAL>
 %sivadharmasangraha10-12raw.txt:aranīdhaścārinibāhuśca medhā medhātithirvasuḥ ॥58॥
 %sivadharmasangraha10-12raw.txt:jyotiṣmān batimān havyaḥ savanaḥ patra eva ca ॥
 
@@ -19630,7 +19640,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
 
 <TEXT> muniś{ }ca dundubhiś{ }caiva sutā dyutimatas{ }tu vai||</TEXT> 24.21
         <APP>\vd <LEM>sutā dyutimatas</LEM> \msCa\msCb; sutadyutimanas \Ed</APP>
-        <PARAL>\vcd Ł= Liṅgapurāṇa 1.46.31ab$</PARAL>
+        <PARAL>\vcd <rm>= Liṅgapurāṇa 1.46.31ab</rm></PARAL>
         <!-- <TR>Muni, and Dundubhi, and [these are also the names of] Dyutimat's sons.</TR> -->
 
 <TEXT> dadhyardhe ghṛtamaṇḍodaḥ kuśadvīpasamāvṛtaḥ|</TEXT>
@@ -19656,7 +19666,7 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
 
 <TEXT> ṣaṣṭhaḥ prabhākaraś{ }caiva kapilaḥ saptamaḥ smṛtaḥ||</TEXT> 24.23
         <!-- <TR>the sixth is Prabhākara, and the seventh Kapila.</TR> -->
-        <PARAL>ŁCf. Brahmapurāṇa 20.36--37ab: $
+        <PARAL><rm>Cf. Brahmapurāṇa 20.36--37ab: </rm>
                  jyotiṣmataḥ kuśadvīpe śṛṇudhvaṃ tasya putrakān|
                  udbhido veṇumāṃś{ }caiva svairatho randhano dhṛtiḥ||
                  prabhākaro 'tha kapilas{ }tannāmnā varṣapaddhatiḥ|</PARAL>
@@ -19676,13 +19686,13 @@ CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
 %folioinfo \Ed\ p.675
 <TEXT> śvetaś{ }ca haritaś{ }caiva jīmūto rohitas{ }tathā|</TEXT>
         <APP>\vb <LEM>rohita°</LEM> \msCa\msCb; lohita° \Ed</APP>
-        <PARAL>\vab Ł= Liṅgapurāṇa 1.46.38cd$</PARAL>
+        <PARAL>\vab <rm>= Liṅgapurāṇa 1.46.38cd</rm></PARAL>
 
         <!-- <TR>Śveta, Harita, Jīmūta, Rohita,</TR> -->
 
 <TEXT> vaidyuto mānasaś{ }caiva suprabhaḥ saptamaḥ smṛtaḥ||</TEXT> 24.25
         <!-- <TR>Vaidyuta, Mānasa, and the seventh, Suprabhaḥ. </TR> -->
-        <PARAL>\vcd Ł\similar\ Liṅgapurāṇa 1.46.39ab: $
+        <PARAL>\vcd <rm>\similar\ Liṅgapurāṇa 1.46.39ab: </rm>
                         vaidyuto mānasaś{ }caiva suprabhaḥ saptamas{ }tathā</PARAL>
 
 
