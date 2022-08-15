@@ -5036,7 +5036,6 @@ etc.
                  Łpurūravās ati$° \rightarrow\ Łpurūravā ati$° \rightarrow\ Łpurūravāti$°.
 
                  ŁPāda$ a may refer to the following passage in the \MBH\ (1.70.16--18, 20ab):
-        <br/>
                                  <skt>purūravās tato vidvān ilāyāṃ samapadyata |<br/>
                                  sā vai tasyābhavan mātā pitā ceti hi naḥ śrutam ||<br/>
                                  trayodaśa samudrasya dvīpān aśnan purūravāḥ |<br/>
@@ -5067,6 +5066,8 @@ etc.
 
 <TEXT> sāgarāś{ }cātidarpeṇa atimānena rāvaṇaḥ||</TEXT> 4.56
         <APP>\va <LEM>sāgarā°</LEM> \eme; sagara° \msCa\msCb\msNa\msNb\msNc\Ed, sāgara° \msCc</APP>
+        <PARAL>\vd <rm>\compare\ \MahaSubhS\ 563cd: </rm>
+                        vinaṣṭo rāvaṇo laulyād{ }ati sarvatra varjayet</PARAL>
         <!-- <TR>Sagara's sons by excessive pride, Rāvaṇa by excessive haughtiness,</TR> -->
         <NOTE>
                 <sep/>
@@ -5243,57 +5244,71 @@ MSS_0566-1 atidīrghajīvidoṣād vyāsena yaśo'pahāritaṃ hanta /<BR>
 
 
 
-%EDDIG
 kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 % sandhi
 <TEXT> atidānād{ }balir{ }naṣṭa atiśauryeṇa arjunaḥ|</TEXT>
         <APP>\va <LEM>°r{ }naṣṭa</LEM> \msCa\msNa\msNb\msNc\Ed; °r{ }naṣṭo \msCb, naṣṭo \msCc</APP>
+        <PARAL>\va <rm>\compare\ \MahaSubhS\ 563ab: </rm>
+                        atidānād{ }balir{ }baddho naṣṭo mānāt{ }suyodhanaḥ</PARAL>
+        <NOTE>ŁPāda$ a is most probably a reference to Mahābali's promises made to Vāmana that caused his own fall. 
+                The ultimate cause of Arjuna' death while the Pāṇḍavas were on the way to the underworld 
+                was summarised by Yudhiṣṭhira thus (\MBH\ 17.2.21ab):
+                       <skt>ekāhnā nirdaheyaṃ vai śatrūn ity arjuno 'bravīt |
+                            na ca tat kṛtavān eṣa śūramānī tato 'patat</skt> ||.
+                (`Arjuna claimed that he could destroy the enemy in one single day. He failed to do so.
+                  He was a boaster, that is why he fell.')</NOTE>
         <!-- <TR>[Mahā]bali perished by excessive donations, Arjuna by excessive heroism,</TR> -->
-       <NOTE>Pāda a is most probably a reference to Mahābali's promises made to Vāmana that caused his fall. 
-                Arjuna: the exile? Flo Kirātārjunīya?? he killed Bhīṣma? Flo  </NOTE>
-% Gonda Elementary Sanskrit the same proverb on Bali -- Śukasaptati and Mahāsubhāṣitasaṃgraha
 
 <TEXT> atidyūtān{ }nalo rājā nṛgo goharaṇena tu||</TEXT> 4.58
         <APP>\vc <LEM>atidyūtān{ }nalo</LEM> \msCa\msCc\msNb\msNc; atidyūtān{ }naro \msCb\msNa, atikhyātān{ }nalo \Ed</APP>
         <APP>\vd <LEM>nṛgo go°</LEM> \Ed; nṛgaṅ{ }go° \msCa\msCc\msNb\msNc, nṛgaṃ go° \msCb\msNa</APP>
         <!-- <TR>King Nala by excessive gambling, Nṛga by taking a cow.</TR> -->
-        <PARAL>\vo <rm>After this verse, \Ed\ adds: </rm> 
+        <LACUNA>\vo <rm>After this verse, \Ed\ adds: </rm> 
                         tasmād{ }dama sadā sa rakṣet ati sarvatra varjayet
-                       <rm>(understand: </rm> tasmād{ }damaṃ sadā rakṣet ati sarvatra varjayet<rm>)</rm></PARAL>
+                <rm>(understand: </rm> tasmād{ }damaṃ sadā rakṣet ati sarvatra varjayet<rm>)</rm>
+                <rm>\compare\ \MahaSubhS\ 563cd: </rm>
+                        vinaṣṭo rāvaṇo laulyād{ }ati sarvatra varjayet</LACUNA>
         %``Therefore one should always preserve Self-restraint and should always avoid excessiveness.''
-        % PaperMS A1341 does note have this extra line:
+        % PaperMS A1341 does not have this extra line:
         /home/csaba/mmedia/images/scan/saiva/sivadharmacorpus/mss_florinda/newari/ngmpp/paper_mtm/A 1341-06/DSCN0337.JPG
-        % PaperMS C107-7 does note have this extra line either:
+        % PaperMS C107-7 does not have this extra line either:
         /home/csaba/mmedia/images/scan/saiva/sivadharmacorpus/mss_florinda/newari/ngmpp/paper_mtm/C 107-07_scribe_of_a1341?/DSCN8306.JPG
-               <NOTE><sep/> King Nala was an expert in the game of dice and lost his kingdom to Puṣkara in 
-                            a game. See e.g. Mahābhārata 3.56.1 ff. 
+                <NOTE>
+                        <sep/> 
+                        King Nala was an expert in the game of dice but once he lost his kingdom to Puṣkara.
+                        See, e.g., \MBH\ 3.56.1 ff. 
+
                 <sep/>
-                       As for Nṛga, see Mahābhārata 14.93.74: <br/>
-                       <skt>
-                       gopradānasahasrāṇi dvijebhyo 'dān nṛgo nṛpaḥ|<br/>
-                       ekāṃ dattvā sa pārakyāṃ narakaṃ samavāptavān||</skt>
-                               (``King Nṛga had made gifts of thousands of cows for the twice-born.
-                                 By giving away one single cow that belonged to someone else, 
-                                 he fell into hell.'') </NOTE>
+                       As for Nṛga, see \MBH\ 14.93.74: <br/>
+                       <skt>gopradānasahasrāṇi dvijebhyo 'dān nṛgo nṛpaḥ |<br/>
+                            ekāṃ dattvā sa pārakyāṃ narakaṃ samavāptavān ||.</skt>
+                         (``King Nṛga had made gifts of thousands of cows for the twice-born.
+                         By giving away one single cow that belonged to someone else, 
+                         he fell into hell.'') </NOTE>
  
+
 <NOTANUSTUBH/> upajāti
 <TEXT> damena hīnaḥ puruṣo dvijendra</TEXT>
         <APP>\va <LEM>hīnaḥ puruṣo dvijendra</LEM> \mssCaCbCc\msNa\msNc; 
                                 hīna puruṣo dvijendra \msNb, hīnaṃ puruṣaṃ dvijendraḥ \Ed</APP>
-        <!-- <TR>[For] a person who is without Self-restraint, O great Brahmin,</TR> -->
+        <!-- <TR>[For] a person who is without self-restraint, O great Brahmin,</TR> -->
 
-% gender
 <TEXT> svargaṃ ca mokṣaṃ ca sukhaṃ ca nāsti|</TEXT>
-        <!-- <TR>there is no heaven, liberation or happiness.</TR> -->
-        <NOTE>Note how flexible the gender of most nouns is in pāda b: 
+        <NOTE>Note how flexible the gender of most nouns is in Łpāda$ b: 
                         Łsvarga$, Łmokṣa$ and Łdama$ are usually masculine in standard Sanskrit.</NOTE>
+        <!-- <TR>there is no heaven, liberation or happiness.</TR> -->
 
-% unmetr:
+%index_grammar: gender
+
+        -  - .  -  - . . -  . - -
 <TEXT> vijñānadharmakulakīrtināśa</TEXT> 
         <APP>\vc <LEM>°nāśa</LEM> \msCb; °nāśo \Ed °nāma \msCa\msCc\msNa, °naśca \msNb, °nāgā \msNc</APP>
-        <NOTE>The majority of the witnesses suggest that pāda c ends in a stem form noun (Ł°nāśa$).
-                This pāda is unmetrical, or rather it applies the licence of a word-final
+        <NOTE>The majority of the witnesses suggest that Łpāda$ c ends in a stem form noun (Ł°nāśa$).
+                This Łpāda$ is unmetrical, or rather it applies the licence of a word-final
                 short syllable being counted as potentially long (Ł°dharMA°$). </NOTE>
+
+%index_metre: long syllable at end of word
+%index_grammar: stem form noun
 
 % unmetr:
 <TEXT> bhavanti vipra damayā vihīnāḥ||</TEXT> 4.59
@@ -5301,12 +5316,12 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
                  <LEM>damayā</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; dayā \msCbacorr</APP>
         <!-- <TR>O Brahmin, people without Self-restraint 
                         are the destruction of knowledge, Dharma, family and fame.</TR> -->
-        <NOTE>Note how Łviprā$ in pāda d is probably an attempt in some MSS to restore the metre.
-                This pāda is also unmetrical, or rather it applies the licence of a word-final
-                short syllable being counted as potentially long (ŁviPRA$).</NOTE>
+        <NOTE>Note how Łviprā$ in Łpāda$ d is probably an attempt in some MSS to restore the metre.
+                This Łpāda$ is also unmetrical, or rather the licence of a word-final
+                short syllable being counted as potentially long is again applied (ŁviPRA$).</NOTE>
 
-
-
+%index_metre: upajāti
+%index_metre: long syllable at end of word
 
 %folioinfo \msCc\ 195.jpg, f. 276r
 <SUBCHAPTER>yameṣu ghṛṇā (6)</SUBCHAPTER>
@@ -5317,27 +5332,27 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         <APP>\va <LEM>nirghṛṇo</LEM> \msCa\msCb\msNb; nighṛṇo \msCc\msNc, nirghṛṇa \msNaacorr, 
                                 nirghṛ<UNCL>ṇe</UNCL> \msNapcorr, nirghṛṇe \Ed</APP>
         <APP>\vb <LEM>nirghṛṇo</LEM> \msCa\msCb\msNaacorr\msNb; nighṛṇo \msCc\msNc, nirghṛṇe \msNapcorr\Ed</APP>
-        <!-- <TR>[For] a person without taboos there is neither the other world, nor this life.</TR> -->
-% Judit maybe no gen. 'they are no sat', they have not got their place in heaven?
+        <NOTE>The implications of Łpāda$s ab are not crystal clear to me. Perhaps:
+              such a person has no right for existence in society and has no place in heaven.</NOTE>
+        <!-- <TR>A person without taboos does not exists either in this or the other world.</TR> -->
 
 <TEXT> nirghṛṇe na ca dharmo 'sti nirghṛṇe na tapo 'sti vai||</TEXT> 4.60
         <APP>\vc <LEM>nirghṛṇe</LEM> \msCa\msCb\msNb\Ed; nighṛṇe \msCc\msNa\msNc</APP>
         <APP>\vd <LEM>nirghṛṇe</LEM> \msCa\msCb\msNa\msNb\Ed; nighṛṇe \msCc\msNc</APP>
-        <!-- <TR>In the case of a person without taboos there is no Dharma or religious austerity.</TR> -->
+        <!-- <TR>In a person without taboos there is no Dharma or religious austerity.</TR> -->
 % in a person Judit he has no... aversion 
 % Judit likes 'taboo'
 
 <TEXT> parastrīṣu parārtheṣu parajīvāpakarṣaṇe|</TEXT>
         <APP>\vb <LEM>°jīvāpakarṣaṇe</LEM> \msCa\msCc\msNa\msNb\msNc; °jīvāparkaṇe \msCb, °jīvopakarṣaṇe \Ed</APP>
+        <!-- <TR>These five should be treated as taboo:
+                 women who are not depending on oneself, others' wealth, taking away others' lives,</TR> -->
 
 <TEXT> paranindāparānneṣu ghṛṇāṃ pañcasu kārayet||</TEXT> 4.61
         <APP>\vc <LEM>paranindā°</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; paranind¤° \msCa\oo
                  <LEM>°parānneṣu</LEM> \mssCaCbCc\msNa\msNc\Ed; °parāṃneṣu \msNb</APP>
         <APP>\vd <LEM>ghṛṇāṃ</LEM> \msCa\msCb\msNa\msNc; ghṛṇā \msCc\msNb\Ed</APP>
-        <!-- <TR>These five are taboo:
-                 women who are not depending on oneself, others' wealth, taking away others' lives, 
-                 hurting others and [consuming] others' food.</TR> -->
-% interest? Francesco
+        <!-- <TR>hurting others and [consuming] others' food.</TR> -->
         
 <TEXT> parastrī śṛṇu viprendra ghṛṇīkāryā sadā budhaiḥ|</TEXT>
         <APP>\va <LEM>ghṛṇī°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; ghṛṇā \msCb</APP>
@@ -5347,8 +5362,9 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 <TEXT> rājñī viprī parivrājā svayoniparayoniṣu||</TEXT> 4.62
         <APP>\vc <LEM>°vrājā</LEM> \mssCaCbCc\msNc; °vrājī \msNa\msNb, °vrājyā \Ed</APP>
         <APP>\vd <LEM>°para°</LEM> \mssCaCbCc\msNa\msNc\Ed; °paśu° \msNb</APP>
+        <NOTE>The translation of Łparayoni$ in Łpāda$ d is tentative.</NOTE>
         <!-- <TR>[be she] a queen, a Brahmin's wife, a wandering religious mendicant, 
-                        a relative or of another family.</TR> -->
+                        a relative or of another caste.</TR> -->
 % Judit parastrī might be the first category and then rājñī ... ?
 
 %folioinfo \msM\ 420.jpg upper, f. 8v  
@@ -5356,10 +5372,15 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 <TEXT> parārthe śṛṇu bhūyo 'nya anyāyārtha{-}m{-}upārjanam|</TEXT>
         <APP>\vb <LEM>anyāyā°</LEM> \mssCaCbCc\msNa\msNc\Ed; anyayā° \msNb\oo
                  <LEM>°rjanam</LEM> \mssCaCbCc\msNa\msNc\Ed; °rjjavam \msNb</APP>
-        <PARAL>\vb <rm>cf.\ Bhagavadgītā 16.12: </rm>
+        <PARAL>\vb <rm>\compare\ \BHG\ 16.12: </rm>
                 āśāpāśaśatair{ }baddhāḥ kāmakrodhaparāyaṇāḥ|
                 īhante kāmabhogārtham{ }anyāyenārthasaṃcayān||</PARAL>
-        <!-- <TR>Listen further to something else with regards to others' wealth.
+        <NOTE>Although Ł'nya$ in Łpāda$ a could be interpreted several ways (e.g. Łanye$ for Łanyasmin$, 
+              or taken to be the first element of a compound: Łanya-anyāyārtha-$),
+              I think that Łbhūyo 'nyat$ is a fixed expression meaning `something/anything more.' 
+              See, e.g., \BHG\ 7.2cd:
+              <skt>yaj jñātvā neha bhūyo 'nyaj jñātavyam avaśiṣyate</skt>.</NOTE>
+        <!-- <TR>Listen further to something else, with regards to others' wealth.
                  [It may include] gaining wealth through unlawful means,</TR> -->
 % Judit anyāyārtha is the first thing
 % Fra maybe pāda b works fine
@@ -5371,7 +5392,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         <APP>\vc <LEM>°tulā°</LEM> \mssCaCbCc\msNa\msNc\Ed; °tula° \msNb</APP>
         <APP>\vd <LEM>°rthaṃ</LEM> \msCa\msCb\msNa\Ed; °rtha \msCc, <UNCL>°rtha</UNCL> \msNb, °rthe \msNc</APP>
         <!-- <TR>when somebody takes away other people's wealth by cheating with
-                [small] weights of an Łāḍha[ka]$ or a Łprastha$ and with scales.</TR> -->
+                 weights of one Łāḍha[ka]$ or a Łprastha$ and with scales.</TR> -->
 
 <TEXT> jīvāpakarṣaṇe vipra ghṛṇīkurvīta paṇḍitaḥ|</TEXT>
         <APP>\va <LEM>vipra</LEM> \msCb\msNa\msNb\msNc\Ed; vi<UNCL>pra</UNCL> \msCa, vipre \msCc</APP>
@@ -5385,13 +5406,16 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         <APP>\vd <LEM>vilagāś{ }caraṇācarāḥ</LEM> \corr; 
                         vilagācaraṇācarāḥ \msCa\msCb\msNc, vilagocaragocaraḥ \msCc\Ed, vilagocaragocarāḥ \msNa,
                                                         <UNCL>vilagācara</UNCL>ṇācarāḥ \msNb</APP>
-        <!-- <TR>Wild and domesticated animals, [serpents] that live in holes and those that 
-                walk on their feet [are examples of life forms not to destroy].</TR> -->
-        <NOTE>In pāda d, understand Łcaraṇācara$ as Łcaraṇacara$ (metri causa).</NOTE>
+        <NOTE>In Łpāda$ d, I take Łcaraṇācarāḥ$ as standing for Łcarācarāḥ$ (Łcara-acarāḥ$) metri causa.
+              Alternatively, one may understand it as Łcaraṇacarāḥ$ (metri causa), 
+              meaning `those who move on their feet,' perhaps as opposed to snakes (Łbilaga$ or Łbilaṃga$).
+              Neither solution is fully satisfactory. Note that this Łpāda$ also involves a small correction.</NOTE>
+        <!-- <TR>Wild and domesticated animals, serpents, [in general,] 
+                 plants and animals [are examples of life forms not to destroy].</TR> -->
+
 % vihagācaraṇācarāḥ?
 % bilaga ! Nirājan bilaṃgama serpent 
 % walk on their feet Judit 
-% wild and domesticated animals
 
 %folioinfo \msNc\ 219.jpg upper, f. 216v
 <TEXT> paranindā ca kā vipra śṛṇu vakṣye samāsataḥ|</TEXT>
@@ -5400,9 +5424,10 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 
 <TEXT> devānāṃ brāhmaṇānāṃ ca gurumātātithidviṣaḥ||</TEXT> 4.65
         <PARAL>\vcd <rm>These two pādas are illegible in \msNb</rm></PARAL>
+        <NOTE>Note Łmātā$ as a stem form in Łpāda$ d.</NOTE>
         <!-- <TR>He who is hostile to the gods, Brahmins, gurus, mothers and guests [hurts others].</TR> -->
-        <NOTE>Note Łmātā$ as a stem form.</NOTE>
-% dviṣaḥ as nom. of all the others Judit 
+
+%index_voc: mātā as stem
 
 %folioinfo \msNb\ 50.jpg lower
 <TEXT> parānneṣu ghṛṇā kāryā abhojyeṣu ca bhojanam|</TEXT>
@@ -5410,6 +5435,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         <!-- <TR>As regards other people's food, eating together with people whose food
                         is not to be accepted (Łabhojyeṣu$) is taboo,</TR> -->
 
+%EDDIG 
 % any association with alcohol
 <TEXT> sūtake mṛtake śauṇḍe varṇabhraṣṭakule naṭe||</TEXT> 4.66
         <APP>\vc <LEM>śauṇḍe</LEM> \msNa; sauṇḍye \msCa\msCc\msNc, śoṇḍye \msCb, <UNCL>sauṇḍe</UNCL> \msNb, sauṇḍo \Ed</APP>
