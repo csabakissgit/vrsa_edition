@@ -156,6 +156,7 @@ set undodir=~/.vim/undodir
 set undofile
 set wildignore=*/.git/*,*/tmp/*,*.swp,*~,*.log,#*
 set wildmenu
+set window=39
 let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
 let v:this_session=expand("<sfile>:p")
 silent only
@@ -225,7 +226,7 @@ let &cpo=s:cpo_save
 unlet s:cpo_save
 setlocal keymap=sanskrit
 setlocal noarabic
-setlocal autoindent
+setlocal noautoindent
 setlocal backupcopy=
 setlocal balloonexpr=
 setlocal nobinary
@@ -281,7 +282,7 @@ setlocal iminsert=1
 setlocal imsearch=-1
 setlocal include=
 setlocal includeexpr=
-setlocal indentexpr=XmlIndentGet(v:lnum,1)
+setlocal indentexpr=
 setlocal indentkeys=o,O,*<Return>,<>>,<<>,/,{,},!^F
 setlocal noinfercase
 setlocal iskeyword=@,48-57,_,192-255
@@ -345,14 +346,14 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 5438 - ((14 * winheight(0) + 15) / 30)
+let s:l = 5919 - ((18 * winheight(0) + 19) / 38)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-5438
-normal! 07|
+5919
+normal! 071|
 tabnext 1
-badd +0 vrsasarasamgraha.xml
+badd +6603 vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
