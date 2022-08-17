@@ -3839,18 +3839,19 @@ Peter Bisschop studied the kotihoma CHECK
                    <rm>\similar\ \VDHU\ 3.265.4cd--5ab: </rm>
                         satyena vāyur{ }abhyeti satyenābhāsate raviḥ || 
                         satyena cāgnir{ }dahati svargaṃ satyena gacchati | </PARAL>
-        <!-- <TR>The winds blow because of truth. Water is cooling through truth.</TR> -->
         <NOTE>Here and several times below, Łsatye$ is probably to be taken as standing for Łsatyena$.</NOTE>
+        <!-- <TR>The winds blow because of truth. Water is cooling through truth.</TR> -->
 
 %index_grammar: locative (-e) for instrumental
 
-%index_grammar: without licence it is iambic, satye for satyena?
+%index_grammar: without licence it is iambic (WHAT?), satye for satyena?
+
                 % what is the logic; Flo: Śiva instructing him?
 <TEXT> tiṣṭhanti sāgarāḥ satye samayena priyavrataḥ|</TEXT>
         <APP>\va <LEM>sāgarāḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; sāgarā \msCc</APP>
         <APP>\vb <LEM>samayena</LEM> \mssCaCbCc\msNa\msNb\msNc; satyena ca \Ed</APP>
         <NOTE>ŁPāda$ b, Łsamayena priyavrataḥ$, probably stand for Łsamayena priyavratasya$ although
-        it is unclear to me what exactly Łsamaya$ refers to here.
+              it is unclear to me what exactly Łsamaya$ refers to here.
         <sep/>
 
         For the story of Priyavrata, Manu's son, in which he wanted to turn nights into days by 
@@ -5509,7 +5510,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         <!-- <TR>[A person like that] will obtain wisdom, intelligence, [knowledge of] the Śruti and Smṛti traditions,
                  and honour forever.</TR> -->
 
-%index_grammar: muta cum liquida licence śr:
+%index_metre: muta cum liquida licence śr:
 
 <TEXT> dākṣiṇyaṃ sabhavet{ }sa āyuṣa paraṃ prāpnoti niḥsaṃśayaḥ||</TEXT> 4.67
         <APP>\vd <LEM>sa āyuṣa</LEM> \eme; samāyuṣa \mssCaCbCc\msNc, samāyuṣaḥ \msNa\ \unmetr,
@@ -5933,7 +5934,7 @@ Brahmavihāras go back to the upaniṣads
         <APP>\va <LEM>pañcārjavāḥ</LEM> \msCa\msCb\msNa\msNc; pañcārjavaḥ \msCc, ¤¤¤¤ \msNb, pañcārjavā \Ed\oo
                  <LEM>praśaṃsanti</LEM> \mssCaCbCc\msNc; praśasanti \msNa\Ed, <UNCL>prasasanti</UNCL> \msNb</APP>
         <NOTE>°Łārjavāḥ$ should be in the accusative, therefore it is to be taken as feminine (rather than neuter) or as
-               an irregular form for °Łārjavāni$.</NOTE>
+               an irregular form for °Łārjavāni$. I have emended Łpāratoṣikam$ to Łpāritoṣikam$.</NOTE>
         <!-- <TR>The sages who see the truth praise five types of sincerity.</TR> -->
 
 %folioinfo \msCa\ 398.jpg
@@ -5942,35 +5943,38 @@ Brahmavihāras go back to the upaniṣads
         <APP>\vc <LEM>karma°</LEM> \msCb\msCc\msNa\msNc\Ed; ¤rmma° \msCa, <UNCL>kammā</UNCL>° \msNb\oo
                  <LEM>°vṛttyābhivṛddhiṃ ca</LEM> \mssCaCbCc\msNa\msNc;
                                 °vṛttibhivṛddhiñ{ }ca \msNb, °vṛtyābhivṛddhiś{ }ca \Ed</APP>
-        <!-- <TR>[Sincerity] in action, in livelihood, in prosperity, in gratifying others [and ...?].</TR> -->
+        <APP>\vd <LEM>pāritoṣika°</LEM> \eme; pāratoṣika° \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <!-- <TR>A sincere person does not rejoice in prosperity arising from the operation of karma or by a reward,</TR> -->
 
 <TEXT> strīdhanotkocavittaṃ ca ārjavo nābhinandati||</TEXT> 4.86
         <APP>\ve <LEM>strīdhanotkoca°</LEM> \mssCaCbCc\msNa\msNb\msNc; strīdhanaṅgo ca \Ed\oo
                  <LEM>°vittaṃ ca</LEM> \mssCaCbCc\msNa\msNc\Ed; °vittiñ{ }ca \msNb</APP>
         <APP>\vf <LEM>ārjavo nā°</LEM> \msCa\msCb\msNa\msNb\msNc; ārjavañ{ }ca \msCc, ārjjavenā° \Ed</APP>
-        <!-- <TR>A sincere person does not rejoice in women, wealth, bribery and property.</TR> -->
+        <NOTE>My translation of the categories listed here is tentative, the only guiding light being
+              that, if the first line is right, there should be five of them. In addition, I have tried to
+              find categories that seem to be, more or less, in conflict with `sincerity' or `straightness.'</NOTE>
+        <!-- <TR>in riches from women, from property, and bribery.</TR> -->
 
-% Flo maybe yajña is vain in itself
-% Nirajan if he is not ārjava, yajña is in vain
 <TEXT> ārjavo na vṛthā yajña ārjavo na vṛthā tapaḥ|</TEXT>
         <APP>\vab <LEM>ārjavo na vṛthā yajña ārjavo na vṛthā tapaḥ</LEM> \mssCaCbCc\msNb\msNc; \om\ \msNaacorr,
                                                  ārjavo na vṛthā yajña ārjavo na vṛthā tapa \msNapcorr,                  
                                                  ārjavo na vṛthā yajñaś{ }cārrjavo na vṛthā tapaḥ \Ed</APP>
-        <!-- <TR>Sincerity [means] no sacrifice [performed] idly. Sincerity [means] no austerity [performed] idly.</TR> -->
+        <!-- <TR>If one is not sincere, sacrifice is in vain. If one is not sincere, austerity is in vain.</TR> -->
 
 <TEXT> ārjavo na vṛthā dānam{ }ārjavo na vṛthāgnayaḥ||</TEXT> 4.87
         <APP>\vcd <LEM>(ārjavoŁ...$ vṛthāgnayaḥ)</LEM> \mssCaCbCc\msNa\msNb\msNc; \om\ \Ed</APP>
-        <!-- <TR>Sincerity [means] no donation [given] idly. Sincerity [means] no fires [kindled] idly.</TR> -->
+        <NOTE>I thank Nirajan Kafle for helping me interpret this verse.</NOTE>
+        <!-- <TR>If one is not sincere, donation is in vain. If one is not sincere, [sacrificial] fires are in vain.</TR> -->
 
-% apitiṣṭhati in one word? Nirajan Śaṅkara bhāṣya to Bṛhadāraṇyaka
 <TEXT> ārjavasyendriyagrāmaḥ suprasanno 'pi tiṣṭhati|</TEXT>
         <APP>\vab <LEM>(ārjava°Ł...$ tiṣṭhati)</LEM> \mssCaCbCc\msNa\msNb\msNc; \om\ \Ed</APP>
         <APP>\va <LEM>°grāmaḥ</LEM> \msCa\msCb\msNc\Ed; °grāmāt \msCc\msNb, °grāmāḥ \msNa</APP>
         <!-- <TR>The sense faculties of a sincere person are firm even when he is delighted.</TR> -->
+% apitiṣṭhati in one word? Nirajan Śaṅkara bhāṣya to Bṛhadāraṇyaka
 
 <TEXT> ārjavasya sadā devāḥ kāye tasya caranti te||</TEXT> 4.88
         <APP>\vd <LEM>tasya caranti</LEM> \msCb\msCc\msNa\msNb\msNc; tasya ramanti \Ed, ta¤××nti \msCa</APP>
-        <!-- <TR>The gods always live inside the body of a sincere person.</TR> -->
+        <!-- <TR>The gods are always present in the body of a sincere person.</TR> -->
 
 
 <NOTANUSTUBH/> mālinī 
@@ -5978,50 +5982,51 @@ Brahmavihāras go back to the upaniṣads
         <APP>\va <LEM>yamapravibhāgaḥ</LEM> \msCa\msCb\msNb\msNc; yamavibhāgaḥ \msCc,
                                 yamapraribhāgaḥ \msNa, niyamaparibhāgaḥ \Ed\oo
                  <LEM>dvijendra</LEM> \mssCaCbCc\msNa\msNb\msNc; narendra \Ed</APP>
-        <!-- <TR>Thus has been taught this section on the Łyama$-rules, O great Brahmin.</TR> -->
-        <NOTE>In pāda a Ł°pra°$ does not make the previous syllable long: this is the phenomenon of
-                `muta cum liquida', one of the hallmarks of the ŁVṛṣasārasaṃgraha$, 
+        <NOTE>In Łpāda$ a °Łpra$° does not make the previous syllable long: this is the phenomenon of
+                `muta cum liquida,' one of the hallmarks of the \VSS, 
                 that is, syllables such as Łtra, pra, bra, dra$ do not necessarily make the 
                 previous syllable long.</NOTE>
-%index_grammar: (first line unmetrical/licence pr) 
+        <!-- <TR>Thus has been taught this section on the Łyama$-rules, O great Brahmin.</TR> -->
+
+%index_metre: licence pr muta cum liquida 
 
 %                                       taṃ? tat in \msCc
 <TEXT> iha parata sukhārthaṃ kārayet{ }taṃ manuṣyaḥ|</TEXT>
         <APP>\vb <LEM>°yet{ }taṃ manuṣyaḥ</LEM> \corr; °yet{ }tan{ }manuṣyaḥ \msCa\msNa\msNb\msNc\Ed, °yet{ }ta manuṣyaḥ \msCb,
                                                                  °yet{ }tat{ }manuṣyaḥ \msCc</APP>
+        <NOTE>In Łpāda$ b, Łparata$ most probably stands for Łparatra$ or Łparataḥ$ metri causa. 
+              We may correct it to Łparatra$, presupposing the presence of the licence `muta cum liquida.'</NOTE>
         <!-- <TR>Humans should follow them to reach happiness here and in the other world.</TR> -->
-        <NOTE>In pāda b, Łparata$ most probably stands for Łparatra$ or Łparataḥ$ metri causa. 
-        We may correct it to Łparatra$ (`muta cum liquida').</NOTE>
 
 <TEXT> duritamalapahārī śaṅkarasyājñayāste</TEXT>
         <APP>\vc <LEM>durita°</LEM> \mssCaCbCc\msNa\msNb\msNc; irita° \Ed\oo
                  <LEM>°pahārī</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °palapahārī \msCc\oo
                  <LEM>°jñayāste</LEM> \mssCaCbCc\msNb\msNc\Ed; °jñayāte \msNa</APP>
-        <!-- <TR>He'll live by Śaṅkara's command with his filth of sins destroyed.</TR> -->
+        <!-- <TR>One will stand removing one's filth of sins, and shall by Śaṅkara's command</TR> -->
         <NOTE>Ł°malapahārī$ in the MSS stands either for Ł°malāpahārī$ or Ł°malaprahārī$ metri causa. 
-                I could have choosen to emend it to Ł°malaprahārī$ (`muta cum liquida' again),
-                but I decided not to because Łapahārin$, Łapahāra$
-                Łapahāraka$ are used in the text very frequently. See also 8.XX, which contains a very similar expression:
-                        Łsakalamalapahāre dharmapañcāśad etat$.</NOTE>
+                I could have choosen to emend it to Ł°malaprahārī$ (again with applying the licence `muta cum liquida'),
+                but I decided not to because Łapahārin$, Łapahāra$, Łapahāraka$ are used in the text very frequently. 
+                See also 8.44c, which contains a very similar expression: Łsakalamalapahāre dharmapañcāśad etat$.</NOTE>
 
-         % should it not be cchatra? unmetr...  eme: pravartā (pravartṛ)
+ % should it not be cchatra? unmetr...  eme: pravartā (pravartṛ)
 % cakravartā 
 % ekāṭapattra Nirajan like my pravṛtṛ
 <TEXT> bhavati pṛthivibhartā hy{ }ekachatrapravartā||</TEXT> 4.89
         <APP>\vd <LEM>°vartā</LEM> \conj; °vṛttā \mssCaCbCc\msNb\msNc, °vṛttāḥ \msNa\Ed</APP>
-        <!-- <TR>He'll become a ruler of the world [that he subjugates] under one royal umbrella.</TR> -->
+        <!-- <TR>become a ruler of the world [that he subjugates] under one royal umbrella.</TR> -->
 % एकातपत्रं जगतः 
+
+%index_metre: mālinī
 
 <ANUSTUBH/>
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe yamavibhāgo nāmādhyāyaś{ }caturthaḥ</COLOPHON></TEXT>
         <APP> Ł\Colo: $ <LEM>nāmādhyāyaś{ }caturthaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc;
                                                          nāmaś{ }caturtho 'dhyāyaḥ \Ed</APP>
-        <TRCOLOPHON>Here ends the fourth chapter in the Vṛṣasārasaṃgraha called the Section on the Yama-rules.</TRCOLOPHON>
+        <TRCOLOPHON>Here ends the fourth chapter in the ŁVṛṣasārasaṃgraha$ called the Section on the Yama-rules.</TRCOLOPHON>
 
 %END OF CHAPTER 4
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<STOP/>
 
 
 
@@ -6419,6 +6424,7 @@ Brahmavihāras go back to the upaniṣads
 
 
 
+<STOP/>
 <startchapter-n="6"/> 
 %folioinfo \Ed\ p.599
 %folioinfo \msCa\ 399.jpg
