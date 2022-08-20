@@ -2139,7 +2139,7 @@ Candrakirti_Catuhsatakatika , line 646
 
 
 <TEXT> tasyeśānasya devasya aiśvaryaguṇavistaram|</TEXT>
-        <PARAL>\vc <rm>\compare\ \MBH\ (Indeces) 14.4.2743: </rm> aiśvaryaguṇasaṃpannāḥ krīḍanti ca yathāsukham, 
+        <PARAL>\vc <rm>\compare\ \MBH\ (Indices) 14.4.2743: </rm> aiśvaryaguṇasaṃpannāḥ krīḍanti ca yathāsukham, 
                               <rm>and \BRAHMANDAPUR\ 1.26.1: </rm> mahādevasya mahātmyaṃ prabhutvaṃ ca mahātmanaḥ |  
                                                             śrotum{ }icchāmahe samyag{ }aiśvaryaguṇavistaram ||</PARAL>
         <!-- <TR>Nobody would be able to tell the extent of the qualities of the god Īśāna's</TR> -->
@@ -3052,7 +3052,7 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
  
 <TEXT> smārto varṇāśramācāro yamaiś{ }ca niyamair{ }yutaḥ||</TEXT> 3.15
         <APP>\ve <LEM>smārto</LEM> \eme; smārta \msCa\msCb\msNa\msNb\msNc\Ed</APP>
-        <PARAL>\vcdef\ <rm> \similar\ \MBH\ Indeces 1.36.10: 
+        <PARAL>\vcdef\ <rm> \similar\ \MBH\ Indices 1.36.10: 
                                 </rm>dānāgnihotram{ }ijyā ca śrautasyaitad{ }dhi lakṣaṇam|
                                 smārto varṇāśramācāro yamaiś{ }ca niyamair{ }yutaḥ||
                          \similar\ <rm>\MATSP\ 145.30cd--31ab:
@@ -3061,7 +3061,7 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
                          \similar\ <rm>\BRAHMANDAPUR\ 1.32.33cd--34ab: </rm>
                                 dārāgnihotrasambandhād dvidhā śrautasya lakṣaṇam|
                                 smārto varṇāśramācārair{ }yamaiḥ sa niyamaiḥ smṛtaḥ||</PARAL>
-        % CHECK how to refer to \MBh\ Indeces
+        % CHECK how to refer to \MBh\ Indices
         <!-- <TR>The Smārta [tradition] [focuses on] the conduct (Łācāra$) of the classes (Łvarṇa$) and life-stages (Łāśrama$)
                   which is connected to rules and regulations (Łyama-niyama$).</TR> -->
         <NOTE>
@@ -3616,7 +3616,7 @@ Peter Bisschop studied the kotihoma CHECK
                                               \msCb\ ff.\thinspace 206r--208v, 
                                               \msCc\ ff.\thinspace 273v--277r,
                                               \msNa\ ff.\thinspace 6r--9r, 
-                                              \msNb\ exp.\thinspace 48 (lower) -- 50 (upper),
+                                              \msNb\ exp.\thinspace 48--50 (lower--upper),
                                               \msNc\ ff.\thinspace 214v--217r,
                                               \Ed\ pp.\thinspace 591--597;
                                         \mssCaCbCc\ = \msCa + \msCb + \msCc$</LACUNA>
@@ -3814,7 +3814,7 @@ Peter Bisschop studied the kotihoma CHECK
 <TEXT> aśvamedhasahasrād{ }dhi satyam{ }eva viśiṣyate||</TEXT> 4.10
         <APP>\vc <LEM>°sahasrād{ }dhi</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °sahasrā hi \msCc</APP>
         <APP>\vd <LEM>eva</LEM> \msCa\msCb\msNa\msNb\msNc; evaṃ \msCc\Ed</APP>
-        <PARAL>\vo <rm> = \MBH\ 1.69.22 = \MBH\ Indeces 13.20.330 = \MARKP\ 8.42 = \VDHU\ 3.265.7
+        <PARAL>\vo <rm> = \MBH\ 1.69.22 = \MBH\ Indices 13.20.330 = \MARKP\ 8.42 = \VDHU\ 3.265.7
                 \similar\ \MBH\ 12.156.26 (pāda d reads </rm> satyam{ }evātiricyate<rm>) \similar\ \VDH\ 55.6 
                            (pāda d reads </rm> satyam{ }etad{ }viśiṣyate<rm>)</rm>;
         <rm>\compare\ \SDHS\ 11.107: </rm>
@@ -4509,6 +4509,9 @@ MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with th
                         the ŁTantrasamuccaya$ (1.16--23), and the ŁĪśānaśivagurudevapaddhati$ (Łkriyāpāda$ 26.56--63). 
                                        See also \TAKI\ s.v. Łaṣṭamūrti$.</NOTE>
 
+% ŚDhŚ CHECK! 
+mūrtayo yāḥ śivasyāṣṭau tāsu nindāṃ vivarjayet |
+guroś ca śivabhaktānāṃ nṛpasādhutapasvināṃ || 12.17 ||
 
 %index_grammar: clumsy
 
@@ -4714,7 +4717,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
                                  labhaty{ }asau tam{ }anṛtaṃ sa karttā \msCc,
                                  bhavaty{ }asau dharmam{ }aśeṣakartā \Ed</APP>
         <NOTE>Although the accusative with °Łkartā$ in Łpāda$ d is still not optimal, my 
-              emendation of Łtaṃ$ to Łtāṃ$ at least restores the metre and improves 
+              emendation of Łtam$ to Łtām$ at least restores the metre and improves 
               upon the meaning of the sentece. Alternatively, as suggested by Törzsök,
               Łtaṃ$ could be understood as Łtad$, picking up Łpuṇyaṃ$ in Łpāda$ c,
               but in this way any reference to cows here is only implied.</NOTE>
@@ -4921,7 +4924,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
 
 <TEXT> dama eva manuṣyāṇāṃ dharmasārasamuccayaḥ|</TEXT> 
         <APP>\vb <LEM>dharmasāra°</LEM> \eme; dharmaḥ sāra° \mssCaCbCc\msNa\msNb\msNc, dharmabhāra° \Ed</APP>
-        <PARAL>\vb <rm>\compare\ e.g. \MBH\ Indeces 14.4.2477: </rm>śrotum icchāmi kārtsnyena dharmasārasamuccayam</PARAL>
+        <PARAL>\vb <rm>\compare\ e.g. \MBH\ Indices 14.4.2477: </rm>śrotum icchāmi kārtsnyena dharmasārasamuccayam</PARAL>
         <!-- <TR>Self-restraint is in itself the collected essence of Dharma for humans.</TR> -->
 % see MBh e.g. maybe quote some for support
 % a work called dharmasārasamuccaya:
@@ -5730,7 +5733,7 @@ Brahmavihāras go back to the upaniṣads
 
 % ṅgaṇāgamam \msCc
 <TEXT> brahmahatyā surāpānaṃ steyo gurvaṅganāgamam|</TEXT> 
-        <PARAL>\vcdef <rm>\similar\ \MBH\ Indeces 12.30: </rm>
+        <PARAL>\vcdef <rm>\similar\ \MBH\ Indices 12.30: </rm>
                     brahmahatyāṃ surāpānaṃ steyaṃ gurvaṅganāgamam|
                     mahānti pātakāny{ }āhuḥ saṃyogaṃ caiva taiḥ saha||
                     <rm> \similar\ \Manu\ 11.55 (in Olivelle's edition): </rm>
@@ -6059,7 +6062,7 @@ Brahmavihāras go back to the upaniṣads
                                               \msCb\ ff.\thinspace 208v--209r, 
                                               \msCc\ ff.\thinspace 277r--278r,
                                               \msNa\ ff.\thinspace 9r--9v, 
-                                              \msNb\ exp.\thinspace 50 (upper) -- 51 (lower),
+                                              \msNb\ exp.\thinspace 50 (upper) and 51 (lower),
                                               \msNc\ ff.\thinspace 217r--218r,
                                               \msM\ ff.\thinspace 9r--10r,
                                               \Ed\ pp.\thinspace 597--599;  
@@ -6157,7 +6160,7 @@ Brahmavihāras go back to the upaniṣads
 
 
 <SUBCHAPTER>niyameṣu śaucam (1)</SUBCHAPTER>
-<TRSUBCHAPTER>The first niyama-rule: Purity</TRSUBCHAPTER>
+<TRSUBCHAPTER>The first Niyama-rule: Purity</TRSUBCHAPTER>
 
 <TEXT> tatra śaucādinirdeśaṃ vakṣyāmīha dvijottama|</TEXT>
         <APP>\va <LEM>°nirdeśaṃ</LEM> \mssCaCbCc\msNc\msM\Ed; °niyamaṃ \msNa, °rddeśaṃ \msNb</APP>
@@ -6173,7 +6176,7 @@ Brahmavihāras go back to the upaniṣads
               and \msM's reading (Łśārīrasrotam āhāra$) is wrong. Even if we could interpret Łpāda$ d with any certainty, there
               is one missing element of this list of allegedly five items. Something must have dropped out here.
               Oddly enought, the chapter stops after teaching the second type of purity, Łāhāraśauca$, so we are left without a clue.
-              \MBH\ Indeces 14.4.3229--3230 is not very helpful: <skt>manaḥśaucaṃ karmaśaucaṃ kulaśaucaṃ ca bhārata |
+              \MBH\ Indices 14.4.3229--3230 is not very helpful: <skt>manaḥśaucaṃ karmaśaucaṃ kulaśaucaṃ ca bhārata |
                                                                       śarīraśaucaṃ vākśaucaṃ śaucaṃ pañcavidhaṃ smṛtam</skt> ||.</NOTE>
         <!-- <TR>[1] Bodily purity, [2] [purity of] food, [3] [purity of] property[?] (Łmātrā$), 
                  [4] [purity of] character[?] (Łbhāva$), and the fifth, [5]...?</TR> -->
@@ -6457,7 +6460,7 @@ Brahmavihāras go back to the upaniṣads
 <TEXT> sarveṣām{ }eva śaucānām{ }arthaśaucaṃ paraṃ smṛtam|</TEXT>
         <APP>\vb <LEM>°śaucaṃ paraṃ smṛtam</LEM> \msCa\msNa\msNb\msNc; °śaucaṃ para smṛtam \msCb\msCc, °śauca para smṛtaḥ \msM,
                                                       °śaucayanaṃ smṛtaḥ \Ed</APP>
-        <PARAL>\vab <rm>\similar \Manu\ 5.106: </rm>
+        <PARAL>\vab <rm>\similar\ \Manu\ 5.106: </rm>
                         sarveṣām{ }eva śaucānām{ }arthaśaucaṃ paraṃ smṛtam|
                         yo 'rthe śucir{ }hi sa śucir{ }na mṛdvāriśuciḥ śuciḥ||</PARAL>
         <NOTE>ŁPāda$s a-d are quoting \Manu\ 5.106 (in most witnesses, unmetrically); it is translated in
@@ -6544,6 +6547,9 @@ Brahmavihāras go back to the upaniṣads
 
 %lacuna_start: msM
                 % (stopped collating it again)
+
+
+
 <startchapter-n="6"/> 
 %folioinfo \Ed\ p.599
 %folioinfo \msCa\ 399.jpg
@@ -6551,7 +6557,7 @@ Brahmavihāras go back to the upaniṣads
 %folioinfo \msCc\ 199.jpg f. 278r line 3
 %folioinfo \msNa\ 203.jpg upper, f. 9v line 6
 %folioinfo \msNb\ 51.jpg lower, line 5
-%folioinfo \msNc\ 200.jpg lower, line 1, f. 218r
+%folioinfo \msNc\ 220.jpg lower, line 1, f. 218r
 %folioinfo \msM\ 421.jpg lower, f. 10r line 4
 %chapter 6
 <CHAPTER>ṣaṣṭho 'dhyāyaḥ</CHAPTER>
@@ -6560,57 +6566,84 @@ Brahmavihāras go back to the upaniṣads
 % CHECK Śivadharmottara 3.12-15 !!
 
 <SUBCHAPTER>niyameṣv{ }ijyā (2)</SUBCHAPTER>
-<TRSUBCHAPTER>The second niyama-rule: Sacrifice</TRSUBCHAPTER>
+<TRSUBCHAPTER>The second Niyama-rule: Sacrifice</TRSUBCHAPTER>
+
 <ANUSTUBH/>
-<TEXT> [anarthayajña uvāca|*]</TEXT>
-        <!-- <TR>[Anarthayajña spoke:]</TR> -->
+% [anarthayajña uvāca|*]
+% [Anarthayajña spoke:]
 
 <TEXT> atha pañcavidhām{ }ijyāṃ pravakṣyāmi dvijottama|</TEXT>
         <APP>\va <LEM>°m{ }ijyāṃ</LEM> \msCb; °m{ }ījyāṃ \msCa\msCc\msNa\msNb\msNc\Ed</APP>
         <APP>\vb <LEM>°ttama</LEM> \mssCaCbCc\msNa\Ed; °ttamaḥ \msNb\msNc</APP>
-        <NOTE>Maybe ījyāṃ is to be accepted. No, see 5.3a.</NOTE>
+        <LACUNA>ŁTestimonia for this chapter: \msCa\ ff.\thinspace 202r--203r, 
+                                              \msCb\ ff.\thinspace 209r--209v, 
+                                              \msCc\ ff.\thinspace 278r--279r,
+                                              \msNa\ ff.\thinspace 9v--10v, 
+                                              \msNb\ exp.\thinspace 51 (lower--upper) -- 52 (lower),
+                                              \msNc\ ff.\thinspace 218r-218v,
+                                              \Ed\ pp.\thinspace 599--601;  
+                                              \mssCaCbCc\ = \msCa + \msCb + \msCc$</LACUNA>
+        <!-- <TR>[Anarthayajña continued:] Now I shall teach you the five types of sacrifice (Łijyā$),
+                 O excellent Brahmin,</TR> -->
 
 <TEXT> dharmamokṣaprasiddhyarthaṃ śṛṇuṣvāvahito dvija||</TEXT> 6.1
         <APP>\vc <LEM>°mokṣaprasiddhyarthaṃ</LEM> \mssCaCbCc\msNc; °mokṣaprasiddhyartha \msNa\msNb, 
                                                         °mokṣeśasiddhyaarthaṃ \Ed</APP>
         <APP>\vd <LEM>dvija</LEM> \mssCaCbCc\msNa\msNb\msNc; bhava \Ed</APP>
-        <!-- <TR>Now I shall teach you the five types of sacrifice, O excellent Brahmin,
-                      for [your] success in Dharma and liberation. Listen carefully, O Brahmin! </TR> -->
+        <!-- <TR>for success in Dharma and liberation. Listen carefully, O Brahmin.</TR> -->
         % CHECK BhG on arthayajña
 
 <TEXT> arthayajñaḥ kriyāyajño japayajñas{ }tathaiva ca|</TEXT>
         <APP>\va <LEM>arthayajñaḥ</LEM> \msCa\msCc\msNa; anarthayajñaḥ \msCb, arthayajña \msNb\msNc, arthayajña° \Ed</APP>
+        <!-- <TR>Material sacrifice, sacrifice through work, sacrifice through recitation,</TR> -->
 
 <TEXT> jñānaṃ dhyānaṃ ca pañcaitat{ }pravakṣyāmi pṛthak{ }pṛthak||</TEXT> 6.2
         <APP>\vc <LEM>jñānaṃ</LEM> \msCa\msCb\msNa\msNb\Ed; jñāna \msCc\msNc</APP>
-        <!-- <TR>Material sacrifice, sacrifice through work, sacrifice through recitation,
-                        knowledge and meditation: I shall teach you these five one by one.</TR> -->
-        <NOTE>Note pañcaitat for pañcaitāni or pañcete.</NOTE>
+        <NOTE>Note the singular Łetat$ after a number (see Intro \verify).
 
-% 5 types of yajña from the BhG ch. 4 CHECK, see also ŚDhU 3 and Haracaritacintāmaṇi 30.65
+              Compare this list of five to the somewhat similar \BHG\ 4.28:
+                <skt>dravyayajñās tapoyajñā yogayajñās tathāpare |
+                     svādhyāyajñānayajñāś ca yatayaḥ saṃśita-vratāḥ ||</skt>.
+              \SDHU\ chapter 3 can be also relevant since it uses the terms
+              Łjapayajña$, Łjñānayajña$, and Łdhyānayajña$. See also \SDHU\ 1.10 (\msCa\ f.\thinspace 42v l4):
+                        <skt>karmayajñas tapoyajñaḥ svādhyāyo dhyānam eva ca | 
+                             jñānayajñaś ca pañcaite mahāyajñāḥ prakīrtitāḥ ||</skt>.
+              Note how this definition of the five Łmahāyajña$s in the \SDHU\ 
+              is different from the one, e.g., in \Manu\ 3.69--71
+              (Łbrahma$°, Łpitṛ$°, Łdaiva$°, Łbhauta$°, and Łnṛyajña$).</NOTE>
+        <!-- <TR>knowledge and meditation: I shall teach you these five one by one.</TR> -->
+
 % also UMS? 
 
-% CHECK ŚDU 1.10ff
+
+
 <SUBSUBCHAPTER>arthayajñaḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Material sacrifice</TRSUBSUBCHAPTER>
 
 <TEXT> agnyupāsanakarmādi agnihotrakratukriyā|</TEXT>
         <APP>\vb <LEM>agni°</LEM> \msCb\msCc\msNa\msNc\Ed; <UNCL>a</UNCL>×° \msCa, ¤¤ \msNb\oo
                  <LEM>°kriyā</LEM> \msCa\msNa\msNb\msNc\Ed; °kriyāḥ \msCb\msCc</APP>
+        <!-- <TR>Material sacrifice includes the following: 
+                the domestic ritual fire worship etc., the public performance of the ritual of Agnihotra,</TR> -->
 
 %folioinfo \msCa\ 400.jpg
 %folioinfo \msNa\ 203.jpg lower, f. 10r
 % maybe accept aṣṭakā
-<TEXT> aṣṭakāḥ pārvaṇī śrāddhaṃ dravyayajñaḥ sa ucyate||</TEXT> 6.3
-        <APP>\vc <LEM>aṣṭakāḥ</LEM> \eme; aṣṭakā \mssCaCbCc\msNa\msNb\msNc\Ed\oo
-                 <LEM>pārvaṇī</LEM> \msCa\msCc\msNa\msNc\Ed; parvaṇī \msCb, <UNCL>parvaṇī</UNCL> \msNb</APP>
+<TEXT> aṣṭakā pārvaṇī śrāddhaṃ dravyayajñaḥ sa ucyate||</TEXT> 6.3
+        <APP>\vc <LEM>pārvaṇī</LEM> \msCa\msCc\msNa\msNc\Ed; parvaṇī \msCb, <UNCL>parvaṇī</UNCL> \msNb</APP>
         <APP>\vd <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc, ¤¤ \msNb</APP>
-        <!-- <TR>Material sacrifice includes the following: 
-                the worship of fire etc., the performance of the ritual of Agnihotra,
-                oblations on the eight day after full moon,
-                oblations offered at new and full moons, and
-                the rituals for the ancestors.</TR> -->
-        <NOTE>See Dharmasūtras, Niśv book, Kiraṇa, Svacchanda, Tantrāloka etc.</NOTE>
+        <NOTE>By somewhat overtranslating the items in this list, I want to emphasise that
+              the text introduces three categories of sacrifical rituals well-known from
+              the time of the Gṛhyasūtras and Śrautasūtras: those of the domestic or Łaupāsana$ fire (Łgṛhyakarman$),
+              the Śrauta rituals such as the Agnihotra, and the Smārta Łpākayajña$s, such as the Łaṣṭakā$, 
+              the Łpārvaṇī$ and the Łśrāddha$. For a mention of the Łpākayajña$s in a manner similar to 
+              our Łpāda$s cd here, see, e.g. the \Diksottara\ quoted in <citep>NisvasaGoodall</citep><pnum>275</pnum>:
+                        <skt>aṣṭakāḥ pārvaṇī śrāddhaṃ śrāvaṇy āgrāyaṇī tathā |
+                             caitrī cāśvayujī caiva pākayajñāḥ prakīrtitāḥ ||</skt>.
+              For an earlier list of Łpākayajña$s, see \GAUTDHS\ 1.8.19: 
+                <skt>aṣṭakā pārvaṇaḥ śrāddham śrāvaṇy\-āgrahāyaṇī\-caitry\-āśvayujīti sapta pākayajñasamsthāḥ</skt>.</NOTE>
+        <!-- <TR>[and the so-called Łpākayajña$s such as] 
+                 the Aṣṭakā oblation, the Pārvaṇī oblation, and the ancestral ritual (Łśrāddha$).</TR> -->
 
 
 
@@ -6620,29 +6653,40 @@ Brahmavihāras go back to the upaniṣads
 
 <TEXT> ārāmodyānavāpīṣu devatāyataneṣu ca|</TEXT>
         <APP>\vb <LEM>°yataneṣu</LEM> \msCb\msCc\Ed; °layaneṣu \msCa\msNa\msNc, °yata¤¤ \msNb</APP>
+        <!-- <TR>Sacrifice through work is taking care of/ cleaning/ embellishing (Łsaṃskāra$)</TR> -->
 
 <TEXT> svahastakṛtasaṃskāraḥ kriyāyajña sa ucyate||</TEXT> 6.4
         <APP>\vc <LEM>°hasta°</LEM> \mssCaCbCc\msNa\msNc; ¤¤ \msNb, °hastaiḥ \Ed</APP>
-        <!-- <TR>The sacrifice through work is the construction of  
-             a grove, a park, a pond or a temple with one's own hands.</TR> -->
+        <!-- <TR>a grove, a park, a pond or a temple with one's own hands.</TR> -->
+
+
 
 <SUBSUBCHAPTER>japayajñaḥ</SUBSUBCHAPTER>
-<TRSUBSUBCHAPTER>Sacrifice with recitation</TRSUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Sacrifice through recitation</TRSUBSUBCHAPTER>
 <TEXT> japayajñaṃ tato vakṣye svargamokṣaphalapradam|</TEXT>
         <APP>\va <LEM>°yajñaṃ tato</LEM> \msCa\msNa\msNb\msNc\Ed; °yajñaṃ tapo \msCb °yajñas{ }tato \msCc</APP>
+        <!-- <TR>Next I shall teach you the sacrifice through recitation, 
+                the bestower of the fruits of heaven and liberation.</TR> -->
 
 % stem form
 <TEXT> vedādhyayana kartavyaṃ śivasaṃhitam{ }eva ca|</TEXT>
         <APP>\vc <LEM>vedā°</LEM> \mssCaCbCc\msNa\msNc\Ed; adā° \msNb</APP>
-        <!-- <TR>Next I shall teach you the sacrifice with recitation, 
-                the bestower of the fruits of heaven and liberation.
-                One should recite the Vedas, the Śivasaṃhitā [= Śivasaṃkalpa? or rather śaivaṃ bhāratasaṃhitaṃ ca?],</TR> -->
-        <NOTE>Note vedādhyayana (stem form) and °saṃhitam for saṃhitāṃ metri causa.</NOTE>
+        <!-- <TR>One should recite the Vedas, Śaiva texts or the ŁMahābhārata$,</TR> -->
+        <NOTE>Note the stem form Łvedādhyayana$ in Łpāda$ c metri causa. As for the interpretation of
+              Łśivasaṃhitam$ in Łpāda$ d, see 5.17b above: Łśaivabhāratasaṃhite$. 
+              The proximity of these two phrases, and the fact that both give instructions
+              on using texts, suggest that we should interpret them similarly. 
+              It is then a Łsamāhāra\-dvandva\-samāsa$ again, in the neuter.
+              Both Łśivasaṃhitam$ and Łitihāsapurāṇaṃ$ should be interpreted as
+              being part of the compound in Łpāda$ c: Łśiva\-saṃhitādhyayanaṃ$ and 
+              Łitihāsapurāṇādhyayanaṃ$.</NOTE>
+
+%index_grammar: stem form metri causa
 
 %folioinfo \msNb\ 50.jpg upper 
 <TEXT> itihāsapurāṇaṃ ca japayajñaḥ sa ucyate||</TEXT> 6.5
-        <APP>\va <LEM>°purāṇaṃ ca</LEM> \mssCaCbCc\msNa\msNb\msNc; °purāṇaś{ }ca \Ed</APP>
-        <APP>\vb <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °yajña \msCc</APP>
+        <APP>\ve <LEM>°purāṇaṃ ca</LEM> \mssCaCbCc\msNa\msNb\msNc; °purāṇaś{ }ca \Ed</APP>
+        <APP>\vf <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °yajña \msCc</APP>
         <!-- <TR>the epics and the Purāṇas: this is called sacrifice with recitation.</TR> -->
 
 
@@ -6652,32 +6696,39 @@ Brahmavihāras go back to the upaniṣads
 
 %folioinfo \msM\ 422.jpg upper, f. 10v 
 <TEXT> idaṃ karma akarmedam{ }ūhāpohaviśāradaḥ|</TEXT> 
-        <APP>\vc <LEM>karma</LEM> \mssCaCbCc\msNa\msNb\msNc; kramam \Ed</APP>
-        <!-- <TR>He who is knowledgeable about inference CHECK and reasoning,
-             [and knows that] ``this is [proper] action; the other is improper action'',</TR> -->
+        <APP>\va <LEM>karma</LEM> \mssCaCbCc\msNa\msNb\msNc; kramam \Ed</APP>
+        <!-- <TR>[He who can decide if] `this is [proper] action; the other is improper action'
+                 because he is knowledgeable about reasoning pro and contra,</TR> -->
 
-<TEXT> śāstracakṣuḥ samālokya jñānayajñaḥ sa ucyate|</TEXT>
-        <APP>\va <LEM>°cakṣuḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °cakṣu \msCc</APP>
-        <APP>\vb <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc, °<UNCL>yajñas</UNCL> \msNb</APP>
+<TEXT> śāstracakṣuḥ samālokya jñānayajñaḥ sa ucyate||</TEXT> 6.6
+        <APP>\vc <LEM>°cakṣuḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °cakṣu \msCc</APP>
+        <APP>\vd <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc, °<UNCL>yajñas</UNCL> \msNb</APP>
+        <NOTE>For the expression Łśāstracakṣuḥ$, see, e.g., \BRAHMAP\ 24.21:
+                        <skt>tena yajñān yathāproktān mānavāḥ śāstracakṣuṣaḥ |
+                             kurvate 'harahaś caiva devān āpyāyayanti te ||</skt>.
+        In G. P. Bhatt's translation (<citep>BrahmapuranaTr1</citep><pnum>126</pnum>):
+               `Day by day men with the sacred scriptures as their guides
+                perform sacrifices in the manner they have been laid down and thereby nourish the gods.'</NOTE>
+        <!-- <TR>and investigates with his eyes on the Śāstras, is called
+                        [a person performing] sacrifice through knowledge.</TR> -->
         
-<TEXT> dhyānayajñaṃ samāsena kathayiṣyāmi te śṛṇu||</TEXT> 6.6
-        <APP>\vc <LEM>°yajñaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc\msNb</APP>
-        <!-- <TR>and views [things through?] the eyes of science is called
-                        [a person performing] sacrifice through knowledge.
-        I shall teach you concisely about sacrifice through meditation. Listen to me.</TR> -->
-
 
 %folioinfo \msCc\ 200.jpg f. 278v
 <SUBSUBCHAPTER>dhyānayajñaḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Sacrifice through meditation</TRSUBSUBCHAPTER>
 
+<TEXT> dhyānayajñaṃ samāsena kathayiṣyāmi te śṛṇu|</TEXT>
+        <APP>\va <LEM>°yajñaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc\msNb</APP>
+        <!-- <TR>I shall teach you concisely about sacrifice through meditation. Listen to me.</TR> -->
+
+% EDDIG
 <TEXT> dhyānaṃ pañcavidhaṃ caiva kīrtitaṃ hariṇā purā|</TEXT>
-        <APP>\va <LEM>dhyānaṃ</LEM> \mssCaCbCc\msNb\Ed; dhyāna \msNa\msNc</APP>
+        <APP>\vc <LEM>dhyānaṃ</LEM> \mssCaCbCc\msNb\Ed; dhyāna \msNa\msNc</APP>
 
 % unmetr
 <TEXT> sūryaḥ somo 'gni sphaṭikaḥ sūkṣmaṃ tattvaṃ ca pañcamam||</TEXT> 6.7
-        <APP>\vc <LEM>somo</LEM> \msCa\msCc\msNa\msNc; somā° \msCb\msNb\Ed</APP>
-        <APP>\vd <LEM>sūkṣmaṃ tattvaṃ ca pañcamam</LEM> \msCb;
+        <APP>\ve <LEM>somo</LEM> \msCa\msCc\msNa\msNc; somā° \msCb\msNb\Ed</APP>
+        <APP>\vf <LEM>sūkṣmaṃ tattvaṃ ca pañcamam</LEM> \msCb;
                                 sūkṣmaṃ ta<UNCL>tva</UNCL>×××ñcamam \msCa, 
                                 sūkṣmatattvaṃ ca pañcamaḥ \msCc\msNa\msNb,
                                 sūkṣmaṃ tattvañ{ }ca pañcamaḥ \msNc,
@@ -7041,7 +7092,7 @@ Sāntapana etc. Kane Dharmaśāstra v4 p151
 
 
 <SUBCHAPTER>niyameṣu dānam (4)</SUBCHAPTER>
-<TRSUBCHAPTER>The fourth niyama-rule: Donation</TRSUBCHAPTER>
+<TRSUBCHAPTER>The fourth Niyama-rule: Donation</TRSUBCHAPTER>
 
 % tathaivāhuḥ?
 <TEXT> dānāni ca tathety{ }āhuḥ pañcadhā munibhiḥ purā|</TEXT>
@@ -7551,7 +7602,7 @@ named Samrāṭ and Kukṣi were born to Priyavrata.
 <!-- <TRCHAPTER> Chapter Eight</TRCHAPTER> -->
 
 <SUBCHAPTER>niyameṣu svādhyāyaḥ (5)</SUBCHAPTER>
-<TRSUBCHAPTER>The fifth niyama-rule: Study</TRSUBCHAPTER>
+<TRSUBCHAPTER>The fifth Niyama-rule: Study</TRSUBCHAPTER>
 
 % in this chapter \Ed and \msCc seem close
 %chapter 8
@@ -7652,7 +7703,7 @@ named Samrāṭ and Kukṣi were born to Priyavrata.
 
 
 <SUBCHAPTER>niyameṣv{ }upasthanigrahaḥ (6)</SUBCHAPTER>
-<TRSUBCHAPTER>The sixth niyama-rule: Sexual restraint</TRSUBCHAPTER>
+<TRSUBCHAPTER>The sixth Niyama-rule: Sexual restraint</TRSUBCHAPTER>
 
 <TEXT> śṛṇuṣvāvahito vipra pañcopasthavinigraham|</TEXT>
         <APP>\vb <LEM>°graham</LEM> \mssCaCbCc\msNb\msNc\msP\Ed; °graha<UNCL>ḥ</UNCL> \msNa</APP>
@@ -7769,7 +7820,7 @@ tauryatrikaṃ vṛthāṭyā ca kāmajo daśako gaṇaḥ // Manu_7.47
 
 
 <SUBCHAPTER>niyameṣu vratapañcakam (7)</SUBCHAPTER>
-<TRSUBCHAPTER>The seventh niyama-rule: religious observances</TRSUBCHAPTER>
+<TRSUBCHAPTER>The seventh Niyama-rule: religious observances</TRSUBCHAPTER>
 
 <TEXT> mārjārakabakaśvānagomahīvratapañcakam|</TEXT>
         <APP>\vab <LEM>mārjārakabakaśvānagomahīvrata°</LEM> \mssCaCbCc\msNa\msNc\msP;
@@ -7889,7 +7940,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
 
 
 <SUBCHAPTER>niyameṣv{ }upavāsaḥ (8)</SUBCHAPTER>
-<TRSUBCHAPTER>The eighth niyama-rule: Fasting</TRSUBCHAPTER>
+<TRSUBCHAPTER>The eighth Niyama-rule: Fasting</TRSUBCHAPTER>
 % Cf. Śivadharmaśāstra 10
 
 <TEXT> śeṣānnam{ }antarānnaṃ ca naktāyācitam{ }eva ca|</TEXT>
@@ -8001,7 +8052,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
 
 
 <SUBCHAPTER>niyameṣu maunavratam (9)</SUBCHAPTER>
-<TRSUBCHAPTER>The ninth niyama-rule: Silence</TRSUBCHAPTER>
+<TRSUBCHAPTER>The ninth Niyama-rule: Silence</TRSUBCHAPTER>
 
 <TEXT> mithyāpiśunapāruṣyatīkṣṇavāg{ }apralāpanam|</TEXT>
         <APP>\va <LEM>°pāruṣya°</LEM> \msCa\msCb\msNa\msNb\msNc\msP; °saṃbhinnā \msCc, °yābhinnā \Ed</APP>
@@ -8166,7 +8217,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
 
 <ANUSTUBH/>
 <SUBCHAPTER>niyameṣu snānam (10)</SUBCHAPTER>
-<TRSUBCHAPTER>The tenth niyama-rule: Bathing</TRSUBCHAPTER>
+<TRSUBCHAPTER>The tenth Niyama-rule: Bathing</TRSUBCHAPTER>
 
 % śnānam \msCa
 <TEXT> snānaṃ pañcavidhaṃ caiva pravakṣyāmi yathātatham|</TEXT>
