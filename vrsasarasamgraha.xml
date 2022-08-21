@@ -3362,7 +3362,7 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
 <TRSUBSUBCHAPTER>On meet-consumption</TRSUBSUBCHAPTER>
 <TEXT> māṃsāśanān{ }nivarteta manasāpi na kāṅkṣayet|</TEXT>
         <APP>\va <LEM>māṃsāśanān{ }ni°</LEM> \msCa\msCb\Ed; mānsāśana ni° \msCc,
-                                māṃsāśanan{ }ni° \msNa, mansāsanan{ }ni° \msNb, <UNCL>māṃsaśānān{ }ni°</UNCL> \msNc</APP>
+                                māṃsāśanan{ }ni° \msNa, mansāsanan{ }ni° \msNb, <UNCL>māṃsaśānān{ }ni</UNCL>° \msNc</APP>
         <!-- <TR>One should refrain from meat-consumption. One should not even desire it mentally.</TR> -->
 
 %folioinfo \msNa\ 199.jpg lower, f.6r
@@ -4436,7 +4436,7 @@ REVISE: % Judit: MSS prāptaśśāsana? CHECK yes: \msCa no: \msCb\msCc\msNa\msN
 %folioinfo \msNc\ 218.jpg upper, f. 215v
 %       -  -     -  . . - .  -  .  . . -    -   -  . -   -  . -
 <TEXT> tasmād{ }durgatihetu karma sakalaṃ tyaktvā śivaṃ cāśrayet||</TEXT> 4.30
-        <APP>\vd <LEM>tasmād{ }du°</LEM> \msCa\msCb\msNa\msNc\Ed; tasmā du° \msCc, <UNCL>tasmā du°</UNCL> \msNb\oo
+        <APP>\vd <LEM>tasmād{ }du°</LEM> \msCa\msCb\msNa\msNc\Ed; tasmā du° \msCc, <UNCL>tasmā du</UNCL>° \msNb\oo
                  <LEM>cāśrayet</LEM> \mssCaCbCc\msNb\msNc\Ed; cāśrat \msNa</APP>
         <!-- <TR>Then abandoning all one's karmas, the causes of suffering, one seeks refuge in Śiva.</TR> -->
         <NOTE>Note the switch from plural to singular in Łpāda$ d.</NOTE>
@@ -4475,7 +4475,7 @@ REVISE: % Judit: MSS prāptaśśāsana? CHECK yes: \msCa no: \msCb\msCc\msNa\msN
 MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with the five elements, mind, egotism, and Prakṛti [matter]; or, according to the opening of the Śakuntalā, with the five elements, the sun and moon and the sacrificing priest), [MBh. iii, 1939]; [Ragh. &c.] 
 
 <TEXT> sūryaḥ somaś{ }ca dīkṣaś{ }ca dūṣakaḥ sa nṛśaṃsakaḥ||</TEXT> 4.32
-        <APP>\vc <LEM>sūryaḥ</LEM> \mssCaCbCc\msNa; <UNCL>sūrya°</UNCL> \msNb\msNc, sūrya° \Ed\oo
+        <APP>\vc <LEM>sūryaḥ</LEM> \mssCaCbCc\msNa; <UNCL>sūrya</UNCL>° \msNb\msNc, sūrya° \Ed\oo
                  <LEM>dīkṣa°</LEM> \mssCaCbCc\msNa\msNc; <UNCL>dī</UNCL>¤ \msNb, dīkṣu° \Ed</APP>
         <!-- <TR>the Sun, the Moon, and the sacrificer. [He who] disgraces [any of these] is a hostile person.</TR> -->
 % tannṛ°] \emeTorzsok; sa nṛ° \mssCaCbCc\msNa\msNb\msNc\Ed
@@ -4578,7 +4578,7 @@ guroś ca śivabhaktānāṃ nṛpasādhutapasvināṃ || 12.17 ||
 %folioinfo \Ed\ p.594
 % unmetr
 <TEXT> ghṛtaṃ kṣīraṃ dadhi mūtraṃ śakṛtkarṣaṇam{ }eva ca||</TEXT> 4.36
-        <APP>\vd <LEM>śakṛt{ }ka°</LEM> \msCa\msCc\msNa\msNc\Ed; <UNCL>śakṛt{ }ka°</UNCL> \msNb, kṣat{ }ka° \msCb</APP>
+        <APP>\vd <LEM>śakṛt{ }ka°</LEM> \msCa\msCc\msNa\msNc\Ed; <UNCL>śakṛt{ }ka</UNCL>° \msNb, kṣat{ }ka° \msCb</APP>
         <NOTE>The use of Łkarsaṇa$ in Łpāda$ d, most probably in the sense of `collecting,' is slightly odd.</NOTE>
         <!-- <TR>Collecting [the five products of the cow, the Łpañcagavya$,] 
                         ghee, milk, curd, and [the cow's] urine and dung [is auspicious].</TR> -->
@@ -4648,7 +4648,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
 
 %       -  -  . -  -   . . -   . - - 
 <TEXT> ye pañcagavyaṃ puruṣāḥ pibanti|</TEXT>
-        <APP>\vb <LEM>°gavyaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °gavyā \msCc, <UNCL>°gavyāṃ</UNCL> \msNb\oo
+        <APP>\vb <LEM>°gavyaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °gavyā \msCc, °<UNCL>gavyāṃ</UNCL> \msNb\oo
                  <LEM>puruṣāḥ</LEM> \msCa\msCb\msNa\msNb\msNc; puruṣā \msCc, puruṣaḥ \Ed\oo
                  <LEM>pibanti</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; vivanti \msCc</APP>
         <NOTE>The five Pavitras are most probably the five Łbrahmamantras$, see, e.g., \TAKIII\ s.v. Łpavitra$ 1.</NOTE>
@@ -4703,7 +4703,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
 
 % unmetr
 <TEXT> aśeṣayajñatapadānapuṇyaṃ</TEXT>
-        <APP>\vc <LEM>°tapa°</LEM> \mssCaCbCc\msNa\msNc; <UNCL>°tapa°</UNCL> \msNb, °japa° \Ed</APP>
+        <APP>\vc <LEM>°tapa°</LEM> \mssCaCbCc\msNa\msNc; °<UNCL>tapa</UNCL>° \msNb, °japa° \Ed</APP>
         <NOTE>Strictly speaking, Łpāda$ c is unmetrical. The second syllable of Łtapa$ counts as
               long (see Intro \verify).</NOTE>
 
@@ -4896,7 +4896,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
 
 <TEXT> atithiprāptadānena svaśarīraṃ divaṃ gatam||</TEXT> 4.48
         <APP>\vc <LEM>°dānena</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °prādānena \msCc</APP>
-        <APP>\vd <LEM>sva°</LEM> \mssCaCbCc\msNa\msNb; <UNCL>sa°</UNCL> \msNc, sa° \Ed\oo
+        <APP>\vd <LEM>sva°</LEM> \mssCaCbCc\msNa\msNb; <UNCL>sa</UNCL>° \msNc, sa° \Ed\oo
                  <LEM>°gatam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °gataḥ \msCc</APP>
         <NOTE>We would be forced to accept the reading of \Ed\ in Łpāda$ d (Łsaśarīro$) 
                 if the expression were in the masculine (Łdivaṃ gataḥ$). This would make sense
@@ -5402,7 +5402,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 
 <TEXT> āḍhaprasthatulāvyājaiḥ parārthaṃ yo 'pakarṣati||</TEXT> 4.63
         <APP>\vc <LEM>°tulā°</LEM> \mssCaCbCc\msNa\msNc\Ed; °tula° \msNb</APP>
-        <APP>\vd <LEM>°rthaṃ</LEM> \msCa\msCb\msNa\Ed; °rtha \msCc, <UNCL>°rtha</UNCL> \msNb, °rthe \msNc</APP>
+        <APP>\vd <LEM>°rthaṃ</LEM> \msCa\msCb\msNa\Ed; °rtha \msCc, °<UNCL>rtha</UNCL> \msNb, °rthe \msNc</APP>
         <!-- <TR>when somebody takes away other people's wealth by cheating with
                  weights of one Łāḍha[ka]$ or a Łprastha$ and with scales.</TR> -->
 
@@ -5818,7 +5818,7 @@ Brahmavihāras go back to the upaniṣads
                 % sakhyuḥ putrasya ca(3) strīṣu gurutalpasamaṃ viduḥ ॥168.028            purana/agni-puranam/168.txt
 
 <TEXT> nikṣepasyāpaharaṇaṃ narāśvarajatasya ca|</TEXT>
-        <APP>\va <LEM>nikṣepa°</LEM> \msCa\msCc\msNa\msNc\Ed; <UNCL>nikṣepa°</UNCL> \msNb, nikhepa° \msCb</APP>
+        <APP>\va <LEM>nikṣepa°</LEM> \msCa\msCc\msNa\msNc\Ed; <UNCL>nikṣepa</UNCL>° \msNb, nikhepa° \msCb</APP>
         <APP>\vb <LEM>narāśvarajatasya</LEM> \msCa\msCc\msNa\msNc\Ed; <UNCL>narāśvarajatasya</UNCL> \msNb,
                                                         narāṇāṃ svajanasya \msCb</APP>
         <!-- <TR>Stealing deposits, people, horses, silver,</TR> -->
@@ -6082,7 +6082,7 @@ Brahmavihāras go back to the upaniṣads
 %folioinfo \msM\ 421.jpg upper, f. 9v 
 <TEXT> amṛtavacanatulyaṃ śrotukāmo gato 'smi|</TEXT>
         <APP>\vb <LEM>vacanatulyaṃ śro°</LEM> \msM; vadanatulyaṃ śro° \msCa\msCc\msNapcorr\msNb\msNc\Ed, vadanatulyāṃ śro° \msCb, 
-                                                vadana<UNCL>°tulyaṃ śro</UNCL> tulyaṃ sro° \msNaacorr\oo
+                                                vadana<UNCL>tulyaṃ śro</UNCL> tulyaṃ sro° \msNaacorr\oo
                  <LEM>°kāmo</LEM> \mssCaCbCc\msNa\msNb\msNc; °kāmā \msM\Ed</APP>
         <NOTE>Most witnesses read °Łvadana$° in Łpāda$ b. This is slightly odd in the sense of `speech,' the meaning
               required here, therefore I follow \msM\ here.  One wonders if it is not Łamṛtasvādana$ or
@@ -6526,8 +6526,9 @@ Brahmavihāras go back to the upaniṣads
                 He has reached here in this world all the merits that the books on true Dharma teach, 
                 and at the end of his life he will undoubtedly reach the desired path in the other world.</TR> -->
         <NOTE>Note the stem form adjective Ł°jña$ and noun Ł°mānava$ metri causal and
-                the second syllable of Łyadi$ as a long syllable at the c\ae sura in Łpāda$ a (see \msM's reading), the plural Łāpnuvanti$ 
-                where one would expect a verb in the singular and Łkīrtir$ metri causa for a compounded stem form (Łkīrti°$) in Łpāda$ b,
+                the second syllable of Łyadi$ as a long syllable at the c\ae sura in Łpāda$ a 
+                (see \msM's reading), the plural Łāpnuvanti$ where one would expect a verb in the singular and
+                Łkīrtir$ metri causa for a compounded stem form (Łkīrti°$) in Łpāda$ b,
                 and the sandhi-bridge Ł-m-$ in Łparatra-m-īhita°$ in Łpāda$ d. Compare with 4.67b above.</NOTE>
 
 
@@ -6668,7 +6669,6 @@ Brahmavihāras go back to the upaniṣads
         <!-- <TR>Next I shall teach you the sacrifice through recitation, 
                 the bestower of the fruits of heaven and liberation.</TR> -->
 
-% stem form
 <TEXT> vedādhyayana kartavyaṃ śivasaṃhitam{ }eva ca|</TEXT>
         <APP>\vc <LEM>vedā°</LEM> \mssCaCbCc\msNa\msNc\Ed; adā° \msNb</APP>
         <!-- <TR>One should recite the Vedas, Śaiva texts or the ŁMahābhārata$,</TR> -->
@@ -6721,9 +6721,9 @@ Brahmavihāras go back to the upaniṣads
         <APP>\va <LEM>°yajñaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc\msNb</APP>
         <!-- <TR>I shall teach you concisely about sacrifice through meditation. Listen to me.</TR> -->
 
-% EDDIG
 <TEXT> dhyānaṃ pañcavidhaṃ caiva kīrtitaṃ hariṇā purā|</TEXT>
         <APP>\vc <LEM>dhyānaṃ</LEM> \mssCaCbCc\msNb\Ed; dhyāna \msNa\msNc</APP>
+        <!-- <TR>Meditation was taught by Hari in the past as of five kinds.</TR> -->
 
 % unmetr
 <TEXT> sūryaḥ somo 'gni sphaṭikaḥ sūkṣmaṃ tattvaṃ ca pañcamam||</TEXT> 6.7
@@ -6733,72 +6733,79 @@ Brahmavihāras go back to the upaniṣads
                                 sūkṣmatattvaṃ ca pañcamaḥ \msCc\msNa\msNb,
                                 sūkṣmaṃ tattvañ{ }ca pañcamaḥ \msNc,
                                 sūkṣmāṃ tattvaś{ }ca pañcamam \Ed</APP>
-        <!-- <TR>Meditation was taught by Hari in the past as of five kinds.
-                [Meditation of] the Sun, the Moon, Fire, Crystal and the subtle Tattva as fifth.</TR> -->
+        <!-- <TR>[Meditation on] the Sun, the Moon, Fire, Crystal and the subtle Łtattva$ as fifth.</TR> -->
 
 <TEXT> sūryamaṇḍalam{ }ādau tu tattvaṃ prakṛtir{ }ucyate|</TEXT>
+        <!-- <TR>First it is the Sun [that should be meditated upon], which is said to be Łprakṛti-tattva$.</TR> -->
 
 %       mudhye \msNa
 <TEXT> tasya madhye śaśiṃ dhyāyet{ }tattvaṃ puruṣa ucyate||</TEXT> 6.8
         <APP>\vc <LEM>śaśiṃ</LEM> \mssCaCbCc\msNa\Ed; śaśi \msNb, śaśiṃn \msNc</APP>
         <APP>\vcd <LEM>dhyāyet{ }ta°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dhyāye ta° \msCc</APP>
-        <!-- <TR>First it is the Sun [that should be meditated upon], 
-                which is said to be Prakṛti Tattva.
-        He should visualize the Moon in its centre: that is said to be Puruṣa [Tattva].</TR> -->
-        <NOTE>Note śaśiṃ for śaśinaṃ.</NOTE>
+        <NOTE>Note the form Łśaśiṃ$ for Łśaśinaṃ$.</NOTE>
+        <!-- <TR>He should visualize the Moon in its centre: that Łtattva$ is said to be Łpuruṣa$.</TR> -->
+
+%index_grammar: -in -- -i (śaśi)
 
 <TEXT> candramaṇḍalamadhye tu jvālām{ }agniṃ vicintayet|</TEXT>
         <APP>\vb <LEM>jvālām{ }agniṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; jālām{ }agni \msNc</APP>
+        <!-- <TR>In the centre of the Moon's disk, he should visualise a flame, a fire.</TR> -->
 
 <TEXT> prabhutattvaḥ sa vijñeyo janmamṛtyuvināśanaḥ||</TEXT> 6.9
         <APP>\vc <LEM>°tattvaḥ</LEM> \mssCaCbCc\msNc; °tatva \msNa, °tatvaṃ \msNb\Ed</APP>
         <APP>\vd <LEM>°nāśanaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; °nāśanam \msCc\Ed</APP>
-        <!-- <TR>In the centre of the Moon disk, he should visualise a flame, a fire.
-                That is said to be Prabhu Tattva, the destroyer of birth and death.</TR> -->
+        <!-- <TR> That is said to be Łprabhu$-Łtattva$, the destroyer of [the circle of] birth and death.</TR> -->
 
 % stem form?
 <TEXT> agnimaṇḍalamadhye tu dhyāyet{ }sphaṭika nirmalam|</TEXT>
         <APP>\vb <LEM>dhyāyet{ }sphaṭika</LEM> \msCapcorr\msCb\msNa\msNb\msNc; dhyāyet{ }sphaṭi \msCaacorr,
                                         dhyāye sphaṭika \msCc\Ed\oo
-                 <LEM>°malam</LEM> \mssCaCbCc\msNb\Ed; °malaḥ \msNa, <UNCL>°malaḥ</UNCL> \msNc</APP>
+                 <LEM>°malam</LEM> \mssCaCbCc\msNb\Ed; °malaḥ \msNa, °<UNCL>malaḥ</UNCL> \msNc</APP>
+        <NOTE>Note the stem form Łsphaṭika$ in Łpāda$ b metri causa.</NOTE>
+        <!-- <TR>In the centre of the ring of Fire, he should visualize a spottless crystal.</TR> -->
+
+%index_grammar: stem form metri causa
 
 <TEXT> vidyātattvaḥ sa vijñeyaḥ kāraṇam{ }ajam{ }avyayam||</TEXT> 6.10
         <APP>\vc <LEM>tattvaḥ sa</LEM> \msCb\msNa\msNb\msNc; ta<UNCL>tvan</UNCL>× \msCa, tatva sa \msCc, tatvaṃ sa \Ed</APP>
         <APP>\vd <LEM>°jam{ }avyayam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °m{ }avyayaṃ \msCc</APP>
-        <!-- <TR>In the centre of the ring of fire, he should visualize a spottless crystal.
-                That is said to be Vidyā Tattva, the never-born, imperishable Cause.</TR> -->
+        <!-- <TR>That is said to be Łvidyā$-Łtattva$, the never-born, imperishable cause.</TR> -->
 
 <TEXT> vidyāmaṇḍalamadhye tu dhyāyet{ }tattvam{ }anuttamam|</TEXT>
         <APP>\vab <LEM>dhyāyet{ }ta°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dhyāye ta° \msCc</APP>
+        <!-- <TR>In the centre of the disk of Łvidyā$, he should visualize the highest Tattva,</TR> -->
 
 %folioinfo \Ed\ p.600
 <TEXT> akīrtitam{ }anaupamyaṃ śivam{ }akṣayam{ }avyayam|</TEXT>
-        DhP akīrtitamanaupamyaṃ pañcamaṃ śivamaṇḍalam| 4.14ab
+        <PARAL>\vcd Ł\DHARMP\ 4.14ab: $ akīrtitam{ }anaupamyaṃ pañcamaṃ śivamaṇḍalam</PARAL>
+        <!-- <TR>never-heard, unparalleled one, undecaying and imperishable Śiva.</TR> -->
 
 <TEXT> pañcamaṃ dhyānayajñasya tattvam{ }uktaṃ samāsataḥ||</TEXT> 6.11
-        <APP>\vc <LEM>°yajñasya</LEM> \msCa\msCb\msNa\msNb\msNc; °yajñañ{ }ca \msCc\Ed</APP>
-        <APP>\vd <LEM>samāsataḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; sanātanaḥ \Ed</APP>
-        <!-- <TR>In the centre of the disk of Vidyā, he should visualize the highest Tattva,
-             never-heard, unparalleled one, undecaying and imperishable Śiva.
-                The fifth Tattva of the sacrifice through meditation has been taught in short.</TR> -->
+        <APP>\ve <LEM>°yajñasya</LEM> \msCa\msCb\msNa\msNb\msNc; °yajñañ{ }ca \msCc\Ed</APP>
+        <APP>\vf <LEM>samāsataḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; sanātanaḥ \Ed</APP>
+        <!-- <TR>The fifth Łtattva$ of the sacrifice through meditation has been taught in short.</TR> -->
 
 
 
 <TEXT> vigatarāga uvāca|*</TEXT>
         <!-- <TR>Vigatarāga spoke:</TR> -->
 
-% what to do with tri°? !!!!!!!!!
-<TEXT> ekaikasya hi tattvasya phalaṃ kīrtaya kīdṛśam|</TEXT>
-        <APP>\va <LEM>hi</LEM> \Ed; tri° \mssCaCbCc\msNa\msNb\msNc</APP>
-        <NOTE>Łtri°$ in the MSS is a problem.</NOTE>
+<TEXT> ekaikasya tu tattvasya phalaṃ kīrtaya kīdṛśam|</TEXT>
+        <APP>\va <LEM>tu</LEM> \conj; tri° \mssCaCbCc\msNa\msNb\msNc, hi \Ed</APP>
+        <NOTE>The reading Łtritattvasya$ in Łpāda$ a in the MSS is a problem 
+              because we have just finished a section mentioning five Łtattva$s. 
+              (This was probably noticed by \Ed, hence printing Łhi$.)
+              My conjecture (Łtu$) is based on the assumption that Łtri$ is ofter written as Łtṛ$ 
+              in Nepalese MSS (e.g. in \msM\ at this point) and that may easily get corrupted to Łtu$.</NOTE>
+        <!-- <TR>Teach me: what are the fruits of [reaching] each Łtattva$?</TR> -->
 
 <TEXT> kāni lokāḥ prapadyante kālaṃ vāsya tapodhana||</TEXT> 6.12
         <APP>\vc <LEM>lokāḥ</LEM> \msCa\msNa\msNc; lokā \msCb\msCc\msNb\Ed\oo
                  <LEM>prapadyante</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; pra¤¤¤ \msCa</APP>
         <APP>\vd <LEM>°dhana</LEM> \msCa\msCc\msNa\msNb\Ed; °dhanaḥ \msCb\msNc</APP>
+        <!-- <TR>Which worlds can be attained and how much time [can one spend there], O great ascetic?</TR> -->
         %                             lokāf \msCa
-        <!-- <TR>Teach me: what are the fruits of [reaching] each Tattva?
-               Which worlds can be attained and how much time [can one spend there], O great ascetic?</TR> -->
+
 %index_anarthayajna_ref_as: tapodhana
 
 % Look at Dharmaputrikā 4.1-4, which gives a similar list of dhyeyas and/or for the jīva        
@@ -6806,57 +6813,61 @@ Brahmavihāras go back to the upaniṣads
         <!-- <TR>Anarthayajña spoke:</TR> -->
 
 %index_grammar:  pra licence na-vipulā
-<TEXT> brahmalokaṃ tu prathamaṃ tattvaṃ prakṛticintayā|</TEXT>
-        <APP>\vab <LEM>prathamaṃ tattvaṃ</LEM> \Ed; prathamaṃ tatva \mssCaCbCc\msNapcorr\msNb\msNc, 
-                                                                    \om\ \msNaacorr\oo
+<TEXT> brahmalokaṃ tu prathamaṃ tattvaprakṛticintayā|</TEXT>
+        <APP>\vab <LEM>prathamaṃ tattva°</LEM> \mssCaCbCc\msNapcorr\msNb\msNc; 
+                                                    \om\ \msNaacorr, prathamaṃ tattvaṃ \Ed\oo
                   <LEM>prakṛticintayā</LEM> \mssCaCbCc\msNa\msNb\msNc; ca kṛticintaya \Ed</APP>
+        <NOTE>Understand Łpāda$s ab as Łbrahmalokaṃ prathamatattvacintayā prakṛtitattvacintayā$. 
+              One might take Łprathamaṃ$ adverbially (`firstly': Łprathamaṃ brahmalokaṃ prakṛtitattvacintayā$),
+              but in the next verses, the ordinal numbers (Łdvitīyaṃ, tṛtīyaṃ, pañcamaṃ$)
+              always refer to the Łtattva$s.</NOTE>
+        <!-- <TR>Through meditation on the first Łtattva$, Łprakṛti$, [one reaches] Brahmaloka.</TR> -->
 
 <TEXT> kalpakoṭisahasrāṇi śivavan{ }modate sukhī||</TEXT> 6.13
         <APP>\vd <LEM>sukhī</LEM> \mssCaCbCc\msNa\msNb\msNc; sukham \Ed</APP>
-        <!-- <TR>The first [world to reach] is Brahmaloka,
-             through the meditation on the first Tattva, Prakṛti.
-             He will rejoice [there] happily like Śiva for millions of aeons.</TR> -->
-        <NOTE>Odd syntax plus gender.</NOTE>
+        <!-- <TR>He will rejoice [there] happily like Śiva for millions of aeons.</TR> -->
 
 %folioinfo \msCb\ 420.jpg f. 209v
 <TEXT> dvitīyaṃ tattva puruṣaṃ dhyāyamāno mṛto yadi|</TEXT>
+        <NOTE>Note the stem form Łtattva$ in Łpāda$ a metri causa.</NOTE>
+        <!-- <TR>If one dies while meditating on the second Łtattva$, Łpuruṣa$,</TR> -->
+
+%index_grammar: stem form metri causa
 
 <TEXT> viṣṇulokam{ }ito yāti kalpakoṭyayutaṃ sukhī||</TEXT> 6.14
         <APP>\vc <LEM>yāti</LEM> \mssCaCbCc\msNa\msNb\msNc; yānti \Ed</APP>
-        <!-- <TR>If one dies while meditating on the second Tattva, 
-             Puruṣa, one goes to Viṣṇuloka from this world, [and will live there] happily
-                for billions of aeons.</TR> -->
-[CHECK numbers in Chaper 1]
+        <!-- <TR>one goes to Viṣṇuloka from this world, [and will live there] happily for billions of aeons.</TR> -->
 
 <TEXT> prabhutattvaṃ tṛtīyaṃ tu dhyāyamāno mariṣyati|</TEXT>
         <APP>\va <LEM>°tattvaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °tatva \msCc\oo
                  <LEM>tṛtīyaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; tṛtīyas \Ed</APP>
         <APP>\vb <LEM>dhyāyamāno mariṣyati</LEM> \msCb\msCc\msNa\msNb\msNc; dhyāya¤¤¤riṣyati \msCa,
                                                         dhayāyāmāno mariṣyati \Ed</APP>
+        <!-- <TR>Should one die while meditating on the third, the Łprabhu-tattva$,</TR> -->
 
 % !! Narahari 
 <TEXT> śivaloke vasen{ }nityaṃ kalpakoṭyayutaṃ śatam||</TEXT> 6.15
         <APP>\vc <LEM>śivaloke</LEM> \msCa\msCc\msNa\msNb\msNc; śivaloka \msCb, rudraloke \Ed\oo
                  <LEM>vasen{ }ni°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; vase ni° \msCc</APP> 
         <APP>\vd <LEM>°yutaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; °yuta \msNb</APP>
-        <!-- <TR>Should one die while meditating on the third Tattva, 
-             Prabhu, one can live in Śivaloka continuously for a hundred billion aeons.</TR> -->
+        <NOTE>\Ed\ changes Łśivaloka$ to Łrudraloka$, probably for more contrast with
+                   Łsadāśiva$ in 6.16 and Łśivatattva$ in 6.17. \verify</NOTE>
+        <!-- <TR>one can live in Śivaloka continuously for a hundred billion aeons.</TR> -->
 
 <TEXT> vidyātattvāmṛtaṃ dhyāyet{ }sadāśivam{ }anāmayam|</TEXT>
         <APP>\va <LEM>°tattvāmṛtaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; °tatvamṛtan \msCc, °tattvāmataṃ \Ed</APP>
+        <!-- <TR>If he visualizes Łvidyā-tattva$, [i.e.] Sadāśiva, he can reach [His] immortal \verify, diseaseless,</TR> -->
 
 <TEXT> akṣayaṃ lokam{ }āpnoti kalpānāntaparaṃ tathā|| </TEXT> 6.16
         <APP>\vc <LEM>akṣayaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; akṣaya° \Ed</APP>
-        <!-- <TR>If he visualizes Vidyā Tattva, [i.e.] Sadāśiva [or sadā śivam?] 
-             he can reach [His] immortal, diseaseless, imperishable world [and can live there]
-                well beyond endless aeons[?].</TR> -->
+        <!-- <TR>imperishable world [and can live there] well beyond endless aeons.</TR> -->
 
 %folioinfo \msNc\ 221.jpg upper, f. 218v
 <TEXT> pañcamaṃ śivatattvaṃ tu sūkṣmaṃ cātmani saṃsthitam|</TEXT>
+        <!-- <TR>The fifth one, the subtle Łśiva-tattva$ dwells in the Self.</TR> -->
 
 <TEXT> na kālasaṃkhyā tatrāsti śivena saha modate||</TEXT> 6.17
-        <!-- <TR>The fifth one, the subtle Śivatattva dwells in the Self.
-             There is no counting of time there and he will be rejoicing [there] together with Śiva.</TR> -->
+        <!-- <TR>There is no counting of time there and he will be rejoicing [there] together with Śiva.</TR> -->
 
 
 <NOTANUSTUBH/> sragdharā 
@@ -6864,32 +6875,32 @@ Brahmavihāras go back to the upaniṣads
 <TEXT> pañcadhyānābhiyukto bhavati ca na punarjanmasaṃskārabandhaḥ</TEXT>
         <APP>\va <LEM>°yukto</LEM> \msCb\msCc\msNa\msNb\msNc; °yu¤ \msCa\ \toplost, °yuktau \Ed\oo
                  <LEM>ca</LEM> \msCa\msCc\msNa\msNb\msNc; \om\ \msCb\Ed\oo
-        <LEM>punarjanma°</LEM> \msCb\msNa\msNb\msNc\Ed; puna<UNCL>ja</UNCL>nma° \msCa\ \toplost, punajanma° \msCc</APP>
+                 <LEM>punarjanma°</LEM> \msCb\msNa\msNb\msNc\Ed; puna<UNCL>ja</UNCL>nma° \msCa\ \toplost, punajanma° \msCc</APP>
         <!-- <TR>[If] he practises the five meditations, there is no 
                 rebirth and no more fetters of transmigration.</TR> -->
 
 %folioinfo \msCa\ 401.jpg
-%       -  -  -  -    . -   -   . . . . . . -    -   . - -  . -  -
-%         -  -  -  -    . -   .?  . . . . . . -    -   . - -  . -  -
+%       -  -  -  -    . -   -?  . . . . . . -    -   . - -  . -  -
 <TEXT> jijñāsyantāṃ dvijendra bhavadahanakaraḥ prārthanākalpavṛkṣaḥ|</TEXT>
         <APP>\vb <LEM>jijñāsyantāṃ</LEM> \msCa\msNb\msNc\Ed; jijñāsyatāṃ \msCb\msNa\ \unmetr, jijñāsyantā \msCc</APP>
+        <NOTE>Note how a plural passive imperative form (Łjijñāsyantāṃ$) stands for the singular
+                (Łjijñāsyatāṃ$) metri causa. Note also that the last syllable of
+                Łdvijendra$ (at the c\ae sura) counts here as long: this phenomenon of a word-ending
+                syllable becoming long by position is common in the \VSS.</NOTE>
         <!-- <TR>O excellent Brahmin, [the Lord] should be seeked,
                  a wishing tree of desires, [as] he burns away existence.</TR> -->
-        <NOTE>Note how a plural imperative ātmanepada form (jijñāsyantāṃ) stands for the singular
-                (jijñāsyatāṃ) metri causa. Note also that the last syllable of
-                dvijendra counts here as long: this phenomenon of a word-ending
-                syllable becoming long by position is common in the VSS.</NOTE>
 
-%       -  -  - - .  -  -      . . .  . .  .  -  - . -  - . - -
+%index_metre: long syllable at end of word at caesura
+
 %       -  -! - - .  -  -      . . .  . .  .  -  - . -  - . - -
 <TEXT> janmenaikena muktir{ }bhavati kimu na vā mānavāḥ sādhayantu</TEXT>
         <APP>\vc <LEM>janmenaikena</LEM> \msCb\msNb\msNc\Ed; janmanaikena \msCa\msCc\msNa\ \unmetr\oo
                  <LEM>muktir{ }bh°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; mukti bh° \msCc\oo
                  <LEM>na vā</LEM> \mssCaCbCc\msNb\msNc\Ed; bhavā \msNa\oo
                  <LEM>mānavāḥ</LEM> \msCa\msNa\msNb\msNc; mānamānavāḥ \msCb, mānavā \msCc, mānava \Ed</APP>
-        <!-- <TR>Liberation comes within one single birth! 
-             People, why should you not strive [for it]!</TR> -->
-        <NOTE>Note the form janmena.</NOTE>
+        <NOTE>The non-standard Łjanmena$ in Łpāda$ d seems superior to Łjanmanā$ for it
+               preserves the metre.</NOTE>
+        <!-- <TR>Liberation comes within one single birth! People, why should you not strive [for it]!</TR> -->
 
 %folioinfo \msCc\ 201,jpg f. 279r
 %folioinfo \msNa\ 204.jpg upper, f. 10v
@@ -6897,12 +6908,13 @@ Brahmavihāras go back to the upaniṣads
 <TEXT> pratyakṣān{ }nānumānaṃ sakalamalaharaṃ svātmasaṃvedanīyam||</TEXT> 6.18
         <APP>\vd <LEM>pratyakṣā°</LEM> \mssCaCbCc\msNb\msNc\Ed; pratyakṣa° \msNa\oo
                  <LEM>°vedanīyam</LEM> \msCb\msNa\msNb; °vedanīyaḥ \msCa\msCc\msNc, °vedanīya \Ed</APP>
-        <!-- <TR>[This is known] as the destroyer of all impurity. [It's ascertainable] by direct perception. 
-             It is not inference. It is to be experienced by your own self.</TR> -->
+        <!-- <TR>[It is known] as the destroyer of all impurity. [It's ascertainable] by direct perception. 
+                  It is not inference. It is to be experienced by one's own Self.</TR> -->
 
 
 %folioinfo \msM\ breaks off at the end of 422.jpg upper, f. 10v, after °haraṃ, it resumes at the colophon of VSS 8 with 'aṣṭamaḥ'
 
+% EDDIG
 <ANUSTUBH/>
 
 <SUBCHAPTER>niyameṣu tapaḥ (3)</SUBCHAPTER>
@@ -7689,7 +7701,7 @@ named Samrāṭ and Kukṣi were born to Priyavrata.
         <NOTES>The Łavagraha$ in Ł'vikalpena$ is not to be found in the witnesses and has
                 therefore been supplied by the editor. The form Łaśaṅkitaḥ$ is less then perfect here,
                 and may have been intended as an ablative (Łaśaṅkā-taḥ), as suggested by Judit Törzsök,
-                or adverbally (Łaśaṅkitam$), or even more probably as a loosely added subject (for 
+                or adverbially (Łaśaṅkitam$), or even more probably as a loosely added subject (for 
                 Łaśaṅkitena$).</NOTE>
 
 <TEXT> itihāsam{ }adhīyānaḥ sarvajñaḥ sa naro bhavet|</TEXT>
@@ -9683,7 +9695,7 @@ Dadhīca said:<br>
 
 <TEXT> tṛpyante tena nityaṃ hṛdi kamalapuṭaṃ sthānubhūtāntarātmā|</TEXT>
         <APP>\vb <LEM>°puṭaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °puṭa \msCb\oo
-                 <LEM>sthānu°</LEM> \mssCaCbCc\msNa\msNc; <UNCL>sthāna°</UNCL> \msNb, sthāna° \Ed</APP>
+                 <LEM>sthānu°</LEM> \mssCaCbCc\msNa\msNc; <UNCL>sthāna</UNCL>° \msNb, sthāna° \Ed</APP>
 
 <TEXT> yaṃ paśyantīśabhaktā kalikaluṣaharaṃ vyāpinaṃ niṣprapañcam</TEXT>
         <APP>\vc <LEM>yaṃ paśyantīśabhaktā</LEM> \msCa\msNb; yaṃ paśyantīśabharttāḥ \msCb, yaṃ pasyantīsabhaktyā \msCc,
@@ -9808,7 +9820,7 @@ Dadhīca said:<br>
         <!-- <TR>which is free of pain, which is easy, and which does not require an abundance of materials, O Īśvara?</TR> -->
         <APP>\vc <LEM>°nāyāsa</LEM> \mssCaCbCc\msNc\Ed; °nāyā<UNCL>saṃ</UNCL> \msNa, °<UNCL>nāyā</UNCL>saṃ \msNb</APP>
         <APP>\vd <LEM>°rthaprāyaṃ</LEM> \msNapcorr\msNc; °rthaprāya \mssCaCbCc,
-                      °rthaprārthaprāyaṃ \msNaacorr, <UNCL>°rthaprāya</UNCL> \msNb, °thāmnāya \Ed\oo
+                      °rthaprārthaprāyaṃ \msNaacorr, °<UNCL>rthaprāya</UNCL> \msNb, °thāmnāya \Ed\oo
                  <LEM>vineśvara</LEM> \mssCaCbCc\msNa\msNc; <UNCL>vineśvara</UNCL> \msNb, sureśvara \Ed</APP>
         <NOTE>I understand pāda c as containing a sandhi bridge Łalpakleśa-m-anāyāsa$.</NOTE>
         % Ł (see 11.29d for bileśvara) $ %bileśvara \eme;
@@ -12645,7 +12657,7 @@ CHECK peri future  yes
 
 <TEXT> prārthayāmo 'tra gatvaikaṃ parameṣṭhiprajāpatim|| </TEXT> 12.124
         <APP>\vc <LEM>prārthayāmo 'tra gatvaikaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; prārthayā ca gatvaivaṃ \Ed</APP>
-        <APP>\vd <LEM>°ṣṭhiprajā°</LEM> \msCa\msNa\msNb\msNc; °ṣṭhiṃ prajā° \msCb\Ed, °ṣṭhi<UNCL>prajā°</UNCL> \msCc</APP>
+        <APP>\vd <LEM>°ṣṭhiprajā°</LEM> \msCa\msNa\msNb\msNc; °ṣṭhiṃ prajā° \msCb\Ed, °ṣṭhi<UNCL>prajā</UNCL>° \msCc</APP>
         <!-- <TR>Let's now go to the highest creator Prajāpati (Brahmā) and ask him for one.</TR> -->
         <NOTE>For the expression Łparameṣṭhiprajāpati$ see MBh 6.15.35ab:
                 Łsarvalokeśvarasyeva parameṣṭhiprajāpateḥ$</NOTE>
@@ -12773,7 +12785,7 @@ stambhāṇi \msCc
                 Ł°samanvitam$ as Ł°samanvitānām$.</NOTE>
 
 <TEXT> brahmalokasabhā ramyā sūryakoṭisamaprabhā|</TEXT>
-        <APP>\vb <LEM>°koṭi°</LEM> \mssCaCbCc\msNa\msNb\Ed; <UNCL>°kauṭi°</UNCL> \msNc</APP>
+        <APP>\vb <LEM>°koṭi°</LEM> \mssCaCbCc\msNa\msNb\Ed; °<UNCL>kauṭi</UNCL>° \msNc</APP>
         <!-- <TR>The assembly hall in Brahmā's world was charming and it shone like millions of suns.</TR> -->
 
 <TEXT> tatra brahmā sukhāsīno nānāratnopaśobhite||</TEXT> 12.134
@@ -12798,7 +12810,7 @@ stambhāṇi \msCc
 <TEXT> caturvedāvṛtas{ }tatra mūrtimantam{ }upāsate|</TEXT>
         <APP>\vab <LEM>°vedāvṛtas{ }tatra mūrtimantam{ }upāsate</LEM> \msCa\msCb\msNc\Ed; 
                                                 °vedavṛtas{ }tatra mūrtimantam{ }upāsate \msCc,
-                                                 <UNCL>°vedā</UNCL>vṛtas{ }tatra mūrtimantam{ }upāsate \msNa, 
+                                                 °<UNCL>vedā</UNCL>vṛtas{ }tatra mūrtimantam{ }upāsate \msNa, 
                                                  ve¤¤¤¤¤¤¤¤¤¤¤¤¤ \msNb</APP>
         <!-- <TR>Gāyatrī, who is the mother of the Vedas, and beautiful Sāvitrī
                 were there, around the Vedas, attending [upon him] in their embodied form,</TR> -->
