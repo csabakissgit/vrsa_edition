@@ -4474,6 +4474,8 @@ REVISE: % Judit: MSS prāptaśśāsana? CHECK yes: \msCa no: \msCb\msCc\msNa\msN
         <!-- <TR>Śiva in his manifest form (Łsākṣāt$) is of eight forms, with the five elements (Łvyoman$),</TR> -->
 MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with the five elements, mind, egotism, and Prakṛti [matter]; or, according to the opening of the Śakuntalā, with the five elements, the sun and moon and the sacrificing priest), [MBh. iii, 1939]; [Ragh. &c.] 
 
+%index_voc: vyoman as tattva
+
 <TEXT> sūryaḥ somaś{ }ca dīkṣaś{ }ca dūṣakaḥ sa nṛśaṃsakaḥ||</TEXT> 4:32
         <APP>\vc <LEM>sūryaḥ</LEM> \mssCaCbCc\msNa; <UNCL>sūrya</UNCL>° \msNb\msNc, sūrya° \Ed\oo
                  <LEM>dīkṣa°</LEM> \mssCaCbCc\msNa\msNc; <UNCL>dī</UNCL>¤ \msNb, dīkṣu° \Ed</APP>
@@ -6982,7 +6984,7 @@ Brahmavihāras go back to the upaniṣads
         <APP>\vb <LEM>°caryaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; °carya \msCc\Ed</APP>
         <!-- <TR>Bodily penance is taught as the following:</TR> -->
 
-<TEXT> śaucaṃ pañcamam{ }ity{ }etat{ }kāyikaṃ tapa ucayate||</TEXT> 6:22
+<TEXT> śaucaṃ pañcamam{ }ity{ }etat{ }kāyikaṃ tapa ucyate||</TEXT> 6:22
         <APP>\vc <LEM>śaucaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; śauca \Ed</APP>
         <PARAL>\vo <rm>\compare\ \MBH\ 6.39.14 (\BHG\ 17.14): </rm>
                          devadvijaguruprājñapūjanaṃ śaucam{ }ārjavam|
@@ -9736,6 +9738,7 @@ Dadhīca said:<br>
         <!-- <TR>It is praised by the five voids, it is the path to the supreme level, and 
                         it is to be served if one wishes to obtain [heaven].</TR> -->
 
+%index_voc: vyoman as tattva?
 %index_geo: Suradraha
 
 %[1]Gaṅgā, [2]Agni, [3]Somatīrtha, [4]Sūrya, [5]Puṣkara, [6]Mānasa,
@@ -9778,7 +9781,7 @@ Dadhīca said:<br>
         <APP>\va <LEM>śaiva°</LEM> \mssCaCbCc\msNa\msNb\msNc; śarva° \Ed</APP>
 
 % Sanderson Textual Cr. through 35 on dating Pañcarātra scriptures
-<TEXT> mīnaughā pañcarātraṃ śrutikuṭilagatismārtavegā taraṅgā|</TEXT>
+<TEXT> mīnaughā pañcarātraṃśrutikuṭilagati smārtavegā taraṅgā|</TEXT>
         <APP>\vb <LEM>mīnaughā°</LEM> \msNa\msNb\Ed;  mīnoghā° \mssCaCbCc\msNc\oo
                  <LEM>pañcarātraṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; pañcaśatraṃ \Ed\oo
                  <LEM>°smārtavegā taraṅgā</LEM> \mssCaCbCc\msNa\msNc; °smā×<UNCL>vegā taraṅgā</UNCL> \msNb, 
@@ -9791,7 +9794,7 @@ Dadhīca said:<br>
         <APP>\vd <LEM>°śadvyoma°</LEM> \mssCaCbCc\msNb\msNc; °śavyoma° \msNa, °sadvyoma° \Ed</APP>
 % made up of these: mīmāṃsā, kramapada?, śaivaśāstra, pañcarātra, śruti, smṛti, yoga, upaniṣad, MBh, pañcā..., 
 
-
+%index_voc: vyoman as tattva
 %index_geo: Vāgīśvaratīrtha
 
 <NOTANUSTUBH/> śārdūlavikrīḍita
@@ -16396,6 +16399,7 @@ EDDIG \msM folios
         <!-- <TR>He is free of the stain of having parts[?], and is devoid of the fifty voids.</TR> -->
 % pañcavyoman? what is the 50 voids? Phps the 5 elements x 10 types listed below. Or \msNb?
 
+%index_voc: vyoman as tattva?
 %folioinfo \msM\ 445.jpg lower, f. 38r 
 %folioinfo \Ed\ p.656
 <TEXT> jalapakṣī yathā toyair{ }na lipyeta jale caran|</TEXT>
@@ -19773,7 +19777,7 @@ Sathyanarayana. pura > puri/purī?
 <TEXT> rauravādi avīcyantaṃ yātanāsthānam{ }ucyate||</TEXT> 24:5
         <!-- <TR>They start with Raurava and end with Avīcī, and 
              they are called the places of torment.</TR> -->
-        <NOTE>See Mitākṣara: Łevaṃ rauravādinarakeṣu$...</NOTE>
+        <NOTE>See Mitākṣarā: Łevaṃ rauravādinarakeṣu$...</NOTE>
         % yātanā :  acute pain, torment, agony, (esp.) punishment inflicted by Yama, the pains of hell 
 CHECK also MarkPur 12, and Purāṇic Enc. at 'kāla' !
 
