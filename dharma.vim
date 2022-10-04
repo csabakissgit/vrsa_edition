@@ -72,6 +72,7 @@ nnoremap msca a\msCa
 nnoremap <silent> <C-S> :w
 vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(expand((exists("g:netrw_gx")? g:netrw_gx : '<cfile>')),netrw#CheckIfRemote())
+noremap <F1> :call OpenManual()
 nmap <silent> <F8> <Plug>ToggleDiffCharCurrentLine
 nmap <silent> <F7> <Plug>ToggleDiffCharAllLines
 vnoremap <silent> <Plug>(calendar) :Calendar
@@ -345,12 +346,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 9741 - ((18 * winheight(0) + 19) / 38)
+let s:l = 8723 - ((18 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-9741
-normal! 02|
+8723
+normal! 020|
 tabnext 1
 badd +0 vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
