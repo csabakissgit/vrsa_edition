@@ -346,14 +346,14 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 8723 - ((18 * winheight(0) + 15) / 31)
+let s:l = 8897 - ((18 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-8723
-normal! 020|
+8897
+normal! 015|
 tabnext 1
-badd +0 vrsasarasamgraha.xml
+badd +2536 vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif

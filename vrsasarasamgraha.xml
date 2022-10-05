@@ -2775,7 +2775,7 @@ https://ia800200.us.archive.org/33/items/mahabharatakris03ganggoog/mahabharatakr
 <TEXT> dakṣakanyā viśālākṣī śraddhādyāḥ sumanoharāḥ|</TEXT>
         <APP>\va <LEM>°ākṣī</LEM> \msP\msCa\msNa\msNb\msNc; \om\ \msCb, °ākṣi \Ed</APP>
         <APP>\vb <LEM>°ādyāḥ</LEM> \eme; °ādyā \msP\msNb\msNc\Ed, °āḍhyāḥ \msNa, \om\ \msCb, °āḍhyā \msCa\oo
-                 <LEM>°harāḥ</LEM> \msNb\Ed; °harā \msP\msCa\msNc,  \om\ \msCb, °¤<UNCL>mā</UNCL>ḥ \msNa</APP>
+                 <LEM>°harāḥ</LEM> \msNb\Ed; °harā \msP\msCa\msNc,  \om\ \msCb, °¤<UNCL>māḥ</UNCL> \msNa</APP>
         <!-- <TR>They are Dakṣa's daughters, [called] Śraddhā and so on. They have huge eyes and they are beautiful.</TR> -->
 
 %index_grammar: singular for plural 
@@ -3581,7 +3581,7 @@ Peter Bisschop studied the kotihoma CHECK
         <APP> Ł\Colo:$ <LEM>nāmādhyāyas{ }tṛtīyaḥ</LEM> \mssCaCbCc\msNa\msNb; nāmādhyāyas{ }tṛtīya \msNc,
                         nāmas{ }tṛtīyo 'dhyāyaḥ \Ed</APP>
         <TRCOLOPHON>Here ends the third chapter in the ŁVṛṣasārasaṃgraha$ called the Praise of Non-violence.</TRCOLOPHON>
-        %END OF CHAPTER 3
+%END OF CHAPTER 3
 
 %folioinfo \msCc\ 190.jpg, f. 273v(? probably OK, the folio does read 273, thus also online)
 
@@ -4044,7 +4044,7 @@ Vagy
 % go for evaṃ?
 <TEXT> evaṃ satyavidhānasya kīrtitaṃ tava suvrata|</TEXT>
         <APP>\va <LEM>evaṃ satya°</LEM> \msCb; etat{ }satya° \msCa\msCc\msNa\msNb\msNc\Ed</APP>
-        <APP>\vb <LEM>suvrata</LEM> \msCa\msNa\msNc; suvrate \msCb\msNb, suvrata<UNCL>ḥ</UNCL> \msCc, suvrataṃ \Ed</APP>
+        <APP>\vb <LEM>suvrata</LEM> \msCa\msNa\msNc; suvrate \msCb\msNb, suvra<UNCL>taḥ</UNCL> \msCc, suvrataṃ \Ed</APP>
         <!-- <TR>Thus have [I] taught the rules of truth to you, O virtuous one,</TR> -->
 % for kīrtanam Kengo (but then tava is problematic)
 
@@ -8187,7 +8187,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
 
 <TEXT> bhṛtyaputrakalatrebhyaḥ śeṣāśī vighasāśanaḥ||</TEXT> 8:20
         <APP>\vd <LEM>vighasāśanaḥ</LEM> \msCa\msNa\msNb; vighasāsanam \msCb, vighasāṣinaḥ \msCc, 
-                                vighaśāsanaḥ \msNc, vighasāśana<UNCL>ḥ</UNCL> \msPpcorr, ghasāśana \msPacorr, viṣasāsanaḥ \Ed</APP>
+                                vighaśāsanaḥ \msNc, vighasāśa<UNCL>naḥ</UNCL> \msPpcorr, ghasāśana \msPacorr, viṣasāsanaḥ \Ed</APP>
         <!-- <TR>he who eats the leftovers (śeṣāśin) of servants, sons and wives, is [called in general]
                         the one who consumes the remains of food (Łvighasāśana$).</TR> -->
 
@@ -8770,24 +8770,27 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <!-- <TRCHAPTER> Chapter Nine</TRCHAPTER> -->
 
 <SUBCHAPTER>traiguṇyam</SUBCHAPTER>
+<TRSUBCHAPTER>The system of three qualities</TRSUBCHAPTER>
 
 <ANUSTUBH/>
-<TEXT> [anarthayajña uvāca|*]</TEXT>
-% \msM actually inserts this uvāca pcorr!
-
-%connects to end of chaptr 2!
-
+[anarthayajña uvāca|*]
 <TEXT> trikālaguṇabhedena bhinnaṃ sarvacarācaram|</TEXT>
         <APP>\va <LEM>trikāla°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; triṣkāla° \msCc\oo
                  <LEM>°bhedena</LEM> \mssCaCbCc\msNa\msNbpcorr\msNc\Ed; °bhena \msNbacorr</APP>
         <APP>\vb <LEM>bhinnaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; bhinna \msNb</APP>
+        <NOTE>It is only \msM, a MS not collated for this chapter, that inserts, post correctionem,
+              Łanarthayajña uvāca$ at the beginning of this chapter. It is not really needed:
+              Anarthayajña's teaching continues without interruption here. 
+              Another possibility is that this verse was originally the continuation
+              of the end of chapter two (2:40ef: Łtraikālyakalanāt kālas tena kālaḥ prakīrtitaḥ$).
+              At least it seems to directly connect there topic-wise.
+              My translation of Łguṇa$ in Łpāda$ a is tentative.</NOTE>
         <!-- <TR>The whole universe with its moving and unmoving elements is divided
-                        by the three [divisions of] time and the [three] Łguṇa$s 
-                        [or guṇa not tech term here?].</TR> -->
+                        by the three subdivisions (Łguṇa$) of time.</TR> -->
 
 <TEXT> tasmāt{ }triguṇabandhena veṣṭitaṃ nikhilaṃ jagat||</TEXT> 9:1
         <APP>\vc <LEM>tasmāt{ }tri°</LEM> \msCa\msCb\msNa\msNb\Ed; tasmā tri° \msCc\msNc</APP>
-        <!-- <TR>Therefore the whole world is bound by the fetters of the three Łguṇa$s.</TR> -->
+        <!-- <TR>Therefore the whole world is bound by the fetters of three qualities (Łguṇa$).</TR> -->
 
 <TEXT> vigatarāga uvāca|*</TEXT>
         <!-- <TR>Vigatarāga spoke:</TR> -->
@@ -8796,9 +8799,27 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <APP>\va <LEM>°kālyam</LEM> \msCb\msCc\msNa\msNb\Ed; °kālam \msCa\msNc</APP>
         <APP>\vab <LEM>kiṃ jñeyaṃ trai°</LEM> \msCa\msNc; vijñeyaṃ trai° \msCb\msNa\msNb\Ed, ki jñeyam{ }trai° \msCc</APP>
         <APP>\vb <LEM>°dhātuka°</LEM> \mssCaCbCc\msNa\msNb\msNc; °dhāyukta° \Ed</APP>
-        <!-- <TR>What does the term `the three divisions of time' mean for the soul in the three worlds[?]?</TR> -->
-        <NOTE>I have included the element Łtrai°$ in the lemma in pādas ab only because \msCc\ 
-                has a slightly unusual ligature there (Łmtrai$)</NOTE>.
+        <NOTE>I have included the element Łtrai°$ in the lemma in Łpāda$s ab only because \msCc\ 
+                has a slightly unusual ligature there (Łmtrai$). 
+                
+                As for the interpretation of
+                Łtraidhātuka$ in Łpāda$ b, an intelligent guess would be a reference to the three so-called
+                `humours' of the body, namely Łpitta, vāyu$ and Łśleṣman$. This is
+                the only occurence of the term Łtraidhātuka$ in the \VSS. In 5.11cd above, Łdhātu$ is probably used 
+                in the same  Ayurvedic sense that I am proposing here (Łdhātuvaiṣamyanāśo 'sti na ca rogāḥ sudāruṇāḥ$).
+                Elsewhere Łdhātu$ means `verbal root' (3.3), `metal' (16.6: 
+                Łyathā vai sarvadhātūnāṃ doṣā dahyanti dhāmyatām | 
+                 tathā pāpāḥ pradahyante dhruvaṃ prāṇasya nigrahāt$ ||)
+                and `gross element' (for Sāṃkhya-style Łmahābhūta$s in chapter 20).
+                To complicate things, chapter thirteen claims that the human body is made up
+                of two Łdhātu$s, Łsomadhātu$ and Łagnidhātu$. Semen contains Łsomadhātu$,
+                menstrual blood Łagnidhātu$, and the new-born baby is thus made up of both. See e.g. 13.20cd--13.21:
+                        <skt>śukraśoṇitasaṃyogād garbhotpattis tataḥ smṛtaḥ~||</skt>
+                        <skt>agnisomātmakaṃ devi śarīradvayadhātutaḥ~|</skt>
+                        <skt>somadhātu smṛtaṃ śukram agnidhātu rajaḥ smṛtam~|</skt>
+                        <skt>agnisomāśrayaṃ devi śarīram iti saṃjñitam~||</skt>.</NOTE>
+                 <!-- <TR>What does the term `the three times' mean for an embodied creature that is made up of
+                        three constituents (Łdhātuka$)?</TR> -->
 
 <TEXT> kiṃcid{ }vistaram{ }eveha kathayasva tapodhana||</TEXT> 9:2
         <APP>\vc <LEM>kiṃci°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; sāttviko bhagav { }viṣṇu rājasaḥ kamalodbhavaḥ|  
@@ -8806,7 +8827,8 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                                                    <EYESKIP>9.5</EYESKIP>\oo
                  <LEM>°veha</LEM> \mssCaCbCc\msNa\msNb\msNc; °tad{ }dhi \Ed</APP>
         <APP>\vd <LEM>kathayasva</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; ka¤¤¤ \msCa</APP>
-        <!-- <TR>Talk about it in a somewhat more extended manner, O great ascetic.</TR> -->
+        <!-- <TR>Teach me about this in a somewhat more extended manner, O great ascetic.</TR> -->
+
 %index_anarthayajna_ref_as: tapodhana
 
 
@@ -8816,11 +8838,20 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> traikālyaṃ triguṇaṃ jñeyaṃ vyāpī prakṛtisambhavaḥ|</TEXT>
         <APP>\va <LEM>°kālyaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °kālya \msCc\oo
                  <LEM>°guṇaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °guṇa \msCc</APP>
-        <!-- <TR>The three [divisions of] time are the three Łguṇa$s.
-                It[?] is pervading and born from Prakṛti.</TR> -->
+        <NOTE>Understand Łpāda$ b as referring to the neuter Łtraikālyaṃ$ or rather Łtriguṇaṃ$ (gender confusion).</NOTE>
+        <!-- <TR>The three times are the three qualities (Łguṇa$). It is [all-]pervading and is born from Prakṛti.</TR> -->
+
+%index_grammar: gender 
 
 <TEXT> anyonyam{ }upajīvanti anyonyam{ }anuvartinaḥ||</TEXT> 9:3
-        <!-- <TR>They support each other, they serve each other.</TR> -->
+        <PARAL>\vcd <rm>\similar\ \BRAHMANDAPUR\ 1.4.9--10: </rm>
+                        eta eva trayo lokā eta eva trayo guṇāḥ|  
+                        eta eva trayo vedā eta eva trajo 'gnayaḥ||
+                        parasparānvayā hy{ }ete parasparam{ }anuvratāḥ|
+                        paraspareṇa vartante prerayanti parasparam||
+                     <rm>\similar\ \VAYUP\ 1.5.16--17ab \similar\ \LINPU\ 1.70.78--79</rm></PARAL>
+        <NOTE>Note the number confusion in Łpāda$s cd.</NOTE>
+        <!-- <TR>They support each other, they follow each other.</TR> -->
 % anyonyaṃm \msNb
 
 <TEXT> sattvaṃ rajas{ }tamaś{ }caiva rajaḥ sattvaṃ tamas{ }tathā|</TEXT>
@@ -8835,24 +8866,30 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <APP>\vc <LEM>tamaḥ sattvaṃ</LEM> \msCa\msCb\msNa\msNc; tamasatva° \msCc, tamaḥ satva° \msNb\Ed\oo
                  <LEM>rajaś{ }caiva</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; rajaḥś{ }caiva \msCb</APP>
         <APP>\vd <LEM>smṛtāḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; \om\ \msCc</APP>
-        <!-- <TR>Tamas, Sattva and Rajas; they are each other's pairs.</TR> -->
-% BndP_1,4.1 ffi and other purāṇas are similar
-% some parallels such as 
-%purana/vAyu-purANam/01/005.md:
-%anyonyamithunā hy ete hy anyonyam upajīvinaḥ।
+        <PARAL>\vd <rm>\similar\ \BRAHMANDAPUR\ 1.4.11ab: </rm>
+                        anyonyaṃ mithunaṃ hy{ }ete anyonyam{ }upajīvinaḥ
+                    <rm>\similar\ \VAYUP\ 1.5.17cd \similar\ \LINPU\ 1.70.80ab</rm></PARAL>
+        <!-- <TR>Tamas, Sattva and Rajas; they are mutually each other's pairs.</TR> -->
 
 %folioinfo \msCb\ 425.jpg
 %folioinfo \msCc\ 208.jpg, f. 282v
 <TEXT> sāttviko bhagavān{ }viṣṇū rājasaḥ kamalodbhavaḥ|</TEXT>
         <APP>\va <LEM>°ṣṇū</LEM> \corr; °ṣṇu \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
         <APP>\vb <LEM>rājasaḥ kamalodbhavaḥ</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; <UNCL>rāja</UNCL>¤¤¤¤¤¤ \msCa</APP>
+        <NOTE>My altering the reading Łviṣṇu$ to Łviṣṇū$ in Łpāda$ a against all witnesses may
+              be regarded as an overcorrection and the stem form could be original.</NOTE>
         <!-- <TR>Lord Viṣṇu is Sattvic. [Brahmā], the one who was born on a lotus, is Rājasa.</TR> -->
 % perhaps \msNa reads viṣṇū? no, look at kundendu below
 
 %folioinfo \msCa\ 407.jpg
-<TEXT> tāmaso bhagavān{ }īśaḥ sakalaṃ vikaleśvaraḥ||</TEXT> 9:5
+<TEXT> tāmaso bhagavān{ }īśaḥ sakalaṃvikaleśvaraḥ||</TEXT> 9:5
         <APP>\vcd <LEM>tāmaso bhagavān{ }īśaḥ sakalaṃ</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; ¤¤¤¤¤¤¤¤<UNCL>sakalam</UNCL> \msCa</APP>
-        <!-- <TR>Lord Īśa is Tāmasa, the limbless is all ... [?]</TR> -->
+        <NOTE>My translation of Łpāda$s cd is tentative. I suspect that Łpāda$ d is one single compound,
+              the Łanusvāra$ is only inserted to avoid the metric fault of two Łlaghu$ syllables 
+              at the second and third position.
+              I understand Łvikala$ as a synonym of Łniṣkala$. For the tantric connotations of the pair
+              Łsakala-niṣkala$ see, e.g., \TAKIII\ s.v. Łniṣkala$.</NOTE>
+        <!-- <TR>Lord Īśa is Tāmasa, [both in his] complete (Łsakala$) [form] and [as] formless (Łvikala$) Īśvara.</TR> -->
 
 <TEXT> sattvaṃ kundenduvarṇābhaṃ padmarāganibhaṃ rajaḥ|</TEXT>
         <APP>\va <LEM>sattvaṃ</LEM> \msCa\msCb\msNa\msNb\Ed; satva \msCc\msNc\oo
@@ -13908,7 +13945,7 @@ TEXT TEXT
 <TEXT> eteṣāṃ saumyabhāgatvāc{ }chvetatvam{ }upajāyate|</TEXT>
 <TEXT> āgneyabhāvād{ }raktatvaṃ kṛṣṇatvaṃ cāpi gacchati||</TEXT>
 <TEXT> tvagmāṃsarudhiraṃ majjādṛṣṭiroma tathaiva ca|</TEXT>
-<TEXT> āgneyadhātusomaś{ }ca kathito 'smi varānane|</TEXT>
+<TEXT> āgneyadhātu somaś{ }ca kathito 'smi varānane|</TEXT>
 <TEXT> brūhi brūhi viśālākṣi yady{ }asti tava saṃśayaḥ||</TEXT> 14:58
 
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe praśnavyākaraṇo nāmaś caturdaśo 'dhyāyaḥ</COLOPHON></TEXT>
