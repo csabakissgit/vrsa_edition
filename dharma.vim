@@ -316,7 +316,8 @@ setlocal sidescrolloff=-1
 setlocal signcolumn=auto
 setlocal nosmartindent
 setlocal softtabstop=0
-setlocal nospell
+set spell
+setlocal spell
 setlocal spellcapcheck=[.?!]\\_[\\])'\"\	\ ]\\+
 setlocal spellfile=
 setlocal spelllang=en
@@ -346,14 +347,14 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 8897 - ((18 * winheight(0) + 15) / 31)
+let s:l = 10085 - ((15 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-8897
-normal! 015|
+10085
+normal! 03|
 tabnext 1
-badd +2536 vrsasarasamgraha.xml
+badd +0 vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif

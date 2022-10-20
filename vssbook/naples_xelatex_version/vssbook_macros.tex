@@ -23,6 +23,10 @@
 \renewcommand{\cftsubsubsecafterpnum}{\hspace*{5em}}
 \renewcommand{\cftchapafterpnum}{\hspace*{5em}}
 
+\makeatletter
+\newcommand \mydotfill {\leavevmode \cleaders \hb@xt@ .8em{\hss .\hss }\hfill \kern \z@}
+\makeatother
+
 
 % bibliography
 \usepackage{natbib}
@@ -83,7 +87,7 @@
   SmallCapsFont={Latin Modern Roman Caps}, 
   Renderer=ICU,
 %  SmallCapsFeatures={Letters=SmallCaps},
-]{EB Garamond} 
+]{EB Garamond}
 \renewcommand{\baselinestretch}{.95}
 % Activate to begin paragraphs with an empty line rather than an indent
 %\usepackage[parfill]{parskip}
@@ -208,6 +212,9 @@
 \newcommand{\DharmP}{\textsl{Dha\-rma\-pu\-tri\-kā}\index{Dharmaputrika@\textsl{Dharmaputrikā}}}
 \newcommand{\DHARMP}{DharmP\index{Dharmaputrika@\textsl{Dharmaputrikā}}}
 
+\newcommand{\Nisv}{\textsl{Ni\-śvā\-sa\-tattva\-saṃhi\-tā}\index{Nisvasatattvasamhita@\textsl{Niśvāsatattva\-saṃhitā}}}
+\newcommand{\NISV}{Niśv\index{Nisvasatattvasamhita@\textsl{Niśvāsatattva\-saṃhitā}}}
+
 \newcommand{\Nisvmukh}{\textsl{Ni\-śvā\-sa mu\-kha}\index{Nisvasamukha@\textsl{Niśvāsa mukha}}}
 \newcommand{\NISVMUKH}{NiśvMukha\index{Nisvasamukha@\textsl{Niśvāsa mukha}}}
 
@@ -216,6 +223,9 @@
 
 \newcommand{\Nisvnaya}{\textsl{Ni\-śvā\-sa na\-ya}\index{Nisvasanaya@\textsl{Niśvāsa naya}}}
 \newcommand{\NISVNAYA}{NiśvNaya\index{Nisvasamukha@\textsl{Niśvāsa naya}}}
+
+\newcommand{\Nisvuttara}{\textsl{Ni\-śvā\-sa u\-tta\-ra}\index{Nisvasauttara@\textsl{Niśvāsa uttara}}}
+\newcommand{\NISVUTTARA}{NiśvUttara\index{Nisvasauttara@\textsl{Niśvāsa uttara}}}
 
 \newcommand{\Padmap}{\textsl{Padma\-pu\-rā\-ṇa}\index{Padmapurana@\textsl{Padmapurāṇa}}}
 \newcommand{\PADMAP}{PadmaP\index{Padmapurana@\textsl{Padmapurāṇa}}}
@@ -328,6 +338,8 @@
 \newcommand{\SkandaP}{\textsl{Ska\-nda\-pu\-rā\-ṇa}\index{Skandapurana@\textsl{Skandapurāṇa}}}
 \newcommand{\SKANDAP}{SkandaP\index{Skandapurana@\textsl{Skandapurāṇa}}}
 
+\newcommand{\Hyp}{\textsl{Ha\-ṭha\-yo\-ga\-pra\-dī\-pi\-kā}\index{Hathayogapradipika@\textsl{Haṭhayogapradīpikā}}}
+\newcommand{\HYP}{HYP\index{Hathayogapradipika@\textsl{Haṭhayogapradīpikā}}}
 
 
 
@@ -467,12 +479,12 @@ L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
 
 
 % for translation with Sanskrit
-\newcommand{\chptr}[1]{\vfill\pagebreak\thispagestyle{empty} \centerline{[\textbf{\thinspace#1\thinspace}]}}
+\newcommand{\chptr}[1]{\vfill\pagebreak\thispagestyle{empty} \centerline{\large[{\thinspace#1\thinspace}]}}
 \newcommand{\subchptr}[1]{%
 	\centerline{{[\textit{\thinspace#1\thinspace}---}}}
 \newcommand{\subsubchptr}[1]{\centerline{[\textit{\thinspace#1\thinspace}---}}
 
-\newcommand{\trchptr}[1]{\centerline{[\textbf{#1}]}\indent}
+\newcommand{\trchptr}[1]{\centerline{\large[{#1}]}\indent}
 \newcommand{\trsubchptr}[1]{\centerline{#1 ]}}
 \newcommand{\trsubsubchptr}[1]{\centerline{#1 ]}}
 
