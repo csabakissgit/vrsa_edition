@@ -4,29 +4,44 @@
 \documentclass[11pt]{book}
 
 \usepackage{fontspec} % Font selection for XeLaTeX; see fontspec.pdf for documentation
-\defaultfontfeatures{Mapping=tex-text} % to support TeX conventions like ``---''
+\defaultfontfeatures{Mapping=tex-text, Language=Sanskrit} % to support TeX conventions like ``---''
 \usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
 
-%\defaultfontfeatures{Mapping=tex-text} % ditto
+
+% Devanagari page numbers!
+% from https://imathworks.com/tex/tex-latex-xelatex-devanagari-page-numbers-in-tableofcontents/
+\usepackage{xstring}
+\renewcommand\thepage{\Devnag{page}}
+\DeclareRobustCommand\Devnag[1]{\expandafter\arabictodevnag\expandafter{\the\csname c@#1\endcsname}}
+\newcommand{\arabictodevnag}[1]%
+{%
+  \StrSubstitute{#1}{0}{०}[\num]
+  \StrSubstitute{\num}{1}{१}[\num]
+  \StrSubstitute{\num}{2}{२}[\num]
+  \StrSubstitute{\num}{3}{३}[\num]
+  \StrSubstitute{\num}{4}{४}[\num]
+  \StrSubstitute{\num}{5}{५}[\num]
+  \StrSubstitute{\num}{6}{६}[\num]
+  \StrSubstitute{\num}{7}{७}[\num]
+  \StrSubstitute{\num}{8}{८}[\num]
+  \StrSubstitute{\num}{9}{९}
+}
 
 % The polyglossia package lets us easily use several languages.
 \usepackage{polyglossia}
-
-% Define the used fonts. Replace Nakula and XITS by your font choice.
 
 %\newfontfamily\devanagarifont[Script=Devanagari]{Pedantic Indic}
 %\newfontfamily\devanagarifont[Script=Devanagari]{Sahadeva}
 \newfontfamily\devanagarifont[Scale=1.4,Script=Devanagari]{AdishilaDev}
 \newfontfamily\englishfont[Scale=1.2,Script=Latin]{EB Garamond}
+\setmainfont[Script=Devanagari]{AdishilaDev}
 
 %\setmainlanguage{english}
 %\setotherlanguages{sanskrit}
 
-\setmainfont{AdishilaDev}
 \usepackage{xltxtra} % Extra customizations for XeLaTeX
 %\setsansfont{Deja Vu Sans}
 %\setmonofont{Deja Vu Mono}
-% other LaTeX packages.....
 
 
 \usepackage[total={11.7cm,20cm},top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
@@ -44,6 +59,7 @@
 \begin{document}
 
 
+
 % ADJUST PAGE NUMBER for EDITION ! 
 \setcounter{page}{500}
 
@@ -55,20 +71,6 @@
 \fancyhead[LO]{}
 \fancyhead[RO]{}
 
-asdfasdfa
-\pagebreak
-asdfasdfa
-\pagebreak
-asdfasdfa
-\pagebreak
-asdfasdfa
-\pagebreak
-asdfasdfa
-\pagebreak
-asdfasdfa
-\pagebreak
-asdfasdfa
-\pagebreak
 
 \szam\bek
 \input{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_input_devnag_xelatex.tex}
