@@ -8084,9 +8084,8 @@ tauryatrikaṃ vṛthāṭyā ca kāmajo daśako gaṇaḥ // Manu_7.47
               that comes up in the next verse in the \VSS:
               Łevaṃ me sutaṃ. ekaṃ samayaṃ bhagavā koliyesu viharati haliddavasanaṃ nāma koliyānaṃ nigamo.
                atha kho puṇṇo ca koliyaputto govatiko, acelo ca seniyo kukkuravatiko yena bhagavā tenupasaṅkamiṃsu...$
-               See <citep>AcharyaBull</citep><pnum>127--128</pnum>. Acharya summarises the <skt>Kukkuravatiyasutta</skt> 
-               thus:
-
+               See <citep>AcharyaBull</citep><pnum>127--128</pnum>. Acharya 
+               summarises the <skt>Kukkuravatiyasutta</skt> thus:
                `The <skt>Kukkuravatiyasutta</skt> from the <skt>Majjhimanikāya</skt> (II.1.7) 
                 presents a Łgovatika$ together with a Łkukkuravatika$. They are observing 
                 their vows, and have adopted the behaviour of a bull and a dog respectively. 
@@ -8140,13 +8139,26 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
         <APP>\va <LEM>kuddālair{ }dārayanto</LEM> \msNa\msP\Ed; kuddālair{ }dārayanno \msCa, kuddārai dārayanto \msCb,
                         kudārai dārayantā \msCc, kuddālai ddārayām{ }āsa \msNb, kuddālai dārayanto \msNc</APP>
         <APP>\vb <LEM>kīlakoṭiśataiś{ }citaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\msP; kīṭakoṭīśatair{ }api \msCc\Ed</APP>
-        <!-- <TR>Splitting [the earth] with spades and piling up [the soil] with wedges:</TR> -->
+        <!-- <TR>Splitting [the earth] with spades and laid on hundreds of pointed wedges:</TR> -->
         <NOTE>While Łdārayanto$ as an active participle in the masculine nominative is acceptable
                 as an irregular form, the precise interpretation of Łpāda$s a and b is still problematic therefore
-         my translation of this verse is tentative and the description seems too condensed to be
-         intelligible. 
+        my translation of this verse is tentative and the description seems too condensed to be
+        intelligible. Kengo Harimoto suggested that \msCc\ and \Ed\ might be transmitting
+        the correct reading, and then the reference would be to soil 
+        piled up by millions of insects (Łkīṭakoṭi$°), instead of points of
+        wedges (Łkīlakoṭi$°). Nevertheless, now I think that the reference point could
+        be Bhīṣma's dying scene in the \MBH, where the great warrior is lying on a bed of hundreds of arrows: 
+        <skt>sa śete śaratalpastho medinīm aspṛśaṃs tadā</skt>: `Then he lay there on his bed of arrows,
+        without touching the ground' (\MBH\ 6.115.8ab). The word Łcita$ is used in the same context in 
+        \MBH\ 12.47.4ab: <skt>vikīrṇāṃśur ivādityo bhīṣmaḥ śaraśataiś citaḥ</skt>: 
+        `Bhīṣma, laid on a hundred arrows, was like the Sun with its scattered rays of light.'
+        If this interpretation of \VSS\ 8.17 is correct, the observance described here may require
+        one to dig the ground, install wedges, and lie on them, in the manner of fakirs.
+        The reference to the Earth in Łpāda$ c may have been inspired by lines such as \MBH\
+        6.115.11cd: <skt>rarāsa pṛthivī caiva bhīṣme śāṃtanave hate</skt>:
+        `The Earth cried out when Bhīṣma, the son of Śaṃtanu, was killed.'
 
-         In \BHAVP\ 4.121, called `The Description of eighty-five observances' (Łvratapañcāśītivarṇanam$),
+         In \BHAVP\ 4.121, called `The Description of eighty-five observances' (Łvratapañcāśītivarṇana$),
          we find this on Łmahīvrata$:
                 <skt>dadyāt triṃśatpalād ūrdhvaṃ mahīṃ kṛtvā tu kāṃcanīm |
                 kulācalādrisahitāṃ tilavastrasamanvitām || 152 || 
@@ -8163,7 +8175,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
         from <citep>OlivelleManu</citep><pnum>997</pnum>.) 
         The descriptions of the Łdharāvrata$ and the Łśubhadvādaśī$ observance in 
         <citep>KaneHistory</citep><pnum>v. 5, 321 and 429</pnum> are similar.
-        Unfortunately, the \VSS's Łmahīvrata$ seems different, and more in line with 
+        The \VSS's Łmahīvrata$ seems different, and more in line with 
         the somewhat transgressive and wild, perhaps Pāśupata-oriented, nature of the
         four preceding observances.</NOTE>
 
@@ -9682,7 +9694,9 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <APP>\vo <LEM>nandi°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; nandī° \msCb</APP>
         <NOTE>Note the change of speaker here: Nandikeśvara is also the main
               interlocutor of the \SDHS\ and the \SDHSANGR.
-              This verse marks the beginning of the layer that can be labelled Śaiva.</NOTE>
+              This verse marks the beginning of the layer that can be labelled Śaiva.
+              On Nandi/Nandin/Nandikeśvara not being Śiva's bull, see
+              <cite>bhattacharya_nandin_1977</cite> and p. \pageref{nandi_not_bull} above.</NOTE>
         <!-- <TR>Nandikeśvara spoke:</TR> -->
 
 <TEXT> kailāsaśikhare ramye siddhacāraṇasevite|</TEXT>
@@ -9692,7 +9706,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                  frequented by Siddhas and celestial singers (Łcāraṇa$),</TR> -->
 
 <TEXT> tatrāsīnaṃ śivaṃ sākṣād{ }devī vacanam{ }abravīt||</TEXT> 10:3
-        <!-- <TR>Devī asked Śiva, who was sitting there in his manifest form:</TR> -->
+        <!-- <TR>Devī asked Śiva, who was sitting there in his manifest form.</TR> -->
 % abravīta \msNc
 
 <TEXT> devy{ }uvāca|*</TEXT>
@@ -9789,7 +9803,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> svargabhogapradaṃ tīrtham{ }eteṣāṃ suranāyaka||</TEXT> 10:9
         <APP>\vcd <LEM>tīrtham{ }e°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; tīrthaṃm{ }e° \msCc</APP>
         <APP>\vd <LEM>suranāyaka</LEM> \msCapcorr\msNa\msNc; suranāka \msCaacorr, suranāyakam \msCb\msCc\msNb\Ed</APP>
-        <!-- <TR>[Which is] the pilgrimage place that yields all kinds of enjoyment. O Suranāyaka?</TR> -->
+        <!-- <TR>[Which is] the pilgrimage place that yields all kinds of enjoyment, O Suranāyaka?</TR> -->
 
 <TEXT> kathaṃ mucyeta saṃsārāj{ }jñānamātreṇa īśvara|</TEXT>
         <APP>\va <LEM>kathaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; katha \msCb</APP>
@@ -9844,7 +9858,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <NOTE>In Łpāda$ b, one could apply \msNa's reading that has the standard neuter nominative form Łkṣetram$
               as opposed to the form transmitted in all other witnesses (Łkṣetra$) but
               the latter might be original, influenced by the stem form Łpuruṣa$ in Łpāda$ a.</NOTE>
-        <!-- <TR>ŁKuru$ [in Łkurukṣetra$] is to be known as the soul (Łpuruṣa$), 
+        <!-- <TR>Łkuru$ [in Kurukṣetra] is to be known as the soul (Łpuruṣa$), 
                         Łkṣetra$ as the body.</TR> -->
 
 %index_grammar: stem form metri causa 
@@ -9902,7 +9916,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <APP>\vd <LEM>tuṣṭiś{ }ca</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; tuṣṭiñ{ }ca \msCc\oo
                  <LEM>gatā</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; gatāḥ \msCb</APP>
         <!-- <TR>Hearing about that which is easy to obtain, easy to perform and is subtle,
-                 My contentment has left me [that is, I want to hear more].</TR> -->
+                 my contentment has left me [that is, I want to hear more].</TR> -->
 
 %folioinfo \msNc\ 225.jpg lower, f. 223r
 %folioinfo \msM\ 424.jpg lower, f. 16r 
@@ -10083,13 +10097,14 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> mānasasaramadhyasthaṃ sa haṃsaḥ kamalopari|</TEXT>
         <APP>\va <LEM>mānasa°</LEM> \msCb\msNa; <UNCL>mānasa</UNCL> \msCa, mānasaṃ \msCc\msNb\msNc\Ed</APP>
         <APP>\vb <LEM>sa haṃsaḥ</LEM> \conj; sahaṃsa° \msCa\msCc\msNa\msNb\msNc\Ed, sahasaṃ \msCb</APP>
-        <NOTE>Understand Łmānasasara°$ in Łpāda$ a as Łmānasasaro$ (metri causa).
+        <NOTE>Understand Łmānasasara$° in Łpāda$ a as Łmānasasaro$° (metri causa).
               To make sense of this verse, especially the masculine nominatives in
               Łpāda$s cd, I have conjectured Łsa haṃsaḥ$ for what seems to 
               a compound: Łsahaṃsakamalopari$. I suspect Łpāda$ a to qualify, clumsily,
-              Łkamala$ in Łpāda$ b.
+              Łkamala$ in Łpāda$ b. Other possibilities include Łsahaṃsa$° meaning
+              `with the syllables HAṂ and SA on it.' 
 
-              The association of Lake Mānasa on Mount Kailāsa with lotuses, and especialy geese, is
+              The association of Lake Mānasa on Mount Kailāsa with lotuses, and especialy with geese or swans, is
               well-known. See, e.g., \MBH\ 6.114.90ff: Gaṅgā sends the great sages, who inhabit
               Lake Mānasa in the form of geese, to visit the dying Bhīṣma.
               Although the interpretation of this verse, which obviously refers to an internalised
@@ -10133,7 +10148,6 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                            `Very little of this is clear and almost nothing is certain'
                            (<citep>NisvasaGoodall</citep><pnum>389</pnum>).</NOTE>
         <!-- <TR>One can observe the shadow of one's own and others' soul properly.</TR> -->
-% CHECK Niśv book 389 etc. search for 'shadow'
 
 %folioinfo \msCa\ jpg.411
 <TEXT> āyatam{ }aṅgulīmātraṃ nimiṣākṣiḥ sa paśyati|</TEXT>
@@ -10165,9 +10179,13 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 
 <TEXT> dehamadhye hṛdi jñeyaṃ hṛdimadhye tu paṅkajam||</TEXT> 10:27
         <APP>\vc <LEM>hṛdi jñeyaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; \om\ \msCb</APP>
+        <PARAL>\vo <rm>\compare\ \NISVK\ 5.55:</rm>
+                eteṣāṃ nādamadhye tu śivaṃ tatra vyavasthitaḥ|
+                hṛdayaṃ dehamadhye tu tatra padmaṃ vyavasthitam||</PARAL>
         <NOTE>Take Łhṛdi$ as a nominative in Łpāda$ c and possibly also in Łpāda$ d (and see 10.23a).</NOTE>
         <!-- <TR>The heart is to be known to be located in the centre of the body.
                  In the centre of the heart, there is a lotus.</TR> -->
+
 
 %index_grammar: stem hṛdi?
 
@@ -10180,21 +10198,28 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> bindumadhye sthito nādaḥ sa nādaḥ kena bhidyate||</TEXT> 10:28
         <APP>\vc <LEM>bindumadhye</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; <UNCL>bindu</UNCL>¤¤ \msCa</APP>
         <APP>\vd <LEM>bhidyate</LEM> \msCb\msNa\msNb\msNc\Ed; <UNCL>vi</UNCL>dyate \msCa, vidyate \msCc</APP>
+        <PARAL>\vo <rm>\compare\ \NISVK\ 5.56:</rm>
+                karṇikā padmamadhye tu akāraṃ tasya madhyataḥ|
+                tasya madhye viniṣkrāntaṃ nādaṃ paramadurlabham||</PARAL>
+        <NOTE>For a general discussion of Łnāda$ and Łbindu$, see, e.g., \TAKIII\ s.v. Łnāda$.</NOTE>
         <!-- <TR>In the centre of the subtle sonic matter (Łbindu$), there is the subtle sound (Łnāda$).
                 How is that subtle sound (Łnāda$) divided?</TR> -->
 
 <TEXT> ukāraṃ ca makāraṃ ca bhittvā nādo vinirgataḥ|</TEXT>
         <APP>\va <LEM>ukāraṃ ca makāraṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; ukāraś{ }ca makāraś \Ed</APP>
-        <!-- <TR>Divided by the sound U and the sound MA, the subtle sound (Łnāda$) departs.</TR> -->
+        <PARAL>\vab <rm>= \NISVK\ 5.57ab</rm></PARAL>
+        <!-- <TR>The subtle sound (Łnāda$) departs divided by the sounds U and MA.</TR> -->
 
 <TEXT> taṃ viditvā viśālākṣi so 'mṛtatvaṃ labheta ca||</TEXT> 10:29
         <APP>\vd <LEM>so 'mṛtatvaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; somyatatvaṃ \msCc, somatatvaṃ \Ed\oo
                  <LEM>ca</LEM> \mssCaCbCc\msNa\msNb\msNc; vā \Ed</APP>
+        <NOTE>Note that \VSS\ 10.27--29ab seem to paraphrase \NISVK\ 5.55--57a.</NOTE>
         <!-- <TR>Realizing that [subtle sound], O Viśālākṣi, one can obtain immortality.</TR> -->
 
 
 %index_geo: Bindusaras
 
+% EDDIG
 %folioinfo \msNa\ 209.jpg upper, f.15v
 <SUBSUBCHAPTER>setubandham</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Setubandha</TRSUBSUBCHAPTER>
@@ -10210,11 +10235,11 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> jihvākaṇṭhorakūlā svaragaṇapulināvartaghoṣā taraṅgā|</TEXT>
         <APP>\vb <LEM>°kaṇṭhora°</LEM> \conj; °kaṇṭhoru° \mssCaCbCc\msNa\msNb\msNc\Ed\oo
                  <LEM>svara°</LEM> \msCa\msCb\msNa\msNb\msNc; sura° \msCc\Ed</APP>
-        <!-- <TR>The banks [of this river] are the tongue, the throat and the chest, 
-                        its sandy beaches are the host of gods, it roars with whirlpools and is wavy.</TR> -->
         <NOTE>Note that Ł°kaṇṭhora$ is a conjecture based on the context: this line
                         probably talks about sounds and the production of sounds. For this 
                         Łuraḥ$/Łura$ (`chest') seems better that Łūru$ (`thigh').</NOTE>
+        <!-- <TR>The banks [of this river] are the tongue, the throat and the chest, 
+                        its sandy beaches are the host of gods, it roars with whirlpools and is wavy.</TR> -->
 
 <TEXT> kumbhīrāghoṣamīnā daśagaṇamakarā bhīmanakrā visargā</TEXT>
         <APP>\vc <LEM>°mīnā</LEM> \mssCaCbCc\msNa\msNb\msNc; °mānā \Ed\oo
@@ -14000,6 +14025,9 @@ not in C107 8320.jpg lower
 <TEXT> garbhodakena siktāṅgajarāyā pariveṣṭitaḥ||</TEXT> 13:
 <TEXT> jāti smarati tatrastho jantuś{ }cetaḥsamanvitaḥ|</TEXT>
 <TEXT> mṛtaś{ }cāhaṃ punarjāto bhūyaś{ }caiva punarmṛtaḥ||</TEXT> 13:
+        <PARAL>\vcd <rm>\similar\ \NISVK\ 26.17ab:</rm>
+                mṛtaś{ }cāhaṃ punarjāto jātaś{ }cāhaṃ punar{ }mṛtaḥ</PARAL>
+
 % \similar\ Śivadharmottara 39ab 
 <TEXT> sthāvarāṇāṃ sahasreṣu jāto 'smi vividheṣu ca|</TEXT>
 <TEXT> caturvarṇavivarṇeṣu mānuṣeṣu sahasraśaḥ||</TEXT> 13:
@@ -14711,8 +14739,11 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 
 <TEXT> śṛṇu devi pravakṣyāmi yogasadbhāvam{ }uttamam|</TEXT>
         <APP>\vb <LEM>°m{ }uttamam</LEM> \msCa\msCb\msNa\msNc\Ed; °nirṇayam \msNb</APP>
+        <PARAL>\vab <rm>\similar\ \NISVK\ 33.6ab:</rm>
+                śṛṇu devi param gūhyaṃ yogasadbhāvamuttamam</PARAL>
         <!-- <TR>Listen, o Devī, I shall teach you the supreme essence of yoga,</TR> -->
-% pravakṣāmi \msNc
+% pravakṣāmi \msNc 
+
 
 <TEXT> yaṃ viditvā na paśyanti janāḥ saṃsārabandhanam||</TEXT> 16:2
         <!-- <TR>by knowing which people don't have to face the fetters of mundane existence.</TR> -->
@@ -14993,8 +15024,9 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <!-- <TR>Withdrawal of the senses (pratyāhāra), meditation (dhyāna), 
                                 breat-controll (prāṇayāma), concentration (dhāraṇā),</TR> -->
 
+
 <TEXT> tarkaś{ }caiva samādhiś{ }ca ṣaḍaṅgo yoga ucyate||</TEXT> 16:18
-     <PARAL>\vo <rm> = Dharmaputrikā 1.13 (with </rm> prāṇāyāmo 'tha <rm> ) </rm>
+     <PARAL>\vo <rm> = Dharmaputrikā 1.13 (with </rm> prāṇāyāmo 'tha <rm> ) \similar\ \NISVK\ 33.7</rm>
              <rm> cf.\ Sarvajñānottaravṛtti ad Yogapāda 27(?).1:</rm> 
              yad{ }uktaṃ śrīmanmataṅge|
                 prāṇāyāmas{ }tathā dhyānaṃ pratyāhāro 'tha dhāraṇam|
@@ -15052,6 +15084,8 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
                 <rm> \similar\ Sarvajñānottara Yogapāda 27(?):4:</rm>
                 ātmā dhyātā mano dhyānaṃ dhyeyaḥ sūkṣmo maheśvaraḥ|
                 yat{ }paraṃ paramaiśvaryam etad{ }dhyānaprayojanam||
+                \similar\ <rm>\NISVK\ 12.39cd:</rm>
+                ātmā dhyātā mano dhyānaṃ dhyeyaś{ }śuddho maheśvaraḥ
                 \similar\ <rm> Agnipurāṇa 165.22cd:</rm>
                 ātmā dhyātā mano dhyānaṃ dhyeyo viṣṇuḥ phalaṃ hariḥ</PARAL>
         <!-- <TR>The Self is the meditator (dhyātṛ), the mind is meditation (dhyāna), 
@@ -16896,6 +16930,8 @@ EDDIG \msM folios
 
 <TEXT> sarvaḥ sarvagato vyāpī sarvam{ }āvṛtya tiṣṭhati||</TEXT> 20:4
         <APP>\vcd <LEM>(sarvaḥŁ...$ tiṣṭhati)</LEM> \mssCaCbCc\msNa\msNb; \om\ \Ed</APP>
+        <PARAL>\vcd <rm>\similar\ \NISVK\ 5.48cd:</rm>
+                        sarvagaḥ sarvato vyāpi sarvam{ }āpūrya tiṣṭhati</PARAL>
         <!-- <TR>that which is everything and everywhere and that which is pervasive, 
                         exists covering everything.</TR> -->
         % Liṅgapurāṇa: sarvataḥ śrutimaṃl loke sarvamāvṛtya tiṣṭhati।। 88.43 ।।
@@ -16903,7 +16939,7 @@ EDDIG \msM folios
 
 <TEXT> sarvendriyaguṇābhāsaḥ sarvendriyavivarjitaḥ|</TEXT>
         <APP>\vab <LEM>sarve°Ł...$ varjitaḥ</LEM> \mssCaCbCc\msNa\msNb; \om\ \Ed</APP>
-        <PARAL>\vab <rm>\similar\ MBh 6.35.14ab:</rm> sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam </PARAL>
+        <PARAL>\vab <rm>\similar\ \MBH\ 6.35.14ab:</rm> sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam </PARAL>
         <!-- <TR>It appears to have the qualities of all the sense faculties
                          but is devoid of all sense faculties.</TR> -->
                          Agnipurāṇa: 
@@ -19387,6 +19423,9 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
 <TEXT> ghoṣaṇī piṅgalā caiva vaidyutī candramālinī|</TEXT>
         <APP>\va <LEM>ghoṣaṇī</LEM> \mssCaCbCc\msNa\msNb\msNc\msL; ghoṣaṇā \Ed</APP>
         <APP>\vb <LEM>vaidyutī</LEM> \msCa\msCb\msNa\msNb\msNc\msL\Ed; vidyuta \msCc, vidyutī \Ed</APP>
+        <PARAL>\vo <rm>\NISVK\ 33.27cd--28ab:</rm>
+                ghoṣiṇi piṅgalā caiva vaidyutī bindumālinī||
+                cāndrī manonugā caiva sukṛtā ca tathā parā|</PARAL>
         <!-- <TR>Sound, yellow, lightning, Candramālinī,</TR> -->
         % māliṇī \msL
         % bindumālinī? DG
@@ -19399,10 +19438,13 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
                                                                 sukṛtā ca tathāpara \Ed</APP>
         <!-- <TR>moon, pleasing, well-done,</TR> -->
 
+
 <TEXT> saumyā nirañjanā caiva nirālambā ca kīrtitā|</TEXT>
         <APP>\va <LEM>saumyā nirañjanā caiva</LEM> \msCb\msCc\msNa\msL\Ed; saumyā nirañjanā ×× \msCa, \om\ \msNb,
                                                                 saumyā ṇirañjanā caiva \msNc</APP>
         <APP>\vb <LEM>kīrtitā</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; kīrtitāḥ \msL</APP>
+        <PARAL>\vo <rm>\NISVK\ 33.28cd:</rm>
+                saumyā nirañjanā caiva nirālambā ca kathyate</PARAL>
         <!-- <TR>Saumyā, spotless and supportless.</TR> -->
 
 <TEXT> supiṣitvāṅgulau śrotre dhvanim{ }ākarṇayen{ }naraḥ||</TEXT> 22:30
@@ -19414,6 +19456,8 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
 
 <TEXT> tat{ }tad{ }akṣaram{ }ākarṇya amṛtatvāya kalpyate|</TEXT>
         <APP>\va <LEM>°karṇya</LEM> \mssCaCbCc\msNb\msNc\msL\Ed; °kaṇṇya \msNa</APP>
+        <PARAL>\vab <rm>\similar\ \NISVK\ 33.112cd:</rm>
+                sadṛśaṃ śabda ākarṇya amṛtattvāya kalpate</PARAL>
         <!-- <TR>Having heard this and that syllable, he is fit for immortality.</TR> -->
         % shd be kalpate DG?
 
@@ -19429,7 +19473,10 @@ According to the classical formulation, the five mahāyajñas are bhūtayajña, 
 <TEXT> vimuktaḥ sarvapāpebhyo nirdvandvapadam{ }āpnuyāt|</TEXT>
         <APP>\va <LEM>vimuktaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\msL\Ed; vimukta \msCc</APP>
         <APP>\vb <LEM>nirdvandva°</LEM> \mssCaCbCc\msNc; nidvanda° \msNa\msNb\msL, nirdvanda° \Ed</APP>
+        <PARAL>\vab <rm>\similar\ \NISVK\ 33.56ab:</rm>
+                        vimuktas{ }sarvapāpebhyo nirdvandvaṃ padam{ }āpnuyāt</PARAL>
         <!-- <TR>He will be freed of all his sins and will reach the level without opposites.</TR> -->
+
 
 <TEXT> vaidyutī tu niśāmadhye lakṣate 'jam{ }anāmayam||</TEXT> 22:32
         <APP>\vc <LEM>vaidyutī tu</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; vaidyutīnta \msL</APP>
