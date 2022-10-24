@@ -4494,7 +4494,7 @@ REVISE: % Judit: MSS prāptaśśāsana? CHECK yes: \msCa no: \msCb\msCc\msNa\msN
         <!-- <TR>Śiva in his manifest form (Łsākṣāt$) is of eight forms, with the five elements (Łvyoman$),</TR> -->
 MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with the five elements, mind, egotism, and Prakṛti [matter]; or, according to the opening of the Śakuntalā, with the five elements, the sun and moon and the sacrificing priest), [MBh. iii, 1939]; [Ragh. &c.] 
 
-%index_voc: vyoman as tattva
+%index_voc: vyoman as five elements
 
 <TEXT> sūryaḥ somaś{ }ca dīkṣaś{ }ca dūṣakaḥ sa nṛśaṃsakaḥ||</TEXT> 4:32
         <APP>\vc <LEM>sūryaḥ</LEM> \mssCaCbCc\msNa; <UNCL>sūrya</UNCL>° \msNb\msNc, sūrya° \Ed\oo
@@ -10005,6 +10005,9 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 
 <TEXT> ahorātram{ }avicchinnaṃ gaṅgā sā tena ucyate||</TEXT> 10:19
         <APP>\vd <LEM>tena</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; te \msCc</APP>
+        <NOTE>The word Łgaṅga$ is interpreted here as an intensive form from the root\verbalroot{Łgam$},
+              related to the better-attested intensive stems Łjaṅgam$ and Łganīgam$ (see the latter two, e.g., in 
+              <citep>WhitneyGrammar</citep><pnum>§1003</pnum>).</NOTE>
         <!-- <TR>day and night uninterruptedly. That's why [this internalised pilgrimage place] is called Gaṅgā.</TR> -->
 
 %index_geo: Gaṅgā
@@ -10201,52 +10204,61 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <PARAL>\vo <rm>\compare\ \NISVK\ 5.56:</rm>
                 karṇikā padmamadhye tu akāraṃ tasya madhyataḥ|
                 tasya madhye viniṣkrāntaṃ nādaṃ paramadurlabham||</PARAL>
-        <NOTE>For a general discussion of Łnāda$ and Łbindu$, see, e.g., \TAKIII\ s.v. Łnāda$.</NOTE>
+        <NOTE>For a general discussion on Łnāda$ and Łbindu$, see, e.g., \TAKIII\ s.v. Łnāda$.
+              Our text considers the internalised manifestation of the pilgrimage place Bindusaras
+              to be Łbindu$, or subtle sonic matter.</NOTE>
         <!-- <TR>In the centre of the subtle sonic matter (Łbindu$), there is the subtle sound (Łnāda$).
                 How is that subtle sound (Łnāda$) divided?</TR> -->
 
 <TEXT> ukāraṃ ca makāraṃ ca bhittvā nādo vinirgataḥ|</TEXT>
         <APP>\va <LEM>ukāraṃ ca makāraṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; ukāraś{ }ca makāraś \Ed</APP>
         <PARAL>\vab <rm>= \NISVK\ 5.57ab</rm></PARAL>
-        <!-- <TR>The subtle sound (Łnāda$) departs divided by the sounds U and MA.</TR> -->
+        <!-- <TR>The subtle sound (Łnāda$) departs divided by the sounds U and M.</TR> -->
 
 <TEXT> taṃ viditvā viśālākṣi so 'mṛtatvaṃ labheta ca||</TEXT> 10:29
         <APP>\vd <LEM>so 'mṛtatvaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; somyatatvaṃ \msCc, somatatvaṃ \Ed\oo
                  <LEM>ca</LEM> \mssCaCbCc\msNa\msNb\msNc; vā \Ed</APP>
-        <NOTE>Note that \VSS\ 10.27--29ab seem to paraphrase \NISVK\ 5.55--57a.</NOTE>
+        <NOTE>\VSS\ 10.27--29ab seem to paraphrase \NISVK\ 5.55--57ab.</NOTE>
         <!-- <TR>Realizing that [subtle sound], O Viśālākṣi, one can obtain immortality.</TR> -->
 
 
 %index_geo: Bindusaras
 
-% EDDIG
 %folioinfo \msNa\ 209.jpg upper, f.15v
 <SUBSUBCHAPTER>setubandham</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Setubandha</TRSUBSUBCHAPTER>
 <NOTANUSTUBH/> sragdharā 
 %       -   -  -  - . -   -   . . . . . . -   - . - -  . - -
-<TEXT> vakṣye te setubandhaṃ duritamalaharaṃ nādatoyapravāham</TEXT>
+<TEXT> vakṣye te setubandhaṃ duritamalaharaṃ nādatoyapravāhaṃ</TEXT>
         <APP>\va <LEM>te</LEM> \msCapcorr\msCb\msNa\msNb\msNc\Ed; \om\ \msCaacorr, haṃ \msCc\oo
                  <LEM>°bandhaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °bandhūṃ \msCb\oo
                  <LEM>°toya°</LEM> \mssCaCbCc\msNa\msNc\Ed; °toyaṃ \msNb</APP>
-        <!-- <TR>I shall teach you Setubandha, [which sports] a current whose water of subtle sound (Łnāda$) 
+        <!-- <TR>I shall teach you Setubandha, which sports a current whose water of subtle sound (Łnāda$) 
                                 cleanses you of the dirt of your sins.</TR> -->
 
 <TEXT> jihvākaṇṭhorakūlā svaragaṇapulināvartaghoṣā taraṅgā|</TEXT>
         <APP>\vb <LEM>°kaṇṭhora°</LEM> \conj; °kaṇṭhoru° \mssCaCbCc\msNa\msNb\msNc\Ed\oo
                  <LEM>svara°</LEM> \msCa\msCb\msNa\msNb\msNc; sura° \msCc\Ed</APP>
-        <NOTE>Note that Ł°kaṇṭhora$ is a conjecture based on the context: this line
-                        probably talks about sounds and the production of sounds. For this 
-                        Łuraḥ$/Łura$ (`chest') seems better that Łūru$ (`thigh').</NOTE>
-        <!-- <TR>The banks [of this river] are the tongue, the throat and the chest, 
-                        its sandy beaches are the host of gods, it roars with whirlpools and is wavy.</TR> -->
+        <NOTE>Note that °Łkaṇṭhora$° is a conjecture based on the context: this line
+                        talks about sounds and the production of sounds. For this 
+                        Łuraḥ$/Łura$ (`chest') seems better that Łūru$ (`thigh').
+              It is not entirely clear why Łpāda$s b and c stick to feminine endings. I take this
+              as qualifying an implied Łnadī$, partly because the similarly structured 10.33 below
+              explicitely mentions Łnadī$. Some of the compounds here are inverted or split:
+              understand Łāvartaghoṣā taraṅgā$ as Łghoṣāvartataraṅgā$, 
+              Łkumbhīrāghoṣamīnā$ as Łaghoṣakumbhīramīnā$, and 
+              Łbhīmanakrā visargā$ as Łvisargabhīmanakrā$.</NOTE>
+        <!-- <TR>[It is a river whose] banks are the tongue, the throat, and the chest, and
+                 its sandbanks are the group of vowels (Łsvara$). It is wavy because its whirlpools 
+                 are the voiced consonants (Łghoṣa$).</TR> -->
 
 <TEXT> kumbhīrāghoṣamīnā daśagaṇamakarā bhīmanakrā visargā</TEXT>
         <APP>\vc <LEM>°mīnā</LEM> \mssCaCbCc\msNa\msNb\msNc; °mānā \Ed\oo
                  <LEM>daśa°</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; ¤¤ \msCa\oo
                  <LEM>visargā</LEM> \mssCaCbCc; visargāḥ \msNa\msNb\msNc\Ed</APP>
-        <!-- <TR>It's full of the roar of crocodiles and full of fish, ten types of sea-monsters [also: makāra?],
-                         terrifying alligators and with Łvisarga$[?]</TR> -->
+        <!-- <TR>Voiceless consonants (Łaghoṣa$) are its crocodiles and fish, 
+                 the ten verbal classes (Łgaṇa$) are its sea-monsters,
+                 Łvisarga$s are its terrifying alligators.</TR> -->
 
 %folioinfo \msM\ 425.jpg upper, f. 16v 
 % gabhīra is Vedic
@@ -10257,8 +10269,11 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                  <LEM>°rasanaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °ramaṇaṃ \Ed\oo
                  <LEM>°bandhaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °bandha \msCb\oo
                  <LEM>vrajasva</LEM> \mssCaCbCc\msNa\msNb\msNc; ramasva \Ed</APP>
-        <!-- <TR>Go to Setubandha, [the pilgrimage place that] tastes like the pleasure of intoxication
-                        in the deep ...  </TR> -->
+        <NOTE>Nevertheless, the general idea seems to be clear: the internalised
+              version of the pilgrimage place Setubandha, externally usually understood as 
+              Rameśvara in the South, is now the sounds of recitation.</NOTE>
+        <!-- <TR>Go to Setubandha, [the pilgrimage place that] tastes like the pleasure of intoxication,
+                        in the depths of Łanusvāra$s.</TR> -->
 
 %index_geo: Setubandha
 
@@ -10270,35 +10285,55 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <!-- <TR>O Moon-faced goddess, listen to [the description of Suradraha], the way to the cessation of
                         all sorrow, in the centre of the seven islands.</TR> -->
 
+%      - - - -  . -  -   . .!  . .  . . -   - . - -  . - -
 <TEXT> īśānenābhijuṣṭaṃ hṛdi hrada vimalaṃ nādaśītāmbupūrṇam|</TEXT>
         <APP>\vb <LEM>īśānenābhijuṣṭaṃ</LEM> \msCc\msNa\msNc\Ed; īśānenābhiduṣṭaṃ \msCa\msNb,
                                                  īśānebhiduṣṭaṃ \msCbacorr, īśānebhi×duṣṭaṃ \msCbpcorr\oo
                  <LEM>vimalaṃ nādaśītā°</LEM> \mssCaCbCc\msNa\msNc; vimalān{ }nādaśītā° \msNb, vimalaṃ nāmaśitā° \Ed</APP>
-        <!-- <TR>It is frequented by Īśāna, it's a spotless lake in the heart full of
+        <NOTE>The first syllable of Łhrada$ in Łpāda$ b does not make the previous syllable long (`muta cum liquida'
+              licence), otherwise the line would be unmetrical. Understand the same Łhrada$ as a stem form metri causa
+              standing for the accusative.</NOTE>
+        <!-- <TR>It is frequented by Īśāna, a spotless lake in the heart full of
                         the cool water of sound (Łnāda$).</TR> -->
-%index_grammar: unmetr, or rather licence hr! 
 
-<TEXT> tatraikaṃ jātapadmaṃ prakṛtidalayutaṃ keśaraśaktibhinnaṃ</TEXT>
-        <APP>\vc <LEM>keśara°</LEM> \msCa\msCc\msNa\msNc; keśaraṃ \msCb\Ed, keśvara° \msNb</APP>
-        <!-- <TR>There is a lotus arising, with Prakṛti as its petals, and divided by its Śakti filaments.</TR> -->
+%index_grammar: licence hr 
+%index_grammar: stem form metri causa 
+
+%       -  -  -   - . -  -    . . . . . . -   - . -   -  .  -  -
+<TEXT> tatraikaṃ jātapadmaṃ prakṛtidalayutaṃ keśaraṃ śaktibhinnaṃ</TEXT>
+        <APP>\vc <LEM>keśaraṃ</LEM> \msCb\Ed; keśara° \msCa\msCc\msNa\msNc\ \unmetr, keśvara° \msNb\ \unmetr</APP>
+        <NOTE>Łkeśaraṃ śaktibhinnaṃ$ in Łpāda$ c should probably be understood as a bahuvrīhi compound
+              thus: Łśaktibhinnakeśaraṃ$.</NOTE>
+        <!-- <TR>There is a lotus arising there whose petals are Prakṛti and whose filaments are split
+                 between Śaktis,</TR> -->
+
+%index_grammar: split compounds (more!)
 
 <TEXT> pañcavyomapraśastaṃ gatiparamapadaṃ prāptukāmena sevyam||</TEXT> 10:31
         <APP>\vd <LEM>°vyoma°</LEM> \mssCaCbCc\msNb\msNc\Ed; °vyo<UNCL>maṃ</UNCL> \msNa\oo
                  <LEM>°śastaṃ ga°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °śasvaṅ{ }ga° \msCc\oo
                  <LEM>°parama°</LEM> \mssCaCbCc\msNb\msNc\Ed; °paramaṃ \msNa\ \unmetr\oo
                  <LEM>sevyam</LEM> \mssCaCbCc\msNa\msNb\msNc; sarvam \Ed</APP>
-        <!-- <TR>It is praised by the five voids, it is the path to the supreme level, and 
-                        it is to be served if one wishes to obtain [heaven].</TR> -->
+        <NOTE>For Łvyoman$ as `gross element,' see notes to \VSS\ 4.32 above, but note
+              that the expression `fifty voids' (Łpañcāśadvyoman$) also comes up in 
+              \VSS\ 20.7 and also in 10.33 below. It is not clear why this internalised pilgrimage place,
+              or the filaments of the lotus mentioned, would be praised as the five elements.</NOTE>
+        <!-- <TR>praised as the five gross elements (Łvyoman$). 
+                 It is to be honoured if one wishes to obtain the path to the supreme abode.</TR> -->
 
 %index_voc: vyoman as tattva?
 %index_geo: Suradraha
 
+% EDDIG
+
+
 %[1]Gaṅgā, [2]Agni, [3]Somatīrtha, [4]Sūrya, [5]Puṣkara, [6]Mānasa,
 %[7]Naimiṣa, [8]Bindusaras, [9]Setubandha, [10]Suradraha, [11]Ghaṇṭikeśvara, [12]Vāgīśa
+
 <SUBSUBCHAPTER>ghaṇṭikeśvaram</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Ghaṇṭikeśvara</TRSUBSUBCHAPTER>
 <NOTANUSTUBH/> sragdharā 
-% unmetr               -!
+%       -  -  - -  . - -! . . . .    . . -    -  . - - . - -         
 <TEXT> nāḍyaikāsaṅgatāni nipatitam{ }amṛtaṃ ghaṇṭikāpārakeṇa</TEXT>
         <APP>\va <LEM>nipatitam{ }amṛtaṃ</LEM> \mssCaCbCc\msNc\Ed; nipatitam{ }amṛta° \msNa\ \unmetr, 
                                         ni××tam{ }amṛtaṃ \msNb\oo
@@ -10308,7 +10343,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <APP>\vb <LEM>°puṭaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °puṭa \msCb\oo
                  <LEM>sthānu°</LEM> \mssCaCbCc\msNa\msNc; <UNCL>sthāna</UNCL>° \msNb, sthāna° \Ed</APP>
 
-<TEXT> yaṃ paśyantīśabhaktā kalikaluṣaharaṃ vyāpinaṃ niṣprapañcam</TEXT>
+<TEXT> yaṃ paśyantīśabhaktā kalikaluṣaharaṃ vyāpinaṃ niṣprapañcaṃ</TEXT>
         <APP>\vc <LEM>yaṃ paśyantīśabhaktā</LEM> \msCa\msNb; yaṃ paśyantīśabharttāḥ \msCb, yaṃ pasyantīsabhaktyā \msCc,
                                                 yaṃ paśyantīśabhaktāḥ \msNa,
                                                 yat{ }paśyantīśabhaktyā \msNc, yaṃ paśyannīśamakṣā \Ed\oo
@@ -10331,27 +10366,57 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 % Narahari version!
 <TEXT> mīmāṃsāratnakūlā kramapadapulinā śaivaśāstrārthatoyā</TEXT>
         <APP>\va <LEM>śaiva°</LEM> \mssCaCbCc\msNa\msNb\msNc; śarva° \Ed</APP>
+        <NOTE>Łkramapada$ (better known as Łpadakrama$) is a particular method
+              of reciting Vedic texts. \verify\ REF</NOTE>
+        <!-- <TR>The banks [of Vāgīśvaratīrtha] are the gems of Mīmāṃsā, 
+                 its sandbanks the [Vedic] Łkramapada$s,
+                 its water the meaning of the Śaiva manuals.</TR> -->
+        
 
 % Sanderson Textual Cr. through 35 on dating Pañcarātra scriptures
-<TEXT> mīnaughā pañcarātraṃśrutikuṭilagati smārtavegā taraṅgā|</TEXT>
+%       - -   -  -  . - -     . . . . . . -   -  . - -  . -  -         
+<TEXT> mīnaughā pañcarātraṃ śrutikuṭilagatiḥ smārtavegā taraṅgā|</TEXT>
         <APP>\vb <LEM>mīnaughā°</LEM> \msNa\msNb\Ed;  mīnoghā° \mssCaCbCc\msNc\oo
                  <LEM>pañcarātraṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; pañcaśatraṃ \Ed\oo
+                 <LEM>°gatiḥ</LEM> \corr; °gati \mssCaCbCc\msNa\msNb\msNc\Ed\oo
                  <LEM>°smārtavegā taraṅgā</LEM> \mssCaCbCc\msNa\msNc; °smā×<UNCL>vegā taraṅgā</UNCL> \msNb, 
                                                                 °smārtavegās{ }taraṅgā \Ed</APP>
+        <NOTE>Note the split compounds in Łpāda$ b. Understand Łmīnaughā pañcarātraṃ$ as
+              Łpañcarātramīnaughā$, and Łsmārtavegā taraṅgā$ as Łsmārtavegataraṅgā$.</NOTE>
+        <!-- <TR>Its flock of fish is the Pañcarātra [tradition], its winding path is
+                 the Śruti [tradition], its rapid waves the Smārta [tradition].</TR> -->
 
+%index_grammar: split compounds (more!)
+
+%       - - -  - . -  - . . . . . . -   - . - -  .  - -         
 <TEXT> yogāvartātiśobhā upaniṣadivahā bhāratāvartaphenā</TEXT>
         <APP>\vc <LEM>°vahā bhāratā°</LEM> \mssCaCbCc\msNa\msNc\Ed; mahābhāratā° \msNb</APP>
+        <NOTE>Note the form Łupaniṣadi$ for a stem form of Łupaniṣad$ in Łupaniṣadi-vahā$ in
+              Łpāda$ c. This phenomenon is similar to what we see in 10:23 and 27 above with Łhṛdi$.
+              The lack of sandhi between °Łśobhā$ and Łupaniṣadi$° is also notable.</NOTE>
+        <!-- <TR>It is beautiful with its whirlpools of yoga. Its currents are the Upaniṣads.
+                 The foam made by its whirlpools is the Mahābhārata.</TR> -->
 
-<TEXT> pañcāśadvyomarūpī rasabhavananadī tīrthavāgīśvarīyam||</TEXT> 10:33
+%index_grammar: upaniṣadi as stem form
+
+%       -  - -   - . - -  . .  . . . . -  -   .  - -  . - -         
+<TEXT> pañcāśadvyomarūpī rasabhavananadī tīrtha vāgīśvarīyam||</TEXT> 10:33
         <APP>\vd <LEM>°śadvyoma°</LEM> \mssCaCbCc\msNb\msNc; °śavyoma° \msNa, °sadvyoma° \Ed</APP>
-% made up of these: mīmāṃsā, kramapada?, śaivaśāstra, pañcarātra, śruti, smṛti, yoga, upaniṣad, MBh, pañcā..., 
+        <NOTE>Łtīrtha$ in Łpāda$ d is a stem form noun metri causa. The exact meaning of
+              Łpañcāśadvyoma$° is not clear to me. Could it be the fifty sounds of Sanskrit?
+              All in all, Vāgīśvaratīrtha here represents the religious traditions and scriptures.</NOTE>
+        <!-- <TR>This river, whose form is the fifty voids (Łvyoman$),
+                is the abode of the elixir. [This is the description of] the pilgrimage place Vāgīśvara.</TR> -->
 
-%index_voc: vyoman as tattva
+
+%index_texts: mīmāṃsā, kramapada, śaivaśāstra, pañcarātra, śruti, smṛti, yoga, upaniṣad, MBh  
+%index_voc: 50 vyoman ?
 %index_geo: Vāgīśvaratīrtha
+%index_grammar: stem form metri causa 
 
 <NOTANUSTUBH/> śārdūlavikrīḍita
 %       -     -   -  .  .  -  .  - . .  .  -  -  - . -   -   . -  
-<TEXT> yas{ }taṃ vetti sa vetti vedanikhilaṃ saṃsāraduḥkhacchidam</TEXT>
+<TEXT> yas{ }taṃ vetti sa vetti vedanikhilaṃ saṃsāraduḥkhacchidaṃ</TEXT>
         <APP>\va <LEM>yas{ }taṃ</LEM> \msCc\msNa\msNb\msNc\Ed; yasta° \msCa\msCb\oo
                  <LEM>sa vetti</LEM> \mssCaCbCc\msNa\msNb\Ed; <UNCL>na</UNCL> vetti \msNc</APP>
 
@@ -10360,7 +10425,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <APP>\vb <LEM>°maraṇaṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; °maraṇa \msNc\oo
                  <LEM>°rṇavaṃ</LEM> \mssCaCbCc\msNb\msNc; °ṇṇavaṃ \msNa, °rṇava \Ed</APP>
 
-<TEXT> garbhāvāsam{ }atīva sahyaviṣayaṃ dustīryaduḥkhālayam</TEXT>
+<TEXT> garbhāvāsam{ }atīva sahyaviṣayaṃ dustīryaduḥkhālayaṃ</TEXT>
         <APP>\vc <LEM>garbhāvāsam</LEM> \mssCaCbCc\msNa\msNb\msNc; garbhovāsam \Ed\oo
                  <LEM>°viṣayaṃ</LEM> \msCa\msCb\msNb; °viṣamaṃ \msCc\msNa\msNc\Ed\oo
                  <LEM>°layam</LEM> \mssCaCbCc\msNb\Ed\msNc; °laya<UNCL>ḥ</UNCL> \msNa\oo
