@@ -10210,6 +10210,8 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <!-- <TR>In the centre of the subtle sonic matter (Łbindu$), there is the subtle sound (Łnāda$).
                 How is that subtle sound (Łnāda$) divided?</TR> -->
 
+<PAGEBREAK/>
+
 <TEXT> ukāraṃ ca makāraṃ ca bhittvā nādo vinirgataḥ|</TEXT>
         <APP>\va <LEM>ukāraṃ ca makāraṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; ukāraś{ }ca makāraś \Ed</APP>
         <PARAL>\vab <rm>= \NISVK\ 5.57ab</rm></PARAL>
@@ -10242,7 +10244,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <NOTE>Note that °Łkaṇṭhora$° is a conjecture based on the context: this line
                         talks about sounds and the production of sounds. For this 
                         Łuraḥ$/Łura$ (`chest') seems better that Łūru$ (`thigh').
-              It is not entirely clear why Łpāda$s b and c stick to feminine endings. I take this
+              It is not evident at first sight why Łpāda$s b and c stick to feminine endings. I take this
               as qualifying an implied Łnadī$, partly because the similarly structured 10.33 below
               explicitely mentions Łnadī$. Some of the compounds here are inverted or split:
               understand Łāvartaghoṣā taraṅgā$ as Łghoṣāvartataraṅgā$, 
@@ -10272,8 +10274,8 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <NOTE>Nevertheless, the general idea seems to be clear: the internalised
               version of the pilgrimage place Setubandha, externally usually understood as 
               Rameśvara in the South, is now the sounds of recitation.</NOTE>
-        <!-- <TR>Go to Setubandha, [the pilgrimage place that] tastes like the pleasure of intoxication,
-                        in the depths of Łanusvāra$s.</TR> -->
+        <!-- <TR>It is in the deep-sounding Łanusvāra$ (Łsā-anusvāre$). 
+                 Go to Setubandha, have a taste of the pleasure of intoxication.</TR> -->
 
 %index_geo: Setubandha
 
@@ -10324,41 +10326,62 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 %index_voc: vyoman as tattva?
 %index_geo: Suradraha
 
-% EDDIG
-
-
-%[1]Gaṅgā, [2]Agni, [3]Somatīrtha, [4]Sūrya, [5]Puṣkara, [6]Mānasa,
-%[7]Naimiṣa, [8]Bindusaras, [9]Setubandha, [10]Suradraha, [11]Ghaṇṭikeśvara, [12]Vāgīśa
+<PAGEBREAK/>
 
 <SUBSUBCHAPTER>ghaṇṭikeśvaram</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Ghaṇṭikeśvara</TRSUBSUBCHAPTER>
 <NOTANUSTUBH/> sragdharā 
-%       -  -  - -  . - -! . . . .    . . -    -  . - - . - -         
-<TEXT> nāḍyaikāsaṅgatāni nipatitam{ }amṛtaṃ ghaṇṭikāpārakeṇa</TEXT>
+%             -  -  - -  . - -!        . . . .    . . -    -  . - - . - -         
+<TEXT> <crux>nāḍyaikāsaṅgatāni</crux> nipatitam{ }amṛtaṃ ghaṇṭikāpārakeṇa</TEXT>
         <APP>\va <LEM>nipatitam{ }amṛtaṃ</LEM> \mssCaCbCc\msNc\Ed; nipatitam{ }amṛta° \msNa\ \unmetr, 
                                         ni××tam{ }amṛtaṃ \msNb\oo
                  <LEM>°pārakeṇa</LEM> \msCa\msCb\msNa\msNc; °yāṅkareṇa \msCc\Ed, °<UNCL>pārakena</UNCL> \msNb</APP>
+        <NOTE>The interpretation of this verse is not without problems. The cruxed expression
+              in Łpāda$ a is difficult to repair; it may involve Łnāḍī$ or Łnāḍyā$, Łekā$, and 
+              Łsaṃgata$. These suggest that it may hint at a point of confluence where the bodily tubes (Łnāḍī$)
+              join. (Possibly understand Łnāḍya ekasaṃgatāḥ$.)</NOTE>
+        <!-- <TR>The tubes join[?]. The nectar of immortality (Łamṛta$) has descended by the Saviour Ghaṇṭikā.</TR> -->
 
-<TEXT> tṛpyante tena nityaṃ hṛdi kamalapuṭaṃ sthānubhūtāntarātmā|</TEXT>
+<TEXT> tṛpyante tena nityaṃ hṛdi kamalapuṭaṃ sthāṇubhūtāntarātmā|</TEXT>
         <APP>\vb <LEM>°puṭaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °puṭa \msCb\oo
-                 <LEM>sthānu°</LEM> \mssCaCbCc\msNa\msNc; <UNCL>sthāna</UNCL>° \msNb, sthāna° \Ed</APP>
+                 <LEM>sthāṇu°</LEM> \conj; sthānu° \mssCaCbCc\msNa\msNc, <UNCL>sthāna</UNCL>° \msNb, sthāna° \Ed</APP>
+        <NOTE>In Łpāda$ b, Łsthāṇu$ is my conjecture for Łsthānu$, and 
+                I understand °Łātmā$ as standing for the plural nominative.</NOTE>
+        <!-- <TR>Those whose inner selves have become Sthāṇu [i.e. Śiva]
+                  are continuously delighted in Him, as he is embraced by the lotus in their hearts.</TR> -->
+%index_grammar: ātmā singular nom for plur nom
 
-<TEXT> yaṃ paśyantīśabhaktā kalikaluṣaharaṃ vyāpinaṃ niṣprapañcaṃ</TEXT>
-        <APP>\vc <LEM>yaṃ paśyantīśabhaktā</LEM> \msCa\msNb; yaṃ paśyantīśabharttāḥ \msCb, yaṃ pasyantīsabhaktyā \msCc,
-                                                yaṃ paśyantīśabhaktāḥ \msNa,
+<TEXT> yaṃ paśyantīśabhaktāḥ kalikaluṣaharaṃ vyāpinaṃ niṣprapañcaṃ</TEXT>
+        <APP>\vc <LEM>yaṃ paśyantīśabhaktāḥ</LEM> \msNa; yaṃ paśyantīśabhaktā \msCa\msNb, 
+                                                yaṃ paśyantīśabharttāḥ \msCb, yaṃ pasyantīsabhaktyā \msCc,
                                                 yat{ }paśyantīśabhaktyā \msNc, yaṃ paśyannīśamakṣā \Ed\oo
                  <LEM>°prapañcam</LEM> \msCa\msNa\msNb\msNc; °prapañca \msCb\msCc\Ed</APP>
+        <!-- <TR>[He is the one] whom Īśa's devotees can behold, who drives off the impurity of
+                 the Kali age, who is all-pervading (Łvyāpin$) and non-manifest (Łniṣprapañca$),</TR> -->
 
 % unmetr
-%       - - -    -  . - -!. .  . .    .  . -  -   .    - - . -  -         
-<TEXT> deveśaṃ ghaṇṭikeśamarabhavam{ }abhavantīrtham{ }ākāśabindum||</TEXT> 10:32
+%       - - -    -  . - -. .  . .    .  . -  -   .    - - . -  -         
+<TEXT> deveśaṃ ghaṇṭikeśāmarabhavam{ }abhavaṃ tīrtham{ }ākāśabindum||</TEXT> 10:32
         <APP>\vd <LEM>deveśaṃ</LEM> \msCb\msNb\Ed; devyeśaṃ \msCa\msCc\msNa, devyeśa \msNc\oo
-                 <LEM>ghaṇṭikeśamara°</LEM> \msCa\msCb\msNb\msNc; ghaṇṭikeśāmara° \msCc,
+                 <LEM>ghaṇṭikeśāmara°</LEM> \msCc; ghaṇṭikeśamara° \msCa\msCb\msNb\msNc, 
                                               ghaṇṭikeśaṃ mara° \msNa, ghāṇṭakeśāmara° \Ed\oo
-                 <LEM>°bhavantīrtham</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; bhava¤¤rtham \msCa\oo
+                 <LEM>°bhavaṃ tīrtham</LEM> \eme; °bhavantīrtham \msCb\msCc\msNa\msNb\msNc\Ed, bhava¤¤rtham \msCa\oo
                  <LEM>°bindum</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °bindu \msCc</APP>
+        <NOTE>I take Łghaṇṭikeśa$ in Łpāda$ d as a stem form noun in sandhi with Łamara$°,
+              notwithstanding the reading Łghaṇṭikeśamara$° in \msCa\msCb\msNb\msNc.
 
+              The external pilgrimage place related to Ghaṇṭikeśvara the \VSS\ has in mind here may or may not be 
+              `Virajā, modern Jajpur in the Cuttack District of Orissa' presided over by
+              Ghaṇṭīśa, Mahāghaṇṭeśvara or Mahāghaṇṭa Bhairava (<citep>SandersonSaivaAge</citep><pnum>113, n. 241</pnum>).
+                      See Introduction \verify.
 
+              As for the yogic interpretation of this verse, it seems plausible that Łghaṇṭikā$ is
+              taken here as the uvula, from which Łamṛta$ is said to be dripping down the throat.
+                      See \TAKII\ s.v. Łghaṇṭikā$ and <cite>MallinsonKhecari</cite>.</NOTE>
+        <!-- <TR>the lord of gods, Ghaṇṭikeśa of undying existence. 
+        The \ae rial Łbindu$ is a non-mundane (Łabhava$) pilgrimage place.</TR> -->
+
+%index_grammar: stem form metri causa ghaṇṭikeśa
 %index_geo: Ghaṇṭikeśvara
 
 <SUBSUBCHAPTER>vāgīśvaratīrtham</SUBSUBCHAPTER>
@@ -10419,17 +10442,29 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> yas{ }taṃ vetti sa vetti vedanikhilaṃ saṃsāraduḥkhacchidaṃ</TEXT>
         <APP>\va <LEM>yas{ }taṃ</LEM> \msCc\msNa\msNb\msNc\Ed; yasta° \msCa\msCb\oo
                  <LEM>sa vetti</LEM> \mssCaCbCc\msNa\msNb\Ed; <UNCL>na</UNCL> vetti \msNc</APP>
+        <NOTE>I take Łpāda$s b and c as if °Łchidaṃ$ in Łpāda$ a were implied for
+              each element there,</NOTE>
+         <!-- <TR>One will know all the Vedas by knowing Him who puts an end to the suffering of
+                        transmigration,</TR> -->
 
+%index_grammar: split compounds
+                 
 %       -  -  -  . . - . - . . . -    - -  .  -    -  . -  
 <TEXT> janmavyādhiviyogatāpamaraṇaṃ kleśārṇavaṃ duḥsaham|</TEXT>
         <APP>\vb <LEM>°maraṇaṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; °maraṇa \msNc\oo
                  <LEM>°rṇavaṃ</LEM> \mssCaCbCc\msNb\msNc; °ṇṇavaṃ \msNa, °rṇava \Ed</APP>
+         <!-- <TR>to birth, disease, separation, suffering, death, the floods of unbearable pain,</TR> -->
 
 <TEXT> garbhāvāsam{ }atīva sahyaviṣayaṃ dustīryaduḥkhālayaṃ</TEXT>
         <APP>\vc <LEM>garbhāvāsam</LEM> \mssCaCbCc\msNa\msNb\msNc; garbhovāsam \Ed\oo
                  <LEM>°viṣayaṃ</LEM> \msCa\msCb\msNb; °viṣamaṃ \msCc\msNa\msNc\Ed\oo
                  <LEM>°layam</LEM> \mssCaCbCc\msNb\Ed\msNc; °laya<UNCL>ḥ</UNCL> \msNa\oo
                  <LEM>dustīrya°</LEM> \mssCaCbCc\msNa\msNb\Ed; dustīryaḥ \msNc</APP>
+         <NOTE>and  Łatīva sahya$° as standing for Łatīvāsahya$° metri causa.</NOTE>
+         <!-- <TR>to dwelling in the womb, to extremely insufferable sensations, and to 
+                  places of suffering that are difficult to escape from.</TR> -->
+
+%index_grammar: shortening metri causa
 
 %folioinfo \Ed\ p.613
 <TEXT>prāptaṃ tena na saṃśayaḥ śivapadaṃ duṣprāpya devair{ }api||</TEXT> 10:34
@@ -10437,14 +10472,18 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                       prāptaṃ tena na saṃśayaṃ śivapadaṃ duṣprāpya devair{ }api \msCc\Ed,
                       prāptaṃ tena na saṃśayaḥ   śivadaṃ duṣprāpya devair{ }api \msCbacorr,
                       prā×××××× <UNCL>yaḥ śiva</UNCL> ¤¤¤¤ <UNCL>ya devair{ }api</UNCL> \msNb</APP>
+        <NOTE>Understand Łduṣprāpya$ as a stem form adjective (for Łduṣprāpyaṃ$) metri causa.</NOTE>
+        <!-- <TR>Such a person will, without doubt, reach Śiva's world that is difficult to enter even
+                 for the gods.</TR> -->
 
+%index_grammar: stem form metri causa 
 
 %folioinfo \msCb\ 429.jpg 
 <ANUSTUBH/>
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe kāyatīrthopavarṇano nāmādhyāyo daśamaḥ</COLOPHON></TEXT>
             <APP><LEM>kāyatīrthopavarṇano</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; kāyatī¤¤¤rṇṇano \msCa\oo
                  <LEM>nāmādhyāyo daśamaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; nāma daśamo 'dhyāyaḥ \Ed</APP>
-%END OF CHAPTER 10
+        <TRCOLOPHON>Here ends the tenth chapter in the ŁVṛṣasārasaṃgraha$ called the Description of the bodily pilgrimage places</TRCOLOPHON>
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
