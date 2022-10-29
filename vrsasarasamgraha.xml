@@ -48,8 +48,10 @@ Is 'oṃ namaḥ śivāya' there?
 % \Ed: atha vṛsasārasaṃgrahaprārambha(ḥ)
 
 <SUBCHAPTER>stutiḥ</SUBCHAPTER>
+
 <TRSUBCHAPTER>Invocation</TRSUBCHAPTER>
 <NOTANUSTUBH/> upajāti
+
 <TEXT> anādimadhyāntam{ }anantapāraṃ</TEXT>   
         <APP>\va <LEM>°ntam{ }ananta°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\msNd\msM\Ed; °ntam{ }anta° \msCbacorr\oo
                  <LEM>°pāraṃ</LEM> \mssCaCbCc\msNc\msM\Ed; °pāragaṃ \msNa\msNb\msNd</APP>
@@ -2242,7 +2244,7 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
                  <LEM>°mūla°</LEM> \mssCaCbCc\msNc\Ed; °mūlā \msNa\oo
                  <LEM>°phalāḥ</LEM> \conj; °phalā \mssCaCbCc\msNa\msNc\Ed</APP>
         <APP>\vb <LEM>skandha°</LEM> \conj; skanda° \mssCaCbCc\msNa\msNc\Ed</APP>
-        <NOTE>My conjectures in Łpāda$s ab result in a compoud split at the caesura, which
+        <NOTE>My conjectures in Łpāda$s ab result in a compoud spanning the c\ae sura, which
               may have been the reason why the line got corrupted.</NOTE>
         <!-- <TR>There are tasty roots and fruits and trees with creepers on their twigs.</TR> -->
         
@@ -2270,17 +2272,16 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
 <TEXT> parārdhadvayavistāraṃ parārdhadvayam{ }āyatam|</TEXT>
         <!-- <TR>[The Śivāṇḍa] is two Łparārdha$ long and two Łparārdha$ wide,</TR> -->
 
-<TEXT> parārdhadvayavikṣepā yojanānāṃ dvijottama||</TEXT> 2:23
+<TEXT> parārdhadvayavikṣepaṃ yojanānāṃ dvijottama||</TEXT> 2:23
         <APP>\vc <LEM>°dvaya°</LEM> \msCa\msCb\msNapcorr\msNb\msNc\Ed; °dva° \msNaacorr\oo
-                 <LEM>vikṣepā</LEM> \msCa\msCb\msNa\msNb\msNc; vijñeyā \Ed</APP>
+                 <LEM>vikṣepaṃ</LEM> \eme; vikṣepā \msCa\msCb\msNa\msNb\msNc, vijñeyā \Ed</APP>
         <APP>\vd <LEM>°ttama</LEM> \msCa\msCb\msNb\msNc\Ed; °ttamaḥ \msNa</APP>
-        <NOTE>I understand Łpāda$s cd, tentatively, as Łvikṣepaṃ parārdhadvayaṃ yojanānāṃ$</NOTE>
-        <!-- <TR>and two Łparārdha yojana$s is its extension, O great Brahmin.</TR> -->
+        <!-- <TR>and two Łparārdha$s is its [vertical] extension, [measured] in Łyojana$s, O great Brahmin.</TR> -->
 
 <TEXT> aiśvaryatvaṃ na saṃkhyāsti balaśaktiś{ }ca bho dvija|</TEXT>
         <APP>\vb <LEM>balaśaktiś{ }ca bho dvija</LEM> \msCa\msCb\msNapcorr\msNb\msNc; 
                                         \om\ \msNaacorr, tava śaktiś{ }ca bho dvija \Ed</APP>
-        <NOTE>This line is a reply to 2.17b.</NOTE>
+        <NOTE>ŁPāda$s ab are an echo of 2.17b.</NOTE>
         <!-- <TR>[Īśāna's] powers cannot be expressed by numbers, neither can [His] powerfulness, O twice-born.  </TR> -->
 
 <TEXT> adhordhvo na ca saṃkhyāsti na tiryañ{ }caiti kaścana||</TEXT> 2:24
@@ -2288,8 +2289,11 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
         <APP>\vd <LEM>na tiryañ{ }caiti kaścana</LEM> \msNapcorr\msNc;
                                                 na tiryañ{ }ceti kaścana \msCa\msCb\msNb\Ed,
                                                 na tiryaṃ ceti kaścana \msNaacorr</APP>
-        <!-- <TR>[In fact, the extension in the Śivāṇḍa] downwards and upwards cannot be expressed by numbers,
-                neiter can its horizontal extension.</TR> -->
+        <NOTE>Łkaścana$ in Łpāda$ d forces us to accept the readin in \msNapcorr\msNc\ (Łcaiti$),
+              as opposed to Łceti$ in the remaining witnesses.</NOTE>
+        <!-- <TR>[In fact, the distances in the Śivāṇḍa] downwards and 
+                upwards cannot be expressed by numbers.
+                Nobody can travere it horizontally.</TR> -->
 
 % rdhvaṃ Kenji
 % kaścana saṃkhyā? Nirajan
@@ -2306,7 +2310,7 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
         <NOTE>ŁPāda$ c is transmitted in an unmetrical form and with a gender problem in the witnesses
                 (Łbhogam akṣayas$), hence my emendation using a stem form noun,
                 a phenomenon frequently seen in this text. But note that Łbhoga$ is normally masculine;
-                there might be a hiatus-filler in-between: Łbhoga-m-akṣaya$).</NOTE>
+                there might be a hiatus-filler in-between: Łbhoga-m-akṣaya$.</NOTE>
                         <GL> bhoga akṣaya tatra eva janman mṛtyu na vidyate </GL>
         <!-- <TR>Enjoyment is undecaying there, and there is no birth or death there.</TR> -->
 
@@ -2375,7 +2379,8 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
 <TEXT> parārdhaparakoṭīnām{ }aghorālayam{ }āśritāḥ||</TEXT> 2:28
         <APP>\vd <LEM>°ghorā°</LEM> \msCa\msCb\msNa\msNb\msNc; °dhorā° \Ed\oo
                  <LEM>°śritāḥ</LEM> \msCa\msCb\msNa\msNb\msNc; °śritā \Ed</APP>
-        <NOTE>Note the Aiśa form Łdiśiṃ$ in \msCb, and that Aghora is indeed usually south-facing.</NOTE>
+        <NOTE>Note the Aiśa form \verify\ REF
+                Łdiśiṃ$ in \msCb, and that Aghora is indeed usually south-facing.</NOTE>
         <!-- <TR>in the region of Aghora, one and a half Łpara$ crore [in number].</TR> -->
 
 %index_voc: diśi
@@ -2637,7 +2642,7 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
                         the hallmarks of the language of the \VSS, see p. \verify.
 
                      On Dharma as a bull, see Introduction, pp. \verify.</NOTE>
-        <!-- <TR>He is known as a bull: how many legs does it/he have? How many are his paths?</TR> -->
+        <!-- <TR>He is known as a bull: how many legs does it have? How many are his paths?</TR> -->
 
 %index_grammar: singular after numbers
 
@@ -2675,7 +2680,7 @@ Kenji
                                                 \VAYUP\ 3.19cd (= \BRAHMANDAPUR\ 1.38.21ab):
                         Łnātha ity eṣa dhātur vai dhātujñaiḥ pālane smṛtaḥ$;
                                                 \LINPU\ 2.9.19:
-                Łbhaja ity eṣa dhātur vai sevāyāṃ parikīrtitaḥ$</NOTE>
+                Łbhaja ity eṣa dhātur vai sevāyāṃ parikīrtitaḥ$.</NOTE>
         <!-- <TR>Well, Łdhṛti$ (`firmness') is [of the same] verbal root [as Łdharma$], 
                                         and is said to be [its] synonym.</TR> -->
 
@@ -3465,7 +3470,7 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
         <APP>\vab <LEM>°hārād{ }a°</LEM> \msCa\msCc\msNbpcorr\msNc\Ed; °hād{ }a° \msNbacorr, °hārā a° \msCb\msNa</APP>
 
 <TEXT> sukhino balavantaś{ }ca vicaranti mahītale||</TEXT> 3:38
-        <!-- <TR>The deer and the goats, the sheep, the cows and other [animals] wander in the world
+        <!-- <TR>Deer and goats, sheep, cows and other [animals] wander in the world
                  happily and in great strength [just] from eating leaves and grass.</TR> -->
 
 <TEXT> vānarāḥ phala{-}m{-}āhārā rākṣasā rudhirapriyāḥ|</TEXT>
@@ -3569,8 +3574,8 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
 
                 Łkoṭīyajña$ in Łpāda$ d may refer to a special kind of sacrifice, 
                 mostly known as Łkoṭihoma$ in the Purāṇas and in inscriptions 
-                (see, e.g., <citep>Fleming2010</citep><pnum>and 2013</pnum><nocite>Fleming2013</nocite>)
-                It probably involves a hundred fire-pits 
+                (see, e.g., <citep>Fleming2010</citep><pnum>and 2013</pnum><nocite>Fleming2013</nocite>).
+                It involves a hundred fire-pits 
                 and a hundred times one thousand Brahmins (hence the name `the ten-million sacrifice').
                 See, e.g., \BHAVP\ Łuttaraparvan$ 4.142.54--58:
                         <sep/>
@@ -4361,7 +4366,7 @@ sa jaghanyataras teṣāṃ naiva dāsyāt pramucyate  // Nar_5.35 //
                 which is unmetrical.
 
                 <sep/> </NOTE>
-        <!-- <TR>There isn't a bigger idiots than a thief, who is a wicked person without Dharma and Artha.</TR> -->
+        <!-- <TR>There isn't a bigger idiot than a thief, who is a wicked person without Dharma and Artha.</TR> -->
 % Judit go for unmetrical version?
 % stenam ? CsabaK/Judit
 
@@ -4440,13 +4445,13 @@ REVISE: % Judit: MSS prāptaśśāsana? CHECK yes: \msCa no: \msCb\msCc\msNa\msN
                  <LEM>dāridrya°</LEM> \mssCaCbCc\msNa\msNc; ¤ri¤ \msNb, dāridhra° \Ed</APP>
         <!-- <TR>Then they reach the status of human existence on earth which is full of poverty and disease.</TR> -->
         <NOTE>I understand Łvipule$ as Łvipulāyāṃ$, Łvipulā$ appearing in \Amara\ 2.1.7 as a synonym of
-                        Łdhātrī$, `earth' because it is difficult to interpret it otherwise.
+                        Łdhātrī$, `earth.' It is difficult to interpret it otherwise.
                         This is still problematic because both human and
                         animal existence takes place on earth, thus, if Łtiryatva$ (i.e. Łtiryaktva$) 
                         indeed means `animal existence,' there is no contrast between Łpāda$s b and c as
                         regards location. As for Łtiryaktva$, see, e.g., \Manu\ 12.40:
                                 Łdevatvaṃ sāttvikā yānti manuṣyatvaṃ ca rājasāḥ |
-                                tiryaktvaṃ tāmasā nityam ity eṣā trividhā gatiḥ ||$
+                                tiryaktvaṃ tāmasā nityam ity eṣā trividhā gatiḥ ||$.
               It is not unlikely that the original form of Łdāridryarogākulam$ was Łdāridryarogākule$,
               picking up Łvipule$.</NOTE>
 
@@ -4506,13 +4511,13 @@ MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with th
               \dots\ Łity eteṣāṃ dūṣakaḥ sa nṛśaṃsakaḥ$ or similar.  This is clumsy but in a way that is
               more than possible within the style of this text.
 
-              I have not been able find any attestation of Łvyoman$ meaning the five elements. Perhaps it is meant
+              I have not been able find any other attestation of Łvyoman$ meaning the five elements. Perhaps it is meant
               to mean Łvyomādi$ (`the atmosphere/sky and the other four elements'). 
         
                 For Śiva of eight forms, see, e.g., ŁŚakuntalā$ 1.1:
         <sep/>
                         Łyā sṛṣṭiḥ sraṣṭur ādyā [1] vahati vidhihutaṃ yā havir [2] yā ca hotrī [3]<br/>
-                        ye dve kālaṃ vidhattaḥ [4,5] śruti-viṣaya-guṇā yā [6] sthitā vyāpya viśvam |<br/>
+                        ye dve kālaṃ vidhattaḥ [4, 5] śruti-viṣaya-guṇā yā [6] sthitā vyāpya viśvam |<br/>
                         yām āhuḥ sarva-bīja-prakṛtir [7] iti yayā prāṇinaḥ prāṇavantaḥ [8]<br/>
                         pratyakṣābhiḥ prapannas tanubhir avatu vas tābhir aṣṭābhir īśaḥ ||$.<br/>
                  The eight Łmūrti$s, or rather, Łtanu$s, here are: 
@@ -4521,7 +4526,7 @@ MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with th
                 For a similar interpretation of Łaṣṭamūrti$, see, e.g., ŁĪśānaśivagurudevapaddhati$ 2.29.34 (Łmantrapāda$;
                                 note Łyajamāna$ for our Łdīkṣa$):
                                         Łkṣmā-vahni-yajamānārka-jala-vāyv-indu-puṣkaraiḥ$ |
-                                        Łaṣṭābhir mūrtibhiḥ śambhor dvitīyāvaraṇaṃ smṛtam$ ||
+                                        Łaṣṭābhir mūrtibhiḥ śambhor dvitīyāvaraṇaṃ smṛtam$ ||.
                 (For Łpuṣkara$ as `sky, atmosphere', see, e.g., \Amara\ 1.2.167:
                         Łdyodivau dve striyām abhraṃ vyoma puṣkaram ambaram$.)
 
@@ -4807,8 +4812,8 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
                 for the benefit of someone else, see \VSS\ 2.38 and the narrative in \VSS\ chapter 12
                 which tells about a Brahmin giving away his own wife to a guest;
                 these influenced my decision to emend Ł°ātmano$ to Ł°ātmanā$ in Łpāda$ a.
-                Note that in fact \VSS\ 4.44cd below echoes verse 37cd in the above mentioned chapter 12: 
-                        Łdvijarūpadharo dharmaḥ svayam eva ihāgataḥ$.</NOTE>
+                Note that in fact \VSS\ 4.44cd below echoes verse 37cd in the above mentioned chapter 12,
+                which reads: Łdvijarūpadharo dharmaḥ svayam eva ihāgataḥ$.</NOTE>
         <!-- <TR>He who worships the guest by [offering him] his own son, wife or himself</TR> -->
 
 <TEXT> śraddhayā cāvikalpena aklībamānasena ca||</TEXT> 4:43
@@ -4871,7 +4876,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
                        Łahany ahani yo dadyāt kapilāṃ dvādaśīḥ samāḥi |<br/>
                         māsi māsi ca satreṇa yo yajeta sadā naraḥ || <br/>
                         gavāṃ śatasahasraṃ ca yo dadyāj jyeṣṭhapuṣkare | <br/>
-                        na taddharmaphalaṃ tulyam atithir yasya tuṣyati ||$
+                        na taddharmaphalaṃ tulyam atithir yasya tuṣyati ||$.
                 <sep/>
                  \BRAHMAVP\ 3.44--46:<br/>
                         Łatithiḥ pūjito yena pūjitāḥ sarvadevatāḥ |<br/>
@@ -4911,7 +4916,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
                 they have. In the end, the guest reveals that he is in fact Dharma (14.93.80cd) and as 
                 a reward the family departs to heaven. The noble act of the poor Brahmin and his family
                 is depicted as yielding greater rewards than Yudhiṣṭhira's grandiose horse-sacrifice. 
-                (See some remarks on this story in <cite>TakahashiUnca</cite>.)
+                (See an analysis of this story in <cite>TakahashiUnca</cite>.)
 
         </NOTE>
         <!-- <TR>By one Łprastha$ [a small unit of weight] of coarsely ground grains</TR> -->
@@ -5051,7 +5056,7 @@ etc.
                 by excessive grief, fear, bewilderment, bondage, etc., and by sufferings of mind and body,
                 are quite unable for long to sustain life, when from their own herds they have come into
                 the control of men.'</NOTE>
-        <!-- <TR>The elephant perishes because of touch, not being able to tolerate being in fetters.</TR> -->
+        <!-- <TR>The elephant perishes because of touch, not tolerating to be kept in fetters.</TR> -->
 % Trautmann on elephants Flo
 
 <TEXT> kiṃ punaḥ pañcabhuktānāṃ mṛtyus{ }tebhyaḥ kim{ }adbhutam||</TEXT> 4:55
@@ -5337,7 +5342,8 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         -  - .  -  - . . -  . - -
 <TEXT> vijñānadharmakulakīrtināśa</TEXT> 
         <APP>\vc <LEM>°nāśa</LEM> \msCb; °nāśo \Ed °nāma \msCa\msCc\msNa, °naśca \msNb, °nāgā \msNc</APP>
-        <NOTE>The majority of the witnesses suggest that Łpāda$ c ends in a stem form noun (Ł°nāśa$).
+        <NOTE>The majority of the witnesses suggest that Łpāda$ c ends in a stem form noun (Ł°nāśa$),
+                although a singular masculine nominative (as in \Ed) may work.
                 This Łpāda$ is unmetrical, or rather it applies the licence of a word-final
                 short syllable being counted as potentially long (Ł°dharMA°$). </NOTE>
 
@@ -6177,7 +6183,8 @@ Brahmavihāras go back to the upaniṣads
 <TEXT> vratopavāsamaunaṃ ca snānaṃ ca niyamā daśa||</TEXT> 5:3
         <APP>\vc <LEM>°pavāsa°</LEM> \mssCaCbCc\msNa\msNb\msNc\Ed; °pravāṣa° \msM</APP>
         <PARAL>\vo <rm> = \LINPU\ 1.8.29cd--30ab = \VDHU\ 3.233.202</rm></PARAL>
-        <!-- <TR>religious observances, fasting, taciturnity, and bathing: these are the ten Niyamas.</TR> -->
+        <!-- <TR>religious observances, fasting, observing silence,
+                                 and bathing: these are the ten Niyamas.</TR> -->
     % daṣa \msCb
 
 
@@ -6990,7 +6997,7 @@ Brahmavihāras go back to the upaniṣads
         <NOTE>Again, we can see the use of the singular (Łetat$) next to numbers; note also 
               the stem form Łtapa$ in Łpāda$ d metri causa. This verse is a paraphrase of \MBH\ 3.39.16 (\BHG\ 17.16; see text in the
               apparatus).</NOTE>
-        <!-- <TR>taciturnity and the purification of one's state of mind:
+        <!-- <TR>observing silence, and the purification of one's state of mind:
                         mental penance comprises these five.</TR> -->
 
 %index_grammar: stem form metri causa
@@ -7273,6 +7280,15 @@ purana/mahAbhAratam/kumbhakonam/13/010.md:ma.n.duuka"saayii ca naro labhate ceps
         <APP>\va <LEM>annadaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; annada \Ed</APP>
         <APP>\vb <LEM>prāṇadaś{ }cāpi</LEM> \mssCaCbCc\msNa\msNc\Ed; prāṇaś{ }cāpi \msNb\oo
                  <LEM>sarvadaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; sarvadāḥ \msCc</APP>
+        <PARAL>\vo <rm>\similar\ \SDHU\ 1.27:</rm>
+                annadaḥ prāṇadaḥ proktaḥ prāṇadaś{ }cāpi sarvadaḥ|
+                tasmād{ }annapradānena sarvadānaphalaṃ labhet||
+                \similar\ <rm>\MBH\ suppl 14.4.2285--86:</rm>
+                annadaḥ prāṇado loke prāṇadaḥ sarvado bhavet|
+                tasmād{ }annaṃ viśeṣeṇa dātavyaṃ bhūtim{ }icchatā||
+                  \similar\ <rm>\NARADAP\ 1.13.71:</rm>
+                annadaḥ prāṇadaḥ proktaḥ prāṇadaś{ }cāpi sarvadaḥ|
+                sarvadānaphalaṃ yasmād{ }annadasya nṛpottama||</PARAL>
         <!-- <TR>He who donates food donates life. He who donates life donates everything.</TR> -->
 02sdhu/sivadharmottara_b.dn:  2524:  annadaḥ prāṇadaḥ proktaḥ prāṇadaś cāpi sarvadaḥ|^M
 
@@ -8332,7 +8348,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
                 Łpṛṣṭavāg$ is not inconceivable (as suggested by Judit Törzsök), 
                 for in 8.29 it is, in a way, questions that are given as relevant examples. 
                 Nevertheless I conjectured Łtīkṣṇavāg$ here, relying on the same verse, 8.29.</NOTE>
-        <!-- <TR>One who is disciplined in religious observances should keep taciturnity in 
+        <!-- <TR>One who is disciplined in religious observances should observe silence in 
                         [i.e. should avoid] these five:</TR> -->
 
 <TEXT> maunapañcakam{ }ity{ }etad{ }dhārayen{ }niyatavrataḥ||</TEXT> 8:25
@@ -8424,7 +8440,8 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
         <APP>\vd <LEM>me</LEM> \mssCaCbCc\msNa\msNb\msNc\msP; te \Ed</APP>
         <NOTE>Note the use of the singular next to a number in Łpāda$ c and understand Łme$ in Łpāda$ d as Łmayā$. 
               The latter usage appears in the epics, see <citep>OberliesEpicSkt</citep><pnum>102--103 (4.1.3)</pnum>.</NOTE>
-        <!-- <TR>are the five types of bragging. [Thus] have I taught [reasons for taciturnity], O excellent Brahmin.</TR> -->
+        <!-- <TR>are the five types of bragging. [Thus] have I taught [reasons for observing
+                silence], O excellent Brahmin.</TR> -->
 
 %index_grammar: ma-vipulā
 %index_grammar: singular after numbers
@@ -8435,7 +8452,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
         <APP>\va <LEM>kāryaṃ</LEM> \mssCaCbCc\msNa\msNc\msP\Ed; kāryā \msNb</APP>
         <APP>\vb <LEM>vākya°</LEM> \msCa\msCb\msNa\msNc\msP\Ed; vākyaṃ \msCc\msNb\oo
                  <LEM>°saubhāgya°</LEM> \msCa\msCc\msNa\msNb\msNc\msP\Ed; °saubhārya° \msCb</APP>
-        <!-- <TR>Taciturnity should always be practised by those who long for the beauty of speech.</TR> -->
+        <!-- <TR>Those who long for speech eloquent speech should always observe silence.</TR> -->
 
 %folioinfo \msP\ (Paris MS) 428.jpg
 <TEXT> apāruṣyam{ }asambhinnaṃ vākyaṃ satyam{ }udīrayet||</TEXT> 8:31
@@ -8444,7 +8461,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
 
 <TEXT> yas{ }tu maunasya no kartā dūṣitaḥ sa kulādhamaḥ|</TEXT>
         <APP>\vb <LEM>dūṣitaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\msP; dūṣita \msCc, bhūṣitaḥ \Ed</APP>
-        <!-- <TR>He who does not practise taciturnity is defiled and he is the black sheep of the family.</TR> -->
+        <!-- <TR>He who does not observe silence is defiled and he is the black sheep of the family.</TR> -->
 
 % janme janme is very Aiśa: Niśvāsa, Brahmayāmala
 <TEXT> janme janme ca durgandho mūkaś{ }caivopajāyate||</TEXT> 8:32
@@ -8466,7 +8483,7 @@ Bisschop, Peter 2018. “Vedic Elements in the Pāśupatasūtra,” in Farnah, I
                  <LEM>sadaiva</LEM> \msCa\msCb\msNa\msP\Ed; sadeva \msCc\msNc, sudaitya \msNb\oo
                  <LEM>kurvīta yo niścitam</LEM> \msCa\msCb\msNc\msP\Ed; kurvanti yen{ }niścitam \msCc\msNa, 
                                                         kurvanti yo{ }nniścita \msNb</APP>
-        <!-- <TR>Therefore the speech of a person who always keeps the observance of taciturnity firmly, with resolution,</TR> -->
+        <!-- <TR>Therefore the speech of a person who always observes silence firmly, with resolution,</TR> -->
 
 %index_grammar: licence vr / unmetrical
 
@@ -9380,7 +9397,8 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                  <LEM>maunaṃ</LEM> \mssCaCbCc\msNb\msNc\Ed; mauna \msNa\oo
                  <LEM>kṣamā</LEM> \msCa\msCc\msNa\msNc\Ed; kṣamāḥ \msCb\msNb</APP>
         <!-- <TR>[These ten words describe] the people who are the best among the Sāttvika [type]:
-               compassion, truthfulness, self-control, purity, knowledge, taciturnity, penance, patience,</TR> -->
+               compassion, truthfulness, self-control, purity, knowledge, 
+                observing silence, penance, patience,</TR> -->
 
 <TEXT> śīlaṃ ca nābhimānaṃ ca sāttvikāś{ }cottamā janāḥ||</TEXT> 9:29
         <APP>\vc <LEM>śīlaṃ ca</LEM> \mssCaCbCc\msNa\msNc; nīlañ{ }ca \msNb, śilaṃ ca \Ed\oo
@@ -11083,7 +11101,8 @@ svaśarīre sthitaṃ tīrthaṃ śruto vistarato mayā||13.2
 
 % stem form
 <TEXT> muditā mauna catvāraḥ sarvakāryam{ }upekṣakā|</TEXT>
-        <!-- <TR>Sympathy is the four ways of taciturnity. All his duties are Indifference.</TR> -->
+        <!-- <TR>Sympathy is the four ways of observing silence.
+                                 All his duties are Indifference.</TR> -->
         <APP>\va <LEM>mauna catvāraḥ</LEM> \msCa\msNa\msNb\msNc\Ed; maunaś{ }catvāraḥ \msCb, mauna catvāra \msCc</APP>
         <APP>\vb <LEM>°kāryam{ }u°</LEM> \mssCaCbCc\msNb\msNc\Ed; °kāryām{ }u° \msNa\oo 
                  <LEM>°pekṣakā</LEM> \mssCaCbCc\msNa\msNb\msNc; °pekṣayā \Ed</APP>
@@ -11420,7 +11439,7 @@ REVISE
         <!-- <TR>He should not stick to items of clothes, food or a bed for long.</TR> -->
 
 <TEXT> nābhinandeta maraṇaṃ nābhinandeta jīvitam|</TEXT>
-        <PARAL>\vab <rm>= MBh 12.237.15ab, Manu 6.45ab, Nāradaparivrājakopaniṣad 3.61cd. </rm></PARAL>
+        <PARAL>\vab <rm>= \MBH\ 12.237.15ab, \Manu\ 6.45ab, Nāradaparivrājakopaniṣad 3.61cd. </rm></PARAL>
         <!-- <TR>He should nor rejoice in death, he should not rejoice in life.</TR> -->
 
 %folioinfo \msNa\ 211.jpg upper, f. 17v
@@ -11704,6 +11723,9 @@ the king of the Gandharvas
         <APP>\ve <LEM>pativratā</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; prativratā \msCb\oo
                  <LEM>patiratā</LEM> \msCa\msCc\msNa\msNc\Ed; pratiratā \msCb\msNb</APP>
         <APP>\vf <LEM>patiśuśrūṣaṇe</LEM> \mssCaCbCc\msNa\msNc\Ed; pratiśuśrūṣaṇe \msNb</APP>
+        <PARAL>\vef <rm>\compare\ \BrahmaVP\ 4.27.174cd:</rm>
+                pativrate patirate patiṃ dehi namo 'stu te</PARAL> 
+
         <!-- <TR>She was faithful, devoted to her husband and his needs.</TR> -->
 
 <TEXT> atha kenāpi kālena sūryarāgam{ }abhūt{ }tataḥ|</TEXT> 
@@ -17402,7 +17424,10 @@ senses, which are left out of the classical Sāmkhya listing.
         <APP>\vb <LEM>mūrchanā°</LEM> \mssCaCbCc\msNa\Ed; mūrcchānā° \msNb\oo
                  <LEM>°viṃśatiḥ</LEM> \msCc\Ed; °viṃśati \msCa\msCb\msNa\msNb</APP>
         <!-- <TR>The seven [diatonic musical] notes (Łsvara$), the three basic scales (Łgrāma$),
-               and the twenty-one modal scales (Łmūrchana$).</TR> -->
+                and the twenty-one modal scales (Łmūrchana$).</TR> -->
+saptasvarāstrayo grāmā mūrchanās tv ekaviṃśatiḥ  /
+mama priyakaraṃ divyaṃ nṛtyaṃ gītaṃ ca yoginā  // RKS_101.15 // 
+
 
 % tānā-m-
 <TEXT> tānā{-}m{-}ekonapañcāśac{ }chabdabhedas{ }tadādayaḥ||</TEXT> 20:13
@@ -18108,7 +18133,7 @@ senses, which are left out of the classical Sāmkhya listing.
 
 <TEXT> sad{ }asac{ }cāśutā caiva manaso nava vai guṇāḥ||</TEXT>
         <APP>\ve <LEM>cāśutā</LEM> \Ed; cāśutāñ \msCa</APP>
-        <PARAL>\vcdef <rm> = MBh 12.247.9 </rm> </PARAL> 
+        <PARAL>\vcdef <rm> = \MBH\ 12.247.9 </rm> </PARAL> 
 
 % sadasavvā? \msCa
 <TEXT> iṣṭāniṣṭavikalpaś{ }ca vyavasāyaḥ samādhitā|</TEXT>
@@ -18311,6 +18336,7 @@ senses, which are left out of the classical Sāmkhya listing.
                  <PARAL>\vcd <rm>= Kūrmapurāṇa 1.11.219 \similar\ MBh 5.113.5ab:</rm> adya me saphalaṃ janma tāritaṃ cādya me kulam
                                 \similar\ MBh 13.14.179a:</rm> adya jāto hy ahaṃ deva adya me saphalaṃ tapaḥ</PARAL>
 % adya me saphalaṃ janma adya me saphalaṃ tapaḥ।            purana/vayu-puranam/02/044.txt
+% Padmapurāṇa etc.
                         
 
 
