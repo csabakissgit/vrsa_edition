@@ -68,6 +68,8 @@
 \newcount\versno
 \newcount\ajsa
 
+
+
 \fejno=1
 \versno=1
 \newcommand{\ujvers}{\global\advance\versno by1}
@@ -80,7 +82,7 @@
 %\newcommand{\trvs}{\norm \the\fejno .\the\versno\ }
 %\newcommand{\ujtr}{\ujvers\trvs\hskip 1cm}
 \newcommand{\vsveg}{{\the\fejno.\the\versno}}
-\newcommand{\vs}{\textbf{\englishfont\the\versno}}
+\newcommand{\vs}{{\englishfont\the\versno}}
 
 %%%%% Sections: from--to
 \newcount\innen%Pl. 14.24-46
@@ -173,9 +175,10 @@
 \newcommand{\ketdandadn}{{\dn ..}}
 \newcommand{\dnd}{\danda}
 \newcommand{\dnddnd}{\ketdanda}
-\newcommand{\veg}{}%{{\rm\ketdanda\vsveg\ketdanda}\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
+%\newcommand{\veg}{}%{{\rm\ketdanda\vsveg\ketdanda}\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
+\newcommand{\veg}{\vrule depth7pt width0pt}% this now only controls the vertical skip at the end of verse
 \newcommand{\vsvegdn}{\the\fejno\kern-0.3em{\rm\ :}\kern0.1em\the\versno\kern-0.15em}
-\newcommand{\vegdn}{॥$~${\vsvegdn}॥ \vrule depth6pt width0pt}
+\newcommand{\vegdn}{॥$~${\vsvegdn}॥ \vrule depth10pt width0pt}
 \newcommand{\sixlsloka}{\renewcommand{\padaA}{e}\renewcommand{\padaB}{f}\renewcommand{\padaAB}{ef}}
 \newcommand{\vegg}[1]{{\rm \ketdanda#1\ketdanda}}
 \newcommand{\dandadn}{।}
@@ -246,9 +249,9 @@
 %\newcommand{\msCc}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 02}$}}
 %\newcommand{\msCcacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 02}$}}
 %\newcommand{\msCcpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 02}$}}
-\newcommand{\msCc}{{\englishfont C$_{\scriptscriptstyle 02}$}}
-\newcommand{\msCcacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 02}$}}
-\newcommand{\msCcpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 02}$}}
+\newcommand{\msCc}{{\englishfont C$_{\scriptscriptstyle 02}$\hspace{.1pt}}}
+\newcommand{\msCcacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 02}$\hspace{.1pt}}}
+\newcommand{\msCcpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 02}$\hspace{.1pt}}}
 
 %\newcommand{\msNa}{{\englishfont N$_\textrm{a}$}}
 %\newcommand{\msNaacorr}{{\englishfont N$_\textrm{a}$\kern-.10cm$^{ac}$\/}}
@@ -256,41 +259,41 @@
 %\newcommand{\msNa}{{\rm N$^{\scriptscriptstyle K}_{\scriptscriptstyle 82}$}}  
 %\newcommand{\msNaacorr}{{\rm N$^{\scriptscriptstyle Kac}_{\scriptscriptstyle 82}$}}
 %\newcommand{\msNapcorr}{{\rm N$^{\scriptscriptstyle Kpc}_{\scriptscriptstyle 82}$}}
-\newcommand{\msNa}{{\englishfont K$_{\scriptscriptstyle 82}$}}  
-\newcommand{\msNaacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$}}
-\newcommand{\msNapcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$}}
+\newcommand{\msNa}{{\englishfont K$_{\scriptscriptstyle 82}$\hspace{.1pt}}}
+\newcommand{\msNaacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$\hspace{.1pt}}}
+\newcommand{\msNapcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$\hspace{.1pt}}}
 
-\newcommand{\msNb}{{\englishfont K$_{\scriptscriptstyle 10}$}}  
-\newcommand{\msNbacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 10}$}}
-\newcommand{\msNbpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 10}$}}
+\newcommand{\msNb}{{\englishfont K$_{\scriptscriptstyle 10}$\hspace{.1pt}}}
+\newcommand{\msNbacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 10}$\hspace{.1pt}}}
+\newcommand{\msNbpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 10}$\hspace{.1pt}}}
 
-\newcommand{\msNc}{{\englishfont K$_{\scriptscriptstyle 7}$}}  
-\newcommand{\msNcacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 7}$}}
-\newcommand{\msNcpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 7}$}}
+\newcommand{\msNc}{{\englishfont K$_{\scriptscriptstyle 7}$\hspace{.1pt}}}
+\newcommand{\msNcacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 7}$\hspace{.1pt}}}
+\newcommand{\msNcpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 7}$\hspace{.1pt}}}
 
-\newcommand{\msNd}{{\englishfont K$_{\scriptscriptstyle 3}$}}  
-\newcommand{\msNdacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}}
-\newcommand{\msNdpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}}
+\newcommand{\msNd}{{\englishfont K$_{\scriptscriptstyle 3}$\hspace{.1pt}}}
+\newcommand{\msNdacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$\hspace{.1pt}}}
+\newcommand{\msNdpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$\hspace{.1pt}}}
 
 \newcommand\msBod{{\englishfont B}}
-\newcommand\msBodacorr{{\englishfont B}$^{\scriptscriptstyle ac}$}
-\newcommand\msBodpcorr{{\englishfont B}$^{\scriptscriptstyle pc}$}
+\newcommand\msBodacorr{{\englishfont B}$^{\scriptscriptstyle ac}$\hspace{.1pt}}
+\newcommand\msBodpcorr{{\englishfont B}$^{\scriptscriptstyle pc}$\hspace{.1pt}}
 
 \newcommand\msL{{\rm L}}
-\newcommand\msLacorr{{\englishfont L}$^{\scriptscriptstyle ac}$}
-\newcommand\msLpcorr{{\englishfont L}$^{\scriptscriptstyle pc}$}
+\newcommand\msLacorr{{\englishfont L$^{\scriptscriptstyle ac}$\hspace{.1pt}}}
+\newcommand\msLpcorr{{\englishfont L$^{\scriptscriptstyle pc}$\hspace{.1pt}}}
 
-\newcommand\msP{{\englishfont P$_{\scriptscriptstyle 57}$}}
-\newcommand\msPacorr{{\englishfont P$_{\scriptscriptstyle 57}$}$^{\scriptscriptstyle ac}$}
-\newcommand\msPpcorr{{\englishfont P$_{\scriptscriptstyle 57}$}$^{\scriptscriptstyle pc}$}
+\newcommand\msP{{\englishfont P$_{\scriptscriptstyle 57}$\hspace{.1pt}}}
+\newcommand\msPacorr{{\englishfont P$_{\scriptscriptstyle 57}$$^{\scriptscriptstyle ac}$\hspace{.1pt}}}
+\newcommand\msPpcorr{{\englishfont P$_{\scriptscriptstyle 57}$$^{\scriptscriptstyle pc}$\hspace{.1pt}}}
 
-\newcommand\msM{{\englishfont M}}
-\newcommand\msMacorr{{\englishfont M}$^{\scriptscriptstyle ac}$}
-\newcommand\msMpcorr{{\englishfont M}$^{\scriptscriptstyle pc}$}
+\newcommand\msM{{\englishfont M\hspace{.1pt}}}
+\newcommand\msMacorr{{\englishfont M$^{\scriptscriptstyle ac}\hspace{.1pt}$}}
+\newcommand\msMpcorr{{\englishfont M$^{\scriptscriptstyle pc}\hspace{.1pt}$}}
 
 %\newcommand{\Ed}{{\englishfont Ed$_\textrm{N}$}}
 %\newcommand{\Ed}{{\rm E$^{\scriptscriptstyle N}$}}
-\newcommand{\Ed}{{\englishfont E}}
+\newcommand{\Ed}{{\englishfont E\hspace{.1pt}}}
 
 
 
@@ -306,8 +309,8 @@
 \newcommand{\msCbc}{{\englishfont C$_\textrm{b}$C$_\textrm{c}$}}
 \newcommand{\msCabc}{{\englishfont C$_\textrm{a}$C$_\textrm{b}$$_\textrm{c}$}}
 
-\newcommand{\mssCaCbCc}{{\englishfont C$^{\scriptscriptstyle\Sigma}$}}
-\newcommand{\mssNaNbNc}{{\englishfont N}}
+\newcommand{\mssCaCbCc}{{\englishfont C$^{\scriptscriptstyle\Sigma}$\hspace{.1pt}}}
+\newcommand{\mssNaNbNc}{{\englishfont N$^{\scriptscriptstyle\Sigma}$\hspace{.1pt}}}
 
 \newcommand{\Cod}{\textit{Cod.}}
 \newcommand{\Codd}{$\Sigma$}
@@ -564,17 +567,27 @@
 \newcommand{\p}{\textbf{\vs \padaA~}}
 \newcommand{\pp}{\textbf{\vs \padaB~}}
 \newcommand{\ppp}{\textbf{\vs \padaAB~}}
-\newcommand{\va}{{\textbf{\englishfont \vs a~}}} % I dont use these any more, only in non-anu.s.tubh
-\newcommand{\vb}{{\textbf{\englishfont  \vs b~}}} % I dont use these any more, only in non-anu.s.tubh
-\newcommand{\vc}{{\textbf{\englishfont \vs c~}}} % I dont use these any more, only in non-anu.s.tubh
-\newcommand{\vd}{{\textbf{\englishfont \vs d~}}} % I dont use these any more, only in non-anu.s.tubh
-\newcommand{\ve}{{\textbf{\englishfont \vs e~}}} % I dont use these any more
-\newcommand{\vf}{{\textbf{\englishfont \vs f~}}} % I dont use these any more
-\newcommand{\vab}{{\textbf{\englishfont \vs ab~}}} % I dont use these any more
-\newcommand{\vcd}{{\textbf{\englishfont \vs cd~}}} % I dont use these any more
-\newcommand{\vef}{{\textbf{\englishfont \vs ef~}}} % I dont use these any more
-\newcommand{\vabce}{{\textbf{\englishfont \vs a--d~}}} % I dont use these any more
-\newcommand{\vcdef}{{\textbf{\englishfont \vs c--f~}}} % I dont use these any more
+
+%\usepackage{ifthen}
+%\newcommand{\haha}{haha}
+%\newcommand{\nono}{nono}
+%\newcommand{\isitbold}{\haha}
+
+\newcommand{\separator}{}
+\newcommand{\va}{{\textbf{\englishfont \vs a~}}}
+\newcommand{\vb}{{\textbf{\englishfont \vs b~}}}
+\newcommand{\vc}{{\textbf{\englishfont \vs c~}}}
+\newcommand{\vd}{{\textbf{\englishfont \vs d~}}}
+\newcommand{\ve}{{\textbf{\englishfont \vs e~}}}
+\newcommand{\vf}{{\textbf{\englishfont \vs f~}}}
+\newcommand{\vab}{{\textbf{\englishfont \vs ab~}}}
+\newcommand{\vcd}{{\textbf{\englishfont \vs cd~}}}
+\newcommand{\vef}{{\textbf{\englishfont \vs ef~}}}
+\newcommand{\vabce}{{\textbf{\englishfont \vs a--d~}}}
+\newcommand{\vcdef}{{\textbf{\englishfont \vs c--f~}}}
+
+
+
 
 \newcommand{\subb}[1]{\bigskip\textbf{#1}\medskip}
 %\newcommand{\jati}[1]{{\fbox{\parbox{\linewidth}{#1}}}}
@@ -583,7 +596,8 @@
 \newcommand{\Notes}{\textit{Textual Notes}}
 \newcommand{\Colo}{{\englishfont\textbf{Colophon}}}
 \newcommand{\notelemm}[2]{#1: \textbf{#2}~]}
-\newcommand{\lem}{{\englishfont \thinspace \textbf{]} }}
+%\newcommand{\lem}{{\devanagarifont\thinspace\textbf{]} }}
+\newcommand{\lem}{ }
 \newcommand{\note}[1]{#1:}
 %\newcommand{\AD}{\textsc{ad}}
 \newcommand{\CE}{\textsc{ce}}
@@ -1006,7 +1020,7 @@
 % I am using this
 \makeatletter
  \def\lemmaesszamnelkulfmt#1#2#3{%
-\tolerance=9999\normal@pars\rightskip=0pt\leftskip=0pt
+\tolerance=99\normal@pars\rightskip=0pt\leftskip=0pt
 \parindent=0pt \parfillskip=0pt plus 1fil {#3}\penalty-10}
 \makeatother
 
