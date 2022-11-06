@@ -69,6 +69,7 @@ nnoremap msna a\msNa
 nnoremap mscc a\msCc
 nnoremap mscb a\msCb
 nnoremap msca a\msCa
+map wf :wincmd F
 nnoremap <silent> <C-S> :w
 vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(expand((exists("g:netrw_gx")? g:netrw_gx : '<cfile>')),netrw#CheckIfRemote())
@@ -347,12 +348,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 10085 - ((15 * winheight(0) + 15) / 31)
+let s:l = 5547 - ((18 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-10085
-normal! 03|
+5547
+normal! 024|
 tabnext 1
 badd +0 vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0

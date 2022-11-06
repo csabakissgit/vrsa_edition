@@ -211,6 +211,9 @@ trnslsubsubchapter:after {
 
 
 
+pnum:before {
+        content: ", "
+}
 
 
 chapter {

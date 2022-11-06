@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX encoding = UTF-8
-\documentclass[11pt]{book}
+\documentclass[12pt]{book}
 
 
 \input{vssbook_macros}
@@ -204,20 +204,92 @@ Index \dotfill \pageref{index}\\
 \fancyhead[LO]{}
 \fancyhead[LE]{}
 
+\renewcommand{\contentsname}{{\hfill {\normalfont\Large\englishfont Table of Contents}\hfill}}
+\thispagestyle{empty}
 \tableofcontents
+\thispagestyle{empty}
 
 \vfill
 \pagebreak
 
 
 
+\hide{
+% TESTPAGE, comparing this to Śaiva Utopia p. 133
+
+\fancyhead[CO]{\textit{\footnotesize Introduction to the Commentary}}
+\fancyhead[CE]{\textit{\footnotesize Introduction to the Commentary}}
+
+\noindent
+of the text. In the following two cases, the \textit{pratiīka}s quoted by the
+commentary are found only in G$^Ki$: \textit{bhāñḍagūḍhakaṃ} (after 4d) and
+\textit{jñānapāragam} (83b).
+Furthermore, the following is a pratīka found
+only in G$^{\scriptscriptstyle Ki}$ and G$^{\scriptscriptstyle Lac}_{\scriptscriptstyle 40}$ : \textit{śāntilakṣaṇam} (99d).
+There is also an instance
+where the quoted \textit{pratīka} is shared by two South Indian manuscripts
+(G$^{\scriptscriptstyle Ki}$, M$^{\scriptscriptstyle Tr}_{\scriptscriptstyle 63}$)
+as well as one Nepalese manuscript (N$^{\scriptscriptstyle Ko}_{\scriptscriptstyle 77}$): \textit{ratau} (114d).
+
+In another case, the \textit{pratīka} is found in one South Indian manuscript
+(G$^{\scriptscriptstyle Ki}$) and three Nepalese sources
+(N$^{\scriptscriptstyle K}_{\scriptscriptstyle 82}$, N$^{\scriptscriptstyle P}_{\scriptscriptstyle 57}$, and E$^{\scriptscriptstyle N}$):
+\textit{nāryyo'pi} (72c).
+Furthermore, another \textit{pratīka} is found in two South Indian sources (G$^{\scriptscriptstyle Ki}$
+and P$^{\scriptscriptstyle T}_{\scriptscriptstyle 72}$)
+and in the Kashimiri manuscript (Ś$^{\scriptscriptstyle S}_{\scriptscriptstyle 67}$):
+\textit{mokṣaḥ satye pratiṣṭhitaḥ} (108d). The commentary furthermore provides two
+\textit{pratīka}s that are
+not found in any of the South Indian sources, but which occur in two
+Nepalese sources (N$^{\scriptscriptstyle K}_{\scriptscriptstyle 28}$
+and N$^{\scriptscriptstyle K}_{\scriptscriptstyle 12a}$): \textit{gūhate} (105b).
+Similarly, the following \textit{pratīka}
+only features in one Nepalese source (N$^{\scriptscriptstyle C}_{\scriptscriptstyle 45}$):
+\textit{śivakathābhaktaḥ}~(53a).
+
+\vspace{1em}
+\noindent
+3. \textit{Editorial Policies for the Commentary}
+
+\vspace{.3em}
+\noindent
+The critically edited text is presented as the running text. The apparatus
+is divided into two registers. On pages that display both registers, the
+upper register records testimonia and notes while the bottom register
+reports the variants found in the manuscript. Each entry begins with a
+line number in boldface (e.g. 21). Then follows the reading adopted
+in the main text, followed by a lemma sign (]) and the source of the
+adopted reading. A semicolon separates the adopted reading (to its
+left) from the variants (to its right). Any siglum that is followed by
+superscript ac indicates the reading of a source before correction
+(=\textit{ante correctionem}) and a siglum followed by superscript pc indicates
+the reading of a source after correction (=\textit{post correctionem}).
+
+The title of the commentary and everything supplied between
+double square brackets is from the editors. The verse numbers of
+the verses that are commented upon in the commentary are given
+between double square brackets; the beginning and end is also
+indicated by double square brackets. Similarly, line numbers of the
+manuscript are given in double square brackets. The pratīkas of the
+root text are marked in bold. Application of sandhi rules are silently
+standardised here. In general we follow the placement of the dañḍas
+by the manuscript, but we have occasionally placed them according
+to our own understanding as well.
+
+\vspace{1em}
+\noindent
+4. \textit{A Note on the Translation}
+
+\vspace{.3em}
+\noindent
+In order to make the commentary accessible to a broader readership,
+we have included a running English translation of it. In translating
 
 
 
-
-
-
-
+\vfill
+\pagebreak
+} % end of this hidden page
 
 
 \thispagestyle{empty}
@@ -240,7 +312,7 @@ encouraging me to apply for a position in her
 for sharing with me all the relevant manuscript material and
 in general leading the project in the most friendly and 
 generous way through difficult Covid-affected years.  
-While working on the \textsl{Vṛṣa\-sāra\-saṃgraha}, 
+While working on the \textsl{Vṛṣa\-sāra\-saṃgraha},
 I have also been affiliated with another ERC project, 
 the \textsc{dharma project} (ERC no.\thinspace 809994), 
 and I'm grateful to all my colleagues involved in that enterprise,
@@ -1280,6 +1352,9 @@ as if not proofread
 
 \section{The Sanskrit text}
 
+\pagebreak
+\blankpage
+
 \includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
 
 
@@ -1312,15 +1387,16 @@ as if not proofread
 \let\svthefootnote\thefootnote
 
 
-\fancyhead[CO]{{\footnotesize \textit{Vṛṣasārasaṃgraha}}}
-\fancyhead[CE]{{\footnotesize \textit{Translation of chapter 1}}}
+\fancyhead[CE]{{\footnotesize \textit{Vṛṣasārasaṃgraha}}}
+\fancyhead[CO]{{\footnotesize \textit{Translation of chapter 1}}}
 %\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.pdf}
 
 % CORRECT PAGE NUMBER AFTER SKT EDITION !
 \setcounter{page}{1000}
 %\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex}
 
-\input{/home/csaba/indology/dharma_project/vrsa_edition/newinput.tex}
+
+\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation_input.tex}
 
 
 
