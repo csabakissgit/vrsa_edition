@@ -4842,7 +4842,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
 <TEXT> cintayen{ }manasā bhaktyā dharmaḥ svayam{ }ihāgataḥ||</TEXT> 4:44
         <APP>\vc <LEM>cintayen{ }ma°</LEM> \msCa\msCc\msNa\msNb\Ed; cittayet{ }ma° \msCb, cintayet{ }ma° \msNc</APP>
         <APP>\vd <LEM>°gataḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °gatāḥ \msCc, ga<UNCL>tam</UNCL> \msNb</APP>
-        <PARAL>\vcd <rm>\compare\ 12.37cd:</rm>dvijarūpadharo dharmaḥ svayam eva ihāgataḥ</PARAL>
+        <PARAL>\vcd <rm>\compare\ 12.37cd: </rm>dvijarūpadharo dharmaḥ svayam{ }eva ihāgataḥ</PARAL>
         <!-- <TR>and imagines mentally, with devotion, that it is Dharma himself who has arrived,</TR> -->
                
 <TEXT> aśvamedhasahasrāṇi rājasūyaśatāni ca|</TEXT> 
@@ -11079,6 +11079,9 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                Łātman$, Łvidyā$, Łbhava$, and Łsūkṣma$ (see, e.g., 4.73). \VSS\ chapter 6
                discusses five Łtattva$s: Łsūrya$, Łsoma$, Łagni$, Łsphaṭika$, and Łsūkṣma$ 
                (see, e.g., 6.7). \VSS\ chapter 20 enumerates the 25 Łtattva$s of Sāṃkhya.
+               One possibility would be to interpret the set of three Łtattva$s as
+               the three Łpadārtha$s of the Śaivasiddhānta, Łpati$, Łpaśu$, and Łpāśa$;
+               see, e.g., \TAKIII, s.v. Łpatipaśupāśa$.
                Dominic Goodall has tentatively suggested reading here in 11.22c, with \msNa,
                Łbrahmasūtratrayaṃ tattvaṃ$ (`the three strands of the sacred thread is truth').
                The problem is firstly that we have Łtrayas tattvaṃ$ repeated in 11.29c below, 
@@ -11110,9 +11113,10 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
               translation, a bahuvrīhi compound qualifying the practitioner. As to
               what the four Łprakaraṇa$s (`chapters'?) refer to here, I am without a clue.
               Perhaps the phrase was meaningful in a context where this section was
-              taken out. (The <skt>Mokṣopāya</skt>, a text of Kashmiri origin and
+              taken out. (The <skt>Mokṣopāya</skt>, a text of Kashmiri origin from the tenth century and
               made up of Łprakaraṇa$s would be an interesting candidate for being a point of reference.
-              Unfortunately, there are six Łprakaraṇa$s in the <skt>Mokṣopāya</skt>, and not four.
+              Unfortunately from this point of view, there are six Łprakaraṇa$s in the 
+              <skt>Mokṣopāya</skt>, and not four.
               See, e.g., <cite>SlajeMoksopaya1996</cite>\index{Moksopaya@\textsl{Mo\-kṣo\-pā\-ya}}.</NOTE>
         <!-- <TR>The four Vedas are [now] Łnivṛtti$ etc. His seat is the four Łprakaraṇa$s.</TR> -->
 
@@ -11121,7 +11125,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> dakṣiṇām{ }abhayaṃ bhūte dattvā yajñaṃ yajet{ }sadā||</TEXT> 11:23
         <APP>\vc <LEM>°bhayaṃ bhūte</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °bhakṣayam{ }bhūtai \msCb</APP>
         <APP>\vd <LEM>yajñaṃ yajet</LEM> \mssCaCbCc\msNa\msNb\msNc; yajña dadat \Ed</APP>
-        <PARAL>\vc <rm>\compare\ 22.14ab:</rm> dakṣiṇābhaya bhūtebhyaḥ paśubandhaḥ svayaṃkṛtaḥ</PARAL>
+        <PARAL>\vc <rm>\compare\ \VSS\ 22.14ab:</rm> dakṣiṇābhaya bhūtebhyaḥ paśubandhaḥ svayaṃkṛtaḥ</PARAL>
         <!-- <TR>He should always perform a[n internalised] sacrifice after donating the priestly fee of
                  providing being[s] with freedom from danger.</TR> -->
 
@@ -11150,18 +11154,24 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
          <NOTE>Łsadāśivena$ in Łpāda$ c could also be interpreted as the agent of Łpūjitam$ in Łpāda$ d
                (`it is revered by Sadāśiva'), but Sadāśiva was mentioned as the original
                  teacher of this ritual in 11.4 above, which makes it probable that
-                 he is being referred to in a similar manner here.</NOTE>
+                 he is being referred to in a similar manner here. Cf. also 11.30 below.</NOTE>
         <!-- <TR>through Sadāśiva; [this is] the true Dharma, revered also by the gods.</TR> -->
 
 
-        % EDDIG
 %  2nd āśrama: brahmacarya
 <SUBCHAPTER>brahmacaryam</SUBCHAPTER>
 <TEXT> brahmacaryaṃ nibodhedaṃ śṛṇuṣvāvahitā śubhe|</TEXT>
         <APP>\va <LEM>°caryaṃ</LEM> \mssCaCbCc\msNb\msNc\Ed; °carya \msNa</APP>
         <APP>\vb <LEM>°vahitā śubhe</LEM> \msCa\msCb\msNa\msNc\Ed; °vahito bhava \msCc, °vahito śubhe \msNb</APP>
-        <!-- <TR>[Now] learn about brahmacarya. Listen with attention, O Śubhā.</TR> -->
-        % nibodhe 'haṃ ? DG
+        <NOTE>Łidaṃ$ in Łnibodhedaṃ$ in Łpāda$ a sounds clumsy with Łbrahmacaryaṃ$ (lit. `listen to this
+              practice of chastity') but in fact the \MBH\ and the Purāṇas contain countless similar,
+              albeit smoother, expressions, e.g., \MBH\ 5.145.15ab 
+              (<skt>duryodhana nibodhedaṃ kulārthe yad bravīmi te</skt>),
+              \BRAHMAP\ 133.10ab
+              (<skt>bharadvāja nibodhedaṃ vākyaṃ mama samāsataḥ</skt>), etc.</NOTE>
+        <!-- <TR>[Now] learn about this, about the practice of chastity (Łbrahmacarya$). 
+                 Listen with attentively, O Śubhā.</TR> -->
+        % nibodhe 'haṃ ? DG 
 
 
 %folioinfo \msNc\ 7805.jpg upper CHANGE, f. 224v
@@ -11169,76 +11179,118 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> dvitīyam{ }āśramaṃ devi sarvapāpavināśanam||</TEXT> 11:26
         <APP>\vd <LEM>°vināśanam</LEM> \mssCaCbCc\msNa\msNc\Ed; °pranāśanam \msNb</APP>
         <PARAL>\vcd <rm> \compare\ \MBH\ 12.184.10A:</rm> gārhasthyaṃ khalu dvitīyam{ }āśramaṃ vadanti</PARAL>
-        <!-- <TR>[This is] the second life-stage, O Devī, the destroyer of all sins.</TR> -->
+        <NOTE>See some remarks on the life-stages, or social order of disciplines (Łāśrama$),
+              and especially on their order, in the \VSS\ in <cite>KissVolume2021</cite> and
+              above on p.\verify </NOTE>
+        <!-- <TR>[It is] the second life-stage (Łāśrama$), O Devī, the destroyer of all sins.</TR> -->
 
-%folioinfo \msCc\ 216.jpg                         EMENDATION
+%folioinfo \msCc\ 216.jpg                         
 <TEXT> vrataṃ brahmaparaṃ dhyānaṃ sāvitrī prakṛti{-}r{-}layam|</TEXT>
         <APP>\va <LEM>°paraṃ dhyānaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °parijñānaṃ \Ed</APP>
         <APP>\vb <LEM>°kṛtir{ }layam</LEM> \msCa\msNa\msNc\Ed; °kṛtālayam \msCb, °kṛtīlayam \msCc, °kṛtilaḥ \msNb</APP>
-        <PARAL>\vab <rm>cf.\ 16.8cd</rm></PARAL>
-        <NOTE>One could emend Łprakṛtir layam$ in pāda b to Łprakṛtau layaḥ$,
-                but I retained the reading of \msCa\msNa\msNc\Ed because
-                it may have been the original way to make the compound Łprakṛtilaya$
+        <PARAL>\vab <rm>cf.\ \VSS\ 16.8cd</rm></PARAL>
+        <NOTE>One could emend Łprakṛtir layam$ in Łpāda$ b to the expected Łprakṛtau layaḥ$
+                (see, e.g., \AGNIP\ 379.1d: <skt>vairāgyāt prakṛtau layam</skt>).
+                Nevertheless, I retained the reading of \msCa\msNa\msNc\Ed\ because
+                it may have been the way in which the compound Łprakṛtilaya$ was originally made 
                 metrical. In other words, I suspect the Ł-r-$ to be only a link
                 between the two elements of this compound. I also retained the neuter ending.
-                Note 16.8d, where the same expression becomes Łprakṛtālayam$.</NOTE>
-        <!-- <TR>[Here] religious observance is [now] meditation on Brahman.
-             The Sāvitrī [hymn] is absorption in Prakṛti.</TR> -->
+                Compare 16.8d, where the same expression is transmitted in all the witnesses
+                so far consulted as Łprakṛtālayam$.
+
+        </NOTE>
+        <!-- <TR>Religious observances are [now] meditation focussed on the Brahman.
+                 The Sāvitrī [hymn] is absorption in Prakṛti.</TR> -->
+
+%index_grammar: intusive -r- metri causa
 
 % stem forms 
 <TEXT> brahmasūtrākṣaraṃ sūkṣmaṃ triguṇālaya mekhalam||</TEXT> 11:27
-        <!-- <TR>The Brahmanical cord is the subtle syllable.
-             His girdle is now contained in the three guṇas.</TR> -->
         <APP>\vd <LEM>°laya</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; °la× \msCa\oo
                  <LEM>mekhalam</LEM> \mssCaCbCc\msNa\msNb\msNc; yat{ }phalam \Ed</APP>
+        <NOTE>Note the stem form nouns in Łpāda$s cd (°Łsūtra$ and °Łālaya$).
+              The `subtle syllable' may be Łoṃ$ (cf. 1.9--10), traditionally analysed as
+              made up of three sounds, here corresponding to the three strands of the
+              sacred thread. In Łpāda$ d, Łtriguṇālaya$ might rather
+              mean `absorption in the three Qualities' (Łtriguṇeṣu layaḥ$)
+              although in my translation I translate it as Łtriguṇa-ālayaḥ$.</NOTE>
+        <!-- <TR>The Brahmanical cord (Łbrahmasūtra$) is the subtle syllable.
+                 His girdle is now the abode of the three Qualities (Łguṇa$).</TR> -->
         % tṛguṇā° \msCa
         % absorption in the 3 guṇas slightly higher level? DG
 
+%index_grammar: stem form noun metri causa
+%index_sandhi: aḥ a -- ā (stem form)
+
 <TEXT> dama daṇḍa dayā pātraṃ bhikṣā saṃsāramocanam|</TEXT>
-        <!-- <TR>His staff is self-restraint, his bowl compassion.
-                        Begging/alms? is liberation from saṃsāra.</TR> -->
         <APP>\va <LEM>daṇḍa dayā</LEM> \mssCaCbCc\msNb\msNc; daṇḍādayā \msNa, daṇḍādayo \Ed\oo
                  <LEM>pātraṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; pātra \msNb</APP>
+        <!-- <TR>His staff is self-restraint, his bowl compassion.
+                 alms are liberation from transmigration (Łsaṃsāra$).</TR> -->
          % highest level? DG
 
-<TEXT> tryāyuṣaṃ dvyakṣarātītaṃ jñānabhaṣma-alaṅkṛtam||</TEXT> 11:28
-        <!-- <TR>The tryāyuṣa [mantra] is the one beyond the two syllables[?].
-             It[?] is embellished with the ashes of knowledge.</TR> -->
+%index_grammar: stem form noun 
+
+<TEXT> tryāyuṣaṃ dvyakṣarātītaṃ jñānabhasma-alaṅkṛtam||</TEXT> 11:28
         <APP>\vc <LEM>°yuṣaṃ</LEM> \mssCaCbCc\msNb\msNc\Ed; °yuṣa \msNa</APP>
-        <APP>\vd <LEM>bhasma</LEM> \mssCaCbCc\msNa\msNb\msNc; bhasmam \Ed</APP>
+        <APP>\vd <LEM>bhasma</LEM> \mssCaCbCc\msNa\msNb\msNc; bhaṣmam \Ed</APP>
+        <NOTE>The Tryāyuṣa is a Vedic mantra, see, e.g., <skt>Ṛgveda-khila</skt> 5.3.6:
+           <skt>tryāyuṣam jamadagneḥ kaśyapasya tryāyuṣam |
+                agastyasya tryāyuṣam yad devānām tryāyuṣam tan no astu tryāyuṣam</skt> |;
+        `The threefold vitality of [the sage] Jamadagni, that of [the sage] Kaśyapa, 
+         that which is that of the gods---may it be ours!' (translation based on 
+         <citep>SaivaUtopia2021</citep><pnum>28</pnum>). `In the Vedic domestic ritual codes, 
+         this is the mantra to be recited over the razor or over the student who is
+         about to be shaven before bathing at the end of his studies' (ibid.).
+         In \SIVAUP\ 5.20ab, this mantra is prescribed to accompany the application of the 
+         three lines on the forehead. Thus here in \VSS\ 11:28cd, Łtryāyuṣa$ and
+         the mention of ashes make it clear that the next element of the ritual
+         life of the Łbrahmacārin$ to be internalised is the application 
+         of the Łtripuṇḍra$. As for the Łdvyakṣarātīta$, which should be a mantra,
+         it perhaps means a three-syllable mantra, possibly Ła-u-m$ or Łśivāya$.</NOTE>
+        <!-- <TR>The Tryāyuṣa is the one beyond the two syllables.
+             [The three lines are] prepared with the ashes of knowledge.</TR> -->
         % tryāyuṣa = 3 lines on head ? DG  ; No, see Śaiva Utopia [I wrote, but then:] yes! see 8.37a
-        % are drawn with the ashes of knowledge Me (CsK)
+        % are drawn with the ashes of knowledge (CsK)
+
+%index_sandhi: lack of sandhi bhasma-alaṃkṛtam
 
 <TEXT> snānavrataṃ sadāsatyaṃ śīlaśaucasamanvitam|</TEXT>
-        <!-- <TR>The bath-vow is speaking the truth always.
-             It is accompanied by the purity of moral conduct.</TR> -->
         <APP>\va <LEM>°vrataṃ</LEM> \msCa\msCc\msNa\msNb; °vrata \msCb\msNc\Ed</APP>
+        <!-- <TR>The bath-vow is life-long truthfulness,
+                 accompanied by the purity of moral conduct.</TR> -->
 
-% for trayas tattvāni?                    CORR
 <TEXT> agnihotra trayas{ }tattvaṃ japa brahmabilasvaraḥ||</TEXT> 11:29
-        <!-- <TR>Sacrifice to Agni is the three tattvas[?]. 
-                Recitation is the sound at the aperture of Brahmā.</TR> -->
         <APP>\vc <LEM>°hotra trayas{ }tattvaṃ</LEM> \msNa\msNc\Ed; °hotran{ }trayas{ }tatvaṃ \msCa,
-                        °hotra<UNCL>ta</UNCL>yas{ }tatvaṃ \msCb, °hotratrayaṃ tatvā \msCc, °hotraṃ trayaṃs{ }tatvaṃ \msNb</APP>
+                                                °hotra<UNCL>ta</UNCL>yas{ }tatvaṃ \msCb, °hotratrayaṃ tatvā \msCc,
+                                                °hotraṃ trayaṃs{ }tatvaṃ \msNb</APP>
         <APP>\vd <LEM>°bilasvaraḥ</LEM> \corr; °bilaśvaraḥ \mssCaCbCc\msNa\msNb, °bileśvara \msNc\Ed</APP>
-        <NOTE>Perhaps Łbrahmabilasvara$ in Łpāda$ d refers to the same concept as Łbrahmanāda$ does in 11.19c.</NOTE>
+        <NOTE>On the problem of understanding what the three Łtattva$s are in this text, and on the 
+              phrase Łtrayas tattvaṃ$, see notes on verse 11.22 above.
+              Perhaps Łbrahmabilasvara$ in Łpāda$ d refers to the same concept as Łbrahmanāda$ does in 11.19c.</NOTE>
+        <!-- <TR>The Agnihotra sacrifice is the three Łtattva$s. 
+                Recitation is the sound at the aperture of Brahmā.</TR> -->
         % CHECK MSS
 
-<TEXT> dvitīya āśramo devi yathāha bhagavān{ }śivaḥ|</TEXT>
-        <!-- <TR>[This is] the second life-stage as Lord Śiva taught it, O Devī.</TR> -->
 %% bhagavāṃ \msCa\msCc\msNa
-        <APP>\va <LEM>dvitīya āśramo</LEM> \msCa\msCb\msNa\msNb\msNc; dvitīyam{ }āśramo \msCc, dvitīyam{ }āśramaṃ \Ed</APP>
+<TEXT> dvitīya āśramo devi yathāha bhagavān{ }śivaḥ|</TEXT>
+        <APP>\va <LEM>dvitīya āśramo</LEM> \msCa\msCb\msNa\msNb\msNc; dvitīyam{ }āśramo \msCc,
+                                                         dvitīyam{ }āśramaṃ \Ed</APP>
         <APP>\vb <LEM>yathāha</LEM> \msCa\msCb\msNa\msNc; yathāhaṃ \msCc\msNb, yad{ }āha \Ed</APP>
+        <!-- <TR>[This is] the second life-stage, as Lord Śiva taught it, O Devī,</TR> -->
 
-<TEXT> mayāpi kathitaṃ tubhyaṃ janmamṛtyuvināśanam||</TEXT> 11:30
-        <!-- <TR>I have also taught [it to] you[,] the destruction of birth and death.</TR> -->
-        <APP>\vc <LEM>mayāpi kathitaṃ tu°</LEM> \eme; mamāpi kathitaṃ tu° \mssCaCbCc\msNa\msNb,
+<TEXT> mamāpi kathitaṃ tubhyaṃ janmamṛtyuvināśanam||</TEXT> 11:30
+        <APP>\vc <LEM>mamāpi kathitaṃ tu°</LEM> \mssCaCbCc\msNa\msNb;
                                 mamāpi kathitas{ }tu° \msNc, mayāpi kathito tu° \Ed</APP>
         <APP>\vd <LEM>°mṛtyu°</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; °mṛ×° \msCa\oo
                  <LEM>°nāśanaṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; °nāśanaḥ \msNc</APP>
+        <NOTE>One may consider correcting Łmamā$° to Łmayā$° (`it has been taught by Łme$'),
+              but Łmama$ may be original.</NOTE>
+        <!-- <TR>to me. It, the destruction of birth and death, is [now] also taught to you.</TR> -->
 
 
 
+% EDDIG
 
 % 3th āśrama
 % Buddhist terms below
@@ -15163,7 +15215,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 % ma-vipulā
 <TEXT> yajñena devān{ }āpnoti rājyaṃ vai tapasaḥ phalam|</TEXT>
         <APP>\va <LEM>devān{ }āpnoti</LEM> \msCa\msCb\msNa\msNbpcorr\msNc\Ed; devāpnoti \msNbacorr</APP>
-        <PARAL>\vo \similar\ <rm> Agnipurāṇa 378.1:</rm> 
+        <PARAL>\vo \similar\ <rm>\AGNIP\ 378.1:</rm> 
                 yajñaiś{ }ca devān{ }āpnoti vairājaṃ(?)\ tapasā padam|
                 brahmaṇaḥ karmasannyāsād{ }vairāgyāt{ }prakṛtau layam||
                 \similar\ <rm> Maskarin's commentary CHECK ad Gautamadharmasūtra 3.1:</rm>
