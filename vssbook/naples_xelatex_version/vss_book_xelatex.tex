@@ -1,171 +1,39 @@
 % !TEX TS-program = xelatex
 % !TEX encoding = UTF-8
+
+% So this is the main file for the VSS book (XeLaTeX)
+% it requires
+% vssbook_macros.tex and other macro files
+% in this folder, and
+% /home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex 
+% which is the translation with notes and Sanskrit 
+% and also
+% /home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf
+% which is the critical edition
+
 \documentclass[12pt]{book}
 
-
+%%% LOAD MACROS %%%
 \input{vssbook_macros}
+
 
 \frenchspacing
 \makeindex 
 
-% So this is the main file for the VSS book (XeLaTeX)
-% it requires
-% vssbook_macros.tex
-% in this folder, and
-%/home/csaba/indology/dharma_project/vrsa_edition/newinput.tex 
-% which is the translation with notes and Sanskrit 
-% and also
-% /home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf
-%which is the critical edition
-
-
-
-
 \begin{document}
 
 \pagenumbering{roman}
-\thispagestyle{empty}
-\ \vskip5cm
+
+%%%%%%%%%%%%%%%%%%%%% FRONT MATTER %%%%%%%%%%%%%%%%%%%
+\input{vss_frontmatter.tex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\begin{center}
-\textit{\large 
-	The Vṛṣasārasaṃgraha, a text of the Śivadharma corpus}\\ 
-\vskip.3em	
- 	A Critical Edition
-\vskip.3em	
-	Volume 1\\\end{center}
-\vfill
-\pagebreak
-
-
-
-
-
-\thispagestyle{empty}
-\ \vskip3cm
-
-\begin{center}
-\textsc{Università di Napoli L’Orientale\\
-Dipartimento Asia, Africa e Mediterraneo}
-\vskip.8cm
-
-\textsc{The Śivadharma Project}
-
-\vskip1cm
-
-\textit{Studies on the History of Śaivism}\\
-X??
-
-\vskip2cm
-
-
-\textit{Editor-in-Chief}\\
-Florinda De Simini
-\bigskip
-
-\textit{Editorial \&\ Scientific Board}\\
-Peter C. Bisschop (Universiteit Leiden), Dominic Goodall (École Française
-d’Extrême-Orient), Kengo Harimoto (Università di Napoli L’Orientale),
-Csaba Kiss (Università di Napoli L’Orientale), Krishnaswamy Nachimuthu
-(École Française d’Extrême-Orient), Annette Schmiedchen (Humboldt-Universität zu
-Berlin), Judit Törzsök (École Pratique des Hautes Études), Margherita Trento (Centre
-National de la Recherche Scientifique), Yuko Yokochi (Kyoto University)
-
-\vskip.6cm
-
-\includegraphics[scale=.3]{images/shivadharma_project_logo.jpg}
-\includegraphics[scale=.3]{images/eu.png}
-
-\end{center}
-\pagebreak
-
-
-
-
-
-
-
-
-
-\thispagestyle{empty}
-\ \vskip3cm
-
-\begin{center}
-\textsc{Università di Napoli L’Orientale\\
-Dipartimento Asia, Africa e Mediterraneo}
-\vskip.5cm
-
-\textsc{The Śivadharma Project}
-
-\vskip1cm
-
-\textit{Studies on the History of Śaivism}\\
-XX??
-
-\vskip2cm
-
-\textit{\large 
-	The Vṛṣasārasaṃgraha, a text of the Śivadharma corpus}\\
-\vskip.3em	
- 	A Critical Edition
-\vskip.3em	
-	Volume 1\\
-\vskip1cm
-
-{\footnotesize  Csaba Kiss}
-
-\vfill
-\includegraphics[scale=.2]{images/up.png}
-
-Napoli 20??
-\end{center}
-
-
-\pagebreak
-\thispagestyle{empty}
-\ \vskip12cm
-
-\begin{center}
-UniorPress
-
-{\footnotesize Nuova Marina, 59 - 80133, Napoli\\
-uniorpress@unior.it}
-\bigskip
-
-\includegraphics[scale=.3]{images/cc.png}
-
-This work is licensed under a Creative Commons\\
-Attribution 4.0 International License
-\bigskip
-
-ISBN 978-88-6719-???-?
-\medskip
-
-Typeset in EB Garamond by Csaba Kiss,\\
-using \XeLaTeX, Bib\TeX, ledmac, and Python
-
-\medskip
-
-Stampato in Italia
-
-Il presente volume è stato sottoposto al vaglio di due revisori anonimi
-
-
-\end{center}
-
-
-\pagebreak
-
-
-
-
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% THIS IS NOT USED ANY MORE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \hide{
-
 \thispagestyle{empty}
-
 \begin{center}
 {\Large Table of Contents}
 \end{center}
@@ -188,14 +56,15 @@ Translation of Vṛṣasārasaṃgraha 1--12  \dotfill \pageref{startoftranslati
 Appendices\dotfill \pageref{appendices}\\
 Bibliography \dotfill \pageref{bibliography}\\
 Index \dotfill \pageref{index}\\
-
-
-
 \vfill
 \pagebreak
 }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TABLE OF CONTENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \fancyhead[CO]{}
 \fancyhead[CE]{}
@@ -204,229 +73,27 @@ Index \dotfill \pageref{index}\\
 \fancyhead[LO]{}
 \fancyhead[LE]{}
 
-\renewcommand{\contentsname}{{\hfill {\normalfont\Large\englishfont Table of Contents}\hfill}}
+\renewcommand{\contentsname}{{\hfill
+        {\normalfont\Large\englishfont Table of Contents}\hfill}}
 \thispagestyle{empty}
 \tableofcontents
 \thispagestyle{empty}
 
 \vfill
 \pagebreak
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
-\hide{
-% TESTPAGE, comparing this to Śaiva Utopia p. 133
-
-\fancyhead[CO]{\textit{\footnotesize Introduction to the Commentary}}
-\fancyhead[CE]{\textit{\footnotesize Introduction to the Commentary}}
-
-\noindent
-of the text. In the following two cases, the \textit{pratiīka}s quoted by the
-commentary are found only in G$^Ki$: \textit{bhāñḍagūḍhakaṃ} (after 4d) and
-\textit{jñānapāragam} (83b).
-Furthermore, the following is a pratīka found
-only in G$^{\scriptscriptstyle Ki}$ and G$^{\scriptscriptstyle Lac}_{\scriptscriptstyle 40}$ : \textit{śāntilakṣaṇam} (99d).
-There is also an instance
-where the quoted \textit{pratīka} is shared by two South Indian manuscripts
-(G$^{\scriptscriptstyle Ki}$, M$^{\scriptscriptstyle Tr}_{\scriptscriptstyle 63}$)
-as well as one Nepalese manuscript (N$^{\scriptscriptstyle Ko}_{\scriptscriptstyle 77}$): \textit{ratau} (114d).
-
-In another case, the \textit{pratīka} is found in one South Indian manuscript
-(G$^{\scriptscriptstyle Ki}$) and three Nepalese sources
-(N$^{\scriptscriptstyle K}_{\scriptscriptstyle 82}$, N$^{\scriptscriptstyle P}_{\scriptscriptstyle 57}$, and E$^{\scriptscriptstyle N}$):
-\textit{nāryyo'pi} (72c).
-Furthermore, another \textit{pratīka} is found in two South Indian sources (G$^{\scriptscriptstyle Ki}$
-and P$^{\scriptscriptstyle T}_{\scriptscriptstyle 72}$)
-and in the Kashimiri manuscript (Ś$^{\scriptscriptstyle S}_{\scriptscriptstyle 67}$):
-\textit{mokṣaḥ satye pratiṣṭhitaḥ} (108d). The commentary furthermore provides two
-\textit{pratīka}s that are
-not found in any of the South Indian sources, but which occur in two
-Nepalese sources (N$^{\scriptscriptstyle K}_{\scriptscriptstyle 28}$
-and N$^{\scriptscriptstyle K}_{\scriptscriptstyle 12a}$): \textit{gūhate} (105b).
-Similarly, the following \textit{pratīka}
-only features in one Nepalese source (N$^{\scriptscriptstyle C}_{\scriptscriptstyle 45}$):
-\textit{śivakathābhaktaḥ}~(53a).
-
-\vspace{1em}
-\noindent
-3. \textit{Editorial Policies for the Commentary}
-
-\vspace{.3em}
-\noindent
-The critically edited text is presented as the running text. The apparatus
-is divided into two registers. On pages that display both registers, the
-upper register records testimonia and notes while the bottom register
-reports the variants found in the manuscript. Each entry begins with a
-line number in boldface (e.g. 21). Then follows the reading adopted
-in the main text, followed by a lemma sign (]) and the source of the
-adopted reading. A semicolon separates the adopted reading (to its
-left) from the variants (to its right). Any siglum that is followed by
-superscript ac indicates the reading of a source before correction
-(=\textit{ante correctionem}) and a siglum followed by superscript pc indicates
-the reading of a source after correction (=\textit{post correctionem}).
-
-The title of the commentary and everything supplied between
-double square brackets is from the editors. The verse numbers of
-the verses that are commented upon in the commentary are given
-between double square brackets; the beginning and end is also
-indicated by double square brackets. Similarly, line numbers of the
-manuscript are given in double square brackets. The pratīkas of the
-root text are marked in bold. Application of sandhi rules are silently
-standardised here. In general we follow the placement of the dañḍas
-by the manuscript, but we have occasionally placed them according
-to our own understanding as well.
-
-\vspace{1em}
-\noindent
-4. \textit{A Note on the Translation}
-
-\vspace{.3em}
-\noindent
-In order to make the commentary accessible to a broader readership,
-we have included a running English translation of it. In translating
 
 
-
-\vfill
-\pagebreak
-} % end of this hidden page
-
-
-\thispagestyle{empty}
-\parskip.1em\parindent1.5em
-\ \vskip3em
-
-\begin{center}
-{\Large 
-			Acknowledgements%
-}\end{center}
-\label{acknowledgements}
-\vskip1cm
-
-\noindent
-I am grateful to Alexis Sanderson, Dominic Goodall and 
-Harunaga Isaacson for initiating me into the philological 
-study of Śaivism, and to Florinda De Simini for
-encouraging me to apply for a position in her 
-\textsc{\hbox{śivadharma} project} (ERC no.\thinspace 803624),
-for sharing with me all the relevant manuscript material and
-in general leading the project in the most friendly and 
-generous way through difficult Covid-affected years.  
-While working on the \textsl{Vṛṣa\-sāra\-saṃgraha},
-I have also been affiliated with another ERC project, 
-the \textsc{dharma project} (ERC no.\thinspace 809994), 
-and I'm grateful to all my colleagues involved in that enterprise,
-including Arlo Griffith, Emmanuel Francis, Annette Schmiedchen, 
-Astrid Zotter, and Dániel Balogh.
-
-During my visit to the National Archives in Kathmandu, 
-the staff were helpful and professional. I wish to express my thanks to Jyoti Neupane, Manita Neupane, Saubhagya Pradhananga, Rubin Shrestha, Sahan Ranjitkar, and all %sribin7501@gmail.com
-other members. Sushmita Das made great efforts to acquire the manuscripts in Calcutta.
-
-My colleagues and friends working in Naples or visiting Naples for shorter periods have helped me on a daily basis, during our regular reading sessions and in every other possible way, and I am thankful to them: to Florinda De Simini, Nirajan Kafle, Kengo Harimoto, Giulia Buriola, Alessandro Battistini, Lucas den Boer, Torsten Gerloff, Kenji Takahashi, Francesco Sferra, Dorotea Operato, Daniela Cappello, Michael Bluett, Marco Franceschini, Martina Dello Buono, Chiara Livio, Margherita Trento, Nina Mirnig, Timothy Lubin, S.A.S. Sarma, R.\thinspace Sathyanarayanan, and others.
-% students in Naples?
-
-Colleagues I have known for countless years, such as Judit Törzsök, Dominic Goodall, Harunaga Isaacson, Csaba Dezső 
-and Gergely Hidas, are always the first
-to help my work and support me in every possible way.
-
-I am infinitely grateful to my family for always supporting me unwaveringly.
-
-\bigskip
-
-\noindent
-{\footnotesize
-The present publication is a result of the project \textsc{dharma} `The
-Domestication of ``Hindu'' Asceticism and the Religious Making of South and Southeast Asia'.  This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no.\thinspace 809994).  This book reflects the views of the author only.  The funding body is not responsible for any use that
-may be made of the information contained therein.}
-
-%CHECK what to add for the Śivadharma project?
-
-\vfill
-\pagebreak
-
-
-
-\mychapter{Preface}
-
-\section{Aims and problems}
-\frenchspacing
-
-\noindent
-What is this edition? It is not much more than
- a new copy, and carefully prepared new version
-of a text called \Vss, based on a number of witnesses,
-augmented with an analysis of the contents, with
-contextualisation, and with an English translation.
-As for the critical edition, while I went to great 
-lengths to understand the textual history behind 
-the manuscripts used, it is obviously a deeply contaminated 
-version of a text transmitted through contaminated witnesses.
-Nevertheless, it is hopefully a version that is as 
-close to the authors' and redactors' original intention
-around the time they assembled these chapters together, 
-approximately in the seventh to tenth centuries, as possible. 
-Of course we do not know if there was a single moment
-when the intention to compose a new text on Dharma
-under the title \Vss\ was born or if there was one single
-`original copy',%
-		\footnote{This reminds one of James McLaverty's
-                  question (as quoted in
-   				  \mycitep{McGannTextualCondition}{??}):
-                 ``If the Mona Lisa is in the Louvre in Paris, where is Hamlet?''}
-but it is hopefully the most meaningful and most readable
-among all available copies. Still, the present book is just a
-version of a text that surely has never existed exactly 
-in this very form, inevitably showing
-signs of being an eclectic edition. 
-Furthermore, it may show unintentional 
-characteristics of the 21th century 
-(ones that go beyond the modern Devanāgarī typeface
-or occasional choices based on our modern understandings and
-misunderstandings) 
-mixed with characteristics of the first millenium. 
-We know that `[a]ll editing is an act of interpretation.'% 		
-		\footnote{\mycitep{McGannTextualCondition}{??}.}
-		\todo{Find a hard copy of McGann's Textual Condition.}
-And many of the editorial decisions I made were based
-on opinions expressed by colleagues during our
-regular reading sessions. Thus this edition is a result
-of the interpretative efforts of a group of scholars, and
-this may sometimes, but hopefully rarely, have caused contradictions.
-
-And as to complicate things, we are publishing this long text
-in two volumes, and the second volume is still in the making
-when the first comes out. This may produce various problems:
-of interpretation, of internal references, of repetition, 
-and most importantly of presenting a text of
-embedded and recurring layers cut in half. To counteract
-some of these problems, I had finished editing and 
-studying some of the most significant passages in 
-the second part of the text by the time I let the first one
-out of my hands; some of these the reader can find in 
-the Appendices. A further minor problem arises when
-I discuss topics that I have already touched upon in
-\mycite{KissVolume2021}: some overlaps are inevitable.
-
-And what is the purpose of this edition? The main 
-objective of the \textsc{śiva\-dharma project} 
-has been to understand better the function of 
-individual texts within the so-called Śivadharma corpus,
-and thus the \emph{raison d'être} of the corpus itself. 
-My attempt is rather simplistic: it is to understand
-what the \Vss\ tried to convey when when it was composed and
-to try to see why this text got inserted in those multi-text 
-manuscripts that usually transmit the so-called Śivadharma corpus.
-But even without this ideal to fully understand the purpose
-and function of the \Vss, to make a pre-eleventh-century
-Sanskrit text easily available in the twenty-first century is,
-I believe, a noble aspiration.
-
-\vfill
-\pagebreak
-
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACKNOWLEDGEMENTS and PREFACE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{vss_acknowledgements.tex}
+\input{preface.tex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{testpage.tex}
 
 
 
@@ -434,13 +101,8 @@ I believe, a noble aspiration.
 
 \mychapter{Introduction}
 
-
 \thispagestyle{empty}
 \frenchspacing
-
-
-
-
 
 \section{The Śivadharma corpus}
 \fancyhead[CE]{{\footnotesize \textit{Vṛṣasārasaṃgraha}}}
@@ -1138,6 +800,7 @@ Niśvāsakārikā
 
 \subsection{Pāśupatas in the \VSS}
 
+\subsection{Buddhism in the \VSS}
 
 \vfill
 \pagebreak
