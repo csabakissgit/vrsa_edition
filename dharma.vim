@@ -170,7 +170,7 @@ set shortmess=aoO
 argglobal
 %argdel
 $argadd vrsasarasamgraha.xml
-edit vssbook/naples_xelatex_version/vss_book_xelatex.tex
+edit vrsasarasamgraha.xml
 set splitbelow splitright
 set nosplitbelow
 set nosplitright
@@ -227,7 +227,7 @@ let &cpo=s:cpo_save
 unlet s:cpo_save
 setlocal keymap=sanskrit
 setlocal noarabic
-setlocal autoindent
+setlocal noautoindent
 setlocal backupcopy=
 setlocal balloonexpr=
 setlocal nobinary
@@ -241,8 +241,8 @@ setlocal cinkeys=0{,0},0),0],:,0#,!^F,o,O,e
 setlocal cinoptions=
 setlocal cinwords=if,else,while,do,for,switch
 setlocal colorcolumn=
-setlocal comments=sO:%\ -,mO:%\ \ ,eO:%%,:%
-setlocal commentstring=%%s
+setlocal comments=s:<!--,e:-->
+setlocal commentstring=<!--%s-->
 setlocal complete=.,w,b,u,t,i
 setlocal concealcursor=
 setlocal conceallevel=0
@@ -253,14 +253,14 @@ setlocal nocursorbind
 setlocal nocursorcolumn
 setlocal nocursorline
 setlocal cursorlineopt=both
-setlocal define=\\\\\\([egx]\\|char\\|mathchar\\|count\\|dimen\\|muskip\\|skip\\|toks\\)\\=def\\|\\\\font\\|\\\\\\(future\\)\\=let\\|\\\\new\\(count\\|dimen\\|skip\\|muskip\\|box\\|toks\\|read\\|write\\|fam\\|insert\\)\\|\\\\\\(re\\)\\=new\\(boolean\\|command\\|counter\\|environment\\|font\\|if\\|length\\|savebox\\|theorem\\(style\\)\\=\\)\\s*\\*\\=\\s*{\\=\\|DeclareMathOperator\\s*{\\=\\s*
+setlocal define=
 setlocal dictionary=
 setlocal nodiff
 setlocal equalprg=
 setlocal errorformat=
 setlocal expandtab
-if &filetype != 'tex'
-setlocal filetype=tex
+if &filetype != 'xml'
+setlocal filetype=xml
 endif
 setlocal fixendofline
 setlocal foldcolumn=0
@@ -274,17 +274,17 @@ setlocal foldmethod=manual
 setlocal foldminlines=1
 setlocal foldnestmax=20
 setlocal foldtext=foldtext()
-setlocal formatexpr=
-setlocal formatoptions=tcq
+setlocal formatexpr=xmlformat#Format()
+setlocal formatoptions=croql
 setlocal formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*
 setlocal formatprg=
 setlocal grepprg=
 setlocal iminsert=1
 setlocal imsearch=-1
-setlocal include=\\\\input\\|\\\\include{
-setlocal includeexpr=substitute(v:fname,\ '^.\\{-}{\\|}.*',\ '',\ 'g')
-setlocal indentexpr=GetTeXIndent()
-setlocal indentkeys=0{,0},0),0],:,0#,!^F,o,O,e,[,(,{,),},],&,=\\bibitem,=\\item
+setlocal include=
+setlocal includeexpr=
+setlocal indentexpr=
+setlocal indentkeys=o,O,*<Return>,<>>,<<>,/,{,},!^F
 setlocal noinfercase
 setlocal iskeyword=@,48-57,_,192-255
 setlocal keywordprg=
@@ -300,7 +300,7 @@ setlocal modifiable
 setlocal nrformats=bin,octal,hex
 setlocal nonumber
 setlocal numberwidth=4
-setlocal omnifunc=
+setlocal omnifunc=xmlcomplete#CompleteTags
 setlocal path=
 setlocal nopreserveindent
 setlocal nopreviewwindow
@@ -323,11 +323,11 @@ setlocal spellcapcheck=[.?!]\\_[\\])'\"\	\ ]\\+
 setlocal spellfile=
 setlocal spelllang=en
 setlocal statusline=
-setlocal suffixesadd=.tex
+setlocal suffixesadd=
 setlocal swapfile
 setlocal synmaxcol=3000
-if &syntax != 'tex'
-setlocal syntax=tex
+if &syntax != 'xml'
+setlocal syntax=xml
 endif
 setlocal tabstop=8
 setlocal tagcase=
@@ -348,16 +348,16 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 15) / 31)
+let s:l = 12253 - ((18 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-1
-normal! 0
+12253
+normal! 0108|
 lcd ~/indology/dharma_project/vrsa_edition
 tabnext 1
-badd +11289 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
-badd +0 ~/indology/dharma_project/vrsa_edition/vssbook/naples_xelatex_version/vss_book_xelatex.tex
+badd +1 ~/indology/dharma_project/vrsa_edition/vssbook/naples_xelatex_version/vss_book_xelatex.tex
+badd +1 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
