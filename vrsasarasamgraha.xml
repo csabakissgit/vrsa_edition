@@ -12106,7 +12106,7 @@ paśyati |
         <NOTE>ŁPāda$ d implies that Vipula is a Śaiva devotee, but there is little indication 
               in this story of Vipula's affiliation, except for 11.44, where Maheśvara is mentioned.
               The story as we have it here ends with a praise of Brahmā.</NOTE>
-        <!-- <TR>He was friendly to Brahmins, he was grateful, and he was my determined devotee.</TR> -->
+        <!-- <TR>He was pious and grateful, and he was my determined devotee.</TR> -->
 % CHECK \msCb °jña DONE, yes ca is missing
 
 <TEXT> dhanāḍhyo 'tithipūjyaś{ }ca dātā dānto dayālukaḥ|</TEXT>
@@ -12802,9 +12802,9 @@ prabhāvena \msNa\msNb\msNc CHECK other MSS
         <APP>\vc <LEM>kheṭa°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; kṣetra° \msCc\oo
                  <LEM>°kharvaṭa°</LEM> \Ed; °karpaṭa° \mssCaCbCc\msNa\msNb\msNc</APP>
         <APP>\vd <LEM>kaṃcana</LEM> \eme; kaścana \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
-        <NOTE>In Łpāda$ c, I accepted \Ed's reading (°Łkharvaṭa$°, `a mountain village') against all witnesses consulted. 
-              The MSS transmit a reading that is difficult to make sense of (°Łkharpaṭa$, `ragged garment').
-                
+        <NOTE>In Łpāda$ c, I accepted \Ed's reading (°Łkharvaṭa$°, `a mountain village')
+              against all witnesses consulted.  The MSS transmit a reading that is 
+              difficult to make sense of (°Łkharpaṭa$, `ragged garment').
               In Łpāda$ d, the reading of all the witnesses, Łkaścana$, seems to be
               an early scribal mistake for Łkañcana$. But note that the same happens at 12.55d.</NOTE> 
         <!-- <TR>towns, mountain settlements. I don't know anybody here.</TR> -->
@@ -12837,14 +12837,13 @@ prabhāvena \msNa\msNb\msNc CHECK other MSS
         <APP>\vc <LEM>°cchāyāṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; °cchāyā \msNc</APP>
         <!-- <TR>He caught sight of the shades of a tree, and, being exhausted, sat down [there].</TR> -->
 
-The whole journey to Brahmā can be his dream
 
 <TEXT> etasminn{ }eva kāle tu vṛkṣaśākhāvatārya ca|</TEXT>
         <APP>\va <LEM>etasminn{ }eva</LEM> \msCa\msCb\msNa\msNb\Ed; etasmiṃn{ }aiva \msCc, etasminn{ }aiva \msNc\oo
                  <LEM>kāle tu</LEM> \msCa\msCb\msNa\msNb; kālena \msCc\Ed, kālenu \msNc</APP>
         <APP>\vb <LEM>vṛkṣa°</LEM> \mssCaCbCc\msNb\msNcpcorr\Ed; vṛkṣā° \msNa\msNcacorr</APP>
-        <NOTE>From this point on, the story might be interpreted as a dream. 
-              Note the stem form noun °Łśākhā$ in Łpāda$ b. Understand °Łśākhād avatārya$.</NOTE>
+        <NOTE>Note the stem form noun °Łśākhā$ in Łpāda$ b. Understand °Łśākhād avatārya$.
+              From this point on, the story might be interpreted as a dream.</NOTE>
         <!-- <TR>In the same moment, descending from among the branches of the tree,</TR> -->
 
 %index_grammar: stem form with verb metri causa
@@ -12852,100 +12851,112 @@ The whole journey to Brahmā can be his dream
 %index_stemma: \msCc and \Ed
 %index_stemma: \msCc and \msNc ?
 
-% EDDIG
-
 % sugandhatvam here = sugandham
 <TEXT> apūrvaṃ ca surūpaṃ ca sugandhatvaṃ ca śobhanam||</TEXT> 12:52
         <APP>\vc <LEM>surūpaṃ</LEM> \msCa\msCc\msNb\msNc\Ed; svarūpaṃ \msCb\msNa</APP>
-        <!-- <TR>[a monkey appeared and] carrying an extraordinary, beautiful, fragrant, excellent,</TR> -->
+        <!-- <TR>[a monkey appeared and] carrying an extraordinary, beautiful, fragrant, exquisite,</TR> -->
 %index_stemma: \msCb and \msNa?
 
 <TEXT> phalaṃ gṛhya vicitraṃ ca hṛdayānandanaṃ śubham|</TEXT>
         <!-- <TR>lovely, delightful and pleasant-looking fruit,</TR> -->
+
 % \msNc\ has śivāya namaḥ here in the left margin
 
 <TEXT> vipulasyāgrataḥ kṛtvā punar{ }vṛkṣaṃ samāruhat||</TEXT> 12:53
         <APP>\vd <LEM>punar{ }vṛkṣaṃ samāruhat</LEM> \msCa\msCb\msNa\msNc\Ed; puna vṛkṣa samāruham \msCc, 
                                                                        punar{ }vṛkṣa samāruhaṃ \msNb</APP>
-        <!-- <TR>it put it in front of Vipula and then returned to the tree.</TR> -->
         <NOTE>Note how the agent of this sentence is omitted here. That it was a monkey
-              that gave Vipula the fruit becomes clear in 12.94.</NOTE>
+              that gave Vipula the fruit becomes clear in 12.94 below.</NOTE>
+        <!-- <TR>it put it in front of Vipula, and then climbed back onto the tree.</TR> -->
 
 %folioinfo \msCa\ 419.jpg
 <TEXT> vipulaś{ }citravad{ }dṛṣṭvā vismayaṃ paramaṃ gataḥ|</TEXT>
         <APP>\va <LEM>°travad{ }dṛṣṭvā</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °trava dṛṣṭvā \msCc</APP>
-        <!-- <TR>Vipula, seeing this wonder, was perplexed.</TR> -->
+% To explain the adverb Łcitravat$ in Łpāda$ a grammatically, 
+% one could cite Śaṅkara on \BHG\ 2.29, explaining Łāścaryavat$: Łāścaryavat āścaryam iva$.
+        <!-- <TR>Vipula, looking [at it] as if seeing a miracle, was perplexed.</TR> -->
 
 <TEXT> aho vā svapnabhūto 'smi aho vā tapasaḥ phalam||</TEXT> 12:54
         <APP>\vcd <LEM>°bhūto 'smi aho</LEM> \mssCaCbCc\msNb\msNc\Ed; °saṃbhūto <UNCL>smy{ }a</UNCL>ho \msNa</APP>
-        <!-- <TR>Am I sleeping or is this the fruit of my penance?</TR> -->
+        <NOTE>See notes on 12.52 above on how most of the story could be interpreted as a 
+              dream.</NOTE>
+        <!-- <TR>Wow, am I sleeping? Or is this the fruit of my penance?</TR> -->
 
 <TEXT> na paśyāmi na jighrāmi na ca svādaṃ ca vedmy{ }aham|</TEXT>
         <APP>\va <LEM>jighrāmi</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; ca ghrāmi \msCb</APP>
+        <NOTE>Note the use of the (non-historical) present tense
+              in Łpāda$s ab clearly pointing to past events.</NOTE>
         <!-- <TR>I have never seen, smelt, tasted anything like this.</TR> -->
 
 %folioinfo \msCb\ 435.jpg
 <TEXT> vārttāpi na ca me śrotā pratijānāmi kaṃcana||</TEXT> 12:55
         <APP>\vc <LEM>śrotā</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; śrotrā \msCa</APP>
         <APP>\vd <LEM>kaṃcana</LEM> \eme; kaścana \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
-        <!-- <TR>I have not even heard of anything like this. I shall let somebody know about it.</TR> -->
-        <NOTE>I suspect that Łśrotā$ in pāda c is meant to be feminine participle Łśrutā$, but
+        <NOTE>I suspect that Łśrotā$ in Łpāda$ c is meant to be feminine participle Łśrutā$, but
               the metre required the first vowel to be lengthened; understand Łme$ as Łmayā$.
-              In pāda d, the reading of all the witnesses, Łkaścana$, seems to be
-              an early scribal mistake for Łkañcana$. But note that the same happens at
-                12.49d.</NOTE> 
+              In Łpāda$ d, the reading of all the witnesses, Łkaścana$, seems to be
+              an early scribal mistake for Łkañcana$. Note that the same happens at 12.49d.</NOTE> 
+        <!-- <TR>I have not even heard of anything like this. I shall let somebody know about it.</TR> -->
+
 %index_grammar: kaścana for kaṃcana
 %index_grammar: lengthening metri causa (śrotā)
 
-%folioinfo \msCb\ 435.jpg
-% number!
 <TEXT> evam{ }uktvā hy{ }anekāni phalaṃ gṛhya manoramam|</TEXT>
         <APP>\va <LEM>°m{ }uktvā</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °m{ }uktā \msCc</APP>
         <APP>\vb <LEM>gṛhya</LEM> \mssCaCbCc\msNa\msNb\Ed; gṛha \msNc</APP>
-        <NOTE>Since one of the main points in the story is that there was only one single
-              fruit, we have to interpret Łanekāni$ in Łpāda$ a as a shortened form 
-              of Łanekavāram$ (`repeatedly').</NOTE>
+        <NOTE>Since one of the main points, and a source of conflict, in the story is 
+              that there was only one single fruit, we have to interpret Łanekāni$ in 
+              Łpāda$ a as a shortened form of Łanekavāram$ (`repeatedly').</NOTE>
         <!-- <TR>Having repeated this several times, taking that nice fruit,</TR> -->
  
-<TEXT> sunirīkṣya punar{ }jighraṃ punar{ }jighraṃ nirīkṣya ca||</TEXT> 12:56
+<TEXT> sunirīkṣya punar{ }jighran punar{ }jighran{ }nirīkṣya ca||</TEXT> 12:56
         <APP>\vc <LEM>°nirīkṣya</LEM> \mssCaCbCc\msNa\msNb\Ed; °nirīkṣa \msNc</APP>
-        <APP>\vcd <LEM>punar{ }jighraṃ punar{ }jighraṃ</LEM> \msCa\msCb\msNa\Ed; muna jighraṃ puna jighraṃ \msCc,
-                                               punar{ }jighra punar{ }jighraṃ \msNb, punar{ }jighra punar{ }jighra \msNc</APP>
+        <APP>\vcd <LEM>punar{ }jighran{ }punar{ }jighran</LEM> \msCa\msCb\msNa\Ed; muna jighraṃ puna jighraṃ \msCc,
+                                      punar{ }jighra punar{ }jighraṃ \msNb, punar{ }jighra punar{ }jighra \msNc</APP>
         <APP>\vd <LEM>nirīkṣya</LEM> \mssCaCbCc\msNa\msNb\Ed; nirīkṣa \msNc</APP>
-        <!-- <TR>he kept observing its smell again and again.</TR> -->
+        <NOTE>Most sources consulted read Łjighra$ or Łjighraṃ$ in both Łpāda$ c and d, i.e. most of them do not
+              suggest the participle Łjighran$, which seems to be the correct reading. I have altered this
+              part of the text silently.</NOTE>
+        <!-- <TR>he kept observing it smelling it again and again.</TR> -->
 
 %folioinfo \msNb\ 59.jpg upper
 <TEXT> phalaṃ cātra nirūpyanto deśaṃ vāpy{ }avalokayan|</TEXT>
         <APP>\va <LEM>cātra</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; cā \msCaacorr, cā<UNCL>tra</UNCL> \msCapcorr\oo
                  <LEM>nirūpyanto</LEM> \Ed; nirūpyānti \msCa, nirūpyāṃ cā \msCb, nirūpyanti \msCc\msNa\msNb\msNc</APP>
         <APP>\vb <LEM>°lokayan</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °lokayat \msCb</APP>
-        <!-- <TR>``Examining the fruit, ... seeing this country, </TR> -->
+        <NOTE>Understand Łnirūpyanto$ in Łpāda$ a as a thematised present participle 
+              in the nominative (Łnirūpayan$). This is also suggested by the standard Łavalokayan$
+              in Łpāda$ b.</NOTE>
+        <!-- <TR>`While gazing at this fruit, and observing the countryside,</TR> -->
+
+%index_grammar: thematised present participle
 
 <TEXT> pātheyarahitaś{ }cāsmi devadattaṃ phalaṃ mama||</TEXT> 12:57
         <APP>\vc <LEM>pātheya°</LEM> \mssCaCbCc\msNa\msNc\Ed; patheya° \msNb\oo
                  <LEM>°rahitaś{ }cā°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °rahite cā° \msCc</APP>
         <APP>\vd <LEM>°dattaṃ</LEM> \msCa\msNa\msNc; °datta° \msCb\msCc\msNb\Ed\oo
                  <LEM>phalaṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; \om\ \msNc</APP>
-        <!-- <TR>I have run out of provision, and this fruit must have been sent to me by a god.</TR> -->
+        <!-- <TR>I have run out of provisions. This fruit is godsent.</TR> -->
 
 <TEXT> tat{ }phalaṃ pratigṛhyaiva nagaraṃ praviśāmy{ }aham|</TEXT>
         <APP>\va <LEM>°gṛhyaiva</LEM> \msCb\msNb\Ed; °gṛhyeva \msCa\msNc, gṛhe ca \msCc, °gṛhyaivaṃ \msNa</APP>
-        <!-- <TR>Therefore, I shall take this fruit and go to that city,</TR> -->
+        <!-- <TR>Therefore I shall take this fruit and enter that city,</TR> -->
 
 <TEXT> prārthayitvā tu yat{ }kiṃcij{ }jīvanārthaṃ carāmy{ }aham||</TEXT> 12:58  
         <APP>\vc <LEM>tu</LEM> \mssCaCbCc\msNa\msNb\msNc; ca \Ed</APP>
         <APP>\vcd <LEM>yat{ }kiṃcij{ }jī°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; yat{ }kiṃji jī° \msCc</APP>
-        <!-- <TR>and I shall go and seek something to live on.</TR> -->
+        <!-- <TR>and I shall go and seek something to live on.'</TR> -->
 %  \msCa\ yaṅ?
 
 %folioinfo \msNa\ image 213.jpg upper, f. 19v
 <TEXT> tataḥ śailam{ }atikramya nagaraṃ praviveśa ha|</TEXT>
-        <!-- <TR>Then leaving that mountain behind, he entered the city.</TR> -->
+        <!-- <TR>Then crossing that mountain, he entered the city.</TR> -->
 
 %folioinfo \msCc\ 223.jpg f. 290r
 <TEXT> pathi kaścij{ }janaḥ pṛṣṭhaḥ kiṃnāma nagaraṃ tv{ }idam||</TEXT> 12:59
-        <APP>\vd <LEM>nagaraṃ tv{ }idam</LEM> \msCa\msNa\msNc\Ed; nagara tv{ }idam \msCb\msCc, nagaraṃ tv{ }iha \msNb</APP>
-        <!-- <TR>He asked a man on the road what the name of this city was.</TR> -->
+        <APP>\vd <LEM>nagaraṃ tv{ }idam</LEM> \msCa\msNa\msNc\Ed; 
+                                        nagara tv{ }idam \msCb\msCc, nagaraṃ tv{ }iha \msNb</APP>
+        <!-- <TR>He asked a man on the road: `What is the name of this city?'.</TR> -->
 % \msNc the ṃ is difficult to see but it's there; source of \msCb\msCc?
 
 %folioinfo \msM\ 429.jpg upper, f. 20v
@@ -12953,25 +12964,33 @@ The whole journey to Brahmā can be his dream
         <APP>\va <LEM>sa ho°</LEM> \msCa\msCc\msNa\msNc\Ed; aho° \msCb\msNb\oo
                  <LEM>pathīkena</LEM> \mssCaCbCc\msNa\msNb\Ed; pathīko na \msNc</APP>
         <APP>\vb <LEM>°gataḥ</LEM> \mssCaCbCc\msNa\msNc\Ed; °tavaḥ \msNb</APP>
-        <!-- <TR>That traveller replied: ``Have you never been here?</TR> -->
         <NOTE>I understand Łpathīkena$ as standing for Łpathikena$ metri causa (see 12.64b) and not
               as two words, Łpathī kena$. This means that we are forced to accept an instrumental as the agent 
-              of the finite verb Łuvāca$. I suspect that \msNc's reading (Łpathīko$) 
-              is an attempt to correct the syntax, but in this way Łapūrvam$ becomes 
-              problematic. With Łpūrvam$ tha sentence may mean: `The traveller replied:
-                ``Have you not come here before?'' '</NOTE>
+              of the finite verb Łuvāca$. I suspect that \msNc's reading (Łpathīko na$) 
+              is an attempt to correct the syntax, but in this way Łna... apūrvam$ becomes 
+              problematic.</NOTE>
+        <!-- <TR>The traveller replied: `Have you never been here before?</TR> -->
+
+%index_grammar: agent - verb discord
+%index_grammar: lengthening metri causa (pathīkena)
 
 <TEXT> dakṣiṇāpathadeśo 'yaṃ naravīrapuraṃ tv{ }adaḥ||</TEXT> 12:60
         <APP>\vc <LEM>°patha°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °pathe \msCb</APP>
         <APP>\vd <LEM>°puraṃ tv{ }adaḥ</LEM> \msCb; °puraṃ tv{ }ayaḥ \msCa, °puraṃ tv{ }ayaṃ \msCc\msNa\msNb, 
                                                 purandaraḥ \msNc, °puraṃ svayam \Ed</APP>
-        <!-- <TR>This is the Deccan region, and this is the city of Naravīra.</TR> -->
         <NOTE>Łayam$ as the end of this verse may have been the original reading and
                 \msCb\ may have corrected it to Ładaḥ$. Another possibility is that
                 an original Ładaḥ$ is preserved in \msCb, and it got corrupted to
                 Łayaḥ$ (\msCa), and then to Łayaṃ$ (\msCc\msNa). 
-                In any case, I have chosen the reading Ładaḥ$
-                because it works better; it can be viewed as my editorial correction.</NOTE>
+                In any case, in this case I have chosen the not-so-well attested reading Ładaḥ$ 
+                simply because it works better. Another possibility would be to echo 12.59d and
+                correct to Łidam$.
+
+                Since I am not aware of any attestation of Naravīrapura as a city,
+                I suspect that this name is either a mistake for or a pun on
+                Karavīrapura, possibly modern Kolhapur in Maharashtra. See more in Intro\verify.</NOTE>
+        <!-- <TR>This is the Deccan region, and this is the city of Naravīra.</TR> -->
+
 %index_geo: dakṣiṇāpathadeśa (Deccan)
 %index_geo: Naravīrapura (maybe Karavīrapura?)
 purana/padma-puranam/06/106.txt:    11: āsīt sahyādriviṣaye karavīrapure purā
@@ -12982,6 +13001,7 @@ purana/padma-puranam/06/106.txt-    12- brāhmaṇo dharmavit kaścid dharmadatt
                  <LEM>°jaṭo</LEM> \mssCaCbCc\msNa\msNb\msNc; °yato \Ed</APP>
         <APP>\vb <LEM>kekayī</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; kaikayī \msCa</APP>
         <!-- <TR>The king is called Siṃhajaṭa, his queen is Kekayī.</TR> -->
+
 %index_persons: Siṃhajaṭa (a king)
 %index_persons: Kekayī (a queen)
 %index_stemma: \msNc is falling apart in this and the previous verses
@@ -12989,17 +13009,22 @@ purana/padma-puranam/06/106.txt-    12- brāhmaṇo dharmavit kaścid dharmadatt
 <TEXT> ativṛddho jarāgrastaḥ kekayī ca tathaiva ca||</TEXT> 12:61
         <APP>\vd <LEM>kekayī</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; kaikayī \msCa\oo
                  <LEM>tathaiva ca</LEM> \mssCaCbCc\msNa\msNb\Ed; tathaiva ra \msNc</APP>
-        <!-- <TR>The king is very old, afflicted by old age. The queen likewise.</TR> -->
+        <!-- <TR>The king is very old, afflicted by old age, the queen likewise.</TR> -->
+
 
 <TEXT> dātā sarvakalājñaś{ }ca yuddhe vīryabalānvitaḥ|</TEXT>
         <APP>\va <LEM>dātā</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; ×tā \msCa\oo
                  <LEM>°kalā°</LEM> \Ed; °kala° \mssCaCbCc\msNa\msNb\msNc</APP>
         <APP>\vb <LEM>yuddhe</LEM> \mssCaCbCc\msNa\msNc\Ed; yuddho \msNb</APP>
-        <!-- <TR>He is generous and he is an expert in the arts and he possesses
-                the power of heroism in battle.</TR> -->
+        <NOTE>Oddly, I had to accept \Ed's reading in Łpāda$ a (°Łkalā$ as opposed to °Łkala$) because it is the
+              only one that makes sense. A faint possibility would be correcting the
+              text to Łsarvakālajñaś$ (`knowing all the times'), but that sounds out of context,
+              being usually the epithet of gods and Buddhas.</NOTE>
+        <!-- <TR>He is generous, an expert in all the arts, and he possesses
+                the virtue of heroism in battle.</TR> -->
 
 <TEXT> brahmaṇyo vatsalo loke sarvaśāstraviśāradaḥ||</TEXT> 12:62
-        <!-- <TR>He is pious and devoted to his subjects and he is well-versed in the Śāstras.''</TR> -->
+        <!-- <TR>He is pious and devoted to his subjects, and he is well-versed in the Śāstras.'</TR> -->
 
 %folioinfo \Ed\ p.622
 <TEXT> vipula uvāca|*</TEXT>
@@ -13010,164 +13035,187 @@ purana/padma-puranam/06/106.txt-    12- brāhmaṇo dharmavit kaścid dharmadatt
         <APP>\va <LEM>°pāsyāmi</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °pasyāmi \msCc</APP>
         <APP>\vb <LEM>nāma</LEM> \msCa\msCb\msNc; nāmaṃ \msCc\msNa\msNb\Ed\oo
                  <LEM>vada</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; vadaḥ \msCb</APP>
-        <!-- <TR>``As a matter of fact, I am seeking audience with the foreman of 
-                the guild (Łśreṣṭhi/śreṣṭhin$). What is his name? Tell me.</TR> -->
-        <NOTE>Note the form Łśreṣṭhiṃ$ from the stem Łśreṣṭhi$ instead of Łśreṣṭhin$ (thematisation).</NOTE>
-%index_stemma: \msCc and \Ed
-%index_voc: śreṣṭhi for śreṣṭhin (thematisation)
+        <NOTE>Note the thematised stem Łśreṣṭhi$ from Łśreṣṭhin$ in Łpāda$ a.</NOTE>
+        <!-- <TR>`As a matter of fact, I am seeking audience with the foreman of 
+                the guild (Łśreṣṭhi$). What is his name? Tell me.</TR> -->
 
-%index_unmetrical or with licence ra-vipulā
-<TEXT> katamo deśas{ }tadvāsaḥ kathayasva na saṃśayaḥ||</TEXT> 12:63
-        <APP>\vc <LEM>deśas{ }ta°</LEM> \msCa\msCb\msNa\msNc\Ed; deśa ta° \msCc\msNb</APP>
+%index_stemma: \msCc and \Ed
+%index_voc: thematisation (śreṣṭhi for śreṣṭhin) -in
+
+<TEXT> katamo deśa tadvāsaḥ kathayasva na saṃśayaḥ||</TEXT> 12:63
+        <APP>\vc <LEM>deśa ta°</LEM> \msCc\msNb; deśas{ }ta° \msCa\msCb\msNa\msNc\Ed\ \unmetr</APP>
         <APP>\vd <LEM>kathayasva</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; kathayasya \msCb</APP>
-        <!-- <TR>In which district is his dwelling? Tell me without any hesitation.''</TR> -->
+        <NOTE>I have chosen a variant containing a stem form in Łpāda$ c (Łdeśa$) for metrical
+              reasons. One may even read Łkatamoddeśa$ in a similar sense, or as containing
+              Łuddeśa$ (for Łuddiśa$) as an imperative: `Where is his house, give me directions!'</NOTE>
+        <!-- <TR>In which district is his dwelling? Tell me without any hesitation.'</TR> -->
+
+%index_grammar: stem form metri causa
 
 <TEXT> vipulenaivam{ }uktas{ }tu pathikovāca taṃ punaḥ|</TEXT>
         <APP>\va <LEM>vipulenaiva°</LEM> \mssCaCbCc\msNa\msNb\Ed; vipuleneva° \msNc</APP>
-        <!-- <TR>Having been addressed by Vipula thus, the traveller spoke to him again:</TR> -->
-        <NOTE>Note the stem form Łpathika$ in Łpathikovāca$ in pāda b. Alternatively,
-              it is an instance of double sandhi (Łpathika uvāca$ - Łpathikovāca$)</NOTE>
+        <NOTE>Note the stem form Łpathika$ in Łpathikovāca$ in Łpāda$ b. Alternatively,
+              it is an instance of double sandhi (Łpathika uvāca$ \rightarrow\ Łpathikovāca$).</NOTE>
+        <!-- <TR>Having been addressed by Vipula thus, the traveller replied:</TR> -->
+
 % index_grammar: stem form/double sandhi
 
 <TEXT> mama bhīmabalo nāma śreṣṭhikasya gṛhāgataḥ||</TEXT> 12:64
         <APP>\vc <LEM>mama bhīmabalo nāma</LEM> \msCb\msCc\msNa\msNb\msNc; mama bhī×balo nāma \msCa, \om\ \Ed</APP>
-        <APP>\vd <LEM>śreṣṭhikasya gṛhāgataḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; śreṣṭhikasya gṛhāgataḥ|| pathiko 'ham{ }idāniñ{ }ca|
+        <APP>\vd <LEM>śreṣṭhikasya gṛhāgataḥ</LEM> \mssCaCbCc\msNa\msNb\msNc;
+                        śreṣṭhikasya gṛhāgataḥ|| pathiko 'ham{ }idāniñ{ }ca|
                         ko bhavān tasya viṣaye kiṃ vā jñātuṃ cikīrṣasi|| \Ed</APP>
-        <!-- <TR>``My name is Bhīmabala and I have come to visit the house of the foreman of the guild.</TR> -->
+        <!-- <TR>`My name is Bhīmabala and I have come to visit the house of the foreman of the guild.</TR> -->
+
 %index_persons: Bhīmabala (a traveller)
 
 <TEXT> śreṣṭhikaḥ puṇḍako nāma khyātaḥ śreṣṭhika ucyate|</TEXT>
         <!-- <TR>The foreman of the guild is called Puṇḍaka and he is said to be a famous foreman.</TR> -->
+
 %index_persons: Puṇḍaka (the Śreṣṭhin)
 
 %folioinfo \msNc\ 230.jpg upper, f. 227v
 <TEXT> kautukaṃ tava yady{ }asti tad{ }āgaccha mayā saha||</TEXT> 12:65
-        <!-- <TR>If you are eager [to see him], come with me.''</TR> -->
+        <!-- <TR>If you are eager [to see him], come with me.'</TR> -->
 
 <TEXT> evam{ }astv{ }iti tenokto vipulena mahātmanā|</TEXT>
         <APP>\va <LEM>°stv{ }iti</LEM> \msCa\msNa\msNb\msNc\Ed; °stiti \msCb\msCc\oo
                  <LEM>tenokto</LEM> \mssCaCbCc\msNa\msNb; tonokto \msNc, tenoktau \Ed</APP>
         <APP>\vb <LEM>°tmanā</LEM> \mssCaCbCc\msNa\msNb\Ed; °tmanāḥ \msNc</APP>
-        <!-- <TR>``Alright, let it be.'' Great-souled Vipula spoke thus to him,</TR> -->
+        <!-- <TR>`Alright, let it be,' replied to him great-souled Vipula,</TR> -->
 
 <TEXT> tenaiva saha niryātaḥ śreṣṭhikasya gṛhaṃ prati||</TEXT> 12:66
         <APP>\vc <LEM>tenaiva</LEM> \mssCaCbCc\msNa\msNb\Ed; teneva \msNc</APP>
         <APP>\vd <LEM>prati</LEM> \msCa\msCb\msNa\msNb\msNc; pratiḥ \msCc\Ed</APP>
-        <!-- <TR>and he set off to visit the foreman's house together with Vipula.</TR> -->
+        <!-- <TR>and they set off to visit the foreman's house together.</TR> -->
 
 <TEXT> śreṣṭhikaḥ svagṛhāsīno dṛṣṭaḥ sa vipulena tu|</TEXT>
         <APP>\va <LEM>śreṣṭhikaḥ</LEM> \msCb\msCc\msNb\msNc\Ed; śreṣṭhitaḥ \msCa, śreṣṭhika \msNa</APP>
         <APP>\vb <LEM>dṛṣṭaḥ sa</LEM> \msCb\msNa\msNc\Ed; <UNCL>dṛ</UNCL>×× \msCa, dṛṣṭa sa \msCc, dṛṣṭasya \msNb</APP>
-        <!-- <TR>When Vipula saw the foreman who was sitting in his house,</TR> -->
+        <!-- <TR>When Vipula saw the foreman sitting in his house,</TR> -->
 
 <TEXT> tasyāntikam{ }upāgamya tat{ }phalaṃ sa niveditaḥ||</TEXT> 12:67
         <APP>\vc <LEM>°gamya</LEM> \mssCaCbCc\msNa\msNb\Ed; °gatya \msNc</APP>
         <APP>\vd <LEM>sa niveditaḥ</LEM> \mssCaCbCc\msNb\Ed; sanniveditaḥ \msNa, saṃniveditaḥ \msNc</APP>
+        <NOTE>Understand the construction in Łpāda$ d as Łtasmai tena tat phalaṃ niveditam$,
+               or read (partly with \msNa\msNc) Łtat phalaṃ saṃniveditam$.</NOTE>
         <!-- <TR>he went up to him and offered him that fruit.</TR> -->
+
 % \msNc the anusvāra and the ḥ seem second hand
 % upgāgatya vs upāgamya: both are correct
+%index_syntax: tat phalaṃ sa niveditaḥ
 
 <TEXT> aho phalam{ }idaṃ śreṣṭham{ }aho phalam{ }ihānitam|</TEXT>
         <APP>\vab <LEM>śreṣṭham{ }aho</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; śreṣṭha aho \msCc</APP>
-        <!-- <TR>``Wow, what an excellent fruit! And hey, it has been brought here.</TR> -->
-        <NOTE>Note Łihānitam$ for Łihānītam$ in pāda b for metrical reasons.</NOTE>
+        <NOTE>Note Łihānitam$ for Łihānītam$ in Łpāda$ b for metrical reasons.</NOTE>
+        <!-- <TR>`Wow, what an excellent fruit! Hey, what a fruit we have here!</TR> -->
+
 %index_grammar: shortening, ihānitaṃ metri causa 
 
-<TEXT> aho rūpam{ }aho gandham{ }aho phalaṃ suśobhanam||</TEXT> 12:68
+<TEXT> aho rūpam{ }aho gandha{-}m{-}aho phalaṃ suśobhanam||</TEXT> 12:68
         <APP>\vcd <LEM>gandham{ }aho phalaṃ</LEM> \corr; gandham{ }aho phala \msCa\msCbpcorr\msCc\msNa\Ed,
-                                 gandham{ }aho gandham{ }aho phala \msCbacorr, gandha aho phala \msNb, gandho phalaṃ aho \msNc</APP>
+                                 gandham{ }aho gandham{ }aho phala \msCbacorr, 
+                                 gandha aho phala \msNb, gandho phalaṃ aho \msNc</APP>
+        <NOTE>I consider the Ł-m-$ between Łgandha$ and Łaho$ in Łpāda$s cd a hiatus filler.</NOTE>
         <!-- <TR>Wow, what a form, what a smell, wow what a splendid fruit!</TR> -->
+
+%index_grammar: hiatus filler, sandhi bridge
 
 <TEXT> tat{ }phalaṃ na mahījātaṃ na merau na ca mandare|</TEXT>
         <APP>\va <LEM>tat{ }pha°</LEM> \mssCaCbCc\msNa\msNb\msNc; yat{ }pha° \Ed</APP>
         <APP>\vb <LEM>merau</LEM> \msCa\msCb\msNa\msNcpcorr\Ed; mero \msCc\msNcacorr\msNb\oo
                  <LEM>mandare</LEM> \conj; kandare \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
-        <NOTE>Most probaby, Łkandare$ (`in a cave') in pāda b is an early
-                 mistake for Łmandare$ (`on Mount Mandara'), a location that
+        <NOTE>Łkandare$ (`in a cave') in Łpāda$ b must be an early
+                 mistake in the MSS for Łmandare$ (`on Mount Mandara'), a location that
                  appears frequently in the epics and the Purāṇas next
-                 to Mount Meru. This is why I conjecture Łmandare$ here.</NOTE>
-        <!-- <TR>This fruit was not produced on earth, not even on Mount Meru or ... </TR> -->
+                 to Mount Meru, see, e.g., \MBH\ 3.187.10:
+                        <skt>catuḥsamudraparyantāṃ merumandarabhūṣaṇām |
+                             śeṣo bhūtvāham evaitāṃ dhārayāmi vasuṃdharām ||</skt>.
+                 This is why I conjecture Łmandare$ here.</NOTE>
+        <!-- <TR>This fruit did not grow on earth, not even on Mount Meru or Mount Mandara.</TR> -->
 
-<TEXT> devalokika suvyaktaṃ na martya upajāyate||</TEXT> 12:69
+<TEXT> devalokika suvyaktaṃ na martya{-}m{-}upajāyate||</TEXT> 12:69
         <APP>\vc <LEM>devalokika</LEM> \mssCaCbCc\msNa\msNbpcorr\msNc\Ed; devaloki \msNbacorr</APP>
-        <APP>\vd <LEM>martya upajāyate</LEM> \eme; martya<UNCL>m{ }upajā</UNCL>×× \msCa,
-                                         martya supajāyate \msCb, martyam{ }upajāyate \msCc\msNa\msNb\msNc,
-                                                        mahyām{ }upajāyate \Ed</APP>
-        <!-- <TR>It is clearly from the world of gods, [this kind of fruit] does not grow in 
-                        the world of humans.</TR> -->
-        <NOTE>Understand Łdevalokika$ in pāda c as a stem form compound (metri causa) for a more standard
-              Łdevalaukikaṃ$.
-              Łmartya-m-upajāyate$ in pāda d might be original, with Łm$ as a sandhi bridge. Nevertheless,
-              I emended the pāda to make it clearer.</NOTE>
+        <APP>\vd <LEM>martya{-}m{-}upajāyate</LEM> \msCc\msNa\msNb\msNc; martya<UNCL>m{ }upajā</UNCL>×× \msCa,
+                                         martya supajāyate \msCb, mahyām{ }upajāyate \Ed</APP>
+        <NOTE>Understand Łdevalokika$ in Łpāda$ c as being in stem form (metri causa) 
+              for a more standard Łdevalaukikaṃ$. Understand Łmartya-m-upajāyate$ in Łpāda$ d 
+              as Łmartya upajāyate$ (i.e. Łmartye...$) with Ł-m-$ as a sandhi bridge.</NOTE>
+        <!-- <TR>It is clearly from the world of gods, it does not grow in the world of humans.</TR> -->
+
 % index_grammar: stem form (metri causa)
 
 %folioinfo \msCa\ 420.jpg
-<TEXT> aho 'smi saphalaṃ bhoktā rājārhaṃ ca na saṃśayaḥ|</TEXT> 
+<TEXT> aho 'smi sa phalaṃ bhoktā rājārhaṃ ca na saṃśayaḥ|</TEXT> 
         <APP>\va <LEM>aho</LEM> \msCb\msCc\msNa\msNb\msNc; ×ho \msCa, adyo \Ed\oo
-                 <LEM>saphalaṃ</LEM> \msCb\msCc\msNa\msNb\msNc; <UNCL>sa</UNCL>phalam \msCa, tat{ }phalaṃ \Ed\oo
+                 <LEM>sa phalaṃ</LEM> \msCb\msCc\msNa\msNb\msNc; <UNCL>sa</UNCL>phalam \msCa, tat{ }phalaṃ \Ed\oo
                  <LEM>bhoktā</LEM> \mssCaCbCc\msNa\msNb\Ed; bhoktaṃ \msNc</APP>
-        <APP>\vb <LEM>rājārhaṃ ca</LEM> \msCc\msNb; rājārhaś{ }ca \msCa\msCb\msNc\Ed, rājārha<UNCL>ś{ }ca</UNCL> \msNa</APP>
-        <!-- <TR>Ah! I will enjoy [its] profits. It is fit for a king.</TR> -->
-        <NOTE>Pāda a is slightly suspect. It is possible that originally it contained a 
+        <APP>\vb <LEM>rājārhaṃ ca</LEM> \msCc\msNb; rājārhaś{ }ca \msCa\msCb\msNc\Ed,
+                                                    rājārha<UNCL>ś{ }ca</UNCL> \msNa</APP>
+        <NOTE>ŁPāda$ a is slightly suspect. It is possible that originally it contained a 
               negation: Łaho 'smi na phalaṃ bhoktā$ (`Ah! I will not eat this fruit').
-              On the other hand, Łsaphala$ seems to be an odd form in this text simply
-              meaning Łphala$ (see 12.71--72, 108).
-              The translation I have chosen is tentative.</NOTE>
-CHECK peri future  yes
-%index_voc: saphala as phala?
+              I have chosen to translate this Łpāda$ as a question, interpreting Łsa$ as
+              giving emphasis to the grammatical subject. Nevertheless, the slightly 
+              odd reoccurrence of the phrase Łsa phalaṃ$ in 12.71 and 72 might suggest 
+              that sometimes we could interpret it, somewhat surprisingly, as Łtat phalaṃ$.</NOTE>
+        <!-- <TR>Alas! Is it me who will enjoy this fruit? No doubt, [only] a king is worthy of it.</TR> -->
+
+%peri future 
+%index_voc: saphala as phala? probably not
 
 <TEXT> ḍhaukayitvā phalaṃ divyaṃ rājānaṃ toṣayāmy{ }aham||</TEXT> 12:70
         <APP>\vc <LEM>ḍhaukayitvā</LEM> \mssCaCbCc\msNa\msNc\Ed; ḍhokayitvā \msNb</APP>
-        <!-- <TR>Offering this divine fruit to the king, I shall please him.''</TR> -->
-% DG thought it was a Kashmiri form (ḍhaukayitvā)
+        <!-- <TR>Offering this divine fruit to the king, I shall please him.'</TR> -->
+% DG thought ḍhaukayitvā was a Kashmiri form 
 
 <TEXT> tatas{ }tvarita gatvaiva phalaṃ gṛhya manoharam|</TEXT> 
         <APP>\va <LEM>tvarita</LEM> \msNa\msNc\Ed; tvaritaṃ \mssCaCbCc\msNb\ \unmetr</APP>
         <APP>\vb <LEM>gṛhya</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; gṛha \msCb\oo
                  <LEM>°haram</LEM> \mssCaCbCc\msNa\msNc; °ramam \msNb\Ed</APP>
+        <NOTE>In Łpāda$ a, Łtvarita$, for the adverb Łtvaritaṃ$, is in stem form metri causa.</NOTE>
         <!-- <TR>Then grabbing that pleasant fruit, he left hastily.</TR> -->
-        <NOTE>In pāda a, Łtvarita$, for the adverb Łtvaritaṃ$, is in stem form metri causa.</NOTE>
-% index_grammar: stem form (metri causa)
+
+% index_grammar: stem form (metri causa) adverb
 
 <TEXT> ādareṇopasṛtyaiva rājānaṃ sa phalaṃ dadau||</TEXT> 12:71
         <APP>\vc <LEM>°sṛtyaiva</LEM> \msCa\msCb\Ed; °sṛtyeva \msCc\msNb\msNc, °saṃgatya \msNa</APP>
         <APP>\vd <LEM>sa phalaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; tat{ }phalaṃ \Ed</APP>
         <!-- <TR>He approached the king respectfully, and gave him the fruit.</TR> -->
-        <NOTE>As in 12.70, Łsa phala$, or rather Łsaphala$ might simply mean Łphala$. 
-                Here in pāda d I have chosen to print this phrase as two words because here
-                Łsa$ can be grammatically/syntactically correct. See also next line (12.72a).</NOTE>
+
  % saphala seems to be a word? REVISE
 
 <TEXT> rājā ca sa phalaṃ dṛṣṭvā vismayaṃ paramaṃ gataḥ|</TEXT> 
         <APP>\va <LEM>sa phalaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; tat{ }phalaṃ \Ed</APP> 
         <APP>\vb <LEM>vismayaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; vismaya \msNb</APP>
-        <!-- <TR>And seeing the fruit, the king was highly amazed.</TR> -->
         <NOTE>On the possibility that Łsaphala$ is a form in this text simply signifying Łphala$,
                 see notes on 12.70 and 72.</NOTE>
+        <!-- <TR>And seeing the fruit, the king was highly amazed.</TR> -->
 
 <TEXT> kutaḥ śreṣṭhi tvayā nītaṃ phalaṃ pūrvaṃ manoharam||</TEXT> 12:72
         <APP>\vc <LEM>śreṣṭhi</LEM> \mssCaCbCc\msNa\msNb\msNc; śreṣṭha \Ed</APP>
-        <APP>\vd <LEM>phalaṃ pūrvaṃ manoharam</LEM> \corr; phala××××haram \msCa, phala<UNCL>m{ }ya</UNCL>rvamanoharam \msCb, 
-                                phalaṃ pūrva manoharam \msCc\msNa\msNb\msNc, phalaṃ sarvamanoharam \Ed</APP>
-        <!-- <TR>``O foreman, from where have you brought this charming fruit previously?</TR> -->
-        <NOTE>Łpūrva$[Łṃ$] in pāda d is suspect and difficult to interpret and 
-              \Ed\ is probably trying to silently emend it.
-                One possibility is that the pāda originally contained a stem form noun:
-                Łphalāpūrvaṃ manoharam$ (`an unparalleled and charming fruit').
-                Alternatively, Łpūrva$ is an eyeskip to 12.73b.</NOTE>
+        <APP>\vd <LEM>phalaṃ pūrvaṃ manoharam</LEM> \corr; phala××××haram \msCa,
+                        phala<UNCL>m{ }ya</UNCL>rvamanoharam \msCb, phalaṃ pūrva manoharam \msCc\msNa\msNb\msNc,
+                                                                    phalaṃ sarvamanoharam \Ed</APP>
+        <!-- <TR>`O foreman, from where have you brought this charming fruit previously?</TR> -->
+        <NOTE>Łpūrva$[Łṃ$] in Łpāda$ d is suspect and \Ed\ is probably trying to silently emend it.
+               One possibility is that the Łpāda$ originally contained a stem form noun:
+               Łphalāpūrvaṃ manoharam$ (`an unparalleled and charming fruit').
+               Alternatively, Łpūrva$ is an eye-skip to 12.73b.</NOTE>
 
 <TEXT> svādumūlaṃ phalaṃ kandaṃ dṛṣṭaṃ pūrvaṃ na tādṛśam|</TEXT>
         <APP>\va <LEM>°mūlaṃ phalaṃ</LEM> \msNc; °mūlaphala° \mssCaCbCc\msNa\msNb\Ed</APP>
         <APP>\vab <LEM>kandaṃ dṛṣṭaṃ pū°</LEM> \eme; °kandaṃ dṛṣṭvā pū° \msCa\msNa\msNb, °skanda dṛṣṭvā pū° \msCb,
-                                 °skanda dṛṣṭa pū° \msCc, kanda dṛṣṭa<UNCL>n{ }pū</UNCL>° \msNc, °skanda dṛṣṭā pū° \Ed</APP>
+                                 °skanda dṛṣṭa pū° \msCc, kanda dṛṣṭa<UNCL>n{ }pū</UNCL>° \msNc,
+                                                          °skanda dṛṣṭā pū° \Ed</APP>
         <APP>\vb <LEM>tādṛśam</LEM> \msCa\msCb\msNa\msNb\msNc; tādṛ<UNCL>śaṃ</UNCL> \msCc, yādṛśam \Ed</APP>
-        <!-- <TR>I have never seen such a sweet root or fruit or bulbous root,</TR> -->
+        <!-- <TR>I have never seen such a palatable root or fruit or bulb,</TR> -->
+
 % see ŚDhśāstra kandamūlaphalāśanaḥ as a dvandva 11.16 (Utopia)
 
 %folioinfo \msCc\ 224.jpg f. 290v
 <TEXT> rūpagandhaguṇopetaṃ hṛdayānandakārakam||</TEXT> 12:73
         <APP>\vd <LEM>°kārakam</LEM> \mssCaCbCc\msNb\msNc\Ed; °kārakaḥ \msNa</APP>
-        <!-- <TR>one with such beauty, fragrance and qualities that gladden one's heart.</TR> -->
+        <!-- <TR>one with such beauty, fragrance, and qualities, one that gladdens the heart.</TR> -->
 
 <TEXT> sadya evopayuñjāmi tvayā dattam{ }idaṃ phalam|</TEXT>
         <APP>\va <LEM>sadya evopayuñjāmi</LEM> \mssCaCbCc\msNa\msNb\msNc; satya eva prabhuñjāmi \Ed</APP>
@@ -13175,29 +13223,35 @@ CHECK peri future  yes
 
 <TEXT> kīdṛśaṃ svāda vijñānam{ }icchāmi kuru māciram||</TEXT> 12:74
         <APP>\vc <LEM>svāda vijñānam</LEM> \mssCaCbCc\msNa\msNb\msNc; svādu vijñātum \Ed</APP>
-        <NOTE>I take Łsvāda$ as a stem form noun that stands for the accusative metri causa.</NOTE>
-        <!-- <TR>What does it taste like? I want to know. Give it to me quickly.''</TR> -->
+        <NOTE>I take Łsvāda$ ain Łpāda$ c as a stem form noun that stands for the accusative metri causa.</NOTE>
+        <!-- <TR>What does it taste like? I want to know. Give it to me quickly.'</TR> -->
+
 % index_grammar: stem form (metri causa)
 
 <TEXT> tataḥ sa bhakṣayām{ }āsa phalaṃ cāmṛtasaṃnibham|</TEXT>
         <APP>\va <LEM>tataḥ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; tata \msCb</APP>
-        <!-- <TR>Then he ate the fruit that looked like the nectar of immortality.</TR> -->
+        <!-- <TR>Then he ate the fruit that looked like the ambrosia.</TR> -->
 
 <TEXT> amṛtopamasusvādaṃ sarvaṃ ca bubhuje nṛpaḥ||</TEXT> 12:75
         <APP>\vcd <LEM>svādaṃ sarvaṃ ca</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; svā×××× \msCa</APP>
-        <!-- <TR>The king devoured all of it and it tasted nice, like nectar.</TR> -->
+        <!-- <TR>The king devoured all of it, and its taste was like that of nectar.</TR> -->
 
 %folioinfo \msNa\ image 213.jpg lower, f. 20r
 %folioinfo \msM\ 429.jpg lower, f. 21r
-<TEXT> sadya ṣoḍaśavarṣasya yauvanaṃ samapadyata|</TEXT> 
+<TEXT> sadyaḥ ṣoḍaśavarṣasya yauvanaṃ samapadyata|</TEXT> 
+        <APP>\va <LEM>sadyaḥ</LEM> \corr; \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
         <APP>\vb <LEM>°padyata</LEM> \msCa\msCb; °padyate \msCc\msNa\msNb\Ed, °dyata \msNc</APP>
-        <!-- <TR>In an instant he obtained the youthfulness of a sixteen-year-old person.</TR> -->
+        <NOTE>I have corrected Łsadya$ in Łpāda$ a to Łsadyaḥ$ because there is no
+              metrical reason to retain this thematised stem form here (cf. Łsadyo$ in Łpāda$ c).</NOTE>
+        <!-- <TR>In an instant, he obtained the youthfulness of a sixteen-year-old boy.</TR> -->
+
 %index_stemma: \msCc and \Ed
-%index_grammar: stem form 
 
 <TEXT> na valīpalitaṃ sadyo na jarā na ca durbalaḥ||</TEXT> 12:76
         <APP>\vc <LEM>valī°</LEM> \mssCaCbCc\msNa\msNb\msNc; vali° \Ed</APP>
-        <!-- <TR>In a moment, there were no wrinkles and grey hair, no illness and no weakness.</TR> -->
+        <!-- <TR>In a moment, there were no wrinkles or grey hair, no illness, no weakness.</TR> -->
+
+% EDDIG
 
 %folioinfo \msCb\ 436.jpg
 %folioinfo \msNb\ 60.jpg lower
@@ -13490,6 +13544,8 @@ CHECK peri future  yes
         <NOTE>The foreman uses the plural in his reply correctly: he refers to
               Vipula, Bhīmabala and himself.</NOTE>
 
+%index_grammar: tubhyam as instrumental (Oberlies 4.2.2 [pp. 104])
+
 <TEXT> rudra uvāca|*</TEXT>
         <!-- <TR>Rudra spoke:</TR> -->
 
@@ -13558,6 +13614,8 @@ CHECK peri future  yes
         <NOTE>I suspect that Łtubhyaṃ$ in pāda a is used in the sense of Łtvayā$ and
                 that is how I translate this phrase. I doubt if Vipula would
                 threaten the monkey (`for you living becomes doubtful').</NOTE>
+
+%index_grammar: tubhyam as instrumental (Oberlies 4.2.2 [pp. 104])
 
 % Citraratha is king of the gandharvas
 <TEXT> athavā tatra gacchāmo yatra citrarathaḥ svayam||</TEXT> 12:101
