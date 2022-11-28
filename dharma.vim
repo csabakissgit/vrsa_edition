@@ -348,16 +348,16 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 12253 - ((18 * winheight(0) + 15) / 31)
+let s:l = 12445 - ((18 * winheight(0) + 15) / 31)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-12253
-normal! 0108|
+12445
+normal! 015|
 lcd ~/indology/dharma_project/vrsa_edition
 tabnext 1
+badd +0 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 badd +1 ~/indology/dharma_project/vrsa_edition/vssbook/naples_xelatex_version/vss_book_xelatex.tex
-badd +1 ~/indology/dharma_project/vrsa_edition/vrsasarasamgraha.xml
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif

@@ -152,7 +152,7 @@
 \newcommand{\dnd}{\danda}
 \newcommand{\dnddnd}{\ketdanda}
 %\newcommand{\veg}{}%{{\rm\ketdanda\vsveg\ketdanda}\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
-\newcommand{\veg}{\vrule depth7pt width0pt}% this now only controls the vertical skip at the end of verse
+\newcommand{\veg}{\vrule depth10pt width0pt}% this now only controls the vertical skip at the end of verse
 \newcommand{\vsvegdn}{\the\fejno\kern-0.3em{\rm\ :}\kern0.1em\the\versno\kern-0.15em}
 \newcommand{\vegdn}{॥$~${\vsvegdn}॥ \vrule depth10pt width0pt}
 \newcommand{\sixlsloka}{\renewcommand{\padaA}{e}\renewcommand{\padaB}{f}\renewcommand{\padaAB}{ef}}
@@ -215,21 +215,21 @@
 \newcommand{\paralid}{}
 \newcommand{\crux}[1]{{\englishfont$\dag$}{\thinspace #1}{\englishfont$\dag$}}
 \newcommand{\cruxdn}[1]{{$\dag\thinspace$#1$\dag$}}
-\newcommand{\fejezet}[1]{\subsection{#1}
+\newcommand{\fejezet}[1]{\subsection{#1}{\vrule depth16pt width0pt}
 				
 }
 
 
 % Chapter, subchapter etc. in the edition
 \newcommand{\alfejezet}[1]{\begin{center}
-        {{{{\textbf{\large[ }}{\devanagarifont\large#1}{{\englishfont\large]}}}}}\dontdisplaylinenum
+        {{{{\textbf{\large[ }}{\devanagarifont\large#1}{{\englishfont\large]}}}{\vrule depth10pt width0pt}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsection}{#1}
 \end{center}
 
 }
 
 \newcommand{\alalfejezet}[1]{\begin{center}
-{{{\englishfont{\small [ }}{\devanagarifont\small#1}{\englishfont{\small ]}}}}\dontdisplaylinenum
+{{{\englishfont{\small [ }}{\devanagarifont\small#1}{\englishfont{\small ]}}{\vrule depth8pt width0pt}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center}
 
