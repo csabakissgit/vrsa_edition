@@ -81,7 +81,7 @@ function showSkt(skt_class) {
 	   else {
 			divclass[y].style.fontWeight = 'bold';
 			//divclass[y].style.color = 'white';
-			divclass[y].style.fontSize = '102%';
+			divclass[y].style.fontSize = '100%';
               		divclass[y].scrollIntoView({block: "center"});     
                  	/* Highlighting the translation on which you clicked*/  
 		    	for (let y = 0; y < trclass.length; y++) {
@@ -135,11 +135,11 @@ function openallapp() {
 	}
 	texts = document.getElementsByTagName("RMTEXT");
 		for (let y = 0; y < texts.length; y++) {
-			texts[y].style.fontSize = "120%";
+			texts[y].style.fontSize = "100%";
 			}	
 	texts = document.getElementsByTagName("DNTEXT");
 		for (let y = 0; y < texts.length; y++) {
-			texts[y].style.fontSize = "120%";
+			texts[y].style.fontSize = "100%";
 			}	
 		}
 	else {elem.textContent = "Open all apparatus entries";
@@ -152,7 +152,7 @@ function openallapp() {
 			}	
 	texts = document.getElementsByTagName("DNTEXT");
 		for (let y = 0; y < texts.length; y++) {
-			texts[y].style.fontSize = "110%";
+			texts[y].style.fontSize = "100%";
 			}	
 
 	}
@@ -210,7 +210,8 @@ let elem = document.getElementById("switchbutton");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "none";
 			}
-		document.getElementById("sanskrittext").style.fontSize="130%";
+		document.getElementById("sanskrittext").style.fontSize="100%";
+		document.getElementById("sanskrittext").style.fontFamily='Pedantic Devanagari';
 		}
 		else {elem.textContent = "Switch to Devanāgarī";
 		texts = document.getElementsByTagName("RMTEXT");
@@ -229,10 +230,10 @@ let elem = document.getElementById("switchbutton");
 		for (let y = 0; y < texts.length; y++) {
 			texts[y].style.display = "inline";
 			}
-		document.getElementById("sanskrittext").style.fontSize="110%";		
+		document.getElementById("sanskrittext").style.fontSize="100%";
+		document.getElementById("sanskrittext").style.fontFamily='EB Garamond';
+
 		}
-
-
 }
 
 

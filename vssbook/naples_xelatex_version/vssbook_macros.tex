@@ -10,11 +10,11 @@
 %\setsansfont{Deja Vu Sans}
 %\setmonofont{Deja Vu Mono}
 % other LaTeX packages.....
-\usepackage[total={12.35cm,20cm},top=4cm, left=5cm, headsep=1.3cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+\usepackage[total={12cm,21cm},top=2.8cm, left=4.5cm, headsep=1.1cm, footskip=1.5cm, footnotesep=1cm, xetex]{geometry}
 \usepackage{pdfpages}
 \usepackage{todonotes}
 
-\parindent1.2em
+\parskip.1em\parindent1.5em
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % customize the TOC
 \usepackage{tocloft}
@@ -56,7 +56,7 @@
 \usepackage{enumitem}
 \makeatletter
 \renewenvironment{thebibliography}[1]
-     {\chapter*{Refs!}%
+     {\section{Secondary Sources and Editions}%
      \fancyhead[CE]{}
      \fancyhead[CO]{}
      \@mkboth{header!}{header!}%
@@ -83,6 +83,51 @@
 \newcommand{\csindexx}[2]{#1\index{#2@#1}}
 \newcommand{\csindexxx}[3]{#1\index{#2@#3}}
 \newcommand{\cskt}[2]{\skt{#1}\index{#2@\skt{#1}}}
+
+\renewenvironment{theindex}
+               {%\if@twocolumn
+                  %\@restonecolfalse
+                %\else
+                  %\@restonecoltrue
+                %\fi
+%               \columnseprule \z@
+                \columnseprule 0pt
+%               \columnsep 35\p@
+                \columnsep 35pt
+%               \twocolumn[\@makeschapterhead{\indexname}]%
+                \twocolumn[%\makeschapterhead{\indexname}
+                \bigskip
+                \bigskip
+                \bigskip
+                \bigskip
+
+                {\englishfont\Large\hfill\textit{Index to Introduction and Translation}\hfill}
+                \bigskip
+                \bigskip
+
+ REVISE \verify\ In the Index, the surnames of modern authors, as well
+ as mantra-syllables, are typeset
+ in \textsc{Small Capitals}, Sanskrit words in general
+ in \textit{italics}, Sanskrit names of deities, humans, including authors,
+ in non-italic normal typeface with capital initial letters,
+ English words in non-italic normal typeface, and
+ titles of works in \textsl{slanted font}.
+\par \vskip 20pt]%
+% Two lines below were the original.  I changed them so that the
+% heading of the following pages would suit the previous chapters.
+% But I am not certain if that was what Dominic and Haru wanted.
+%                \markboth{\MakeUppercase\indexname}%
+%                        {\MakeUppercase\indexname}%
+              %  \markboth{Niśvāsatattvasaṃhitā}{Index to Introduction and Notes}
+%               \thispagestyle{plain}\parindent\z@
+                \thispagestyle{plain}\parindent0pt
+%               \parskip\z@ \@plus .3\p@\relax
+                \parskip0pt plus .3pt\relax
+                \def\idxitem{\par\hangindent 40pt}
+                \let\item\idxitem%
+}
+%              {\if@restonecol\onecolumn\else\clearpage\fi}
+               {\onecolumn}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -96,8 +141,6 @@
 % FONT STUFF
 \newfontfamily\devanagarifont[Script=Devanagari]{Noto Serif Devanagari}
 \newfontfamily\englishfont{EB Garamond}
-%\newfontfamily\devanagarifont[Script=Devanagari]{Pedantic Indic}
-%\newfontfamily\devanagarifont[Script=Devanagari]{Sahadeva}
 \setmainlanguage{english}
 \setotherlanguages{sanskrit}
 \setmainfont[
@@ -186,7 +229,7 @@
    % {\color{white}\hspace{-1cm}\normalfont\thesubsection\hspace{5pt}}
   }{0em}{}
   
-%\newcommand{\mychapter}[2]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
+%\newcommand{\mychapter}[1]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
 \newcommand{\mychapter}[1]{\chapter*{#1}
 \addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#1}}{}{}}}
 

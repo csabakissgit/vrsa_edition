@@ -5,7 +5,7 @@
     right: 0;
     overflow: scroll;
     line-height: 1.2em;
-
+    font-family: 'EB Garamond';
 }
 
 @font-face {
@@ -16,25 +16,28 @@
 }
 
 
+
 .text {
-    font-family: Pedantic Devanagari;   
+    font-family: 'EB Garamond', serif;
     top: 0;
     height: 100%;
     width: 50%;
-    background-color: black;
+    color: black;
+    font-style: normal;
+    background-color: #fff7e6;
     padding-left: 20px;
-    font-size: 110%;
+    font-size: 100%;
     overflow-x: hidden;
 }
 
 .translation {
-
+    font-family: 'EB Garamond', serif;
     top: 0%;
     left: 46%;
     bottom: 0%;
     height: 100%;
     width: 50.9%;
-    background-color: black;
+    background-color: #fff7e6;
     font-size: 100%;
     font-style: normal;  
     padding-right: 20px;
@@ -42,7 +45,6 @@
     word-wrap: break-word;
     overflow-x: hidden;
     text-align: justify; 
-    
 }
 
 
@@ -54,7 +56,7 @@
     width: 50%;
     padding-right: 20px;
     padding-left: 20px;
-    background-color: #e6ffaa; 
+    background-color: #fff7df;
     color: black; 
     font-style: normal;  
    /* font: normal 1em palatino; */
@@ -67,6 +69,7 @@
 .notes .ms {
     color: black; 
 }
+
 
 .msimage {
     top: 50%;
@@ -84,15 +87,16 @@
 }
 
 .ms {
-   color: lightskyblue;
+   color: blue;
 }
+
 
 
 .wrap-main {
   display: block;
   position: relative;
   color: grey;
-  font-size: .9em;
+  /* font-size: .9em; */
 }
 
 .wrap-content {
@@ -123,23 +127,23 @@ TEXT {
 
 RMTEXT {
 	display: inline;
-	color: white;
+	color: black;
 	}
 
 DNTEXT {
 	display:none;
-	color: white;
+	color: black;
 }
 
 
 PARAL {
 	display: block;
-	color: #cc8100;
+	color: black;
 }
 
 LACUNA {
 	display: block;
-	color: #aa81ff;
+	color: brown;
 }
 
 uvaca {
@@ -165,7 +169,7 @@ subsubchapter {
 trnsl {
 	display: inline;
         font-weight: normal;
-	color: white;
+	color: black;
 	font-size: 100%;
 	width: 100%;
 }
@@ -228,13 +232,13 @@ chapter {
 
 RMAPP {
 	display: inline;
-	color: white;
-		}
+	color: black;
+}
 
 DNAPP {
 	display:none;
-	color: white;
-		}
+	color: black;
+}
 
 .instr {
 	display:block;
@@ -362,7 +366,8 @@ a:hover, a:focus, a:active {
 
 
 select {
-  width: 40%;
+  width: 30%;
+  font-size: 50%;
   padding: 1px 2px;
   border: solid;
   border-radius: 40px;
