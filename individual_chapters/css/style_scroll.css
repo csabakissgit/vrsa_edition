@@ -296,6 +296,18 @@ LEM:after {
  	color: #cc8800;
 }
 
+LEMHIDDEN {
+ 	/* color: #cc8800; */
+ 	color: #cc8800;
+	font-weight: bold;
+
+}
+
+LEMHIDDEN:after {
+	content: " ]";
+ 	color: #cc8800;
+}
+
 
 DNLEM:after {
 	content: " ]";
