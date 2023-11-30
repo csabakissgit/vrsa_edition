@@ -93,12 +93,12 @@
 \newcommand{\dnvers}{\leftskip4em}
 
 % indentation for non-anustubhs
-\newcommand{\nemsloka}{\leftskip3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\newcommand{\nemslokab}{\leftskip5em} % pada b
-\newcommand{\nemslokac}{\leftskip3em} % pada c
-\newcommand{\nemslokad}{\leftskip5em} % pada d
-\newcommand{\nemslokae}{\leftskip 3em} % pada e
-\newcommand{\nemslokaf}{\leftskip 5em} % pada f
+\newcommand{\nemsloka}{\leftskip4em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\nemslokab}{\leftskip6em} % pada b
+\newcommand{\nemslokac}{\nemsloka} % pada c
+\newcommand{\nemslokad}{\nemslokab} % pada d
+\newcommand{\nemslokae}{\nemsloka} % pada e
+\newcommand{\nemslokaf}{\nemslokab} % pada f
 
 \newcommand{\dnnemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
 \newcommand{\dnnemslokab}{\leftskip 4em} % pada b
@@ -143,6 +143,20 @@
 %%%% Apparatus
 
 %\newcommand{\var}[1]{\edtext{}{\Dfootnote{#1}}}
+
+
+%https://www.unicode.org/L2/L2021/21112-deva-cluster-valid.pdf
+\newcommand{\dependentlonga}{\char"00A0\char"093E}
+\newcommand{\dependentshorti}{\char"00A0\char"093F}
+\newcommand{\dependentlongi}{\char"00A0\char"0940}
+\newcommand{\dependentshortu}{\char"00A0\char"0941}
+\newcommand{\dependentlongu}{\char"00A0\char"0942}
+\newcommand{\dependente}{\char"00A0\char"0947}
+\newcommand{\dependentai}{\char"00A0\char"0948}
+\newcommand{\dependentanusvara}{\char"00A0\char"0902}
+\newcommand{\dependentvisarga}{\char"00A0\char"0903}
+\newcommand{\dependentr}{\char"00A0\char"0930}
+
 
 
 % when 2-col app requires grouping of variants of one single verse:
