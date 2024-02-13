@@ -11,16 +11,15 @@
 
 % https://djdekker.net/ledmac/#mult
 % Q 24: Help! My footnotes are running off the bottom of the page!
-\renewcommand{\footfudgefiddle}{80}
+\renewcommand{\footfudgefiddle}{90}
 
-% updated version
+% updated current version
 \makeatletter
  \newcommand*{\lemmaesszamnelkulfmt}[3]{%
- \ledsetnormalparstuff
- %\notenumfont\printlines#1|}\enspace
- %{\select@lemmafont#1|#2}
- %\spacedcolon\enskip
- #3\penalty-10 }
+\ledsetnormalparstuff%
+%\enspace
+#3\allowbreak
+}
 \makeatother
 
 
@@ -114,6 +113,7 @@
 \footparagraph{A}
 \footparagraph{B}
 \footparagraph{C}
+%\footnormal{C}
 %\footparagraph{D}
 %\foottwocol{D} % if you want 2-col apparatus STEP 1
 \footparagraph{E}

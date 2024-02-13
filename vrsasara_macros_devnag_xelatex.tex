@@ -1,8 +1,13 @@
 % about 70% of these commands are not used now
 
+%%%HEADERS%%%%%%%%%%%%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+
 \parindent2em
 \usepackage{pdfpages}
-\usepackage{dev}
+%\usepackage{dev}
 % for ring below r (\textsubring) and l (Dharma input/IAST):
 % \usepackage{tipa}
 \cfoot{{\devanagarifont\thepage}}
@@ -29,10 +34,13 @@
 \szam\bek}
 
 % to emphasise number of first entry of a verse in apparatus
-% this puts a box around the number (change position of ~)
+% \fbox puts a box around the number (change position of ~)
 %\newcommand{\numemph}[1]{{\color{red}\fbox{#1}}~}
-\newcommand{\numemph}[1]{{\englishfont\color{red}{#1}}}
-\newcommand{\numnoemph}[1]{{#1}}
+% rather emphasise all entries, that is the number and pāda sign
+\usepackage{circledsteps}
+\newcommand{\numemph}[1]{{\englishfont\color{black}{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hspace{.5em} }}}
+\newcommand{\numnoemph}[1]{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hspace{.5em} }
+%\newcommand{\numemph}[1]{\textbf{#1}}\newcommand{\numnoemph}[1]{#1}
 
 % pādas in apparatus: verse no. + pāda sign
 \newcommand{\vo}{\textbf{\englishfont \vs~}}
@@ -53,6 +61,9 @@
 \newcount\versno
 \newcount\ajsa
 
+%% Glyphs
+\newcommand{\glyindex}{\XeTeXglyph\XeTeXglyphindex}
+\newcommand{\gly}{\XeTeXglyph}
 
 \fejno=1
 \versno=1
@@ -86,32 +97,32 @@
 %%%%  Types of paragraph
 %\newcommand{\proza}{\leftskip 3em\noindent}
 %\newcommand{\ujproza}{\global\advance\versno by1\leftskip 3em\noindent}
-\newcommand{\vers}{\leftskip4em}
+\newcommand{\vers}{\nemsloka}
 % alternative name:
 \newcommand{\sloka}{\vers}
-
 \newcommand{\dnvers}{\leftskip4em}
-
 % indentation for non-anustubhs
-\newcommand{\nemsloka}{\leftskip4em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\newcommand{\nemslokab}{\leftskip6em} % pada b
+\newcommand{\nemsloka}{\leftskip1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\nemslokab}{\leftskip3em} % pada b
 \newcommand{\nemslokac}{\nemsloka} % pada c
 \newcommand{\nemslokad}{\nemslokab} % pada d
 \newcommand{\nemslokae}{\nemsloka} % pada e
 \newcommand{\nemslokaf}{\nemslokab} % pada f
 
-\newcommand{\dnnemsloka}{\leftskip 3em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\newcommand{\dnnemslokab}{\leftskip 4em} % pada b
-\newcommand{\dnnemslokac}{\leftskip 3em} % pada c
-\newcommand{\dnnemslokad}{\leftskip 4em} % pada d
-\newcommand{\dnnemslokae}{\leftskip 3em} % pada e
-\newcommand{\dnnemslokaf}{\leftskip 4em} % pada f
+\newcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\dnnemslokab}{\leftskip 3em} % pada b
+\newcommand{\dnnemslokac}{\leftskip 1em} % pada c
+\newcommand{\dnnemslokad}{\leftskip 3em} % pada d
+\newcommand{\dnnemslokae}{\leftskip 1em} % pada e
+\newcommand{\dnnemslokaf}{\leftskip 3em} % pada f
 
 \newcommand{\nemslokalong}{
-\renewcommand{\nemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\renewcommand{\nemslokab}{\leftskip 2em} % pada b
-\renewcommand{\nemslokac}{\leftskip 1em} % pada c
-\renewcommand{\nemslokad}{\leftskip 2em} % pada d
+\renewcommand{\nemsloka}{\leftskip 0em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\nemslokab}{\leftskip 1em} % pada b
+\renewcommand{\nemslokac}{\nemsloka} % pada c
+\renewcommand{\nemslokad}{\nemslokab} % pada d
+\renewcommand{\nemslokae}{\nemsloka} % pada e
+\renewcommand{\nemslokaf}{\nemslokb} % pada f
 \renewcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
 \renewcommand{\dnnemslokab}{\leftskip 2em} % pada b
 \renewcommand{\dnnemslokac}{\leftskip 1em} % pada c
@@ -203,8 +214,8 @@
 \newcommand{\Notes}{\textit{Textual Notes}}
 \newcommand{\Colo}{{\englishfont\textbf{Colophon}}}
 \newcommand{\notelemm}[2]{#1: \textbf{#2}~]}
-%\newcommand{\lem}{{\devanagarifont\thinspace\textbf{]} }}
-\newcommand{\lem}{{\englishfont~\textbf{]}} }
+\newcommand{\lem}{{\devanagarifont\thinspace \textbf{]} }}
+%\newcommand{\lem}{{\englishfont~\textbf{]}} }
 
 \newcommand{\note}[1]{#1:}
 %\newcommand{\AD}{\textsc{ad}}
@@ -268,14 +279,14 @@
 
 
 \newcommand{\alfejezetdn}[1]{\begin{center}
-        {{\englishfont\Large [}{\dn#1}{\englishfont\Large  ]}}\dontdisplaylinenum 
+        {{\englishfont\Large [}{\dn#1}{\englishfont\Large  ]}}\dontdisplaylinenum
 \addcontentsline{toc}{subsection}{#1}
 \end{center}
 
 }
 
 \newcommand{\alalfejezetdn}[1]{\begin{center}
-\textbf{{{\englishfont\large [}{\dn#1}{\englishfont\large  ]}}}\dontdisplaylinenum 
+\textbf{{{\englishfont\large [}{\dn#1}{\englishfont\large  ]}}}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center} 
 
