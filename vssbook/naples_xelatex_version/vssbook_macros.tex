@@ -204,8 +204,7 @@
 
   \titleformat{\section}
   {\englishfont\large}{%
-    {\englishfont\large\bf\thesection}
-  }{0em}{}{}
+    {\englishfont\large\bf\thesection}  }{0em}{}{}
 
 
 %\titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
@@ -267,6 +266,7 @@
 
 %MISC COMMANDS
 \newcommand{\skt}[1]{\textit{#1}}
+\newcommand{\ie}[1]{(\textit{#1})}
 \newcommand{\skttitle}[2]{\textsl{#1}\index{#2@\textsl{#1}}}
 \newcommand{\CHECK}{{\englishfont\color{red}{CHECK}}}
 \newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
@@ -335,7 +335,9 @@
 \newcommand{\subsubchptr}[1]{\centerline{[\textit{\thinspace#1\thinspace}---}}
 
 \newcommand{\trchptr}[1]{\centerline{\large[{#1}]}\indent}
-\newcommand{\trsubchptr}[1]{\centerline{#1 ]}}
+\newcommand{\trsubchptr}[1]{\centerline{#1 ]}%
+                 \addcontentsline{toc}{subsection}{#1}%
+                        }
 \newcommand{\trsubsubchptr}[1]{\centerline{#1 ]}}
 
 \newcommand{\maintext}[1]{

@@ -264,14 +264,14 @@
 }
 
 \newcommand{\alalfejezet}[1]{\begin{center}
-{{{\englishfont{\small [ }}{\devanagarifont\small#1}{\englishfont{\small ]}}{\vrule depth8pt width0pt}}}\dontdisplaylinenum
+        {\devanagarifont\small{[#1]}{\vrule depth8pt width0pt}}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center}
 
 }
 
 \newcommand{\alalalfejezet}[1]{\begin{center}
-{{\englishfont\footnotesize [ }{\devanagarifont\footnotesize#1}{\englishfont\footnotesize ]}}\dontdisplaylinenum
+        {\devanagarifont\footnotesize[#1]}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center}
 
@@ -344,7 +344,7 @@
 \newcommand{\fverso}[1]{\ledleftnote{\tiny{#1\verso}}\vers}
 \newcommand{\kkicsi}{}
 %\newcommand{\toplost}{{\englishfont(\textit{top of akṣaras lost})}}
-\newcommand{\toplost}{{\englishfont(top of akṣaras lost)}}
+\newcommand{\toplost}{{\englishfont(tops of akṣaras lost)}}
 \newcommand{\vverso}{\verso}
 \newcommand{\rrecto}{\recto}
 \newcommand{\trvers}[1]{$^{{\textnormal{\scriptsize [#1]}}}$}
@@ -436,7 +436,7 @@
 \newcommand{\il}{\englishfont{×}} % note that I use × for lost in the base file!
                                   % this here should be an anceps
 
-                                  \newcommand{\lac}{{\englishfont-{}-{}-{}}}
+\newcommand{\lac}{\kern0.1em{\englishfont-{}-{}-{}}\kern0.1em}
 \def\langkort{\setbox0=\hbox{{\bf --}}\dimen0=\ht0
         \advance\dimen0 by-2.5ex
         \copy0\kern -1\wd0
