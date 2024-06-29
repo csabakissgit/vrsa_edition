@@ -986,6 +986,8 @@ FUNCTION {book}
   %format.date "year" output.check
   new.block
   format.note output
+  new.block
+  howpublished "howpublished" bibinfo.check output
   fin.entry
 }
 FUNCTION {booklet}

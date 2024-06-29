@@ -38,7 +38,6 @@
 <TITLE>Vṛṣasārasaṃgrahaḥ</TITLE>
 <HEADERTITLE>Vṛṣasārasaṃgrahe</HEADERTITLE>
 %chapter 1
-<STOP/>
 
 <startchapter-n="1"/> 
 <CHAPTER>prathamo 'dhyāyaḥ</CHAPTER>
@@ -236,7 +235,6 @@
                 Note the use of the singular (Łparva$) in connection with numerals (Łśataṃ$).</NOTE>
         <TR>with all its hundred sections (Łparvan$),</TR>
 
-%index_grammar: singular after numbers (parva)
 %index_grammar: Newar: singular with inanimate and numbers, number after noun (parva)
 
 
@@ -1655,8 +1653,8 @@ saiva/sivadharma/01sdhs/sivadharmasastra.dn:kalpako.tisahasraa.ni kalpako.ti"sat
         <NOTE>Note the mixture of different grammatical genders and numbers in this verse. 
               Understand Łpramāṇeṣu saṃkhyāḥ kīrtitāḥ samāsataḥ$ and 
               Łbrahmāṇḍānām aprameyānāṃ$...</NOTE>
-%index_grammar: gender and number confusion
 
+%index_grammar: gender and number confusion
 
 % wants to say brahmāṇḍānām aprameyānāṃ?
 <TEXT> brahmāṇḍaṃ cāprameyāṇāṃ lakṣaṇaṃ parikīrtitam||</TEXT> 1:62
@@ -1982,6 +1980,8 @@ Also Yuko's article in our volume and
 
 - ———. 1954. Das Purāṇa vom Weltgebäude (Bhuvanavinyāsa). Die kosmographischen Traktate der Purāṇa’s Versuch einer Textgeschichte. Bonner Orientalistischen Studien, Neue Serie, 1. Bonn: Selbstverlag des Orientalischen Seminars der Universität Bonn.
 
+
+<STOP/>
 
 <startchapter-n="2"/> 
 % chapter 2
@@ -5508,11 +5508,11 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
         <TR>[For] a person who is without self-restraint, O great Brahmin,</TR>
 
 <TEXT> svargaṃ ca mokṣaṃ ca sukhaṃ ca nāsti|</TEXT>
-        <NOTE>Note how flexible the gender of most nouns is in Łpāda$ b: 
-                        Łsvarga$, Łmokṣa$ and Łdama$ are usually masculine in standard Sanskrit.</NOTE>
+        <NOTE>ŁPāda$ b: Łsvarga$ and Łmokṣa$ are usually masculine in standard Sanskrit.</NOTE>
         <TR>there is no heaven, liberation or happiness.</TR>
 
 %index_grammar: gender
+%index_grammar: nominative for genitive
 
         -  - .  -  - . . -  . - -
 <TEXT> vijñānadharmakulakīrtināśa</TEXT> 
@@ -6633,7 +6633,8 @@ Brahmavihāras go back to the upaniṣads
 <TEXT> mānaveṣu purāṇeṣu śaivabhāratasaṃhite|</TEXT>
         \vb <LEM>śaive</LEM> \eme; śaiva° \mssCaCbCc\msNa\msNb\msNc\msM\Ed
         <NOTE>In Łpāda$ b, since °Łsaṃhite$ is not a correct locative of °Łsaṃhitā$, 
-              instead of emending to Łśaive bhāratasaṃhite$, we may take the compound as a Łsamāhāra\-dvandva\-samāsa$ in the neuter locative.</NOTE>
+              instead of emending to Łśaive bhāratasaṃhite$, we may take the compound 
+              as a Łsamāhāra\-dvandva\-samāsa$ in the neuter locative.</NOTE>
         <TR>In the books of Manu, in the Purāṇas, in Śaiva texts, and in the ŁBhāratasaṃhitā$ (i.e. the ŁMahābhārata$),</TR>
 % \msM has a lot of EEEEEEEEEEEEEEEEEEEEEEEEEEEEs here after mānaveṣu
 
@@ -6642,7 +6643,7 @@ Brahmavihāras go back to the upaniṣads
         <NOTE>Note the gender and number confusion between Łkīrtitāni$ and °Łācāram$ in Łpāda$s cd.
               This and the next verse sound as if the author had been aware of the fact that he 
               left the remaining three categories of purity (see 5.4) unexplained.</NOTE>
-        <TR>the practice of purity is definitely expanded in great detail.</TR>
+        <TR>the practice of purity is definitely expounded in great detail.</TR>
 
 %index_grammar: gender
 
@@ -7960,7 +7961,6 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 %folioinfo \msPaperA\ 340.jpg lower, line 8
 %folioinfo \Ed\ p.603
 
-<START/>
 % Read this chapter with Judit Törzsök in Oct 2021 in Naples
 <startchapter-n="8"/> 
 <CHAPTER>aṣṭamo 'dhyāyaḥ</CHAPTER>
@@ -9225,7 +9225,6 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<STOP/>
 
 
 %folioinfo \msCa\ 406.jpg, line 5
@@ -10142,7 +10141,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
               interlocutor of the \SDHS\ and the \SDHSAMGR.
               This verse marks the beginning of the layer that can be labelled Śaiva.
               On Nandi/Nandin/Nandikeśvara not being Śiva's bull, see
-              <cite>bhattacharya_nandin_1977</cite> and p. \pageref{nandi_not_bull} above.</NOTE>
+              <cite>bhattacharya_nandin_1977</cite> and p.~\pageref{nandi_not_bull} above.</NOTE>
         <TR>Nandikeśvara spoke:</TR>
 
 <TEXT> kailāsaśikhare ramye siddhacāraṇasevite|</TEXT>
@@ -10384,29 +10383,40 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TEXT> suṣumnā bhagavatī gaṅgā iḍā ca yamunā nadī|</TEXT>
         <APP>\va <LEM>suṣumnā</LEM> \mssCaCbCc\msNa\msNb\msNc; suṣumṇā \Ed\oo
                  <LEM>bhagavatī gaṅgā</LEM> \msCb\msCc\msNa\msNb\msNc\ \unmetr; bhagavatī ga\lk\ \msCa, bhavatī gaṅgā \Ed</APP>
-        <NOTE>There seems to be only two yogic tubes mentioned here (and in 10.20--21): 
-                Suṣumnā and Iḍā, instead of the more usual triad of Iḍā, Piṅgalā, and Suṣumnā. This is strikingly similar to
-                what we see in the archaic yoga of the \NISVNAYA, see <citep>NisvasaGoodall</citep><pnum>33--34</pnum>.
-                According to <citep>BaroisDhP</citep><pnum>23 and 46</pnum> the case is similar in the \DHARMP.
-                This is slightly doubtful because a third tube, called Turyā, is mentioned immediately after
-                Iḍā and Suṣumnā in \DHARMP\ 4.57: 
-                        <skt>iḍā vāmā suṣumnā ca dve nāḍī nāsikāśrite |
-                             bhruvor madhye parā nāḍī tajjñais turyeti kīrttitā ||</skt>.
-                 It is also possible that the third tube is there, as Prayāga, in our obscure \VSS\ 10.17cd,
-                 which may want to say that at the confluence of the Gaṅgā/Suṣumnā and the Yamunā/Iḍā,
-                 there is the internalised pilgrimage place, or tube, called Prayāga.
-                 Compare \MBH\ Indices 6.3A.41--44:
-                 <skt>iḍā bhagavatī gaṅgā piṅgalā yamunā nadī |
-                 tayor madhye tṛtīyā tu tat prayāgam anusmaret ||
-                 iḍā vai vaiṣṇavī nāḍī brahmanāḍī tu piṅgalā |
-                 suṣumṇā caiśvarī nāḍī tridhā prāṇavahā smṛtā ||</skt>.
-                 Note that Yamunā has not been mentioned as a Łtīrtha$ in the \VSS.
+        <NOTE>There seems to be only two yogic tubes mentioned 
+              here (and in 10.20--21): Suṣumnā and Iḍā, instead 
+              of the more usual triad of Iḍā, Piṅgalā, 
+              and Suṣumnā. This is strikingly similar to
+              what we see in the archaic yoga of the \NISVNAYA, 
+              see 
+              <citep>NisvasaGoodall</citep><pnum>33--34</pnum>.
+              According to 
+              <citep>BaroisDhP</citep><pnum>23 and 46</pnum> 
+              the case is similar in the \DHARMP.
+              This is slightly doubtful because a third tube, 
+              called Turyā, is mentioned immediately after
+              Iḍā and Suṣumnā in \DHARMP\ 4.57: 
+       <skt>iḍā vāmā suṣumnā ca dve nāḍī nāsikāśrite |
+            bhruvor madhye parā nāḍī tajjñais turyeti kīrttitā ||</skt>.
+            It is also possible that the third tube is there, 
+            as Prayāga, in our obscure \VSS\ 10.17cd,
+            which may want to say that at the confluence of 
+            the Gaṅgā/Suṣumnā and the Yamunā/Iḍā,
+            there is the internalised pilgrimage place, 
+            or tube, called Prayāga.
+         Compare \MBH\ Indices 6.3A.41--44:
+         <skt>iḍā bhagavatī gaṅgā piṅgalā yamunā nadī |
+         tayor madhye tṛtīyā tu tat prayāgam anusmaret ||
+         iḍā vai vaiṣṇavī nāḍī brahmanāḍī tu piṅgalā |
+         suṣumṇā caiśvarī nāḍī tridhā prāṇavahā smṛtā ||</skt>.
+         Note that Yamunā has not been mentioned as 
+         a Łtīrtha$ in \VSS\ 10.7--8 above.
         See also \HYP\ 3.110:
         <skt>iḍā bhagavatī gaṅgā piṅgalā yamunā nadī |
         iḍāpiṅgalayor madhye bālaraṇḍā ca kuṇḍalī ||</skt>.
  
-                Note also \Ed's attempt to make Łpāda$ a metrical.</NOTE>
-        <TR>The Suṣumnā[-tube] is the Honourable Gaṅgā, Iḍā[-tube] is the river Yamunā.</TR>
+        Note also \Ed's attempt to make Łpāda$ a metrical.</NOTE>
+        <TR>The Suṣumnā[-tube] is the Honourable Gaṅgā, Iḍā[-tube]              is the river Yamunā.</TR>
 
 % maybe Bhāgmatī?
 %index_geo: Yamunā
@@ -12498,7 +12508,7 @@ The added line is in PaperMS A1341 (img 346, l. 3: śuddhāpūrvvakam eva yaḥ 
                 a Brahmin guest (Dharma in diguise?);
                 a monkey;
                 Bhīmabala---a traveller;
-                Puṇḍaka---the foremand of the guild;
+                Puṇḍaka---the foreman of the guild;
                 King Siṃhajaṭa;
                 Queen Kekayī;
                 Caṇḍa and Vicaṇḍa---two envoys of the king;
@@ -13422,7 +13432,7 @@ prabhāvena \msNa\msNb\msNc CHECK other MSS
 
                 Since I am not aware of any attestation of Naravīrapura as a city,
                 I suspect that this name is either a mistake for or a pun on
-                Karavīrapura, possibly modern Kolhapur in Maharashtra. See more in Intro\verify.</NOTE>
+                Karavīrapura, possibly modern Kolhapur in Maharashtra.</NOTE>
         <TR>This is the Deccan region, and this is the city of Naravīra.</TR>
 
 %index_geo: dakṣiṇāpathadeśa (Deccan)
@@ -13883,6 +13893,9 @@ purana/padma-puranam/06/106.txt-    12- brāhmaṇo dharmavit kaścid dharmadatt
               in verse 12.126 (Łrājadūtadvayam$), sent along with Bhīmabala to make sure he obeys the king's command.
               Compare with \SDHU\ 7.101, where Yama's attendants are called Caṇḍa and Mahācaṇḍa.</NOTE>
         <TR>[Vipula] will be slain by Caṇḍa and Vicaṇḍa. Beware, Bhīmabala, he is a vile person!'</TR>
+
+%index_persons: Caṇḍa
+%index_persons: Vicaṇḍa
 
 % ŚDhU 7 ed by Kenji and Sathya
 %index_stemma: \msCb against \msCa\msNa\msNc\ !
@@ -15117,6 +15130,7 @@ not in C107 8320.jpg lower
 %END OF CHAPTER 12
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+<STOP/>
 
 <ANUSTUBH/>
 
@@ -18273,13 +18287,11 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 % \msT\ 4008.g  
 
 
-<START/>
 
 <startchapter-n="17"/> 
 <CHAPTER>saptadaśamo 'dhyāyaḥ</CHAPTER>
 <TRCHAPTER>Chapter Seventeen</TRCHAPTER>
  
-<STOP/>
 
 <SUBCHAPTER>dānadharmaviśeṣaḥ</SUBCHAPTER>
 <TRSUBCHAPTER>The particulars of the Dharma of donation</TRSUBCHAPTER>
@@ -19596,7 +19608,6 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <TR>king Yudhiṣṭhira went to the third heaven in his bodily form.</TR>
 
 %index_persons: Yudhiṣṭhira
-<START/>
 <SETVSNUM="50"/>
 <TEXT> satyabhāmā svakaṃ bhartrā dattvā nāradasatkṛtam|</TEXT> 
         <APP>\va <LEM>°bhāmā</LEM> \eme; °bhāmaḥ \msCa\msCb\msParis\msPaperA, °bhāsaḥ \msNa\oo
@@ -19632,7 +19643,6 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\vc <LEM>dānasyāsya</LEM> \mssALL\msCa\msCb\msNa\msParis; dānāsyāsya \msPaperA</APP>
         <TR>By the force of this donation, he [i.e. Nārada] went to the third heaven.</TR>
 
-<STOP/>
 %lacuna_start: msParis
 % \msParis continues with ŚDhU 2 in 451.jpg--452; 453.jpg returns to 18.20a
 <TEXT> catuḥṣaṣṭisahasrāṇi gavāṃ dattvā dvijanmane|</TEXT> 
@@ -24594,14 +24604,14 @@ https://goo.gl/maps/vrYvhGGDvTuYpNMt6
 %index_geo: Mṛgendraśikhara
 
 % simply Eastern?
-<TEXT> mahendrapathagā nāma nadītīre narādhipa||</TEXT> 22:5
+<TEXT> mahendrapathagānāmanadītīre narādhipa||</TEXT> 22:5
         <APP>\vc <LEM>mahendra°</LEM> \mssCaCbCc\msNa\msNc\Ed; mṛgendra° \msNb, mahindra° \msL</APP>
         <APP>\vd <LEM>°pa</LEM> \mssCaCbCc\msNa\msNb\msNc\msL; °paḥ \Ed</APP>
-        <TR>on the banks of the river Mahendrapathagā[?], O King,</TR>
-%index_geo: Mahendrapathagā (river)
-MBh rivers:
-06010021a pūrvābhirāmāṃ vīrāṃ ca bhīmām oghavatīṃ tathā
-06010021c palāśinīṃ pāpaharāṃ mahendrāṃ pippalāvatīm
+        <TR>on the banks of the river Mahendrapathaga, O King,</TR>
+%index_geo: Mahendrapathaga (river)
+%MBh rivers:
+%06010021a pūrvābhirāmāṃ vīrāṃ ca bhīmām oghavatīṃ tathā
+%06010021c palāśinīṃ pāpaharāṃ mahendrāṃ pippalāvatīm
 
 
 <TEXT> tatrāśramapadaṃ tasya puline sumanorame|</TEXT>
@@ -26872,4 +26882,3 @@ it can be reconstructed with the help of another folio, 493.jpeg, end of Dharmap
 %END OF VSS 
 
 
-<STOP/>

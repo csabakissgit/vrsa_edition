@@ -14,14 +14,20 @@
 \usepackage{pdfpages}
 \usepackage{todonotes}
 
+\usepackage{tikz}
+\usepackage{color}
+\usetikzlibrary{positioning}% To get more advanced positioning options
+\usetikzlibrary{decorations.text}
+
+
 \parskip.1em\parindent1.5em
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % customize the TOC
 \usepackage{tocloft}
-\renewcommand{\cftsecafterpnum}{\hspace*{5em}}
-\renewcommand{\cftsubsecafterpnum}{\hspace*{5em}}
-\renewcommand{\cftsubsubsecafterpnum}{\hspace*{5em}}
-\renewcommand{\cftchapafterpnum}{\hspace*{5em}}
+\renewcommand{\cftsecafterpnum}{\hspace*{0em}}
+\renewcommand{\cftsubsecafterpnum}{\hspace*{0em}}
+\renewcommand{\cftsubsubsecafterpnum}{\hspace*{0em}}
+\renewcommand{\cftchapafterpnum}{\hspace*{0em}}
 
 \makeatletter
 \newcommand \mydotfill {\leavevmode \cleaders \hb@xt@ .8em{\hss .\hss }\hfill \kern \z@}
@@ -39,7 +45,7 @@
 \setcitestyle{authoryear, round, aysep={ },numbers,open={},close={},notesep={,\thinspace }}
 % to modify the appearance of the label (SANDERSON 2009) in the bibliography (get rid of []s):
 \makeatletter                         % Reference list option change
-\renewcommand\@biblabel[1]{#1:}      %   from [1] to 1.
+\renewcommand\@biblabel[1]{#1:}      %   from [1] to 1:
 \makeatother      
 % Title of biblio
 %For book-classes: 
@@ -140,6 +146,7 @@
 
 % FONT STUFF
 \newfontfamily\devanagarifont[Script=Devanagari]{Shobhika-Regular}
+\newfontfamily\newarfont[Script=Devanagari]{Noto Sans Newa}
 \newfontfamily\englishfont{EB Garamond}
 \setmainlanguage{english}
 \setotherlanguages{sanskrit}
@@ -240,7 +247,8 @@
 \newcommand{\mysubsection}[2]{\noindent\textit{#1}\label{#2}\\%
 \noindent%
 }
-\newcommand{\mysubsubsection}[2]{\noindent{\color{orange}{#1}}\label{#2}\hskip2em}
+\newcommand{\mysubsubsection}[2]{\noindent{\color{black}{\textbf{#1}}}\label{#2}\hskip2em}
+\newcommand{\msdescr}[2]{\medskip\noindent{\color{black}{\large\textbf{#1}}}\label{#2}\hskip2em}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -375,6 +383,313 @@
 %\smallskip
 %\leftskip0em
 }
+
+
+% START
+% FOR DRAWING MANDALAS TO SHOW STRUCTURE OF VSS
+
+
+
+
+%based on http://www.texample.net/tikz/examples/mandala/
+
+
+%\definecolor{csabacolor}{HTML}{e6fff0}
+%\definecolor{vaisnava}{HTML}{ff661a}
+%\definecolor{saiva}{HTML}{003399}
+%\definecolor{general}{HTML}{1f7a7a}
+
+% Monochrome version:
+\definecolor{csabacolor}{HTML}{e6fff0}
+\definecolor{vaisnava}{HTML}{cccccc}
+\definecolor{saiva}{HTML}{666666}
+\definecolor{general}{HTML}{ffffff}
+
+\def\petal {
+[rounded corners=0.5] %
+(-1,0) -- (-.7,-1.7) -- (-1,0)%
+.. controls (-1,0.6) and (-0.07,0.8).. (0,1)%
+.. controls (0.07,0.7) and (1,0.6).. (1,0);
+  %.. controls (0.7,-1) and (-0.7,-1).. (-1,0)%
+          }
+
+\def\petalwitharrow {
+[rounded corners=0.5] %
+(-1,0) -- (-.7,-1.7) -- (-1,0)%
+.. controls (-1,0.6) and (-0.07,0.8).. (0,1)%
+.. controls (0.07,0.7) and (1,0.6).. (1,0);
+  %.. controls (0.7,-1) and (-0.7,-1).. (-1,0)%
+\draw [->, very thick] (0,1) -- (0,1.3);
+          }
+
+
+\newcommand{\drawpetals}{%
+\newcount\nums
+\nums=0
+
+\foreach \a in {0,-15,-30,...,-345}
+{
+\begin{scope}[rotate=\a,shift={(0,6)},xscale=1,yscale=1]
+        \draw    [scale=.8] \petal;
+\end{scope}
+
+\begin{scope}[rotate=\a,shift={(0,6.3)},xscale=1,yscale=1]
+        {\global\advance\nums by1}
+        \node [rotate=0, scale=1]{{\the\nums}};
+\end{scope}
+
+}
+}
+
+\newcommand{\drawpetalswitharrows}{%
+\newcount\nums
+\nums=0
+
+\foreach \a in {0,-15,-30,...,-345}
+{
+\begin{scope}[rotate=\a,shift={(0,6)},xscale=1,yscale=1]
+        \draw    [scale=.8] \petalwitharrow;
+\end{scope}
+
+\begin{scope}[rotate=\a,shift={(0,6.3)},xscale=1,yscale=1]
+        {\global\advance\nums by1}
+        \node [rotate=0, scale=1]{{\the\nums}};
+\end{scope}
+
+}
+}
+
+
+\newcommand{\colorpetals}[2]{%
+\begin{scope}[rotate=(#2-1)*-15,shift={(0,6)},xscale=1,yscale=1, opacity=.5]
+        \filldraw    [scale=.8, draw=#1, color=#1] \petal;
+\end{scope}
+}
+
+
+\newcommand{\colorpetalstransition}[3]{%
+\begin{scope}[rotate=(#3-1)*-15,shift={(0,6)},xscale=1,yscale=1, opacity=.5]
+        \shadedraw [scale=.8, draw=#1, left color=#1, right color=#2]  \petal;
+\end{scope}
+}
+
+
+\newcommand{\drawtopicsOne}{%
+\def\topics{{ {"{Brahmāṇḍa}"}, {"{\ \ Śivāṇḍa}"}, {"{\hspace{12em}Dharma = \textit{yama-niyama + varṇāśrama}}"},
+{"{\textit{yama}s}"},
+{"{\textit{niyama}s}"},
+{"{\hspace{1em}\textit{niyama}s}"},
+{"{\hspace{1em}\textit{niyama}s}"},
+{"{\hspace{1em}\textit{niyama}s}"},
+{"{\textit{trikāla} = 3\ \textit{guṇa}s}"},
+%SAIVA
+{"{}"}, {"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+% Anarth
+{"{\hspace{-2em}\textit{varṇa}s}"},
+{"{\textit{tattva}s}"}, {"{\hspace{-2em}Viṣṇu's theophany}"}, {"{\hspace{-6em}Anarthayaj\~na's life}"}, {"{\hspace{-6em}\textit{dharmādharma, nidrotpatti}}"},
+{"{\textit{trailokya}}"} }}
+
+\foreach \a in {0,1,2,...,23} {
+        \begin{scope}[rotate=\a*-15,shift={(0,8.5)},xscale=1,yscale=1]
+        \node[scale=1.3,] {\pgfmathparse{\topics[\a]}{\Large\pgfmathresult}};
+        \end{scope}
+    }
+}
+
+
+\newcommand{\drawtopicsTwo}{%
+\def\topics{{ {"{\ \ Brahmāṇḍa}"}, {"{\ \ Śivāṇḍa}"}, {"{\hspace{9em}Dharma, \textit{yama}s-\textit{niyama}s...}"},
+{"{\textit{yama}s}"},
+{"{\textit{niyama}s}"},
+{"{\hspace{2em}\textit{niyama}s}"},
+{"{\hspace{2em}\textit{niyama}s}"},
+{"{\hspace{2em}\textit{niyama}s}"},
+{"{3\ \textit{guṇa}s}"},
+%SAIVA
+{"{internal \textit{tīrtha}s}"},
+{"{\hspace{6em}{\textit{āśrama}s:}}\ \textit{vinārthena yaj\~naḥ}"},
+{"{Vipula's story}"},
+{"{\hspace{6em}\phantom{\Huge Ā}summary of 10--12, \textit{garbhotpatti}}"},
+{"{the body}"},
+{"{\textit{jīva, śreṣṭha}}"},
+{"{\textit{yoga}}"},
+{"{\textit{dāna}}"},
+{"{\textit{karman}}"},
+% Anarth
+{"{\hspace{-2em}{\textit{varṇa}s}}"},
+{"{\hspace{-1em}\textit{tattva}s}"}, {"{\hspace{-2em}Viṣṇu's theophany}"}, {"{{\hspace{-6em}Anarthayaj\~na's life}}"}, {"{\textit{dharmādharma, nidrā\ \ \ \ \ \ }}"},
+{"{\textit{trailokya}}"} }}
+
+\foreach \a in {0,1,2,...,23} {
+        \begin{scope}[rotate=\a*-15,shift={(0,8)},xscale=1,yscale=1]
+        \node[scale=1.3,] {\pgfmathparse{\topics[\a]}{\pgfmathresult}};
+        \end{scope}
+    }
+}
+
+
+\newcommand{\drawtopicsThree}{%
+\def\topics{{ {"{}"}, {"{}"}, {"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},
+{"{\hspace{5em}\fbox{\textit{āśrama}s:}}\ \textit{vinārthena yaj\~naḥ}"},
+{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},
+% Anarth
+{"{\fbox{\textit{varṇa}s}}"},
+{"{}"},{"{}"},{"{\fbox{Anarthayaj\~na's life}}"},{"{}"},{"{}"}} }
+
+\foreach \a in {0,1,2,...,23} {
+        \begin{scope}[rotate=\a*-15,shift={(0,9)},xscale=1,yscale=1]
+        \node[scale=1.3,] {\pgfmathparse{\topics[\a]}{\Large\pgfmathresult}};
+        \end{scope}
+    }
+}
+
+\newcommand{\drawtopicsDating}{%
+\def\topics{{ {"{}"}, {"{}"}, {"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},
+{"{no \textit{piṅgalā}}"}, {"{order of \textit{āśrama}s, 4 \textit{kalā}s, no \textit{piṅgalā}}"},
+{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},
+% Anarth
+{"{}"},
+{"{no \textit{tanmātra}s}"},{"{}"},{"{}"},{"{}"},{"{}"}} }
+
+\foreach \a in {0,1,2,...,23} {
+        \begin{scope}[rotate=\a*-15,shift={(0,9)},xscale=1,yscale=1]
+        \node[scale=1.3,] {\pgfmathparse{\topics[\a]}{\Large\pgfmathresult}};
+        \end{scope}
+    }
+}
+
+
+
+\newcommand{\bigcircle}{%
+\thispagestyle{empty}
+\hspace{-3cm}
+\draw [scale=1] (0,-1) circle (4.7cm);
+}
+
+\newcommand{\titlecircle}{%
+\thispagestyle{empty}
+\hspace{-3cm}
+\draw [scale=1] (0,-1) circle (4.7cm);
+}
+
+\newcommand{\markAnarthaPresence}[1]{%
+\begin{scope}[rotate=(#1-1)*-15,shift={(0,5.3)},xscale=.7,yscale=.7, opacity=.5]
+        \node    [scale=2, color=black] {{\checkmark}};
+\end{scope}
+}
+
+\newcommand{\markvinarthaPresence}[1]{%
+\begin{scope}[rotate=(#1-1)*-15,shift={(0,5.6)},xscale=.7,yscale=.7, opacity=.5]
+        \node    [scale=1.5, color=black] {{\checkmarksmall}};
+\end{scope}
+}
+
+\newcommand{\centeredtext}[2]{
+\node [color=#1 ]{{\Huge #2}};
+}
+
+\newcommand{\uptext}[2]{
+\node [shift={(0,1)}, color=#1 ]{{{\huge #2}}};
+}
+
+\newcommand{\upuptext}[2]{
+\node [shift={(0,2)}, color=#1 ]{{{\huge #2}}};
+}
+
+\newcommand{\downtext}[2]{
+\node [shift={(0,-1)}, color=#1 ]{{{\huge #2}}};
+}
+
+\newcommand{\downdowntext}[2]{
+\node [shift={(0,-2)}, color=#1 ]{{{\huge #2}}};
+}
+
+% or this:
+\def\checkmark{\tikz\fill[scale=0.5, color=black](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+\def\checkmarksmall{\tikz\fill[scale=0.3, color=black](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+
+
+\newcommand{\colorpetalsOne}{%
+% General
+\colorpetals{general}{22}
+\colorpetals{general}{23}
+\colorpetals{general}{24}
+% Vaisnava
+\colorpetalstransition{general}{vaisnava}{1}
+\colorpetals{saiva}{2}
+\colorpetals{vaisnava}{3}
+\colorpetals{vaisnava}{4}
+\colorpetals{vaisnava}{5}
+\colorpetals{vaisnava}{6}
+\colorpetals{vaisnava}{7}
+\colorpetals{vaisnava}{8}
+\colorpetals{vaisnava}{9}
+\colorpetalstransition{saiva}{vaisnava}{10}
+\colorpetals{vaisnava}{19}
+\colorpetals{vaisnava}{20}
+\colorpetalstransition{vaisnava}{general}{21}
+% Saiva
+\colorpetals{saiva}{11}
+\colorpetals{saiva}{12}
+\colorpetals{saiva}{13}
+\colorpetals{saiva}{14}
+\colorpetals{saiva}{15}
+\colorpetals{saiva}{16}
+\colorpetals{saiva}{17}
+\colorpetals{saiva}{18}
+}
+
+\newcommand{\textOne}{%
+%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+\upuptext{teal}{Vaiśampāyana $\rightarrow$ Janamejaya}
+\uptext{vaisnava}{Anarthayajña $\rightarrow$ Viṣṇu}
+\centeredtext{saiva}{Nandikeśvara: Śiva $\rightarrow$ Devī}
+
+}
+
+\newcommand{\textTwo}{%
+%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+%\upuptext{teal}{Vaiśampāyana $\rightarrow$ Janamejaya}
+%\uptext{vaisnava}{Anarthayajña $\rightarrow$ Viṣṇu}
+\centeredtext{black}{VSS}
+%\downtext{black}{{\Large\checkmark} Anarthayajña present}
+%\downdowntext{black}{\checkmarksmall\textit{yajño 'rthaṃ vinā}}
+
+%Anarthayajña's presence:
+\markAnarthaPresence{1}
+\markAnarthaPresence{2}
+\markAnarthaPresence{3}
+\markAnarthaPresence{4}
+\markAnarthaPresence{5}
+\markAnarthaPresence{6}
+\markAnarthaPresence{7}
+\markAnarthaPresence{8}
+\markAnarthaPresence{9}
+\markAnarthaPresence{10}
+\markAnarthaPresence{19}
+\markAnarthaPresence{20}
+\markAnarthaPresence{21}
+\markAnarthaPresence{22}
+
+% vinārthena yajñaḥ presence
+\markvinarthaPresence{11}
+\markvinarthaPresence{22}
+}
+
+\newcommand{\textDating}{%
+%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+\centeredtext{saiva}{Dating the VSS}
+}
+
+% FOR DRAWING MANDALAS TO SHOW STRUCTURE OF VSS
+% END
 
 
 
