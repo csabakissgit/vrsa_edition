@@ -13,6 +13,8 @@
 \usepackage[total={12cm,21cm},top=2.8cm, left=4.5cm, headsep=1.1cm, footskip=1.5cm, footnotesep=1cm, xetex]{geometry}
 \usepackage{pdfpages}
 \usepackage{todonotes}
+\usepackage{circledsteps}
+
 
 \usepackage{tikz}
 \usepackage{color}
@@ -278,7 +280,8 @@
 \newcommand{\skttitle}[2]{\textsl{#1}\index{#2@\textsl{#1}}}
 \newcommand{\CHECK}{{\englishfont\color{red}{CHECK}}}
 \newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
-\newcommand{\shortsyllable}{\raise-.5em\hbox{˘}$\,$}
+%\newcommand{\shortsyllable}{\raise.15em\hbox{˘}}
+\newcommand{\shortsyllable}{$\cup$}
 \newcommand{\similar}{${\approx}$}
 \newcommand{\compare}{{cf.}}
 \newcommand{\asrama}{\cskt{āśrama}{asrama}}
@@ -361,7 +364,7 @@
 \let\origquote\quote
 \let\endorigquote\endquote
 \renewenvironment{quote}{%
-  \vspace{-.7em}
+  \vspace{-.6em}
     \origquote
     \leftskip-.9em
     \rightskip-1.8em
