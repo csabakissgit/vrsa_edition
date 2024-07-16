@@ -29,6 +29,7 @@
 %                         417.jpg upper is Dharmaputrikā 4.39-55 
 
 %folioinfo \msKo77: Kalkatta g4077-7, starts with ? oṃ namaḥ śivāya
+%folioinfo \msPaperA\  NGMCP A1349/6 f. 204r line 1
 %folioinfo \Ed\ p.580: atha vṛsasārasaṃgrahaprārambha(ḥ) )
 
 
@@ -204,7 +205,7 @@
 %index_licence: bra
 
 <SUBCHAPTER>janamejayavaiśampāyanasaṃvādaḥ</SUBCHAPTER>
-<TRSUBCHAPTER>The dialogue of Janamejaya and Vaiśampāyana</TRSUBCHAPTER>
+<TRSUBCHAPTER>Dialogue of Janamejaya and Vaiśampāyana</TRSUBCHAPTER>
 <ANUSTUBH/>
 <TEXT> śatasāhasrikaṃ granthaṃ sahasrādhyāyam{ }uttamam|</TEXT>
         <APP>\va <LEM>granthaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msNd\msM\Ed; graṃtha \msKOa</APP>
@@ -448,7 +449,7 @@
 
 
 <SUBCHAPTER>brahmavidyā</SUBCHAPTER>
-<TRSUBCHAPTER>The knowledge of Brahman</TRSUBCHAPTER>
+<TRSUBCHAPTER>Knowledge of Brahman</TRSUBCHAPTER>
 %folioinfo \Ed\ p.581
 
 <TEXT> [vigatarāga uvāca|* ]</TEXT>
@@ -503,7 +504,7 @@
 
 
 <SUBCHAPTER>kālapāśaḥ</SUBCHAPTER>
-<TRSUBCHAPTER>The noose of death and time</TRSUBCHAPTER>
+<TRSUBCHAPTER>Noose of death and time</TRSUBCHAPTER>
 <TEXT> vigatarāga uvāca|*</TEXT>
         <APP>\vo <LEM>°rāga uvāca</LEM> \mssCaCbCc\msNa\msNb\msNc\msM\msKOa\Ed; °rāgovāca \msNd</APP>
         <TR>Vigatarāga spoke:</TR>
@@ -949,7 +950,7 @@
 %folioinfo \msM\ 413.jpg lower, f. 2r
 
 <SUBCHAPTER>parārdhādi</SUBCHAPTER>
-<TRSUBCHAPTER>The Łparārdha$ etc.: numbers</TRSUBCHAPTER>
+<TRSUBCHAPTER>ŁParārdha$ etc.: numbers</TRSUBCHAPTER>
 
 <TEXT> vigatarāga uvāca|*</TEXT>
         <TR>Vigatarāga spoke:</TR>
@@ -1164,7 +1165,7 @@
 
 
 <SUBCHAPTER>bhūbhṛtāṃ nāmāni</SUBCHAPTER>
-<TRSUBCHAPTER>The names of the cosmic rulers</TRSUBCHAPTER>
+<TRSUBCHAPTER>Names of the cosmic rulers</TRSUBCHAPTER>
 
 <SUBSUBCHAPTER>pūrvataḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>East</TRSUBSUBCHAPTER>
@@ -1671,7 +1672,7 @@ saiva/sivadharma/01sdhs/sivadharmasastra.dn:kalpako.tisahasraa.ni kalpako.ti"sat
 
 % SEE Rocher pp.41 ff, p45: 'The Western concept of a single, original purāṇa'... 'the Indian tradition itself suggests that originally there was but one purāṇa.' pp.46-47: Matsya's version is closest perhaps; p47: word purāṇa in the singular
 <SUBCHAPTER>purāṇam</SUBCHAPTER>
-<TRSUBCHAPTER>[The redactors of] the Purāṇa[s])</TRSUBCHAPTER>
+<TRSUBCHAPTER>Redactors of the Purāṇa[s]</TRSUBCHAPTER>
 % purāṇāni? or aśī for aśīti 80?
 <TEXT> purāṇāśīsahasrāṇi śatāni dvijasattama|</TEXT>
         <TR>O truest of the twice-born, the Purāṇa[s of] 8,000,000 [verses]</TR>
@@ -1984,7 +1985,6 @@ Also Yuko's article in our volume and
 - ———. 1954. Das Purāṇa vom Weltgebäude (Bhuvanavinyāsa). Die kosmographischen Traktate der Purāṇa’s Versuch einer Textgeschichte. Bonner Orientalistischen Studien, Neue Serie, 1. Bonn: Selbstverlag des Orientalischen Seminars der Universität Bonn.
 
 
-<STOP/>
 
 <startchapter-n="2"/> 
 % chapter 2
@@ -2708,7 +2708,7 @@ aṇimā laghimā prāptir īśāno jyotir avyayaḥ // MBh 12. 300. 13
 <TRCHAPTER>  Chapter Three </TRCHAPTER>
 
 <SUBCHAPTER>dharmapravacanam</SUBCHAPTER>
-<TRSUBCHAPTER>An Exposition of Dharma</TRSUBCHAPTER>
+<TRSUBCHAPTER>Exposition of Dharma</TRSUBCHAPTER>
 
 <ANUSTUBH/>
 <TEXT> vigatarāga uvāca|*</TEXT>
@@ -3282,7 +3282,7 @@ laukikaṃ kathitaṃ hy etad vaidikañ cāturāśramam ||
 
 
 <SUBCHAPTER>yameṣv{ }ahiṃsā (1)</SUBCHAPTER>
-<TRSUBCHAPTER>The first Yama-rule: Non-violence</TRSUBCHAPTER>
+<TRSUBCHAPTER>First Yama-rule: non-violence</TRSUBCHAPTER>
 
 <SUBSUBCHAPTER>pañcavidhā hiṃsā</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Five types of violence</TRSUBSUBCHAPTER>
@@ -3753,7 +3753,7 @@ Peter Bisschop studied the kotihoma CHECK
 <TRCHAPTER> Chapter Four </TRCHAPTER>
 
 <SUBCHAPTER>yameṣu satyam (2)</SUBCHAPTER>
-<TRSUBCHAPTER>The second Yama-rule: Truthfulness</TRSUBCHAPTER>
+<TRSUBCHAPTER>Second Yama-rule: truthfulness</TRSUBCHAPTER>
 
 <ANUSTUBH/>
 <TEXT> anarthayajña uvāca|*</TEXT>
@@ -4241,7 +4241,7 @@ Vagy
 
 
 <SUBCHAPTER>yameṣv{ }asteyam (3)</SUBCHAPTER>
-<TRSUBCHAPTER>The third Yama-rule: Refraining from stealing</TRSUBCHAPTER>
+<TRSUBCHAPTER>Third Yama-rule: refraining from stealing</TRSUBCHAPTER>
 
 %folioinfo \msNc\ 217.jpg lower, f. 215r
 <TEXT> vigatarāga uvāca|*</TEXT>
@@ -4642,7 +4642,7 @@ REVISE: % Judit: MSS prāptaśśāsana? CHECK yes: \msCa no: \msCb\msCc\msNa\msN
 
 
 <SUBCHAPTER>yameṣv{ }ānṛśaṃsyam (4)</SUBCHAPTER>
-<TRSUBCHAPTER>The fourth Yama-rule: Absence of hostility</TRSUBCHAPTER>
+<TRSUBCHAPTER>Fourth Yama-rule: absence of hostility</TRSUBCHAPTER>
 
 <ANUSTUBH/>
 <TEXT> aṣṭamūrtiśivadveṣṭā pitur{ }mātuś{ }ca yo dviṣet|</TEXT>
@@ -5121,7 +5121,7 @@ sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
 
 
 <SUBCHAPTER>yameṣu damaḥ (5)</SUBCHAPTER>
-<TRSUBCHAPTER>The fifth Yama-rule: Self-restraint</TRSUBCHAPTER>
+<TRSUBCHAPTER>Fifth Yama-rule: self-restraint</TRSUBCHAPTER>
 
 <TEXT> dama eva manuṣyāṇāṃ dharmasārasamuccayaḥ|</TEXT> 
         <APP>\vb <LEM>dharmasāra°</LEM> \eme; dharmaḥ sāra° \mssCaCbCc\msNa\msNb\msNc, dharmabhāra° \Ed</APP>
@@ -5546,7 +5546,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 
 %folioinfo \msCc\ 195.jpg, f. 276r
 <SUBCHAPTER>yameṣu ghṛṇā (6)</SUBCHAPTER>
-<TRSUBCHAPTER>The sixth Yama-rule: Taboos</TRSUBCHAPTER>
+<TRSUBCHAPTER>Sixth Yama-rule: taboos</TRSUBCHAPTER>
 
 <ANUSTUBH/>
 <TEXT> nirghṛṇo na paratrāsti nirghṛṇo na ihāsti vai|</TEXT>
@@ -5744,7 +5744,7 @@ kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
 
 
 <SUBCHAPTER>yameṣu pañcavidho dhanyaḥ (7)</SUBCHAPTER>
-<TRSUBCHAPTER>The seventh Yama-rule: The five methods of virtue?</TRSUBCHAPTER>
+<TRSUBCHAPTER>Seventh Yama-rule: five methods of virtue</TRSUBCHAPTER>
 
 %folioinfo \msNa\ 202.jpg upper, f.8v
 <ANUSTUBH/>
@@ -5929,7 +5929,7 @@ Brahmavihāras go back to the upaniṣads
 
 
 <SUBCHAPTER>yameṣv{ }apramādaḥ (8)</SUBCHAPTER>
-<TRSUBCHAPTER>The eighth Yama-rule: Lack of negligence</TRSUBCHAPTER>
+<TRSUBCHAPTER>Eighth Yama-rule: lack of negligence</TRSUBCHAPTER>
 
 <TEXT> pramādasthāna pañcaiva kīrtayiṣyāmi tac{ }chṛṇu|</TEXT>
         <APP>\va <LEM>°sthāna</LEM> \msCa\msCc\msNa\msNb; °sthānaṃ \msCb\msNc\Ed\ \unmetr\oo
@@ -6075,7 +6075,7 @@ Brahmavihāras go back to the upaniṣads
 %index_grammar: gender
 
 <SUBCHAPTER>yameṣu mādhuryam (9)</SUBCHAPTER>
-<TRSUBCHAPTER>The ninth Yama-rule: Charm</TRSUBCHAPTER>
+<TRSUBCHAPTER>Ninth Yama-rule: charm</TRSUBCHAPTER>
 
 % on kāyavāg etc. see Manu 12.3
 % Törzsök
@@ -6149,7 +6149,7 @@ Brahmavihāras go back to the upaniṣads
 
 
 <SUBCHAPTER>yameṣv{ }ārjavam (10)</SUBCHAPTER>
-<TRSUBCHAPTER>The tenth Yama-rule: Sincerity</TRSUBCHAPTER>
+<TRSUBCHAPTER>Tenth Yama-rule: sincerity</TRSUBCHAPTER>
 
 <TEXT> pañcārjavāḥ praśaṃsanti munayas{ }tattvadarśinaḥ|</TEXT>
         <APP>\va <LEM>pañcārjavāḥ</LEM> \msCa\msCb\msNa\msNc; pañcārjavaḥ \msCc, \lk\lk \lk\lk\ \msNb, pañcārjavā \Ed\oo
@@ -6378,7 +6378,7 @@ Brahmavihāras go back to the upaniṣads
 
 
 <SUBCHAPTER>niyameṣu śaucam (1)</SUBCHAPTER>
-<TRSUBCHAPTER>The first Niyama-rule: Purity</TRSUBCHAPTER>
+<TRSUBCHAPTER>First Niyama-rule: purity</TRSUBCHAPTER>
 
 <TEXT> tatra śaucādinirdeśaṃ vakṣyāmīha dvijottama|</TEXT>
         <APP>\va <LEM>°nirdeśaṃ</LEM> \mssCaCbCc\msNc\msM\Ed; °niyamaṃ \msNa, °rddeśaṃ \msNb</APP>
@@ -6789,7 +6789,7 @@ Brahmavihāras go back to the upaniṣads
 % CHECK Śivadharmottara 3.12-15 !!
 
 <SUBCHAPTER>niyameṣv{ }ijyā (2)</SUBCHAPTER>
-<TRSUBCHAPTER>The second Niyama-rule: Sacrifice</TRSUBCHAPTER>
+<TRSUBCHAPTER>Second Niyama-rule: sacrifice</TRSUBCHAPTER>
 
 <ANUSTUBH/>
 % [anarthayajña uvāca|*]
@@ -7155,7 +7155,7 @@ Brahmavihāras go back to the upaniṣads
 <ANUSTUBH/>
 
 <SUBCHAPTER>niyameṣu tapaḥ (3)</SUBCHAPTER>
-<TRSUBCHAPTER>The third Niyama-rule: Penance</TRSUBCHAPTER>
+<TRSUBCHAPTER>Third Niyama-rule: penance</TRSUBCHAPTER>
 
 % cf. Manu 12.3ff
 <TEXT> mānasaṃ tapa ādau tu dvitīyaṃ vācikaṃ tapaḥ|</TEXT>
@@ -7397,7 +7397,7 @@ purana/mahAbhAratam/kumbhakonam/13/010.md:ma.n.duuka"saayii ca naro labhate ceps
 
 
 <SUBCHAPTER>niyameṣu dānam (4)</SUBCHAPTER>
-<TRSUBCHAPTER>The fourth Niyama-rule: Donation</TRSUBCHAPTER>
+<TRSUBCHAPTER>Fourth Niyama-rule: donation</TRSUBCHAPTER>
 
 % tathaivāhuḥ?
 <TEXT> dānāni ca tathety{ }āhuḥ pañcadhā munibhiḥ purā|</TEXT>
@@ -7974,7 +7974,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 <TRCHAPTER> Chapter Eight</TRCHAPTER>
 
 <SUBCHAPTER>niyameṣu svādhyāyaḥ (5)</SUBCHAPTER>
-<TRSUBCHAPTER>The fifth Niyama-rule: Study</TRSUBCHAPTER>
+<TRSUBCHAPTER>Fifth Niyama-rule: study</TRSUBCHAPTER>
 
 % in this chapter \Ed and \msCc seem close
 %chapter 8
@@ -8135,7 +8135,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 
 <SUBCHAPTER>niyameṣv{ }upasthanigrahaḥ (6)</SUBCHAPTER>
-<TRSUBCHAPTER>The sixth Niyama-rule: Sexual restraint</TRSUBCHAPTER>
+<TRSUBCHAPTER>Sixth Niyama-rule: sexual restraint</TRSUBCHAPTER>
 
 %\msKOa:paṃcoprasthavinigraha sṛṇuyāvaṃhito dvija !
 <TEXT> śṛṇuṣvāvahito vipra pañcopasthavinigraham|</TEXT>
@@ -8304,7 +8304,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 
 <SUBCHAPTER>niyameṣu vratapañcakam (7)</SUBCHAPTER>
-<TRSUBCHAPTER>The seventh Niyama-rule: religious observances</TRSUBCHAPTER>
+<TRSUBCHAPTER>Seventh Niyama-rule: religious observances</TRSUBCHAPTER>
 
 <TEXT> mārjārakabakaśvānagomahīvratapañcakam|</TEXT>
         <APP>\vab <LEM>mārjārakabakaśvānagomahīvrata°</LEM> \mssCaCbCc\msNa\msNc\msParis;
@@ -8316,7 +8316,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 
 <SUBSUBCHAPTER>mārjārakavratam</SUBSUBCHAPTER>
-<TRSUBSUBCHAPTER>The Cat Observance</TRSUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Cat observance</TRSUBSUBCHAPTER>
 
 % °viṣṭhāmūtra would be pathyā
 <TEXT> svaviṣṭhamūtraṃ bhūmīṣu chādayed{ }dvijasattama|</TEXT>
@@ -8341,7 +8341,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 %index_grammar: stem form metri causa 
 
 <SUBSUBCHAPTER>bakavratam</SUBSUBCHAPTER>
-<TRSUBSUBCHAPTER>The Heron Observance</TRSUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Heron observance</TRSUBSUBCHAPTER>
 
 <TEXT> bakavac{ }cendriyagrāmaṃ suniyamya tapodhana|</TEXT>
         <APP>\va <LEM>tapodhana</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis; 
@@ -8380,7 +8380,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 
 <SUBSUBCHAPTER>śvānavratam</SUBSUBCHAPTER>
-<TRSUBSUBCHAPTER>The Dog Observance</TRSUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Dog observance</TRSUBSUBCHAPTER>
 
 <TEXT> mūtraviṣṭhe na bhūmīṣu kurute dhunadaṃ sadā|</TEXT>
         <APP>\va <LEM>mūtraviṣṭhe na</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; 
@@ -8422,7 +8422,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 
 <SUBSUBCHAPTER>govratam</SUBSUBCHAPTER>
-<TRSUBSUBCHAPTER>The Cow Observance</TRSUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Cow observance</TRSUBSUBCHAPTER>
 <TEXT> mūtravarco na rudhyeta sadā govratiko naraḥ|</TEXT>
         <APP>\va <LEM>°varco</LEM> \mssALL\msCa\msCc\msNb\msNc\msParis\msPaperA;
                                                          °vacco \msCb\msNa, °varcā \Ed</APP>
@@ -8458,7 +8458,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 
 <SUBSUBCHAPTER>mahīvratam</SUBSUBCHAPTER>
-<TRSUBSUBCHAPTER>The Earth Observance</TRSUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Earth observance</TRSUBSUBCHAPTER>
 % dārayanno \msCa 
 <TEXT> kuddālair{ }dārayanto 'pi kīlakoṭiśataiś{ }citaḥ|</TEXT>
         <APP>\va <LEM>kuddālair{ }dārayanto</LEM> \msNa\msParis\Ed;
@@ -8527,7 +8527,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 
 <SUBCHAPTER>niyameṣv{ }upavāsaḥ (8)</SUBCHAPTER>
-<TRSUBCHAPTER>The eighth Niyama-rule: Eating restrictions</TRSUBCHAPTER>
+<TRSUBCHAPTER>Eighth Niyama-rule: eating restrictions</TRSUBCHAPTER>
 % Cf. Śivadharmaśāstra 10
 
 <TEXT> śeṣānnam{ }antarānnaṃ ca naktāyācitam{ }eva ca|</TEXT>
@@ -8675,7 +8675,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 
 <SUBCHAPTER>niyameṣu maunavratam (9)</SUBCHAPTER>
-<TRSUBCHAPTER>The ninth Niyama-rule: Silence</TRSUBCHAPTER>
+<TRSUBCHAPTER>Ninth Niyama-rule: silence</TRSUBCHAPTER>
 
 <TEXT> mithyāpiśunapāruṣyatīkṣṇavāg{ }apralāpanam|</TEXT>
         <APP>\va <LEM>°pāruṣya°</LEM> \msCa\msCb\msNa\msNb\msNc\msParis; °saṃbhinnā \msCc, 
@@ -8906,7 +8906,7 @@ navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
 
 <ANUSTUBH/>
 <SUBCHAPTER>niyameṣu snānam (10)</SUBCHAPTER>
-<TRSUBCHAPTER>The tenth Niyama-rule: Bathing</TRSUBCHAPTER>
+<TRSUBCHAPTER>Tenth Niyama-rule: bathing</TRSUBCHAPTER>
 
 % śnānam \msCa
 <TEXT> snānaṃ pañcavidhaṃ caiva pravakṣyāmi yathātatham|</TEXT>
@@ -9250,7 +9250,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TRCHAPTER> Chapter Nine</TRCHAPTER>
 
 <SUBCHAPTER>traiguṇyam</SUBCHAPTER>
-<TRSUBCHAPTER>The system of three qualities</TRSUBCHAPTER>
+<TRSUBCHAPTER>System of three qualities</TRSUBCHAPTER>
 
 <ANUSTUBH/>
 [anarthayajña uvāca|*]
@@ -10088,7 +10088,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
        <TRCHAPTER> Chapter Seven </TRCHAPTER>
 
 <SUBCHAPTER>kāyatīrthopavarṇanam</SUBCHAPTER>
-<TRSUBCHAPTER>The description of the pilgrimage places in the body</TRSUBCHAPTER>
+<TRSUBCHAPTER>Description of the pilgrimage places in the body</TRSUBCHAPTER>
 % ŚDhU:
 % tīrthāni toyapūrṇāni devāḥ pāṣāṇamṛṇmayāḥ|
 % yogino na prapadyante svātmapratyayakāriṇaḥ|| 3.63||
@@ -10458,7 +10458,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 %index_geo: Vārāṇasī
 
 <SUBSUBCHAPTER>gaṅgā</SUBSUBCHAPTER>
-<TRSUBSUBCHAPTER>The Gaṅgā</TRSUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Gaṅgā</TRSUBSUBCHAPTER>
 <TEXT> ākāśagaṅgā vikhyātā tasyāḥ sravati cāmṛtam|</TEXT>
         <APP>\vb <LEM>tasyāḥ</LEM> \msCa\msCb\msNa\msNc\Ed; tasmā \msCc, tasyā \msNb</APP>
         <NOTE>This verse may describe a bodily location such as the soft palate as an
@@ -10974,7 +10974,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 
 <ANUSTUBH/>
 <SUBCHAPTER>caturāśramadharmavidhānaḥ</SUBCHAPTER>
-<TRSUBCHAPTER>The regulations on the Dharma of the four āśramas</TRSUBCHAPTER>
+<TRSUBCHAPTER>Regulations on the Dharma of the four āśramas</TRSUBCHAPTER>
 
 <TEXT> devy{ }uvāca|*</TEXT>
         <TR>The Goddess spoke:</TR>
@@ -11083,7 +11083,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 
 
 <SUBCHAPTER>gṛhasthaḥ(?)</SUBCHAPTER>
-<TRSUBCHAPTER>The householder(?)</TRSUBCHAPTER>
+<TRSUBCHAPTER>The householder</TRSUBCHAPTER>
 <TEXT> vinārthena tu yo yajñaḥ sa yajñaḥ sārvakāmikaḥ|</TEXT>
         <APP>\vb <LEM>yajñaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; yajña \Ed\oo
                  <LEM>sārvakāmikaḥ</LEM> \msCb\Ed; sarvakālikaḥ \msCa\msNc,
@@ -12433,7 +12433,7 @@ The added line is in PaperMS A1341 (img 346, l. 3: śuddhāpūrvvakam eva yaḥ 
 <TRCHAPTER> Chapter Twelve </TRCHAPTER>
 
 <SUBCHAPTER>ātithyadharmaḥ</SUBCHAPTER> 
-<TRSUBCHAPTER>The rules of hospitality</TRSUBCHAPTER> 
+<TRSUBCHAPTER>Rules of hospitality</TRSUBCHAPTER> 
 
 <ANUSTUBH/>
 <TEXT> devy{ }uvāca|*</TEXT>
@@ -12498,7 +12498,7 @@ The added line is in PaperMS A1341 (img 346, l. 3: śuddhāpūrvvakam eva yaḥ 
 
 
 <SUBCHAPTER>vipulopākhyānam</SUBCHAPTER>
-<TRSUBCHAPTER>The Story of Vipula</TRSUBCHAPTER>
+<TRSUBCHAPTER>Story of Vipula</TRSUBCHAPTER>
 % see MBh 13.39.1 (13039001) ff? Yudhuṣṭhira asks Bhīṣma: how to control women. How women were created; 
 % the story itself starts at 13040016; also 13.4?
 % https://www.mahabharataonline.com/translation/mahabharata_13b005.php
@@ -13813,7 +13813,7 @@ purana/padma-puranam/06/106.txt-    12- brāhmaṇo dharmavit kaścid dharmadatt
                               apakramya yayū rājaṃs tvaramāṇā mahārathāḥ ||</skt>), 
                         and this made me choose another option (Łna vanena vane rājan$). 
                         \Ed's variant (Łna phaledaṃ vane rājan$) is likely an attempt to `correct' the text.</NOTE>
-        <TR>`Your majesty, one cannot obtain [such a fruit by wondering] from forest to forest. 
+        <TR>`Your majesty, one cannot obtain [such a fruit by wandering] from forest to forest. 
                   It cannot be obtained through merchants or by cultivating the land.</TR>
 % vānijya \msNc
 
