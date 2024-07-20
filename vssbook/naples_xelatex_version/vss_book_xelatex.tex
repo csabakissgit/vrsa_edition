@@ -45,7 +45,9 @@
 \thispagestyle{empty}
 \tableofcontents
 \thispagestyle{empty}
-
+\renewcommand{\listfigurename}{{\hfill
+        {\normalfont\Large\englishfont List of Figures}\hfill}}
+\listoffigures
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -72,8 +74,8 @@
 %%%%%%%%%%%%%%%%%%%%
 \mychapter{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
 \input{vss_cred_intro}
-\vfill
-\pagebreak
+
+\bigskip
 
 \input{vss_witnesses}
 \vfill
@@ -83,8 +85,8 @@
 %\setcounter{page}{500} % set it in the edition file (.tex, see path below)
 
 %\section{The Sanskrit text}
-\addcontentsline{toc}{section}{The Sanskrit text}
-%\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
+\addcontentsline{toc}{section}{Sanskrit text}
+\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
 
 
 
@@ -123,12 +125,12 @@
 
 % CORRECT PAGE NUMBER AFTER SKT EDITION !
 \setcounter{page}{1000}
-%\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex}
+%%%%%\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex}
 
 \pagebreak
 \blankpage
 
-%\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation_input.tex}
+\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation_input.tex}
 
 
 

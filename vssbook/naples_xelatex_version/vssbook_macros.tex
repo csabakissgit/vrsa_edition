@@ -31,6 +31,8 @@
 \renewcommand{\cftsubsubsecafterpnum}{\hspace*{0em}}
 \renewcommand{\cftchapafterpnum}{\hspace*{0em}}
 
+\renewcommand\cftloftitlefont{\englishfont} % optional
+
 \makeatletter
 \newcommand \mydotfill {\leavevmode \cleaders \hb@xt@ .8em{\hss .\hss }\hfill \kern \z@}
 \makeatother
@@ -176,6 +178,8 @@
 \fancyhead[CO]{}
 \renewcommand{\headrulewidth}{0pt}
 \cfoot{{\footnotesize\thepage}}
+\addtolength{\topmargin}{-2.49998pt}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
