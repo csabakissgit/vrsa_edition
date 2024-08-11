@@ -41,6 +41,7 @@
 <HEADERTITLE>Vṛṣasārasaṃgrahe</HEADERTITLE>
 %chapter 1
 
+<STOP/>
 <startchapter-n="1"/> 
 <CHAPTER>prathamo 'dhyāyaḥ</CHAPTER>
 <TRCHAPTER>Chapter One</TRCHAPTER>
@@ -9517,7 +9518,6 @@ NUMBERS:
                 %see <citep>KissBraYa</citep><pnum>83 and 128ff</pnum>).
                 %(the last one reads Łjanme janme tu yā jātiṃ$, 
 
-% EDDIG
 
 <NOTANUSTUBH/> śārdūlavikrīḍita 
 <LONGVERSELINES/>
@@ -9908,7 +9908,7 @@ NUMBERS:
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<STOP/>
+<START/>
 
 
 %folioinfo \msCa\ 406.jpg, line 5
@@ -9930,11 +9930,12 @@ NUMBERS:
 <TRSUBCHAPTER>System of three qualities</TRSUBCHAPTER>
 
 <ANUSTUBH/>
-[anarthayajña uvāca|*]
+<TEXT> [anarthayajña uvāca|* ]</TEXT>
+
 <TEXT> trikālaguṇabhedena bhinnaṃ sarvacarācaram|</TEXT>
-        <APP>\va <LEM>trikāla°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; triṣkāla° \msCc\oo
-                 <LEM>°bhedena</LEM> \mssCaCbCc\msNa\msNbpcorr\msNc\Ed; °bhena \msNbacorr</APP>
-        <APP>\vb <LEM>bhinnaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; bhinna \msNb</APP>
+        <APP>\va <LEM>trikāla°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; triṣkāla° \msCc\oo
+                 <LEM>°bhedena</LEM> \mssALL\mssCaCbCc\msNa\msNbpcorr\msNc\Ed; °bhena \msNbacorr</APP>
+        <APP>\vb <LEM>bhinnaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; bhinna \msNb</APP>
         <NOTE>It is only \msM, a MS not collated for this chapter, that inserts, post correctionem,
               Łanarthayajña uvāca$ at the beginning of this chapter. It is not really needed:
               Anarthayajña's teaching continues without interruption here. 
@@ -9949,66 +9950,67 @@ NUMBERS:
                                               \msNb\ exp.\thinspace 54 (lower) -- 55 (lower),
                                               \msNc\ ff.\thinspace 221r--222v,
                                               \Ed\ pp.\thinspace 606--609; 
-                                              \mssCaCbCc\ = \msCa + \msCb + \msCc$</LACUNA>
-
-        <TR>The whole universe with its moving and unmoving elements is divided
-                        by the three subdivisions (Łguṇa$) of time.</TR>
+                                              \mssCaCbCc~= \msCa + \msCb + \msCc$</LACUNA>
+        <TR>All that move or do not move are divided by the three subdivisions (Łguṇa$) of time.</TR>
 
 <TEXT> tasmāt{ }triguṇabandhena veṣṭitaṃ nikhilaṃ jagat||</TEXT> 9:1
-        <APP>\vc <LEM>tasmāt{ }tri°</LEM> \msCa\msCb\msNa\msNb\Ed; tasmā tri° \msCc\msNc</APP>
-        <TR>Therefore the whole world is bound by the fetters of three qualities (Łguṇa$).</TR>
+        <APP>\vc <LEM>tasmāt{ }tri°</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; tasmā tri° \msCc\msNc</APP>
+        <TR>Therefore the whole world is bound by the ties of the three qualities (Łguṇa$).</TR>
 
 <TEXT> vigatarāga uvāca|*</TEXT>
         <TR>Vigatarāga spoke:</TR>
 
 <TEXT> traikālyam{ }iti kiṃ jñeyaṃ traidhātukaśarīriṇaḥ|</TEXT>
-        <APP>\va <LEM>°kālyam</LEM> \msCb\msCc\msNa\msNb\Ed; °kālam \msCa\msNc</APP>
-        <APP>\vab <LEM>kiṃ jñeyaṃ trai°</LEM> \msCa\msNc; vijñeyaṃ trai° \msCb\msNa\msNb\Ed, ki jñeyam{ }trai° \msCc</APP>
-        <APP>\vb <LEM>°dhātuka°</LEM> \mssCaCbCc\msNa\msNb\msNc; °dhāyukta° \Ed</APP>
-        <NOTE>I have included the element Łtrai$° in the lemma in Łpāda$s ab only because \msCc\ 
-                has a slightly unusual ligature there (Łmtrai$). 
+        <APP>\va <LEM>°kālyam</LEM> \mssALL\msCb\msCc\msNa\msNb\Ed; °kālam \msCa\msNc</APP>
+        <APP>\vab <LEM>kiṃ jñeyaṃ trai°</LEM> \msCa\msNc;
+                                         vijñeyaṃ trai° \msCb\msNa\msNb\Ed, ki jñeyam{ }trai° \msCc</APP>
+        <APP>\vb <LEM>°dhātuka°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °dhāyukta° \Ed</APP>
+        <NOTE>I have included the element Łtrai$° in the lemma from Łpāda$ b
+                only because \msCc\ has a slightly unusual ligature there (Łmtrai$). 
                 
                 As for the interpretation of
                 Łtraidhātuka$ in Łpāda$ b, an intelligent guess would be a reference to the three so-called
                 `humours' of the body, namely Łpitta, vāyu/anila/vāta$, and Łśleṣman$.
-                These are discussed later in, e.g., \VSS\ 23:31--32ab, in the context of types of sleep:
-                        <skt>śleṣmapittānilasthāne trīṇi pakṣāṇi vāsinaḥ |
-                             tamaḥ śleṣmāśrayā nidrā rajonidrā tu vātikā ||
-                             pittāśrayāṃ smṛtāṃ nidrāṃ sāttvikāṃ viddhi bhūpate |</skt>.
-
-                \MBH\ 12.330.21--22ab clearly states that the three Łdhātu$s, Łpitta, śleṣma$ and Łvāyu$,
+                They are discussed later in \VSS\ chapter 23 in the context of types of sleep.
+                \MBH\ 12.330.21--22ab clearly states that the three Łdhātu$s, Łpitta, śleṣma$, and Łvāyu$
                 keep the body alive:
-                         <skt>trayo hi dhātavaḥ khyātāḥ karmajā iti ca smṛtāḥ |
-                         pittaṃ śleṣmā ca vāyuś ca eṣa saṃghāta ucyate ||
-                         etaiś ca dhāryate jantur etaiḥ kṣīṇaiś ca kṣīyate |</skt>.
-
-                         See also \UUMS\ \verify:
-                         tridhātukaṃ śarīraṃ vai manujasya ca dehinām
-                         śleṣmā pittaṃ ca vāyuś ca śarīraṃ tena vyāpitam  \verify
-                The present verse in the \VSS\ contains the only occurence 
+                <sep/>
+                        Łtrayo hi dhātavaḥ khyātāḥ karmajā iti ca smṛtāḥ$ |<br/>
+                        Łpittaṃ śleṣmā ca vāyuś ca eṣa saṃghāta ucyate$ ||<br/>
+                        Łetaiś ca dhāryate jantur etaiḥ kṣīṇaiś ca kṣīyate$ |
+                <sep/>
+                         See also \UUMS\ (\msCa\ f.~179r line 4):
+                <sep/>
+                         Łtridhātukaṃ śarīram vai manujasya ca dehinaḥ$ | <br/>
+                         Łśleṣmā pittañ ca vāyuś ca śarīraṃ tena vyāpitam$ ||
+                <sep/>
+                The present verse in the \VSS\ contains the only occurrence 
                 of the term Łtraidhātuka$ in the text.
                 In 5.11cd, Łdhātu$ is probably used in the same Ayurvedic sense 
                 that I am proposing here (Łdhātuvaiṣamyanāśo 'sti na ca rogāḥ sudāruṇāḥ$).
                 Elsewhere Łdhātu$ means `verbal root' (3.3), `metal' (16.6: 
-                 Łyathā vai sarvadhātūnāṃ doṣā dahyanti dhāmyatām | 
-                 tathā pāpāḥ pradahyante dhruvaṃ prāṇasya nigrahāt$ ||),
+                 Łyathā vai sarvadhātūnāṃ doṣā dahyanti dhāmyatām$ | 
+                 Łtathā pāpāḥ pradahyante dhruvaṃ prāṇasya nigrahāt$ ||),
                 and `gross element' (for Sāṃkhya-style Łmahābhūta$s in chapter 20).
                 To slightly complicate things, chapter thirteen claims that the human body is made up
                 of two Łdhātu$s, Łsomadhātu$ and Łagnidhātu$. Semen contains Łsomadhātu$,
-                menstrual blood Łagnidhātu$, and the new-born baby is thus made up of both. See e.g. 13.20cd--13.21:
-                        <skt>śukraśoṇitasaṃyogād garbhotpattis tataḥ smṛtaḥ ||</skt>
-                        <skt>agnisomātmakaṃ devi śarīradvayadhātutaḥ |</skt>
-                        <skt>somadhātu smṛtaṃ śukram agnidhātu rajaḥ smṛtam |</skt>
-                        <skt>agnisomāśrayaṃ devi śarīram iti saṃjñitam ||</skt>.</NOTE>
+                menstrual blood Łagnidhātu$, and the new-born baby is thus made up of both. 
+                See e.g. 13.21--22:
+                <sep/>
+                        Łśukraśoṇitasaṃyogād garbhotpattis tataḥ smṛtā$ || <br/>
+                        Łagnisomātmakaṃ devi śarīraṃ dvayadhātutaḥ$ | <br/>
+                        Łsomadhātu smṛtaṃ śukram agnidhātu rajaḥ smṛtam$ | <br/>
+                        Łagnisomāśrayaṃ devi śarīram iti saṃjñitam$ ||</NOTE>
                  <TR>What does the term `the three times' mean for an embodied creature that is made up of
-                        three constituents (Łdhātuka$)?</TR>
+                        the three constituents (Łdhātuka$)?</TR>
 
 <TEXT> kiṃcid{ }vistaram{ }eveha kathayasva tapodhana||</TEXT> 9:2
-        <APP>\vc <LEM>kiṃci°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; sāttviko bhagav { }viṣṇu rājasaḥ kamalodbhavaḥ|  
+        <APP>\vc <LEM>kiṃci°</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed;
+                                                  sāttviko bhagav { }viṣṇu rājasaḥ kamalodbhavaḥ|  
                                                   tāmaso bhagavān{ }īśaḥ sakalaṃ vika kiñci° \msCbacorr\ 
                                                    Ł(eyeskip to 9.5)$\oo
-                 <LEM>°veha</LEM> \mssCaCbCc\msNa\msNb\msNc; °tad{ }dhi \Ed</APP>
-        <APP>\vd <LEM>kathayasva</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; ka\lk\lk \lk\ \msCa</APP>
+                 <LEM>°veha</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °tad{ }dhi \Ed</APP>
+        <APP>\vd <LEM>kathayasva</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; ka\lk\lk \lk\ \msCa</APP>
         <TR>Teach me about this in a somewhat more extended manner, O great ascetic.</TR>
 
 %index_anarthayajna_ref_as: tapodhana
@@ -10018,8 +10020,8 @@ NUMBERS:
         <TR>Anarthayajña spoke:</TR>
 
 <TEXT> traikālyaṃ triguṇaṃ jñeyaṃ vyāpī prakṛtisambhavaḥ|</TEXT>
-        <APP>\va <LEM>°kālyaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °kālya \msCc\oo
-                 <LEM>°guṇaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °guṇa \msCc</APP>
+        <APP>\va <LEM>°kālyaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °kālya \msCc\oo
+                 <LEM>°guṇaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °guṇa \msCc</APP>
          <NOTE>Understand Łpāda$ b as referring to the neuter Łtraikālyaṃ$ or rather 
                Łtriguṇaṃ$ (gender confusion).</NOTE>
         <TR>The three times are the three qualities (Łguṇa$). 
@@ -10039,8 +10041,8 @@ NUMBERS:
 % Note the number confusion in Łpāda$s cd. (Is there one?)
 
 <TEXT> sattvaṃ rajas{ }tamaś{ }caiva rajaḥ sattvaṃ tamas{ }tathā|</TEXT>
-        <APP>\va <LEM>sattvaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; satva \msNb\oo
-                 <LEM>rajas{ }ta°</LEM> \mssCaCbCc\msNa\msNb\msNc; rajata° \Ed</APP>
+        <APP>\va <LEM>sattvaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; satva \msNb\oo
+                 <LEM>rajas{ }ta°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; rajata° \Ed</APP>
         <APP>\vb <LEM>rajaḥ</LEM> \msCa\msCb\msNa\msNc; raja° \msCc\msNb\Ed\oo
                  <LEM>sattvaṃ tamas{ }tathā</LEM> \msCa\msNa\msNc; sattvaṃ taman{ }tathā \msCb, 
                                         satvas{ }tamas{ }tathā \msCc\msNb, sattvatamas{ }tathā \Ed</APP>
@@ -10048,8 +10050,8 @@ NUMBERS:
 
 <TEXT> tamaḥ sattvaṃ rajaś{ }caiva anyonyamithunāḥ smṛtāḥ||</TEXT> 9:4
         <APP>\vc <LEM>tamaḥ sattvaṃ</LEM> \msCa\msCb\msNa\msNc; tamasatva° \msCc, tamaḥ satva° \msNb\Ed\oo
-                 <LEM>rajaś{ }caiva</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; rajaḥś{ }caiva \msCb</APP>
-        <APP>\vd <LEM>smṛtāḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; \om\ \msCc</APP>
+                 <LEM>rajaś{ }caiva</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; rajaḥś{ }caiva \msCb</APP>
+        <APP>\vd <LEM>smṛtāḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; \om\ \msCc</APP>
         <PARAL>\vd Ł\similar\ \BRAHMANDAPUR\ 1.4.11ab:$
                         anyonyaṃ mithunaṃ hy{ }ete anyonyam{ }upajīvinaḥ
                     Ł\similar\ \VAYUP\ 1.5.17cd \similar\ \LINPU\ 1.70.80ab$</PARAL>
@@ -10059,15 +10061,20 @@ NUMBERS:
 %folioinfo \msCc\ 208.jpg, f. 282v
 <TEXT> sāttviko bhagavān{ }viṣṇū rājasaḥ kamalodbhavaḥ|</TEXT>
         <APP>\va <LEM>°ṣṇū</LEM> \corr; °ṣṇu \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
-        <APP>\vb <LEM>rājasaḥ kamalodbhavaḥ</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; <UNCL>rāja</UNCL>\lk\lk\lk\lk\lk\lk\ \msCa</APP>
+        <APP>\vb <LEM!>rājasaḥ kamalodbhavaḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed;
+                                         <UNCL>rāja</UNCL>\lk\lk\lk\lk\lk\lk\ \msCa</APP>
         <NOTE>My altering the reading Łviṣṇu$ to Łviṣṇū$ in Łpāda$ a against all witnesses may
-              be regarded as an overcorrection and the stem form could be original.</NOTE>
+              be regarded as an overcorrection and the stem form could be original, but
+              compare \BRAHMANDAPUR\ 1.4.6cd (in the apparatus).</NOTE>
+        <PARAL>\vo Ł\compare\ \BRAHMANDAPUR\ 1.4.6cd:$
+                sattvaṃ viṣṇū rajo brahmā tamo rudraḥ prajāpatiḥ</PARAL>
         <TR>Lord Viṣṇu is Sattvic. [Brahmā], the one who was born on a lotus, is Rājasa.</TR>
 % perhaps \msNa reads viṣṇū? no, look at kundendu below
 
 %folioinfo \msCa\ 407.jpg
 <TEXT> tāmaso bhagavān{ }īśaḥ sakalaṃvikaleśvaraḥ||</TEXT> 9:5
-        <APP>\vcd <LEM>tāmaso bhagavān{ }īśaḥ sakalaṃ</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \lk\lk \lk\lk \lk\lk \lk\lk <UNCL>sakalam</UNCL> \msCa</APP>
+        <APP>\vcd <LEM>tāmaso bhagavān{ }īśaḥ sakalaṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed;
+                                         \lk\lk \lk\lk \lk\lk \lk\lk <UNCL>sakalam</UNCL> \msCa</APP>
         <NOTE>My translation of Łpāda$s cd is tentative. I suspect that Łpāda$ d is one single compound,
               the Łanusvāra$ is only inserted to avoid the metric fault of two Łlaghu$ syllables 
               at the second and third position.
@@ -10077,36 +10084,37 @@ NUMBERS:
 
 
 <TEXT> sattvaṃ kundenduvarṇābhaṃ padmarāganibhaṃ rajaḥ|</TEXT>
-        <APP>\va <LEM>sattvaṃ</LEM> \msCa\msCb\msNa\msNb\Ed; satva \msCc\msNc\oo
-                 <LEM>°varṇābhaṃ</LEM> \msCa\msCb\msNb\msNc\Ed; °varṇṇābha \msCc, °vaṇṇābhaṃ \msNa</APP>
+        <APP>\va <LEM>sattvaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; satva \msCc\msNc\oo
+                 <LEM>°varṇābhaṃ</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; °varṇṇābha \msCc, °vaṇṇābhaṃ \msNa</APP>
         <TR>Sattva is of the colour of jasmine and the moon. 
                  Rajas is of the colour of ruby.</TR>
 
 %folioinfo \Ed\ p.607
 <TEXT> tamaś{ }cāñjanaśailābhaṃ kīrtitāni manīṣibhiḥ||</TEXT> 9:6
-        <APP>\vc <LEM>°bhaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °bhā \Ed</APP>
+        <APP>\vc <LEM>°bhaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °bhā \Ed</APP>
         <TR>Tamas is of the colour of lamp-black and colliryum.
                  [This is how the colours of the qualities] are taught by the wise.</TR>
 
 <TEXT> sattvaṃ jalaṃ rajo 'ṅgāraṃ tamo dhūmasamākulam|</TEXT>
-        <APP>\va <LEM>jalaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; rajaṃ \msCc, jvāla \msNb\oo
-                 <LEM>rajo 'ṅgāraṃ</LEM> \msCa\msCb\msNa\msNb\msNc; ra<UNCL>ṅgo</UNCL>ṅgāran \msCc, rajoṅgaran \Ed</APP>
+        <APP>\va <LEM>jalaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; rajaṃ \msCc, jvāla \msNb\oo
+                 <LEM>rajo 'ṅgāraṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc;
+                                                 ra<UNCL>ṅgo</UNCL>ṅgāran \msCc, rajoṅgaran \Ed</APP>
         <TR>Sattva is water, Rajas is charcoal, Tamas is filled with smoke.</TR>
 
 <TEXT> etadguṇamayair{ }baddhāḥ pacyante sarvadehinaḥ||</TEXT> 9:7
-        <APP>\vd <LEM>°dehinaḥ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °dehinā \msCb</APP>
-        <TR>All living creature are being burnt away by [the fire] of these qualities (Łguṇa$).</TR>
+        <APP>\vd <LEM>°dehinaḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °dehinā \msCb</APP>
+        <TR>All living creature are being cooked by [i.e. on the fire produced from] these qualities (Łguṇa$).</TR>
 
 %folioinfo \msNa\ 207.jpg upper, f. 13v
 <TEXT> vigatarāga uvāca|*</TEXT>
         <TR>Vigatarāga spoke:</TR>
 
 <TEXT> kena kena prakāreṇa guṇapāśena badhyate|</TEXT>
-        <APP>\vb <LEM>guṇa°</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \om\ \msCa</APP>
+        <APP>\vb <LEM>guṇa°</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; \om\ \msCa</APP>
         <TR>By what sort of nooses of the qualities (Łguṇa$) is [a person] bound?</TR>
 
 <TEXT> cihnam{ }eṣāṃ pṛthaktvena kathayasva tapodhana||</TEXT> 9:8
-        <APP>\vc <LEM>°ṣāṃ pṛthaktvena</LEM> \mssCaCbCc\msNa\msNb\Ed; °ṣā pṛthakena \msNc</APP>
+        <APP>\vc <LEM>°ṣāṃ pṛthaktvena</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °ṣā pṛthakena \msNc</APP>
         <TR>Teach me the signs connected to them one by one, O great ascetic.</TR>
 %index_anarthayajna_ref_as: tapodhana
 
@@ -10115,15 +10123,14 @@ NUMBERS:
         <TR>Anarthayajña spoke:</TR>
 
 <TEXT> anekākārabhāvena badhyante guṇabandhanaiḥ|</TEXT>
-        <TR>[Creatures] are bound in many ways and by many conditions 
+        <TR>[Living beings] are bound in many ways and by many conditions 
                  by the fetters of the qualities (Łguṇa$).</TR>
 
 <TEXT> mohitā nābhijānanti jānanti śivayoginaḥ||</TEXT> 9:9
-        <APP>\vc <LEM>°bhijānanti</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °bhijānānti \msCc</APP>
-        <APP>\vd <LEM>jānanti</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; \om\ \msCbacorr</APP>
+        <APP>\vc <LEM>°bhijānanti</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °bhijānānti \msCc</APP>
+        <APP>\vd <LEM>jānanti</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; \om\ \msCbacorr</APP>
         <TR>Those who are deluded do not know. The Śivayogins do know.</TR>
 
-<TRPAGEBREAK/>
 
 %folioinfo \msNc\ 224.jpg upper, f. 221v
 <TEXT> ūrdhvaṃgo nityasattvastho madhyago rajasāvṛtaḥ|</TEXT>
@@ -10134,14 +10141,14 @@ NUMBERS:
                       ūrdhvago satya° \msNbpcorr,
                       urdhvāṅgo nitya° \msNc\oo
                  <LEM>°sattva°</LEM> \msCa\msCb\msNa\msNc; °satya° \msCc\Ed, °nitya° \msNb</APP>
-        <APP>\vb <LEM>madhyago</LEM> \mssCaCbCc\msNa\msNb\msNc; madhyamo \Ed\oo
-                 <LEM>°vṛtaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; °vṛtam \Ed</APP>
+        <APP>\vb <LEM>madhyago</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; madhyamo \Ed\oo
+                 <LEM>°vṛtaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °vṛtam \Ed</APP>
         <TR>He who is always established in Sattva goes upwards.
                  He who is covered with Rajas goes in the middle.</TR>
 
 %folioinfo \msNb\ 54.jpg upper  
 <TEXT> adhogatis{ }tamo'vasthā bhavanti puruṣādhamāḥ||</TEXT> 9:10
-        <APP>\vc <LEM>°gatis{ }tamo°</LEM> \msCa\msNa\msNb\msNc\Ed; °gatitamo° \msCb\msCc</APP>
+        <APP>\vc <LEM>°gatis{ }tamo°</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; °gatitamo° \msCb\msCc</APP>
         <NOTE>Understand Ładhogatis$ in Łpāda$ c as a Łbahuvrīhi$ in the plural (Ładhogatayas$).</NOTE>
         <TR>Those lowest of men in the state of Tamas go downward.</TR>
 
@@ -10149,25 +10156,25 @@ NUMBERS:
         <TR>These three kinds of [Łguṇa$s] are to be acknowledged even in heaven, O great ascetic,</TR>
 
 <TEXT> mānuṣeṣu ca tiryeṣu guṇabhedās{ }trayas{ }trayaḥ||</TEXT> 9:11
-        <APP>\vc <LEM>mānuṣeṣu</LEM> \msCa\msCc\msNa\msNb\Ed; manuṣyeṣu \msCb, mānuṣyeṣu \msNc\oo
-                 <LEM>tiryeṣu</LEM> \mssCaCbCc\msNa\msNb\msNc; tīryeṣu \Ed</APP>
-        <APP>\vd <LEM>°s{ }trayaḥ</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; °s{ }traḥ \msCbacorr</APP>
-        <TR>and among humans and also among animals.</TR>
+        <APP>\vc <LEM>mānuṣeṣu</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; manuṣyeṣu \msCb, mānuṣyeṣu \msNc\oo
+                 <LEM>tiryeṣu</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; tīryeṣu \Ed</APP>
+        <APP>\vd <LEM>°s{ }trayaḥ</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; °s{ }traḥ \msCbacorr</APP>
+        <TR>and among humans, and also among animals.</TR>
 
 
 <SUBSUBCHAPTER>sāttvikottamāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Superior Sattva-type</TRSUBSUBCHAPTER>
 <TEXT> brahmā viṣṇuś{ }ca rudraś{ }ca dharma indraḥ prajāpatiḥ|</TEXT>
-        <APP>\vb <LEM>dharma indraḥ</LEM> \msCa\msCc\msNa\msNb\msNc; irma indra \msCb, dharmar{ }indra° \Ed</APP>
+        <APP>\vb <LEM>dharma indraḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; irma indra \msCb, dharmar{ }indra° \Ed</APP>
         <NOTE>Note that Brahmā was labelled as Rajas-type in 9.5b above.</NOTE>
         <TR>The ten superior Sattva [beings] are: 
                  Brahmā, Viṣṇu, Rudra, Dharma, Indra, Prajāpati,</TR>
 
 <TEXT> somo 'gnir{ }varuṇaḥ sūryo daśa sattvottamāḥ smṛtāḥ||</TEXT> 9:12
         <APP>\vc <LEM>gnir{ }varuṇaḥ</LEM> \msCa\msNa\msNc; gni varuṇa \msCb\msCc\msNb\Ed</APP>
-        <APP>\vd <LEM>daśa</LEM> \mssCaCbCc\msNa\msNb\msNc; daśaḥ \Ed\oo
-                 <LEM>sattvottamāḥ</LEM> \msCa\msCc\msNa\msNb\Ed; satvattamāḥ \msCb, sattotamāḥ \msNc</APP>
-        <TR>Soma, Agni, Varuṇa and Sūrya.</TR>
+        <APP>\vd <LEM>daśa</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; daśaḥ \Ed\oo
+                 <LEM>sattvottamāḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; satvattamāḥ \msCb, sattotamāḥ \msNc</APP>
+        <TR>Soma, Agni, Varuṇa, and Sūrya.</TR>
 
 %index_mythical_figures: Brahmā, Viṣṇu, Rudra, Dharma, Indra, Prajāpati, Soma, Agni, Varuṇa, Sūrya,
 
@@ -10178,16 +10185,16 @@ NUMBERS:
 <TEXT> rudrādityā vasusādhyā viśveśamaruto dhruvaḥ|</TEXT>
         <APP>\vab <LEM>°dityā vasusādhyā</LEM> \msCb\msNa\msNb\msNc; °dityā vasusā\lk\ \msCa, °ditya vasusādhyā \msCc,
                                                         °ditya vasusādhyāḥ vi° \Ed</APP>
-        <APP>\vb <LEM>viśveśa°</LEM> \msCb\msNa\msNb\msNc\Ed; \lk śveśa \msCa, viśveśi° \msCc</APP>
+        <APP>\vb <LEM>viśveśa°</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed; \lk śveśa \msCa, viśveśi° \msCc</APP>
         <NOTE>ŁPāda$ a is a Łsa-vipulā$. Note that there seems to be only nine names/categories listed here unless
               we try to interpret Łviśveśa$ as Łviśvedevāḥ$ and Łīśaḥ$.</NOTE>
         <TR>The ten middle-ranking Sattva [beings] are:
-                 Rudra[s], Ādityas, Vasus, Sādhyas, Viśveśa [or the Viśvedevas and Īśa?], the Maruts, Dhruva,</TR>
+                 Rudras, Ādityas, Vasus,\linebreak Sādhyas, Viśveśa, the Maruts, Dhruva,</TR>
 
 %index_metre: sa-vipulā
 
 <TEXT> ṛṣayaḥ pitaraś{ }caiva daśaite sattvamadhyamāḥ||</TEXT> 9:13
-        <APP>\vd <LEM>daśaite</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; daśaitete \msCbacorr</APP>
+        <APP>\vd <LEM>daśaite</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; daśaitete \msCbacorr</APP>
         <TR>the sages, and the ancestors.</TR>
 
 %index_mythical_figures: Rudras, Ādityas, Vasus, Sādhyas, Viśveśa [or the Viśvedevas and Īśa?], the Maruts, Dhruva, Ṛṣis, Pitṛs
@@ -10196,15 +10203,15 @@ NUMBERS:
 <SUBSUBCHAPTER>sāttvikādhamāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Low Sattva-type</TRSUBSUBCHAPTER>
 <TEXT> tārā grahāḥ surā yakṣā gandharvāḥ kiṃnaroragāḥ|</TEXT>
-        <APP>\va <LEM>grahāḥ surā</LEM> \msCa\msCb\msNa\msNb\msNc; grahāsvarāḥ \msCc, grahā'surā \Ed</APP>
+        <APP>\va <LEM>grahāḥ surā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; grahāsvarāḥ \msCc, grahā'surā \Ed</APP>
         <APP>\vb <LEM>gandharvāḥ</LEM> \msCa\msNb\msNc\Ed; gandharvā \msCb\msNa, gandharvvāḥ gandharvvā \msCc</APP>
         <TR>The ten low-ranking Sattva [beings] are the stars, 
                 the planets, the Suras, the Yakṣas, the Gandharvas, the Kiṃnaras, the Serpents,</TR>
 
 <TEXT> rakṣobhūtapiśācāś{ }ca daśaite sāttvikādhamāḥ||</TEXT> 9:14
-        <APP>\vc <LEM>°piśācāś{ }ca</LEM> \mssCaCbCc\msNa\msNb\Ed; °piśāścāś{ }ca \msNc</APP>
-        <APP>\vd <LEM>daśaite</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; daśete \msCb\oo
-                 <LEM>sāttvikā°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; satvakā° \msCb</APP>
+        <APP>\vc <LEM>°piśācāś{ }ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °piśāścāś{ }ca \msNc</APP>
+        <APP>\vd <LEM>daśaite</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; daśete \msCb\oo
+                 <LEM>sāttvikā°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; satvakā° \msCb</APP>
         <TR>the Rakṣases, the Ghosts, and the Piśācas.</TR>
 
 %index_mythical_figures: stars, planets, Suras, Yakṣas, Gandharvas, Kiṃnaras, Serpents, Rakṣases, Ghosts, Piśācas
@@ -10213,7 +10220,7 @@ NUMBERS:
 <TRSUBSUBCHAPTER>Superior Rajas-type</TRSUBSUBCHAPTER>
 % metri causa for vijñānī !
 <TEXT> ṛtvik{ }purohitācāryayajvāno 'tithi vijñanī|</TEXT>
-        <APP>\vb <LEM>°vijñanī</LEM> \mssCaCbCc\msNa\msNb\msNc; °vijñakau \Ed</APP>
+        <APP>\vb <LEM>°vijñanī</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °vijñakau \Ed</APP>
         <NOTE>I take Ł'tithi$ as a stem form noun and Łvijñanī$ as Łvijñānī$, both metri causa.</NOTE> 
         <TR>The ten superior Rājasa [categories] are Ṛtvij priests, domestic Purohita chaplains,
                   teachers, sacrificers, guests, the wise,</TR>
@@ -10223,55 +10230,58 @@ NUMBERS:
 %folioinfo \msM\ 423.jpg upper, f. 14v
 <TEXT> rājā mantrī vratī vedī daśaite rājasottamāḥ||</TEXT> 9:15
         <APP>\vc <LEM>rājā</LEM> \eme; rāja° \mssCaCbCc\msNa\msNb\msNc\Ed\oo
-                 <LEM>°mantrī vratī</LEM> \mssCaCbCc\msNa\msNb\msNc; °mantri vrato \Ed</APP>
-        <APP>\vd <LEM>rājaso°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; rāmaso \msCb</APP>
+                 <LEM>°mantrī vratī</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °mantri vrato \Ed</APP>
+        <APP>\vd <LEM>rājaso°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; rāmaso \msCb</APP>
         <NOTE>Łrājamantrī$ as `minister' makes sense, but by emendading Łrāja$° to Łrājā$ 
               in Łpāda$ c I aim to arrive at a list of ten categories instead of nine.</NOTE>
-        <TR>kings, ministers, people engaged in religious observances, and learned [Brahmins].</TR>
+        <TR>kings, ministers, people engaged in religious observances, and [Brahmins] who
+            know the Vedas.</TR>
 
 
 <SUBSUBCHAPTER>rājasamadhyamāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Middle Rajas-type</TRSUBSUBCHAPTER>
 <TEXT> sūto 'mbaṣṭhavaṇiś{ }cograḥ śilpikārukamāgadhāḥ|</TEXT>
-        <APP>\va <LEM>sūto 'mbaṣṭha°</LEM> \corr; sūto \lk ṣṭa° \msCa, sūta<UNCL>mbaṣṭa</UNCL>° \msCb, sūtonvaṣṭha° \msCc, 
-                                                        sūtotvaṣṭā° \msNa, sūtotvaṣṭa° \msNb\msNc, sūto 'mbaṣṭa° \Ed\oo
-                 <LEM>°vaṇiś{ }co°</LEM> \mssCaCbCc\msNa\msNb\msNc; °vaṇiśvo° \Ed</APP>
+        <APP>\va <LEM>sūto 'mbaṣṭha°</LEM> \corr; sūto \lk ṣṭa° \msCa, sūta<UNCL>mbaṣṭa</UNCL>° \msCb,
+                                                        sūtonvaṣṭha° \msCc, 
+                                                        sūtotvaṣṭā° \msNa, sūtotvaṣṭa° \msNb\msNc,
+                                                        sūto 'mbaṣṭa° \Ed\oo
+                 <LEM>°vaṇiś{ }co°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °vaṇiśvo° \Ed</APP>
         <APP>\vb <LEM>śilpi°</LEM> \msNb; śilpa° \mssCaCbCc\msNa\msNc\Ed\oo
-                 <LEM>māgadhāḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; māgadhā \msCc</APP>
+                 <LEM>māgadhāḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; māgadhā \msCc</APP>
         <NOTE>Since all the wittnesses consulted treat Łvaṇi$ as an acceptable stem in Łpāda$ a,
               I have refrained from correcting it to Łvaṇij/vaṇik$. The English equivalents that
               I give in square brackets are in some cases not more than traditionally accepted guesses.</NOTE>
         <TR>The ten middle-ranking Rājasa [categories] are [the following castes and professions]:
                 Sūta [coachman/bard], Ambaṣṭha [doctor], Vaṇij [merchant caste], 
-                Ugra [combatant?], Śilpin and Kāruka [both artisans], Māgadha [bard]</TR>
+                Ugra [combatant?], Śilpin and Kāruka [both artisans], Māgadha [bard],</TR>
 
 %index_voc: vaṇi for vaṇij
 
 <TEXT> veṇavaidehakāmātyā daśaite rajamadhyamāḥ||</TEXT> 9:16
-        <APP>\vc <LEM>veṇavaidehakāmātyā</LEM> \msCa\msCc\msNa\msNb; vaiṇavedehakāmātyā \msCb, 
+        <APP>\vc <LEM!>veṇavaidehakāmātyā</LEM> \msCa\msCc\msNa\msNb; vaiṇavedehakāmātyā \msCb, 
                                       venavaidehakāmātyā \msNc, veṇavaidecakau mātyā \Ed</APP>
         <TR>Veṇa [musician], Vaidehaka [guard], and Āmātya [counsellor].</TR>
 
 <SUBSUBCHAPTER>rājasādhamāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Low Rajas-type</TRSUBSUBCHAPTER>
-<TEXT> carmakṛt{ }kumbhakṛt{ }kolī lohakṛttrapunīlikāḥ|</TEXT>
-        <APP>\va <LEM>°kṛt{ }kolī</LEM> \mssCaCbCc\msNb\msNc; °kakolī \msNa, °kṛt{ }kālī \Ed</APP>
-        <APP>\vb <LEM>°nīlikāḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; °tīlikā \Ed</APP>
+<TEXT> carmakṛt{ }kumbhakṛt{ }kolī lohakṛt{ }trapunīlikāḥ|</TEXT>
+        <APP>\va <LEM>°kṛt{ }kolī</LEM> \mssALL\mssCaCbCc\msNb\msNc; °kakolī \msNa, °kṛt{ }kālī \Ed</APP>
+        <APP>\vb <LEM>°nīlikāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °tīlikā \Ed</APP>
         <NOTE>Problems with this verse include the following. There are only nine 
               professions/castes listed here instead of the expected ten.
               Łkolī$ is difficult to interpret; later texts of the Jātiviveka
-              genre such as Gopinātha's <skt>Jātiviveka</skt> 
+              genre such as Gopinātha's \Jativiveka\ 
               (see <cite>OHanlonHidasKiss</cite>) mention Łkolī$ as a regional 
               name for the caste Niṣāda (sometimes: a falconer). I take Łtrapu$ tentatively as Łtrapukṛt$
-              although I can't see any attestation of that form. And taking Łnīlikā$ as a (female) dyer
+              although I cannot see any attestation of that form. And taking Łnīlikā$ as a (female) dyer
               is again tentative.</NOTE>
-              <TR>The low-ranking Rājasa [professions] are: leathersmith, potter, Kolī,
-                       blacksmith, tinsmith, dyer.</TR>
+              <TR>The ten low-ranking Rājasa [professions] are: leathersmith, potter, Kolī,
+                       blacksmith, tinsmith, dyer,</TR>
 
 <TEXT> naṭamuṣṭikacaṇḍālā daśaite rajasādhamāḥ||</TEXT> 9:17
-        <APP>\vc <LEM>°muṣṭika°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °mauṣṭika° \msCc\oo
-                 <LEM>°caṇḍālā</LEM> \mssCaCbCc\msNa\msNb\msNc; °cāṇḍālaḥ \Ed</APP>
-        <APP>\vd <LEM>daśaite</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; daśete \msCb</APP>
+        <APP>\vc <LEM>°muṣṭika°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °mauṣṭika° \msCc\oo
+                 <LEM>°caṇḍālā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °cāṇḍālaḥ \Ed</APP>
+        <APP>\vd <LEM>daśaite</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; daśete \msCb</APP>
         <PARAL>\vc Ł= \UMS\ 2.10a, 2.20a = \UUMS\ 2.31c$</PARAL>
         <TR>dancer, goldsmith, Caṇḍāla.</TR>
 
@@ -10280,15 +10290,17 @@ NUMBERS:
 <SUBSUBCHAPTER>tāmasottamāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Superior Tamas-type</TRSUBSUBCHAPTER>
 <TEXT> gogajagavayā aśvamṛgacāmarakiṃnarāḥ|</TEXT>
-        <APP>\va <LEM>°gavayā</LEM> \mssCaCbCc\msNa\msNc; °gavaya \msNb, °gavayo \Ed</APP>
+        <APP>\va <LEM>°gavayā</LEM> \mssALL\mssCaCbCc\msNa\msNc; °gavaya \msNb, °gavayo \Ed</APP>
         <APP>\vb <LEM>°cāmara°</LEM> \msCa\msCb\msNa\msNc; °vānara° \msCc\Ed, °<UNCL>vā</UNCL>nara° \msNb</APP>
+        <NOTE>Note that Kiṃnaras have already appeared in another category in 9.14 above.</NOTE>
         <TR>These are the ten superior Tāmasa [creatures]: 
                         cows, elephants, Gayal oxen, horses, deer, Yaks, Kiṃnaras,</TR>
 
 <TEXT> siṃhavyāghravarāhāś{ }ca daśaite tāmasottamāḥ||</TEXT> 9:18
-        <APP>\vc <LEM>°varāhā°</LEM> \mssCaCbCc\msNa\msNc; °varāha° \msNb\Ed</APP>
-        <APP>\vd <LEM>tāmasottamāḥ</LEM> \msCa\msCc\msNa\msNb\msNc; tāmaśottamaḥ \msCb, tamasottamāḥ \Ed</APP>
-        <TR>lions, tigers, wild boar.</TR>
+        <APP>\vc <LEM>°varāhā°</LEM> \mssALL\mssCaCbCc\msNa\msNc; °varāha° \msNb\Ed</APP>
+        <APP>\vd <LEM>tāmasottamāḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; tāmaśottamaḥ \msCb,
+                                                                           tamasottamāḥ \Ed</APP>
+        <TR>lions, tigers, and wild boar.</TR>
 
 
 
@@ -10296,44 +10308,42 @@ NUMBERS:
 <SUBSUBCHAPTER>tāmasamadhyamāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Middle Tamas-type</TRSUBSUBCHAPTER>
 <TEXT> ajameṣamahiṣyāś{ }ca mūṣikānakulādayaḥ|</TEXT>
-        <APP>\va <LEM>°mahiṣyāś{ }ca</LEM> \mssCaCbCc\msNa\msNc\Ed; °mahiṃṣyā ca \msNb</APP>
+        <APP>\va <LEM>°mahiṣyāś{ }ca</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °mahiṃṣyā ca \msNb</APP>
         <NOTE>°Łmahiṣyāś$ seems to be an equivalent of °Łmahiṣāś$ metri causa. 
               Again, we expect ten items in this list but we find only nine.</NOTE>
         <TR>The ten middle-ranking Tāmasa [animals] are: goats, sheep, buffaloes, mice, mongooses etc., </TR>
 
 <TEXT> uṣṭraraṅkuśaśagaṇḍā daśaite tamamadhyamāḥ||</TEXT> 9:19
-        <APP>\vc <LEM>uṣṭra°</LEM> \msCa\msCb\msNa\msNb\msNc; uṣṭa° \msCc, daṃṣṭri° \Ed\oo
-                 <LEM>°śaśagaṇḍā</LEM> \mssCaCbCc\msNa\msNb\msNc; °śagaṇḍāś{ }ca \Ed</APP>
-        <APP>\vd <LEM>tamamadhyamāḥ</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; tamadhyamāḥ \msCa</APP>
+        <APP>\vc <LEM>uṣṭra°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; uṣṭa° \msCc, daṃṣṭri° \Ed\oo
+                 <LEM>°śaśagaṇḍā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °śagaṇḍāś{ }ca \Ed</APP>
+        <APP>\vd <LEM>tamamadhyamāḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; tamadhyamāḥ \msCa</APP>
         <NOTE>ŁPāda$ c is a Łsa-vipulā$.</NOTE> 
-        <TR>camels, Raṅku deer, hares, rhinoceroses.</TR>
+        <TR>camels, Raṅku deer, hares, and rhinoceroses.</TR>
 
 %index_metre: sa-vipulā
 
-%PAGEBREAK
-%TRPAGEBREAK
 
 <SUBSUBCHAPTER>tāmasādhamāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Low Tamas-type</TRSUBSUBCHAPTER>
 <TEXT> ṛkṣagodhāmṛgaśṛṅgibakavānaragardabhāḥ|</TEXT>
-        <APP>\vb <LEM>°gardabhāḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; °gardabhaḥ \Ed</APP>
-        <NOTE>ŁPāda$ a is a Łsa-vipulā$. Translating Łśṛṅgi$, Łśṛṅgin$, or perhaps Łśṛṅgī$ as `sheat-fish' is not
-              much more than a guess. Other possibilities such as `elephants' or `bulls'
-              are less likely because we have had them above in other categories, 
+        <APP>\vb <LEM>°gardabhāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °gardabhaḥ \Ed</APP>
+        <NOTE>ŁPāda$ a is a Łsa-vipulā$. Translating Łśṛṅgi$, Łśṛṅgin$, or perhaps Łśṛṅgī$ as 
+             `horned animals' is not much more than a guess. Other possibilities such as `elephants' 
+              or simply `bulls' are less attractive because we have had them above in other categories, 
               although repetitions do occur across, and sometimes within, these lists:
-              see, e.g. Łmṛga$ mentioned both in 9.18 and 20, Łśyena$ in both 9.21 and 22, 
+              see, e.g., Łmṛga$ mentioned both in 9.18 and 20, Łśyena$ in both 9.21 and 22, 
               and Łśuka$ repeated in 9.21.</NOTE>
-        <TR>The ten low-ranking Tāmasa [beings] are: bears, alligators, deer, sheat-fish, 
+        <TR>The ten low-ranking Tāmasa [beings] are: bears, alligators, deer, horned animals, 
                         cranes, apes, donkeys,</TR>
 
 %index_metre: sa-vipulā
 
 <TEXT> sūkaraśvānagomāyur{ }daśaite tāmasādhamāḥ||</TEXT> 9:20
-        <APP>\vc <LEM>sūkara°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; sukhara° \msCb</APP>
-        <APP>\vcd <LEM>°gomāyur{ }da°</LEM> \mssCaCbCc\msNc\Ed; °gomāyu da° \msNa\msNb</APP>
-        <APP>\vd <LEM>°śaite</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °śete \msCb</APP>
+        <APP>\vc <LEM>sūkara°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; sukhara° \msCb</APP>
+        <APP>\vcd <LEM>°gomāyur{ }da°</LEM> \mssALL\mssCaCbCc\msNc\Ed; °gomāyu da° \msNa\msNb</APP>
+        <APP>\vd <LEM>°śaite</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °śete \msCb</APP>
                  <LEM>tāmasā°</LEM> \msCb; tamasā° \msCa\msCc\msNa\msNb\msNc\Ed\oo
-        <TR>boar, dogs and frogs.</TR>
+        <TR>boar, dogs, and frogs.</TR>
 
 
 
@@ -10341,7 +10351,7 @@ NUMBERS:
 <TRSUBSUBCHAPTER>The Tamas-Sattva category</TRSUBSUBCHAPTER>
 <TEXT> krauñcahaṃsaśukaśyenabhāsabāruṇḍasārasāḥ|</TEXT>
         <APP>\va <LEM>krauñca°</LEM> \Ed; kroñca° \mssCaCbCc\msNa\msNb\msNc</APP>
-        <APP>\vb <LEM>°sārasāḥ</LEM> \mssCaCbCc\msNa\msNb\Ed; °sārasā \msNc</APP>
+        <APP>\vb <LEM>°sārasāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °sārasā \msNc</APP>
         <NOTE>Although all the manuscripts consulted read Łkroñca$° in Łpāda$ a, I have decided
                 to accept \Ed's standard spelling in this case. In Łpāda$ b, I left °Łbāruṇḍa$°
                 thus, although what is really meant is probably Łbhāraṇḍa$, Łbhāruṇḍa$ or Łbhuruṇḍa$.</NOTE>
@@ -10350,13 +10360,17 @@ NUMBERS:
 
 %folioinfo \Ed\ p.608
 <TEXT> cakrāhvaśukamāyūrā daśaite tamasāttvikāḥ||</TEXT> 9:21
-        <APP>\vc <LEM>°hvaśukamāyūrā</LEM> \msCb\msCc\msNa\msNb\msNc; °<UNCL>ṅga</UNCL>\lk\lk \lk yūrā \msCa, °ṅgaśukamāyūrā \Ed</APP>
-        <APP>\vd <LEM>daśaite</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; daśete \msCb\oo
+        <APP>\vc <LEM>°hvaśukamāyūrā</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc;
+                                         °<UNCL>ṅga</UNCL>\lk\lk \lk yūrā \msCa, °ṅgaśukamāyūrā \Ed</APP>
+        <APP>\vd <LEM>daśaite</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; daśete \msCb\oo
                  <LEM>tamasāttvikāḥ</LEM> \msCc\msNc\Ed; tamassāttvikāḥ \msCa\msNb\ \unmetr, 
                                                                 namaḥ sātvikāḥ \msCb\ \unmetr, 
                                                                 tamaḥsātvikāḥ \msNa\ \unmetr</APP>
         <NOTE>Note the repetition of Łśuka$ in this stanza.</NOTE>
         <TR>Cakra[vāka] birds, parrots, and peacocks.</TR>
+
+
+% EDDIG
 
 <SUBSUBCHAPTER>tamarājasāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>The Tamas-Rajas category</TRSUBSUBCHAPTER>
@@ -10365,12 +10379,12 @@ NUMBERS:
         <APP>\va <LEM>balākāḥ</LEM> \corr; valākā \msCa\msNa\msNc, valāka° \msCb\msCc\msNb\Ed</APP>
         <APP>\vab <LEM>kukkuṭāḥ kākāś{ }ci°</LEM> \corr; kukkuṭakākāś{ }ci° \msCa\msCb\ \unmetr, kurkuṭā kākāś{ }ci° \msCc\msNc, 
                                                                           kurkuṭakākāś{ }ci \msNa\msNb, kukkuṭo kākā ci° \Ed</APP>
-        <APP>\vb <LEM>°tittirāḥ</LEM> \mssCaCbCc\msNa\msNb; °tittarāḥ \msNc, °tittiriḥ \Ed</APP>
+        <APP>\vb <LEM>°tittirāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb; °tittarāḥ \msNc, °tittiriḥ \Ed</APP>
         <TR>The ten Tāmasa-Rājasa [beings] are: Balāka-cranes, cocks, 
                         crows, Bengal kites, painted quails, partridges,</TR>
 
 <TEXT> gṛdhrakaṅkabakaśyena daśaite tamarājasāḥ||</TEXT> 9:22
-        <APP>\vc <LEM>gṛdhra°</LEM> \mssCaCbCc\msNa\msNb\Ed; gṛdha° \msNc</APP>
+        <APP>\vc <LEM>gṛdhra°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; gṛdha° \msNc</APP>
         <NOTE>It would be easy to correct the stem form °Łśyena$ in Łpāda$ c to Łśyenā$ (plural) but I suspect
               that the form could be original, possibly because it was confused with an instrumental.</NOTE>
         <TR>vultures, herons, Bakas and hawks.</TR>
@@ -10380,9 +10394,9 @@ NUMBERS:
 <SUBSUBCHAPTER>tāmasādhamādi</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Low Tamas-type etc.</TRSUBSUBCHAPTER>
 <TEXT> kokilolūkakañjalyakapotāḥ pañca eva ca|</TEXT>
-        <APP>\va <LEM>kokilo°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; kaukilo° \msCb\oo
+        <APP>\va <LEM>kokilo°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; kaukilo° \msCb\oo
                  <LEM>°kañjalya°</LEM> \eme; °kiñjalya° \msCa\msCc\msNa, °kiñjalka° \msCb\msNb\msNc\Ed</APP>
-        <APP>\vb <LEM>ca</LEM> \mssCaCbCc\msNa\msNb\Ed; caḥ \msNc</APP>
+        <APP>\vb <LEM>ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; caḥ \msNc</APP>
         <NOTE>My impression is that the reading °Łkiñjalka$° (usually: `the filament of a lotus') in Łpāda$ a
               is either a mistake for, or rather an altered form metri causa, maybe a regional form, 
               of Łkañjala$ (a kind of bird). \msCa\msCc\msNa\ (Łkiñjalya$) may be slightly closer 
@@ -10399,7 +10413,8 @@ NUMBERS:
         <TR>Śārika birds and sparrows.</TR>
 
 <TEXT> makaragohanakrāś{ }ca ṛkṣāś{ }ca tamasāttvikāḥ|</TEXT>
-        <APP>\va <LEM>°gohanakrāś{ }ca</LEM> \msCa\msCb\msNa\msNc\Ed; °gohanakrā ca \msCc, °grohanakrāś{ }ca \msNb</APP>
+        <APP>\va <LEM>°gohanakrāś{ }ca</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed;
+                                                 °gohanakrā ca \msCc, °grohanakrāś{ }ca \msNb</APP>
         <APP>\vb <LEM>ṛkṣāś{ }ca</LEM> \conj; ṛṣā ca \mssCaCbCc\msNa\msNb\msNc\Ed\oo
                  <LEM>tamasāttvikāḥ</LEM> \Ed; tama<UNCL>ssā</UNCL>\lk\lk\ \msCa,
                          tamaḥsātvikāḥ \msCb\msCc\msNa\msNb\ \unmetr, tasamātvikāḥ \msNc</APP>
@@ -10412,8 +10427,8 @@ NUMBERS:
 %folioinfo \msNa\ 207.jpg lower, f.14r
 <TEXT> kacchapaśiśukumbhīramaṇḍūkās{ }tamarājasāḥ|</TEXT> 
         <APP>\vc <LEM>°śiśu°</LEM> \eme; °śuśu° \mssCaCbCc\msNa\msNb\msNc\Ed\oo
-                 <LEM>°kumbhīra°</LEM> \msCa\msCb\msNa\msNb\msNc; °kambhīrā \msCc\Ed</APP>
-        <APP>\vd <LEM>°maṇḍūkā°</LEM> \mssCaCbCc\msNa\msNc; °maṇḍūka° \msNb, °maṇḍukā° \Ed</APP>
+                 <LEM>°kumbhīra°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °kambhīrā \msCc\Ed</APP>
+        <APP>\vd <LEM>°maṇḍūkā°</LEM> \mssALL\mssCaCbCc\msNa\msNc; °maṇḍūka° \msNb, °maṇḍukā° \Ed</APP>
         <NOTE>My emendation of the word Łśuśu$ to Łśisu$ (`porpoise,' for Łśiśuka$ or Łśiśumāra$, lit. 
               `child-killer') in Łpāda$ c is based on the fact that, most probably,
                we need an aquatic animal here, rather than a hare (Łśaśa$).</NOTE>
@@ -10437,14 +10452,14 @@ NUMBERS:
 
 
 <TEXT> candanāgarupadmaṃ ca plakṣodumbarapippalāḥ|</TEXT> 
-        <APP>\va <LEM>°garu°</LEM> \mssCaCbCc\msNa\msNb\msNc; °guru° \Ed</APP>
+        <APP>\va <LEM>°garu°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °guru° \Ed</APP>
         <TR>Sandalwood, aloeswood, lotus, waved-leaf fig-tree, Ficus Glomerata, holy fig-tree,</TR>
 
 
 %folioinfo \msCb\ 426.jpg
 <TEXT> vaṭadāruśamībilvā daśaite tamasāttvikāḥ||</TEXT> 9:25
         <APP>\vc <LEM>°bilvā</LEM> \msCa\msCb\msNa\Ed; °bilva \msCc\msNb\msNc</APP>
-        <APP>\vd <LEM>daśaite</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; daśai \msCc\oo
+        <APP>\vd <LEM>daśaite</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; daśai \msCc\oo
                  <LEM>tamasāttvikāḥ</LEM> \Ed; tamassātvikāḥ \msCa\ \unmetr, tamaḥsātvikāḥ \msCb\msCc\msNa\msNb\msNc\ \unmetr</APP>
         <NOTE>In Łpāda$ d, Łtamas$° or Łtamaḥ$° are unmetrical and might be the result
               of scribal correction. The original may have been the metrical Łtama$°, here
@@ -10452,23 +10467,25 @@ NUMBERS:
         <TR>Banyan, Devadāru tree, Śamī tree, wood-apple tree: these ten are Tamas-Sattva.</TR>
 
 <TEXT> jāmbīralakucāmrātadāḍimākolavetasāḥ|</TEXT>
-        <APP>\va <LEM>jāmbīra°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; jambīra° \msCc</APP>
-        <APP>\vb <LEM>°dāḍimā°</LEM> \msCa\msCb\msNb\msNc\Ed; °drāḍimā° \msCc, °drāḍi<UNCL>hā</UNCL>° \msNa</APP>
+        <APP>\va <LEM>jāmbīra°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; jambīra° \msCc</APP>
+        <APP>\vb <LEM>°dāḍimā°</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; °drāḍimā° \msCc, °drāḍi<UNCL>hā</UNCL>° \msNa</APP>
         <TR>The ten Tamas-Rajas [trees] are: 
                 Citron trees, bread-fruit trees, hog-plum trees, pomegranate trees, jujube trees, rattan trees,</TR>
 
 %folioinfo \msNc\ 224.jpg lower, f. 222r
 <TEXT> nimbanīpo <crux>dhravāvaś{ }ca</crux> daśaite tamarājasāḥ||</TEXT> 9:26
-        <APP>\vc <LEM>°nīpo</LEM> \mssCaCbCc\msNa\msNb\Ed; °nīpau \msNc\oo
-                 <LEM>dhravāvaś{ }ca</LEM> \msCaacorr\msCb\msCc\msNa\msNb\msNc; dhavāvaś{ }ca \msCapcorr, dhuvāvaś{ }ca \Ed</APP>
-        <APP>\vd <LEM>daśaite</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \lk\lk\lk\ \msCa</APP>
+        <APP>\vc <LEM>°nīpo</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °nīpau \msNc\oo
+                 <LEM>dhravāvaś{ }ca</LEM> \mssALL\msCaacorr\msCb\msCc\msNa\msNb\msNc;
+                                         dhavāvaś{ }ca \msCapcorr, dhuvāvaś{ }ca \Ed</APP>
+        <APP>\vd <LEM>daśaite</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; \lk\lk\lk\ \msCa</APP>
         <NOTE>There seems to be only nine items here instead of the expected ten. I have not been able
               to interpret the last one, Łdhravāvaś$.</NOTE>
         <TR>Neemb trees, Kadamba trees and ...</TR>
 
 <TEXT> vṛkṣavallīlatāveṇutvaksāratṛṇabhūruhāḥ|</TEXT>
-        <APP>\va <LEM>vṛkṣavallī°</LEM> \mssCaCbCc\msNa\msNc\Ed; <UNCL>vṛkṣavallī</UNCL> \msNb</APP>
-        <APP>\vb <LEM>°tvaksāratṛṇa°</LEM> \msCa\msCb\msNa\msNb; °tvaksāras{ }tṛṇa° \msCc\Ed, °tvakasāratṛṇa° \msNc\ \unmetr</APP>
+        <APP>\va <LEM>vṛkṣavallī°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; <UNCL>vṛkṣavallī</UNCL> \msNb</APP>
+        <APP>\vb <LEM>°tvaksāratṛṇa°</LEM> \msCa\msCb\msNa\msNb;
+                                 °tvaksāras{ }tṛṇa° \msCc\Ed, °tvakasāratṛṇa° \msNc\ \unmetr</APP>
         <TR>Trees, creepers, winding plants, cane, bamboo, grass, plants,</TR>
 % \Ed is clearly related to \msCc
 
@@ -10479,8 +10496,8 @@ NUMBERS:
         <TR>seaweed, rocks, grains are the ten Tamas-Sattva ones.</TR>
 
 <TEXT> bhramarādipataṅgāś{ }ca krimikīṭajalaukasaḥ|</TEXT>
-        <APP>\va <LEM>pataṅgāś{ }ca</LEM> \mssCaCbCc\msNa\msNb\msNc; pataṅgānāṃ \Ed</APP>
-        <APP>\vb <LEM>krimikīṭajalaukasaḥ</LEM> \mssCaCbCc\msNa; krimikīṭajalokasaḥ \msNb, 
+        <APP>\va <LEM>pataṅgāś{ }ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pataṅgānāṃ \Ed</APP>
+        <APP>\vb <LEM!>krimikīṭajalaukasaḥ</LEM> \mssCaCbCc\msNa; krimikīṭajalokasaḥ \msNb, 
                                         krimikīṭajalauka<UNCL>sāḥ</UNCL> \msNc, kimikīṭajalaukasāṃ \Ed</APP>
         <NOTE>Łādi$ in Łpāda$ a is misplaced, in order to avoid the metrical fault of 
               two Łlaghu$ syllables in the second and third syllables; understand Łbhramarapataṅgādayaś ca$.</NOTE>
@@ -10489,13 +10506,13 @@ NUMBERS:
 %index_grammar: misplaced ādi
 
 <TEXT> yūkoddaṃśamaśānāṃ ca viṣṭhājās{ }tamasāttvikāḥ||</TEXT> 9:28
-        <APP>\vc <LEM>yūkoddaṃśamaśānāṃ ca</LEM> \msCa;
+        <APP>\vc <LEM!>yūkoddaṃśamaśānāṃ ca</LEM> \msCa;
                       yūkodaṃśamaśānāñ{ }ca \msCb\msNa,
                       yūkodaṃśamasakānāñ{ }ca \msCc\ \unmetr,
                       yūkodaṃśamasānān{ }tu \msNb,
                       <UNCL>yūkoddaṃ</UNCL>\lk\lk \lk\lk \lk\  \msNc,
                       yuktodaṃśamaśānāś{ }ca \Ed</APP>
-        <APP>\vd <LEM>viṣṭhājās{ }tamasāttvikāḥ</LEM> \corr; 
+        <APP>\vd <LEM!>viṣṭhājās{ }tamasāttvikāḥ</LEM> \corr; 
                              viṣṭajās{ }tamassātvikāḥ \msCa\ \unmetr,
                              viṣṭajās{ }tamaḥsātvikāḥ \msCb\msCc\msNa\ \unmetr,
                              viṣṭajās{ }tamaḥsādhikāḥ \msNb\ \unmetr,
@@ -10505,21 +10522,21 @@ NUMBERS:
 
 <TEXT> dayā satyaṃ damaḥ śaucaṃ jñānaṃ maunaṃ tapaḥ kṣamā|</TEXT>
         <APP>\vb <LEM>jñānaṃ</LEM> \msCa\msCc\msNb\Ed; jñāna \msCb\msNc, jñā<UNCL>naṃ</UNCL> \msNa\oo
-                 <LEM>maunaṃ</LEM> \mssCaCbCc\msNb\msNc\Ed; mauna \msNa\oo
-                 <LEM>kṣamā</LEM> \msCa\msCc\msNa\msNc\Ed; kṣamāḥ \msCb\msNb</APP>
+                 <LEM>maunaṃ</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; mauna \msNa\oo
+                 <LEM>kṣamā</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; kṣamāḥ \msCb\msNb</APP>
         <TR>[These ten words describe] people who are the best among the Sāttvika [type]:
                compassion, truthfulness, self-control, purity, knowledge, 
                 observing silence, penance, patience,</TR>
 
 <TEXT> śīlaṃ ca nābhimānaṃ ca sāttvikāś{ }cottamā janāḥ||</TEXT> 9:29
-        <APP>\vc <LEM>śīlaṃ ca</LEM> \mssCaCbCc\msNa\msNc; nīlañ{ }ca \msNb, śilaṃ ca \Ed\oo
-                 <LEM>nābhimānaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; nābhimānāṃ \Ed</APP>
+        <APP>\vc <LEM>śīlaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNc; nīlañ{ }ca \msNb, śilaṃ ca \Ed\oo
+                 <LEM>nābhimānaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; nābhimānāṃ \Ed</APP>
         <TR>integrity, lack of self-conceit.</TR>
 
 <TEXT> kāmatṛṣṇāratidyūtamāno yuddhaṃ madaḥ spṛhā|</TEXT>
-        <APP>\va <LEM>°māno</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °mano \msCc</APP>
-        <APP>\vb <LEM>yuddhaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; yuddha° \Ed\oo
-                 <LEM>spṛhā</LEM> \mssCaCbCc\msNa\msNc\Ed; smṛta \msNb</APP>
+        <APP>\va <LEM>°māno</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °mano \msCc</APP>
+        <APP>\vb <LEM>yuddhaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; yuddha° \Ed\oo
+                 <LEM>spṛhā</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; smṛta \msNb</APP>
         <TR>[These ten words describe] the people who are the best among the Rājasa [type]:
                   desire, thirst, pleasure, gambling, arrogance, fight, intoxication, delight,</TR>
 
@@ -10527,57 +10544,59 @@ NUMBERS:
 %folioinfo \msM\ 423.jpg lower, f. 15r
 <TEXT> nirghṛṇāḥ kalikartāro rājaseṣūttamā janāḥ||</TEXT> 9:30
         <APP>\vc <LEM>nirghṛṇāḥ</LEM> \mssCaCbCc; nirghṛṇā \msNa\Ed, nighṛṇāḥ \msNb\msNc</APP>
-        <APP>\vd <LEM>rājaseṣūttamā</LEM> \msCa\msCb\msNa\msNb\msNc; rājasesūtamā \msCc, rājase hy{ }uttamo \Ed</APP>
+        <APP>\vd <LEM>rājaseṣūttamā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc;
+                                                 rājasesūtamā \msCc, rājase hy{ }uttamo \Ed</APP>
         <TR>cruel, quarrelling.</TR>
 
 <TEXT> hiṃsāsūyāghṛṇāmūḍhanidrātandrībhayālasāḥ|</TEXT> 
-        <APP>\va <LEM>°sūyā°</LEM> \mssCaCbCc\msNa\msNc\Ed; °sa<UNCL>yū</UNCL>° \msNb\oo
-                 <LEM>°mūḍha°</LEM> \msCa\msCc\msNa\msNc\Ed; °mūḍhā° \msCb\msNb</APP>
-        <APP>\vb <LEM>°tandrī°</LEM> \mssCaCbCc\msNa\msNb\msNc; °tantrī° \Ed</APP>
+        <APP>\va <LEM>°sūyā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °sa<UNCL>yū</UNCL>° \msNb\oo
+                 <LEM>°mūḍha°</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; °mūḍhā° \msCb\msNb</APP>
+        <APP>\vb <LEM>°tandrī°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °tantrī° \Ed</APP>
         <TR>[These words describe] people who are the best among the Tāmasa [type]:
                 violence, envy, incompassionate, stupid, sleepy, lazy, cowardly, idle, </TR>
 
 <TEXT> krodho matsaramāyī ca tāmaseṣūttamā janāḥ||</TEXT> 9:31
-        <APP>\vc <LEM>krodho</LEM> \mssCaCbCc\msNa\msNb\msNc; krodha° \Ed</APP>
-        <APP>\vd <LEM>tāmaseṣūttamā</LEM> \msCa\msCb\msNa\msNb\msNc; tāmasesūtamā \msCc, tāmase hy{ }uttamo \Ed</APP>
+        <APP>\vc <LEM>krodho</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; krodha° \Ed</APP>
+        <APP>\vd <LEM>tāmaseṣūttamā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc;
+                                         tāmasesūtamā \msCc, tāmase hy{ }uttamo \Ed</APP>
         <TR>anger, greedy, cheating.</TR>
 
 
 <TEXT> laghuprītiprakāśī ca dhyānayoge sadotsukaḥ|</TEXT> 
-        <APP>\vb <LEM>°yoge</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; °<UNCL>yoge</UNCL> \msCa</APP>
+        <APP>\vb <LEM>°yoge</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; °<UNCL>yoge</UNCL> \msCa</APP>
         <TR>The Sāttvika can be characterised as follows:
               light, joyful, bright, always eager for yoga meditation,</TR>
 
 <TEXT> prajñābuddhivirāgī ca sāttvikaṃ guṇalakṣaṇam||</TEXT> 9:32
-        <APP>\vc <LEM>°virāgī ca</LEM> \mssCaCbCc\msNb\Ed; °virāgī \msNa, °virāṅkrī ca \msNc</APP>
+        <APP>\vc <LEM>°virāgī ca</LEM> \mssALL\mssCaCbCc\msNb\Ed; °virāgī \msNa, °virāṅkrī ca \msNc</APP>
         <TR>wise, intelligent and dispassionate.</TR>
 
 %folioinfo \msCc\ 210.jpg, f. 283v
 <TEXT> bālako nipuṇo rāgī māno darpaś{ }ca lobhakaḥ|</TEXT>
-        <APP>\va <LEM>bālako</LEM> \mssCaCbCc\msNa\msNb\Ed; cālako \msNc\oo
+        <APP>\va <LEM>bālako</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; cālako \msNc\oo
                  <LEM>nipuṇo</LEM> \Ed; nipuno \mssCaCbCc\msNa\msNb, nipuṇe \msNc</APP>
         <TR>The Rājasa can be characterised as follows:
               childish, skilful, passionate, proud, arrogant, greedy,</TR>
 
 <TEXT> spṛhā īrṣā pralāpī ca rājasaṃ guṇalakṣaṇam||</TEXT> 9:33
-        <APP>\vc <LEM>īrṣā</LEM> \msCa\msCc\msNa\msNb\msNc; īrṣyā \msCb\Ed\oo
-                 <LEM>pralāpī</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; ca lāpī \msCc</APP>
-        <APP>\vd <LEM>rājasaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; tāmasaṃ \Ed</APP>
+        <APP>\vc <LEM>īrṣā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; īrṣyā \msCb\Ed\oo
+                 <LEM>pralāpī</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; ca lāpī \msCc</APP>
+        <APP>\vd <LEM>rājasaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; tāmasaṃ \Ed</APP>
         <TR>desirous, jealous, and chattering.</TR>
 % note spṛhā and īrṣā, could be a compoud with pralāpī
 
 <TEXT> udvega ālaso mohaḥ krūras{ }taskaranirdayaḥ|</TEXT>
-        <APP>\va <LEM>ālaso</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; alaso \msCb</APP>
+        <APP>\va <LEM>ālaso</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; alaso \msCb</APP>
         <APP>\vb <LEM>krūras{ }ta°</LEM> \msCa\msCb\msNa; krūrata° \msCc\msNc\Ed, kūras{ }ta° \msNb\oo
-                 <LEM>°nirdayaḥ</LEM> \mssCaCbCc\msNa\msNb\Ed; °nirdayāḥ \msNc</APP>
+                 <LEM>°nirdayaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °nirdayāḥ \msNc</APP>
         <TR>The Tāmasa can be characterised as follows:
                 anxious, lazy, deluded, cruel, a thief, pitiless,</TR>
 
 <TEXT> krodhaḥ piśuna nidrā ca tāmasaṃ guṇalakṣaṇam||</TEXT> 9:34
-        <APP>\vc <LEM>krodhaḥ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; krodha° \msCb\oo
+        <APP>\vc <LEM>krodhaḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; krodha° \msCb\oo
                  <LEM>piśuna</LEM> \Ed; piśuno \mssCaCbCc\msNa\msNb\msNc\oo
-                 <LEM>ca</LEM> \mssCaCbCc\msNa\msNc\Ed; \om\ \msNb</APP>
-        <APP>\vd <LEM>guṇa°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; gu° \msCbacorr</APP>
+                 <LEM>ca</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; \om\ \msNb</APP>
+        <APP>\vd <LEM>guṇa°</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; gu° \msCbacorr</APP>
         <NOTE>In Łpāda$ a, Łpiśuno$ could be the right choice: the Łpāda$ can be a 
                 (slightly wrong) Łra-vipulā$ if Łdr$ in Łnidrā$ does not make the previous syllable long, 
                 a licence often occuring in this text (`muta cum liquida').</NOTE>
@@ -10591,13 +10610,14 @@ NUMBERS:
         <TR>Vigatarāga spoke:</TR>
 
 <TEXT> kena cihnena vijñeya āhāraḥ sarvadehinām|</TEXT>
-        <APP>\vab <LEM>kena cihnena vijñeya āhāraḥ sarvadehinām</LEM> \msCb\msCc\msNa\msNc\Ed;
-                      \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk \lk  dehinām \msCa, kena cihnena vijñeya āhāra sarvadehinām \msNb</APP>
+        <APP>\vab <LEM!>kena cihnena vijñeya āhāraḥ sarvadehinām</LEM> \mssALL\msCb\msCc\msNa\msNc\Ed;
+                      \lk\lk\lk\lk\lk\lk\lk\lk\lk\lk\lk\lk\lk  dehinām \msCa,
+                       kena cihnena vijñeya āhāra sarvadehinām \msNb</APP>
         <TR>By what signs can the food of each [category of] humans be characterised?</TR>
 
 <TEXT> traiguṇyasya pṛthaktvena kathayasva tapodhana||</TEXT> 9:35
-        <APP>\vc <LEM>pṛthaktvena</LEM> \mssCaCbCc\msNa\msNb\Ed; pṛthakkeṇa \msNc</APP>
-        <APP>\vd <LEM>°dhana</LEM> \mssCaCbCc\msNa\msNb\Ed; °dhanaḥ \msNc</APP>
+        <APP>\vc <LEM>pṛthaktvena</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; pṛthakkeṇa \msNc</APP>
+        <APP>\vd <LEM>°dhana</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °dhanaḥ \msNc</APP>
         <TR>Teach me with regards to the three qualities (Łguṇa$), O great ascetic.</TR>
 %index_anarthayajna_ref_as: tapodhana
 
@@ -10605,33 +10625,35 @@ NUMBERS:
         <TR>Anarthayajña spoke:</TR>
 
 <TEXT> āyuḥ kīrtiḥ sukhaṃ prītir{ }balārogyavivardhanam|</TEXT>
-        <APP>\va <LEM>kīrtiḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; kirtiḥ \Ed\oo
+        <APP>\va <LEM>kīrtiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; kirtiḥ \Ed\oo
                  <LEM>sukhaṃ prītir{ }ba°</LEM> \msNc; sukhaṃ prītiba° \msCa\msCb\msNa\msNb, 
                                 sukhaprīti ba° \msCc, sukhaṃ pritiva° \Ed</APP>
-        <APP>\vb <LEM>°rogya°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °rogyaṃ \msCb</APP>
+        <APP>\vb <LEM>°rogya°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °rogyaṃ \msCb</APP>
         <TR>The Sāttvikas prefer food that yields [long] life, 
                  fame, happiness, joy, which increases strength and health,</TR>
 
 <TEXT> hṛdyasvādurasaṃ snigdha āhāraḥ sāttvikapriyaḥ||</TEXT> 9:36
-        <APP>\vc <LEM>hṛdya°</LEM> \mssCaCbCc\msNa\msNb\msNc; hṛda° \Ed\oo
+        <APP>\vc <LEM>hṛdya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; hṛda° \Ed\oo
                  <LEM>°rasaṃ</LEM> \msCa\msCb\msNa; °rasa \msCc, °<UNCL>rasa</UNCL> \msNb, °rasāṃ \msNc, °rasā \Ed\oo
-                 <LEM>snigdha</LEM> \mssCaCbCc\msNc\Ed; snigdhaṃ \msNa, <UNCL>sandigdha</UNCL> \msNb</APP>
+                 <LEM>snigdha</LEM> \mssALL\mssCaCbCc\msNc\Ed; snigdhaṃ \msNa, <UNCL>sandigdha</UNCL> \msNb</APP>
         <APP>\vd <LEM>āhāraḥ</LEM> \msCapcorr\msNb\msNc\Ed; āhāra \msCaacorr\msCb\msCc\msNa\oo
-                 <LEM>sāttvikapriyaḥ</LEM> \msCa\msCb\msNa\msNc; sātvikapriyā \msCc, sātvikapriya \msNb, sātvikaḥ kiyāḥ \Ed</APP>
+                 <LEM>sāttvikapriyaḥ</LEM> \msCa\msCb\msNa\msNc;
+                                         sātvikapriyā \msCc, sātvikapriya \msNb, sātvikaḥ kiyāḥ \Ed</APP>
         <TR>which is savoury and which tastes nice, and which is soft.</TR>
 
 <TEXT> atyuṣṇam{ }āmlalavaṇaṃ rūkṣaṃ tīkṣṇaṃ vidāhi ca|</TEXT>
-        <APP>\va <LEM>°mla°</LEM> \mssCaCbCc\msNa\msNb\msNc; °lla° \Ed\oo
-                 <LEM>°lavaṇaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °lakṣaṇaṃ \msCb</APP>
-        <APP>\vb <LEM>tīkṣṇaṃ</LEM> \msCb\msCc\msNa\msNb\msNc; tī<UNCL>kṣṇa</UNCL> \msCa, stīkṣaṃ \Ed\oo
+        <APP>\va <LEM>°mla°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °lla° \Ed\oo
+                 <LEM>°lavaṇaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °lakṣaṇaṃ \msCb</APP>
+        <APP>\vb <LEM>tīkṣṇaṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; tī<UNCL>kṣṇa</UNCL> \msCa, stīkṣaṃ \Ed\oo
                  <LEM>vidāhi ca</LEM> \msCb\msNa\msNb\msNc; \lk <UNCL>dāhi ca</UNCL> \msCa, 
                                         vidāhika \msCcpcorr, vidāhikaḥ \msCcacorr\Ed</APP>
         <TR>The best food for the Rājasas is rather warm, acidic, salty, hard, hot and pungent.</TR>
 
 %folioinfo \msCa\ 409.jpg
 <TEXT> rājasaśreṣṭha-āhāro duḥkhaśokāmayapradaḥ||</TEXT> 9:37
-        <APP>\vcd <LEM>rājasaśreṣṭha āhāro duḥkhaśokāmayapradaḥ</LEM> \msCb\msNa\msNc;
-               \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk\  \msCa, rājasaśreṣṭha āhāro duḥkhaśokāmayaḥ pradaḥ \msCc, 
+        <APP>\vcd <LEM!>rājasaśreṣṭha āhāro duḥkhaśokāmayapradaḥ</LEM> \msCb\msNa\msNc;
+               \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk \lk\lk\  \msCa,
+                                       rājasaśreṣṭha āhāro duḥkhaśokāmayaḥ pradaḥ \msCc, 
                                        rājasaḥ śreṣṭha āhāro duḥkhaśokāmayapradaḥ \msNb, 
                                        rājase śreṣṭham{ }āhāro duḥkhaśokābhayapradaḥ \Ed</APP>
         <NOTE>Note the lack of sandhi within what was meant to be a compund in Łpāda$ c (understand
@@ -10642,7 +10664,7 @@ NUMBERS:
 %index_grammar: gender
 
 <TEXT> abhakṣyāmedhyapūtī ca pūti paryuṣitaṃ ca yat|</TEXT>
-        <APP>\va <LEM>abhakṣyāmedhyapūtī ca</LEM> \eme; abhakṣyamedhyapūtī ca \mssCaCbCc\msNa,
+        <APP>\va <LEM!>abhakṣyāmedhyapūtī ca</LEM> \eme; abhakṣyamedhyapūtī ca \mssCaCbCc\msNa,
                                 abhakṣamedhyapūtī ca \msNb, abhakṣāmedhyapūtī ca \msNc, abhakṣamadyapūtī vai \Ed</APP>
         <NOTE>Understand °Łpūtī$ Łin$ pāda a as standing for °Łpūti$ metri causa (which is oddly repeated in 
               Łpāda$ b), and note that °āmedhya° in the same Łpāda$ is an emendation (correcting \msNc's reading).</NOTE>
@@ -10650,8 +10672,8 @@ NUMBERS:
 
 <TEXT> āmayārasavisvāda āhāras{ }tāmasapriyaḥ||</TEXT> 9:38
         <APP>\vc <LEM>āmayā°</LEM> \conj; āyāma° \mssCaCbCc\msNa\msNb\msNc, āyāsa° \Ed</APP>
-        <APP>\vd <LEM>°masa°</LEM> \msCa\msCb\msNa\msNb\msNc; °masaḥ \msCc\Ed\oo
-                 <LEM>°priyaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °priyāḥ \msCc</APP>
+        <APP>\vd <LEM>°masa°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °masaḥ \msCc\Ed\oo
+                 <LEM>°priyaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °priyāḥ \msCc</APP>
         <TR>It causes indigestion, is sapless and tasteless.</TR>
         <NOTE>I have conjectured Łāmayārasa$° for Łāyāmarasa$° in Łpāda$ c because the transmitted readings
               make little sense and because Łāmaya$ appeared in 9.37d above.</NOTE>
@@ -10663,13 +10685,13 @@ NUMBERS:
         <TR>Vigatarāga spoke:</TR>
 
 <TEXT> guṇātītaṃ kathaṃ jñeyaṃ saṃsāraparapāragam|</TEXT>
-        <APP>\va <LEM>°tītaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °tīta \msCc\msNb</APP>
-        <APP>\vb <LEM>°gam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °gaḥ \msCc</APP>
+        <APP>\va <LEM>°tītaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °tīta \msCc\msNb</APP>
+        <APP>\vb <LEM>°gam</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °gaḥ \msCc</APP>
         <TR>How can one recognize [the state of getting] beyond the Łguṇa$s,
                  which leads one to the other shore of [the ocean] of mundane existence?</TR>
 
 <TEXT> guṇapāśanibaddhānāṃ mokṣaṃ kathaya tattvataḥ||</TEXT> 9:39
-        <APP>\vc <LEM>°baddhānāṃ</LEM> \msCa\msCc\msNa\msNb\msNc; °varddhānāṃ \msCb, °baddhāmo \Ed</APP>
+        <APP>\vc <LEM>°baddhānāṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; °varddhānāṃ \msCb, °baddhāmo \Ed</APP>
         <TR>Tell me truly about the liberation of those who are bound
                        by the noose of the Łguṇa$s.</TR>
 
@@ -10678,8 +10700,8 @@ NUMBERS:
   
 %folioinfo \msNa\ 208.jpg upper, f.14v
 <TEXT> ātmavat{ }sarvabhūtāni samyak{ }paśyeta bho dvija|</TEXT>
-        <APP>\va <LEM>°bhūtāni</LEM> \mssCaCbCc\msNb\msNc\Ed; °bhūtāṃ \msNa</APP>
-        <APP>\vb <LEM>samyak{ }pa°</LEM> \mssCaCbCc\msNb\msNc\Ed; samyat{ }pa° \msNa</APP>
+        <APP>\va <LEM>°bhūtāni</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °bhūtāṃ \msNa</APP>
+        <APP>\vb <LEM>samyak{ }pa°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; samyat{ }pa° \msNa</APP>
         <PARAL>\vab Ł\similar\ \PADMAP\ 1.19.337ab:$ 
                         ātmavat{ }sarvabhūtāni yaḥ paśyati sa paśyati</PARAL>
         <TR>Well, he who looks at all living beings in the correct way, as his own Self,
@@ -10697,8 +10719,8 @@ NUMBERS:
                  has departed to the other shore of [the ocean of] mundane existence.</TR>
 
 <TEXT> īrṣādveṣasamo yas{ }tu sukhaduḥkhasamāś{ }ca ye|</TEXT>
-        <APP>\va <LEM>īrṣā°</LEM> \mssCaCbCc\msNa\msNb; īrṣyā° \msNc\Ed</APP>
-        <APP>\vb <LEM>°samāś{ }ca ye</LEM> \mssCaCbCc\msNa\msNc\Ed; °samāśraye \msNb</APP>
+        <APP>\va <LEM>īrṣā°</LEM> \mssALL\mssCaCbCc\msNa\msNb; īrṣyā° \msNc\Ed</APP>
+        <APP>\vb <LEM>°samāś{ }ca ye</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °samāśraye \msNb</APP>
         <PARAL>\vab Ł\compare\ \VSS\ 11.51ab:$
                     nyased{ }dharmam{ }adharmaṃ ca īrṣyādveṣaṃ parityajet
                     Ł\compare\ \BHG\ 14.25:$
@@ -10710,12 +10732,12 @@ NUMBERS:
         <TR>He who is indifferent to envy and hate, treats happiness and sorrow as equal,</TR>
 
 <TEXT> stutinindāsamā ye ca guṇātītaḥ sa ucyate||</TEXT> 9:41
-        <APP>\vd <LEM>°tītaḥ</LEM> \mssCaCbCc\msNa\msNc\Ed; °tīta \msNb</APP>
+        <APP>\vd <LEM>°tītaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °tīta \msNb</APP>
         <TR>treats praise and reproach as equal, is called `one who is beyond the qualities (Łguṇa$)'.</TR>
 
 <TEXT> tulyapriyāpriyo yaś{ }ca arimitrasamas{ }tathā|</TEXT>
         <APP>\va <LEM>tulya°</LEM> \Ed; tulyaḥ \mssCaCbCc\msNa\msNb\msNc</APP>
-        <APP>\vb <LEM>°sama°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °samā° \msCc</APP>
+        <APP>\vb <LEM>°sama°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °samā° \msCc</APP>
         <TR>He who treats pleasant and unpleasant things, enemy and friend,</TR>
 
 <TEXT> mānāpamānayos{ }tulyo guṇātītaḥ sa ucyate|| </TEXT> 9:42
@@ -10726,8 +10748,8 @@ NUMBERS:
         <TR>respect and contempt equally, is called `one who is beyond the qualities (Łguṇa$)'.</TR>
 
 <TEXT> eṣa te kathito vipra guṇasadbhāvanirṇayaḥ|</TEXT>
-        <APP>\va <LEM>te</LEM> \mssCaCbCc\msNa\msNc\Ed; to \msNb</APP>
-        <APP>\vb <LEM>°sadbhāva°</LEM> \mssCaCbCc\msNa\msNb\msNc; °madbhāva° \Ed</APP>
+        <APP>\va <LEM>te</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; to \msNb</APP>
+        <APP>\vb <LEM>°sadbhāva°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °madbhāva° \Ed</APP>
         <TR>O Brahmin, thus has the exposition of the essence of the qualities (Łguṇa$) been
                         taught to you.</TR>
 
@@ -10740,11 +10762,12 @@ NUMBERS:
 
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe traiguṇyaviśeṣaṇīyo nāmādhyāyo navamaḥ</COLOPHON></TEXT>
         <APP> Ł\Colo:$ <LEM>°viśeṣaṇīyo</LEM> \corr; °viśeṣanīyo \mssCaCbCc\msNa\msNb\msNc\Ed\oo
-                        <LEM>nāmādhyāyo navamaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; nāma navamo 'dhyāyaḥ \Ed</APP>
+                        <LEM>nāmādhyāyo navamaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; nāma navamo 'dhyāyaḥ \Ed</APP>
         <TRCOLOPHON>Here ends the ninth chapter in the ŁVṛṣasārasaṃgraha$ called the Particulars of the Three Guṇas.</TRCOLOPHON>
 
 %END OF CHAPTER 9
 
+<STOP/>
 
 
 
