@@ -41,7 +41,6 @@
 <HEADERTITLE>Vṛṣasārasaṃgrahe</HEADERTITLE>
 %chapter 1
 
-<STOP/>
 <startchapter-n="1"/> 
 <CHAPTER>prathamo 'dhyāyaḥ</CHAPTER>
 <TRCHAPTER>Chapter One</TRCHAPTER>
@@ -2211,7 +2210,7 @@ NUMBERS:
         <TR>for the benefit of humankind. What else do you wish to know?</TR>
 
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe brahmāṇḍasaṃkhyā nāmādhyāyaḥ prathamaḥ</COLOPHON></TEXT>
-        <TRCOLOPHON>Here ends the first chapter in the ŁVṛṣasārasaṃgraha$ called the Description of Śiva's Egg.</TRCOLOPHON> 
+        <TRCOLOPHON>Here ends the first chapter in the ŁVṛṣasārasaṃgraha$ called Description of Brahmā's Egg.</TRCOLOPHON> 
         <APP> Ł\Colo:$ <LEM>nāmādhyāyaḥ prathamaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA;
                                                                 nāmādhyāyaḥ prathamaḥ śloka 77 \msM,
                                                                 nāma prathamo 'dhyāya \Ed</APP>
@@ -2959,7 +2958,7 @@ NUMBERS:
               smoothly.</NOTE>
 
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe śivāṇḍasaṃkhyā nāmādhyāyo dvitīyaḥ</COLOPHON></TEXT>
-        <TRCOLOPHON>Here ends the second chapter in the ŁVṛṣasārasaṃgraha$ called the Description of the Śiva's Egg.</TRCOLOPHON>
+        <TRCOLOPHON>Here ends the second chapter in the ŁVṛṣasārasaṃgraha$ called Description of Śiva's Egg.</TRCOLOPHON>
         <APP> Ł\Colo:$ <LEM>nāmādhyāyo dvitīyaḥ</LEM> \mssALL\msCa\msCb\msNa\msNc;
                                                                 nāmādhyāya dvitīyaḥ \msNb,
                                                                 nāma dvitīyo 'dhyāyaḥ \Ed</APP>
@@ -4049,7 +4048,7 @@ NUMBERS:
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe ahiṃsāpraśaṃsā nāmādhyāyas{ }tṛtīyaḥ</COLOPHON></TEXT>
         <APP> Ł\Colo:$ <LEM>nāmādhyāyas{ }tṛtīyaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb; nāmādhyāyas{ }tṛtīya \msNc,
                         nāmas{ }tṛtīyo 'dhyāyaḥ \Ed</APP>
-        <TRCOLOPHON>Here ends the third chapter in the ŁVṛṣasārasaṃgraha$ called the Praise of Non-violence.</TRCOLOPHON>
+        <TRCOLOPHON>Here ends the third chapter in the ŁVṛṣasārasaṃgraha$ called Praise of Non-violence.</TRCOLOPHON>
 %END OF CHAPTER 3
 
 
@@ -6722,7 +6721,7 @@ NUMBERS:
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe yamavibhāgo nāmādhyāyaś{ }caturthaḥ</COLOPHON></TEXT>
         <APP> Ł\Colo:$ <LEM>nāmādhyāyaś{ }caturthaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc;
                                                          nāmaś{ }caturtho 'dhyāyaḥ \Ed</APP>
-        <TRCOLOPHON>Here ends the fourth chapter in the ŁVṛṣasārasaṃgraha$ called the Section on the Yama-rules.</TRCOLOPHON>
+        <TRCOLOPHON>Here ends the fourth chapter in the ŁVṛṣasārasaṃgraha$ called Section on the Yama-rules.</TRCOLOPHON>
 
 %END OF CHAPTER 4
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -7289,7 +7288,7 @@ NUMBERS:
 <APP> Ł\Colo:$ <LEM>°vidhir{ }namā°</LEM> \msCa; °vidhināmā° \msCb\msCc\msNa\msNc\msM, <UNCL>viṃdhi</UNCL>nāmā° \msNb, °vidhir{ }nāma \Ed\oo
                         <LEM>°dhyayaḥ pañcamaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °dhyāyaḥ pañcamaḥ śloka 25 \msM,
                                                                                         pañcamo 'dhyāyaḥ \Ed</APP>
-        <TRCOLOPHON>Here ends the fifth chapter in the ŁVṛṣasārasaṃgraha$ called the Method of Purification.</TRCOLOPHON>
+        <TRCOLOPHON>Here ends the fifth chapter in the ŁVṛṣasārasaṃgraha$ called Method of Purification.</TRCOLOPHON>
 %END OF CHAPTER 5
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -8606,7 +8605,6 @@ NUMBERS:
 %folioinfo \msPaperA\ 340.jpg lower, line 8
 %folioinfo \Ed\ p.603
 
-<START/>
 % Read this chapter with Judit Törzsök in Oct 2021 in Naples
 <startchapter-n="8"/> 
 <CHAPTER>aṣṭamo 'dhyāyaḥ</CHAPTER>
@@ -9525,31 +9523,38 @@ NUMBERS:
 <LONGVERSELINES/>
 %       -  -      - .? . -   . -  .  . .  -   -  - .  -  -  . -  
 <TEXT> tasmān{ }maunavrataṃ sadaiva sudṛḍhaṃ kurvīta yo niścitaṃ</TEXT>
-        <APP>\va <LEM>tasmān{ }mau°</LEM> \msCc\msNb\msNc\msParis\msPaperA\Ed; \lk\lk t{ }mau° \msCa, tasmāt{ }mau° \msCb\msNa\oo
+        <APP>\va <LEM>tasmān{ }mau°</LEM> \msCc\msNb\msNc\msParis\msPaperA\Ed;
+                                                         \lk\lk t{ }mau° \msCa, tasmāt{ }mau° \msCb\msNa\oo
                  <LEM>sadaiva</LEM> \msCa\msCb\msNa\msParis\Ed; sadeva \msCc\msNc\msPaperA, sudaitya \msNb\oo
-                 <LEM>kurvīta yo niścitam</LEM> \msCa\msCb\msNc\msParis\msPaperA\Ed; kurvanti yen{ }niścitam \msCc\msNa, 
+                 <LEM>kurvīta yo niścitam</LEM> \msCa\msCb\msNc\msParis\msPaperA\Ed;
+                                                        kurvanti yen{ }niścitam \msCc\msNa, 
                                                         kurvanti yo{ }nniścita \msNb</APP>
         <NOTE>Note the `muta cum liquida' licence in °Łvrataṃ$: the last syllable of Łmauna$° counts as light.</NOTE>
-        <TR>Therefore the speech of a person who always observes silence firmly, with resolution,</TR>
+        <TR>Therefore the speech of a person who observes silence always [at the proper time], firmly,
+            with resolution,</TR>
 
 %index_grammar: licence vr / unmetrical
 
         %               \msCa\                 sabhān
 <TEXT> vācā tasya alaṅghyatā ca bhavati sarvāṃ sabhāṃ nandati|</TEXT>
         <APP>\vb <LEM>alaṅghyatā ca</LEM> \msCa\msCb\msNa\msNb\msParis; alaṃghyatāñ{ }ca \msCc\msNc\msPaperA\Ed\oo
-                 <LEM>sarvāṃ sabhāṃ</LEM> \msCa\msNa\msParis\msPaperA\Ed; sarvā sabhā \msCb\msNc, sarvaḥ sabhān \msCc, 
-                                                                sarvā subhā \msNb</APP>
-        <NOTE>In Łpāda$ b, understand Łnandati$ as causative.</NOTE>
-        <TR>will be impossible to ignore and it will make everybody in the assembly rejoice.</TR>
+                 <LEM>sarvāṃ sabhāṃ</LEM> \msCa\msNa\msParis\msPaperA\Ed; sarvā sabhā \msCb\msNc,
+                                                                sarvaḥ sabhān \msCc, sarvā subhā \msNb</APP>
+        <NOTE>In Łpāda$ b, understand Łnandati$ in a causative sense, or accept the
+              reading Łsarvā sabhā$.</NOTE>
+        <TR>will become inviolable and [it will cause] everybody in the assembly to rejoice,</TR>
 % maybe vācas Judit
 % tasya bhavati alaṅghyatā
 
+
 <TEXT> vaktrāc{ }cotpalagandham{ }asya satataṃ vāyanti gandhotkaṭāḥ</TEXT>
-        <APP>\vc <LEM>vaktrāc{ }cotpalagandham{ }asya</LEM> \msCa\msCb\msNc\msParisacorr\msPaperA; vaktraṃ cotpalam{ }asya \msCc,
-                       vaktraṃ cotpalagandham{ }asya \msNa, vaktraṃ cotpala<UNCL>ga</UNCL>ndham{ }asya \msNb,
+        <APP>\vc <LEM>vaktrāc{ }cotpalagandham{ }asya</LEM> \msCa\msCb\msNc\msParisacorr\msPaperA;
+                       vaktraṃ cotpalam{ }asya \msCc, vaktraṃ cotpalagandham{ }asya \msNa,
+                       vaktraṃ cotpala<UNCL>ga</UNCL>ndham{ }asya \msNb,
                        vaktrāś{ }cotpalagandham{ }asya \msParispcorr,
                        vaktrāc{ }cotaragandham{ }asya \Ed</APP>
-        <TR>The fragrance of lotuses CA [and other kinds of] SATATAM ! rich fragrances will blow from his mouth.</TR>
+        <TR>and the fragrance of lotuses [and other kinds of] rich fragrances will constantly
+            blow from his mouth.</TR>
 
 <TEXT> śāstrānekasahasraśo giri naraḥ proccāryate nirmalam||</TEXT> 8:33
         <APP>\vd <LEM>°sahasraśo</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; °sahasrāśo \msCb\oo
@@ -9572,23 +9577,26 @@ NUMBERS:
 <TEXT> snānaṃ pañcavidhaṃ caiva pravakṣyāmi yathātatham|</TEXT>
         <APP>\va <LEM>pañcavidhaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; pañcavi \msCb</APP>
         <APP>\vb <LEM>yathātatham</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; \lk\lk tatham \msCa</APP>
-        <TR>I shall teach you the five kinds of bathing as they really are:</TR>
+        <TR>And now I shall teach you the five kinds of bathing as they really are:</TR>
 
 \msCa\ 406.jpg 
 <TEXT> āgneyaṃ vāruṇaṃ brāhmyaṃ vāyavyaṃ divyam{ }eva ca||</TEXT> 8:34
         <APP>\vc <LEM>āgneyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed; āgneye \msNb\oo
                  <LEM>vāruṇaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis; brāhmaṇaṃ \msPaperA\Ed\oo
                  <LEM>brāhmyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msPaperA\Ed; brahmyaṃ \msNc</APP>
-        <NOTE>For a similar set of five types of baths, see, e.g., Parāśarasmṛti 12.9--11:
-                Łsnānāni pañca puṇyāni kīrtitāni manīṣibhiḥ |
-                āgneyaṃ vāruṇaṃ brāhmaṃ vāyavyaṃ divyam eva ca ||
-                āgneyaṃ bhasmanā snānam avagāhya tu vāruṇam |
-                āpo hi ṣṭheti ca brāhmaṃ vāyavyaṃ gorajaḥ smṛtam ||
-                yat tu sātapavarṣeṇa tat snānaṃ divyam ucyate |
-                tatra snātvā tu gaṅgāyāṃ snāto bhavati mānavaḥ ||$.
+        <NOTE>For a similar set of five types of baths, see, e.g., \ParasaraS\ 12.9--11:
+        <sep/>
+               Łsnānāni pañca puṇyāni kīrtitāni manīṣibhiḥ$ | <br/>
+               Łāgneyaṃ vāruṇaṃ brāhmaṃ vāyavyaṃ divyam eva ca$ || 9 ||<br/>
+               Łāgneyaṃ bhasmanā snānam avagāhya tu vāruṇam$ | <br/>
+               Łāpo hi ṣṭheti ca brāhmaṃ vāyavyaṃ gorajaḥ smṛtam$ || 10 ||<br/>
+               Łyat tu sātapavarṣeṇa tat snānaṃ divyam ucyate$ | <br/>
+               Łtatra snātvā tu gaṅgāyāṃ snāto bhavati mānavaḥ$ || 11 ||
+        <sep/>
              Similar passages are to be found, e.g., at \PADMAP\ 1.47.4ff, 
-             Revakhanda 177.6ff, and in a citation attributed to Bhṛgu in Maskari's commentary ad Gautamadharmasūtra 2.14.</NOTE>
-        <TR>fire bath, water bath, Vedic bath, wind bath and divine bath.</TR>
+             \RevKhS\ 177.6ff, and in a citation attributed to Bhṛgu in Maskari's 
+             commentary ad \GautDhS\ 2.14.</NOTE>
+        <TR>the fire bath, water bath, Vedic bath, wind bath, and divine bath.</TR>
 
 
 
@@ -9597,10 +9605,11 @@ NUMBERS:
 <TEXT> āgneyaṃ bhasmanā snānaṃ toyāc{ }chataguṇaṃ phalam|</TEXT>
         <APP>\va <LEM>snānaṃ</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\msNc\msParis\msPaperA\Ed; snānā \msNaacorr</APP>
         <APP>\vb <LEM>°guṇaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msPaperA\Ed; °guṇa° \msNc</APP>
-        <TR>Fire bath is [performed] with ashes. Its fruits are a hundred times bigger than [those of a] water [bath].</TR>
+        <TR>Fire bath is [performed] with ashes. [Its] fruits are a hundred times bigger than
+           [those of a] water [bath].</TR>
 
 <TEXT> bhasmapūtaṃ pavitraṃ ca bhasma pāpapraṇāśanam||</TEXT> 8:35
-        <TR>For [anything] cleaned with ashes is pure. Ashes destroy sin.</TR>
+        <TR>[For anything] cleaned with ashes is pure. Ashes destroy sin.</TR>
 
 <TEXT> tasmād{ }bhasma prayuñjīta dehināṃ tu malāpaham|</TEXT>
         <APP>\va <LEM!>tasmād{ }bhasma prayuñjīta</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed;
@@ -9621,100 +9630,104 @@ NUMBERS:
                                                  tryāyu\lk\lk\lk\ \msCa, tryāyuṣyaṃ kṛtvā \msParis</APP>
         <APP>\vb <LEM>°vrate</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis; °vrata° \msPaperA\Ed</APP>
         <NOTE>Note Łtryāyuṣa$ in the sense of the three Łpuṇḍra$-lines on the
-                forehead and compare with 11.28c. Understand Łsthitam$ as 
-                Łsthitaḥ$ or rather Łsthitāḥ$ if we are to connect this line
-                to the next (8.37cd).</NOTE>
+                forehead and compare with 11.28c. Understand Łsthitam$
+                in Łpāda$ b as Łsthitāḥ$ if we are to connect this line
+                to the next.</NOTE>
         <TR>Drawing [the sectarian marks on their foreheads while reciting] the Tryāyuṣa [mantra],
                                 observing chastity,</TR>
 
 %ŚaivaUtopia  p113 CHECK !!! WHAT? NEW
 <TEXT> bhasmanā ṛṣayaḥ sarve pavitrīkṛtam{ }ātmanaḥ||</TEXT> 8:37
-        <APP>\vc <LEM>ṛṣayaḥ sarve</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; ṛṣibhir{ }sarvaiḥ \Ed</APP>
+        <APP>\vc <LEM>ṛṣayaḥ sarve</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA;
+                                                 ṛṣibhir{ }sarvaiḥ \Ed</APP>
         <TR>all the sages purified themselves with ashes.</TR>
         <NOTE>Understand Łpavitrīkṛtam$ as Łpavitrīkṛtvantaḥ$.
                 The reference here may be to a story in which Kaśyapa and 
                 other Ṛṣis are burnt to ashes, to be later reanimated by Vīrabhadra, 
                 in the Śokara forest. See \PADMAP\ 5.107.1--14ff:<sep/>
-                     Łśucismitovāca~|$
-                     Łkaśyapaṃ jamadagniṃ ca devānāṃ ca purā katham~|$
-                     Łrarakṣa bhasma tad brahman samācakṣva mune mama$~||~1~||
-                     Łdadhīca uvāca~|$
-                     Łkaśyapādiyutā devāḥ pūrvam abhyāgaman girim$~|
-                     Łśokaraṃ nāma vikhyātaṃ girimadhye suśobhanam~$||~2~||
-                     Łnānāvihaṃgasaṃkīrṇaṃ nānāmunigaṇāśrayam$~| 
-                     Łvāsudevāśrayaṃ ramyam apsarogaṇasevitam$~||~3~||
-                     Łvicitravṛkṣasaṃvītaṃ sarvartukusumojjvalam$~|
-                     Łtathāvidhaṃ praviśyaite giriṃ vayam athāpare$~||~4~||  
-                     Łstuvantaḥ keśavaṃ tatra gatāḥ sma giriśeśvaram$~|
-                     Łdṛṣṭvā tatra mahājvālāṃ praviṣṭāś ca vayaṃ ca tām~$||~5~||  
-                     Łmāmekaṃ tu tiraskṛtya hy adahad devatā munīn~$|
-                     Łmāṃ dadāha tataḥ paścād bhasmībhūtā vayaṃ śubhe~$||~6~||  
-                     Łasmān etādṛśān dṛṣṭvā vīrabhadraḥ pratāpavān~$| 
-                     Łkenāpi kāraṇenāsau gatavān parvataṃ ca tam~$||~7~||  
-                     Łbhasmoddhūlitasarvāṅgo mastakasthaśivaḥ śuciḥ~$|
-                     Łekākī niḥspṛhaḥ śānto hāhāśabdam athāśṛṇot~$||~8~||  
-                     Łatha cintāparaś cāsīn mriyamāṇa śavadhvaniḥ~$| 
-                     Łśavānām iva gandhaś ca dṛśyate tannirīkṣaṇe~$||~9~||  
-                     Łiti niścitya manasā jagāmāgnim atiprabham~$|
-                     Łsa vahnir vīrabhadraṃ ca dagdhum ārabdhavān atha~$||~10~||  
-                     Łtṛṇāgnir iva śānto 'bhūd āsādya salilaṃ yathā~$| 
-                     Łtato 'parāṃ mahājvālāṃ vīrabhadras tu dṛṣṭavān~$||~11~||
-                     Łkhaṃ gacchantīṃ mahākālo jvālāṃ nipatitām api~$|
-                     Łmanasā cintayac cāpi vīrabhadraḥ pratāpavān$~||~12~||  
-                     Łsarveṣāṃ nāśinī jvālā prāṇināṃ śatakoṭiśaḥ$~| 
-                     Łtat sarvaṃ rakṣaṇārthaṃ hi pipāsuś cāpy ahaṃ tv imām$~||~13~||  
-                     Łprāśnāmi mahatīṃ jvālāṃ salilaṃ tṛṣito yathā$~| 
-                     Łetasminn antare vīraṃ vāg āha cāśarīriṇī$~||~14~||.</NOTE>
+                     Łśucismitovāca~|$ <br/>
+                     Łkaśyapaṃ jamadagniṃ ca devānāṃ ca purā katham~|$ <br/>
+                     Łrarakṣa bhasma tad brahman samācakṣva mune mama$~||~1~||<br/>
+                     Łdadhīca uvāca~|$<br/>
+                     Łkaśyapādiyutā devāḥ pūrvam abhyāgaman girim$~|<br/>
+                     Łśokaraṃ nāma vikhyātaṃ girimadhye suśobhanam~$||~2~||<br/>
+                     [\dots] <br/>
+                     Łstuvantaḥ keśavaṃ tatra gatāḥ sma giriśeśvaram$~|<br/>
+                     Łdṛṣṭvā tatra mahājvālāṃ praviṣṭāś ca vayaṃ ca tām~$||~5~||<br/>  
+                     Łmām ekaṃ tu tiraskṛtya hy adahad devatā munīn~$|<br/>
+                     Łmāṃ dadāha tataḥ paścād bhasmībhūtā vayaṃ śubhe~$||~6~||<br/>  
+                     Łasmān etādṛśān dṛṣṭvā vīrabhadraḥ pratāpavān~$| <br/>
+                     Łkenāpi kāraṇenāsau gatavān parvataṃ ca tam~$||~7~||  <br/>
+                     Łbhasmoddhūlitasarvāṅgo mastakasthaśivaḥ śuciḥ~$|<br/>
+                     Łekākī niḥspṛhaḥ śānto hāhāśabdam athāśṛṇot~$||~8~||  <br/>
+                     Łatha cintāparaś cāsīn mriyamāṇaśavadhvaniḥ~$| <br/>
+                     Łśavānām iva gandhaś ca dṛśyate tannirīkṣaṇe~$||~9~||<br/>  
+                     Łiti niścitya manasā jagāmāgnim atiprabham~$|<br/>
+                     Łsa vahnir vīrabhadraṃ ca dagdhum ārabdhavān atha~$||~10~||  <br/>
+                     Łtṛṇāgnir iva śānto 'bhūd āsādya salilaṃ yathā~$| <br/>
+                     Łtato 'parāṃ mahājvālāṃ vīrabhadras tu dṛṣṭavān~$||~11~||<br/>
+                     Łkhaṃ gacchantīṃ mahākālo jvālāṃ nipatitām api~$|<br/>
+                     Łmanasā cintayac cāpi vīrabhadraḥ pratāpavān$~||~12~|| <br/> 
+                     Łsarveṣāṃ nāśinī jvālā prāṇināṃ śatakoṭiśaḥ$~| <br/>
+                     Łtat sarvaṃ rakṣaṇārthaṃ hi pipāsuś cāpy ahaṃ tv imām$~||~13~||  <br/>
+                     Łprāśnāmi mahatīṃ jvālāṃ salilaṃ tṛṣito yathā$~| <br/>
+                     Łetasminn antare vīraṃ vāg āha cāśarīriṇī$~||~14~||</NOTE>
+
+                     %Łnānāvihaṃgasaṃkīrṇaṃ nānāmunigaṇāśrayam$~| <br/>
+                     %Łvāsudevāśrayaṃ ramyam apsarogaṇasevitam$~||~3~||<br/>
+                     %Łvicitravṛkṣasaṃvītaṃ sarvartukusumojjvalam$~|<br/>
+                     %Łtathāvidhaṃ praviśyaite giriṃ vayam athāpare$~||~4~||<br/>  
 
 <TEXT> bhasmanā vibudhā muktā vīrabhadrabhayārditāḥ|</TEXT>
         <APP>\va <LEM>muktā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; muktāḥ \Ed</APP>
         <APP>\vb <LEM>°rditāḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; °rttitāḥ \msCb</APP>
         <TR>The gods, afflicted by their fear of Vīrabhadra, were set free with the help of ashes.</TR>
         <NOTE>The verse may refer to the destruction of Dakṣa's sacrifice, after which the gods were 
-              relieved. See old \SKANDAP\ 180.1--4ab (in which our Łpāda$ b is echoed):
-               Łsanatkumāra uvāca |$
-               Łbrahmādyā devatā vyāsa dakṣayajñavadhe purā |$
-               Łśaṅkaraṃ śaraṇaṃ jagmur vīrabhadrabhayārditāḥ$~||~1~||
-               Łgaṇendreṇābhiyuktās tu bhasmakūṭāni bhejire$~|
-               Łyadā bhasma praviṣṭās te tejaḥ śāṅkaram uttamam$~||~2~||
-               Łabhavan te tadā raudrāḥ paśavo dīkṣitā iva$~| 
-               Łbhasmābhasitagātrāṇāṃ śaṅkaravratacāriṇām$~||~3~||
-               Łsvaṃ yogaṃ pradadau teṣāṃ tadā deva umāpatiḥ~|.$</NOTE>
+              relieved. See [Old] \SKANDAP\ 180.1--4ab (in which our Łpāda$ b is echoed):
+        <sep/>
+               Łsanatkumāra uvāca |$ <br/>
+               Łbrahmādyā devatā vyāsa dakṣayajñavadhe purā |$ <br/>
+               Łśaṅkaraṃ śaraṇaṃ jagmur vīrabhadrabhayārditāḥ$~||~1~|| <br/>
+               Łgaṇendreṇābhiyuktās tu bhasmakūṭāni bhejire$~| <br/>
+               Łyadā bhasma praviṣṭās te tejaḥ śāṅkaram uttamam$~||~2~|| <br/>
+               Łabhavan te tadā raudrāḥ paśavo dīkṣitā iva$~|  <br/>
+               Łbhasmābhasitagātrāṇāṃ śaṅkaravratacāriṇām$~||~3~|| <br/>
+               Łsvaṃ yogaṃ pradadau teṣāṃ tadā deva umāpatiḥ$~|</NOTE>
 
-``Śucismitā said:
-
-1. O brāhmaṇa, O sage, tell me how formerly the sacred ash protected Kaśyapa,
-Jamadagni of the gods?
-Dadhīca said:
-
-2--6. Formerly gods accompanied by Kaśyapa and others went to a well-known
-mountain named Śokara. In the middle of the mountain was a very beautiful
-(forest) which was full of many birds, which was resorted to by various hosts of
-sages, which was the resort of Vāsudeva, which was charming, which was resorted
-to by bevies of celestial nymphs, which was crowded with strange trees, which
-was bright with flowers of all seasons. We and others entered the best mountain
-(forest) like that and praising Viṣṇu went there to lord Śiva. We saw a great
-flame there and we entered it. Excepting me that deity (i.e. that flame) burnt
-(other) sages. After that it (also) burnt me. O auspicious one, we were reduced
-to ash.
-
-7--14. Seeing us like this, that brave Vīrabhadra went to that mountain
-for some reason. With his entire body smeared with sacred ash, he
-remaining at the top, auspicious and pure, all alone, desireless and
-tranquil, heard the sound of wailing. Then he was full of thought: ‘The
-sound of the bodies of dead men and the smell as it were of dead bodies,
-are being perceived.’ Deciding like this in his mind, he went to the
-fire of great brilliance. Then that fire also started to burn
-Vīrabhadra. But it went out as the fire of (i.e. burning) grass (i.e.
-hay) would go out on receiving (i.e. being sprinkled over with) water.
-Then Vīrabhadra saw a great, mighty flame, which went (up) to the sky
-even (like) flame falling (i.e. dropped by) Śiva (obscure!). The brave
-Vīrabhadra thought in his mind: ‘(This) flame is the destroyer of
-hundreds of crores of beings. So for the protection of all I desire to
-drink it. As a thirsty man drinks water, I shall consume this great
-flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
-[...] (translation by N.A. Deshpande, in: Padma-purāna, Delhi: MLBD,
-1951)''
+% ``Śucismitā said:
+% 
+% 1. O brāhmaṇa, O sage, tell me how formerly the sacred ash protected Kaśyapa,
+% Jamadagni of the gods?
+% Dadhīca said:
+% 
+% 2--6. Formerly gods accompanied by Kaśyapa and others went to a well-known
+% mountain named Śokara. In the middle of the mountain was a very beautiful
+% (forest) which was full of many birds, which was resorted to by various hosts of
+% sages, which was the resort of Vāsudeva, which was charming, which was resorted
+% to by bevies of celestial nymphs, which was crowded with strange trees, which
+% was bright with flowers of all seasons. We and others entered the best mountain
+% (forest) like that and praising Viṣṇu went there to lord Śiva. We saw a great
+% flame there and we entered it. Excepting me that deity (i.e. that flame) burnt
+% (other) sages. After that it (also) burnt me. O auspicious one, we were reduced
+% to ash.
+% 
+% 7--14. Seeing us like this, that brave Vīrabhadra went to that mountain
+% for some reason. With his entire body smeared with sacred ash, he
+% remaining at the top, auspicious and pure, all alone, desireless and
+% tranquil, heard the sound of wailing. Then he was full of thought: ‘The
+% sound of the bodies of dead men and the smell as it were of dead bodies,
+% are being perceived.’ Deciding like this in his mind, he went to the
+% fire of great brilliance. Then that fire also started to burn
+% Vīrabhadra. But it went out as the fire of (i.e. burning) grass (i.e.
+% hay) would go out on receiving (i.e. being sprinkled over with) water.
+% Then Vīrabhadra saw a great, mighty flame, which went (up) to the sky
+% even (like) flame falling (i.e. dropped by) Śiva (obscure!). The brave
+% Vīrabhadra thought in his mind: ‘(This) flame is the destroyer of
+% hundreds of crores of beings. So for the protection of all I desire to
+% drink it. As a thirsty man drinks water, I shall consume this great
+% flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
+% [...] (translation by N.A. Deshpande, in: Padma-purāna, Delhi: MLBD,
+% 1951)''
 
 %folioinfo \msNc\ 223.jpg lower, f. 221r
 % saṃsandṛṣṭyai° \msCa
@@ -9733,8 +9746,9 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 %index_metre: ma-vipulā
 
 <TEXT> caturāśramato 'dhikyaṃ vrataṃ pāśupataṃ kṛtam|</TEXT>
-        <APP>\va <LEM>caturāśramato</LEM> \msCb\msCc\msNb\msParis\Ed; cāturāśramato \msCa\msNc\msPaperA, caturāśrato \msNaacorr,
-                                                                              cāturāśramato \msNapcorr</APP>
+        <APP>\va <LEM>caturāśramato</LEM> \msCb\msCc\msNb\msParis\Ed;
+                                         cāturāśramato \msCa\msNc\msPaperA, caturāśrato \msNaacorr,
+                                         cāturāśramato \msNapcorr</APP>
         <APP>\vab <LEM>'dhikyaṃ vrataṃ pāśupataṃ kṛtam</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed;
                                                         <UNCL>dhikyavratapāśupata</UNCL>\lk\lk\lk\ \msNb\ \toplost</APP>
         <TR>[Thus] the Pāśupata observance was created, which ranks above [the system of] the four Łāśrama$s.</TR>
@@ -9762,7 +9776,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                                                         vidhivan{ }naraiḥ \msNc\msParis\Ed</APP>
         <NOTE>The reading Łvividhaṃ$ in Łpāda$ b seems to be the lectio difficilior as opposed to
                 the rejected Łvidhivat$.</NOTE>
-        <TR>A water bath (Łvāruṇa$) is to be performed with water in different ways by [different] people:</TR>
+        <TR>A water bath (Łvāruṇa$) is to be performed with water in different ways by [different] people,</TR>
 
 %folioinfo: \msPaperA\ 342.jpg upper
 <TEXT> nadītoyataḍāgeṣu prasraveṣu hradeṣu ca||</TEXT> 8:40
@@ -9770,7 +9784,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                                                                 °taḍāgevā \msNb</APP>
         <APP>\vd <LEM>prasraveṣu</LEM> \mssALL\mssCaCbCc\msNa\msParis\msPaperA\Ed;
                                                                  prayeveṣu \msNb, prabhaveṣu \msNc</APP>
-        <TR>in the water of rivers, water tanks, streams and ponds.</TR>
+        <TR>in the water of rivers, in water tanks, streams, and ponds.</TR>
 
 
 
@@ -9780,7 +9794,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <APP>\va <LEM>viprendra</LEM> \mssALL\mssCaCbCc\msNa\msNb\msPaperA\Ed; vipendra \msNc\msParis</APP>
         <APP>\vb <LEM>vidur{ }bu°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msPaperA\Ed; virdur{ }bu° \msNc</APP>
         <NOTE>The Ṛgvedic mantra starting with Łāpo hi ṣṭhā$ (\RV\ 10.9.1--3) is traditionally associated with 
-                Łmārjana$ (`cleaning, wiping'). According to <citep>KaneHistory</citep><pnum>v. 4, 120</pnum>,
+                Łmārjana$ (`cleaning, wiping'). According to Kane (<citeyear>KaneHistory</citeyear>, v. 4, 120),
                 a Brahmin `should bathe thrice in the day, should perform Łmārjana$ (splashing
                 or sprinkling water on the head and other limbs by means of Łkuśas$ 
                 dipped in water after repeating sacred mantras) with the three verses 
@@ -9797,8 +9811,11 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <SUBSUBCHAPTER>vāyavyaṃ snānam</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Wind bath</TRSUBSUBCHAPTER>
 <TEXT> goṣu saṃcāramārgeṣu yatra godhūlisambhavaḥ|</TEXT>
-        <TR>He should go where dust rises among the cows on the
-            paths as they pass by,</TR>
+        <NOTE>See similar teachings on Łvāyavyasnāna$, e.g., in \KURMP\ 2.1814ab:
+        Łgavāṃ hi rajasā proktaṃ vāyavyaṃ snānam uttamam$, and 
+        in \ParasaraS\ 12.10d: Łvāyavyaṃ gorajaḥ smṛtam$ (see note to 8.34 above).</NOTE>
+
+        <TR>He should go where dust rises among the cows on the roads where they roam,</TR>
 
 %index_grammar: plural locative for genitive
 
@@ -9816,13 +9833,12 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
 <TRSUBSUBCHAPTER>Heavenly bath</TRSUBSUBCHAPTER>
 <TEXT> varṣatoyāmbudhārābhiḥ plāvayitvā svakāṃ tanum|</TEXT>
         <APP>\vb <LEM>tanum</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msPaperA\Ed; tanaṃ \msNc</APP>
-        <TR>One should immerse one's own body in the water-showers of the rain.</TR>
+        <TR>One should immerse one's own body in the water-showers of rain.</TR>
 
 <TEXT> snānaṃ divyaṃ vadaty{ }eva jagadādimaheśvaraḥ||</TEXT> 8:43
         <APP>\vc <LEM>divyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\Ed; divya \msNb\msPaperA</APP>
         <APP>\vd <LEM>jagadādi°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; gajadādi° \msCb</APP>
         <TR>The first and foremost Lord (Łmaheśvara$) of the universe declares it as the heavenly bath.</TR>
-% Gautama Dharmaśāstra on snāsan 2.14, ???
 
 
 <NOTANUSTUBH/> mālinī 
@@ -9833,7 +9849,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
               but also the end of a major part of the text that discusses the ten Yama and ten Niyama rules,
               spanning 3.16--8.44.</NOTE>
         <TR>Thus have I taught you the section on the Niyama-rules
-                 in divisions of five [sub-categories to each], O Brahmin</TR>
+                 in divisions of five [sub-categories to each], O Brahmin,</TR>
 
 
 <TEXT> nigadita tava pṛṣṭaḥ sarvalokānukampya|</TEXT>
@@ -9843,9 +9859,8 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                                                         °kampaḥ \msNb, °kampyaḥ \msPaperA\Ed</APP>
         <NOTE>There are two stem form nouns in Łpāda$ b: I suspect that \Ed\ is right
               assuming that in order to restore the metre, we must have Łnigadita$, as opposed to
-              Łnigaditas$, the reading trasmitted in all the witnesses;
-              also understand Łsarvalokānukampya$ in Łpāda$ b as Łsarvalokān anukampya$.
-              Also, understand Łnigadita tava pṛṣṭaḥ$ as Łnigadito mayā tvayā pṛṣṭena$.<sep/></NOTE>
+              Łnigaditas$, the reading transmitted in all the witnesses;
+              also understand Łsarvalokānukampya$ in Łpāda$ b as Łsarvalokān anukampya$.<sep/></NOTE>
         <TR>because you asked me to, to favour the whole world.</TR>
 
 %index_grammar: stem form metri causa 
@@ -9865,7 +9880,7 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
                 By `fifty Dharmas,' the text refers to the ten main Niyama-rules, each
                 having five subcategories (10 × 5 = 50).
                 <sep/></NOTE>
-        <TR>These fifty Dharmic [teachings] wipe off all the defilement.</TR>
+        <TR>These fifty Dharmic [teachings] wipe off all defilement.</TR>
 
 %index_grammar: singular after numbers, Newari
 
@@ -9873,15 +9888,16 @@ flame.’ In the meanwhile a divine voice said to (Vīrabhadra) the hero
         <APP>\vd <LEM>punajanma</LEM> \msCc\msNb; punarjanma \msCa\msNa\msNc\msParis\msPaperA\Ed,
                                                                  puna<UNCL>rjarma</UNCL> \msCb</APP>
         <NOTE>The licence of an word-ultimate short syllable treated as long (°Łjanma$ in Łpāda$ d) is
-              also freqently seen in this text. Note also Łpuna$ for Łpunar$ metri causa.</NOTE>
-        <TR>There will not be rebirth [for one who follows these rules], not even in 
+              also freqently seen in this text (see pp.~\pageref{short2long}).
+              Note also Łpuna$ for Łpunar$ metri causa.</NOTE>
+        <TR>There will be no rebirth [for one who follows these rules], not even in 
                  millions of \ae ons.</TR>
 
 %index_metre: long syllable at end of word 
 
 <ANUSTUBH/>
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe niyamapraśaṃsā nāmādhyāyo 'ṣṭamaḥ</COLOPHON></TEXT>
-<TRCOLOPHON>Here ends the eighth chapter in the ŁVṛṣasārasaṃgraha$ called the Praise of the Niyama-rules.</TRCOLOPHON>
+<TRCOLOPHON>Here ends the eighth chapter in the ŁVṛṣasārasaṃgraha$ called Praise of the Niyama-rules.</TRCOLOPHON>
         <APP> Ł\Colo:$  <LEM>iti vṛṣasārasaṃgrahe niyamapraśaṃsā nāmādhyāyo 'ṣṭamaḥ</LEM> \msParis;
                                 iti vṛṣasārasaṃgrahe niyamapraśaṃsā nāmādhyāya aṣṭamaḥ \msCa\msNa\msPaperA, 
                                                                                         \om \msCb,
@@ -17982,7 +17998,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <PARAL>\vo \similar\ Ł\AGNIP\ 378.1:$ 
                 yajñaiś{ }ca devān{ }āpnoti vairājaṃ(?)\ tapasā padam|
                 brahmaṇaḥ karmasannyāsād{ }vairāgyāt{ }prakṛtau layam||
-                \similar\ Ł Maskarin's commentary CHECK ad Gautamadharmasūtra 3.1:$
+                \similar\ Ł Maskarin's commentary CHECK ad \GautDhS\ 3.1:$
                         yajñena devān{ }āpnoti vairājaṃ(!)\ tapasā punaḥ|
                         saṃnyāsād{ }brahmaṇaḥ sthānaṃ vairāgyāt{ }prakṛtau layam||
                 Łcf.\ ŚDhU 3.40:$
