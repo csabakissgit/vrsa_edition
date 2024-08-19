@@ -10,7 +10,9 @@
 %\setsansfont{Deja Vu Sans}
 %\setmonofont{Deja Vu Mono}
 % other LaTeX packages.....
-\usepackage[total={12cm,21cm},top=2.8cm, left=4.5cm, headsep=1.1cm, footskip=1.5cm, footnotesep=1cm, xetex]{geometry}
+%\usepackage[total={12cm,21cm},top=2.8cm, left=4.5cm, headsep=1.1cm, footskip=1.5cm, footnotesep=1cm, xetex]{geometry}
+\usepackage[textwidth=11cm, height=20cm, includehead, headsep=1.1cm, footnotesep=1cm, xetex, footskip=1.7cm]{geometry}
+
 \usepackage{pdfpages}
 \usepackage{todonotes}
 \usepackage{circledsteps}
@@ -66,7 +68,7 @@
 \usepackage{enumitem}
 \makeatletter
 \renewenvironment{thebibliography}[1]
-     {\section{Secondary Sources and Editions}%
+     {\section{Secondary Sources and Editions\bigskip}%
      \fancyhead[CE]{}
      \fancyhead[CO]{}
      \@mkboth{header!}{header!}%
@@ -150,9 +152,9 @@
 \hfuzz=2pt
 
 % FONT STUFF
-\newfontfamily\devanagarifont[Script=Devanagari]{Shobhika-Regular}
-\newfontfamily\newarfont[Script=Devanagari]{Noto Sans Newa}
-\newfontfamily\englishfont{EB Garamond}
+%\newfontfamily\devanagarifont[Script=Devanagari]{Sanskrit2003}
+\newfontfamily\newarfont{Noto Sans Newa}
+\newfontfamily\englishfont[Scale=1]{EB Garamond}
 \setmainlanguage{english}
 \setotherlanguages{sanskrit}
 \setmainfont[
@@ -303,9 +305,9 @@
 \newcommand{\dbldanda}{||}
 \newcommand{\il}{${\CHECK}$}
 \newcommand{\lost}{\englishfont{×}}
-\newcommand{\mutacumliquida}{\skt{krama} licence\index{\skt{krama} licence}}
-\newcommand{\stemform}{stem form\index{stem form (prātipadika)}}
-\newcommand{\Stemform}{Stem form\index{stem form (prātipadika)}}
+\newcommand{\mutacumliquida}{\skt{krama} licence\index{krama licence@\skt{krama} licence}}
+\newcommand{\stemform}{stem form\index{stem form (\skt{prātipadika})}}
+\newcommand{\Stemform}{Stem form\index{stem form (\skt{prātipadika})}}
 
 \newcommand{\recto}{$^r$}
 \newcommand{\verso}{$^v$}
