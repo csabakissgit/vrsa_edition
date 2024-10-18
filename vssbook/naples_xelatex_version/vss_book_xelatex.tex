@@ -24,12 +24,12 @@
 \makeindex 
 
 \begin{document}
-\pagenumbering{roman}
+%\pagenumbering{roman}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%% FRONT MATTER %%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{vss_frontmatter.tex} 
+\input{00vss_frontmatter.tex}
 
 %%%%%%%%%%%%%%%%%%%%
 % TABLE OF CONTENT %
@@ -44,6 +44,7 @@
 \renewcommand{\contentsname}{{\hfill
         {\normalfont\Large\englishfont Table of Contents}\hfill}}
 \thispagestyle{empty}
+\pagenumbering{gobble}
 \tableofcontents
 
 \vfill
@@ -58,9 +59,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ACKNOWLEDGEMENTS and PREFACE %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{vss_acknowledgements.tex}
 
-\input{vss_preface.tex}
+\pagenumbering{arabic}
+\input{01vss_acknowledgements.tex}
+
+\input{02vss_preface.tex}
 %\input{testpage.tex}
 
 
@@ -68,21 +71,20 @@
 %%%%%%%%%%%%%%%%
 % INTRODUCTION %
 %%%%%%%%%%%%%%%%
-\input{vss_intro}
 
+\input{03vss_intro}
 
-\pagenumbering{arabic}
 
 
 %%%%%%%%%%%%%%%%%%%%
 % CRITICAL EDITION %
 %%%%%%%%%%%%%%%%%%%%
-\mychapter{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
-\input{vss_cred_intro}
+\mychapter{Introduction to the Critical Edition}
+\input{04vss_cred_intro}
 
 \bigskip
 
-\input{vss_witnesses}
+\input{05vss_witnesses}
 \vfill
 \pagebreak
 
@@ -93,7 +95,13 @@
 %\setcounter{page}{500} % set it in the edition file (.tex, see path below)
 
 %\section{The Sanskrit text}
-\addcontentsline{toc}{section}{Sanskrit text}
+\mychapter{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
+
+\pagebreak
+
+\blankpage
+%\addcontentsline{toc}{chapter}{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
+\addcontentsline{toc}{section}{Sanskrit Text}
 \includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
 
 
@@ -104,7 +112,7 @@
 %%%%%%%%%%%%%%%
 
 
-\mychapter{An Annotated Translation}
+\mychapter{An Annotated Translation of Vṛṣasārasaṃgraha 1--12}
 %\addcontentsline{toc}{section}{\Vss\ 1--12}
 
 %FOOTNOTE
@@ -152,15 +160,15 @@
 
 
 
-\mychapter{Appendices}
+%\mychapter{Appendices}
 %\addcontentsline{toc}{chapter}{\hspace{1.4em}Appendices}
 
-\thispagestyle{empty}
+%\thispagestyle{empty}
 
-\section{passeges from part two}
+%\section{passeges from part two}
 
-\vfill
-\pagebreak
+%\vfill
+%\pagebreak
 
 
 
@@ -308,6 +316,7 @@ CHANGE repeated authornames with
 
 \label{index}
 %\renewcommand*{\indexname}{{\normalfont Index}}
+\addcontentsline{toc}{chapter}{\protect\textbf{\numberline{}Index}}
 \printindex
 
 %\listoftodos

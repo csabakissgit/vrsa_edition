@@ -3987,6 +3987,7 @@ NUMBERS:
 
 %      - -     -  .  . -?   . -  . . . -    -  - .  -  -  . -
 % unmetrical
+% -m or -ṃ for the long syllable in phalaṃ?: -m \msCa\msCb\msNa\msNb\msM, °\ (final m) \msCc; \msNc has no vowel hiatus here
 <TEXT> etatpuṇyaphalam{ }ahiṃsakajanaḥ prāpnoti niḥsaṃśayaḥ||</TEXT> 3:42
         <APP>\vd <LEM>°phalam{ }ahiṃsa°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °phalaṃ tv{ }ahiṃsa° \msNc\oo
                  <LEM>niḥsaṃśayaḥ</LEM> \msCc\msNa\msNb\msNc; \lk\lk \lk\lk\ \msCa, niḥsaṃśaya\lk\ \msCb, niḥsaṃśayaṃ \Ed</APP>
@@ -4880,7 +4881,7 @@ NUMBERS:
                 inside of compound in Łpāda$ c below. One major concern remained:
                 the accepted reading would be of an edition that rarely emerges as 
                 the sole transmitter of the best reading. Another possible solution could be 
-                to emend to Łstenaṃtulya$\dots, meaning `there is no bigger foolishness than theft',
+                to emend to Łstenaṃtulya$\dots, meaning `there is no bigger foolishness than theft,'
                 but then the second part of Łpāda$ a is difficult to connect. In the end,
                 I decided to go for the most widely attested reading (Łstenatulya$),
                 which is unmetrical.
@@ -5658,7 +5659,7 @@ NUMBERS:
                            and robbed them of their wealth even though they were protesting. [...]
                            Therefore, cursed by the great Ṛṣis, he perished.'
         <sep/>
-        See also \BUDDHACARITA\ 11.15 (Aiḍa = Purūravas):
+        See also \Buddhacarita\ 11.15 (Aiḍa = Purūravas):
                  <sep/>
                  Łaiḍaś ca rājā tridivaṃ vigāhya$ 
                  Łnītvāpi devīṃ vaśam urvaśīṃ tām$ | <br/>
@@ -5741,7 +5742,7 @@ NUMBERS:
                 <sep/>
                 Māndhātṛ was born from his father's body who, being excessively thirsty once,
                 had drank some decoction prepared for ritual purposes and as a result become pregnant with him.
-                Nevertheless, \BUDDHACARITA\ 11.13 suggests that Māndhātṛ himself was still unsatisfied
+                Nevertheless, \Buddhacarita\ 11.13 suggests that Māndhātṛ himself was still unsatisfied
                 with wordly objects even after he had obtained half of Indra's throne:
         <sep/>
                                 Łdevena vṛṣṭe 'pi hiraṇyavarṣe$ 
@@ -5767,7 +5768,7 @@ NUMBERS:
                 harness some Ṛsis to a vehicle and use this vehicle to take Śacī. 
                 Agastya, one of the Ṛṣis, was insulted even further by Nahuṣa, therefore
                 he cursed Nahuṣa, who then fell from the vehicle. See \MBH\ 12.329.35ff and
-                a verse in the \BUDDHACARITA\ (11.14) that follows the one about Māndhātṛ:
+                a verse in the \Buddhacarita\ (11.14) that follows the one about Māndhātṛ:
         <sep/>
                                              Łbhuktvāpi rājyaṃ divi devatānāṃ$ 
                                                 Łśatakratau vṛtrabhayāt pranaṣṭe$ | <br/>
@@ -6225,7 +6226,7 @@ NUMBERS:
 % piśunā : informing against, betraying [MBh.];
 
 <TEXT> kāmaḥ krodhaś{ }ca lobhaś{ }ca mohaś{ }caiva caturvidhaḥ| </TEXT>
-        <TR>The fourfold enemy [made up of] desire, anger, greed and delusion</TR>
+        <TR>The fourfold enemy [made up of] desire, anger, greed, and delusion</TR>
 
 % 05uma/umamahesvarasamvada.dn:  2403:    kāmakrodhaśca lobhaśca rāgo dveṣaśca pañcamam|^M
 % 05uma/umamahesvarasamvada.dn-  2404-    mahābhogāśca ityete dehe ṣaḍvṛṣalāḥ smṛtāḥ|| 20.4||^M
@@ -6241,7 +6242,7 @@ NUMBERS:
         <TR>is to be destroyed. He who destroys [these] enemies will become sinless.</TR>
 % Judit 14 ...
         <NOTE>Possible direct sources for the idea that Łkāma$ is an enemy to be defeated or avoided include
-                \BUDDHACARITA\ 11.17:
+                \Buddhacarita\ 11.17:
         <sep/>
         Łcīrāmbarā mūlaphalāmbubhakṣā$ 
         Łjaṭā vahanto 'pi bhujaṃgadīrghāḥ$ |<br/> 
@@ -8165,8 +8166,10 @@ NUMBERS:
 %index_metre: śārdūlavikrīḍita
 
 %        -  -  -!   . . -   .  - .  .  . -  - -   .  -  -  . -
+% -m or -ṃ: -m: \msCa\msCb\msCc\msNa\msNb\msNc
 <TEXT> saubhāgyam{ }atulaṃ labheta sa naro rūpaṃ tathā śobhanam|</TEXT>
-        <APP>\vb <LEM>naro</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; daro \msCb</APP>
+        <APP>\vb <LEM>saubhāgyam{ }a°</LEM> \mssALL\msCa\msCb\msCcpcorr\msNa\msNb\msNc\Ed; saubhāgyatvam{ }a° \msCcacorr\oo
+                 <LEM>naro</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; daro \msCb</APP>
         <NOTE>The final syllable of Łsaubhāgyam$ in Łpāda$ b counts as long by licence; see, e.g., 5.20 and 6.18b.
               This time the c\ae sura is not involved.</NOTE>
         <TR>he [i.e. the donor] will receive unequalled attractiveness and a beautiful appearance.</TR>
@@ -9011,7 +9014,7 @@ NUMBERS:
 <TEXT> tuṣyate bhagavān{ }śarvaḥ śvānavratacaro yadi||</TEXT> 8:15
         <APP>\vc <LEM>śarvaḥ</LEM> \msCa\msNa\msNc\msParis\msPaperA\Ed;
                                          sarvaḥ \msCb\msNb, savvaḥ \msCc</APP>
-        <NOTE>A possible expanation for Śiva being satisfied with an ascetic practising 
+        <NOTE>A possible explanation for Śiva being satisfied with an ascetic practising 
               this observance is that Śiva's Bhairava form often has a dog as his mount. See, e.g.,
               <citep>BakkerWorld2014</citep><pnum>232--233</pnum> on a 5-6th-century 
               image of Bhairava and a dog carved in rock at Muṇḍeśvarī Hill not far from Vārāṇasī.
@@ -12859,6 +12862,8 @@ NUMBERS:
 %       -  - -   . .   - !  . -  . . . -!   -  - . -  - . -  
 %index_grammar: this seems to be a licence in 3 lines here, check if it is a śārdūla at all
 % not how Cc and Ed read the same here
+% -m or -ṃ:     -m : \msCa\msCb\msCc\msNa\msNb
+% exception: anityaharaṇaṃ and vṛddhkaraṃ and vyādhiharaṃ \msM !!
 <TEXT> saṃsāroddharaṇam{ }anityaharaṇam{ }ajñānanirmūlanam|</TEXT>
         <APP>\vb <LEM>°haraṇam{ }anityaharaṇam{ }ajñā°</LEM> \msCa\msCb\msNaacorr\msNb\msNc; 
                                 °haraṇaṃm{ }anityaharaṇam{ }ajñā° \msCc\Ed,
@@ -13182,7 +13187,7 @@ NUMBERS:
                 tatra devīkālikābrahmāṇḍamārkaṇḍeyādipurāṇeṣu bahuśaḥ 
                 śaktirahasya-devībhāgavata-tṛtīyaskandhādiṣu
                 ca idaṃparyeṇa sarvatra jñānārṇavakulārṇavāditantreṣu tv{ }aparimitatyā varṇitam</PARAL>
-        <TR>Śiva's heart is the junctures of the day. Therefore he should worship the junctures.</TR>
+        <TR>Śiva's heart is the junctures of the divisions of the day. Therefore he should worship the junctures.</TR>
 
 
 <NOTANUSTUBH/> śārdūlavikrīḍita 
@@ -14407,7 +14412,6 @@ kalyā<UNCL>ṇa</UNCL> \msCc
                  <LEM>tathaiva ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; tathaiva ra \msNc</APP>
         <TR>The king is very old, afflicted by old age, Kekayī likewise.</TR>
 
-
 <TEXT> dātā sarvakalājñaś{ }ca yuddhe vīryabalānvitaḥ|</TEXT>
         <APP>\va <LEM>dātā</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; \lac × tā \msCa\oo
                  <LEM>°kalā°</LEM> \Ed; °kala° \mssCaCbCc\msNa\msNb\msNc</APP>
@@ -15370,7 +15374,7 @@ kalyā<UNCL>ṇa</UNCL> \msCc
                  <LEM>°cedaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °cendraṃ \msCc</APP>
         <NOTE>While Łsomenendram$ in Łpāda$ a is grammatically wrong and
               we have a correct, or corrected, reading in \msNc\ (Łsoma indra$°),
-              I have left it thus, since this kind of ergative structures
+              I have left phrase thus, since ergative structures
               are not alien to the \VSS. See pp.~\pageref{ergative} ff, and,
               e.g., verse 1.3 above.</NOTE>
         <TR>Soma said this to Indra: `We have come here seeking a fruit.'</TR>
@@ -16022,17 +16026,17 @@ stambhāṇi \msCc
                                  buddhir{ }jātandhacetanā \msNapcorr, buddhi jātandhacenā \msNb,
                                  buddhi jātātvacetanā \msNc,
         buddhir{ }jāto 'ndhacetanaḥ| mūḍho 'haṃ tvāṃ kathaṃ staumi jñānātītaṃ parāt{ }param|| \Ed</APP>
-        <NOTE>Note that \Ed\ adds a line here (see the apparatus; translation:
-                `I am a fool, how could I praise you? You are beyond knowledge, beyond the ultimate').
+        <NOTE>Note that \Ed\ adds a line here, see the apparatus. Its translation is the following:
+                `I am a fool, how could I praise you? You are beyond knowledge, beyond the ultimate.'
                 I have not been able to locate this line in any of the available sources,
                 not even in paper manuscripts.</NOTE>
         <TR>My memory abandons me, my mind's intelligence is darkened.</TR>
 
-this line 
-not in PaperMS A1341 
-not in B0219 3836.jpg
-not in C57 4196.jpg
-not in C107 8320.jpg lower
+%this line 
+%not in PaperMS A1341 
+%not in B0219 3836.jpg
+%not in C57 4196.jpg
+%not in C107 8320.jpg lower
 
 <NOTANUSTUBH/> sragdharā 
 %       - -     -  -  . -   -   . .  . .  . . -    - .  -  - . -  -
@@ -16060,7 +16064,8 @@ not in C107 8320.jpg lower
         <TR>I am afraid of being in a womb, and of the terror of old age and death.
                                  Protect me from the fetter of illusions.</TR>
 
-%       -  -   - -  . - -    . . . . . .  -   - .  -   - . - -
+%       -  -   - -  . - -!   . . . . . .  -   - .  -   - . - -
+% -m or -m:   -m: \msCa\msCb\msCc\msNa(ṃm)\msNc ; neither: \msM
 <TEXT> nityaṃ rogādhivāsam{ }aniyatavapuṣaṃ trāhi māṃ kālapāśāt</TEXT>
         <APP>\vc <LEM>nityaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; nitya° \msCb\ \unmetr\oo
                  <LEM>rogā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °rāgā° \Ed\oo
@@ -18926,12 +18931,15 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 % pañcarātra and not pāñcarātra! ra-vipulā
 % CHECK Diwakar's book, also Francesco
 <TEXT> sāṃkhye yoge pañcarātre śaive vede ca nirmitam||</TEXT> 16:36
-        <TR>in Sāṃkhya, in yoga, in the Pañcarātra, in Śaivism and in the Vedas.</TR>
+        <PARAL>\vo Ł\compare\ \MBH\ 12.337.1:$
+                        sāṃkhyaṃ yogaṃ pañcarātraṃ vedāraṇyakam eva ca | 
+		        jñānāny etāni brahmarṣe lokeṣu pracaranti ha ||</PARAL>
         <APP>\ve <LEM>sāṃkhye</LEM> \msCa\msCb\msNa\msNb\msNc; sāṃkhya° \Ed\oo
                  <LEM>pañca°</LEM> \msCa\msCb\msNb\msNc\Ed; paca° \msNa </APP>
         <APP>\vf <LEM>śaive</LEM> \msCa\msCb\msNa\msNb\msNc; śaiva° \Ed</APP>
         <NOTE>Note how there is no question from Devī after Łkim anyat paripṛcchasi$ and how we begin a new topic instead.
                 Note also how Łsaṃkṣepa$ stands either for Łsaṃkṣipta$° or Łsaṃkṣepena/saṃkṣepataḥ$.</NOTE>
+        <TR>in Sāṃkhya, in yoga, in the Pañcarātra, in Śaivism and in the Vedas.</TR>
 
 
 %folioinfo \Ed\ p.644
@@ -22229,12 +22237,12 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 <TEXT> vairūpyacakṣus{ }tv{ }atisūkṣmacakṣuḥ</TEXT>
         <APP>\vc <LEM>°tisūkṣma°</LEM> \mssALL\mssCaCbCc\msNa\msPaperA\Ed; °nimṛ\lk\ \msM\oo
                  <LEM>°cakṣuḥ</LEM> \mssALL\msCa\msCb\msNa\msM\msPaperA\Ed; °cakṣu \msCc</APP>
-        <TR>will have ugly eyes, tiny eyes,</TR>
+        <TR>will have ugly, tiny eyes,</TR>
 
 <TEXT> sa jāyate kekarapiṅgacakṣuḥ||</TEXT> 18:40
         <APP>\vd <LEM>sa jāyate</LEM> \mssALL\mssCaCbCc\msNa\msPaperA\Ed; jāyanti te \msM\oo
                  <LEM>kekara°</LEM> \mssALL\msCa\msCb\msNa\msM\msPaperA\Ed; kekakara° \msCc</APP>
-        <TR>will be born squint-eyed, yellow-eyed.</TR>
+        <TR>and will be born squint-eyed, yellow-eyed.</TR>
 
 
 <TEXT> gartākṣikādīni vipaṇḍulāni</TEXT>
