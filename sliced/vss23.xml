@@ -1,0 +1,302 @@
+<START/>
+<startchapter-n="23"/> 
+%chapter 23
+%folioinfo \Ed\ p.670
+%folioinfo \msCa\ 464.jpg line 5
+%folioinfo \msNa\ 235.jpg upper line 5
+%folioinfo \msM\ 448.jpg upper, f. 45v line 1
+<CHAPTER>23 nidrotpattiḥ</CHAPTER>
+<ANUSTUBH/>
+<TEXT> janamejaya uvāca|*</TEXT>
+<TEXT> devānāṃ dānavānāṃ ca uttarāraṇim{ }eva ca|</TEXT>
+        <APP>\vab <LEM>dānavānāṃ ca uttarāraṇim{ }eva</LEM> \msNa\Ed;
+                               dā×××××××ṇim{ }eva \msCa</APP>
+<TEXT> vidviṣanti ca te 'nyonyaṃ kāraṇaṃ tasya kīrtaya||</TEXT> 23:1
+        <APP>\vd <LEM>tasya</LEM> \msCa\Ed; ta<UNCL>sya</UNCL> \msNa</APP>
+
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+<TEXT> pāpapuṇyasvabhāvābhyāṃ devadaityasya bhūpate|</TEXT>
+<TEXT> dharmapakṣasmṛto devo dānavo 'dharmapakṣataḥ||</TEXT> 23:2
+        <APP>\vc <LEM>dharmapakṣa°</LEM> \msNa; dharme pakṣaḥ \msCa, 
+                                         dharmapakṣaḥ \Ed\oo
+                 <LEM>devo</LEM> \msCa\msNa; devā \Ed</APP>
+        <APP>\vd <LEM>'dharma°</LEM> \Ed; darppa° \msCa, darpa° \msNa</APP>
+<TEXT> hetunā tena rājendra anyonyaṃ vidviṣanti te|</TEXT>
+<TEXT> devadveṣṭāsurāḥ sarve vibudhāś{ }cāsuradviṣaḥ||</TEXT> 23:3
+        <APP>\vc <LEM>devadveṣṭāsurāḥ sarve</LEM> \eme;
+                      devadveṣṭāsuraḥ sarve \msNa\Ed,
+                       <UNCL>de</UNCL>vadve<UNCL>ṣṭā</UNCL>suras ×× \msCa</APP>
+        <APP>\vd <LEM>vibudhāś</LEM> \msNa\Ed; ××dhāś \msCa</APP>
+
+
+<SUBCHAPTER>dharmādharmavipakṣatā</SUBCHAPTER>
+%folioinfo \msCa\ 465.jpg
+%folioinfo \msNa\ 235.jpg lower
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+%        -  -  -  . . -  . -   . . .  -    - - . -  - .  -
+<TEXT> dharmādharmavipakṣatāṃ śṛṇu parāṃ bhūtānukampodayām</TEXT>
+        <APP>\va <LEM>°vipakṣatāṃ</LEM> \Ed; °vivakṣatāṃ \msCa\msNa\oo
+                 <LEM>°kampodayām</LEM> \msCa\msNa; °kampādayām \Ed</APP>
+<TEXT> satyaṃ śaucam{ }ahiṃsatā damaśamo nirmānam{ }īrṣyāruṣā|</TEXT>
+        <APP>\vb <LEM>īrṣā°</LEM> \msCa\msNa; īrṣyā° \Ed</APP>
+<TEXT> tṛṣṇālobharatasya kāmaviṣayaḥ sarvendriyāṇāṃ jayaḥ</TEXT>
+<TEXT> ādhyātmeṣu ratiḥ prasannamanaso nirdvandvasarvālayaḥ||</TEXT> 23:4
+        <APP>\vd <LEM>prasannamanaso nirdvandva°</LEM> \msNa\Ed; 
+                        prasanna××××× \msCa</APP>
+
+% śaśva ! Aiśa
+<TEXT> pāpopekṣaṇaśaśvapuṇyamudito dīneṣu kāruṇyatā</TEXT>
+        <APP>\va <LEM>pāpo°</LEM> \msCa\msNa; pāpā° \Ed\oo
+                <LEM>°śaśva°</LEM> \msCa\msNa; °śaśca° \Ed</APP>
+<TEXT> dānaṃ śīladhṛtikṣamājapatapaḥ svādhyāyamaune ratiḥ|</TEXT>
+<TEXT> yogābhyāsaratir{ }divaukasagaṇe jñāne ca sāṃkhye tathā</TEXT>
+        <APP>\vc <LEM>yogābhyāsaratir{ }divaukasa°</LEM> \msCa; 
+                       yogābhyāsaratidivaukasa° \msNa\ \unmetr, 
+                 yogabhyāsaratidivaikasa° \Ed\ \unmetr</APP>
+% yajña (m) gender
+<TEXT> akrodhārjavatejayajñam{ }abhayaṃ saṃtoṣa adrohatā||</TEXT> 23:5
+        <APP>\vd <LEM>°bhayaṃ</LEM> \Ed; °bhayas \msCa, °bhayaḥ \msNa</APP>
+
+%index_grammar: licence hra
+%        - -  -  . .! - . - . . . -  - -  . - -  .  -
+<TEXT> tyāgo mārdavahrīr{ }acāpalaratir{ }nyāsābhimāno grahāt</TEXT>
+        <APP>\va <LEM>°hrīr{ }acāpalaratinyāsā°</LEM> \msNa\Ed;
+                        <UNCL>hrī</UNCL>××××ratir{ }nyāsā° \msCa</APP>
+%index_grammar: licence śra unmetrical:
+%       -   -  - . . - .  - . . . -       - -  .! -    - . -
+<TEXT> maitrībhāvasadārapaiśunamatir{ }brāhmaṇyaśraddhānvitaḥ|</TEXT>
+        <APP>\vb <LEM>°nvitaḥ</LEM> \msNa; °nvitā \msCa\Ed</APP>
+% stem forms?:
+<TEXT> etācāra sadā narendra vibudhāḥ saṃkṣepataḥ kīrtitāḥ</TEXT>
+        <APP>\vc <LEM>kīrtitāḥ</LEM> \msCa\msNa; kīrtitaḥ \Ed</APP>
+%folioinfo \Ed\ p.671
+<TEXT> daityānāṃ śṛṇu kīrtaye svavahito 'sambhāvya teṣāṃ nijam||</TEXT> 23:6
+        <APP>\vd <LEM>daityānāṃ</LEM> \msNa\Ed; daityānā \msCa\oo
+                 <LEM>kīrtaye</LEM> \msCa\Ed; kīrtaya \msNa\oo
+                 <LEM>svavahito</LEM> \msCa; svavahisaṃ \msNa,
+                                         tv{ }avahito \Ed\oo
+                 <LEM>nijam</LEM> \msCa\Ed; nijaḥ \msNa</APP>
+
+<TEXT> daityāḥ pāparatisvabhāvacapalā nirlajjadarpālasāḥ</TEXT>
+        <APP>\va <LEM>daityāḥ</LEM> \msCa; daityā \msNa\Ed</APP>
+<TEXT> kāmakrodhavaśāḥ suduṣṭamanasas{ }tṛṣṇādhikā nirdayāḥ|</TEXT>
+        <APP>\vb <LEM>kāmakrodhavaśāḥ</LEM> \msNa\Ed; ¤××××śās \msCa</APP>
+% nitya stem form
+<TEXT> śaucācāravivarjitā gurugirānnānitya kuryuḥ kriyāḥ</TEXT>
+<TEXT> jīvākarṣaṇajīvanaḥ pratidinaṃ mohāndharāgānvitāḥ||</TEXT> 23:7
+        <APP>\vd <LEM>jīvākarṣaṇa°</LEM> \msCa\msNa; naivākarṣaṇa° \Ed</APP>
+
+%folioinfo \msM\ 448.jpg lower, f. 46r
+<TEXT> nidrā nitya divā prasaktam{ }aśuciḥ sūryodaye supyate</TEXT>
+
+<TEXT> āśāpāśaśatair{ }nibaddhahṛdayo hṛtvā parasvaṃ punaḥ|</TEXT>
+        <APP>\vb <LEM>hṛtvā parasvaṃ punaḥ</LEM> \msNa\Ed; 
+                                <UNCL>hṛ</UNCL>×××××naḥ \msCa</APP>
+<TEXT> mātsaryāt{ }parapākabhedanirato mūlasya duṣpūratā</TEXT>
+        <APP>\vc <LEM>mātsaryā</LEM> \msCa\msNa; māṃsaryā° \Ed</APP>
+% nāstī metri causa
+% unmetrical
+%       -  - -  . . -  . -  .  . . -! - - . - -   . -
+<TEXT> ! nāstīkatvaparāṅganāsvabhirata utkocakāmaḥ sadā||</TEXT> 23:8
+        <APP>\vd <LEM>°parāṅganāsvabhirata</LEM> \msCa;
+                                °parāṅganās{ }tv{ }abhirata \msNa,
+                                °parāṅganāpy{ }abhirato \Ed\oo
+                 <LEM>utkoca°</LEM> \msCa\msNa; uktā ca \Ed</APP>
+
+% stem form
+<TEXT> devabrāhmaṇa vidviṣanti satataṃ lobhāc{ }ca kāryakriyā</TEXT>
+% sandhi!
+% adruvan is not certain CHECK
+<TEXT> dharmaṃ dūṣayate ca mūḍhamanasā āryaṃ ca tīrthaṃ tathā|</TEXT>
+<TEXT> hantavyāny{ }ahatāś{ }ca manyabahavo visphūrjitam{ }adruvan</TEXT>
+        <APP>\vc <LEM>°hatāś</LEM> \msCa; °hatāṃś \msNa, °hatāṃ \Ed\oo
+                 <LEM>manya°</LEM> \msCa\msNa; yanya \Ed\oo
+                 <LEM>visphūrjitam{ }adruvan</LEM> \msNa;
+                                        visphurjjite nakravat \Ed, 
+                                        vi××××druvan \msCa</APP>
+<TEXT> daityānāṃ kathitaṃ ca cihna katicit{ }sadbhāvataḥ kīrtitam||</TEXT>
+        <APP>\vd <LEM>kathitaṃ</LEM> \msCa\msNa; kathitaś \Ed</APP>
+
+<TEXT> martyeṣv{ }eva narendra mānuṣam{ }abhūd{ }devāsurāṇāṃ nṛpaḥ</TEXT>
+% unmetr
+<TEXT> yo yaṃ proktaḥ svabhāvatām{ }ubhayato mānuṣyaloke tathā|</TEXT>
+        <APP>\vb <LEM>°loke</LEM> \msCa\msNa; °lokan \Ed</APP>
+<TEXT> yan{ }me pṛcchitavān{ }narendra kathitaṃ yat{ }tvaṃ purā gopitam</TEXT>
+        <APP>\vc <LEM>pṛcchitavān</LEM> \msNa\Ed; pṛcchitavā \msCa</APP>
+% stem form bhūya
+<TEXT> vidveṣobhayakāraṇaṃ narapate kiṃ bhūya vakṣyāmy{ }aham||</TEXT> 23:10
+        <APP>\vd <LEM>vidveṣobhayakāraṇaṃ narapate kiṃ</LEM> \msNa\Ed; 
+                                vi<UNCL>dveṣobhaya</UNCL>×××××pate ki \msCa</APP>
+
+<SUBCHAPTER>nidrottpattiḥ</SUBCHAPTER>
+%folioinfo \msCa\ 466.jpg
+<ANUSTUBH/> 
+<TEXT> janamejaya uvāca|*</TEXT>
+%folioinfo \msNa\ 236.jpg upper
+<TEXT> asti kautūhalaṃ cānyaṃ pṛcchāmi tvāṃ dvijottama|</TEXT>
+        <APP>\va <LEM>kautūhalaṃ</LEM> \msCa\msNa; kautuhalaṃś \Ed</APP>
+<TEXT> kathaṃ nidrā samutpannā sarvabhūtavimohanī||</TEXT>
+        <APP>\vd <LEM>°mohanī</LEM> \msCapcorr\msNa\Ed; °mohinī \msCaacorr</APP>
+<TEXT> rātrau prajāyate kasmād{ }divā kasmān{ }na jāyate|</TEXT>
+<TEXT> kasmāc{ }ca kurute jantor{ }nidrā netrapramīlanam|</TEXT>
+        <APP>\vc <LEM>jantor</LEM> \msCa\msNa; janto \Ed</APP>
+<TEXT> etan{ }me saṃśayaṃ chindhi sarvajño 'si dvijottama||</TEXT>
+        <APP>\vf <LEM>sarvajño 'si</LEM> \msNa\Ed; ×××× \msCa</APP>
+
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+<TEXT> devī hy{ }eṣā mahābhāgā nidrā netrāśrayā nṛṇām|</TEXT>
+        <APP>\vb <LEM>°śrayā</LEM> \msCa\msNa; °śrayo \Ed</APP>
+<TEXT> tasyā vaśaṃ gataṃ sarvaṃ jagatsthāvarajaṅgamam||</TEXT>
+% na-vipulā
+<TEXT> sadevadānavagaṇā gandharvoragarākṣasāḥ|</TEXT>
+        <APP>\va <LEM>°dānava°</LEM> \msCa\Ed; °dānavā° \msNa</APP>
+<TEXT> yakṣabhūtapiśācāś{ }ca paśupakṣisarīsṛpāḥ||</TEXT>
+        <APP>\vd <LEM>°sarīsṛpāḥ</LEM> \msCa\msNa; °śarīsṛpaḥ \Ed</APP>
+% naga metri causa?
+<TEXT> guhyakāś{ }ca mṛgā nāgā kiṃnarā jalajoragāḥ|</TEXT>
+        <APP>\va <LEM>guhyakāś{ }ca</LEM> \eme;
+                                 guhyakaś{ }ca \Ed,
+                                 guhyavastra° \msCa\msNa\oo
+                 <LEM>nāgāḥ</LEM> \msCa\msNa; nāgā \Ed</APP>
+        <APP>\vb <LEM>kiṃnarā jalajoragāḥ</LEM> \eme;
+                        kiṃnarā jalajā nagāḥ \msNa\Ed,
+                        kinna×××××gāḥ \msCa</APP>
+<TEXT> nidrāvaśagatāḥ sarve pāpmanā tv{ }abhilaṅghitāḥ||</TEXT>
+
+<TEXT> devadānavakarmānte tasminn{ }amṛtasambhave|</TEXT>
+        <APP>\va <LEM>°karmānte</LEM> \msCa\msNa; °karmāt{ }te \Ed</APP>
+        <APP>\vb <LEM>°mṛta°</LEM> \msCa\msNa; °nṛta° \Ed</APP>
+<TEXT> mandarotthāpane viṣṇur{ }devāsurasamāgame||</TEXT>
+        <APP>\vc <LEM>°tthāpane</LEM> \Ed; °tpādane \msCa\msNa</APP>
+
+
+%folioinfo \Ed\ p.672
+<TEXT> jāyate vigrahe tv{ }eṣā kṛte hy{ }amṛtamanthane|</TEXT>
+
+%folioinfo \msM\ 449.jpg upper, f. 46v
+<TEXT> rajas{ }tamaś{ }cāsuraṃ vai sattvaṃ devakṛtaiḥ śubhaiḥ||</TEXT>
+
+<TEXT> tataḥ sattvamayī devī rajastamanivāsinī|</TEXT>
+        <APP>\vab <LEM>sattvamayī devī rajas{ }tamasi vāsinī</LEM> \msNa;
+                       sattvamayī <UNCL>de</UNCL>××××masi vāsinī \msCa,
+                       sattvamayī devī rajas{ }tamanivāsinī \Ed</APP>
+<TEXT> krodhajā vai sthitā madhye devadānavapakṣayoḥ||</TEXT>
+<TEXT> tām{ }adbhutamayīṃ dṛṣṭvā vismitā devadānavāḥ|</TEXT>
+        <APP>\va <LEM>°bhuta°</LEM> \msCa\msNa; °bhūta° \Ed</APP>
+% mayīn \msCa\Ed
+<TEXT> tasyāḥ prabhāvābhihatā dudruvas{ }te diśo daśa||</TEXT>
+        <APP>\vd <LEM>daśa</LEM> \msCa\msNa; daśaḥ \Ed</APP>
+% 23.20:
+<TEXT> tatra pītāmbaradharo viṣṇur{ }ekas{ }tu tiṣṭhati|</TEXT>
+        <APP>\va <LEM>pītā°</LEM> \msCa\msNa; pitā° \Ed</APP>
+<TEXT> sābhigatvā viśālākṣī nārāyaṇam{ }athābravīt||</TEXT> 23:20
+        <APP>\vc <LEM>sābhi°</LEM> \msCa\msNa; sobhi° \Ed</APP>
+        <APP>\vd <LEM>°bravīt</LEM> \msNa\Ed; °<UNCL>bra</UNCL>× \msCa</APP>
+<TEXT> devadānavanāthas{ }tvaṃ tvayi sarvaṃ pratiṣṭhitam|</TEXT>
+        <APP>\va <LEM>deva°</LEM> \msNa\Ed; ×× \msCa</APP>
+        <APP>\vb <LEM>sarvaṃ</LEM> \msCa\msNa; sarva° \Ed</APP>
+<TEXT> dehi deva mamāvāsaṃ yatrāhaṃ nivase sukham||</TEXT>
+<TEXT> tato nārāyaṇas{ }tuṣṭas{ }tāṃ devīṃ pratyabhāṣata|</TEXT>
+<TEXT> śarīre mama vastavyaṃ viṣṇur{ }enām{ }athābravīt||</TEXT>
+        <APP>\vc <LEM>vastavyaṃ</LEM> \Ed; vāstavyam \msCa\msNa</APP>
+<TEXT> tatas{ }tāṃ vaiṣṇavaṃ tejaḥ pāpmanā samatiṣṭhata|</TEXT>
+        <APP>\va <LEM>vaiṣṇavaṃ</LEM> \msCa\msNa; viṣṇuvat \Ed</APP>
+<TEXT> tataḥ śete sa vaikuṇṭhaḥ pāpmanā tv{ }abhilaṅghitaḥ||</TEXT>
+        <APP>\vd <LEM>pāpmanā tv{ }abhilaṅghitaḥ</LEM> \msNa;
+                                pāpmanā tv{ }abhilaṅghitāḥ \Ed,
+                                pāpma××××ghitaḥ \msCa</APP>
+<TEXT> tasmin{ }śayāne vitrastā devāsuragaṇās{ }tathā|</TEXT>
+        <APP>\va <LEM>tasmin</LEM> \msCa\Ed; tasmi \msNa</APP>
+<TEXT> ūcus{ }te paramodvignāḥ śayānaṃ viṣṇum{ }acyutam||</TEXT>
+% 23.25:
+<TEXT> trātāraṃ nābhigacchāma uttiṣṭhottiṣṭha keśava|</TEXT>
+<TEXT> tataḥ śaṅkhagadāpāṇir{ }uttiṣṭhata mahābhujaḥ||</TEXT>
+<TEXT> utthitaś{ }ca viśālākṣaḥ pāpmanā tasya pṛṣṭhataḥ|</TEXT>
+        <APP>\va <LEM>utthita°</LEM> \msCa\msNa; uttiṣṭha° \Ed\oo
+                 <LEM>viśālākṣaḥ</LEM> \msCa\msNa; viśālākṣiḥ \Ed</APP>
+<TEXT> tataḥ sā vigrahavatī sthitā nārāyaṇālaye||</TEXT>
+        <APP>\vc <LEM>tataḥ sā vigrahavatī</LEM> \msNa\Ed;
+                        tata××××<UNCL>va</UNCL>tī \msCa</APP>
+%folioinfo \msCa\ 467.jpg
+<TEXT> viṣṇur{ }devāsuragaṇān{ }idaṃ vacanam{ }abravīt|</TEXT>
+        <APP>\va <LEM>viṣṇur</LEM> \msCa\Ed; viṣṇu \msNa\oo
+                <LEM>°gaṇān</LEM> \msCa\Ed; °gaṇā \msNa</APP>
+%folioinfo \msNa\ 236.jpg
+<TEXT> asmākaṃ vai śarīreṣu iyaṃ pāpmā viniḥsṛtā||</TEXT>
+        <APP>\vd <LEM>viniḥsṛtā</LEM> \eme; vinisṛtā \msCa\msNa\Ed\ \unmetr</APP>
+<TEXT> eṣābhisattvārasatā satyena bhaginī mama|</TEXT>
+        <APP>\va <LEM>eṣābhisattvārasatā</LEM> \msCa;
+                        eṣātisatvānasatā \msNa,
+                        eṣātisattvāmasatī \Ed</APP>
+<TEXT> viśrutāṃ triṣu lokeṣu tāṃ pūjayatha māṃ yathā||</TEXT>
+        <APP>\vc <LEM>°śrutāṃ</LEM> \msCa; °śrutā \msNa, °śruto \Ed</APP>
+<TEXT> tato devāsuragaṇāḥ saptalokāḥ samānuṣāḥ|</TEXT>
+        <APP>\vb <LEM>°lokāḥ samānuṣāḥ</LEM> \msNa\Ed; °<UNCL>lo</UNCL>×××nuṣāḥ \msCa</APP>
+<TEXT> vibhaktā vaiṣṇavī pāpmā teṣu sarveṣu devatā||</TEXT>
+<TEXT> parvateṣv{ }atha vṛkṣeṣu sāgareṣu saritsu ca|</TEXT>
+<TEXT> tato nidrāvaśagataṃ jagat{ }sthāvarajaṅgamam||</TEXT> 23:30
+<TEXT> eṣotpattiś{ }ca nidrāyā yathā vasati tac{ }chṛṇu|</TEXT>
+<TEXT> trīṇi sthānāni yasyā vai śarīreṣu śarīriṇām||</TEXT>
+
+<TEXT> śleṣmapittānilasthāne trīṇi pakṣāṇi vāsinaḥ|</TEXT>
+        <APP>\vab <LEM>°nilasthāne trīṇi</LEM> \Ed; °nilasthāna trīṇi \msNa, 
+                                        ni××××ṇi \msCa</APP>
+        <APP>\vb <LEM>pakṣāṇi</LEM> \msCa; pakṣā ni° \msNa\Ed</APP>
+
+%folioinfo \msM\ 450.jpg lower, f. 47r 
+<TEXT> tamaḥ śleṣmāśrayā nidrā rajonidrā tu vātikā||</TEXT>
+        <APP>\vc <LEM>tamaḥ</LEM> \msCa\msNa; tama° \Ed</APP>
+        <APP>\vd <LEM>nidrā tu</LEM> \msCa\msNa; nidrāti° \Ed</APP>
+<TEXT> pittāśrayāṃ smṛtāṃ nidrāṃ sāttvikāṃ viddhi bhūpate|</TEXT>
+        <APP>\va <LEM>smṛtāṃ</LEM> \msCa\Ed; smṛtā \msNa</APP>
+<TEXT> ādityaprabhavaṃ tejas{ }tasmin{ }sattvaṃ pratiṣṭhati||</TEXT>
+        <APP>\vd <LEM>sattvaṃ pratiṣṭhati</LEM> \msCa\msNa; sarva pratiṣṭhitaṃ \Ed</APP>
+<TEXT> nidrā divā na bhavati tasmāt{ }sattvaguṇātmikā|</TEXT>
+<TEXT> yasmāt{ }somodbhavā nidrā tamāṃsi ca rajāṃsi ca||</TEXT>
+        <APP>\vc <LEM>yasmā°</LEM> \msCa\msNa; tasmā° \Ed</APP>
+        <APP>\vd <LEM>tamāṃsi ca rajāṃsi ca</LEM> \msNa\Ed;
+                        ta<UNCL>māṃ</UNCL>si ca <UNCL>ra</UNCL>××× \msCa</APP>
+<TEXT> tasmād{ }rātrau bhaven{ }nidrā tāmasī harajātmikā|</TEXT>
+        <APP>\va <LEM>bhaven</LEM> \msCa\Ed; bhavan \msNa</APP>
+<TEXT> yadā hi sarvāṅgagatau śrotāṃsi pratipadyate||</TEXT>
+        <APP>\vc <LEM>sarvā°</LEM> \msNa\Ed; satvā° \msCa</APP>
+
+
+<TEXT> rajas{ }tamaś{ }ca niyatas{ }tadā nidrā pravartate|</TEXT>
+        <APP>\va <LEM>niyatas</LEM> \msCa\msNa; niyataṃs \Ed</APP>
+<TEXT> tamasy{ }ūrdhvagataśroto hy{ }akṣipakṣmāsamāśritā||</TEXT>
+        <APP>\vc <LEM>°gataśroto</LEM> \msCa\msNa; °gate śrotro \Ed</APP>
+        <APP>\vd <LEM>hy{ }akṣi°</LEM> \msCa\msNa; hy{ }ākṣi° \Ed</APP>
+% samāśṛtā \msCa\Ed
+<TEXT> tamaḥ pravartate jantos{ }tatas{ }tv{ }akṣnor{ }nimīlanam|</TEXT>
+        <APP>\vab <LEM>jantos{ }tata°</LEM> \msCa\msNa; janto tama° \Ed</APP>
+        <APP>\vb <LEM>tv{ }akṣṇor{ }ni°</LEM> \msCa; tv{ }akṣṇo ni° \msNa\Ed</APP>
+<TEXT> nāsākṣikarṇaśrotāṃsi prayujyante kaphena tu||</TEXT>
+        <APP>\vc <LEM>°śrotāṃsi</LEM> \msNa\Ed; śro<UNCL>tā</UNCL>× \msCa</APP>
+        <APP>\vd <LEM>prayujyante kaphena</LEM> \msNa\Ed; ×××××phena \msCa</APP>
+<TEXT> hṛdayaṃ muhyate cāpi tamasā cāvṛtaṃ manaḥ|</TEXT>
+<TEXT> sparśaṃ na vedayaty{ }eva na śṛṇoti na paśyati||</TEXT>
+<TEXT> nocchvāsayati nāsābhyāṃ vivṛtākṣimukho naraḥ|</TEXT>
+        <APP>\vb <LEM>°mukho naraḥ</LEM> \msCa\msNa; °mukhena ca \Ed</APP>
+<TEXT> eṣā nṛṇām{ }antakarī nidrā vai tāmasī smṛtā||</TEXT>
+        <APP>\vc <LEM>°ntakarī</LEM> \msNa\Ed; °nakarī \msCa</APP>
+<TEXT> akarmaṇy{ }apravṛttiś{ }ca mṛtavat{ }svapate kṣitau|</TEXT>
+<TEXT> nidrotpattiṃ vikāraṃ ca kathito 'smi narādhipa|</TEXT>
+        <APP>\va <LEM>°tpattiṃ vikāraṃ ca</LEM> \msNa;
+                      °tpattiṃ vikāraś{ }ca \Ed, 
+                      °tpa<UNCL>tti</UNCL>×××× \msCa</APP>
+<TEXT> tasmān{ }nidrāṃ na seveta tamomohapravardhanīm||</TEXT>
+        <APP>\vd <LEM>°vardhanīm</LEM> \msCa; °vardhanī \msNa\Ed</APP>
+
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe nidrotpattis{ }trayoviṃśatimo 'dhyāyaḥ</COLOPHON></TEXT>
+        <APP> Ł\Colo: $  <LEM>°viṃśatimo</LEM> \msCa\msNa; °viṃśatitamo \Ed</APP>
+%END OF CHAPTER 23
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+<STOP/>

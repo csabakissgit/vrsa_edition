@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng-Latn">Test File</title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename">0001</idno>
+</publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Repo</repository></msIdentifier></msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="san-Latn">
+
+
+<l n="9.1uvaca"> [anarthayajña uvāca]</l>
+
+<lg n="9.1" met="anuṣṭubh">
+<l n="ab"> trikālaguṇabhedena bhinnaṁ sarvacarācaram</l>
+
+<app loc="9.1a">
+     <lem wit="#msCa #msCb #Ed">trikāla°</lem>
+     <rdg wit="#msCc">triṣkāla°</rdg>
+</app>
+
+<l n="cd"> tasmāt triguṇabandhena veṣṭitaṁ nikhilaṁ jagat</l>
+</lg>
+
+<app loc="9.1c">
+     <lem wit="#msCa #msCb #Ed">tasmāt tri°</lem>
+     <rdg wit="#msCc">tasmā tri°</rdg>
+</app>
+
+<l n="9.2uvaca"> vigatarāga uvāca</l>
+
+<lg n="9.2" met="anuṣṭubh">
+<l n="ab"> traikālyam iti kiṁ jñeyaṁ traidhātukaśarīriṇaḥ</l>
+
+<app loc="9.2a">
+     <lem wit="#msCb #msCc #Ed">°kālyam</lem>
+     <rdg wit="#msCa">°kālam</rdg>
+</app>
+
+<app loc="9.2ab">
+     <lem wit="#msCa">kiṁ jñeyaṁ trai°</lem>
+     <rdg wit="#msCb #Ed">vijñeyaṁ trai°</rdg>
+     <rdg wit="#msCc">ki jñeyam trai°</rdg>
+</app>
+
+<app loc="9.2b">
+     <lem wit="#mssCaCbCc">°dhātuka°</lem>
+     <rdg wit="#Ed">°dhāyukta°</rdg>
+</app>
+
+<l n="cd"> kiṁcid vistaram eveha kathayasva tapodhana</l>
+</lg>
+
+<app loc="9.2c">
+     <lem wit="#msCa #msCbpcorr #msCc #Ed">kiṁci°</lem>
+     <rdg wit="#msCbacorr">sāttviko bhagav  viṣṇu rājasaḥ kamalodbhavaḥ|tāmaso bhagavān īśaḥ sakalaṁ vika kiñci°</rdg>
+</app>
+
+<app loc="9.2c">
+     <lem wit="#mssCaCbCc">eveha</lem>
+     <rdg wit="#Ed">etad dhi</rdg>
+</app>
+
+<app loc="9.2d">
+     <lem wit="#msCb #msCc #Ed">kathayasva</lem>
+     <rdg wit="#msCa">ka<gap quantity="3" unit="char" reason="illegible"/></rdg>
+</app>
+
+<l n="9.3uvaca"> anarthayajña uvāca</l>
+
+<lg n="9.3" met="anuṣṭubh">
+<l n="ab"> traikālyaṁ triguṇaṁ jñeyaṁ vyāpī prakr̥tisambhavaḥ</l>
+
+<app loc="9.3a">
+     <lem wit="#msCa #msCb #Ed">°kālyaṁ</lem>
+     <rdg wit="#msCc">°kālya</rdg>
+</app>
+
+<app loc="9.3a">
+     <lem wit="#msCa #msCb #Ed">°guṇaṁ</lem>
+     <rdg wit="#msCc">°guṇa</rdg>
+</app>
+
+<l n="cd"> anyonyam upajīvanti anyonyam anuvartinaḥ</l>
+</lg>
+
+<lg n="9.4" met="anuṣṭubh">
+<l n="ab"> sattvaṁ rajas tamaś caiva rajaḥ sattvaṁ tamas tathā</l>
+
+<app loc="9.4a">
+     <lem wit="#mssCaCbCc">rajas ta°</lem>
+     <rdg wit="#Ed">rajata°</rdg>
+</app>
+
+<app loc="9.4b">
+     <lem wit="#msCa #msCb">rajaḥ</lem>
+     <rdg wit="#msCc #Ed">raja°</rdg>
+</app>
+
+<app loc="9.4b">
+     <lem wit="#msCa">sattvaṁ tamas tathā</lem>
+     <rdg wit="#msCb">sattvaṁ taman tathā</rdg>
+     <rdg wit="#msCc">satvas tamas tathā</rdg>
+     <rdg wit="#Ed">sattvatamas tathā</rdg>
+</app>
+
+<l n="cd"> tamaḥ sattvaṁ rajaś caiva anyonyamithunāḥ smr̥tāḥ</l>
+</lg>
+
+<app loc="9.4c">
+     <lem wit="#msCa #msCb">tamaḥ sattvaṁ</lem>
+     <rdg wit="#msCc">tamasatva°</rdg>
+     <rdg wit="#Ed">tamaḥ satva°</rdg>
+</app>
+
+<app loc="9.4c">
+     <lem wit="#msCa #msCc #Ed">rajaś caiva</lem>
+     <rdg wit="#msCb">rajaḥś caiva</rdg>
+</app>
+
+<app loc="9.4d">
+     <lem wit="#msCa #msCb #Ed">smr̥tāḥ</lem>
+     <rdg wit="#msCc">[omitted]</rdg>
+</app>
+
+<lg n="9.5" met="anuṣṭubh">
+<l n="ab"> sāttviko bhagavān viṣṇu rājasaḥ kamalodbhavaḥ</l>
+
+<app loc="9.5b">
+     <lem wit="#msCb #Ed">rājasaḥ kamalodbhavaḥ</lem>
+     <rdg wit="#msCa"><unclear reason="illegible">rāja</unclear><gap quantity="6" unit="char" reason="illegible"/></rdg>
+</app>
+
+<l n="cd"> tāmaso bhagavān īśaḥ sakalaṁ vikaleśvaraḥ</l>
+</lg>
+
+<app loc="9.5cd">
+     <lem wit="#msCb #Ed">tāmaso bhagavān īśaḥ sakalaṁ</lem>
+     <rdg wit="#msCa"><gap quantity="8" unit="char" reason="illegible"/><unclear reason="illegible">sakalam</unclear></rdg>
+</app>
+
+<lg n="9.6" met="anuṣṭubh">
+<l n="ab"> sattvaṁ kundenduvarṇābhaṁ padmarāganibhaṁ rajaḥ</l>
+
+<l n="cd"> tamaś cāñjanaśailābhaṁ kīrtitāni manīṣibhiḥ</l>
+</lg>
+
+<app loc="9.6c">
+     <lem wit="#msCa #msCb">°bhaṁ</lem>
+     <rdg wit="#Ed">°bhā</rdg>
+</app>
+
+<lg n="9.7" met="anuṣṭubh">
+<l n="ab"> sattvaṁ jalaṁ rajo 'ṅgāraṁ tamo dhūmasamākulam</l>
+
+<app loc="9.7a">
+     <lem wit="#msCa #msCb">'ṅgāraṁ</lem>
+     <rdg wit="#Ed">'ṅgaran</rdg>
+</app>
+
+<l n="cd"> etadguṇamayair baddhāḥ pacyante sarvadehinaḥ</l>
+</lg>
+
+<app loc="9.7d">
+     <lem wit="#msCa #Ed">°dehinaḥ</lem>
+     <rdg wit="#msCb">°dehinā</rdg>
+</app>
+
+<l n="9.8uvaca"> vigatarāga uvāca</l>
+
+<lg n="9.8" met="anuṣṭubh">
+<l n="ab"> kena kena prakāreṇa guṇapāśena badhyate</l>
+
+<app loc="9.8b">
+     <lem wit="#msCb #msNa #Ed">guṇa°</lem>
+     <rdg wit="#msCa">[omitted]</rdg>
+</app>
+
+<l n="cd"> cihnam eṣāṁ pr̥thaktvena kathayasva tapodhana</l>
+</lg>
+
+<l n="9.9uvaca"> anarthayajña uvāca</l>
+
+<lg n="9.9" met="anuṣṭubh">
+<l n="ab"> anekākārabhāvena badhyante guṇabandhanaiḥ</l>
+
+<l n="cd"> mohitā nābhijānanti jānanti śivayoginaḥ</l>
+</lg>
+
+<app loc="9.9d">
+     <lem wit="#msCa #msCbpcorr #Ed">jānanti</lem>
+     <rdg wit="#msCbacorr">[omitted]</rdg>
+</app>
+
+<lg n="9.10" met="anuṣṭubh">
+<l n="ab"> ūrdhvaṁgo nityasattvastho madhyago rajasāvr̥taḥ</l>
+
+<app loc="9.10a">
+     <lem type="conj">ūrdhvaṁgo ni°</lem>
+     <rdg wit="#msCa #msCb #msNapcorr #Ed">ūrdhvāṅgo ni°</rdg>
+     <rdg wit="#msNaacorr">ūrdhvāṅgā na°</rdg>
+</app>
+
+<app loc="9.10a">
+     <lem wit="#msCa #msCb #msNa">°sattva°</lem>
+     <rdg wit="#Ed">°satya°</rdg>
+</app>
+
+<app loc="9.10b">
+     <lem wit="#msCa #msCb">madhyago</lem>
+     <rdg wit="#Ed">madhyamo</rdg>
+</app>
+
+<app loc="9.10b">
+     <lem wit="#msCa #msCb #msNa">°vr̥taḥ</lem>
+     <rdg wit="#Ed">°vr̥tam</rdg>
+</app>
+
+<l n="cd"> adhogatis tamo'vasthā bhavanti puruṣādhamāḥ</l>
+</lg>
+
+<app loc="9.10c">
+     <lem wit="#msCa #Ed">°gatis tamo°</lem>
+     <rdg wit="#msCb">°gatitamo°</rdg>
+</app>
+
+<lg n="9.11" met="anuṣṭubh">
+<l n="ab"> svarge 'pi hi trayo vaite bhāvanīyās tapodhana</l>
+
+<l n="cd"> mānuṣeṣu ca tiryeṣu guṇabhedās trayas trayaḥ</l>
+</lg>
+
+
+</div>
+</body>
+</text>
+</TEI>

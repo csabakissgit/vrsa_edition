@@ -1,0 +1,754 @@
+<START/>
+<startchapter-n="14"/> 
+%chapter 14
+
+%folioinfo \msCa\ 429.jpg, f. 217r line 4
+%folioinfo \msCb\ 443.jpg, f. 221r line 4
+%folioinfo \msCc\ 233.jpg, f. 296r line 2
+%folioinfo: \msNa\ 218.jpg upper line 1 f. 24v
+%folioinfo \msM\ 433.jpg lower, f. 26r line 1
+%folioinfo: \msPaperA\ 353.jpg upper line 6
+%folioinfo \Ed\ p.633
+<ANUSTUBH/>
+<CHAPTER>caturdaśamo 'dhyāyaḥ</CHAPTER> 
+<TRCHAPTER>Chapter Fourteen</TRCHAPTER> 
+
+<SUBCHAPTER>deharūpavarṇabhedāni</SUBCHAPTER> 
+<TRSUBCHAPTER>Differences in body-shapes and skin-colours</TRSUBCHAPTER> 
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> atidīrgho 'tihrasvaś{ }ca pumān{ }kenopajāyate|</TEXT>
+        <APP>\va <LEM>°dīrgho</LEM> \msCa\msCb\msNa; dīgho \msCc, °dīrghā° \Ed</APP>
+        <TR>How does a person become extremely tall or very short?</TR>
+
+%index_grammar: unmetr licence hr
+
+<TEXT> atigauro 'tikṛṣṇaś{ }ca naro bhavati kiṃ prabho||</TEXT> 14:1
+        <TR>Why does one person have an extremely fair complexion,
+            and the other a very dark one, O Lord?</TR>
+
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> gṛhītagarbhā yā nārī nityam{ }uttānaśālinī|</TEXT>
+        <APP>\vb <LEM>°śālinī</LEM> \msCa\msNa\Ed; °śāyinī \msCb\msCc</APP>
+        <TR>If a pregnant woman always stands upright,</TR>
+
+<TEXT> prasāritavibhaktātmā so 'tidīrghaḥ prajāyate||</TEXT> 14:2
+        <APP>\vc <LEM>°bhaktā°</LEM> \mssCaCbCc\msNa; °muktā° \Ed</APP>
+        <APP>\vd <LEM>°dīrghaḥ</LEM> \msCa\msCb\msNa\Ed; °dīrgha \msCc</APP>
+        <TR>the son will have an expanded and symmetrical body,
+            and will be extremely tall.</TR>
+
+%folioinfo \Ed\ p.634
+<TEXT> gṛhītagarbhā yā nārī śete saṃkucitā sadā|</TEXT>
+        <TR>If a pregnant woman always lies down in a contracted posture,</TR>
+
+<TEXT> rasānnādīni kaṭukaṃ sevanā hrasva jāyate||</TEXT> 14:3
+        <APP>\vc <LEM>rasānnādīni</LEM> \eme; rasonnādīni \msCa\msCc\msNa\Ed, rasonnādī \msCb</APP>
+        <APP>\vd <LEM>sevanā</LEM> \msCa; sevanāḥ \msCb\msCc\Ed, sevanāt \msNa</APP>
+        <NOTE>Understand Łpāda$ c as Łrasānnādīni kaṭukāni$, and 
+              note the stem-form word Łhrasva$ metri causa in Łpāda$ d.</NOTE>
+        <TR>[and] indulges in pungent juices and food,
+            the son will be short.</TR>
+
+%index_grammar: number
+
+<TEXT> gṛhītagarbhā yā nārī nityaṃ kṣīropasevinī|</TEXT>
+        <APP>\vb <LEM>°sevinī</LEM> \mssCaCbCc\msNa; °sevitā \Ed</APP>
+        <TR>If a pregnant woman always drinks milk,</TR>
+
+<TEXT> varakodravaśālīṃś{ }ca bhuṅkte cāpi yavaudanam|</TEXT> 
+        <APP>\vc <LEM>°kodrava°</LEM> \msCa\msCb\msNa\Ed; °kodava° \msCc\oo
+                 <LEM>°śālīṃś{ }ca</LEM> \mssCaCbCc\msNa; °śālī ca \Ed</APP>
+        <APP>\vd <LEM>bhuṅkte</LEM> \mssCaCbCc\msNa; bhuktā \Ed\oo
+                 <LEM>yavau°</LEM> \msCa\msCb; yavo° \msCc\msNa\Ed</APP>
+        <TR>eats Łvara$ and Łkodrava$ grains, and rice, and 
+            barley-porrige,</TR>
+
+% sāti- ! for sa ati double sandhi
+<TEXT> śuklavastrasrajā yuktā sātigauraṃ prasūyate||</TEXT> 14:4
+        <APP>\ve <LEM>°srajā yuktā</LEM> \msCa\msCb\msNa\Ed; °jā devī \msCc</APP>
+        <APP>\vf <LEM>°sūyate</LEM> \msCa\msNa; °jāyate \msCb\msCc\Ed</APP>
+        <TR>wears white clothes and white garlands,
+            she will give birth to [offspring] with extremely pale complexion.</TR>
+
+<TEXT> gṛhītagarbhā yā nārī kāladhānyāni sevate|</TEXT>
+        <APP>\vb <LEM>kāladhānyāni°</LEM> \eme; kaladhānyāni° \mssCaCbCc,
+                                                kaladhyānāni \msNa,
+                                                valadhānyāni° \Ed</APP>
+        <TR>If a pregnant woman loves black-coloured grains,</TR>
+
+<TEXT> māṣakṛṣṇatilāmudgaṃ tathā kṛṣṇayavodanam|</TEXT>
+        <APP>\vcd <LEM!>māṣakṛṣṇatilāmudgaṃ tathā kṛṣṇayavodanam</LEM> \msCa\msCb\msNa;
+                                māṣākṛṣṇatilāmudgān{ }tathā kṛṣṇayavodanam \msCc,
+                                kṛṣṇakodravatailādi māṣakṛṣṇayavodanam \Ed</APP>
+        <TR>black beans, black sesamum, black Mungo beans, and  
+            porridge made of black barley,</TR>
+
+<TEXT> kṛṣṇavastrasrajādīni tasyāḥ kṛṣṇaḥ prajāyate||</TEXT> 14:5
+        <TR>[and wears] dark clothes and garlands,
+             she will have a son with dark skin.</TR>
+
+
+<SUBCHAPTER>jātidoṣāni</SUBCHAPTER>
+<TRSUBCHAPTER>Birth defects</TRSUBCHAPTER>
+
+%folioinfo \msCa\ 430.jpg, f. 217v
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> jātyandho jāyate kasmāt{ }ṣaṇḍho bhīrur{ }hatendriyaḥ|</TEXT>
+        <APP>\vab <LEM>kasmāt{ }ṣaṇḍho bhīrur{ }ha°</LEM> \msCa\msCb\msNa\Ed; 
+                                        kasmā<UNCL>tra ṣaṇḍhe</UNCL> bhīru ha° \msCc</APP>
+        <TR>Why is a person born blind, gender-neutral, timid, with 
+            ruined sense-faculties,</TR>
+
+<TEXT> kubjo vā vāmano vāpi paṇḍaḥ sthūlaśiraḥ katham||</TEXT> 14:6
+        <APP>\vc <LEM>kubjo</LEM> \mssCaCbCc\msNa; kujo \Ed</APP>
+        <APP>\vd <LEM>paṇḍaḥ</LEM> \mssCaCbCc\msNa; paṅgvaḥ \Ed\oo
+                 <LEM>sthūla°</LEM> \msCa\msCc\msNa\Ed; stūlaṃ \msCb\oo
+                 <LEM>°śiraḥ</LEM> \msCa\msCb\msNa\Ed; śira \msCc</APP>
+        <TR>hump-backed, dwarfish, a weakling, or with an enourmous head?</TR>
+
+
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+%folioinfo \msCb\ image 444.jpg, f. 221v
+<TEXT> gṛhītagarbhā yā nārī tīkṣṇoṣṇāny{ }upasevate|</TEXT>
+        <TR>If a pregnant woman indulges in hot and pungent [food],</TR>
+
+<TEXT> laśunāni palaṇḍūni karañjamūlakāni ca||</TEXT> 14:7
+        <APP>\vc <LEM>°palaṇḍūni</LEM> \mssCaCbCc\msNa; °palāṇḍūni \Ed</APP>
+        <TR>in garlic and onion, the root of the wood-apple tree,</TR>
+        <NOTE>palāṇḍūni is better</NOTE>
+
+<TEXT> pippalīṃ śṛṅgaveraṃ ca sarṣapān{ }maricāni ca|</TEXT>
+        <APP>\va <LEM>pippalīṃ</LEM> \msCa\msNa; pippalī° \msCb\msCc\Ed\oo
+                 <LEM>°veraṃ ca</LEM> \msCb\msCc\msNa\Ed; °vera\lac\ \msCa</APP>
+        <TR>berries, ginger, mustard, and black pepper,</TR>
+
+<TEXT> āsavaṃ ca parikliṣṭā ye cānye kaṭutiktakāḥ|</TEXT>
+        <APP>\vc <LEM>āsavaṃ ca</LEM> \mssCaCbCc\msNa; āsavaś{ }ca \Ed</APP>
+        <TR>alcohol, and other [types of] harmful[?], pungent 
+            and bitter [food],</TR>
+
+%folioinfo \msCc\ 234.jpg, f. 296v 
+<TEXT> tīkṣṇaṃ tu sevamānā yā jātyandhaṃ janayet{ }sutam||</TEXT> 14:8
+        <APP>\vf <LEM>°ndhaṃ janayet{ }sutam</LEM> \mssCaCbCc\msNa; °ndho jāyate sutaḥ \Ed</APP>
+        <TR>[i.e.] she who enjoys hot [food], will give birth to 
+            a blind child.</TR>
+
+<TEXT> mithyopacārāḥ strīpuṃso vyāpanne śukraśoṇite|</TEXT>
+        <APP>\va <LEM>mithyo°</LEM> \mssCaCbCc\msNa; mithyā° \Ed</APP>
+        <APP>\vb <LEM>°panne</LEM> \msCb\msCc\Ed; °pane \msCa\msNa</APP>
+        <TR>[If] the conduct[?] of the woman and the man is improper,
+            the semen and blood are spoiled.</TR>
+%Carakasaṃhitā, śārīrasthāne 8 (4.8.3) , tr. p813
+%srīpuṃsayor *avyāpannaśukraśoṇita*garbhāśayayoḥ śreyasīṃ prajām icchatos tadarthābhinirvṛttkiraṃ karmopadekṣyāmaḥ  ||  3  ||
+
+% trīpuṃsayos tu saṃyoge viśuddhe śukraśoṇite |
+% pañcadhātūn svayaṃ ṣaṣṭha ādatte yugapat prabhuḥ || YDh_3.72
+
+% https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana
+%1931 ed., 3.10.19bhavati cātra ||
+%mithyācārāt sūtikāyā yovyādhirupajāyate |
+%sa kṛcchrasādhyo 'sādhyo vā bhav
+
+<TEXT> yadā garbhāśaye raktaṃ striyāḥ pūrvaṃ niṣicyate|</TEXT>
+        <APP>\vc <LEM>yadā</LEM> \mssCaCbCc\msNapcorr\Ed; yadi \msNaacorr</APP>
+        <TR>When the woman's blood flows into the womb first,</TR>
+
+<TEXT> paścāc{ }chukraṃ raktakāle tadā ṣaṇḍaḥ prasūyate||</TEXT> 14:9
+        <APP>\vf <LEM>ṣaṇḍaḥ</LEM> \msCa\msCb\msNa\Ed; ṣaṇḍa \msCc\oo
+                 <LEM>°sūyate</LEM> \msCa\msCb\msNa; °jāyate \msCc\Ed</APP>
+        <TR>at the time of her period???, and then the semen, 
+           then a gender-neutral child will be born.</TR>
+
+%index_metre: ra-vipulā
+
+<TEXT> trastodvignā yadā bhītā strī puṃsā sūyate prajā|</TEXT>
+        <APP>\va <LEM>°dvignā</LEM> \msCa\msCb\msNa; °dvigno \msCc\Ed\oo
+                 <LEM>bhītā</LEM> \mssCaCbCc\msNa; bhīta° \Ed</APP>
+        <APP>\vb <LEM>puṃsā</LEM> \msCb; puṃsāṃ \msCa\msCc\msNa\Ed\oo
+                 <LEM>sūyate prajā</LEM> \msCa\msCb\msNa; sūpajāyate \msCc\Ed</APP>
+        <NOTE>puṃsāṃ is odd</NOTE>
+        <TR>When a woman is frightened, terrified, afraid of the man,
+                        and offspring is conceived,</TR>
+
+<TEXT> tatra yo jāyate garbhād{ }bhīruḥ krandanako bhavet||</TEXT> 14:10
+        <APP>\vcd <LEM>garbhād{ }bhīruḥ</LEM> \mssCaCbCc\msNa; garbhabhiruḥ \Ed</APP>
+        <TR>then what is born from her womb will be a coward, a crybaby.</TR>
+
+<TEXT> visargakāle śukrasya vighna utpadyate yadā|</TEXT> 
+        <APP>\va <LEM>visarga°</LEM> \mssCaCbCc\msNa; nisarga° \Ed</APP>
+        <TR>Should any obstacle arise in front of the semen at
+                the moment of ejaculation,</TR>
+
+<TEXT> indriyāvartavighne tu tadā jāyed{ }anindriyaḥ||</TEXT> 14:11
+        <APP>\vc <LEM>°vighne tu</LEM> \msCa\msCb\msNa\Ed; °vighnena \msCc</APP>
+        <APP>\vd <LEM>°nindriyaḥ</LEM> \mssCaCbCc\msNa; °tindriyaḥ \Ed</APP>
+        <TR>then [the child] will be born without any
+                 sense faculties because of the blocking of the development of the senses[????].</TR>
+% as if vivarta
+
+<TEXT> gṛhītagarbhā yā nārī vātalāny{ }upasevate|</TEXT>
+        <TR>If a pregnant woman indulges in eating pulses,</TR>
+
+<TEXT> kaṭukāni kaṣāyāni tiktāni ca viśeṣataḥ||</TEXT> 14:12
+        <TR>in pungent, astringent, and especially, bitter [food],</TR>
+
+<TEXT> vātaḥ prakupitas{ }tasyā garbham{ }ābhujya tiṣṭhati|</TEXT>
+        <APP>\vb <LEM>°bhujya</LEM> \mssCaCbCc\msNa; °ātuhya \Ed</APP>
+        <TR>her Łvāta$ humour will be agitated, and it will be pressing down
+                the womb.</TR>
+
+<TEXT> kubjas{ }tu jāyate tasmād{ }garbhād{ }vātanipīḍanāt||</TEXT> 14:13
+        <TR>A hump-backed child will be born from that
+            womb because of the compression of Łvāta$.</TR>
+
+%folioinfo \msM\ 434.jpg upper, f. 26v
+<TEXT> nityam{ }āsanaśīlā yā tathā cotkuṭakāsanā|</TEXT>
+        <APP>\va <LEM>nityam{ }āsana°</LEM> \msCa\msCc\msNa; nityam{ }ānasa° \msCb, nityasāsava° \Ed</APP>
+        <APP>\vb <LEM>cotkuṭakā°</LEM> \eme; cotkaṭukā° \msCa\msCc\msNa\Ed, cotkaṭakā° \msCb</APP>
+        <TR>She who is always sitting or squatting</TR>
+
+<TEXT> tasyāḥ saṃhanyate garbho vāmanas{ }tena jāyate||</TEXT> 14:14
+        <APP>\vc <LEM>tasyāḥ</LEM> \mssCaCbCc\msNa; tasyā \Ed</APP>
+        <TR>will crush the embryo, which will by this be born a dwarf.</TR>
+
+
+%folioinfo: \msNa\ 218.jpg lower, f. 25r
+<TEXT> ativyāyāmaśīlā tu yā nārī viṣamāsanī|</TEXT>
+        <APP>\vb <LEM>°sanī</LEM> \msCa\msCbpcorr\msCc\msNa\Ed; °sanā \msCbacorr</APP>
+        <TR>If a woman exercises too much, [or often] sits in an unbalanced way,</TR>
+
+<TEXT> garbhaḥ saṃkṣubhyate tasyāḥ paṇḍas{ }tenopajāyate||</TEXT> 14:15
+        <APP>\vc <LEM>garbhaḥ</LEM> \mssCaCbCc\Ed; garbha \msNa</APP>
+        <APP>\vd <LEM>paṇḍa°</LEM> \mssCaCbCc\msNa; paṣaṇḍa° \Ed</APP>
+        <TR>her womb will be shaken, and by this a weakling will be born.</TR>
+
+%folioinfo \Ed\ p.635
+<TEXT> gṛhītagarbhā yā nārī rūḍhadhānyāni sevate|</TEXT>
+        <APP>\vb <LEM>rūḍhadhānyāni</LEM> \msCa\msCc\msNa; rūḍhadhānāni \msCb, rūkṣadhānyāni \Ed</APP>
+        <TR>If a pregnant woman indulges in grain that is sprouting[?],</TR>
+
+%folioinfo \msM\ 434.jpg lower, f. 27r
+<TEXT> vātaśleṣmā śirastho vai tasya garbhasya kupyate|</TEXT> 
+        <APP>\vc <LEM>°śleṣmā</LEM> \msCc; °śleṣma \msCa\msCb\msNa\Ed</APP>
+        <APP>\vd <LEM>tasya</LEM> \msCa\msCb\msNa; tasyā \msCc\Ed</APP>
+        <TR>the Wind and Phlegm in the the embryo's head will swell up.</TR>
+
+<TEXT> tataḥ sthūlaśirās{ }tena pumān{ }jāyaty{ }asaṃśayaḥ||</TEXT> 14:16
+        <APP>\ve <LEM>°śirās{ }tena</LEM> \msCa\msCb\msNa\Ed; °śiras{ }tena \msCc</APP>
+        <TR>Then, because of this, a man with an enormous head will be born, no doubt.</TR>
+
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> karālāṅgā hanuḥ paṅgur{ }mūko gadgadabhāṣakaḥ|</TEXT>
+        <APP>\va <LEM>°lāṅgā</LEM> \msCa\Ed; °logo \msCb, °lāṃso \msCc, °lāgo \msNa\oo
+                 <LEM>paṅgur{ }mūko</LEM> \msCa\msCb\msNa; paṅgumūko \msCc, paṅgūr{ }mūko \Ed</APP>
+        <TR>How can [a person] be born with terrible limbs, with a terrible jaw[?],
+            as lame, a mute, stammering,</TR>
+
+<TEXT> vivṛtākṣas{ }tv{ }anakṣo vā bhaved{ }duḥkhagudaḥ katham||</TEXT> 14:17
+        <APP>\vc <LEM>vivṛtā°</LEM> \mssCaCbCc\msNa; vikṛtā° \Ed</APP>
+        <APP>\vd <LEM>bhave°</LEM> \msCa\msCb\msNa; dbhave° \msCc, bhava° \Ed\oo
+                 <LEM>°d{ }duḥkha°</LEM> \mssCaCbCc\msNa; °d{ }rasva° \Ed</APP>
+        <TR>[always] open-eyed, or eyeless, or having a painful anus?</TR>
+
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> karālastanadoṣeṇa jāyate mānavas{ }tathā|</TEXT>
+        <APP>\va <LEM>°stana°</LEM> \mssCaCbCc\msNa; °stena° \Ed</APP>
+        <TR>It is by the fault of [the mother's] having terrible[/deformed] breasts that
+            a man is born like that [i.e. with terrible limbs].</TR>
+
+% unmetrical
+<TEXT> atha karālaṃ kurute nārī lamboticūcukā|</TEXT>
+        <TR>Now, a woman with extremely dangling nipples does terrible things[???].</TR>
+
+<TEXT> tasmād{ }etena doṣeṇa karālo jāyate pumān||</TEXT> 14:18
+        <APP>\ve <LEM>°d{ }etena</LEM> \mssCaCbCc\msNa; °d{ }anena \Ed</APP>
+        <TR>Therefore, by this fault, a terrible man is born.</TR>
+
+<TEXT> gṛhītagarbhā yā nārī raktapittāmayārditā|</TEXT>
+        <TR>If a pregnant woman is afflicted by diseases of 
+                the blood and the Pitta,</TR>
+
+<TEXT> gohanuṃ janayaty{ }eṣā raktapittaprakopitā||</TEXT> 14:19
+        <APP>\vc <LEM>°hanuṃ</LEM> \msCa\msCb\msNa\Ed; °hanu \msCc\oo
+                 <LEM>janaya°</LEM> \mssCaCbCc\msNa; janaye° \Ed</APP>
+        <APP>\vd <LEM>°kopitā</LEM> \eme; kopitāḥ \msCa, °kopitaḥ \msCb\msNa\Ed, °kopataḥ \msCc</APP>
+        <TR>having her blood and Pitta irritated, she will give birth
+            to a child with a cow's jaw[??].</TR>
+
+%folioinfo \msCa\ 431.jpg, f. 218r
+<TEXT> gṛhītagarbhā yā nārī vātaśūlair{ }upadrutā|</TEXT>
+        <APP>\vb <LEM>°drutā</LEM> \mssCaCbCc\Ed; °drutaiḥ \msNa</APP>
+        <TR>If a pregnant woman is pained by flatulence,</TR>
+
+%lacuna_start: msCc
+<TEXT> śukrodāvartanī cāpi paṅguṃ janayate sutam||</TEXT> 14:20
+        <APP>\vd <LEM>paṅguṃ</LEM> \msCa\msCb\msNa; paṅgū \Ed</APP>
+        <LACUNA>\vo Ł\msCc\ breaks of here (f.~296v) after$ śukro; Łthe next folio is 306r, starting with$
+                                         carmatāś{ }ca dvijasundarīṣu Ł(18.28b)$.</LACUNA> 
+        <TR>or retains her menstrual discharge, she will give birth to 
+             a lame child.</TR>
+
+<TEXT> kṣudhārtā vedanārtā ca satataṃ copavāsinī|</TEXT>
+        <APP>\vb <LEM>satataṃ</LEM> \msCa\msCb\msNa; \Ed</APP>
+        <TR>If she is afflicted by thirst and pain, 
+            and always fasts,</TR>
+
+<TEXT> mūkaṃ janayate putraṃ dauhṛdaṃ ca vimānitā||</TEXT> 14:21
+        <APP>\vc <LEM>mūkaṃ</LEM> \msCa\msNa\Ed; mūlakaṃ \msCb\oo
+                 <LEM>putraṃ</LEM> \msCa\msCb\msNa; bālaṃ \Ed</APP>
+        <APP>\vd <LEM>°hṛdaṃ ca</LEM> \msCa\msNa; °rhṛdaṃ \msCb, °hṛdaś{ }ca \Ed</APP>
+        <NOTE>Cf. Suśruta 3.3.21:
+                       Łyeṣu yeṣv indriyārtheṣu dauhṛde vai vimānanā |
+                        prajāyeta sutasyārtis tasmiṃst asmiṃs tathendriye||.$
+                Yājñavalkya 3.79:
+        Łdauhṛdasyāpradānena garbho doṣam avāpnuyāt |
+         vairūpyaṃ maraṇaṃ vāpi tasmāt kāryaṃ priyaṃ striyāḥ ||$</NOTE>
+        <TR>she will give birth to a mute, her longings of pregnancy (Łdauhṛda$) having been refused.</TR>
+
+<TEXT> gṛhītagarbhā yā nārī visṛjen{ }māsamāsikam|</TEXT>
+        <APP>\vb <LEM>māsamāsikam</LEM> \msCa\msCb\Ed; māsimāsikaṃ \msNa</APP>
+        <TR>If a pregnant woman discharges [menstrual blood] every month,</TR>
+
+<TEXT> anakṣo jāyate tasyā garbhaśoṇitasaṃkṣayāt||</TEXT> 14:22
+        <APP>\vc <LEM>tasyā</LEM> \msCa\msCb\Ed; tasyāḥ \msNa</APP>
+        <TR>she will give birth to a blind child due to the damage
+            made by the blood to the embryo.</TR>
+
+<TEXT> arśagrastā yadā nārī vātodāvartapīḍitā|</TEXT>
+        <APP>\va <LEM>arśa°</LEM> \conjSzanto; arṣa° \msCa\msCb\msNa, atha \Ed</APP>
+        <TR>If a pregnant woman is afflicted by h\ae morrhoids, and is pained by
+                        bowel diseases caused by Wind (Łvāta$),</TR>
+
+<TEXT> gṛhītagarbhā rūkṣāṇi vātalāny{ }upasevate||</TEXT> 14:23
+        <APP>\vc <LEM>rūkṣāṇi</LEM> \msCa\msCb; yā nārī \msNa, rukṣāṇi \Ed</APP>
+        <APP>\vd <LEM>°lāny{ }upa°</LEM> \msCa\msCbpcorr\msNa\Ed; °lāny{ }u° \msCbacorr</APP>
+        <TR>and indulges in astringent [foods and?] pulses,</TR>
+
+%index_metre: ma-vipulā
+
+<TEXT> vātasthānaṃ tatas{ }tasyā garbhasyāpīḍitaṃ bhavet|</TEXT>
+        <TR>Because of this, the location of the Wind in her 
+            womb becomes compressed.</TR>
+
+%lacuna_start: msCb
+<TEXT> agudo jāyate tasmāj{ }jātaś{ }cāpi na jīvati||</TEXT> 14:24
+        <APP>\vd <LEM>°taś{ }cāpi</LEM> \msCa\Ed; °taṃ cā \msNa</APP>
+        <LACUNA>\vcd Łmissing in \msCb$</LACUNA>
+        <TR>Therefore [the child] will be born without an anus, but
+            even if it is born, it will not survive.</TR>
+
+%lacuna_end: msCb
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> hīnāṅgo jāyate kasmād{ }adhikāṅgo 'pi vā katham|</TEXT>
+        <TR>Why is a child born without limbs or with extra limbs?</TR>
+
+<TEXT> śvetapiṅgekṣaṇaḥ kasmāt{ }kathaṃ lohitalocanaḥ||</TEXT> 14:25
+        <TR>Why will it have white or yellowish eyes or red eyes?</TR>
+
+%folioinfo \msCb\ image 445.jpg, f. 222r
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> garbhasya jāyamānasya yad{ }aṅge jāyate 'nilaḥ|</TEXT>
+        <APP>\vb <LEM>nilaḥ</LEM> \msCa\msNa\Ed; niḥ \msCb</APP>
+        <TR>If Wind is produced in any of the limbs of the embryo that is being
+            formed,</TR>
+
+<TEXT> vātābhyāṃ śleṣmaṇā tasya tad{ }aṅgaṃ parihīyate|</TEXT> 
+        <NOTE>Understand Łvātābhyāṃ śleṣmaṇā$ in Łpāda$ c as
+              Łśleṣmavātābhyāṃ$?</NOTE>
+        <TR>that limb of his will lack Wind (Łvāta$) and Phlegm (Łśleṣman$),</TR>
+
+<TEXT> hīnāṅgo jāyate tasmāt{ }pumān{ }vātaprakopataḥ||</TEXT> 14:26
+        <TR>and therefore that human will be born lacking a limb
+            because of the disturbance of Wind.</TR>
+
+<TEXT> gṛhītagarbhā yā nārī madhurāṇy{ }upasevate|</TEXT> 
+        <TR>If a pregnant woman indulges in sweets,</TR>
+
+%folioinfo \Ed\ p.636
+%OR gāloḍya? seed of the lotus; or giloḍya
+<TEXT> śṛṅgāṭakāṅkaloḍyāni śālūkāni bisāni ca||</TEXT> 14:27
+        <APP>\vc <LEM>°kāṅkaloḍyāni</LEM> \conj; °kakalontyāni \msCa\msCb, °kalontyāni \msNa, °kakalotyāni \Ed</APP>
+        <TR>Łśṛṅgāṭaka$-fruits, ginger, lotus-roots, lotus-stalks,</TR>
+%Caraka:
+%śṛṅgāṭakāṅkaloḍyaṃ ca guru viṣṭambhi śītalam  
+%kumudotpalanālāstu sapuṣpāḥ saphalāḥ smṛtāḥ  ||  117  ||
+
+<TEXT> mocaṃ tālaphalaṃ caiva nārikelaphalaṃ tathā|</TEXT> 
+        <TR>bananas, the fruit of the fan-palm, and coconut,</TR>
+
+<TEXT> abhīkṣṇaṃ sevamānā tu adhikāṅgaṃ prasūyate||</TEXT> 14:28
+        <APP>\vc <LEM>abhīkṣṇaṃ</LEM> \msCa\msCb\msNa; atīkṣṇaṃ \Ed</APP>
+        <TR>constantly eating these, she will give birth to [a child] with
+            extra limbs.</TR>
+
+<TEXT> piṅgākṣaḥ śleṣmapittābhyāṃ śvetākṣaḥ śleṣmaṇā bhavet|</TEXT> 
+        <APP>\va <LEM>piṅgākṣaḥ</LEM> \msCa\msCb\Ed; piṅgākṣaṃ \msNa</APP>
+        <TR>Phlegm and Pitta will cause the child to have yellowish eyes,
+            Phlegm [in itself] will cause white eyes.</TR>
+
+%folioinfo: \msNa\ 219.jpg upper, f. 25v
+<TEXT> vātapittena raktākṣaḥ puruṣas{ }tūpajāyate||</TEXT> 14:29
+        <APP>\vd <LEM>puruṣas{ }tū°</LEM> \msCa\msCb\msNa; puruṣasū° \Ed</APP>
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> kathaṃ vā jāyate putraḥ kanyakā kena jāyate|</TEXT>
+        <TR>What determines whether a son or a daughter is born?</TR>
+
+<TEXT> apumān{ }kena jāyeta dviyamā triyamā tathā||</TEXT> 14:30
+        <TR>Why is a non-man [a gender-neutral child] born or twins and triplets?</TR>
+
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> śukrādhikaḥ pumān{ }jñeyaḥ kanyā raktādhikā bhavet|</TEXT>
+        <APP>\va <LEM>°dhikaḥ</LEM> \msCb\msNa\Ed; °dhika \msCa</APP>
+        <TR>A male is to be known as having an excess of semen.
+            A female has an excess of blood.</TR>
+
+<TEXT> raktaśukrasamatvena jāyate sa napuṃsakaḥ||</TEXT> 14:31
+        <TR>A gender-neutral child is born because of a
+            balance of blood and semen.</TR>
+
+<TEXT> piṇḍībhūto yadā garbhaṃ māruto vibhajed{ }dvidhā|</TEXT>
+        <APP>\va <LEM>°bhūto</LEM> \msCa\msNa\Ed; °bhūta \msCb\oo
+                 <LEM>garbhaṃ</LEM> \msCa\msCb\msNa; garbha \Ed</APP>
+        <APP>\vb <LEM>māruto</LEM> \msCa\msCb\msNa; mārutau \Ed\oo
+                 <LEM>°bhajed{ }dvi°</LEM> \msCa\msCb\msNa; °bhaved{ }dvi° \Ed</APP>
+        <TR>When the embryo is still a lump, the Wind can divide it into two.</TR>
+
+<TEXT> evaṃ te dviyamā jñeyās{ }triyamāś{ }ca tridhā kṛte||</TEXT> 14:32
+        <APP>\vd <LEM>°yamāś{ }ca</LEM> \msCa\msCb\msNa; °yamā ca \Ed</APP>
+        <TR>This is what is to be know as twins. When divided into three, it is triplets.</TR>
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> śoṇitaṃ māṃsa medaṃ ca asthi majjā ca pañcamī|</TEXT>
+        <APP>\va <LEM>medaṃ ca</LEM> \msCa\msCb\msNa; medaś{ }ca \Ed</APP>
+        <TR>The blood, the flesh, the fat, the bones, and the fifth, the marrow,</TR>
+
+<TEXT> śarīrasthāni dṛśyante śukrasthānaṃ na dṛśyate||</TEXT> 14:33
+        <APP>\vc <LEM>śarīra°</LEM> \msCapcorr\msCb\msNa\Ed; śarī° \msCaacorr</APP>
+        <TR>can be seen in the body. The location of semen cannot be seen.</TR>
+
+<TEXT> tasyopapatti sthānaṃ ca jñātum{ }icchāmi tattvataḥ|</TEXT>
+        <APP>\va <LEM!>tasyotpattiś{ }ca sthānaṃ ca</LEM> \msCa\msCb\msNa; tasyotpattiś{ }ca sthānaṃ ca \Ed</APP>
+        <TR>I wish to know about its production and location truly.</TR>
+
+<TEXT> kathayasva trilokeśa cchettum{ }arhasi saṃśayam||</TEXT> 14:34
+        <APP>\vd <LEM>°śayam</LEM> \msCa\msCb\msNa; °śayaḥ \Ed</APP>
+        <TR>O Trilokeśa, please put an end to my doubts.</TR>
+
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> manaḥ śukrasya prabhavaṃ ghrāṇaṃ śrotraṃ tathākṣiṇī|</TEXT>
+        <APP>\vb <LEM!>ghrāṇaṃ śrotraṃ tathākṣiṇī</LEM> \msCb\Ed; ghrā\lk\lk\lk\lk\lk<UNCL>kṣiṇī</UNCL> \msCa,
+                                                ghrāṇaṃ srotra sravākṣiṇī \msNa</APP>
+        <NOTE>Łprabhava$ used oddly?</NOTE>
+        <TR>Semen is the origin of the mind (Łmanas$), the nose, the ears, and the eyes.</TR>
+
+%folioinfo \msCa\ 432.jpg, f. 218v
+<TEXT> sthānaṃ tu sarvāṅgagataṃ sparśāt{ }sparśaḥ pravartate||</TEXT> 14:35
+        <APP>\vc <LEM!>sthānaṃ tu sarvāṅgasataṃ</LEM> \msNa; <UNCL>sthānan{ }tu sarvvā</UNCL>\lk taṃ\lk\ \msCa,
+                                                        sthānan{ }tu sarvāṅgataṃ \msCb,
+                                                        sthānaṃ tu sarvāṅgasama° \Ed</APP>
+        <APP>\vd <LEM>sparśāt{ }spa°</LEM> \msNa\Ed; \lk rśāt{ }spa° \msCa, sparśāḥ spa° \msCb</APP>
+        <TR>As for its location, it is in everywhere in the body. ...... </TR>
+
+%                               payaso?
+<TEXT> yathā niṣiktaṃ kṣīraṃ tu payasā dadhi jāyate|</TEXT>
+        <APP>\vb <LEM>payasā dadhi</LEM> \msCa\msCb; payaso dadhi \msNa, payasād{ }dadhi° \Ed</APP>
+        <TR>Just as milk sprinkled with thickened milk[?] becomes yoghurt,</TR>
+
+<TEXT> pramathyamānadadhnas{ }tu sarpiso 'pi tathāgamaḥ||</TEXT> 14:36
+        <APP>\vc <LEM>°māna°</LEM> \msCa\msNa\Ed; °mānaṃ \msCb</APP>
+        <TR>and just as butter comes out of churned coagulated milk,</TR>
+
+% stem form? śarīra
+<TEXT> evaṃ śarīraṃ nirmanthec{ }chukraṃ śukravahā sirā|</TEXT>
+        <APP>\va <LEM>śarīraṃ</LEM> \msCa; śarīra \msCb\msNa\Ed</APP>
+        <APP>\vab <LEM>nirmanthec{ }chukraṃ</LEM> \msCa\msCb\msNa; nirgaccet śukraṃ \Ed</APP>
+        <APP>\vb <LEM>sirā</LEM> \msCa\msCb\msNa; śirāḥ \Ed</APP>
+        <TR>thus does semen churn out the body; the tube that carries the semen</TR>
+
+%Suśruta
+%3.2.45| anayā viprakṛtyā tu teṣāṃ śukravahāḥ sirāḥ||
+%        harṣāt sphuṭatvamāyānti dhvajocchrāyastato bhavet||
+
+<TEXT> pūrayitvānupūrveṇa asthayo pratipadyate||</TEXT> 14:37
+        <APP>\vc <LEM>°nu°</LEM> \msCb\Ed; tu \msCa\msNa</APP>
+        <TR>fills [the body] in due order, and the bones are formed.</TR>
+
+%index_grammar: asthayo for asthīni
+% end is unmetr
+<TEXT> tatas{ }tu tāḥ śukravahā meḍhranāḍīm{ }anusṛtāḥ|</TEXT>
+        <APP>\vb <LEM!>meḍhranāḍīm{ }anusṛtāḥ</LEM> \msNa; \lk\lk\lk\lk\lk <UNCL>nusṛtāḥ</UNCL> \msCa,
+                                                                         meḍhrānāḍīm{ }anusmṛtāḥ \msCb, 
+                                                                         meḍhranābhīm{ }anusṛtāḥ \Ed</APP>
+        <TR>Then those [tubes] that carry the semen and join the tube of the penis,</TR>
+
+%folioinfo \msM\ 435.jpg upper, f. 27v
+<TEXT> na śukratantu siñcanti tasmād{ }garbhasya sambhavaḥ||</TEXT> 14:38
+        <APP>\vc <LEM>na śukratantu</LEM> \msCa; na śukran{ }tantu \msCb\msNa,
+                                         nāśukraṃ tat{ }tu \Ed</APP>
+        <TR>.... and the f\oe tus is formed.</TR>
+%folioinfo \Ed\ p.637
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> kathaṃ vedayate jātiṃ kathaṃ jātismaro bhavet|</TEXT>
+        <APP>\va <LEM>kathaṃ</LEM> \msCa\msNa\Ed; katha \msCb\oo
+                 <LEM>jātiṃ</LEM> \msCa\msCb\msNa; jāti \Ed</APP>
+        <TR>How does one experience birth? How can one remember one's birth?</TR>
+
+% note the vocative to Śiva
+<TEXT> etasmin{ }saṃśayaṃ me 'dya chettum{ }arhasi śaṅkara||</TEXT> 14:39
+        <TR>O Śaṅkara, please put an end now to my doubts about this topic.</TR>
+
+% EDDIG \msNa
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> bhāvitātmā ca yo jantur{ }devi bhāgādhikaṃ ca yat|</TEXT>
+        <APP>\va <LEM>°tmā</LEM> \msCa\msCb\msNa; °tmāṃ \Ed</APP>
+        <APP>\vab <LEM>jantur{ }de°</LEM> \msCa\msCb\Ed; jantu de° \msNa</APP>
+        <APP>\vb <LEM>bhāgā°</LEM> \msCa\msCb\msNa; bhogā° \Ed</APP>
+        <TR>A man whose soul is lofty, O Devī, ..... </TR>
+
+<TEXT> buddhivijñānasaṃyuktaḥ sa jātiṃ smarate pumān||</TEXT> 14:40
+        <APP>\vc <LEM>buddhvijñāna°</LEM> \msCa\msCb\msNa; brahmavid{ }jñāna° \Ed\oo
+                 <LEM>°yuktaḥ</LEM> \msCa\msCb\Ed; °yuktaṃ \msNa</APP>
+        <APP>\vd <LEM>pumān</LEM> \msCb\msNa\Ed; <UNCL>puman</UNCL> \msCa</APP>
+        <TR>is endowed with intelligence and wisdom, can remember [his previous] birth.</TR>
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> kathaṃ sadyogṛhītasya liṅgaṃ garbhasya dṛśyate|</TEXT>
+        <APP>\vb <LEM>liṅgaṃ</LEM> \msCa\msCb\msNa; liṅga° \Ed</APP>
+        <TR>How can the signs of a f\oe tus just having been conceived be seen?</TR>
+
+<TEXT> etat{ }kathaya deveśa rahaḥ kāle maheśvara||</TEXT> 14:41
+        <APP>\vd <LEM>rahaḥ kāle</LEM> \msCb\Ed; raha<UNCL>tkā</UNCL>le \msCa, rahaṃ kāle \msNa</APP>
+        <TR>O Deveśa, O Maheśvara, tell me this secret in due time.</TR>
+
+<TEXT> maheśvara uvāca|*</TEXT>
+        <APP>\vo <LEM>maheśvara</LEM> \msCa\msCb\msNa; bhagavān \Ed</APP>
+        <TR>Maheśvara spoke:</TR>
+
+%                                     for sādanam
+<TEXT> pipāsāromaharṣaś{ }ca vepanaṃ gātrasīdanam|</TEXT>
+        <APP>\va <LEM>°harṣaś{ }ca</LEM> \msCa\msCb\msNa; °harṣaṃ ca \Ed</APP>
+        <TR>Thirst, bristling of the hairs of the body, trembling, exhaustion of the limbs,</TR>
+% Mitākṣarā ad Yājñ 3.79:
+%sadyogṛhītagarbhāyāḥ śramo glāniḥ pipāsā sakthisīdanaṃ śukraśoṇitayor avabandhaḥ sphuraṇaṃ ca yoneḥ ityādi tatraivoktam || 3.79
+
+<TEXT> nidrāsvedaṃ ca tandrī ca muhūrtam{ }upajāyate||</TEXT>14:42
+        <APP>\vc <LEM>tandrī</LEM> \msCa\msCb\msNa; tandrā \Ed</APP>
+        <TR>sweating in sleep, and lassitude, appears in a moment.</TR>
+
+<TEXT> nikledatvaṃ kharatvaṃ ca yonyāṃ samupajāyate|</TEXT>
+        <APP>\vb <LEM>yonyāṃ sa°</LEM> \msCa\msCb\msNa; yonyāt{ }sa° \Ed</APP>
+        <TR>Wetness[?] and pain[?] appear in the vagina.</TR>
+
+<TEXT> na cārtavaṃ vai dṛśyeta śukrasya rajaso 'pi vā| </TEXT>
+        <APP>\vc <LEM>cārtavaṃ vai</LEM> \msCa\msCb; cārtavaṃ \msNa, cārdravaṃm{ }vai \Ed\oo
+                 <LEM>dṛśyeta</LEM> \msCb\msNa\Ed; dṛ\lk\lk\ \msCa</APP>
+        <TR>But no discharge is seen, neither of semen, nor of blood.</TR>
+
+<TEXT> sadyogṛhītagarbhāyā liṅgāny{ }etāni tattvataḥ||</TEXT> 14:43
+        <TR>These are the true signs when a f\oe tus has just been conceived.</TR>
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> kena liṅgena vijñeyaṃ putrajanma maheśvara|</TEXT>
+        <TR>By what signs can the conception of a son be recognized, 
+            O Maheśvara?</TR>
+
+<TEXT> kanyakā kena liṅgena jāyate kathayasva me||</TEXT> 14:44
+        <APP>\vd <LEM>jāyate</LEM> \msCa\msCb\msNa; jñāyate \Ed</APP>
+        <TR>By what sign is [it clear that] a daughter is going to be born? Teach me.</TR>
+
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+%folioinfo: \msNa\ 219.jpg lower, f. 26r
+<TEXT> yadorujaṅghapārśvaṃ ca dakṣiṇaṃ yadi hy{ }unnatam|</TEXT>
+        <APP>\va <LEM>yadorujaṃgha°</LEM> \msCb\msNa; yadorujarghya° \msCa, pādorujaṅgha° \Ed\oo
+                 <LEM>°pārśvaṃ ca</LEM> \msCa\msCb\msNa; °pārśvaś{ }ca \Ed</APP>
+        <APP>\vb <LEM>°nnatam</LEM> \msCa\msCb\msNa; °nnataḥ \Ed</APP>
+        <TR>When and if the right foot, thigh, and side are swollen,</TR>
+
+<TEXT> dakṣiṇaṃ vipulaṃ netraṃ tadā putraḥ prajāyate||</TEXT> 14:45
+        <APP>\vc <LEM>netraṃ</LEM> \msCa\msCb\msNa; tatra \Ed</APP>
+        <APP>\vd <LEM>putraḥ</LEM> \msCa\msCb\Ed; putraṃ \msNa\oo
+                 <LEM>prajāyate</LEM> \msCb\msNa\Ed; prajā\lk te \msCa</APP>
+        <TR>and the right eye is widened, a son will be born.</TR>
+
+<TEXT> vāmaṃ caiva yadā paśyet{ }tadā jāyeta kanyakā|</TEXT>
+        <APP>\va <LEM>vāmaṃ caiva</LEM> \msCa\msCb\msNa; vāmaś{ }caiva \Ed</APP>
+        <APP>\vb <LEM>jāyeta ka°</LEM> \msCb\msNa\Ed; jāyet{ }ka° \msCa</APP>
+        <TR>When the left [side] is seen [as swollen], then 
+            a daughter will be born.</TR>
+
+<TEXT> unnataṃ madhyamasthānaṃ tadā jāyen{ }napuṃsakaḥ||</TEXT> 14:46
+        <APP>\vd <LEM>madhyama°</LEM> \msCa\msCb\Ed; madhya<UNCL>maṃ</UNCL> \msNa\oo
+                 <LEM>°sthānaṃ</LEM> \msCa\msCb\msNa; sthāś{ }ca \Ed</APP>
+        <APP>\vd <LEM>jāyen{ }na</LEM> \msCa\msNa\Ed; jāyeta na \msCb\oo
+                 <LEM>°puṃsakaḥ</LEM> \msCa\msCb\msNa; °puṃsakam \Ed</APP>
+        <TR>When the middle part of the body is swollen, then 
+            a gender-neutral child will be born.</TR>
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+%                   shd be khalati...
+<TEXT> puṃsāṃ kapolaromāni khalitaṃ kena jāyate|</TEXT>
+        <APP>\va <LEM>puṃsāṃ</LEM> \msCa\msCb\msNa; puṃsā \Ed\oo
+                 <LEM>°romāni</LEM> \msCa\msNa\Ed; °rogāni \msCb</APP>
+        <TR>Why does beard and baldness arise for men and</TR>
+
+<TEXT> kathaṃ strīṇāṃ na jāyeta romāṇi khalitaṃ tathā||</TEXT> 14:47
+        <TR>not for women?</TR>
+
+%folioinfo \Ed\ p.638
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> tathā vṛṣaṇagā jantor yasya retovahā sirā|</TEXT>
+        <APP>\vb <LEM>sirā</LEM> \msCa\msCb\msNa; śiraḥ \Ed</APP>
+        <TR>Men have a tube that carries the semen from the testicles.</TR>
+
+<TEXT> nibaddhā mastake tās{ }tu kapolās{ }tu samāśritāḥ||</TEXT> 14:48
+        <APP>\vc <LEM>tās{ }tu</LEM> \msCa\msCb\msNa; tālu \Ed</APP>
+        <TR>They are connected to the head, and the cheeks.</TR>
+
+% taif in \msCa
+<TEXT> taiḥ kapoleṣu romāṇi jāyante antaretasaḥ|</TEXT>
+        <APP>\va <LEM>romāṇi</LEM> \msCa\msCb\msNapcorr\Ed; \om\ \msNaacorr</APP>
+        <TR>There on the cheeks, hair grows because there is semen inside.</TR>
+
+<TEXT> khalitaṃ śukradoṣeṇa narāṇām{ }upajāyate||</TEXT> 14:49
+        <TR>Baldness arises by the defect of men's semen.</TR>
+
+%                                santy?
+<TEXT> sirā śukravahā strīṇāṃ na syād{ }yasmān{ }na jāyate|</TEXT>
+        <APP>\vb <LEM>syād{ }yasmān{ }na</LEM> \conj; śūnyasmānna \msCa\msCb\msNa, śūnyasyānna \Ed</APP>
+        <TR>Women do not have a tube that carries semen, therefore...  </TR>
+
+<TEXT> yo tmāṣālo ca kas{ }tv{ }agnir{ }dṛṣṭimaṇḍalasaṃśritaḥ||</TEXT> 14:50
+        <APP>\vc <LEM>yotmāṣālo ca</LEM> \msCa; yotmā vālo ca \msCb, yonmayāloma \msNa, yātmāpālo ca \Ed</APP>
+        <APP>\vd <LEM>kas{ }tv{ }agnir{ }dṛ°</LEM> \msCa\msCb\msNa; kās{ }tv{ }agni dṛ° \Ed</APP>
+        <TR>...</TR>
+
+<TEXT> śoṇitaṃ soktikoṣṭasthan{ }niśoṣayati tattvataḥ|</TEXT>
+        <APP>\va <LEM>śoṇitaṃ</LEM> \msCa\msCb\msNa; śoṇitai \Ed</APP>
+        <APP>\vab <LEM>soktikoṣṭasthan{ }ni°</LEM> \Ed; so\lk\lk ṣṭastha ni° \msCa, sokṣikoṣṭhasthan{ }ni° \msCb,
+                                                                 sokṣikoṣṭhasthaṃ ni° \msNa</APP>
+        <TR>...</TR>
+
+%folioinfo \msCa\ 433.jpg, f. 219r
+<TEXT> na vardhante 'kṣipakṣmāṇi tena romāṇi ca bhruvoḥ||</TEXT> 14:51
+        <APP>\vc <LEM>na vardhante 'kṣi</LEM> \msCa\msCb\msNa; nibaddhanty{ }akṣi° \Ed</APP>
+        <APP>\vd <LEM>bhruvoḥ</LEM> \msCa\msCb\Ed; bhruvo \msNa</APP>
+        <TR>That is why the eyelashes and the eyebrows do not grow.</TR>
+
+<TEXT> aśukratvāc{ }ca nārīṇāṃ khalitaṃ nopajāyate|</TEXT>
+        <TR>Since they have no semen, women do not experience baldness.</TR>
+
+%folioinfo \msM\ 435.jpg lower, f. 28r
+<TEXT> chāyāvyapagatasnehā rūkṣāgātraśiroruhā|</TEXT>
+        <APP>\vd <LEM>rūkṣā°</LEM> \msCa\msCb\msNa; rukṣā \Ed</APP>
+        <TR>...</TR>
+
+%                               garbhaf \msCa
+<TEXT> udbhūtosmābhajaṭharā mṛtagarbhaḥ prajāyate||</TEXT> 14:52
+        <APP>\ve <LEM>udbhūtosmābha°</LEM> \msCa\msNa; udbhūtommabh° \msCb, grasatosmābha \Ed\oo
+                 <LEM>°jaṭharā</LEM> \msCa\msCb\Ed; °jaṭharo \msNa</APP>
+        <TR>...</TR>
+
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> somadhātu kati jñeyā agnidhātus{ }tatheśvara|</TEXT>
+        <APP>\va <LEM>kati</LEM> \msCa\msNa; °ka vi° \msCb, kathaṃra \Ed</APP>
+        <APP>\vb <LEM>°theśvara</LEM> \msCa\msNa\Ed; °thaiva ca \msCb</APP>
+        <TR>How many are the Soma constituents, and how many the Fire ones,
+            O Īśvara?</TR>
+
+<TEXT> pṛthagbhāgaviśeṣeṇa kathayasva maheśvara||</TEXT> 14:53
+        <TR>O Maheśvara, tell me with all the characteristics of 
+             the distinct elements.</TR>
+
+
+<TEXT> maheśvara{ }uvāca|*</TEXT>
+        <APP>\vo <LEM>maheśvara</LEM> \msCa\msCb\msNa; bhagavān \Ed</APP>
+        <TR>The Maheśvara spoke:</TR>
+
+<TEXT> śleṣmā medas{ }tathā snāyu asthi danta nakhāni ca|</TEXT>
+        <APP>\va <LEM>śleṣmā</LEM> \msCa\msCb\msNa; śleṣma \Ed\oo
+                 <LEM>snāyu</LEM> \msCa\msCb\msNa; snāyuḥ \Ed</APP>
+        <TR>Phlegm, fat, sinew, bones, teeth, and nails,</TR>
+
+<TEXT> striyāḥ stanyaṃ ca śukraṃ ca yac{ }ca śvetaṃ tathākṣiṣu|</TEXT> 
+        <APP>\vc <LEM>striyāḥ stanyaṃ ca</LEM> \conj; striyā stanyaṃ ca \msCa\msCb\msNa,
+                                                 striyāstanyaś{ }ca \Ed\oo
+                 <LEM>śukraṃ ca</LEM> \msCa\msCb\msNa; śukraś{ }ca \Ed</APP>
+        <TR>women's breast milk, semen, and the white of the eyes:</TR>
+
+<TEXT> eteṣāṃ saumyabhāvatvāc{ }chvetatvam{ }upajāyate||</TEXT> 14:54
+        <APP>\ve <LEM>°bhāvatvā°</LEM> \msCa\msCb\msNa; °bhāgatvā \Ed</APP>
+        <TR>whiteness appears in these because they are Soma-related.</TR>
+
+<TEXT> āgneyabhāvād{ }raktatvaṃ kṛṣṇatvaṃ cāpi gacchati|</TEXT> 
+        <APP>\va <LEM>°ktatvaṃ</LEM> \msCa\msNa\Ed; °ktatva \msCb</APP>
+        <TR>[Constituents of the body that are] Fire-related become
+            red and black:</TR>
+
+<TEXT> tvag{ }māṃsa rudhira majjā dṛṣṭiroma tathaiva ca||</TEXT>14:55
+        <APP>\vc <LEM>rudhira</LEM> \msCa\msCb; rudhiraṃ \msNa\Ed</APP>
+        <APP>\vd <LEM>°roma</LEM> \msCa\msCb\Ed; °romaṃ \msNa</APP>
+        <TR>[such as] skin, flesh, blood, marrow, and eyelashes.</TR>
+
+<TEXT> āgneyadhātuṃ somaṃ ca kathito 'smi varānane|</TEXT>
+        <APP>\va <LEM!>āgneyadhātuṃ somaṃ ca</LEM> \msCb; dhātuṃ sotuñ{ }ca \msCa, 
+                                        āgneyadhātu somaṃ ca \msNa, dhātu somaś{ }ca \Ed</APP>
+        <TR>I have taught, O Varānanā, the Fiery constituents and the Soma-ones.</TR>
+
+%index_grammar: note syntax, Newari
+
+<TEXT> brūhi brūhi viśālākṣi yady{ }asti tava saṃśayaḥ||</TEXT> 14:56
+        <TR>Tell me, tell me, O Viśālākṣī, if you still have doubts.</TR>
+
+% saṃśaya iti vṛṣa° \msCa
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe praśnavyākaraṇo nāmādhyāyaś{ }caturdaśamaḥ</COLOPHON></TEXT>
+        <APP> Ł\Colo:$ <LEM>nāmādhyāyaś{ }caturdaśamaḥ</LEM> \msCa\msCb\msNa; nāmaś{ }caturdaśo 'dhyāyaḥ \Ed</APP>
+        <TRCOLOPHON>Here ends the fourteenth chapter in the ŁVṛṣasārasaṃgraha$ called The Detailed Reply to Questions.</TRCOLOPHON>
+%END OF CHAPTER 14
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

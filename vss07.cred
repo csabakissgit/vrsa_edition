@@ -1,0 +1,638 @@
+<START/>
+<startchapter-n="7"/> 
+%chapter 7
+%folioinfo \msCa\ 401.jpg, f.203r line 6
+%folioinfo \msCb\ 420.jpg, f.209v line 6
+%folioinfo \msCc\ 201.jpg, f.279r line 5
+%folioinfo \msNa\ 204.jpg upper, f.10v
+%folioinfo \msNb\ 52.jpg lower
+%folioinfo \msNc\ 221.jpg upper line 6, f. 218v
+%folioinfo \Ed\ p.601
+<ANUSTUBH/>
+<CHAPTER>saptamo 'dhyāyaḥ</CHAPTER>
+<TRCHAPTER> Chapter Seven </TRCHAPTER>
+
+
+<SUBCHAPTER>niyameṣu dānam (4)</SUBCHAPTER>
+<TRSUBCHAPTER>Fourth Niyama-rule: gifting</TRSUBCHAPTER>
+
+% tathaivāhuḥ?
+<TEXT> dānāni ca tathety{ }āhuḥ pañcadhā munibhiḥ purā|</TEXT>
+        <APP>\va <LEM>tathety{ }āhuḥ</LEM> \mssALL\msCa\msCc\msNb\msNc\Ed; tathaity{ }āhuḥ \msCb\msNa</APP>
+        <LACUNA>ŁWitnesses used for this chapter: \msCa\ ff.\thinspace 203r--204r, 
+                                              \msCb\ ff.\thinspace 209v--210v, 
+                                              \msCc\ ff.\thinspace 279r--280v,
+                                              \msNa\ ff.\thinspace 10v--11v, 
+                                              \msNb\ exp.\thinspace 52 (lower--upper) -- 53 (lower),
+                                              \msNc\ ff.\thinspace 218v--219v,
+                                              \Ed\ pp.\thinspace 601--603; 
+                                              \mssCaCbCc\ = \msCa + \msCb + \msCc$</LACUNA>
+        <TR>In the past the wise declared that, again, there were five kinds of gifting.</TR>
+
+<TEXT> annaṃ vastraṃ hiraṇyaṃ ca bhūmi godāna pañcamam||</TEXT> 7:1
+        <APP>\vc <LEM>vastraṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; vastra \msCc\msNb</APP>
+        <NOTE>Łtathety$ in Łpāda$ a is suspicious and my translation of it (`again') is tentative and
+                        is supposed to refer back to the fact that all Łyama$s so far have been 
+                        devided into five types.  Note how Łannaṃ$, Łvastraṃ$, Łhiraṇyaṃ$ and 
+                        Łbhūmi$ (the latter treated as neuter, or given in \stemform) 
+                        are all meant to go with °Łdāna$ (again, in \stemform, metri causa).</NOTE>
+        <TR>The gift of food, clothes, gold, land, and the fifth, the gift of cows.</TR>
+
+%index_grammar: stem form metri causa
+
+% godāna and bhūmidāna and vastradāna in ŚDhŚ 12.41ff CHECK \verify
+
+
+
+<SUBSUBCHAPTER>annadānam</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Gift of food</TRSUBSUBCHAPTER>
+
+%folioinfo \msCb\ 421.jpg, f.210r
+<TEXT> annāt{ }tejaḥ smṛtiḥ prāṇaḥ annāt{ }puṣṭir{ }vapuḥ sukham|</TEXT>
+        <APP>\va <LEM!>annāt{ }tejaḥ smṛtiḥ prāṇaḥ</LEM> \mssCaCbCc\msNapcorr\msNb; annāt{ }tejaḥ smṛtiḥ prāṇa \msNaacorr, 
+                                                        annāt{ }tejaḥ smṛti prāṇaḥ \msNc,
+                                                        annād{ }bhavanti bhūtāni \Ed</APP>
+        <TR>From food [come] energy, memory, the vital breath, growth, body, happiness.</TR>
+
+%folioinfo \msCc\ 202.jpg, f.279v 
+%folioinfo \msNc\ 221.jpg lower, f. 219r
+<TEXT> annāc{ }chrīḥ kānti vīryaṃ ca annāt{ }sattvaṃ ca jāyate||</TEXT> 7:2
+        <APP>\vc <LEM>annāc{ }chrīḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc; annāc{ }chrī \msNb\Ed\oo
+                 <LEM>kānti vīryaṃ ca</LEM> \msCb\msCc\msNa\msNb; kāntir{ }vīryañ{ }ca \msCa\msNc\ \unmetr, 
+                                                                        kāntivīrśyañ{ }ca \Ed</APP>
+        <APP>\vd <LEM>annāt{ }sattvaṃ ca</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc;
+                                                         annā satvañ{ }ca \msCc, annāt{ }sattvaś{ }ca \Ed\oo
+                 <LEM>jāyate</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; jāya\lk\  \msCa</APP>
+        <NOTE>Note the \stemform\ noun Łkānti$ metri causa in Łpāda$ c.</NOTE>
+        <TR>From food arise grace and beauty, heroism, strength.</TR>
+
+%index_grammar: stem form metri causa
+
+%folioinfo \msCa\ 402.jpg
+<TEXT> annāj{ }jīvanti bhūtāni annaṃ tuṣṭikaraṃ sadā|</TEXT>
+        <APP>\va <LEM>annāj{ }jī°</LEM> \msCa\msNa\msNb\Ed; annā jī° \msCb\msCc\msNc</APP>
+        <APP>\vb <LEM>annaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; annāṃ \msCc, annā \msNb\oo
+                 <LEM>°karaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °karaḥ \msCc\Ed</APP>
+        <TR>Living beings live on food. Food always satisfies.</TR>
+
+%\msCa\ darpaḥ'
+<TEXT> ānnāt{ }kāmo mado darpaḥ annāc{ }chauryaṃ ca jāyate||</TEXT> 7:3
+        <APP>\vc <LEM>darpaḥ</LEM> \msCa\msCc\msNa\msNb; darppa \msCb\msNc, darppo \Ed</APP>
+        <APP>\vd <LEM>annāc{ }chauryaṃ ca</LEM> \msCa\msCc\msNc; annāt{ }sauryañ{ }ca \msCb\msNa\msNb,
+                                                                 annāc{ }chauryaś{ }ca \Ed</APP>
+        <TR>From food arise desire, rapture, pride, and valour.</TR>
+
+<TEXT> annaṃ kṣudhātṛṣāvyādhīn{ }sadya eva vināśayet|</TEXT>
+        <APP>\va <LEM>annaṃ kṣu°</LEM> \msCa\msCb\msNapcorr\msNc; annā kṣu° \msCc\msNaacorr, annāt{ }kṣu° \msNb\Ed</APP>
+        <APP>\vab <LEM>°vyādhīn{ }sa°</LEM> \msCb\msNc; °vyādhān{ }sa° \msCa\msCc\msNb, °vādhān{ }sa° \msNa,
+                                                                                        °vyādhā sa° \Ed</APP>
+        <APP>\vb <LEM>vināśayet</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; viśayet \msCb</APP>
+        <TR>Food drives away hunger and thirst and disease instantly.</TR>
+
+<TEXT> annadānāc{ }ca saubhāgyaṃ khyātiḥ kīrtiś{ }ca jāyate||</TEXT> 7:4
+        <TR>From gifting food arise beauty, fame, and glory.</TR>
+
+<TEXT> annadaḥ prāṇadaś{ }caiva prāṇadaś{ }cāpi sarvadaḥ|</TEXT>
+        <APP>\va <LEM>annadaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; annada \Ed</APP>
+        <APP>\vb <LEM>prāṇadaś{ }cāpi</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; prāṇaś{ }cāpi \msNb\oo
+                 <LEM>sarvadaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; sarvadāḥ \msCc</APP>
+        <PARAL>\vo Ł\similar\ \SDHU\ 1.27:$
+                annadaḥ prāṇadaḥ proktaḥ prāṇadaś{ }cāpi sarvadaḥ|
+                tasmād{ }annapradānena sarvadānaphalaṃ labhet||
+                \similar\ Ł\MBH\ suppl 14.4.2285--86:$
+                annadaḥ prāṇado loke prāṇadaḥ sarvado bhavet|
+                tasmād{ }annaṃ viśeṣeṇa dātavyaṃ bhūtim{ }icchatā||
+                  \similar\ Ł\NARADAP\ 1.13.71:$
+                annadaḥ prāṇadaḥ proktaḥ prāṇadaś{ }cāpi sarvadaḥ|
+                sarvadānaphalaṃ yasmād{ }annadasya nṛpottama||</PARAL>
+        <NOTE>See some similar verses from the \SDHU, the \MBH, and the \NARADAP\ in
+              the apparatus.</NOTE>
+        <TR>He who donates food donates life. He who donates life donates everything.</TR>
+% 02sdhu/sivadharmottara_b.dn:  2524:  annadaḥ prāṇadaḥ proktaḥ prāṇadaś cāpi sarvadaḥ|^M
+
+% CHECK Haracaritacintāmaṇi 30.50ff and ŚDhu 7.27 etc.!
+% Also MBh! 
+
+%folioinfo \msNa\ 204.jpg lower, f.11r
+<TEXT> tasmād{ }annasamaṃ dānaṃ na bhūtaṃ na bhaviṣyati||</TEXT> 7:5
+        <APP>\vd <LEM>bhūtaṃ</LEM> \msCc\msNa\msNb\msNc; \lac1 × tan \msCa, bhūte \msCb, bhūto \Ed</APP>
+        <PARAL>\vcd Ł = \SDHU\ 7.31cd \similar\ \MBH\ 13.62.6ab: 
+                                        $annena sadṛśaṃ dānaṃ na bhūtaṃ na bhaviṣyati</PARAL>
+        <TR>Therefore nothing is equal to the gift of food, nothing was, nothing will be.</TR>
+
+
+
+
+<SUBSUBCHAPTER>vastradānam</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Gift of clothes</TRSUBSUBCHAPTER>
+
+%                               means śriyam api? kriyām api?
+<TEXT> vastrābhāvān{ }manuṣyasya śriyād{ }api parityajet|</TEXT>
+        <APP>\va <LEM>°bhāvān{ }ma°</LEM> \mssALL\mssCaCbCc\msNb\Ed; °bhāvāt{ }ma° \msNa\msNc</APP>
+        <APP>\vb <LEM>śriyād{ }api</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; priyād{ }api \msCb, śriyā vāpi \msNc</APP>
+        <NOTE>ŁPāda$ b is difficult to interpret securely. I translate it as if reading
+              Łśrīs tam api parityajet$ or Łśriyāpi parityajyate$. Consider also \BRAHMAP\ 220.139:
+              <sep/>
+                         Łvastrābhāve kriyā nāsti yajñā vedās tapāṃsi ca$ |<br/>
+                         Łtasmād vāsāṃsi deyāni śrāddhakāle viśeṣataḥ$ ||
+              <sep/>
+                        `If one has no clothes, there is no ritual, no worship, no Vedas or penance.
+                         Therefore clothes should be donated, especially at the time
+                         of a Śrāddha ritual.'</NOTE>
+        <TR>In the absence of [proper] clothes, a man will also lose his fortunes.</TR>
+
+<TEXT> vastrahīno na pūjyeta bhāryāputrasakhādibhiḥ||</TEXT> 7:6
+        <TR>A person without clothes may not be respected by his wife, son, friends, etc.</TR>
+
+<TEXT> vidyāvān{ }sukulīno 'pi jñānavān{ }guṇavān{ }api|</TEXT>
+        <TR>Be it a learned person from a good family or an intelligent and virtuous person,</TR>
+
+<TEXT> vastrahīnaḥ parādhīnaḥ paribhūtaḥ pade pade||</TEXT> 7:7
+        <TR>without clothes everybody is subdued and humiliated on every occasion</TR>
+
+<TEXT> apamānam{ }avajñāṃ ca vastrahīno hy{ }avāpnuyāt|</TEXT>
+        <APP>\va <LEM>°vajñāṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °vajñaṃ \Ed</APP>
+        <APP>\vb <LEM>°hīno</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °hī \msCb</APP>
+        <TR>because a man without clothes receives contempt and disrespect.</TR>
+
+<TEXT> jugupsati mahātmāpi sabhāstrījanasaṃsadi||</TEXT> 7:8
+        <TR>Even if he is a great soul, he will wish to avoid the court, women, and the assembly.</TR>
+
+<TEXT> tasmād{ }vastrapradānāni praśaṃsanti manīṣiṇaḥ|</TEXT>
+        <TR>Therefore the wise praise the gift of clothes.</TR>
+
+%folioinfo \Ed\ p.602
+<TEXT> na jīrṇaṃ sphuṭitaṃ dadyād{ }vastraṃ kutsitam{ }eva vā||</TEXT> 7:9
+        <APP>\vc <LEM>jīrṇaṃ sphuṭitaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc; jīrṇasphaṭitaṃ \msNb\Ed</APP>
+        <APP>\vd <LEM>kutsitam{ }eva vā</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; kutsitam{ }eva ca \msCc, kutsitmeva vā \msNc</APP>
+        <TR>One should not give away old, torn or dirty clothes.</TR>
+
+<TEXT> navaṃ purāṇarahitaṃ mṛdu sūkṣmaṃ suśobhanam|</TEXT>
+        <APP>\vb <LEM>sūkṣmaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; sūkṣma \msCc, śuklaṃ \Ed</APP>
+        <TR>[Clothes] should be donated [only if they are] new, not worn,
+                 soft, delicate and beautiful,</TR>
+% ŚDhŚ 4 (maybe not in the Nepalese MSS; \msCa\ seems to read °ṇasahitan): CHECK
+% atra tatra gataḥ kuryāḥ puṇyaṃ śaileṣṭakāmayam |
+% navaṃ purāṇarahitaṃ tasyāṃ kuryāchivālayam ||
+
+<TEXT> susaṃskṛtya pradātavyaṃ śraddhābhaktisamanvitam||</TEXT> 7:10
+        <APP>\vc <LEM>°dātavyaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °dātavya \msCc</APP>
+        <APP>\vd <LEM>°samanvitam</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\msNc\Ed; °taṃ \msNaacorr</APP>
+        <TR>nicely ornamented, and in good faith and with devotion.</TR>
+% Brick ? on śraddhā in dāna, also mīmāṃsā stuff?
+% tr. as 'in good faith'? (Kengo) CHECK
+
+<TEXT> śraddhāsattvaviśeṣeṇa deśakālavidhena ca|</TEXT>
+        <APP>\va <LEM>°sattva°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °sa ca° \Ed</APP>
+
+<TEXT> pātradravyaviśeṣeṇa phalam{ }āhuḥ pṛthak{ }pṛthak||</TEXT> 7:11
+        <PARAL>\vo Ł\compare\ \MANU\ 7.86--87 (the latter usually labelled as an additional verse):$
+                        pātrasya hi viśeṣeṇa śraddadhānatayāiva ca| 
+                        alpaṃ vā bahu vā pretya dānasya phalam{ }aśnute||
+                        deśakālavidhānena dravyaṃ śraddhāsamanvitam|
+                        pātre pradīyate yat{ }tu tad{ }dharmasya prasādhanam||</PARAL>
+        <NOTE>It seems that Łvidhena ca$ stands for Łvidhinā ca$ or rather Łvidhānena$ metri causa in Łpāda$ b.</NOTE>
+        <TR>They say that the reward [of gifting/generosity] is in every case dependent on the
+                particular [donor's] willingness and character, the choice of place and time, and on
+                the particular recipient and material.</TR>
+
+<TEXT> yādṛśaṃ dīyate vastraṃ tādṛśaṃ prāpyate phalam|</TEXT>
+        <TR>The reward received will be similar to the clothes donated.</TR>
+
+<TEXT> jīrṇavastrapradānena jīrṇavastram{ }avāpnuyāt|</TEXT>
+        <TR>By donating old clothes, one would receive old clothes [as a reward].</TR>
+
+<TEXT> śobhanaṃ dīyate vastraṃ śobhanaṃ vastram{ }āpnuyāt||</TEXT> 7:12
+        <APP>\vef <LEM!>śobhanaṃ dīyate vastraṃ śobhanaṃ vastram{ }āpnuyāt</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed;
+                                                                                 \om\ \msNb</APP>
+        <TR>By donating beautiful clothes, one would receive beautiful clothes [as a reward].</TR>
+
+
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+<LONGVERSELINES/>
+%folioinfo \msNb\ 52.jpg upper
+%       -  -     -   .  . -  . -    . . . -  - -  .  -  - . -
+<TEXT> dadyād{ }vastra suśobhanaṃ dvijavare kāle śubhe sādaraṃ</TEXT>
+        <APP>\va <LEM>dvijavare kāle śubhe</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; dvijayine ekāśubhaṃ \Ed</APP>
+        <NOTE>Note the \stemform\ Łvastra$ in Łpāda$ a metri causa.</NOTE>
+        <TR>Should one bestow very beautiful clothes on a Brahmin 
+                        at an auspicious time, respectfully,</TR>
+        <NOTE>`on a Brahmin' (in Łpāda$ a): literally, `on a person who is first among the twice-born'
+                                (Łdvijavare$).</NOTE>
+
+%index_grammar: stem form metri causa
+%index_metre: śārdūlavikrīḍita
+
+%        -  -  -!   . . -   .  - .  .  . -  - -   .  -  -  . -
+% -m or -ṃ: -m: \msCa\msCb\msCc\msNa\msNb\msNc
+<TEXT> saubhāgyam{ }atulaṃ labheta sa naro rūpaṃ tathā śobhanam|</TEXT>
+        <APP>\vb <LEM>saubhāgyam{ }a°</LEM> \mssALL\msCa\msCb\msCcpcorr\msNa\msNb\msNc\Ed; saubhāgyatvam{ }a° \msCcacorr\oo
+                 <LEM>naro</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; daro \msCb</APP>
+        <NOTE>The final syllable of Łsaubhāgyam$ in Łpāda$ b counts as long by licence; see, e.g., 5.20 and 6.18b.
+              This time the c\ae sura is not involved.</NOTE>
+        <TR>he [i.e. the donor] will receive unequalled attractiveness and a beautiful appearance.</TR>
+
+%index_metre: long syllable at end of word 
+%index_metre: śārdūlavikrīḍita
+
+<TEXT> tasmin{ }yāti suvastrakoṭi śataśaḥ prāpnoti niḥsaṃśayaṃ</TEXT>
+        <APP>\vc <LEM>tasmin{ }yāti</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; ta<UNCL>smā</UNCL>n{ }yāti \msNa\oo
+                 <LEM>suvastra°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; sa vastra° \Ed\oo
+                 <LEM>°saṃśayam</LEM> \msCa\msCb\msNc; °saṃśayaḥ \msCc\msNa\msNb\Ed</APP>
+        <NOTE>Understand Łtasmin yāti$ in Łpāda$ c as Łtasmin yāte$ (metri causa);
+             °Łkoṭi$ is treated as neuter or as a \stemform\ (also metri causa).</NOTE>
+        <TR>When he departs, he will be given hundreds of millions of items of nice clothes, no doubt about that.</TR>
+
+%index_grammar: stem form metri causa (or neuter)
+%index_metre: śārdūlavikrīḍita
+
+<TEXT> tasmāt{ }tvaṃ kuru vastradānam{ }asakṛt{ }pāratrikotkarṣaṇam||</TEXT> 7:13
+        <APP>\vd <LEM>dānam{ }asakṛt{ }pā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; dānasat{ }pā° \msNb</APP>
+        <TR>Therefore do donate clothes often. It is the way up to the other world.</TR>
+
+%index_metre: śārdūlavikrīḍita
+
+
+<NORMALVERSELINES/>
+
+<SUBSUBCHAPTER>suvarṇadānam</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Gift of gold</TRSUBSUBCHAPTER>
+<ANUSTUBH/>
+<TEXT> suvarṇadānaṃ viprendra saṃkṣipya kathayāmy{ }aham|</TEXT>
+        <APP>\va <LEM>°dānaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc; °dāna \msNb\Ed</APP>
+        <TR>O great Brahmin, now I shall teach you about the gift of gold in a concise manner.</TR>
+
+%index_metre: ma-vipulā
+
+<TEXT> pavitraṃ maṅgalaṃ puṇyaṃ sarvapātakanāśanam||</TEXT> 7:14
+        <APP>\vd <LEM>°pātaka°</LEM>  \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; °pāpaka° \msCa</APP>
+        <TR>It is a pure, auspicious and meritorious [act] and it washes off all sins.</TR>
+
+%folioinfo \msCc\ 203.jpg, f.280r
+<TEXT> dhārayet{ }satataṃ vipra suvarṇakaṭakāṅgulim|</TEXT>
+        <APP>\vb <LEM>°kaṭakāṅgulim</LEM> \mssALL\msCb\msCc\msNa\msNc\Ed; °ka\lk\lk gulim \msCa, °kaṭakāṅgulam \msNb</APP>
+        <NOTE>I suspect that Łaṅguli$ is used in Łpāda$ b in the sense of Łaṅgulīya$ (`finger-ring').</NOTE>
+        <TR>Should one always wear a golden bracelet or ring, O Brahmin,</TR>
+
+<TEXT> mucyate sarvapāpebhyo rāhuṇā candramā yathā||</TEXT> 7:15
+        <PARAL>\vcd Ł= 22.38 below = a line inserted after \MBH\ 1.56.18 in some manuscripts as indicated in 
+                    the critical edition$</PARAL>
+        <TR>he will be freed of all sins, just as the moon is freed from [the demon] Rāhu [after an eclipse].</TR>
+% CHECK if all MSS actually read rāhunā
+
+<TEXT> dattvā suvarṇaṃ viprebhyo devebhyaś{ }ca dvijarṣabha|</TEXT>
+        <APP>\va <LEM>suvarṇaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; suvarṇa \msNb</APP>
+        <APP>\vb <LEM>°rṣabha</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °rṣabhaḥ \msCc\msNb</APP>
+        <NOTE>ŁPāda$ a is a Łma-vipulā$.</NOTE>
+        <TR>If a person donates gold to Brahmins or gods, O excellent Brahmin,</TR>
+
+%index_metre: ma-vipulā
+
+<TEXT> tuṭimātre 'pi yo dadyāt{ }sarvapāpaiḥ pramucyate||</TEXT> 7:16
+        <APP>\vc <LEM>tuṭi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; truṭi° \Ed\oo
+                 <LEM>°mātre</LEM> \mssALL\mssCaCbCc\msNb\msNc; °mātro \msNa\Ed</APP>
+        <APP>\vd <LEM!>sarvapāpaiḥ pramucyate</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc;
+                                 sarvapāpaiḥ sa mucyate \msCa, sarvapāpai pramucyate \Ed</APP>
+        <NOTE>The form Łtuṭi$ as a widespread variant of Łtruṭi$, see, e.g., (Old) \SKANDAP\ 27.14:
+               <sep/>
+               Łkāñcanaṃ tuṭimātraṃ vā yo dadyād bahu vā mama$ | <br/>
+               Łtasya haimavate śṛṅge dadāni gṛham uttamam$ ||</NOTE>
+        <TR>even if it is only in a minute quantity, he will be freed of all sins.</TR>
+
+
+% units of measure:
+<TEXT> raktimāṣakakarṣaṃ vā palārdhaṃ palam{ }eva vā|</TEXT>
+        <APP>\va <LEM>raktimāṣaka°</LEM> \msNcacorr; rantimāṣaka° \msCa, rattimāṣaka° \msCb\msNa\msNcpcorr, 
+                                                        rantimmānsaka° \msCc, rattimānsaka° \msNb, rattimāṣaka° \Ed </APP>
+        <APP>\vb <LEM>°rdhaṃ</LEM> \msCa\msCb\msNc\Ed; °ddha \msCc\msNa\msNb</APP>
+        <TR>[The amount can be just] one Łrakti$, a Łmāṣaka$, a Łkarṣa$, half a Łpala$ or a Łpala$:</TR>
+% raktikā  f. Abrus Precatorius (its seed or grain is used as a weight = 1/6, 1/7, or 2/15 Māṣaka), ŚārṅgS.
+% karṣa  mn. a weight of gold or silver (= 16 Māṣas = 80 Rettis = 1/4 Pala = 1/400 of a Tulā = about 176 grains troy
+ in common use 8 Rettis are given to the Māṣa, and the Karṣa is then about 280 grains troy), Suśr.
+
+
+<TEXT> evam{ }eva phalaṃvṛddhir{ }jñeyā dānaviśeṣataḥ||</TEXT> 7:17
+        <APP>\vcd <LEM>°vṛddhir{ }jñeyā</LEM> \msCa\Ed; °vṛddhi jñeyā \msCb\msCc\msNa\msNb, °vṛrddhi jñeyā \msNc</APP>
+        <TR>this is exactly how the increase in the [size of the corresponding] reward will be, 
+                                in proportion to the properties [i.e.\ amount] of the gift.</TR>
+        <NOTE>I suspect that Łphalaṃ vṛddhir$, or Łphalaṃvṛddhir$, stands for 
+              Łphalavṛddhir$ (Łphalasya vṛddhiḥ$) metri causa, meaning `the increase of the reward.'
+              Łrakti$, Łmāṣaka$, Łkarṣa$, and Łpala$ are units of weight.</NOTE>
+
+
+
+
+
+<SUBSUBCHAPTER>bhūmidānam</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Gift of land</TRSUBSUBCHAPTER>
+
+<TEXT> sarvādhāraṃ mahīdānaṃ praśaṃsanti manīṣiṇaḥ|</TEXT>
+        <APP>\va <LEM>°dhāraṃ</LEM> \msCb; °dhāra° \msCa\msCc\msNa\msNb\msNc\Ed</APP>
+        <APP>\vab <LEM>°dānaṃ praśaṃsanti</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed;
+                                                 dā\lk <UNCL>nam{ }pra</UNCL>\lac1 × santi \msCa</APP>
+        <TR>The wise praise the gift of land as the basis of everything [else].</TR>
+
+%folioinfo \msCa\ 403.jpg, f.204r
+<TEXT> annavastrahiraṇyādi sarvaṃ vai bhūmisambhavam||</TEXT> 7:18
+        <APP>\vd <LEM>sarvaṃ vai</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; sarvaṃ <UNCL>ve</UNCL> \msCa\ \toplost</APP>
+        <TR>Food, clothes, gold etc., all these originate in land.</TR>
+
+%folioinfo \msNc\ 222.jpg upper, f. 219v
+<TEXT> bhūmidānena viprendra sarvadānaphalaṃ labhet|</TEXT>
+        <APP>\vb <LEM>°phalaṃ labhet</LEM> \mssALL\mssCaCbCc\msNa\msNbpcorr\Ed;
+                                                 °lalaṃ bhavet \msNbacorr, °laṃ bhavet \msNc</APP>
+        <TR>O Brahmin, one can obtain all the rewards of gifting by the gift land.</TR>
+
+<TEXT> bhūmidānasamaṃ vipra yady{ }asti vada tattvataḥ||</TEXT> 7:19
+        <TR>If there is anything that equals the gift of land, O Brahmin, you should definitely tell me.</TR>
+
+<TEXT> mātṛkukṣivimuktas{ }tu dharaṇīśaraṇo bhavet|</TEXT>
+        <APP>\va <LEM>°muktas{ }tu</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °muktis{ }tu \Ed</APP>
+        <APP>\vb <LEM>°śaraṇo</LEM> \mssALL\mssCaCbCc\msNa\msNb; °śaraṇa \msNc, °śaraṇāṃ \Ed</APP>
+        <TR>[Humans] have the earth as their abode as soon as they get out of the mother's womb.</TR>
+
+<TEXT> carācarāṇāṃ sarveṣāṃ bhūmiḥ sādhāraṇā smṛtā||</TEXT> 7:20
+        <NOTE>I take Łsādhāraṇā$ as one word, but it is possible that the intention of the author
+                        was Łsā dhāraṇā$ in two words, in fact meaning Łsādhāraḥ$ (Łsā ādhāraḥ$, `it is the basis').</NOTE>
+        <TR>Land is said to be common to all that are mobile and immobile.</TR>
+
+<TEXT> ekahastaṃ dvihastaṃ vā pañcāśac{ }chatam{ }eva vā|</TEXT>
+        <APP>\va <LEM>ekahastaṃ</LEM> \msCb\msNa\msNb\msNc; ekahasta° \msCa\msCc\Ed</APP>
+        <TR>Be it [only a plot of land measuring] one forearm, two forearms, fifty or a hundred,</TR>
+
+%folioinfo \msNa\ 205.jpg upper, f.11v
+<TEXT> sahasrāyutalakṣaṃ vā bhūmidānaṃ praśasyate||</TEXT> 7:21
+        <APP>\vd <LEM!>bhūmidānaṃ praśasyate</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; bhūmidāna praśasyate \msCb, 
+                        pañcāśac{ }chatam{ }eva vā| sahāyutalakṣam{ }vā bhūmidaṃ praśasyate \msNb\ Ł(eyeskip)$</APP>
+        <TR>a thousand, ten thousand, a hundred thousand, the gift of land is held in great esteem.</TR>
+
+%folioinfo \msCb\ 422.jpg, f.210v
+<TEXT> ekahastāṃ ca yo bhūmiṃ dadyād{ }dvijavarāya tu|</TEXT>
+        <APP>\va <LEM>°hastāṃ ca</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; °hastañ{ }ca \msCb\msNb</APP>
+        <APP>\vb <LEM>dadyād{ }dvi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; dadyā dvi° \Ed</APP>
+        <TR>He who donates [as much as] a piece of land of one forearm to a Brahmin</TR>
+
+<TEXT> varṣakoṭiśataṃ divyaṃ svargaloke mahīyate||</TEXT> 7:22
+        <TR>will enjoy a billion divine years in heaven.</TR>
+
+<TEXT> evaṃ bahuṣu hasteṣu guṇāguṇi phalaṃ smṛtam|</TEXT>
+        <APP>\vb <LEM>guṇāguṇi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; guṇāgaṇi° \Ed</APP>
+        <NOTE>I think that Łguṇāguṇi$, or perhaps Łguṇaguṇi$ (which would be unmetrical, containing
+                        two Łlaghu$s in both the second and third syllables of the Łpāda$), should refer to the idea
+                        that, e.g., the gift of a plot of land of 2 × 2 Łhasta$s would result in 
+                        twice, or four times, Łkoṭiśata$ years in heaven, Łguṇa$ generally meaning `times.' 
+                        I take Łguṇā$° as referring to the size of the land donated, and °Łguṇi$[Łn$] as 
+                        `amounting to that many times,' but this is only a guess, 
+                        and it would need to be supported by some similar passage, other than 7.17 above.</NOTE>
+        <TR>Thus in case of [donating] many forearms [of land], the reward is said to be 
+                        proportional to the properties [of the land].</TR>
+
+<TEXT> śraddhādhikaṃ phalaṃ dānaṃ kathitaṃ te dvijottama||</TEXT> 7:23
+        <APP>\vc <LEM>°dhikaṃ</LEM> \msCb\msCc\msNa\msNb; °dhika° \msCa\msNc\Ed</APP>
+        <APP>\vd <LEM>°ttama</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °ttamaḥ \msNc</APP>
+        <TR>O Brahmin, I have taught you about the rewards of gifting that is performed in good faith.</TR>
+        <NOTE><sep/>
+                I suspect that Łpāda$ c is an awkward attempt at saying Łśraddhādhikadāna(sya) phalaṃ$.</NOTE>
+
+%index_syntax: split compound in pāda c
+
+
+% rāmena \msCc\msNa\msNb
+<TEXT> jāmadagnyena rāmeṇa bhūmiṃ dattvā dvijāya vai|</TEXT>
+        <APP>\va <LEM>jāmadagnyena</LEM> \msCb\msNa\msNc; jāmadagnye\lk\ \msCa, jāmadagnena \msCc\msNb\Ed\oo
+                 <LEM>rāmeṇa</LEM> \msCb\msNc\Ed; \lk\lk ṇa \msCa, rāmena \msCc\msNa\msNb</APP>
+        <APP>\vb <LEM>dattvā dvi°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; dadyād{ }dvi° \msCb</APP>
+        <TR>[Paraśu]rāma, the son of Jamadagni, having donated land to the Brahmin [Kaśyapa],</TR>
+        <NOTE>See a summary of the corresponding episodes in the \MBH\ in 
+                    <citep>PuranicEnc</citep><pnum>570--571</pnum>, s.v. Paraśurāma:
+                <sep/>
+                                `To atone for the sin of slaughtering even
+                                innocent Kṣatriyas, Paraśurāma gave away all his
+                                riches as gifts to brahmins. He invited all the brahmins
+                                to Samantapañcaka and conducted a great Yāga there.
+                                The chief Ṛtvik (officiating priest) of the Yāga was
+                                the sage Kaśyapa and Paraśurāma gave all the lands
+                                he conquered till that time to Kaśyapa. Then a platform 
+                                of gold ten yards long and nine yards wide was
+                                made and Kaśyapa was installed there and worshipped.
+                                After the worship was over according to the instructions
+                                from Kaśyapa the gold platform was cut into pieces
+                                and the gold pieces were offered to brahmins.
+
+                                When Kaśyapa got all the lands from Paraśurāma he
+                                said thus:---``Oh Rāma, you have given me all your
+                                land and it is not now proper for you to live in my
+                                soil. You can go to the south and live somewhere on
+                                the shores of the ocean there.'' Paraśurāma walked
+                                south and requested the ocean to give him some land to
+                                live.'</NOTE>
+
+<TEXT> āyur{ }akṣayam{ }āptaṃ tu ihaiva ca dvijottama||</TEXT> 7:24
+        <APP>\vd <LEM>ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; hi \Ed</APP>
+        <NOTE><sep/>
+              Note that without applying the \mutacumliquida\ (Łca dvi$°), 
+              Łpāda$ d would be iambic and thus metrically problematic.</NOTE>
+        <TR>obtained eternal life in this very world, O excellent Brahmin.</TR>
+
+%index_grammar: iambic, but not with dvi muta cum liquida licence
+%index_metre: muta cum liquida dv
+
+
+%folioinfo \Ed\ p.603
+
+<SUBSUBCHAPTER>godānam</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Gift of cows</TRSUBSUBCHAPTER>
+
+%lacuna_start: msNb
+% unmetr 
+<TEXT> hemaśṛṅgāṃ raupyakṣurāṃ cailaghaṇṭāṃ dvijottama|</TEXT>
+        <APP>\va <LEM>°śṛṅgāṃ</LEM> \mssALL\mssCaCbCc\msNc\Ed; °śṛṅgaṃ \msNa, \om\ \msNb\oo
+                 <LEM>raupya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; ropyaṃ \msNc\oo
+                 <LEM>°kṣurāṃ</LEM> \mssALL\msCa\msCb\msNa\msNc; °khurāṃ \msCc\Ed</APP>
+        <LACUNA>\vab ŁOmitted in \msNb$</LACUNA>
+        <PARAL>\vab Ł\similar\ \VAGMATI\ 17.33ab:$
+                        hemaśṛṅgāṃ raupyakhurāṃ cailaghaṇṭāvalambinīm|</PARAL>
+        <NOTE>Łkṣura$ in Łpāda$ a is a known variant of the better-attested Łkhura$.
+              ŁPāda$ a is unmetrical.</NOTE>
+        <TR>[A cow] with golden horns, silver hooves, garment and bell, O Brahmin,</TR>
+
+%lacuna_end: msNb
+<TEXT> viprāya vedaviduṣe dattvānantaphalaṃ smṛtam||</TEXT> 7:25
+        <APP>\vd <LEM>dattvānanta°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; dattvānta° \Ed</APP>
+        <PARAL>\vo Ł\compare, e.g., \MBH\ 7.58.18:$
+                tathā gāḥ kapilā dogdhrīḥ sarṣabhāḥ pāṇḍunandanaḥ|
+                hemaśṛṅgī rūpyakhurā dattvā cakre pradakṣiṇam||
+                      Łand \BHAVP\ Uttara 12.25:$
+                hemaśṛṃgīṃ raupyakhurāṃ saghaṃṭāṃ kāṃsyadohanām| 
+                mahādevāya gāṃ dadyād{ }dīkṣitāya dvijāya vai||</PARAL>
+        <NOTE>ŁPāda$ c is a Łna-vipulā$.</NOTE>
+        <TR>when given to a Veda-knowing Brahmin, [produces] rewards that are said to be endless.</TR>
+
+%index_metre: na-vipulā
+
+
+<SUBSUBCHAPTER>dānapraśaṃsā</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Praise of gifting</TRSUBSUBCHAPTER>
+
+
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+<LONGVERSELINES/>
+%       - -   - . . -    . -  . .  . -   -  - . - -   . -
+<TEXT> dānābhyāsarataḥ pravartanabhavāṃ śakyānurūpaṃ sadā</TEXT>
+        <APP>\va <LEM>°rūpaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °rūpa \msNb</APP>
+        <NOTE>I am unable to interpret Łpravartanabhavāṃ$ in Łpāda$ a and
+              I suspect that Łśakyānurūpaṃ$ in the same Łpāda$ stands for Łśaktyanurūpaṃ$ metri causa.</NOTE>
+        <TR>Always rejoicing in the practice of giving, \dots, as far as one's capacities go,</TR>
+
+<TEXT> annaṃ vastrahiraṇyaraupyam{ }udakaṃ gāvas{ }tilān{ }medinīm|</TEXT>
+        <APP>\vb <LEM>°raupya°</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; °ropya° \msCb, °<UNCL>raupya</UNCL>° \msNc\oo
+                 <LEM>gāvas{ }tilān{ }me°</LEM> \eme; gāvas{ }tilām{ }me° \msCa\msCc\msNc, gāvas{ }tilā me° \msCb\msNa,
+                                                gāvan{ }tilā me° \msNb, gāvas{ }tilaṃ me° \Ed</APP>
+        <TR>one should give food, clothes, gold and silver, water, cows, sesame seeds, land,</TR>
+
+% cchatra would be unmetrical
+<TEXT> dadyāt{ }pādukachattrapīṭhakalaśaṃ pātrādyam{ }anyac{ }ca vā</TEXT>
+                 <LEM>pātrādyam{ }anyac{ }ca vā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc;
+        <APP>\vc <LEM>dadyāt{ }pā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; dadyā pā° \msNb\oo
+                 <LEM>pātrādyam{ }anyac{ }ca vā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc;
+                                         patrādyam{ }anyac{ }ca vā \msCb, pātreṣu labdheṣu vai \Ed</APP> 
+        <TR>sandals, parasols, seats, jars, cups, or anything else.</TR>
+
+<TEXT> śraddhādānam{ }abhinnarāgavadanaṃ kṛtvā mano nirmalam||</TEXT> 7:26
+        <APP>\vd <LEM>śraddhādāna°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; dattvādāna° \Ed</APP>
+        <NOTE>Łabhinnarāgavadanaṃ$ in Łpāda$ d is suspect. Perhaps °Łvandanaṃ$ was meant 
+              (`unconditioned affection and adoration').</NOTE>
+        <TR>By giving in good faith (Łśraddhādānaṃ kṛtvā$), with words of unconditioned affection,
+            one's mind [becomes] spotless.</TR>
+
+
+
+
+
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+<LONGVERSELINES/>
+<TEXT> dānād{ }eva yaśaḥ śriyaḥ sukhakarāḥ khyātim{ }atulyāṃ labhed</TEXT>
+        <APP>\va <LEM>yaśaḥ</LEM> \msCb\msNc\Ed; yaśa \msCa\msCc\msNa\msNb\oo
+                 <LEM>sukhakarāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNcacorr\Ed; sukhakara \msNcpcorr\oo
+                 <LEM>khyātim{ }atulyāṃ</LEM> \eme; khyātiś{ }ca tulyaṃ \mssCaCbCc\msNa\msNb\msNc\Ed\oo
+                 <LEM>labhed</LEM> \mssALL\mssCaCbCc\msNa\msNb; bhavet \msNc\Ed</APP>
+        <NOTE>I suspect that Łkhyātiś ca tulyaṃ$ in the MSS stands for Łkhyātim atulyāṃ$ (`and unequalled fame') and
+              that it is not a clumsy attempt to restore the metre, but rather a later correction gone wrong.
+              I have emended the phrase believing that the second (last) syllable of Łkhyātim$ may be treated as Łguru$.
+              See the same licence applied in non-Łanuṣṭubh$ verses above,
+              e.g., in 5.20a, 6.18b, 7.13b (just before Łatula$).</NOTE> 
+        <TR>Glory and fortune, which make one happy, come about only by gifting, and one can [thus] gain unequalled fame.</TR>
+
+<TEXT> dānād{ }eva nigarhaṇaṃ ripugaṇe ānandadaṃ saukhyadam|</TEXT>
+        <APP>\vb <LEM>nigarhaṇaṃ</LEM> \msCapcorr\msCc\msNa\Ed; nirhaṇaṃ \msCaacorr, nivarhaṇaṃ \msCb\msNc,
+                                                                 nigarhana \msNb\oo
+                 <LEM>°gaṇe ānandadaṃ saukhyadam</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc;
+                                                        °gaṇai ānandadaṃ saukhyadam \msCc,
+                                                        °gaṇaiś{ }cānandasaukhyapradam  \Ed</APP>
+        <TR>Only from gifting will reproach [exercised by] the enemy [turn into] pleasure and happiness.</TR>
+
+%folioinfo \msCc\ 204.jpg, f.280v
+%       - -     -  . . -   . - .    . . -   -  -  .  - -     .  -
+<TEXT> dānād{ }ūrjayatā prasādam{ }atulaṃ saubhāgya dānāl{ }labhed</TEXT>
+        <APP>\vc <LEM>dānād{ }ūrjayatā</LEM> \mssALL\mssCaCbCc\msNb\msNc; dānād{ }ūrjayatāṃ \msNa, dānād{ }du° \Ed\oo
+                 <LEM>prasāda°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; prāsāda° \msNa\oo
+                 <LEM>saubhāgya</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; saugāgya \msCb, saubhāgyaṃ \Ed\ \unmetr\oo
+                 <LEM>dānāl{ }labhed</LEM> \msCb\Ed; dānaṃ labhet \msCa\msCc\msNa\msNb\msNc</APP>
+        <NOTE>I doubt if \Ed's reading in Łpāda$ c, Łdurjayatā$ (`invincibility') were better than Łūrjayatā$ transmitted in
+              all the MSS consulted. While Łūrjayatā$ is still problematic, it is not inconceivable that it
+              stands for Łūrjatā$ meaning most probably `being powerful, strength, vigour.' Also, note here
+              the \stemform\ noun Łsaubhāgya$ metri causa.</NOTE>
+        <TR>Vigour and unequalled graciousness come from gifting.
+                One can reach attractiveness thought gifting.</TR>
+
+%index_grammar: stem form metri causa 
+
+<TEXT> dānād{ }eva anantabhoga niyataṃ svargaṃ ca tasmād{ }bhavet||</TEXT> 7:27
+        <APP>\vd <LEM>dānād{ }eva</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; dānād{ }ova \msCc\oo
+                 <LEM>°niyataṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °niyata \msCc</APP>
+        <NOTE>Note Łsvargaṃ$ as a neuter noun, and the \stemform\ °Łbhoga$ metri causa in Łpāda$ d. 
+              The lack of sandhi between Łeva$ and Łananta$° helps restore the metre.</NOTE>
+        <TR>Endless enjoyments surely come only from gifting, and heaven is [reached] also because of it.</TR>
+
+%index_grammar: stem form metri causa 
+%index_grammar: lack of sandhi metri causa
+
+
+
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+<TEXT> dānād{ }eva ca śakralokasakalaṃ dānāj{ }janānandanaṃ</TEXT>
+        <APP>\va <LEM>śakralokasakalaṃ</LEM> \mssALL\mssCaCbCc\msNb\msNc; śatrulokasakalaṃ \msNa, śakralokam{ }atulaṃ \Ed\oo
+                 <LEM>dānāj{ }ja°</LEM> \mssALL\msCc\msNa\msNb\msNc\Ed; dānā ja° \msCa, dānārja° \msCb</APP>
+        <NOTE>°Łlokasakalaṃ$ in Łpāda$ a is suspect and \Ed's silent emendation (°Łlokam atulaṃ$) is
+               not without reason. This line may contain two general statements, the 
+               first perhaps saying that by gifting even Indra's world can be acquired or reached.
+                Nevertheless I suspect that there is a hidden reference to a myth, perhaps
+                that of Dadhīca, who gave his bones to Indra to help him defeat Vṛtra. 
+                See \VSS\ 17.47:
+                <sep/>
+                 Łdadhīciḥ svatanuṃ dattvā vibudhānāṃ varānane$ | <br/>
+                 Łbhuktvā lokān kramāt{ }sarvān śivaloke pratiṣṭhitaḥ$ ||
+                <sep/>
+        `Dadhīci gave the gods his own body, O Varānanā. Enjoying all the worlds in due order, 
+        he is now living in Śivaloka.'
+</NOTE>
+        <TR>Śakra [conquered] the whole world by gifting only.  Gifting makes people happy.</TR>
+
+<TEXT> dānād{ }eva mahīṃ samasta bubhuje samrāḍ{ }mahīmaṇḍale|</TEXT>
+        <APP>\vb <LEM>dānād{ }eva</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; dāned{ }eva \msCb\oo
+                 <LEM>mahīṃ samasta</LEM> \conj; mahīsamāsu \msCb\msCc, mahīṃ samāṃsu \msCa\msNa\msNc,
+                                                 mahī samasta \msNb, mahīyasāṃ sa \Ed\oo
+                 <LEM>samrāḍ{ }ma°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; saṃmrāḍ{ }ma° \msCb</APP>
+        <NOTE>One could translate Łpāda$ b as a general statement (`A universal monarch\dots),
+              but again I suspect here a reference to a specific person (the son of Citraratha by Ūrṇā?) and 
+              a specific legend.  The perfect form Łbubhuje$, and the next Łpāda$, at least point to this direction.</NOTE>
+        <TR>Samrāj enjoyed all the land in the world only because of gifting.</TR>
+
+<TEXT> dānād{ }eva surūpayonisubhagaś{ }candrānano vīkṣyate</TEXT>
+        <APP>\vc <LEM>surūpa°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; svarūpa° \msNb\oo
+                 <LEM>°yonisu°</LEM> \msNb\Ed; °yonis{ }su° \msCa °yoniḥ su° \msCb\msCc\msNa\msNc\oo
+                 <LEM>°bhagaś{ }ca°</LEM> \msCa\msCc\msNb\msNc; °bhaga ca° \msCb\msNa\Ed\oo
+                 <LEM>°ndrānano</LEM> \msCa\msCb\msNa\Ed; °ndrānane \msCc\msNb, °ndrānanau \msNc\oo
+                 <LEM>vīkṣyate</LEM> \msCb\msCc; vīkṣate \msCa\msNa\msNb\msNc, vikṣate \Ed</APP>
+        <NOTE>My translation of Łpāda$ d is also tentative. I take Łsurūpayonisubhaga$ as
+              Łsurūpa-suyoni-subhaga$. Unfortunately, the reference to any specific legend
+              escapes me. Perhaps the reference is to Brahmā's boon to Tārakāsura,
+              which ultimately was the cause of Skanda's birth.</NOTE> 
+        <TR>Skanda appears as handsome and fortunate, and has a good family only because of gifting.</TR>
+
+\msNb\ 53.jpg lower
+%       - -    - . . - . -   . . .  -    - - .  -  -  .  -
+<TEXT> dānād{ }eva anekasambhavasukhaṃ prāpnoti niḥsaṃśayam||</TEXT> 7:28
+        <APP>\vd <LEM>niḥsaṃśayam</LEM> \msCa\msCb\msNc; nisaṃśayaḥ \msCc, niḥsaṃśayaḥ \msNa\Ed, nissayaḥ \msNb</APP>
+        <TR>One can reach happiness that lasts countless births only through gifting, there is no doubt about that.</TR>
+
+
+<ANUSTUBH/>
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe dānapraśaṃsādhyāyaḥ saptamaḥ</COLOPHON></TEXT>
+        <TRCOLOPHON>Here ends the seventh chapter in the ŁVṛṣasārasaṃgraha$ called Praise of Gifting.</TRCOLOPHON>
+        <APP> Ł\Colo:$ <LEM>°praśaṃsādhyāyaḥ saptamaḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; 
+                                °praśaṃsādhyāyaḥ samāptaḥ \msCb,
+                                °praśaṃsā saptamo 'dhyāyaḥ \Ed</APP>
+%END OF CHAPTER 7
+
+<NORMALVERSELINES/>
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%folioinfo \msCa\ 403.jpg, f.204r line 6
+%folioinfo \msCb\ 422.jpg, f.210v line 4
+%folioinfo \msCc\ 204.jpg, f.280v line 2
+%folioinfo \msNa\ 205.jpg upper, f.11v, line 5 
+%folioinfo \msNb\ 53.jpg lower, f.?, line 1
+%folioinfo \msNc\ 222.jpg upper, line 5, f. 219v
+%folioinfo \msParis\ (Paris MS) 426.jpg, line 3
+%folioinfo \msKOa\ 30.jpg, line 1
+%folioinfo \msPaperA\ 340.jpg lower, line 8
+%folioinfo \Ed\ p.603
+
+% Read this chapter with Judit Törzsök in Oct 2021 in Naples

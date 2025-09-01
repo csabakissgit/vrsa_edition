@@ -1,0 +1,318 @@
+
+
+<START/>
+%MYEDITION
+<TITLE>Vṛṣasārasaṃgrahaḥ</TITLE>
+%chapter 1
+
+<CHAPTER>prathamo 'dhyāyaḥ</CHAPTER>
+        <!-- <TRCHAPTER>  Chapter One </TRCHAPTER> -->
+
+<ANUSTUBH/>
+Ó namaḥ śivāya
+% \mssCaCbCc\msNa\msNb\msNc YES
+% \msCa\msCb\msCc\msNa\msNb\msNc  have a Siddham symbol before oṃ
+% \msCc there is sg. in pencil in the top margin
+                it is incomplete. It starts on exp. 181.jpg, f. 237r (1.1)
+% \msNb\ breaks off at 1.62d and resumes at 2.23
+% \msNc\ 212.jpg upper f.210r line 1
+% \msBod\ f. 248v
+% left margin broken
+% Paris MS: 412.jpg
+% Naraharinatha p.580
+atha vṛsasārasaṃgrahaprārambha(ḥ)
+        \vo \om\ \mssCaCbCc\msNa
+        % this is only in ed.?
+
+      
+%1.1
+<startchapter-n="1"/> 
+
+<NOTANUSTUBH/> upajāti
+<TEXT> anādimadhyāntam{ }anantapāraṃ</TEXT>   
+        <APP>\va <LEM>°ntam{ }ananta°</LEM> \msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; °ntam{ }anta° \msCbacorr\oo
+                 <LEM>°pāraṃ</LEM> \mssCaCbCc\msNc\Ed; °pāragaṃ \msNa\msNb</APP>
+
+<TEXT> susūkṣmam{ }avyaktajagatsusāram|</TEXT>
+        <APP>\vb <LEM>susūkṣma°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; śusukṣma° \msCc\oo
+                 <LEM>°jagatsusāram</LEM> \msCa\msCb\msNa\msNc\Ed; °jagaśusāraṃ \msCc, °jagatsurāsuraṃ \msNb</APP>
+        <!-- <TR> Having bowed to [Him] whose boundaries are limitless, 
+             who has no beginning, no middle part and no end,
+             [to Him] who is very subtle and who is the unmanifest and fine essence of the world,</TR> -->
+
+<TEXT> harīndrabrahmādibhir{ }āptam{ }agraṃ</TEXT>
+        <APP>\vc <LEM>°bhir{ }āpta°</LEM> \conj; °bhir{ }āsa° \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+
+<TEXT> praṇamya vakṣye vṛṣasārasaṃgraham||</TEXT> 1.1
+        <PARAL>ŁTestimonia for this chapter:    \msCa\ ff.\thinspace 193v--195v,
+                                                \msCb\ ff.\thinspace 201v--203v,
+                                                \msCc\ ff.\thinspace 267r--270r,
+                                                \msNa\ ff.\thinspace 1v--3v,
+                                                \msNb\ exp.\thinspace 44 (then exp.\thinspace
+                                                        43 lower and then upper leaves; 1.62cd--2.22 are missing),
+                                                \msNc\ ff.\thinspace 209v--211v;
+                                                \mssCaCbCc\ = \msCa + \msCb + \msCc; 
+                                                lemmata in parentheses indicate a longer chuck of text for
+                                                which there may be additional variants given in the apparatus$</PARAL>
+% pranamya \msCc
+                        % Nirajan na āptaṃ (the text)
+                        % Flo ref to the text (Luca supports this)
+                        % Judit would go for āsamagraṃ
+                        % rhyme-wise āsamagraṃ (Alessandro) 
+        <!-- <TR>[to Him] who is respected as the foremost by Hari, Indra, Brahmā and the other [gods],
+             I shall recite [the work called] `A Compendium on the Essence of the Bull [of Dharma]'. </TR> -->
+        <NOTE>ŁPāda$ a is reminiscent of, among other famous passages, Bhagavadgītā 11.19:
+                        <br/>
+                Łanādimadhyāntam anantavīryam <br/>
+                anantabāhuṃ śaśisūryanetram / <br/>
+                paśyāmi tvāṃ dīptahutāśavaktraṃ <br/>
+                svatejasā viśvam idaṃ tapantam //$ <br/>
+              This faint reference to the Bhagavadgītā seems proper at the
+              beginning of a work that claims to deliver a teaching 
+              based on, but also to surpass, the Mahābhārata (see following verses).
+                See also e.g. Kūrmapurāṇa 1.11.237:<br/>
+                        Łrūpaṃ tavośeṣakalāvihīnam [tavā? CHECK]<br/>
+                        agocaraṃ nirmalam ekarūpam / <br/>
+                        anādimadhyāntam anantām [anantam? CHECK] ādyaṃ  <br/>
+                        namāmi satyaṃ tamasaḥ parastāt$ // <br/>
+                To say that a god has no beginning and no end in a temporal or spacial
+                sense is natural (Łanādi°...°antam$), but to have no `middle part'
+                (Ł°madhya°$) in these senses is slightly less so.
+                Thus the rather commonly occuring phrase Łanādimadhyāntam$ is probably not 
+                much more than a fixed expression meaning `endless and/or eternal'.
+                As to which god this stanza is referring to, it may be Śiva,
+                his name not being listed among those who treat him as chief god,
+                but the phrasing of the verse is vague enough to keep the question somewhat open:
+                the impersonal Brahman might be another option, even more so if we
+                look at 1.9--10, two verses nearby verses discussing Łbrahmavidyā$.
+                
+                <sep/>
+                In Łpāda$ b Łjagat-susāraṃ$ is most probably not 
+                to be interpreted as Łjagatsu sāraṃ$.
+                <sep/>
+                Strictly speaking, Łpāda$ c is unmetrical, but it is better to 
+                simply acknowledge here the phenomenon of `muta cum liquida', namely
+                that syllables followed by consonant clusters such as 
+                Łra, bra, hra, kra, śra, śya, śva, sva, dva$ can be treated as short.
+                Thus Łharīndrabrahmā°$ can be treated as a regular beginning
+                of an Łupajāti$ (. - . - -), the syllable 
+                Łbra$ not turning the previous syllable long.
+                <sep/>
+                The reading Łāsamagraṃ$ in Łpāda$ c is difficult to interpret. 
+                The most tempting of all the possible corrections I have considered
+                (Łarcyam/arhyam/arghyam/īḍyam agraṃ$)
+                seemed to be Łāptam agraṃ$, meaning `appointed/received/respected
+                [by Hari, Indra, Brahmā etc.] as the foremost one'.
+                The fact that the Łakṣara$s Łāsam$ and Łāptam$ look similar
+                in most of the scripts used in our manuscripts supports this
+                conjecture.
+                <sep/>
+                Note how we could percieve the end of Łpāda$s a and b, 
+                as well as Łpāda$s c and d as rhymes.
+                <sep/>
+                Is pāda d hypermetrical? It is actually a Łvaṃśastha$ (Łtriṣṭubh - jagatī$ change).
+                See Apte App. A p. 4.
+                </NOTE>
+
+%Łpāragaṃ$ in \msNa\msNb: the same extra syllable as in pāda d.
+%<i>samagra</i> might work Flo.
+% Pāda a: dvandva? (Flo) 
+
+<SUBCHAPTER>janamejayavaiśampāyanasaṃvādaḥ</SUBCHAPTER>
+<TRSUBCHAPTER>The dialogue of Janamejaya and Vaiśampāyana</TRSUBCHAPTER>
+<ANUSTUBH/>
+%1.2
+<TEXT> śatasāhasrikaṃ granthaṃ sahasrādhyāyam{ }uttamam|</TEXT>
+        <!-- <TR>Having listened to the Bhāratasaṃhitā [i.e. the Mahābhārata], the supreme book of 
+              a hundred thousand [verses], a thousand chapters (Ładhyāya$)</TR> -->
+        <APP>\vb <LEM>sahasrādhyāyam{ }u°</LEM> \msCa\msCb\msNa\msNb\msNc; sahaśradhyāyam{ }u° \msCc,
+                                                        sahasrādhyāyar{ }u° \Ed</APP>
+                        % satasāhaśrikaṃ \msCc
+
+<TEXT> parva cāsya śataṃ pūrṇaṃ śrutvā bhāratasaṃhitām||</TEXT> 1.2
+        <!-- <TR>with all its hundred sections (Łparvan$),</TR> -->
+        <APP>\vc <LEM>parva cāsya</LEM> \msCa\msNa\msNb\msNc; parvañ{ }cāsya \msCb, parvvam{ }asya \msCc\Ed\oo
+                 <LEM>śataṃ pūrṇaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; ta \msCc</APP>
+        <APP>\vd <LEM>śrutvā</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; śraddhā \msCb\oo
+                 <LEM>bhāratasaṃhitām</LEM> \msCa\msCb\msNa\msNb\msNc; bhārasaṃhitā \msCc, nārādasaṃhitām \Ed</APP>
+        <PARAL>\vc Ł cf. MBh 1.2.70ab: $ etat{ }parvaśataṃ pūrṇaṃ vyāsenoktaṃ mahātmanā</PARAL>
+        <NOTE>The dialouge of Janamejaya and Vaiśampāyana make up the outermost layer of the VSS 
+                (except for the introductory stanzas 1.1-3), which mostly contains 
+                general Łdharmaśāstric$ material.
+                <sep/>
+                The hundred Łparvan$s of the Mahābhārata are listed in MBh 1.2.33--70.</NOTE>
+        
+%MS Add.2102 parvvam asya ta srutvā ¤ārasaṃhitā
+% On 100 parvans, see Schlingloff 1969. (Thanks to Kenji.)
+% see also Bühler, Georg; Kirste, Johann  Title: Indian Studies, II: Contributions to the History of the Mahâbhârata. Publ.: Wien : F. Tempsky 1892 Description:   58 p. Series: Sitzungsberichte der Philosophisch-Historischen Classe der Kaiserlichen Akademie der Wissenschaften, 127, XII. p. 26: 
+cites an inscription from Fleet Cor. Inscr. Ind. vol iii p. 137: "mahābhārate śatasāhasry[ā¤]ṃ saṃhitāyāṃ" ('Khoh copper-plate inscription of the Mahārāja Śarvanātha, the year 214', pp. 135--139)
+
+
+<ANUSTUBH/>
+% vipulā
+%1.3
+<TEXT> atṛptaḥ puna papraccha vaiśampāyanam{ }eva hi|</TEXT>
+        <!-- <TR>Janamejaya remained unsatisfied and what he asked Vaiśampāyana</TR> -->
+        <APP>\va <LEM>atṛptaḥ puna papraccha</LEM> \eme;
+                a<UNCL>tṛptaḥ pu</UNCL>¤¤praccha \msCa, 
+                atṛptaḥ punaḥ papraccha \msCb\msNa\msNb\msNc,
+                atṛptaḥ punar{ }apracche \msCc,
+                atṛptā punaḥ papraccha \Ed</APP> 
+        <APP>\vb <LEM>vaiśampāyana°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; vesampāyana° \msCc</APP>
+        <NOTE>For a similar unsatisfaction or dissatisfaction with previous 
+                teachings, see Niśvāsa mūla 1.9:
+                <sep/>
+                <skt>vedāntaṃ viditaṃ deva sāṃkhyaṃ vai pañcaviṃśakam |
+                     na ca tṛptiṃ gamiṣyāmo hy ṛte śaivād anugrahāt ||</skt>
+                <sep/>
+                 and Śivadharmaśāstra... CHECK.</NOTE>
+        % CHECK \msCa\msCb
+
+<TEXT> janamejaya yat{ }pūrvaṃ tac{ }chṛṇu tvam{ }atandritaḥ||</TEXT> 1.3
+        <!-- <TR>in the past, listen to that unweariedly.</TR> -->
+        <APP>\vc <LEM>janamejaya yat</LEM> \eme;
+                  janamejayena yat \msCapcorr\msCb\msNa\msNb\msNc\Ed,
+                  janamejaye yat \msCaacorr,
+                  janmejayena yam \msCc\oo
+                 <LEM>pūrvaṃ</LEM> \mssCaCbCc\msNc\Ed; pūrva \msNa, pūr<UNCL>va</UNCL> \msNb</APP>
+          <APP>\vd <LEM>tac{ }chṛṇu</LEM> \msCa\msCb\msNa\msNc\Ed; tac{ }chṛṇa \msCc, ××× \msNb\oo
+                   <LEM>°tandritaḥ</LEM> \msCc; °tandritam \msCa\msCb\msNc\Ed, °tandri<UNCL>tam</UNCL> \msNa, ××× \msNb</APP>
+                        %\msCc chruṇa ... atandritaḥ CHECK
+        <NOTE>Vaiśampāyana, a ṛṣi, the disciple of Vyāsa, recited the Mahābhārata at the snake sacrifice of 
+                Janamejaya. CHECK SOURCE 
+                <sep/>
+                Note how we are forced to emend Łpāda$ c to contain a stem form proper noun (Łjanamejaya$)
+                to maintain the metre, and note how the manuscripts struggle with this Łpāda$.
+        </NOTE>
+                        (source: Index to the Names in the Mahabharata online: 
+                        https://www.sanskrit-lexicon.uni-koeln.de/scans/INMScan/2013/web/webtc/indexcaller.php )
+% stem form noun = prātipadika
+
+
+<TEXT> janamejaya uvāca|*</TEXT>
+        <!-- <TR>Janamejaya spoke:</TR> -->
+        <APP>\vo <LEM>janamejaya</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; janmejaya \msCc</APP>
+
+<TEXT> bhagavan{ }sarvadharmajña sarvaśāstraviśārada|</TEXT>
+        <!-- <TR>O venerable sir, O knower of the entire Dharma, O you who are well-versed in all the
+                sciences (Łśāstra$)!</TR> -->
+       <APP>\va <LEM>bhagavan{ }sa°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; bhacāvaṃ sa° \msCc\oo
+                <LEM>°dharma°</LEM> \mssCaCbCc\msNb\msNc\Ed; \om\ \msNa</APP>
+       <APP>\vb <LEM>°viśārada</LEM> \msCa\msNb\msNc; °visāradaḥ \msCb\msCc\msNa\Ed</APP>
+
+% Kenji says neuter Dharma
+% Flo guhya dharma is a formula
+<TEXT> asti dharmaṃ paraṃ guhyaṃ saṃsārārṇavatāraṇam||</TEXT> 1.4
+        <!-- <TR>Is there a supreme and secret Dharma which liberates [us] from the ocean of 
+                        mundane existence (Łsaṃsāra$)?</TR> -->
+        <APP>\vd <LEM>dharmaṃ</LEM> \msCa\msNa\msNb\msNc\Ed; dharmaḥ \msCb, dharma \msCc\oo
+                 <LEM>paraṃ guhyaṃ</LEM> \msCa\msNb\Ed; paro guhya \msCb, paraṃ guhya \msCc\msNa, paraguhyaṃ \msNc</APP>
+        <NOTE>Note Łdharma$ as a neuter noun in Łpāda$ c and in the next verse.</NOTE> -->
+
+        % = Vyāsa check his role: Vyāsa --> Vaiśampāyana --> Ugraśravas
+<TEXT> dvaipāyanamukhodgīrṇaṃ dharmaṃ yat{ }tad{ }dvijottama|</TEXT>
+        <!-- <TR>Teach me the Dharma that emerged from [Vyāsa] Dvaipāyana's mouth, O best of Brahmins.</TR> -->
+        <APP>\va <LEM>dvaipāyana°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dvepāyana° \msCc\oo
+                 <LEM>°mukhodgīrṇaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; °mukhodgīrṇa \msCc, mukhād{ }gīrṇaṃ \Ed</APP>
+         <APP>\vb <LEM>dharmaṃ yat{ }tad{ }dvi°</LEM> \msCb; dharmaṃ vā yad{ }dvi° \msCa\msNa\msNb\msNc\Ed, 
+                                                                dharmavat{ }ya dvi° \msCc\oo 
+                  <LEM>°ttama</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °ttamaḥ \msCc</APP>  
+        <NOTE>The majority of the MSS consulted include a Łvā$ in Łpāda$ b, 
+                distinguishing between the `secret Dharma' mentioned in 1.4c and
+                the one taught by Vyāsa. This may or may not be the better reading.
+                I decided to follow MS \msCb\ because I suspected that the two Dharmas
+                hinted at are the same.</NOTE>
+
+<TEXT> kathayasva hi me tṛptiṃ kuru yatnāt{ }tapodhana||</TEXT> 1.5
+        <!-- <TR>Help me find satisfaction at all cost, O great ascetic!</TR> -->
+        <APP>\vd <LEM>yatnāt{ }tapodhana</LEM> \msCb\msNa\msNb\msNc\Ed; yannāt{ }ta¤¤na \msCa,
+                                                        yatnā tapodhanaḥ \msCc</APP>
+
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+        <!-- <TR>Vaiśampāyana spoke:</TR> -->
+
+%vipulā
+<TEXT> śṛṇu rājann{ }avahito dharmākhyānam{ }anuttamam|</TEXT>
+        <!-- <TR>Listen with great attention, O king, to this unsurpassed narration of Dharma.</TR> -->
+        <APP>\vb <LEM>°khyānam{ }anuttamam</LEM> \msCa\msNa\msNb\msNc\Ed; °khyānam{ }uttamam \msCb,
+                                               °khyānam{ }utamam \msCc</APP>
+
+<TEXT> vyāsānugrahasamprāptaṃ guhyadharmaṃ śṛṇotu me||</TEXT> 1.6
+        <!-- <TR>Hear the secret Dharma that I received by Vyāsa's favour.</TR> -->
+        <APP>\vc <LEM>°prāptaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °prāpta \msCc</APP>
+        <APP>\vd <LEM>°dharmaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °rmaṃ \msCc\oo
+                 <LEM>śṛṇotu</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; śṛṇota \msCc\oo
+                 <LEM>me</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; mai \msCb</APP>
+
+<TEXT> anarthayajñakartāraṃ tapovrataparāyaṇam|</TEXT>
+        <APP>\va <LEM>°kartāraṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; °karttantaṃ \msNb</APP>
+        <APP>\vb <LEM>°yaṇam</LEM> \msCa\msCb\msNb\msNc\Ed; °yana \msCc, °yaṇaḥ \msNa</APP>
+% \msNc °yanaṃ 
+
+<TEXT> śīlaśaucasamācāraṃ sarvabhūtadayāparam||</TEXT> 1.7
+        <APP>\vd <LEM>°param</LEM> \msCa\msCb\msNa\msNc\Ed; °nvitam \msCc, °<UNCL>pa</UNCL>raṃ \msNb</APP>
+        <!-- <TR>|F| Viṣṇu, the great Lord, assuming the form of a Brahmin, wanted to
+                 test the one who performed nonmaterial sacrifices,
+                 the one who focused on his austerities and observances,
+                 the one whose conduct was virtuous and pure, and who was intent on
+                 compassion towards all living beings, and therefore he humbly asked him a question.</TR> -->
+        <NOTE>Note the odd syntax here: Łviṣṇunā... dvijarūpadharo bhūtvā papraccha$.
+               The agent of the active verb is in the instrumental case.</NOTE>
+
+% ma-vipulā
+% MBh likes viṣṇunā prabhaviṣṇunā Kenji
+<TEXT> jijñāsanārthaṃ praśnaikaṃ viṣṇunā prabhaviṣṇunā|</TEXT>
+        <APP>\va <LEM>°rthaṃ praśnaikaṃ</LEM> \msCb\msNa\msNb\msNc; °rthaṃ praśnekaṃ \msCa, 
+                                        °rthapraśnekam \msCc\Ed</APP>
+        <APP>\vb <LEM>prabha°</LEM> \msCa\msCb\msNa\msNb\Ed; prabhu° \msCc, prābha° \msNc</APP>
+
+<TEXT> dvijarūpadharo bhūtvā papraccha vinayānvitaḥ||</TEXT> 1.8
+        <APP>\vc <LEM>°dharo</LEM> \msCb\msCc\msNa\msNc\Ed; °¤ro \msCa, °dharā \msNb</APP>
+        <APP>\vd <LEM>°nvitaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °nvitaṃ \msCc</APP>
+% śīla and vinaya sound Buddhist Kenji
+% \msNc\ rāpadharo 
+% \msNc\ <CANCELLED>paṃ</CANCELLED> papraccha 
+
+
+<SUBCHAPTER>brahmavidyā</SUBCHAPTER>
+<TRSUBCHAPTER>The knowledge of Brahman</TRSUBCHAPTER>
+%Naraharinatha p.581
+<TEXT> [vigatarāga uvāca|*]</TEXT>
+        <!-- <TR>[Vigatarāga spoke:]</TR> -->
+
+<TEXT> brahmavidyā kathaṃ jñeyā rūpavarṇavivarjitā|</TEXT>
+        <!-- <TR>How is the knowledge of Brahman to be understood if [this knowledge] is devoid of 
+                [definitions of the] form and colour [of Brahman]?</TR> -->
+        <APP>\va <LEM>jñeyā</LEM> \msCa\msNa\msNb\msNc; jñeyaṃ \msCb\msCc, bhūyo \Ed</APP>
+        <APP>\vb <LEM>°varṇa°</LEM> \mssCaCbCc\msNa\msNb\msNc; °varṇā° \Ed\oo
+                 <LEM>°varjitā</LEM> \msCa\msCb\msNa\msNb\Ed; °varjitaṃ \msCc, °varjitāḥ \msNc</APP>
+
+% \msCb\ 405.jpg f. 202r
+% CHECK kimu more deeply, also Altindische Syntax by Berthold Delbrück on kimu pp. 504--
+<TEXT> svaravyañjananirmuktam{ }akṣaraṃ kimu tat{ }param||</TEXT> 1.9
+        <!-- <TR>[And] the syllable that is devoid of vowels and consonants:
+                                is that [its] highest [form]?</TR> -->
+        <APP>\vc <LEM>°vyañjana°</LEM> \mssCaCbCc\msNa\msNb\msNc; °vyajjana° \Ed\oo
+                 <LEM>°muktam{ }akṣa°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °mukta akṣa° \msCb</APP>
+        <APP>\vd <LEM>kimu tat{ }param</LEM> \msCa\msNa\msNc\Ed; kim{ }ataḥ param \msCb\msCc, kim{ }atat{ }paraṃ \msNb</APP>
+        <NOTE>The translation of this verse, and the reconstruction and interpretation
+                        of Łpāda$ d, which is echoed in 1.10d, is slightly tentative.</NOTE>
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <!-- <TR>Anarthayajña spoke:</TR> -->
+
+        %CHECK /gretil/stkal_au.htm.txt and Niśv kārikā
+<TEXT> anuccāryam{ }asandigdham{ }avicchinnam{ }anākulam|</TEXT>
+        <!-- <TR>That syllable is not to be pronounced, is unquestionable, non-dividable, consistent,</TR> -->
+        <APP>\va <LEM>°ccārya°</LEM> \msCa\msCb\msNa\msNb\Ed; °cārya° \msCc\msNc</APP>
+        <APP>\vab <LEM>°sandigdham{ }avicchinnam{ }anākulam</LEM> \msCa\msCb\msNa\msNc\Ed;
+                                °vicchinnasandigdham{ }anākuna \msCc, °sandigdha\-m{ }anacchinnam{ }anākulam \msNb</APP>
+
+% \msCc\ 182.jpg, f. 267v (not 237v as online shown)
+<TEXT> nirmalaṃ sarvagaṃ sūkṣmam{ }akṣaraṃ kimu tatparam||</TEXT> 1.10
+        <!-- <TR>spotless, all-pervading and subtle: what could be higher than that?</TR> -->
+        <APP>\vd <LEM>kimu tatparam</LEM> \msCa\msNa\msNb\msNc\Ed; kim{ }ataḥ param \msCb,
+                                                kim{ }atatparaṃ \msCc</APP>
+        <NOTE>I interpret Łpāda$ d, which is an echo of 1.9d, tentitvely as a compound,
+                slightly differently from the way I did above.</NOTE>
+

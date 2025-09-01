@@ -1,0 +1,834 @@
+<START/>
+<startchapter-n="21"/> 
+%folioinfo \msCa\ 457.jpg line 1
+%folioinfo \msCb\ 465.jpg line 3
+%folioinfo \msCc\ 242.jpg line 2
+%folioinfo \msNa\ 231.jpg upper image, line 6
+%folioinfo \msNb\ 075.jpg upper image, line 5
+%folioinfo \msNc\ 248.jpg lower image, line 4, f. 246r
+%chapter 21
+%folioinfo \Ed\ p.661 
+
+<ANUSTUBH/>
+<CHAPTER>ekaviṃśatimo 'dhyāyaḥ</CHAPTER>
+<TRCHAPTER>Chapter Twenty-One</TRCHAPTER>
+
+
+<SUBCHAPTER>viṣṇuḥ svarūpaṃ darśayati</SUBCHAPTER>
+<TRSUBCHAPTER>Viṣṇu reveals his true form</TRSUBCHAPTER>
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+% Anarthayajña has been teaching Vigatarāga these topics
+<TEXT> aho matimatāṃ śreṣṭha aho dharmabhṛtāṃ vara|</TEXT>
+        <APP>\va <LEM>matimatāṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; matimanā \Ed</APP>
+        <APP>\vb <LEM>vara</LEM> \msCa\msCc\msNa\msNb\msNc; varaḥ \msCb\Ed</APP>
+        <TR>``Bravo, O best of the wise, bravo, O best of the guardians of Dharma!</TR>
+        % matimat:  m. N. of a son of Janam-ejaya, Hariv.
+%index_anarthayajna_ref_as: dharmabhṛtāṃ vara
+
+%               śamaḥ metri causa!
+<TEXT> aho dama śamaḥ satya aho yajña aho tapaḥ||</TEXT> 21:1
+        <APP>\vc <LEM>dama śamaḥ</LEM> \msCa\msCb\msNa\msNb; damaḥ śamaḥ \msCc\msNc\Ed</APP>
+        <TR>What self-control, what tranquillity! What a sacrifice, what penance!</TR>
+%folioinfo \msNa\ 231.jpg lower image
+
+<TEXT> anenāmṛtavākyena vismayo me paro gataḥ|</TEXT>
+        <APP>\vb <LEM>me paro gataḥ</LEM> \mssCaCbCc\msNa\msNc\Ed; \lac5 ××××× \msNb</APP>
+        <TR>By this nectar-like speech [of yours], my amazement has risen considerably.</TR>
+
+<TEXT> prīto 'smi ca tapādhārajñānādbhutarasena ca||</TEXT> 21:2
+        <APP>\vc <LEM>prīto 'smi ca</LEM> \msCb\msCc\msNa\msNc\Ed; <UNCL>pr</UNCL>\lac2 ×× ca \msCa, \lac4 ×××× \msNb</APP>
+        <APP>\vd <LEM>tapādhārajñānādbhutarasena ca</LEM> \mssCaCbCc\msNa\msNc; 
+                                                \lac12 ×××××××××××× \msNb, tapādhārajñānādbhūtarasena ca \Ed</APP>
+        <TR>And I am pleased with the extraordinary flavour of knowledge based on penance.</TR>
+
+% vara shd be masc.
+<TEXT> kiṃ dadāmi varaṃ brūhi dātāsmi tava cepsitam|</TEXT>
+        <APP>\va <LEM>kiṃ dadāmi varaṃ brūhi</LEM> \mssCaCbCc\msNa\msNc\Ed; \lac7 ××××××× hi \msNb</APP>
+        <APP>\vb <LEM>cepsitam</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; cesmitam \msCb</APP>
+        <TR>What kind of boon  shall I give you? Tell me. I'll give you anything you desire.''</TR>
+
+% function of tena: probably for so 'pi
+<TEXT> etac{ }chrutvā tatas{ }tena pratyuvāca śubhāṃ giram||</TEXT> 21:3
+        <TR>Having heard this, [Anarthayajña] then replied with appropriate words.</TR>
+        <APP>\vd <LEM>śubhāṃ giram</LEM> \mssCaCbCc\msNa\msNb\msNc; śubhāṅgirām \Ed</APP>
+
+<TEXT> [anarthayajña uvāca|*]</TEXT>
+        <TR>[Anarthayajña spoke:]</TR>
+
+%                 cf. varadaṃ vareṇyaṃ in 21.26c
+<TEXT> ko bhavān varadaśreṣṭha devadānavarākṣasāḥ|</TEXT>
+        <TR>``Who are you, O best of benefactors? Are you a god, a Dānava-demon or a Rākṣasa?</TR>
+        <APP>\va <LEM>bhavān</LEM> \msCapcorr\msCb\msCc\msNa\msNb\msNc\Ed; bhagavān \msCaacorr\oo
+                 <LEM>varada śreṣṭha</LEM> \mssCaCbCc\msNa\msNb\msNc; varadaḥ śreṣṭhaḥ \Ed</APP>
+        <APP>\vb <LEM>°rākṣasāḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; °rākṣasaḥ \Ed</APP>
+
+<TEXT> athavā bhagavān{ }viṣṇur{ }mama jijñāsur{ }āgataḥ||</TEXT> 21:4
+        <APP>\vd <LEM>°gataḥ</LEM> \mssCaCbCc\msNa\msNc\Ed; °grataḥ \msNb</APP>
+                <TR>Or rather [you must be] Lord Viṣṇu, who has come to test me.</TR>
+
+<TEXT> vyaktaṃ tvāṃ puruṣaśreṣṭha jānāmi puruṣottama|</TEXT>
+        <TR>I recognize you clearly, O best of men, O highest person!</TR>
+         <APP>\va <LEM>vyaktaṃ tvāṃ</LEM> \msCa\msCb\msNa; vyaktatvaṃ \msCc\Ed, vyaktatva \msNb, vyaktaṃ tvaṃ \msNc\oo
+                  <LEM>°śreṣṭha</LEM> \mssCaCbCc\msNa\msNb\msNc; °śreṣṭhaḥ \Ed</APP>
+         <APP>\vb <LEM>puruṣottama</LEM> \msCb\msNa\msNb\msNc; <UNCL>pu</UNCL>\lac2 ×× ttama \msCa,
+                                        puruṣotta\lac1 × \msCc, puruṣottamaḥ \Ed</APP>
+
+<TEXT> rūpaṃ darśaya govinda yady{ }asti tapasaḥ phalam||</TEXT> 21:5
+        <TR>Display your [true] Form, O Govinda, if penance can yield fruit.''</TR>
+        <APP>\vc <LEM>rūpaṃ darśaya govinda</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; \lac6 ×××××× vinda \msCc</APP> 
+        <APP>\vd <LEM>tapasaḥ phalam</LEM> \mssCaCbCc\msNa\msNc\Ed; ta\lac4 ×××× \msNb</APP>
+
+
+
+<TEXT>[vaiśampāyana uvāca]|*</TEXT>
+        <TR>[Vaiśampāyana spoke:]</TR>
+
+<TEXT> tatas{ }tu puṇḍarīkākṣo darśayāmāsa svāṃ tanum|</TEXT>
+        <APP>\vab <LEM>tatas{ }tu puṇḍarīkākṣo darśayāmāsa svāṃ tanum</LEM> \mssCaCbCc\msNa\msNc\Ed; \lac16 ×××××××××××××××× \msNb</APP>
+        <TR>Then lotus-eyed Hari displayed his own [true] body,</TR>
+%index_grammar: licence (svāṃ tanum); read whole verse!
+
+%                 mace:
+<TEXT> śaṅkhacakragadāpāṇiḥ pītāmbaradharo hariḥ||</TEXT> 21:6
+        <APP>\vc <LEM>śaṅkhacakragadāpāṇiḥ</LEM> \mssCaCbCc\msNa\msNc\Ed; \lac8\ ×××××××× \msNb</APP>
+        <TR>holding in his hands a conch-shell, a discus and a mace, wearing yellow garments.</TR>
+% śaṅkhacakragadāvedapāṇiścāśvaśirā hariḥ।            purana/agni-puranam/049.txt
+
+%folioinfo \msNb\ 076.jpg lower image
+% ma-vipulā
+<TEXT> anarthayajñas{ }taṃ dṛṣṭvā vismayaṃ paramaṃ gataḥ|</TEXT>
+        <APP>\vb <LEM>vismayaṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; vismasaṃ \msNc</APP>
+        <TR>Seeing him, Anarthayajña was truly amazed.</TR>
+
+<TEXT> praharṣam{ }atulaṃ labdhvā aśrupūrṇākulekṣaṇaḥ||</TEXT> 21:7
+        <TR>Thrilled by unequalled delight, his eyes filled with tears,</TR>
+        <APP>\vc <LEM>labdhvā</LEM> \msCa\msCb\msNa\msNc\Ed; labba \msCc, <UNCL>ladyā</UNCL> \msNb</APP>
+
+<TEXT> vepamānasvareṇātra uvāca ca janārdanam|</TEXT>
+        <TR>his voice trembling, he began speaking to Janārdana [i.e. Viṣṇu].</TR>
+        <APP>\vab <LEM>vepamānasvareṇātra uvāca ca janārdanam</LEM> \msCb\msNa\msNb\msNc; 
+                vepamāna\lac6 ×××××× ca ca janārdanam \msCa,
+                vepamāna\lac3 ××× tra u\lac7 ××××××× \msCc, 
+                vepamānasvareṇārta uvāca ca janārdanam \Ed</APP>
+
+<TEXT> adya me saphalaṃ janma adya me saphalaṃ tapaḥ||</TEXT> 21:8
+        <TR>``My birth and my austerities have now borne their fruits.</TR>
+        <APP>\vc <LEM>adya me saphalaṃ janma</LEM> \msCa\msCb\msNa\msNb\msNc\Ed;
+                                        <UNCL>adya</UNCL>\lac4 ×××× <UNCL>janma</UNCL> \msCc</APP>
+                 <PARAL>\vcd Ł= Kūrmapurāṇa 1.11.219 \similar\ MBh 5.113.5ab:$
+                                 adya me saphalaṃ janma tāritaṃ cādya me kulam
+                         \similar\ ŁMBh 13.14.179a:$ 
+                                adya jāto hy ahaṃ deva adya me saphalaṃ tapaḥ</PARAL>
+% adya me saphalaṃ janma adya me saphalaṃ tapaḥ।            purana/vayu-puranam/02/044.txt
+% Padmapurāṇa etc.
+                        
+
+
+
+<NOTANUSTUBH/> jagatī
+%folioinfo \Ed\ p.662
+%                               loc. for dat.? or from sambhu ?
+<TEXT> namo namas{ }te 'stu janādisambhave</TEXT>
+        <LACUNA>\vo ŁThis verse is omitted in \msCb.$</LACUNA>
+        <TR>Obeisance to you who are the origin of man and other [living beings]! [?]</TR>
+% (namoŁ...$ °pitāmahodbhave)</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; \om\ \msCb
+
+%folioinfo \msNc\ 249.jpg upper image, f. 246v
+<TEXT> namo namas{ }te 'stu ca viśvarūpiṇe|</TEXT>
+        <TR>Obeisance to you who are the universe!</TR>
+        <APP>\vb <LEM>namas{ }te</LEM> \mssCaCbCc\msNapcorr\msNb\msNc\Ed; namas{ }tu \msNaacorr\oo
+                 <LEM>'stu ca viśvarūpiṇe</LEM> \mssCaCbCc\msNa\msNc\Ed; \lac7 ××××××× \msNb</APP>
+
+% suspicious:
+<TEXT> namo namas{ }te 'stu janābhisambhave</TEXT>
+        <TR>Obeisance to you who [transforming into a person? DG] </TR>
+        <APP>\vc <LEM!>namo namas{ }te 'stu janābhisambhave</LEM> \mssCaCbCc\msNc\Ed; \om\ \msNa, \lac13 ××××××××××××× \msNb</APP>
+
+%                               loc for dat:
+<TEXT> namo namas{ }te 'stu pitāmahodbhave||</TEXT> 21:9
+        <APP>\vd <LEM>namo namas{ }te 'stu pitāmahodbhave</LEM> \mssCaCbCc\msNa\msNc\Ed; \lac9 ××××××××× hottave \msNb</APP>
+        <TR>Obeisance to you from whom Brahmā was born!</TR>
+
+
+
+
+<TEXT> namo namas{ }te 'stu sahasraśīrṣiṇe</TEXT>
+        <APP>\va <LEM>°śīrṣiṇe</LEM> \msNa\msNb\msNc\Ed; \om\ \msCa\msCb, °śīrṣaṇe \msCc</APP>
+        <LACUNA>\vo ŁThis verse is omitted in \msCa\msCb.$</LACUNA>
+        <TR>Obeisance to you who have a thousand heads!</TR>
+%(namo namas{ }te 'stu sahasraśīrṣiṇeŁ...$ °vakṣase)</LEM> \msCc\msNa\msNb\msNc\Ed; \om\ \msCa\msCb
+
+%folioinfo \msCc\ 243.jpg
+<TEXT> namo namas{ }te 'stu sahasracakṣuṣe|</TEXT>
+        <TR>Obeisance to you who have a thousand eyes!</TR>
+
+<TEXT> namo namas{ }te 'stu sahasraliṅgine</TEXT>
+        <TR>Obeisance to you who have a thousand liṅgas!</TR>
+
+<TEXT> namo namas{ }te 'stu sahasravakṣase||</TEXT> 21:10
+        <TR>Obeisance to you who have a thousand chests!</TR>
+
+
+
+
+
+<TEXT> namo namas{ }te 'stu sahasramūrtaye</TEXT>
+        <LACUNA>\vo ŁThis verse is omitted in \msCa.$</LACUNA>
+        <TR>Obeisance to you who have a thousand embodiments!</TR>
+%(namo namas{ }te 'stu sahasramūrtayeŁ...$ °māyine)</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \om\ \msCa
+
+<TEXT> namo namas{ }te 'stu sahasrabāhave|</TEXT>
+        <TR>Obeisance to you who have a thousand arms!</TR>
+
+<TEXT> namo namas{ }te 'stu sahasravaktriṇe</TEXT>
+        <APP>\vc <LEM>°vaktriṇe</LEM> \Ed; \om\ \msCa, °cakriṇe \msCb\msCc\msNc, °vakriṇe \msNa\msNb</APP>
+        <TR>Obeisance to you who have a thousand faces!</TR>
+
+%folioinfo \msCb\ 466.jpg
+<TEXT> namo namas{ }te 'stu sahasramāyine||</TEXT> 21:11
+        <TR>Obeisance to you who have a thousand supernatural powers!</TR>
+
+
+
+
+<TEXT> namo namas{ }te 'stu varāharūpiṇe</TEXT>
+        <TR>Obeisance to you who assumed the form of a boar!</TR>
+        <LACUNA>\va ŁThis pāda is omitted in \msCa.$</LACUNA>
+        <APP>\va <LEM!>namo namas{ }te 'stu varāharūpiṇe</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \om\ \msCa</APP>
+
+% Varāha avatāra                  proper dat. from hṛt
+<TEXT> namo namas{ }te 'stu mahīsamuddhṛte|</TEXT>
+        <TR>Obeisance to you who [in that form] dug out and saved the Earth!</TR>
+
+<TEXT> namo namas{ }te 'stu ca bhūtasṛṣṭine</TEXT>
+        <APP>\vc <LEM>°sṛṣṭine</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; °sṛ\lac2 ×× \msCa</APP>
+        <TR>Obeisance to you who create all living beings!</TR>
+
+%                               loc. for dat.:
+<TEXT> namo namas{ }te caturāśramāśraye||</TEXT> 21:12
+        <APP>\vd <LEM>namas{ }te</LEM> \msCa\msCb\msNapcorr\msNb\msNc\Ed; namas{ }te stu \msCc\msNaacorr\oo
+                 <LEM>°śraye</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °śrame \msCb</APP>
+        <TR>Obeisance to you on who are the seat of the four life-stages!</TR>
+
+
+
+<TEXT> namo namas{ }te narasiṃharūpiṇe</TEXT>
+        <TR>Obeisance to you who assumed the form of the Man-lion!</TR>
+
+<TEXT> namo namas{ }te ditijoradāriṇe|</TEXT>
+        <APP>\vb <LEM>namo namas{ }te ditijoradāriṇe</LEM> \mssCaCbCc\Ed; \om\ \msNa, namo namas{ }te ditijoradāruṇe \msNb,
+                       namo namas{ }te stu ditijoradāriṇe \msNc, namo namas{ }te 'ditijoradāraṇe \Ed</APP>
+        <TR>Obeisance to you who [in that form] tore asunder the chest of Diti's son [Hiraṇyakaśipu]!</TR>
+
+                 % ditija-ura[s]-dāri (metri causa)  
+<TEXT> namo namas{ }te 'suracakrasūdane</TEXT>
+        <APP>\vc <LEM>°cakra°</LEM> \conj; °śakra° \mssCaCbCc\msNa\msNb\msNc\Ed\oo
+                 <LEM>°sūdane</LEM> \mssCaCbCc\msNa\msNb\Ed; °sūdene \msNc</APP>
+        <TR>Obeisance to you who destroyed the armies [conj.] of the Asuras!</TR>
+
+% asuraśatru? Yuko?
+        % śakra is also the name of an Āditya ???
+        % sūdane is loc. for dative
+<TEXT> namo namas{ }te 'suradarpanāśane||</TEXT> 21:13
+        <TR>Obeisance to you who destroyed the Asuras' haughtiness!</TR>
+
+
+
+<TEXT> namo namas{ }te ditiputradāmane</TEXT>
+        <APP>\va <LEM>°dāmane</LEM> \msCa\msCb\msNa; °vāmane \msCc\Ed, °nāsane \msNb, °<UNCL>vā</UNCL>mane \msNc</APP>
+        <TR>Obeisance to you who tamed Diti's son [Bali?]!</TR>
+        % dāmane for damanāya (dāmaṇe \msCb check other MSS)
+        % vāmana (for vāmanāya) is a possible reading, his mother was Aditi ('diti)
+        % below it is about vāmana
+% as Vāmana (trivikrama), born to Aditi, Viṣṇu punishes Bali:
+
+<TEXT> namo namas{ }te baliyajñasūdane|</TEXT>
+        <TR>Obeisance to you who destroyed Bali's sacrifice!</TR>
+
+%                                for  vikramāya
+<TEXT> namo namas{ }te 'stu ṣaḍardhavikrame</TEXT>
+        <APP>\vc <LEM>ṣaḍardhavikrame</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; <UNCL>ṣa</UNCL>\lac3 ××× krame \msCa</APP>
+        <TR>Obeisance to you of the three steps/Trivikrama!</TR>
+
+%                          for nāśanāya
+<TEXT> namo namas{ }te tridaśārtināśane||</TEXT> 21:14
+        <TR>Obeisance to you who drove away the pain of the thirty gods!</TR>
+
+
+
+%                                  for acyutāya
+<TEXT> namo namas{ }te 'stu ananta acyute</TEXT>
+        <TR>Obeisance to you who are imperishable, O endless one!</TR>
+        % acyute loc. for dative
+
+<TEXT> namo namas{ }te jagadartināśane|</TEXT>
+        <APP>\vb <LEM>jagada°</LEM> \mssCaCbCc\msNa\msNb\msNc; jagadā° \Ed</APP>
+        <TR>Obeisance to you who drive away the pain of the world!</TR>
+
+<TEXT> namo namas{ }te madhukaiṭanāśane</TEXT>
+        <APP>\vc <LEM>°kaiṭa°</LEM> \msCa\msCb\msNa\msNc; °kīṭa° \msCc\msNb\Ed</APP>
+        <TR>Obeisance to you who killed [the Asuras] Madhu and Kaiṭa[bha]!</TR>
+        % kaiṭa is short for Kaiṭabha, brother of Madhu, the name of an asura; they stole the Vedas
+
+%index_grammar: licence tr
+<TEXT> namo namas{ }te 'stu trilokabāndhave||</TEXT> 21:15
+        <TR>Obeisance to you who are the friend of the three worlds!</TR>
+
+
+           % abhinandane for abhinandāya
+<TEXT> namo namas{ }te tridaśābhinandane</TEXT>
+        <TR>Obeisance to you who are the delight of the thirty gods!</TR>
+
+<TEXT> namo namas{ }te 'stu ca divyacakṣuṣe|</TEXT>
+        <TR>Obeisance to you who possess divine vision!</TR>
+
+<TEXT> namo namas{ }te 'stu bhavāntapārage</TEXT>
+        <TR>Obeisance to you who have gone beyond the limits of existence!</TR>
+
+
+%folioinfo \msCa\ 458.jpg
+%index_grammar: licence tr
+<TEXT> namo namas{ }te 'stu trilokapūjite||</TEXT> 21:16
+        <TR>Obeisance to you who are worshipped by the three worlds!</TR>
+        % pūjite for pūjitāya
+
+
+
+%folioinfo \msNa\ 232.jpg upper image
+<TEXT> namo namas{ }te 'stu gadāgrapāṇaye</TEXT>
+        <TR>Obeisance to you who hold a mace in [one of] your right[?] hand[s]!</TR>
+        % agrapāṇi may mean 'the right hand', or 'the hand stretched forward?' the hand DG agra
+
+<TEXT> namo namas{ }te varacakrapāṇaye|</TEXT>
+        <APP>\vb <LEM>varacakrapāṇaye</LEM> \mssCaCbCc\msNa\msNb\Ed; varakrapāṇase \msNc</APP>
+        <TR>Obeisance to you who hold an excellent discus in your hand!</TR>
+
+<TEXT> namo namas{ }te 'stu ca śaṅkhapāṇaye</TEXT>
+        <TR>Obeisance to you who hold a conch-shell in your hand!</TR>
+
+%folioinfo \Ed\ p.663 kambhu Nirajan!
+<TEXT> namo namas{ }te 'stu ca kambupāṇaye||</TEXT> 21:17
+        <TR>Obeisance to you who hold a conch-shell[? rather: lotus] in your hand!</TR>
+% kambu is conch... but see śaṅkha above
+
+
+
+
+<TEXT> namo namas{ }te 'stu jalaughaśāyine</TEXT>
+        <APP>\va <LEM>jalaugha°</LEM> \msCa\msCb\Ed; jalogha° \msCc\msNa\msNb\msNc</APP>
+        <TR>Obeisance to you who recline on the ocean!</TR>
+
+<TEXT> namo namas{ }te haramardarūpiṇe|</TEXT>
+        <APP>\vb <LEM>namas{ }te haramardarūpiṇe</LEM> \msCb\msNa\msNb\msNc\Ed; 
+                        nama\lac4 ×××× rddarūpiṇe \msCa,
+                        \lac7 ××××××× marddarūpiṇe \msCc</APP>
+        <TR>Obeisance to you who have the form that crushed Hara [the Dānava?]!</TR>
+
+<TEXT> namo namas{ }te khagarājaketave</TEXT>
+        <TR>Obeisance to you whose banner has the King of Birds [Garuḍa] [on it]!</TR>
+        <APP>\vc <LEM>°ketave</LEM> \mssCaCbCc\msNa\msNb\msNc; °ketane \Ed</APP>
+
+        % loc. for dat:
+<TEXT> namo namas{ }te śaśisūryalocane||</TEXT> 21:18
+        <TR>Obeisance to you whose eyes are the Sun and the Moon!</TR>
+
+        % loc. for dat.:
+<TEXT> namo namas{ }te uragārivāhane</TEXT>
+        <TR>Obeisance to you whose vehicle is the Enemy of Serpents [i.e. Garuḍa]!</TR>
+
+<TEXT> namo namas{ }te 'dbhutarūpadarśine|</TEXT>
+        <APP>\vb <LEM>°darśine</LEM> \mssCaCbCc\msNa\msNc\Ed; °darśane \msNb</APP>
+        <TR>Obeisance to you who display your extraordinary form!</TR>
+
+<TEXT> namo namas{ }te 'yutasūryatejase</TEXT>
+        <APP>\vc <LEM>'yuta°</LEM> \mssCaCbCc\msNa\msNb\msNc; 'stu ca \Ed\oo
+                 <LEM>°tejase</LEM> \msCa\msCb\msNa\msNc\Ed; °te \msCc, °locane \msNb</APP>
+        <TR>Obeisance to you whose splendour is that of a hundred thousand suns!</TR>
+
+%                                   dhruvāya
+<TEXT> namo namas{ }te 'mṛtamanthanadhruve||</TEXT> 21:19
+        <TR>Obeisance to you who was, [in your Kūrma-avatāra] the firm support at the churning out of the divine nectar!</TR>
+        % this is for °dhruvāya loc. for dat.
+
+
+
+
+                          % for saṃstutāya
+<TEXT> namo namas{ }te 'maralokasaṃstute</TEXT>
+        <APP>\va <LEM>'maralokasaṃstute</LEM> \mssCaCbCc\msNb\msNc; maralokavandite \msNa, malalokasaṃstute \Ed</APP>
+        <TR>Obeisance to you who are praised in the world of immortals!</TR>
+
+<TEXT> namo namas{ }te jagamaṇḍapāśraye|</TEXT>
+        <APP>\vb <LEM>namo namas{ }te jagamaṇḍapāśraye</LEM> \msCa\msCb\msNc\Ed;
+                                 \lac10 ×××××××××× <UNCL>śraye</UNCL> \msCc, \om\ \msNa, namo namas{ }te jagamaṇḍalāśraye \msNb</APP>
+        <TR>Obeisance to you who are the seat of the temple of the world!</TR>
+
+%folioinfo \msCc\ 244.jpg
+% loc. for dat.:
+<TEXT> namo namas{ }te jagadekavatsale</TEXT>
+        <APP>\vc <LEM>jagadeka°</LEM>  \msCa\msCb\msNa\msNb\msNc\Ed; jaga<UNCL>de</UNCL>ka° \msCc\oo      
+                <LEM>°vatsale</LEM> \mssCaCbCc\msNa\msNb\msNc; °vatsare \Ed</APP>
+        <TR>Obeisance to you, the only one affectionate towards the world!</TR>
+% one darling of the universe
+
+% loc. for dat.:                -dāya
+<TEXT> namo namas{ }te śivasarvade namaḥ||</TEXT> 21:20
+        <APP>\vd <LEM>°sarvade</LEM> \mssCaCbCc\msNa\msNc\Ed; °sarvado \msNb</APP>
+        <TR>Obeisance to you who bestow happiness on everyone, obeisance!</TR>
+        <PARAL>\vd ŁCf.\ Bṛhatkālottara (NGMPP B 29/59) f.\ 87a:$ 
+                jñāna 2 śabda 2 sūkṣma 2 śivasarvada oṃ namaḥ śivāya|</PARAL>
+% note how this last namaḥ ends this section
+
+% half of the chapter!
+
+%folioinfo \msNc\ 249.jpg lower image, f. 247r
+<TEXT> kṣamasva govinda mamāparādham</TEXT>
+        <APP>\va <LEM>mamā°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; mama \msCc</APP>
+        <TR>O Govinda, forgive my sin.</TR>
+
+% Aiśa for durātmanā
+<TEXT> atīva pṛṣṭena durātmanena|</TEXT>
+        <APP>\vb <LEM>°tmanena</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °tmane \msCb</APP>
+        <TR>As you were asking me very actively, I, being a wicked person,</TR>
+
+
+%folioinfo \msNb\ 076.jpg upper image
+% stem form pronoun! ida for idaṃ!
+<TEXT> mayeda sarvaṃ kathitaṃ smayena</TEXT>
+        <APP>\vc <LEM>mayeda</LEM> \mssCaCbCc\msNa\msNb\msNc; mayedaṃ \Ed\ \unmetr</APP>
+        <TR>told you all this out of arrogance.</TR>
+
+                        % for voc? fake ending?:
+<TEXT> dayāṃ kuru tvaṃ tridaśeśvareṇa||</TEXT> 21:21
+        <APP>\vd <LEM>°śeśvareṇa</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °śaiśvareṇa \msCb</APP>
+        <TR>Have pity on me, Lord of the thirty gods [instr.?].''</TR>
+% -eśa DG; section echos BhG 11.41
+
+
+<ANUSTUBH/>
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+        <TR>Vaiśampāyana spoke:</TR>
+
+<TEXT> stotreṇānena saṃtuṣṭaḥ keśavaḥ paravīrahā|</TEXT>
+        <APP>\va <LEM>stotre°</LEM> \mssCaCbCc\msNa\Ed; strotre° \msNb, <UNCL>sto</UNCL>tre° \msNc</APP>
+        <APP>\vb <LEM>keśavaḥ paravīrahā</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; 
+                        keśava<UNCL>ḥ paravīrahā</UNCL> \msCc\ \toplost</APP>
+        <TR>Keśava, the destroyer of the heroes of the enemy, was satisfied by this hymn of praise.</TR>
+
+%                                      ?: (-ayā?) of from spṛh % DG
+<TEXT> pratyuvāca mahāseno girayā nirupaspṛhā||</TEXT> 21:22
+        <APP>\vc <LEM>pratyuvāca</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; <UNCL>pratyuvāca</UNCL> \msCc\ \toplost\oo
+                 <LEM>mahāseno</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; ma\lac3 ××× \msCa</APP>
+        <APP>\vd <LEM>girayā</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; giriyā \msCc\oo      
+                 <LEM>nirupa°</LEM> \mssCaCbCc\msNa\msNb; nirūpa° \msNc\Ed</APP>
+        <TR>He, the great general, replied in a ... [nirupaspṛhā/spṛhayā] voice. </TR>
+
+<TEXT> stotreṇānena me tāta tuṣṭo 'smi bhṛśam{ }ejitaḥ|</TEXT>
+        <APP>\va <LEM>stotre°</LEM> \mssCaCbCc\msNa\msNc\Ed; strotre° \msNb\oo
+                 <LEM>me tāta</LEM> \msCa\msCc\msNb\msNc\Ed; mattāta \msCb, saṃtāta \msNa</APP>
+        <TR>I am satisfied by this hymn of praise of me, dear Sir. I am vehemently trembling [with joy].</TR>
+%index_anarthayajna_ref_as: tāta
+
+<TEXT> durlabhāny{ }api trailokye dadāmi varam{ }īpsitam||</TEXT> 21:23
+        <APP>\vc <LEM>trailokye</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; trailokya \msCc</APP>
+        <TR>I'll grant you any boon you desire even if it is something difficult to obtain in the three worlds.</TR>
+%index_grammar: licence tr
+
+
+<NOTANUSTUBH/> upajāti
+%                        ?
+%           for stuvanti ; not dependent DG detached 
+<TEXT> anena māṃ stauti nirāśritena</TEXT>
+        <APP>\va <LEM>stauti</LEM> \msCa\msCb\msNa\msNc\Ed; stoti \msCc\msNb</APP>
+        <TR>[He who] praises me with this ....?  [hymn]</TR>
+% stauti for plural
+
+<TEXT> tvayoktavedārthamanohareṇa|</TEXT>
+        <APP>\vb <LEM>°vedārtha°</LEM> \mssCaCbCc\msNa\msNc\Ed; °vedārthi° \msNb</APP>
+        <TR>that you recited and which is fascinating because it contains the meaning of the Vedas,</TR>
+
+<TEXT> yāvanti tatrākṣarasaṃkhyam{ }asti</TEXT>
+        <TR>will dwell in heaven for as many \ae ons</TR>
+
+% note the number problem
+<TEXT> tāvanti kalpān{ }divi te vasanti||</TEXT> 21:24
+
+        <APP>\vd <LEM>kalpān</LEM> \msCa\msNa; kalpaṃ \msCb\msNb\msNc\Ed, kalpa \msCc</APP>
+        <TR>as the number of syllables in it.</TR>
+        % \msNa\ kalpāṃ
+
+<TEXT> tvaṃ cāpi me brūhi varaṃ yatheṣṭaṃ</TEXT>
+        <APP>\va <LEM>tvaṃ cāpi me brūhi</LEM> \msCb\msCc\msNa\msNb\msNc\Ed;
+                                        tvañc\lac4 ×××× hi \msCa</APP>
+        <TR>And you should choose a boon at your pleasure,</TR>
+
+<TEXT> trailokyarājyād{ }api nirviśaṅkam|</TEXT>
+        <APP>\vb <LEM>°rājyā°</LEM> \mssCaCbCc\msNb\msNc\Ed; °rā° \msNaacorr, °rājā° \msNapcorr\oo
+                 <LEM>°śaṅkam</LEM> \mssCaCbCc\msNa\msNb\msNc; °śaṅka \Ed</APP>
+        <TR>fearlessly, beginning from sovereignty over the three worlds.</TR>
+
+% saptadvīpa
+<TEXT> dadāmi kiṃ saptamahīśvaratvam</TEXT>
+        <APP>\vc <LEM>kiṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; ki \msCb\oo
+                 <LEM>°tvam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °tvaṃm \msCc</APP>
+        <TR>Shall I grant you sovereignty over the seven-fold[?] world?</TR>
+
+<TEXT> athārtharāśiṃ bahukanyakāṃ vā||</TEXT> 21:25
+        <APP>\vd <LEM>athārtharāśiṃ</LEM> \msCa\msCb\msNa\msNc; athārtharāśi \msCc, arthārtharāsi \msNb,
+                                        athārthaṃ rāśīṃ \Ed\oo
+                 <LEM>°kanyakāṃ vā</LEM> \msNa\msNc\Ed; °kanyakā vā \msCa\msCc\msNb, °kanyakā\lac1 × \csa\ \msCb</APP>
+        <TR>Or a heap of gold? Or many girls?</TR>
+
+<ANUSTUBH/>
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+        <APP>\vo <LEM>vaiśampāyana uvāca</LEM> \eme; anarthayajña uvāca \msCa\msCb\msNa\msNc,
+                                      vigatarāga uvāca \msCc\msNb, \om\ \Ed</APP>
+        <TR>Vaiśampāyana spoke:</TR>
+% anarthayajña uvāca| śrutvaiva PaperMS A1341-06 and C107-07, C57-5
+
+
+<NOTANUSTUBH/> upajāti
+%                       vacam? eme
+<TEXT> śrutvaiva divyaṃ varam{ }acyutasya</TEXT>
+        <APP>\va <LEM>śrutvaiva</LEM> \mssCaCbCc\msNa\msNc\Ed; śrutaiva \msNb\oo
+                 <LEM>varam{ }acyutasya</LEM> \mssCaCbCc\msNa\msNb\Ed; varam{ }ucyutasya \msNc</APP>
+        <TR>Hearing the divine boons [offered] [em. to vacam?] by the imperishable one,</TR>
+
+<TEXT> praṇamya pādadvayapaṅkaje tu|</TEXT>
+        <APP>\vb <LEM>°je tu</LEM> \msCa\msCc\msNb\msNc\Ed; °hetu \msCb, °je nu \msNa</APP>
+        <TR>he bowed down to his lotus-feet.</TR>
+
+<TEXT> vijñāya viṣṇuṃ varadaṃ vareṇyaṃ</TEXT>
+        <TR>Having recognized that Viṣṇu was being most generous,</TR>
+        <APP>\vcd <LEM>(vijñāyaŁ...$ 'bravīt)</LEM> \Ed; \om\ \mssCaCbCc\msNa\msNb\msNc</APP>
+not in PaperMS A1341 and C107, C57
+
+% Naraharinātha
+<TEXT> ? prahṛ cetaḥ pukāncito 'to 'bravīt||</TEXT> 21:26
+        <TR>with a delighted heart....[to be reconstructed]</TR>
+not in PaperMS A1341 and C107, C57
+
+
+<NOTANUSTUBH/> upajāti
+%                   for vara?
+<TEXT> na kāmaye 'nyapravaraṃ tu deva</TEXT>
+        <APP>\va <LEM>na kāmaye</LEM> \mssCaCbCc\msNa\msNb\msNc; anarthayajña uvāca na kāmaye \Ed\oo
+                 <LEM>'nyapravaraṃ tu</LEM> \msCa\msCc\msNa\msNb\msNc; nyaprabhavan{ }tu \msCb, 'nyaṃ pravaraṃ tu \Ed\oo
+                 <LEM>deva</LEM> \mssCaCbCc\msNa\msNc\Ed; dedeva \msNb</APP>
+        <TR>I do not desire anything else as a gift, O God.</TR>
+
+%folioinfo \msCb\ 467.jpg
+<TEXT> asaṃśayaṃ bandhanasāram{ }ekam|</TEXT>
+        <APP>\vb <LEM>asaṃśayaṃ</LEM> \mssCaCbCc\msNa\msNc; asaṃśaya \msNb\Ed\oo
+                <LEM>°sāram{ }ekam</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; °sārame\lac1 × \msCa</APP>
+        <TR>Only (Łeka$) the essence of bondage is certain.</TR>
+
+<TEXT> vimuktabandho bhavataḥ prasādād</TEXT>
+        <APP>\vc <LEM>vimuktabandho</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \lac5 ××××× \msCa\oo
+                 <LEM>prasādād</LEM> \mssCaCbCc\msNa\msNb\msNc; pramādād \Ed</APP>
+        <TR>I have been freed from this bondage by your Lordship's grace,</TR>
+
+<TEXT> bhavāmi govinda rataś{ }ca dharme||</TEXT> 21:27
+        <APP>\vd <LEM>rataś{ }ca</LEM> \mssCaCbCc\msNa\msNb\msNc; ratañ{ }ca \Ed</APP>
+        <TR>and, O Govinda, I am delighting in Dharma.</TR>
+
+
+
+%folioinfo \Ed\ p.664
+<ANUSTUBH/>
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<NOTANUSTUBH/> upajāti
+<TEXT> yathaiva cittaṃ tava suprasannaṃ</TEXT>
+        <TR>The extent to which your mind has been enlightened</TR>
+
+<TEXT> maharṣidevair{ }api naiva dṛṣṭam|</TEXT>
+        <TR>is something even the great sages and the gods have never seen,</TR>
+
+<TEXT> akalmaṣaṃ duḥkhavivarjitatvam</TEXT>
+        <TR>[this] spotless freedom from suffering.</TR>
+        <APP>\vc <LEM>akalmaṣaṃ</LEM> \msNb\Ed; akalmaṣas{ }tvaṃ \msCa\msNa\ \unmetr, akalmaṣatvaṃ \msCb\msNc\ \unmetr,
+                                                                              akalmatvaṃ \msCc\ \unmetr\oo
+                 <LEM>duḥkha°</LEM> \msCapcorr\msCb\msCc\msNa\msNb\msNc\Ed; duḥ° \msCaacorr</APP>
+
+
+% gender, or     tīrṇa -m- asaṃśayena
+<TEXT> bhavārṇavas{ }tīrṇam{ }asaṃśayena||</TEXT> 21:28
+        <TR>The ocean of existence has certaily been crossed.</TR>
+
+%index_grammar: stem form? plus licence śva
+<TEXT> gacchāma bho sāmprata śvetadvīpam</TEXT>
+        % CHECK PauṣS 30.178c–184b from Leach 2019 article
+        <APP>\va <LEM>gacchāma bho</LEM> \mssCaCbCc\msNa\msNb\msNc; gacchāmato \Ed\oo
+                 <LEM>sāmprata</LEM> \mssCaCbCc\msNa\msNb\msNc; samprati \Ed\oo
+                 <LEM>°dvīpam</LEM> \mssCaCbCc\msNa\msNc\Ed; °dvīpa \msNb</APP>
+        <TR>Well, let's go now to the White Island,</TR>
+MBh 12
+SECTION CCCXXXIX
+
+"Bhishma said, 'Arrived at the spacious realm called White Island, the illustrious Rishi beheld
+those same white men possessed of lunar splendour (of whom I have already spoken to thee).
+Worshipped by them, the Rishi worshipped them in return by bending his head and reverencing them in
+his mind. 1 Desirous of beholding Narayana, he began to reside there, attentively engaged in the
+silent recitation of mantras, sacred to him, and observant of vows of the most difficult kind, with
+concentrated mind, the regenerate Rishi, with arms upraised, stood in Yoga, and then sang the
+following hymn unto the Lord of the universe, Him, viz., who is at once the soul of attributes and
+divested of all attributes.
+
+SECTION CCCXL
+
+"Bhishma said, 'Thus hymned with names that were not known to others, the Divine Narayana having the
+universe for his form showed himself to the ascetic Narada. His form was somewhat purer than the
+moon and differed from the moon in some respects. He somewhat resembled a blazing fire in
+complexion. The puissant Lord was somewhat of the form of Vishti. 1 He resembled in some respects
+the feathers of the parrot, and in some a mass of pure crystal. 
+
+% stem form
+<TEXT> agamya devair{ }api durnirīkṣyam|</TEXT>
+        <APP>\vb <LEM>durnirīkṣyam</LEM> \msCb\msCc\msNa\msNb\Ed;
+                                 durnirī<UNCL>kṣ</UNCL>\lac1 × \msCa, durnirīkṣaṃ \msNc</APP>
+        <TR>which is unattainable and is inaccessible even for the gods.</TR>
+
+%folioinfo \msCa\ 459.jpg
+% pūtaṃ Ed, metri causa? it is unmetrical in this way
+% emend to prayānti?
+<TEXT> madbhaktipūtamanasā prayāti</TEXT>
+        <APP>\vc <LEM>madbhakti°</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \lac2 ×× kti \msCa\oo
+                <LEM>°pūta</LEM> \mssCaCbCc\msNa; °pūtaṃ \msNb\msNc\Ed</APP>
+        <TR>He who departs after his mind has been purified by his devotion towards me,</TR>
+
+<TEXT> ghorārṇave naiva punaś{ }caranti||</TEXT> 21:29
+        <TR>will never again enter the dreadful ocean [of existence].</TR>
+
+%BACK TO THE OUTER LAYER
+
+<ANUSTUBH/>
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+        <APP>\vo <LEM>vaiśampāyana uvāca</LEM> \msCa\Ed; \om\ \msCb\msCc\msNaacorr\msNb\msNc,
+                                 vaiśaṃ u \msNapcorr</APP>
+        <TR>Vaiśampāyana spoke:</TR>
+
+<TEXT> evam{ }uktvā haris{ }tatra kare gṛhya tapodhanam|</TEXT>
+        <APP>\vb <LEM>gṛhya tapodhanam</LEM> \mssCaCbCc\msNb\msNc\Ed; \lac4 ×××× dha<UNCL>na</UNCL> \msNa</APP>
+        <TR>Having spoken thus, then Hari took the great ascetic by the hand,</TR>
+
+%folioinfo \msNa\ 232.jpg lower image
+<TEXT> tataḥ so 'ntarhitas{ }tatra tenaiva saha keśavaḥ||</TEXT> 21:30
+        <APP>\vc <LEM>tatas{ }so 'ntarhitas{ }ta°</LEM> \msCa\msCb;
+                                        ta<UNCL>taḥ so nta</UNCL>rhitas{ }ta° \msNa,
+                                        tatas{ }te ntarhitās{ }ta° \msCc,
+                                        tatas{ }te ttarhitās{ }ta° \msNb,
+                                        tateṃs{ }te tarhitas{ }ta° \msNc,
+                                        tatas{ }te karhitās{ }ta° \Ed</APP>
+        <APP>\vd <LEM>keśavaḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; keśava \Ed</APP>
+        <TR>who disappeared in that moment, and with him Keśava, too.</TR>
+
+
+<NOTANUSTUBH/> upajāti
+               % should be a cmp
+<TEXT> evaṃ hi dharmas{ }tv{ }adhikaprabhāvād</TEXT>
+        <APP>\va <LEM>adhika°</LEM> \msCa\msCb\msNa\msNc; adhikaṃ \msCc\msNb\Ed</APP>
+        <TR>Thus, as a consequence of the abundance of Dharma[?? in him?],</TR>
+
+<TEXT> gataḥ sa lokaṃ puruṣottamasya|</TEXT>
+        <APP>\vb <LEM>gataḥ</LEM> \mssCaCbCc\msNa\msNb\Ed; gatā \msNc\oo
+                 <LEM>lokaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; loka \msNb</APP>
+        <TR>he [Anarthayajña] reached world of the Highest Person,</TR>
+
+<TEXT> aśeṣabhūtaprabhavāvyayasya</TEXT>
+        <TR>of the one who is the origin of all living beings, and who is imperishable,</TR>
+
+<TEXT> sanātanaṃ śāśvatam{ }akṣarasya||</TEXT> 21:31
+        <APP>\vd <LEM>sanātanaṃ</LEM> \Ed; sanātana \msCa\ \toplost\          
+                                                \msCb\msCc\msNa\msNb\msNc\oo
+                 <LEM>°kṣarasya</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \lac3 ××× \msCa</APP>
+        <TR>the eternal and never-ending [world] of the never-decaying.</TR>
+
+%folioinfo \msCc\ 245.jpg
+<TEXT> tvam{ }eva bhaktiṃ kuru keśavasya</TEXT>
+        <APP>\va <LEM>tvam{ }eva</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; \lac1 × m{ }eva \msCa</APP>
+        <TR>You yourself should be loyal to Keśava,</TR>
+
+<TEXT> janārdanasyāmitavikramasya|</TEXT>
+        <TR>to Janārdana of unmeasurable heroism,</TR>
+
+<TEXT> yathā hi tasyaiva dvijarṣabhasya</TEXT>
+        <APP>\vc <LEM>hi tasyaiva</LEM> \msCa\msCb\msNc\Ed; jitasyaiva \msCc\msNb, <UNCL>hi tasyava</UNCL> \toplost\ \msNa</APP>
+        <TR>so that you can tread the path of that best among the twice-born [i.e. that Brahmin],</TR>
+%index_grammar: unmetrical/ licence dva
+
+% unmetrical sva (shd be long)
+<TEXT> gatiṃ labhasva puruṣottamasya||</TEXT> 21:32
+        <APP>\vd <LEM>labhasva</LEM> \mssCaCbCc\msNa\msNb\Ed; labhatvaṃ \msNc</APP>
+        <TR>[to] that excellent person.</TR>
+        % or the path to Puruṣottama?
+
+% stem form
+<TEXT> kim{ }anya bhūyaḥ kathayāmi rājan</TEXT>
+        <APP>\va <LEM>kim{ }anya bhū°</LEM> \msCc\Ed\msNb\msNc; kim{ }anyad{ }bhū° \msCa\msCb\msNa\ \unmetr\oo
+                 <LEM>rājan</LEM> \mssCaCbCc\msNa\msNb\Ed; rājad \msNc</APP>
+        <TR>What else should I teach you further, O king?</TR>
+
+<TEXT> yad{ }asti kautūhalam{ }anyaśeṣam|</TEXT>
+        <TR>If you have any curiosity remaining,</TR>
+
+<TEXT> pṛcchasva māṃ tāta yathepsitaṃ te</TEXT>
+        <TR>ask me,  Sir, whatever you want</TR>
+
+<TEXT> bhaviṣyabhūtaṃ bhavato yatheṣṭam||</TEXT> 21:33
+        <APP>\vd <LEM>bhaviṣya°</LEM> \mssCaCbCc\msNa\Ed; bhavasva° \msNb, bhavasya \msNc\oo
+                 <LEM>bhavato</LEM> \mssCaCbCc\msNa\msNb\Ed; bhavate \msNc\oo
+                 <LEM>yatheṣṭam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; yatheṣṭa \msCc</APP>
+        <TR>regarding the future or the past, anything you wish, Sir.</TR>
+
+
+%folioinfo \msNc\ 250.jpg upper image, f. 247v
+<ANUSTUBH/>
+<TEXT> janamejaya uvāca|*</TEXT>
+        <APP>\vo <LEM>janamejaya uvāca</LEM> \mssCaCbCc\msNapcorr\msNb\Ed; \om\ \msNaacorr, jayamejaya uvāca \msNc</APP>
+        <TR>Janamejaya spoke:</TR>
+
+
+<NOTANUSTUBH/> upajāti
+<TEXT> kiyanti kalpāni gatāni pūrvam</TEXT>
+        <APP>\va <LEM>kiyanti</LEM> \mssCaCbCc\msNa\msNb\msNc; kiyanta \Ed</APP>
+        <TR>How many kalpas have passed until now?</TR>
+% kalpa shd be masculine
+
+<TEXT> bhaviṣyakalpāni kiyanti vipra|</TEXT>
+        <APP>\vb <LEM>kiyanti</LEM> \mssCaCbCc\msNa\msNb\Ed; kiyanta \msNc</APP>
+        <TR>How many are the future kalpas?</TR>
+
+<TEXT> ekaikakalpaṃ kiyad{ }indram{ }uktam</TEXT>
+        <APP>\vc <LEM>°kalpaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; °kalpa \msCb\msNa</APP>
+        <TR>How many Indras are taught to exist with regard to each \ae on?</TR>
+
+<TEXT> pravartamānād{ }api kīrtayasva||</TEXT> 21:34
+        <TR>Tell me one by one[???].</TR>
+
+
+
+<ANUSTUBH/>
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+        <TR>Vaiśampāyana spoke:</TR>
+        <APP>\vo <LEM>vaiśampāyana uvāca</LEM> \msCa\msCc\msNa\Ed; veśanampāyana uvāca \msCb, \lk\lk \lk\lk \lk\lk \lk\lk\ \msNb, vaiśaṃpārāya uvāca \msNc</APP>
+
+<NOTANUSTUBH/> upajāti
+%                              em. to gata pūrva rājan?
+<TEXT> parārdhakalpaṃ gata pūrva rājyam</TEXT>
+        <TR>100,000 billions of Kalpas have passed so far [rājyam? / rājan?].</TR>
+% parārdha = 100,000 billions
+% there are 14 manvantaras (= 1000 Kalpas); we are in the seventh; each manvantara comprises about 71 mahāyugas (1 mahāyuga = 4 yuga), 1 Kalpa = 1 day of Brahmā (not in the VSS); each kalpa has 14 parts = manvantaras;
+
+% stem from
+<TEXT> caturdaśaivendra narendra kalpam|</TEXT>
+        <TR>There are fourteen Indras in one Kalpa, O king.</TR>
+
+% stem form 
+<TEXT> tathaiva manvantara kalpam{ }ekam</TEXT>
+        <TR>The same [number applies to] Manvantaras per Kalpa.</TR>
+        <APP>\vc <LEM>manvantarakalpam{ }ekam</LEM> \mssCaCbCc\msNapcorr\msNb; manvarakalpam{ }ekam \msNaacorr,
+                                           maṇvantarakalpam{ }ekaṃ \msNc, manvantaram{ }ekakalpam \Ed</APP>
+
+<TEXT> bhaviṣyakalpaṃ ca parārdham{ }eva||</TEXT> 21:35
+        <APP>\vd <LEM>kalpaṃ ca parārdham{ }eva</LEM> \msCb\msCc\msNa\msNc\Ed; 
+                         ka\lac7 ××××××× \msCa, bhūtañ{ }ca parārddhatañ{ }ca <EYESKIP>to 21.33d</EYESKIP> \msNb</APP>
+        <TR>The future Kalpas are again 100,000 billion.</TR>
+
+
+
+<TEXT> varāhakalpaḥ prathamo babhūva</TEXT>
+        <APP>\va <LEM>babhūva</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; babhū \msCb</APP>
+        <TR>The first Kalpa was the Varāhakalpa.</TR>
+
+% stem form
+<TEXT> gatāś{ }ca manvantara ṣaḍ narendra|</TEXT>
+        <APP>\vb <LEM>manvantara ṣaḍ narendra</LEM> \msCa\msCb\msNapcorr\msNb\msNc;
+                      manvaraṣaṭnarendra \msCc,
+                      manvantaṣaṭnarendra \msNaacorr,
+                      manvantaraṣaṭnarendraḥ \Ed</APP>
+        <TR>Six Manvantaras have passed, O King.</TR>
+
+<TEXT> caturyugaṃ saptati ekayuktaṃ</TEXT>
+        <APP>\vc <LEM>°yugaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °yuga° \Ed\oo
+                 <LEM>ekayuktaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; ekamuktaṃ \msCb</APP>
+        <TR>Seventy-one four-fold [Mahā]yugas</TR>
+
+<TEXT> manvantarā saṃkhyam{ }udāharanti||</TEXT> 21:36
+        <TR>is the number that applies to a Manvantara.</TR>
+
+
+
+<TEXT> manvantarāṇāṃ ca caturdaśaiva</TEXT>
+        <APP>\va <LEM>manvantarāṇāṃ ca caturdaśaiva</LEM> \msCa\msCb\msNa\msNc; manvantarāṇān{ }tu caturdaśaiva \msCc\msNb, \om\ \Ed</APP>
+        <TR>Fourteen Manvantara-periods</TR>
+
+% here msPaperA1341 claims that the exemplar has a damaged/missing folio (366.jpg)
+<TEXT> kalpasya saṃkhyā munayo vadanti|</TEXT>
+        <TR>is one Kalpa, according to the sages.</TR>
+
+%folioinfo \msNb\ 077.jpg lower image
+% ahar ! (day) metri causa
+% 10,000 kalpas day + 10,000 kalpas night
+<TEXT> kalpāyutaś{ }cāha pitāmahasya</TEXT>
+        <APP>\vc <LEM>kalpāyutaś{ }cāha</LEM> \mssCaCbCc\msNa\Ed; \lk\lk\lk\lk\lk ha \msNb, kalpāyutaś{ }cāha \msNc</APP>
+        <TR>Ten thousand Kalpas is Brahmā's day.</TR>
+
+<TEXT> tathā ca rātriṃ pravadanti tajjñāḥ||</TEXT> 21:37
+        <APP>\vd <LEM>rātriṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; rātri \msNb</APP>
+        <TR>His night is [of] the same [length] according to the experts.</TR>
+
+
+
+
+% 600,000 kalpas (20,000 x 30)
+<TEXT> ṣaḍlakṣakalpena tu māsam{ }āhus</TEXT>
+        <APP>\va <LEM>lakṣakalpena tu māsam{ }āhus</LEM> \msCb\msCc\msNa\msNb\msNc\Ed;
+                       lakṣaka\lac5 ××××× m{ }āhus \msCa</APP>
+        <TR>Six hundred-thousand Kalpas is called a [cosmic] month.</TR>
+
+% metri causa daśā
+<TEXT> taddvādaśā varṣam{ }udāharanti||</TEXT>
+        <APP>\vb <LEM>taddvādaśā va°</LEM> \corr; tadvādaśā va° \msCa\msCb\msNb, tatadvādaśā va° \msCc,
+                         tadvādaśād{ }va° \msNa, taddvādaśād{ }va° \msNc, tvaddvādaśava° \Ed</APP>
+        <TR>Twelve of them is called a year.</TR>
+% check this
+
+
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+%       - -   - .  . -   . -  . . . -    -  - .    -     -  . -
+<TEXT> tenābdena parārdhakalpaguṇitaṃ brahmāyur{ }ity{ }ucyate</TEXT>
+        <APP>\va <LEM>°bdena</LEM> \mssCaCbCc\msNa\msNb\msNc; °rdhena \Ed</APP>
+        <TR>Brahmā's life is said to be that year multiplied by 100,000 billions of Kalpas[?].</TR>
+
+<TEXT> trailokyādhipatiḥ pradhānapuruṣo brahmāpy{ }anityaḥ smṛtaḥ|</TEXT>
+        <APP>\vb <LEM>°puruṣo</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °puruṣā \msCc\oo
+                 <LEM>°py{ }anityaḥ</LEM> \mssCaCbCc\msNa\msNb\Ed; °pi nityaḥ \msNc</APP>
+        <TR>But even Brahmā, the Lord of the three worlds, the supreme person, is taught to be transient.</TR>
+
+<TEXT> śeṣaṃ bhūtacaturvidhasya niyataṃ jīvasya kiṃ śocyate</TEXT>
+        <APP>\vc <LEM>niyataṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; niyitaṃ \msNc\oo
+                 <LEM>kiṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; ki \msNc</APP>
+        <TR>Why should we grieve over the rest of the four kinds of living beings and the fate[?] of the soul?</TR>
+% four / five elements?
+% accepted vimala! against all other MSS
+
+<TEXT> tasmān{ }nāsti jagatsusāravimalaṃ muktvā śivaṃ śāśvatam||</TEXT>
+        <TR>Therefore there is nothing that is untouched by the fine[?] essence of the world except for eternal Śiva.</TR>
+        <APP>\vd <LEM>°vimalaṃ muktvā</LEM> \msCc; °viralaṃ muktvā \msCa\msCb\msNa\msNb\msNc, °viralamuktā \Ed</APP>
+        <PARAL>\vd ŁSee the expression $ jagatsusāra Łalso in 1.1b$</PARAL>
+
+
+<ANUSTUBH/>
+
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe kalpanirṇayo nāmaikaviṃśatimo 'dhyāyaḥ</COLOPHON></TEXT>
+        <APP> Ł\Colo:$ <LEM>°viṃśatimo</LEM> \mssCaCbCc\msNa\msNb\msNc; °viṃśatitamo \Ed\oo
+                        <LEM>'dhyāyaḥ</LEM> \mssCaCbCc\msNa\msNb\Ed; dhyāya \msNc</APP>
+        <TRCOLOPHON>Here ends the twenty-first chapter in the Vṛṣasārasaṃgraha called the Description of the \ae ons.</TRCOLOPHON>
+%END OF CHAPTER 21
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

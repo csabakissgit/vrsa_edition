@@ -1,0 +1,612 @@
+<START/>
+<startchapter-n="6"/> 
+%folioinfo \Ed\ p.599
+%folioinfo \msCa\ 399.jpg
+%folioinfo \msCb\ 419.jpg f. 209r line 2
+%folioinfo \msCc\ 199.jpg f. 278r line 3
+%folioinfo \msNa\ 203.jpg upper, f. 9v line 6
+%folioinfo \msNb\ 51.jpg lower, line 5
+%folioinfo \msNc\ 220.jpg lower, line 1, f. 218r
+%folioinfo \msM\ 421.jpg lower, f. 10r line 4
+%chapter 6
+<CHAPTER>ṣaṣṭho 'dhyāyaḥ</CHAPTER>
+<!-- <TRCHAPTER> Chapter Six </TRCHAPTER> -->
+
+% CHECK Śivadharmottara 3.12-15 !!
+
+<SUBCHAPTER>niyameṣv{ }ijyā (2)</SUBCHAPTER>
+<TRSUBCHAPTER>The second Niyama-rule: Sacrifice</TRSUBCHAPTER>
+
+<ANUSTUBH/>
+% [anarthayajña uvāca|*]
+% [Anarthayajña spoke:]
+
+<TEXT> atha pañcavidhām{ }ijyāṃ pravakṣyāmi dvijottama|</TEXT>
+        <APP>\va <LEM>°m{ }ijyāṃ</LEM> \msCb; °m{ }ījyāṃ \msCa\msCc\msNa\msNb\msNc\Ed</APP>
+        <APP>\vb <LEM>°ttama</LEM> \mssCaCbCc\msNa\Ed; °ttamaḥ \msNb\msNc</APP>
+        <LACUNA>ŁTestimonia for this chapter: \msCa\ ff.\thinspace 202r--203r, 
+                                              \msCb\ ff.\thinspace 209r--209v, 
+                                              \msCc\ ff.\thinspace 278r--279r,
+                                              \msNa\ ff.\thinspace 9v--10v, 
+                                              \msNb\ exp.\thinspace 51 (lower--upper) -- 52 (lower),
+                                              \msNc\ ff.\thinspace 218r--218v,
+                                              \Ed\ pp.\thinspace 599--601;  
+                                              \mssCaCbCc\ = \msCa + \msCb + \msCc$</LACUNA>
+        <!-- <TR>[Anarthayajña continued:] Now I shall teach you the five types of sacrifice (Łijyā$),
+                 O excellent Brahmin,</TR> -->
+
+<TEXT> dharmamokṣaprasiddhyarthaṃ śṛṇuṣvāvahito dvija||</TEXT> 6:1
+        <APP>\vc <LEM>°mokṣaprasiddhyarthaṃ</LEM> \mssCaCbCc\msNc; °mokṣaprasiddhyartha \msNa\msNb, 
+                                                        °mokṣeśasiddhyaarthaṃ \Ed</APP>
+        <APP>\vd <LEM>dvija</LEM> \mssCaCbCc\msNa\msNb\msNc; bhava \Ed</APP>
+        <!-- <TR>for success in Dharma and liberation. Listen carefully, O Brahmin.</TR> -->
+        % CHECK BhG on arthayajña
+
+<TEXT> arthayajñaḥ kriyāyajño japayajñas{ }tathaiva ca|</TEXT>
+        <APP>\va <LEM>arthayajñaḥ</LEM> \msCa\msCc\msNa; anarthayajñaḥ \msCb, arthayajña \msNb\msNc, arthayajña° \Ed</APP>
+        <!-- <TR>Material sacrifice, sacrifice through work, sacrifice through recitation,</TR> -->
+
+<TEXT> jñānaṃ dhyānaṃ ca pañcaitat{ }pravakṣyāmi pṛthak{ }pṛthak||</TEXT> 6:2
+        <APP>\vc <LEM>jñānaṃ</LEM> \msCa\msCb\msNa\msNb\Ed; jñāna \msCc\msNc</APP>
+        <NOTE>Note the singular Łetat$ after a number (see Intro \verify).
+
+              Compare this list of five to the somewhat similar \BHG\ 4.28:
+                <skt>dravyayajñās tapoyajñā yogayajñās tathāpare |
+                     svādhyāyajñānayajñāś ca yatayaḥ saṃśita-vratāḥ ||</skt>.
+              \SDHU\ chapter 3 can be also relevant since it uses the terms
+              Łjapayajña$, Łjñānayajña$, and Łdhyānayajña$. See also \SDHU\ 1.10 (\msCa\ f.\thinspace 42v l4):
+                        <skt>karmayajñas tapoyajñaḥ svādhyāyo dhyānam eva ca | 
+                             jñānayajñaś ca pañcaite mahāyajñāḥ prakīrtitāḥ ||</skt>.
+              Note how this definition of the five Łmahāyajña$s in the \SDHU\ 
+              is different from the one, e.g., in \MANU\ 3.69--71
+              (Łbrahma$°, Łpitṛ$°, Łdaiva$°, Łbhauta$°, and Łnṛyajña$).</NOTE>
+        <!-- <TR>knowledge and meditation: I shall teach you these five one by one.</TR> -->
+
+% also UMS? 
+
+%index_grammar: singular after numbers
+
+
+<SUBSUBCHAPTER>arthayajñaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Material sacrifice</TRSUBSUBCHAPTER>
+
+<TEXT> agnyupāsanakarmādi agnihotrakratukriyā|</TEXT>
+        <APP>\vb <LEM>agni°</LEM> \msCb\msCc\msNa\msNc\Ed; <UNCL>a</UNCL>×° \msCa, ¤¤ \msNb\oo
+                 <LEM>°kriyā</LEM> \msCa\msNa\msNb\msNc\Ed; °kriyāḥ \msCb\msCc</APP>
+        <!-- <TR>Material sacrifice includes the following: 
+                the domestic ritual fire worship etc., the public performance of the ritual of Agnihotra,</TR> -->
+
+%folioinfo \msCa\ 400.jpg
+%folioinfo \msNa\ 203.jpg lower, f. 10r
+% maybe accept aṣṭakā
+<TEXT> aṣṭakā pārvaṇī śrāddhaṃ dravyayajñaḥ sa ucyate||</TEXT> 6:3
+        <APP>\vc <LEM>pārvaṇī</LEM> \msCa\msCc\msNa\msNc\Ed; parvaṇī \msCb, <UNCL>parvaṇī</UNCL> \msNb</APP>
+        <APP>\vd <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc, ¤¤ \msNb</APP>
+        <NOTE>By somewhat overtranslating the items in this list, I want to emphasise that
+              the text introduces three categories of sacrifical rituals well-known from
+              the time of the Gṛhyasūtras and Śrautasūtras: those of the domestic or Łaupāsana$ fire (Łgṛhyakarman$),
+              the Śrauta rituals such as the Agnihotra, and the Smārta Łpākayajña$s, such as the Łaṣṭakā$, 
+              the Łpārvaṇī$ and the Łśrāddha$. For a mention of the Łpākayajña$s in a manner similar to 
+              our Łpāda$s cd here, see, e.g. the \Diksottara\ quoted in <citep>NisvasaGoodall</citep><pnum>275</pnum>:
+                        <skt>aṣṭakāḥ pārvaṇī śrāddhaṃ śrāvaṇy āgrāyaṇī tathā |
+                             caitrī cāśvayujī caiva pākayajñāḥ prakīrtitāḥ ||</skt>.
+              For an earlier list of Łpākayajña$s, see \GAUTDHS\ 1.8.19: 
+                <skt>aṣṭakā pārvaṇaḥ śrāddham śrāvaṇy\-āgrahāyaṇī\-caitry\-āśvayujīti sapta pākayajñasamsthāḥ</skt>.</NOTE>
+        <!-- <TR>[and the so-called Łpākayajña$s such as] 
+                 the Aṣṭakā oblation, the Pārvaṇī oblation, and the ancestral ritual (Łśrāddha$).</TR> -->
+
+
+
+
+<SUBSUBCHAPTER>kriyāyajñaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Sacrifice through work</TRSUBSUBCHAPTER>
+
+<TEXT> ārāmodyānavāpīṣu devatāyataneṣu ca|</TEXT>
+        <APP>\vb <LEM>°yataneṣu</LEM> \msCb\msCc\Ed; °layaneṣu \msCa\msNa\msNc, °yata¤¤ \msNb</APP>
+        <!-- <TR>Sacrifice through work is taking care of/ cleaning/ embellishing (Łsaṃskāra$)</TR> -->
+
+<TEXT> svahastakṛtasaṃskāraḥ kriyāyajña sa ucyate||</TEXT> 6:4
+        <APP>\vc <LEM>°hasta°</LEM> \mssCaCbCc\msNa\msNc; ¤¤ \msNb, °hastaiḥ \Ed</APP>
+        <!-- <TR>a grove, a park, a pond or a temple with one's own hands.</TR> -->
+
+
+
+<SUBSUBCHAPTER>japayajñaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Sacrifice through recitation</TRSUBSUBCHAPTER>
+<TEXT> japayajñaṃ tato vakṣye svargamokṣaphalapradam|</TEXT>
+        <APP>\va <LEM>°yajñaṃ tato</LEM> \msCa\msNa\msNb\msNc\Ed; °yajñaṃ tapo \msCb °yajñas{ }tato \msCc</APP>
+        <!-- <TR>Next I shall teach you the sacrifice through recitation, 
+                the bestower of the fruits of heaven and liberation.</TR> -->
+
+<TEXT> vedādhyayana kartavyaṃ śivasaṃhitam{ }eva ca|</TEXT>
+        <APP>\vc <LEM>vedā°</LEM> \mssCaCbCc\msNa\msNc\Ed; adā° \msNb</APP>
+        <!-- <TR>One should recite the Vedas, Śaiva texts or the ŁMahābhārata$,</TR> -->
+        <NOTE>Note the stem form Łvedādhyayana$ in Łpāda$ c metri causa. As for the interpretation of
+              Łśivasaṃhitam$ in Łpāda$ d, see 5.17b above: Łśaivabhāratasaṃhite$. 
+              The proximity of these two phrases, and the fact that both give instructions
+              on using texts, suggest that we should interpret them similarly. 
+              It is then a Łsamāhāra\-dvandva\-samāsa$ again, in the neuter.
+              Both Łśivasaṃhitam$ and Łitihāsapurāṇaṃ$ should be interpreted as
+              being part of the compound in Łpāda$ c: Łśiva\-saṃhitādhyayanaṃ$ and 
+              Łitihāsapurāṇādhyayanaṃ$. 
+
+              See Łjapayajña$ mentioned, e.g., in \BHG\ 10.25c (Łyajñānāṃ japayajño 'smi$) 
+              and \MANU\ 2.86 (Łvidhiyajñāj japayajño viśiṣṭo daśabhir guṇaiḥ$).</NOTE>
+
+%index_grammar: stem form metri causa
+
+%folioinfo \msNb\ 50.jpg upper 
+<TEXT> itihāsapurāṇaṃ ca japayajñaḥ sa ucyate||</TEXT> 6:5
+        <APP>\ve <LEM>°purāṇaṃ ca</LEM> \mssCaCbCc\msNa\msNb\msNc; °purāṇaś{ }ca \Ed</APP>
+        <APP>\vf <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °yajña \msCc</APP>
+        <!-- <TR>the epics and the Purāṇas: this is called sacrifice with recitation.</TR> -->
+
+
+% see ŚDhU 3 for 5 yajñas
+<SUBSUBCHAPTER>jñānayajñaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Sacrifice through knowledge</TRSUBSUBCHAPTER>
+
+%folioinfo \msM\ 422.jpg upper, f. 10v 
+<TEXT> idaṃ karma akarmedam{ }ūhāpohaviśāradaḥ|</TEXT> 
+        <APP>\va <LEM>karma</LEM> \mssCaCbCc\msNa\msNb\msNc; kramam \Ed</APP>
+        <!-- <TR>[He who can decide if] `this is [proper] action; the other is improper action'
+                 because he is knowledgeable about reasoning pro and contra,</TR> -->
+
+<TEXT> śāstracakṣuḥ samālokya jñānayajñaḥ sa ucyate||</TEXT> 6:6
+        <APP>\vc <LEM>°cakṣuḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °cakṣu \msCc</APP>
+        <APP>\vd <LEM>°yajñaḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc, °<UNCL>yajñas</UNCL> \msNb</APP>
+        <NOTE>For the expression Łśāstracakṣuḥ$, see, e.g., \BRAHMAP\ 24.21:
+                        <skt>tena yajñān yathāproktān mānavāḥ śāstracakṣuṣaḥ |
+                             kurvate 'harahaś caiva devān āpyāyayanti te ||</skt>.
+        In G. P. Bhatt's translation (<citep>BrahmapuranaTr1</citep><pnum>126</pnum>):
+               `Day by day men with the sacred scriptures as their guides
+                perform sacrifices in the manner they have been laid down and thereby nourish the gods.'</NOTE>
+        <!-- <TR>and investigates with his eyes on the Śāstras, is called
+                        [a person performing] sacrifice through knowledge.</TR> -->
+        
+
+%folioinfo \msCc\ 200.jpg f. 278v
+<SUBSUBCHAPTER>dhyānayajñaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Sacrifice through meditation</TRSUBSUBCHAPTER>
+
+<TEXT> dhyānayajñaṃ samāsena kathayiṣyāmi te śṛṇu|</TEXT>
+        <APP>\va <LEM>°yajñaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °yajña \msCc\msNb</APP>
+        <!-- <TR>I shall teach you concisely about sacrifice through meditation. Listen to me.</TR> -->
+
+<TEXT> dhyānaṃ pañcavidhaṃ caiva kīrtitaṃ hariṇā purā|</TEXT>
+        <APP>\vc <LEM>dhyānaṃ</LEM> \mssCaCbCc\msNb\Ed; dhyāna \msNa\msNc</APP>
+        <!-- <TR>Meditation was taught by Hari in the past as of five kinds.</TR> -->
+
+% unmetr
+<TEXT> sūryaḥ somo 'gni sphaṭikaḥ sūkṣmaṃ tattvaṃ ca pañcamam||</TEXT> 6:7
+        <APP>\ve <LEM>somo</LEM> \msCa\msCc\msNa\msNc; somā° \msCb\msNb\Ed</APP>
+        <APP>\vf <LEM>sūkṣmaṃ tattvaṃ ca pañcamam</LEM> \msCb;
+                                sūkṣmaṃ ta<UNCL>tva</UNCL>××ñcamam \msCa, 
+                                sūkṣmatattvaṃ ca pañcamaḥ \msCc\msNa\msNb,
+                                sūkṣmaṃ tattvañ{ }ca pañcamaḥ \msNc,
+                                sūkṣmāṃ tattvaś{ }ca pañcamam \Ed</APP>
+        <NOTE>For an analysis of this fivefold method of meditation, and this ancient-looking
+              Łtattva$-system, see Intro \verify, and for different
+              versions of the same teaching of meditation, see \VSS\ 22.19--28 and \DHARMP\ 4.5--14.</NOTE>
+        <!-- <TR>[Meditation on] the Sun, the Moon, Fire, Crystal and the subtle Łtattva$ as fifth.</TR> -->
+
+<TEXT> sūryamaṇḍalam{ }ādau tu tattvaṃ prakṛtir{ }ucyate|</TEXT>
+        <!-- <TR>First it is the Sun [that should be meditated upon], which is said to be Łprakṛti-tattva$.</TR> -->
+
+%       mudhye \msNa
+<TEXT> tasya madhye śaśiṃ dhyāyet{ }tattvaṃ puruṣa ucyate||</TEXT> 6:8
+        <APP>\vc <LEM>śaśiṃ</LEM> \mssCaCbCc\msNa\Ed; śaśi \msNb, śaśiṃn \msNc</APP>
+        <APP>\vcd <LEM>dhyāyet{ }ta°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dhyāye ta° \msCc</APP>
+        <NOTE>Note the form Łśaśiṃ$ for Łśaśinaṃ$.</NOTE>
+        <!-- <TR>He should visualize the Moon in its centre: that Łtattva$ is said to be Łpuruṣa$.</TR> -->
+
+%index_grammar: -in -- -i (śaśi)
+
+<TEXT> candramaṇḍalamadhye tu jvālām{ }agniṃ vicintayet|</TEXT>
+        <APP>\vb <LEM>jvālām{ }agniṃ</LEM> \mssCaCbCc\msNa\msNb\Ed; jālām{ }agni \msNc</APP>
+        <!-- <TR>In the centre of the Moon's disk, he should visualise a flame, a fire.</TR> -->
+
+<TEXT> prabhutattvaḥ sa vijñeyo janmamṛtyuvināśanaḥ||</TEXT> 6:9
+        <APP>\vc <LEM>°tattvaḥ</LEM> \mssCaCbCc\msNc; °tatva \msNa, °tatvaṃ \msNb\Ed</APP>
+        <APP>\vd <LEM>°nāśanaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; °nāśanam \msCc\Ed</APP>
+        <!-- <TR> That is said to be Łprabhu$-Łtattva$, the destroyer of [the circle of] birth and death.</TR> -->
+
+% stem form?
+<TEXT> agnimaṇḍalamadhye tu dhyāyet{ }sphaṭika nirmalam|</TEXT>
+        <APP>\vb <LEM>dhyāyet{ }sphaṭika</LEM> \msCapcorr\msCb\msNa\msNb\msNc; dhyāyet{ }sphaṭi \msCaacorr,
+                                        dhyāye sphaṭika \msCc\Ed\oo
+                 <LEM>°malam</LEM> \mssCaCbCc\msNb\Ed; °malaḥ \msNa, °<UNCL>malaḥ</UNCL> \msNc</APP>
+        <NOTE>Note the stem form Łsphaṭika$ in Łpāda$ b metri causa.</NOTE>
+        <!-- <TR>In the centre of the ring of Fire, he should visualize a spottless crystal.</TR> -->
+
+%index_grammar: stem form metri causa
+
+<TEXT> vidyātattvaḥ sa vijñeyaḥ kāraṇam{ }ajam{ }avyayam||</TEXT> 6:10
+        <APP>\vc <LEM>tattvaḥ sa</LEM> \msCb\msNa\msNb\msNc; ta<UNCL>tvan</UNCL>× \msCa, tatva sa \msCc, tatvaṃ sa \Ed</APP>
+        <APP>\vd <LEM>°jam{ }avyayam</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °m{ }avyayaṃ \msCc</APP>
+        <!-- <TR>That is said to be Łvidyā$-Łtattva$, the never-born, imperishable cause.</TR> -->
+
+<TEXT> vidyāmaṇḍalamadhye tu dhyāyet{ }tattvam{ }anuttamam|</TEXT>
+        <APP>\vab <LEM>dhyāyet{ }ta°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; dhyāye ta° \msCc</APP>
+        <!-- <TR>In the centre of the disk of Łvidyā$, he should visualize the highest Łtattva$,</TR> -->
+
+%folioinfo \Ed\ p.600
+<TEXT> akīrtitam{ }anaupamyaṃ śivam{ }akṣayam{ }avyayam|</TEXT>
+        <PARAL>\vcd Ł\DHARMP\ 4.14ab: $ akīrtitam{ }anaupamyaṃ pañcamaṃ śivamaṇḍalam</PARAL>
+        <!-- <TR>never-heard, unparalleled, undecaying and imperishable Śiva.</TR> -->
+
+<TEXT> pañcamaṃ dhyānayajñasya tattvam{ }uktaṃ samāsataḥ||</TEXT> 6:11
+        <APP>\ve <LEM>°yajñasya</LEM> \msCa\msCb\msNa\msNb\msNc; °yajñañ{ }ca \msCc\Ed</APP>
+        <APP>\vf <LEM>samāsataḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; sanātanaḥ \Ed</APP>
+        <!-- <TR>The fifth Łtattva$ of the sacrifice through meditation has been taught in short.</TR> -->
+
+
+
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <!-- <TR>Vigatarāga spoke:</TR> -->
+
+<TEXT> ekaikasya tu tattvasya phalaṃ kīrtaya kīdṛśam|</TEXT>
+        <APP>\va <LEM>tu</LEM> \conj; tri° \mssCaCbCc\msNa\msNb\msNc, hi \Ed</APP>
+        <NOTE>The reading Łtritattvasya$ in Łpāda$ a in the MSS is a problem 
+              because we have just finished a section mentioning five Łtattva$s. 
+              (This was probably noticed by \Ed, hence printing Łhi$ for Łtri$°.)
+              My conjecture (Łtu$) is based on the assumption that Łtri$ is ofter written as Łtṛ$ 
+              in Nepalese MSS (e.g. in \msM\ at this point) and that Łtṛ$ may then easily get corrupted to Łtu$.</NOTE>
+        <!-- <TR>Teach me, what are the fruits of [reaching] each Łtattva$?</TR> -->
+
+<TEXT> kāni lokāḥ prapadyante kālaṃ vāsya tapodhana||</TEXT> 6:12
+        <APP>\vc <LEM>lokāḥ</LEM> \msCa\msNa\msNc; lokā \msCb\msCc\msNb\Ed\oo
+                 <LEM>prapadyante</LEM> \msCb\msCc\msNa\msNb\msNc\Ed; pra¤¤¤ \msCa</APP>
+        <APP>\vd <LEM>°dhana</LEM> \msCa\msCc\msNa\msNb\Ed; °dhanaḥ \msCb\msNc</APP>
+        <!-- <TR>Which worlds can be attained and how much time [can one spend there], O great ascetic?</TR> -->
+        %                             lokāf \msCa
+
+%index_anarthayajna_ref_as: tapodhana
+
+% Look at Dharmaputrikā 4.1-4, which gives a similar list of dhyeyas and/or for the jīva        
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <!-- <TR>Anarthayajña spoke:</TR> -->
+
+<TEXT> brahmalokaṃ tu prathamaṃ tattvaprakṛticintayā|</TEXT>
+        <APP>\vab <LEM>prathamaṃ tattva°</LEM> \mssCaCbCc\msNapcorr\msNb\msNc; 
+                                                    \om\ \msNaacorr, prathamaṃ tattvaṃ \Ed\oo
+                  <LEM>prakṛticintayā</LEM> \mssCaCbCc\msNa\msNb\msNc; ca kṛticintaya \Ed</APP>
+        <NOTE>Understand Łpāda$s ab as Łbrahmalokaṃ prathamatattvacintayā prakṛtitattvacintayā$. 
+              One might take Łprathamaṃ$ adverbially (`firstly': Łprathamaṃ brahmalokaṃ prakṛtitattvacintayā$),
+              but in the next verses, the ordinal numbers (Łdvitīyaṃ, tṛtīyaṃ, pañcamaṃ$)
+              always refer to the Łtattva$s.</NOTE>
+        <!-- <TR>Through meditation on the first Łtattva$, Łprakṛti$, [one reaches] Brahmaloka.</TR> -->
+
+%index_metre: pra licence na-vipulā
+
+<TEXT> kalpakoṭisahasrāṇi śivavan{ }modate sukhī||</TEXT> 6:13
+        <APP>\vd <LEM>sukhī</LEM> \mssCaCbCc\msNa\msNb\msNc; sukham \Ed</APP>
+        <!-- <TR>He will rejoice [there] happily like Śiva for millions of \ae ons.</TR> -->
+
+%folioinfo \msCb\ 420.jpg f. 209v
+<TEXT> dvitīyaṃ tattva puruṣaṃ dhyāyamāno mṛto yadi|</TEXT>
+        <NOTE>Note the stem form Łtattva$ in Łpāda$ a metri causa.</NOTE>
+        <!-- <TR>If one dies while meditating on the second Łtattva$, Łpuruṣa$,</TR> -->
+
+%index_grammar: stem form metri causa
+
+<TEXT> viṣṇulokam{ }ito yāti kalpakoṭyayutaṃ sukhī||</TEXT> 6:14
+        <APP>\vc <LEM>yāti</LEM> \mssCaCbCc\msNa\msNb\msNc; yānti \Ed</APP>
+        <!-- <TR>one will depart from this world and go to Viṣṇuloka, [and will dwell there] happily for billions of \ae ons.</TR> -->
+
+<TEXT> prabhutattvaṃ tṛtīyaṃ tu dhyāyamāno mariṣyati|</TEXT>
+        <APP>\va <LEM>°tattvaṃ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; °tatva \msCc\oo
+                 <LEM>tṛtīyaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; tṛtīyas \Ed</APP>
+        <APP>\vb <LEM>dhyāyamāno mariṣyati</LEM> \msCb\msCc\msNa\msNb\msNc; dhyāya¤¤¤riṣyati \msCa,
+                                                        dhayāyāmāno mariṣyati \Ed</APP>
+        <!-- <TR>Should one die while meditating on the third, the Łprabhu-tattva$,</TR> -->
+
+% !! Narahari 
+<TEXT> śivaloke vasen{ }nityaṃ kalpakoṭyayutaṃ śatam||</TEXT> 6:15
+        <APP>\vc <LEM>śivaloke</LEM> \msCa\msCc\msNa\msNb\msNc; śivaloka \msCb, rudraloke \Ed\oo
+                 <LEM>vasen{ }ni°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; vase ni° \msCc</APP> 
+        <APP>\vd <LEM>°yutaṃ</LEM> \mssCaCbCc\msNa\msNc\Ed; °yuta \msNb</APP>
+        <NOTE>\Ed\ changes Łśivaloka$ to Łrudraloka$, probably for more contrast with
+                   Łsadāśiva$ in 6.16 and Łśivatattva$ in 6.17. \verify</NOTE>
+        <!-- <TR>one can live in Śivaloka continuously for a hundred billion \ae ons.</TR> -->
+
+<TEXT> vidyātattvāmṛtaṃ dhyāyet{ }sadāśivam{ }anāmayam|</TEXT>
+        <APP>\va <LEM>°tattvāmṛtaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; °tatvamṛtan \msCc, °tattvāmataṃ \Ed</APP>
+        <NOTE>In Łpāda$ a, Łamṛta$ is suspect. It may refer to the world of Sadāśiva and 
+              then Łvidyātattva$ is in stem form. Alternatively, since this verse is the only one in
+              this list of worlds (6.13--17) without an ordinal number, Łamṛtaṃ$ may mean `four' or possibly `fourth,'
+              as suggested by Monier-Williams and Apte in their dictionaries. This meaning would fit in nicely.
+              In addition, dying has been mentioned above, thus Łamṛtaṃ$ might be a corrupted form of 
+              a participle from the verbal root Łmṛ$ (Łmṛyan$ or Łmaran$?): e.g., 
+              Łvidyātattvaṃ mṛyan dhyāyet...$ (`should he meditation upon Vidyātattva while dying...').</NOTE>  
+        <!-- <TR>If he visualizes the nectar of Łvidyā-tattva$, [i.e.] Sadāśiva, 
+                        he can reach [His] diseaseless,</TR> -->
+
+<TEXT> akṣayaṃ lokam{ }āpnoti kalpānāntaparaṃ tathā|| </TEXT> 6:16
+        <APP>\vc <LEM>akṣayaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; akṣaya° \Ed</APP>
+        <!-- <TR>imperishable world [and can live there] well beyond endless \ae ons.</TR> -->
+
+%folioinfo \msNc\ 221.jpg upper, f. 218v
+<TEXT> pañcamaṃ śivatattvaṃ tu sūkṣmaṃ cātmani saṃsthitam|</TEXT>
+        <!-- <TR>The fifth one, the subtle Łśiva-tattva$ dwells in the Self.</TR> -->
+
+<TEXT> na kālasaṃkhyā tatrāsti śivena saha modate||</TEXT> 6:17
+        <!-- <TR>There is no counting of time there and he will be rejoicing [there] together with Śiva.</TR> -->
+
+
+<NOTANUSTUBH/> sragdharā 
+%       -  -   - -  . -  -   . . .  .  .  . -  -  . -   - . -  -
+<TEXT> pañcadhyānābhiyukto bhavati ca na punarjanmasaṃskārabandhaḥ</TEXT>
+        <APP>\va <LEM>°yukto</LEM> \msCb\msCc\msNa\msNb\msNc; °yu¤ \msCa\ \toplost, °yuktau \Ed\oo
+                 <LEM>ca</LEM> \msCa\msCc\msNa\msNb\msNc; \om\ \msCb\Ed\oo
+                 <LEM>punarjanma°</LEM> \msCb\msNa\msNb\msNc\Ed; puna<UNCL>ja</UNCL>nma° \msCa\ \toplost, punajanma° \msCc</APP>
+        <!-- <TR>[If] he practises the five meditations, there will be no 
+                rebirth and no more fetters of transmigration.</TR> -->
+
+%folioinfo \msCa\ 401.jpg
+%       -  -  -  -    . -   -?  . . . . . . -    -   . - -  . -  -
+<TEXT> jijñāsyantāṃ dvijendra bhavadahanakaraḥ prārthanākalpavṛkṣaḥ|</TEXT>
+        <APP>\vb <LEM>jijñāsyantāṃ</LEM> \msCa\msNb\msNc\Ed; jijñāsyatāṃ \msCb\msNa\ \unmetr, jijñāsyantā \msCc</APP>
+        <NOTE>Note how a plural passive imperative form (Łjijñāsyantāṃ$) stands for the singular
+                (Łjijñāsyatāṃ$) metri causa. Note also that the last syllable of
+                Łdvijendra$ (at the c\ae sura) counts here as long: this phenomenon of a word-ending
+                syllable becoming long by position is common in the \VSS.</NOTE>
+        <!-- <TR>O excellent Brahmin, [the Lord] should be seeked,
+                 a wishing tree of desires, [as] he burns away existence.</TR> -->
+
+%index_metre: long syllable at end of word at caesura
+
+%       -  -! - - .  -  -      . . .  . .  .  -  - . -  - . - -
+<TEXT> janmenaikena muktir{ }bhavati kimu na vā mānavāḥ sādhayantu</TEXT>
+        <APP>\vc <LEM>janmenaikena</LEM> \msCb\msNb\msNc\Ed; janmanaikena \msCa\msCc\msNa\ \unmetr\oo
+                 <LEM>muktir{ }bh°</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; mukti bh° \msCc\oo
+                 <LEM>na vā</LEM> \mssCaCbCc\msNb\msNc\Ed; bhavā \msNa\oo
+                 <LEM>mānavāḥ</LEM> \msCa\msNa\msNb\msNc; mānamānavāḥ \msCb, mānavā \msCc, mānava \Ed</APP>
+        <NOTE>The non-standard Łjanmena$ in Łpāda$ d seems superior to Łjanmanā$ for it
+               preserves the metre.</NOTE>
+        <!-- <TR>Liberation comes within one single birth! People, why should you not strive [for it]!</TR> -->
+
+%folioinfo \msCc\ 201,jpg f. 279r
+%folioinfo \msNa\ 204.jpg upper, f. 10v
+%        -  -  -     - . - -   . . . . . . -    -  . -  - . - - 
+<TEXT> pratyakṣān{ }nānumānaṃ sakalamalaharaṃ svātmasaṃvedanīyam||</TEXT> 6:18
+        <APP>\vd <LEM>pratyakṣā°</LEM> \mssCaCbCc\msNb\msNc\Ed; pratyakṣa° \msNa\oo
+                 <LEM>°vedanīyam</LEM> \msCb\msNa\msNb; °vedanīyaḥ \msCa\msCc\msNc, °vedanīya \Ed</APP>
+        <!-- <TR>[It is known] as the destroyer of all impurity. [It's ascertainable] by direct perception. 
+                  It is not inference. It is to be experienced by one's own Self.</TR> -->
+
+
+%folioinfo \msM\ breaks off at the end of 422.jpg upper, f. 10v, after °haraṃ, it resumes at the colophon of VSS 8 with 'aṣṭamaḥ'
+
+<ANUSTUBH/>
+
+<SUBCHAPTER>niyameṣu tapaḥ (3)</SUBCHAPTER>
+<TRSUBCHAPTER>The third Niyama-rule: Penance</TRSUBCHAPTER>
+
+% cf. Manu 12.3ff
+<TEXT> mānasaṃ tapa ādau tu dvitīyaṃ vācikaṃ tapaḥ|</TEXT>
+        <APP>\va <LEM>°tapa</LEM> \mssCaCbCc\msNa\msNb\msNc; °tapam \Ed</APP>
+        <!-- <TR>The first type of penance is mental penance, the second is verbal penance,</TR> -->
+
+<TEXT> kāyikaṃ ca tṛtīyaṃ tu manovākkarma tatparam|</TEXT>
+        <APP>\vc <LEM>kāyikaṃ ca tṛtīyaṃ tu</LEM> \mssCaCbCc\msNa\msNc\Ed; mānasaṃ tapa ādau tu \msNb\ Ł(eyeskip)$ </APP>
+        <APP>\vd <LEM>manovākkarma</LEM> \msCa\msNc\Ed; manokkarma \msCb, mmanovākarma° \msCc, manovākkāya° \msNa\msNb\oo
+                 <LEM>°param</LEM> \msCc; °paraḥ \msCa\msCb\msNa\msNb\msNc\Ed</APP>
+        <NOTE>The reading Łmanovākkāya$° (\msNa\msNb) in Łpāda$ d is probably secondary, influenced by
+              such common expressions as, e.g., Łmanovākkāyakarmabhiḥ$ in \YAJNS\ 1.27d.</NOTE>
+        <!-- <TR>the third is the bodily one, the next one is the one which is [characterised by] 
+                 both mental and verbal action.</TR> -->
+
+<TEXT> kāyikaṃ vācikaṃ caiva tapo miśraka pañcamam||</TEXT> 6:19
+        <APP>\ve <LEM>kāyikaṃ</LEM> \mssCaCbCc\msNb\msNc\Ed; kāyika \msNa</APP>
+        <!-- <TR>The fifth type of penance is a mixture of the bodily and the verbal ones.</TR> -->
+        <NOTE>Note the stem form Łmiśraka$ in Łpāda$ f metri causa.</NOTE>
+
+%index_grammar: stem form metri causa
+
+% saumya° ?
+<TEXT> manaḥsaumyaṃ prasādaś{ }ca ātmanigraham{ }eva ca|</TEXT>
+        <APP>\va <LEM>°saumyaṃ</LEM> \msNc; °saumya° \msCa\msCb\msNa\msNb\Ed, °saum<UNCL>ya</UNCL>° \msCc\ \toplost\oo 
+                 <LEM>prasādaś{ }ca</LEM> \msCa\msCc\msNa\msNc; prasādaṃ ca \msCb\Ed, pradānaś{ }ca \msNb</APP>
+        <!-- <TR>Gentleness of the mind, calmness, self-control,</TR> -->
+
+<TEXT> maunaṃ bhāvaviśuddhiś{ }ca pañcaitat{ }tapa mānasam||</TEXT> 6:20
+        <APP>\vc <LEM>maunaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; mauna¤ \Ed\oo
+                 <LEM>°śuddhiś{ }ca</LEM> \msCa\msCb\msNa\msNb\msNc; °śuddhiṃ ca \msCc\Ed</APP>
+        <APP>\vd <LEM>pañcaitat</LEM> \msCa\msNb\msNc; pañcaite \msCb\msNa, pañcetat \msCc, pañcaitan \Ed</APP>
+        <PARAL>\vo <rm>\similar\ \MBH\ 6.39.16 (\BHG\ 17.16):</rm>
+                manaḥprasādaḥ saumyatvaṃ maunam{ }ātmavinigrahaḥ|
+                bhāvasaṃśuddhir{ }ity{ }etat{ }tapo mānasam{ }ucyate||</PARAL>
+        <NOTE>Again, we can see the use of the singular (Łetat$) next to numbers; note also 
+              the stem form Łtapa$ in Łpāda$ d metri causa. This verse is a paraphrase of \MBH\ 3.39.16 (\BHG\ 17.16; see text in the
+              apparatus).</NOTE>
+        <!-- <TR>observing silence, and the purification of one's state of mind:
+                        mental penance comprises these five.</TR> -->
+
+%index_grammar: stem form metri causa
+%index_grammar: singular after numbers
+
+% blurred lines in ed.:
+<TEXT> anudvegakarā vāṇī priyaṃ satyaṃ hitaṃ ca yat|</TEXT>
+        <!-- <TR>Verbal penance is taught as speech that causes no anxiety, which is kind, true and useful,</TR> -->
+
+<TEXT> svādhyāyābhyasanaṃ caiva vācikaṃ tapa ucyate||</TEXT> 6:21
+        <APP>\vc <LEM>°bhyasanaṃ caiva</LEM> \msCb\msCc\msNa\msNc\Ed; °bhyasana¤¤ \msCa, °bhyasa<UNCL>naṃ</UNCL> caiva \msNb</APP>
+        <PARAL>\vcd <rm>\similar\ \MBH\ 6.39.15cd (\BHG\ 17.15):</rm>
+                                 anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat|
+                                 svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate||</PARAL>
+        <NOTE>This verse is a variant of \MBH\ 6.39.15 (\BHG\ 17.15; see it in the apparatus).</NOTE>
+        <!-- <TR>and it includes also the practice of recitation.</TR> -->
+        
+
+<TEXT> ārjavaṃ ca ahiṃsā ca brahmacaryaṃ surārcanam|</TEXT>
+        <APP>\va <LEM>ārjavaṃ ca ahiṃsā ca</LEM> \mssCaCbCc\msNa\msNb\msNc;
+                                        ārjavatvam{ }ahiṃsāś{ }ca \Ed</APP>
+        <APP>\vb <LEM>°caryaṃ</LEM> \msCa\msCb\msNa\msNb\msNc; °carya \msCc\Ed</APP>
+        <!-- <TR>Bodily penance is taught as the following:</TR> -->
+
+<TEXT> śaucaṃ pañcamam{ }ity{ }etat{ }kāyikaṃ tapa ucyate||</TEXT> 6:22
+        <APP>\vc <LEM>śaucaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; śauca \Ed</APP>
+        <PARAL>\vo <rm>\compare\ \MBH\ 6.39.14 (\BHG\ 17.14):</rm>
+                         devadvijaguruprājñapūjanaṃ śaucam{ }ārjavam|
+                         brahmacaryam{ }ahiṃsā ca śārīraṃ tapa ucyate||</PARAL>
+        <NOTE>This verse seems to be a paraphrase of \MBH\ 6.39.14 (\BHG\ 17.14; see it in the apparatus).</NOTE>
+        <!-- <TR>honesty, harmlessness, chastity, the worship of gods, and purity as the fifth.</TR> -->
+ 
+%folioinfo \msNb\ 52.jpg lower 
+<TEXT> iṣṭaṃ kalyāṇabhāvaṃ ca dhanyaṃ pathyaṃ hitaṃ vadet|</TEXT>
+        <APP>\va <LEM>iṣṭaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; iṣṭa \msCc\msNb\oo
+                 <LEM>°bhāvaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; °bhāvaś \Ed</APP>
+        <APP>\vb <LEM>pathyaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; satyaṃ \Ed</APP>
+        <!-- <TR>[Penance] which is a mixture of the mental [and the verbal] is
+                 taught by the great sages to be these five:</TR> -->
+
+<TEXT> manomiśraka pañcaitat{ }tapa uktaṃ maharṣibhiḥ||</TEXT> 6:23
+        <APP>\vc <LEM>mano°</LEM> \mssCaCbCc\msNa\msNb\msNc; mana° \Ed\oo
+                 <LEM>pañcaitat</LEM> \mssCaCbCc\msNa\msNb; pañcetat \msNc, pañcaitān \Ed</APP>
+        <APP>\vd <LEM>tapa uktaṃ maharṣibhiḥ</LEM> \mssCaCbCc\msNa\msNb\msNc; tapam{ }uktaṃ mahirṣibhiḥ \Ed</APP>
+        <NOTE>Note the use of the singular (Łetat$) next to a number and the stem form noun in Łpāda$ c.</NOTE>
+        <!-- <TR>he should speak [about things that are] agreeable, of a virtuous character, auspicious, 
+                                         salutary and useful.</TR> -->
+
+%index_grammar: stem form metri causa
+%index_grammar: singular after numbers
+
+<TEXT> svasti maṅgalam{ }āśīrbhir{ }atithigurupūjanam|</TEXT>
+        <APP>\va <LEM>°śīrbhi°</LEM> \msCa\Ed; °śībhi° \msCb\msCc\msNa\msNb\msNc</APP>
+        <APP>\vb <LEM>°tithi°</LEM> \mssCaCbCc\msNa\msNb\msNc; °tithiṃ \Ed</APP>
+        <PARAL>\vab <rm>\compare\ \SDHS\ 11.79:</rm>
+                namaskārābhivādeṣu svastimaṅgalavācakaiḥ|
+                śivaṃ bhavatu sarvatra prabrūyāt{ }sarvakarmasu||</PARAL>
+        <NOTE>See \SDHS\ 11.73--79 (and <citep>SaivaUtopia2021</citep><pnum>91--93 and 120--121</pnum>) 
+                                for a somewhat similar discussion on `kind speach.'</NOTE>
+        <!-- <TR>[Penance] in which bodily [and verbal actions] mix is taught by the great-souled ones to be these five:</TR> -->
+
+%folioinfo \Ed\ p.601
+<TEXT> kāyamiśraka pañcaitat{ }tapa uktaṃ mahātmabhiḥ||</TEXT> 6:24
+        <APP>\vc <LEM>°miśraka</LEM> \msCc\msNa\msNb\msNc\Ed; °¤¤ka \msCa, °mityaśraka \msCb\oo
+                 <LEM>pañcaitat</LEM> \mssCaCbCc\msNa\msNb\msNc; pañcaitan \Ed</APP>
+        <APP>\vd <LEM>tapa uktaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; tapam{ }uktaṃ \Ed</APP>
+        <!-- <TR>the worship of the guest and the guru, benediction, greetings, and blessings.</TR> -->
+
+<TEXT> maṇḍūkayogī hemante grīṣme pañcatapās{ }tathā|</TEXT>
+        <APP>\vb <LEM>grīṣme</LEM> \mssCaCbCc\msNa\msNb\msNc; gṛṣme \Ed</APP>
+        <PARAL>\vab <rm>\similar\ \MBH\ Appendices 15.801:</rm>
+                                maṇḍūkaśāyī hemante grīṣme pañcatapā bhavet
+                    <rm>\similar\ \UMS\ 6.26ab:</rm>maṇḍūkayogo hemante grīṣme pañcatapās{ }tathā;
+                    <rm>\compare\ \SDHSANGR\ 9.32ab:</rm>
+                        abhrāvakāśyaṃ śītoṣṇe pañcāgnir{ }jalaśāyitā</PARAL>
+%Nisv Mukha: śītātapāvakāśādi pañcāgnirjalaśāyitā|| 4.28||%
+        <NOTE>\Manu\ 6.23 mentions three kins of penance that corresponds to three seasons:
+                        <skt>grīṣme pañcatapās tu syād varṣāsv abhrāvakāśikaḥ |
+                             ārdravāsās tu hemante kramaśo vardhayaṃs tapaḥ ||</skt>. 
+                Translated in <citep>OlivelleManu</citep><pnum>149</pnum> as:
+                `[He should] surround himself with the five fires in the summer; live in the open air during the rainy season;
+                  and wear wet clothes in the winter---gradually intensifying his ascetic toil.'
+                  This and \SDHSANGR\ 9.32ab (quoted in the apparatus) may suggest that being 
+                  a `frog-yogin' could be the same as wearing wet clothes or standing in water for a long time.
+                A footnote to verse \MBH\ 12.309.9 in the Kumbakonam edition of the \MBH\ (<cite>MBhKumbakonaEd</cite>) suggests otherwise:
+                <skt>maṇḍūkavat pāṇipādaṃ saṅkocya nyubjaḥ śete iti maṇḍūkaśāyī</skt>. (`The word `frog-sleeper' means
+                somebody who sleeps like a frog, with his hands and feet withdrawn and with his back humped.') </NOTE>
+        <!-- <TR>[Being] a [so-called] frog-yogin in the winter, or one with the five fires in the summer,</TR> -->
+
+purana/mahAbhAratam/kumbhakonam/13/010.md-avaak"siraastu yo lambedudavaasa.m ca yo vaset ।      kk-13-01-010-011a  
+purana/mahAbhAratam/kumbhakonam/13/010.md:ma.n.duuka"saayii ca naro labhate cepsitaa.m gatim ॥  kk-13-01-010-011c  
+
+<TEXT> abhrāvakāśo varṣāsu tapaḥ sādhanam{ }ucyate||</TEXT> 6:25
+        <APP>\vc <LEM>°vakāśo</LEM> \eme; °vakāśe \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <APP>\vd <LEM>tapaḥ</LEM> \msCa\msCb\msNa\msNb\msNc\Ed; tapa \msCc\oo
+                 <LEM>sādhanam{ }u°</LEM> \msCa\msNa\msNc\Ed; sādhana u° \msCb\msCc\msNb</APP>
+        <!-- <TR>or one who has the clouds [i.e. the open sky] for shelter in the rainy season:
+                         these kinds of penance is called Łsādhana$.</TR> -->
+
+<TEXT> svamāṃsoddhṛtya dānaṃ ca hastapādaśiras{ }tathā|</TEXT>
+        <APP>\va <LEM>dānaṃ</LEM> \mssCaCbCc\msNa\msNc; <UNCL>dāna</UNCL> \msNb\ \toplost, dānaś \Ed</APP>
+        <NOTE>Note the stem form Łsvamāṃsa$ in Łpāda$ a for the accusative.</NOTE>
+        <!-- <TR>Carving out his own flesh as a donation, or 
+                [offering his own] hand, feet and head,</TR> -->
+
+%index_grammar: stem form
+
+<TEXT> puṣpam{ }utpādya dānaṃ{ }ca sarve te tapasādhanāḥ||</TEXT> 6:26
+        <APP>\vc <LEM>dānaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; dānaś \Ed</APP>
+        <APP>\vd <LEM>tapa</LEM> \Ed; tapaḥ \mssCaCbCc\msNa\msNb\msNc\ \unmetr</APP>
+        <NOTE>The translation of Łpāda$ c is tentative, but taking Łpuṣpa$ as `blood' is not only
+              normal e.g. in tantric texts (see e.g. \verify), but \VSS\ 17.38--39 suggest the same
+              in a similar context:
+                        <skt>devī uvāca |
+                             svamāṃsarudhiraṃ dānaṃ dānaṃ putrakalatrayoḥ |
+                             kiṃ praśasyaṃ mahādeva tattvaṃ vaktum ihārhasi ||
+                             maheśvara uvāca |
+                             svamāṃsarudhiraṃ dānaṃ praśaṃsanti manīṣiṇaḥ |
+                             śrūyatāṃ pūrvavṛttāni saṃkṣipya kathayāmy aham ||</skt>.
+                        (`Devī spoke: Why are one's own flesh and blood and one's son and wife praised as donation, O Mahādeva?
+                          Tell me the truth please. Maheśvara spoke: The wise praise one's own flesh and blood as donation.
+                          Let's hear the old legends, I shall tell you briefly.')</NOTE>
+        <!-- <TR>or drawing [his own] blood (Łpuṣpa$) as a donation: all these are Łsādhana$-penances,</TR> -->
+
+<TEXT> kṛcchrātikṛcchraṃ naktaṃ ca taptakṛcchram{ }ayācitam|</TEXT>
+        <APP>\va <LEM>kṛcchrātikṛcchraṃ</LEM> \msCa\msCb\msNa\Ed; kṛcchrādikṛcchra \msCc, kṛcchrātikṛcchra \msNb, kṛcchātikṛcchaṃ \msNc</APP>
+        <APP>\vb <LEM>°yācitam</LEM> \mssCaCbCc\msNa\msNb\msNc; °yācitaḥ \Ed</APP>
+        <!-- <TR>[as also] the `painful penance' and the `extremely paniful one', [eating only] at night,
+                 the `hot and painful' and [the one in which only food obtained] without
+                 solicitation [can be eaten],</TR> -->
+
+<TEXT> cāndrāyaṇaṃ parākaṃ ca tapaḥ sāṃtapanādayaḥ||</TEXT> 6:27
+        <APP>\vc <LEM>cāndrāyaṇaṃ parākaṃ</LEM> \msCa\msCc\msNb\msNc; cāndrāyanaṃ parākaṃ \msCb, 
+                                                        candrāyaṇaṃ parākaṃ \msNa, cāndrāyaṇavarākaś \Ed</APP>
+        <APP>\vd <LEM>tapaḥ sāṃtapanādayaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; tapasāntapanādayaḥ \msCc\Ed</APP>
+        <NOTE>For short descriptions and the loci classici of these penances, see, e.g.,
+                 <citep>KaneHistory</citep><pnum>v. 4, 130--152</pnum>.
+              For Łnakta$/Łnaktānna$ see \VSS\ 8.22 below and, e.g., \SDHS\ chapter 10, and for Łayācita$, \VSS\ 8.23 below.</NOTE>
+        <!-- <TR>the Łcāndrāyaṇa$ and Łparāka$ penances, the Łsāṃtapana$, etc.</TR> -->
+
+
+
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+%                        sumanasā?
+%       - - -   . .  -  . -  . . . -   -  - . -   -   . -
+<TEXT> yenedaṃ tapa tapyate sumanasā saṃsāraduḥkhacchidam</TEXT>
+        <APP>\va <LEM>tapa ta°</LEM> \Ed; tapas{ }ta° \mssCaCbCc\msNa\msNb\msNc\ \unmetr\oo
+                 <LEM>°manasā</LEM> \eme; °manasaḥ \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <NOTE>Note my emendation in Łpāda$ a (Łsumanasā$ from Łsumanasaḥ$) and that
+              in order to restore the metre, I accepted \Ed's stem form Łtapa$.</NOTE>
+        <!-- <TR>He who performs with a well-disposed mind this penance that puts
+                 an end to the suffering caused by transmigration (Łsaṃsāra$),</TR> -->
+
+%index_grammar: stem form metri causa
+
+%      - - - .  . -  .  -  . . . -      -   -  . -     -    . -
+<TEXT> āśāpāśa vimucya nirmalamatis{ }tyaktvā jaghanyaṃ phalam|</TEXT>
+        <APP>\vb <LEM>nirmalamati°</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; nirmalarmati° \msCb\oo
+                 <LEM>jaghanyaṃ</LEM> \mssCaCbCc\msNa\msNb\msNc; jagat{ }yaṃ \Ed</APP>
+        <NOTE>Note the stem form Ł°pāśa$ in Łpāda$ b metri causa.</NOTE>
+        <!-- <TR>abandoning the trap of hope, with a spotless mind, giving up the lowest rewards</TR> -->
+
+%index_grammar: stem form metri causa
+
+<TEXT> svargākāṅkṣyanṛpatvabhogaviṣayaṃ sarvāntikaṃ tatphalaṃ</TEXT>
+        <APP>\vc <LEM>°kāṅkṣya°</LEM> \mssCaCbCc\msNa\msNb\msNc; °kāṃkṣa° \Ed\oo
+                 <LEM>sarvāntikaṃ</LEM> \msCa\msCc\msNa\msNb\msNc\Ed; sarvārttikaṃ \msCb</APP>
+        <!-- <TR>[such as] wishing for heaven, being a king and having enjoyments for the senses,
+                  will have an ultimate (Łsarvāntika$) reward.</TR> -->
+
+<TEXT> jantuḥ śāśvatajanmamṛtyubhavane tanniṣṭhasādhyaṃ vahet||</TEXT> 6:28
+        <APP>\vd <LEM>°bhavane</LEM> \mssCaCbCc\msNa\msNb\Ed; °bhavene \msNc\oo
+                 <LEM>°sādhyaṃ vahet</LEM> \msCc\msNa\msNb\msNc; °<UNCL>sādhyam</UNCL>¤¤ \msCa, 
+                                                  °sādhya vahet \msCb, °sādhyaṃ vadet \Ed</APP>
+        <!-- <TR>In this home of eternal births and deaths, man can bring about an accomplishment that puts an end to them.</TR> -->
+
+<ANUSTUBH/>
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe ṣaṣṭho 'dhyāyaḥ</COLOPHON></TEXT>
+        <TRCOLOPHON>Here ends the sixth chapter in the ŁVṛṣasārasaṃgraha$.</TRCOLOPHON>
+% sic in \mssCaCbCc\msNa\msNb\msNc
+%END OF CHAPTER 6
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+<STOP/>

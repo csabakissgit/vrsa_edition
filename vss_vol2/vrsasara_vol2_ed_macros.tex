@@ -1,0 +1,593 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% FONT and LANG SETTINGS %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{fontspec} % Font selection for XeLaTeX; see fontspec.pdf for documentation
+\defaultfontfeatures{Mapping=tex-text, Language=Sanskrit} % to support TeX conventions like ``---''
+\usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
+
+% The polyglossia package seems to help with hyphenation
+\usepackage{polyglossia}
+\setdefaultlanguage[script=devanagari]{sanskrit}
+\setotherlanguage{english}
+
+% The main English font
+\usepackage[lining,tabular]{ebgaramond}
+\newcommand{\englishfont}{\ebgaramond}
+\newcommand{\smallerfont}{\ebgaramond}
+% The main Devanāgarī font
+\newfontfamily\devanagarifont[Scale=1.2,Script=Devanagari, LetterSpace={1}]{Sanskrit2003}
+\newfontfamily\devanagarifontvar[Scale=1,Script=Devanagari, LetterSpace={1}]{Sanskrit2003}
+\newfontfamily\devanagarifontsmall[Scale=1, Script=Devanagari]{Sanskrit2003}
+\newfontfamily\devanagarifontbold[Scale=1.2,  Script=Devanagari]{Sanskrit2003}
+
+
+%\setmainfont{\ebgaramond}
+
+% Linux Tamil font
+%\newfontfamily\tamilfont{Lohit Tamil}
+
+%https://www.unicode.org/L2/L2021/21112-deva-cluster-valid.pdf
+
+% DevanagariMT
+%\newcommand{\dependentlonga}{\char"00A0\char"093E}
+%\newcommand{\dependentshorti}{\char"00A0\char"093F}
+%\newcommand{\dependentlongi}{\char"00A0\char"0940}
+%\newcommand{\dependentshortu}{\char"00A0\char"0941}
+%\newcommand{\dependentlongu}{\char"00A0\char"0942}
+%\newcommand{\dependente}{\char"00A0\char"0947}
+%\newcommand{\dependentai}{\char"00A0\char"0948}
+%\newcommand{\dependentanusvara}{\char"00A0\char"0902}
+%\newcommand{\dependentvisarga}{\char"00A0\char"0903}
+%\newcommand{\dependentr}{\char"00A0\char"0930}
+
+% PedanticDevanagari
+% [avagraha] + zero-width joiner (U+200D) + [vowel sign]
+% the following contains a zero-width joiner after the avagraha:
+\newcommand{\dep}[1]{{ऽ‍#1}}
+%\newcommand{\depu}{\dep{\char"0941}}
+\newcommand{\depu}{{\char"0941}} % for Sanskrit2003; not good
+%\newcommand{\depanusv}{\dep{\char"0902}}
+\newcommand{\depanusv}{\lk{\char"0902}} % for Sanskrit2003; not good
+\newcommand{\lkplusdepanusv}{\lk\kern-.6em{\char"0301\char"0902}} % for Sanskrit2003; not good
+%\newcommand{\depvisarga}{\dep{\char"0903}}
+\newcommand{\depvisarga}{{\char"0903}} % for Sanskrit2003; not good 
+\newcommand{\halft}{{\char"E341}}
+\newcommand{\halfp}{{\char"E346}}
+
+
+%% Glyphs
+\newcommand{\glyindex}{\XeTeXglyph\XeTeXglyphindex}
+\newcommand{\gly}{\XeTeXglyph}
+
+\usepackage{xltxtra} % Extra customizations for XeLaTeX: "This package was previously used to provide a number of features that were useful for typesetting documents with XeLaTeX. Many of those features have now been incorporated into the fontspec package and other packages, but the package persists for backwards compatibility."
+
+% for ring below r (\textsubring) and l (Dharma input/IAST):
+% \usepackage{tipa}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%%% PAGE DIMENSIONS %%%
+%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage[total={11.7cm,18cm},top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+% \usepackage[a4paper, %%total={11.7cm,20cm},
+%                     top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+%\usepackage[textwidth=9.5cm, textheight=15cm, includehead, headsep=1.1cm, footnotesep=1.2cm, xetex, footskip=1cm, left=6cm]{geometry}
+%\usepackage[a4,width=17cm,height=24cm,center,cross,axes,color=blue,cam]{crop}
+%\usepackage[total={11.7cm,20cm},top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+
+\usepackage[textwidth=11cm, paperwidth=21cm, paperheight=29.7cm, textheight=18cm, includehead, headsep=1.1cm, footnotesep=.8cm, xetex, footskip=1cm, left=5.2cm]{geometry}
+
+
+
+%%%HEADERS%%%%%%%%%%%%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyfoot[C]{{\devanagarifont\thepage}}
+
+\renewcommand{\headrulewidth}{0pt}
+
+
+
+\parindent2em
+\renewcommand{\baselinestretch}{1.2}
+%\headheight14.5pt
+\usepackage[noeledmac]{ledmac}
+%\usepackage{index}
+%\usepackage{amsmath,amssymb,amsfonts,textcomp}
+%\usepackage{ledpar}
+%\usepackage{boxedminipage}
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\blankpage}{%
+\pagebreak
+\thispagestyle{empty}
+\ \vskip3cm
+{\huge {This page is  intentionally left blank.}}
+\vfill\pagebreak}
+
+\newcommand{\twopageedbreak}{%
+\bekveg\szam
+\newpage\addtocounter{page}{1}
+\szam\bek}
+
+% to emphasise number of first entry of a verse in apparatus
+% \fbox puts a box around the number (change position of ~)
+%\newcommand{\numemph}[1]{{\color{red}\fbox{#1}}~}
+% rather emphasise all entries, that is the number and pāda sign
+\usepackage{circledsteps}
+\newcommand{\numemph}[1]{{\englishfont\color{black}{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hspace{.5em} }}}
+\newcommand{\numnoemph}[1]{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hspace{.5em} }
+%\newcommand{\numemph}[1]{\textbf{#1}}\newcommand{\numnoemph}[1]{#1}
+
+% pādas in apparatus: verse no. + pāda sign
+\newcommand{\vo}{\textbf{\englishfont \vs~}}
+\newcommand{\va}{{\textbf{\englishfont \vs a~}}}
+\newcommand{\vb}{{\textbf{\englishfont \vs b~}}}
+\newcommand{\vc}{{\textbf{\englishfont \vs c~}}}
+\newcommand{\vd}{{\textbf{\englishfont \vs d~}}}
+\newcommand{\ve}{{\textbf{\englishfont \vs e~}}}
+\newcommand{\vf}{{\textbf{\englishfont \vs f~}}}
+\newcommand{\vab}{{\textbf{\englishfont \vs ab~}}}
+\newcommand{\vcd}{{\textbf{\englishfont \vs cd~}}}
+\newcommand{\vef}{{\textbf{\englishfont \vs ef~}}}
+\newcommand{\vabce}{{\textbf{\englishfont \vs a--d~}}}
+\newcommand{\vcdef}{{\textbf{\englishfont \vs c--f~}}}
+
+%%%%%%%%%%verse no. counting and printing
+\newcount\fejno
+\newcount\versno
+\newcount\ajsa
+
+
+\fejno=1
+\versno=1
+\newcommand{\ujvers}{\global\advance\versno by1}
+%\renewcommand{\va}{{\textbf{\englishfont \vs a~}}}%
+%\renewcommand{\vb}{{\textbf{\englishfont \vs a~}}}%
+%\renewcommand{\vc}{{\textbf{\englishfont \vs c~}}}%
+%\renewcommand{\vd}{{\textbf{\englishfont \vs a~}}}%
+%}
+\newcommand{\ujfej}{\versno=0\global\advance\fejno by1}
+\newcommand{\newchapter}{\ujfej}
+%\newcommand{\fejversnoird}{\oldstylenums{\the\fejno} .\oldstylenums{\the\versno}}
+%\newcommand{\versnolabj}{\textbf{\oldstylenums{\the\fejno}}{\textbf{.}}
+%\the\versno\rm\ }
+%\newcommand{\ljvs}{\versnolabj}
+%\newcommand{\trvs}{\norm \the\fejno .\the\versno\ }
+%\newcommand{\ujtr}{\ujvers\trvs\hskip 1cm}
+\newcommand{\vsveg}{{\the\fejno.\the\versno}}
+\newcommand{\vs}{{\englishfont\the\versno}}
+
+\newcommand{\phpspagebreak}{\pagebreak}
+
+%%%%% Sections: from--to
+%\newcount\innen%Pl. 14.24-46
+%\newcommand{\tolig}{{\bf\the\fejno .\the\innen --\the\versno\ }}
+%\newcommand{\innentol}{\global\innen=\versno}
+%\newcount\innenn%Pl. 14.24-46
+%\newcommand{\toligg}{{\bf\the\fejno .\the\innenn --\the\versno\ }}
+%\newcommand{\innentoll}{\global\innenn=\versno}
+
+%%%%  Types of paragraph
+%\newcommand{\proza}{\leftskip 3em\noindent}
+%\newcommand{\ujproza}{\global\advance\versno by1\leftskip 3em\noindent}
+\newcommand{\vers}{\nemsloka}
+% alternative name:
+\newcommand{\sloka}{\vers}
+\newcommand{\dnvers}{\leftskip4em}
+% indentation for non-anustubhs
+\newcommand{\nemsloka}{\leftskip1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\nemslokab}{\leftskip3em} % pada b
+\newcommand{\nemslokac}{\nemsloka} % pada c
+\newcommand{\nemslokad}{\nemslokab} % pada d
+\newcommand{\nemslokae}{\nemsloka} % pada e
+\newcommand{\nemslokaf}{\nemslokab} % pada f
+
+\newcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\dnnemslokab}{\leftskip 3em} % pada b
+\newcommand{\dnnemslokac}{\leftskip 1em} % pada c
+\newcommand{\dnnemslokad}{\leftskip 3em} % pada d
+\newcommand{\dnnemslokae}{\leftskip 1em} % pada e
+\newcommand{\dnnemslokaf}{\leftskip 3em} % pada f
+
+\newcommand{\nemslokalong}{
+\renewcommand{\nemsloka}{\leftskip 0em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\nemslokab}{\leftskip 1em} % pada b
+\renewcommand{\nemslokac}{\nemsloka} % pada c
+\renewcommand{\nemslokad}{\nemslokab} % pada d
+\renewcommand{\nemslokae}{\nemsloka} % pada e
+\renewcommand{\nemslokaf}{\nemslokb} % pada f
+\renewcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\dnnemslokab}{\leftskip 2em} % pada b
+\renewcommand{\dnnemslokac}{\leftskip 1em} % pada c
+\renewcommand{\dnnemslokad}{\leftskip 2em} % pada d
+\renewcommand{\dnnemslokae}{\leftskip 1em} % pada c
+\renewcommand{\dnnemslokaf}{\leftskip 2em} % pada d
+}
+
+\newcommand{\nemslokanormal}{
+\renewcommand{\nemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\nemslokab}{\leftskip 3em} % pada b
+\renewcommand{\nemslokac}{\leftskip 1em} % pada c
+\renewcommand{\nemslokad}{\leftskip 3em} % pada d
+\renewcommand{\nemslokae}{\leftskip 1em} % pada e
+\renewcommand{\nemslokaf}{\leftskip 3em} % pada f
+\renewcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\dnnemslokab}{\leftskip 3em} % pada b
+\renewcommand{\dnnemslokac}{\leftskip 1em} % pada c
+\renewcommand{\dnnemslokad}{\leftskip 3em} % pada d
+\renewcommand{\dnnemslokae}{\leftskip 1em} % pada e
+\renewcommand{\dnnemslokaf}{\leftskip 3em} % pada f
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\newcommand{\prose}{\noindent} % pada d
+\newcommand{\prose}{\leftskip 0em\noindent\advanceline{0}}
+%\newcommand{\dontdisplaylinenum}{\advanceline{1}\skipnumbering}
+\newcommand{\dontdisplaylinenum}{\skipnumbering}
+%%%% Apparatus
+
+%\newcommand{\var}[1]{\edtext{}{\Dfootnote{#1}}}
+
+
+%https://www.unicode.org/L2/L2021/21112-deva-cluster-valid.pdf
+\newcommand{\dependentlonga}{\char"00A0\char"093E}
+\newcommand{\dependentshorti}{\char"00A0\char"093F}
+\newcommand{\dependentlongi}{\char"00A0\char"0940}
+\newcommand{\dependentshortu}{\char"00A0\char"0941}
+\newcommand{\dependentlongu}{\char"00A0\char"0942}
+\newcommand{\dependente}{\char"00A0\char"0947}
+\newcommand{\dependentai}{\char"00A0\char"0948}
+\newcommand{\dependentanusvara}{\char"00A0\char"0902}
+\newcommand{\dependentvisarga}{\char"00A0\char"0903}
+\newcommand{\dependentr}{\char"00A0\char"0930}
+
+
+
+% when 2-col app requires grouping of variants of one single verse:
+%\newcommand{\var}[1]{\ \ #1}
+\newcommand{\paral}[1]{\edtext{}{\Afootnote{#1}}}
+\newcommand{\lacuna}[1]{\edtext{}{\Bfootnote{#1}}}
+\newcommand{\var}[1]{\edtext{}{\Cfootnote{#1}}}
+\newcommand{\marginalia}[1]{\edtext{}{\Bfootnote{#1}}}
+\newcommand{\prosevar}[1]{\edtext{}{\Afootnote{#1}}}
+
+%%%%%%%  Dandas
+\newcommand{\dandab}{\ujvers\danda}%\renewcommand{\padaA}{a}\renewcommand{\padaB}{b}\renewcommand{\padaAB}{ab}}
+\newcommand{\dandad}{\danda}%\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
+\newcommand{\danda}{।}
+\newcommand{\ketdanda}{॥}
+\newcommand{\ketdandadn}{{\dn ..}}
+\newcommand{\dnd}{\danda}
+\newcommand{\dnddnd}{\ketdanda}
+%\newcommand{\veg}{}%{{\rm\ketdanda\vsveg\ketdanda}\renewcommand{\padaA}{c}\renewcommand{\padaB}{d}\renewcommand{\padaAB}{cd}}
+\newcommand{\veg}{\vrule depth10pt width0pt}% this now only controls the vertical skip at the end of verse
+\newcommand{\vsvegdn}{\the\fejno\kern-0.3em{\rm\ :}\kern0.1em\the\versno\kern-0.15em}
+\newcommand{\vegdn}{॥$~${\vsvegdn}॥ \vrule depth10pt width0pt}
+\newcommand{\sixlsloka}{\renewcommand{\padaA}{e}\renewcommand{\padaB}{f}\renewcommand{\padaAB}{ef}}
+\newcommand{\vegg}[1]{{\rm \ketdanda#1\ketdanda}}
+\newcommand{\dandadn}{।}
+\newcommand{\dandabdn}{\ujvers{।}}
+
+
+%%%%%%%%%%%
+\newcommand{\tart}[1]{\ugras
+\leftskip5em
+
+\noindent
+[= {\footnotesize #1}]
+\ugras
+\vers}
+\newcommand{\jump}{\ugras}
+\newcommand{\thdanda}{{\thinspace$\cal j$}}
+\newcommand{\thketdanda}{\thinspace$\cal k$}
+\newcommand{\subb}[1]{\bigskip\textbf{#1}\medskip}
+%\newcommand{\jati}[1]{{\fbox{\parbox{\linewidth}{#1}}}}
+%\newcommand{\jati}[2][]{\tikz[overlay]\node[fill=blue!20,inner sep=2pt, anchor=text, rectangle, rounded corners=1mm,#1] {#2};\phantom{#2}}
+\newcommand{\jati}[1]{\textbf{#1}}
+\newcommand{\Notes}{\textit{Textual Notes}}
+\newcommand{\Colo}{{\englishfont\textbf{Colophon}}}
+\newcommand{\notelemm}[2]{#1: \textbf{#2}~]}
+\newcommand{\lem}{{\devanagarifont\thinspace \textbf{]} }}
+%\newcommand{\lem}{{\englishfont~\textbf{]}} }
+
+\newcommand{\note}[1]{#1:}
+%\newcommand{\AD}{\textsc{ad}}
+\newcommand{\CE}{\textsc{ce}}
+\newcommand{\dik}{\textsuperscript{th}}
+%\newcommand{\rovidb}{\char23\kern-.25em}%abbrev in Skt words left
+%\newcommand{\rovidj}{\kern-.25em\char23\kern-.45em}%abbrev in Skt words right
+\newcommand{\rovidb}{{\textdegree}}%abbrev in Skt words left % I dont use these any more
+\newcommand{\rovidj}{{\textdegree}}%abbrev in Skt words right % I dont use these any more
+\newcommand{\rovid}{{\textdegree}}%abbrev in Skt words right
+\newcommand{\pusp}{${\oplus}$}
+\newcommand{\puspika}{${\otimes}$}
+\newcommand{\abbr}{\char23}
+\newcommand{\Patala}{\skt{Pa{\d t}ala}}
+\newcommand{\patala}{\skt{pa{\d t}ala}}
+\newcommand{\sasm}[1]{!SĀŚM: #1!}
+
+
+%\newcommand{\New}[1]{\begin{center}\textbf{+++++\hbox{N\lower0.2em\hbox{E}\hbox{W}}!!!+++++}#1
+%\textbf{+++++ END of \hbox{N\lower0.2em\hbox{E}\hbox{W}} +++++}\end{center}}
+
+\newcommand{\New}{\textbf{\hbox{N\lower0.2em\hbox{E}\hbox{W}}!!!}}
+\newcommand{\oo}{{\englishfont\ \ ${\bullet}$\ \ }}
+\newcommand{\unmetr}{{\englishfont (unmetr.)}}
+\newcommand{\hypermetr}{{\englishfont (hy\-per\-metr.)}}
+\newcommand{\hypometr}{{\englishfont (hy\-po\-metr.)}}
+\newcommand{\conj}{{\englishfont conj.}}
+\newcommand{\corr}{{\englishfont corr.}}
+\newcommand{\eme}{{\englishfont em.}}
+\newcommand{\CHECK}{{\englishfont\color{red}{CHECK}}}
+\newcommand{\kozep}[1]{\begin{center}{#1}\end{center}}
+\newcommand{\paralid}{}
+\newcommand{\crux}[1]{{\englishfont$\dag$}{\thinspace #1}{\englishfont$\dag$}}
+\newcommand{\cruxdn}[1]{{$\dag\thinspace$#1$\dag$}}
+\newcommand{\fejezet}[1]{\subsection{#1}{\vrule depth16pt width0pt}
+				
+}
+
+
+% Chapter, subchapter etc. in the edition
+\newcommand{\alfejezet}[1]{\begin{center}
+        {{{{\textbf{\large[ }}{\devanagarifont\large#1}{{\englishfont\large]}}}{\vrule depth10pt width0pt}}}\dontdisplaylinenum
+\addcontentsline{toc}{subsection}{#1}
+\end{center}
+
+}
+
+\newcommand{\alalfejezet}[1]{\begin{center}
+        {\devanagarifont\small{[#1]}{\vrule depth8pt width0pt}}\dontdisplaylinenum
+\addcontentsline{toc}{subsubsection}{#1}
+\end{center}
+
+}
+
+\newcommand{\alalalfejezet}[1]{\begin{center}
+        {\devanagarifont\footnotesize[#1]}\dontdisplaylinenum
+\addcontentsline{toc}{subsubsection}{#1}
+\end{center}
+
+}
+
+
+\newcommand{\alfejezetdn}[1]{\begin{center}
+        {{\englishfont\Large [}{\dn#1}{\englishfont\Large  ]}}\dontdisplaylinenum
+\addcontentsline{toc}{subsection}{#1}
+\end{center}
+
+}
+
+\newcommand{\alalfejezetdn}[1]{\begin{center}
+\textbf{{{\englishfont\large [}{\dn#1}{\englishfont\large  ]}}}\dontdisplaylinenum
+\addcontentsline{toc}{subsubsection}{#1}
+\end{center} 
+
+}
+
+
+%\newcommand{\alfejezet}[1]{\subsubsection[#1]{{\textbf{{#1}}}}\vers}
+%\newcommand{\fejezet}[1]{\begin{center}{\textbf{\suppl{#1}}}\end{center}}
+
+\newcommand{\atugras}[2]{\begin{center}{\dots}\end{center}\ugras\ugras\begin{center}
+(\textit{#1})
+\end{center}\begin{center}{\dots}\end{center}}
+\newcommand{\atugr}[2]{\begin{center}(\textit{#1})\end{center}}
+\newcommand{\urescim}[1]{\thispagestyle{empty}\ \vskip8cm{\begin{center}\huge\textsc{#1}\end{center}}}
+\newcommand{\gap}{${\sqcup}$}
+\newcommand{\Exeme}{\textit{Ex em.}}
+\newcommand{\Exconj}{\textit{Ex conj.}}
+\newcommand{\exeme}{\textit{ex em.}}
+\newcommand{\exconj}{\textit{ex conj.}}
+\newcommand{\nagy}{}
+ \sidenotemargin{outer}
+%\newcommand{\folio}[1]{\ledsidenote{\tiny #1}\vers}
+
+%\newcommand{\folio}[1]{{\tiny {\textsc{$\rightarrow$}} #1}
+
+%\vers}
+
+%\newcommand{\folio}[1]{}
+%\newcommand{\folioo}[1]{\textbf{[f.~#1]}}
+%\newcommand{\folio}[1]{\textbf{[#1]}}
+\newcommand{\folioo}[1]{}
+%\newcommand{\folio}[1]{}
+
+\newcommand{\folio}[1]{\begin{center}{\tiny {\textsc{$\rightarrow$}} #1}
+\end{center}
+
+\vers}
+
+% old Velthuis commands
+\newcommand{\csbreve}{} %CHECK for Roman version
+\newcommand{\csa}{{A}} %only mātrā
+\newcommand{\csr}{{\dn \0}} %only superscript r
+\newcommand{\csi}{{\dn E}} %only i
+\newcommand{\csI}{{\dn F}} %only ī
+\newcommand{\cse}{{\dn \?}} %only e
+\newcommand{\csai}{{\dn \4}} %only ai
+\newcommand{\cso}{{\dn o}} %only o
+\newcommand{\csuil}{{\dn \7{\il}}} % u plus \il
+\newcommand{\csdh}{{\dn @}} % dh 
+\newcommand{\cst}{{\dn (}} % t 
+
+
+\newcommand{\rem}[1]{\ledrightnote{\tiny [#1]}\vers}
+\newcommand{\frecto}[1]{\ledleftnote{\tiny{#1\recto}}\vers}
+\newcommand{\fverso}[1]{\ledleftnote{\tiny{#1\verso}}\vers}
+\newcommand{\kkicsi}{}
+%\newcommand{\toplost}{{\englishfont(\textit{top of akṣaras lost})}}
+\newcommand{\toplost}{{\englishfont(tops of akṣaras lost)}}
+\newcommand{\vverso}{\verso}
+\newcommand{\rrecto}{\recto}
+\newcommand{\trvers}[1]{$^{{\textnormal{\scriptsize [#1]}}}$}
+\newcommand{\prefn}[3]{$^{\scriptsize\textnormal{[}}$\footnote[#1]{$^{\scriptsize 
+		\textnormal{#2}}$#3}{$^{\textnormal{\scriptsize #2]}}$}}
+%\newcommand{\slokawithfn}[4]{
+%
+%$^{\scriptsize\textnormal{[}}$\footnote[#1]{$^{\scriptsize 
+%		\textnormal{#2}}$#4}{$^{\textnormal{\scriptsize#2]}}$}#3}
+
+%\newcommand{\slokawithfn}[4]{
+%
+%$^{\scriptsize\textnormal{}}$\footnote[#1]{$^{\scriptsize 
+%		\textnormal{#2}}$#4}{$^{\textnormal{\scriptsize#2}}$}#3}
+
+
+%\newcommand{\slokawithfn}[4]{$^{\the\fejno.}$\footnote[#1]{$^{\scriptsize\textnormal{#2}}$#4}$^{\textnormal{#2}}$#3}
+%\newcommand{\slokawithoutfn}[2]{$^{\textnormal{\the\fejno.#1}}$#2}
+
+\newcommand{\slokawithfn}[4]{\footnote[#1]{$^{\scriptsize\textnormal{#2}}$#4}$^{\textnormal{#2}}$#3}
+\newcommand{\slokawithoutfn}[2]{$^{\textnormal{#1}}$#2}
+
+
+%\newcommand{\slokawithoutfn}[3]{
+%
+%{$^{\scriptsize\textnormal{[}}${$^{\textnormal{\scriptsize #1]}}$}}#2}
+
+%\newcommand{\slokawithoutfn}[3]{
+%
+%{$^{\scriptsize\textnormal{}}${$^{\textnormal{\scriptsize #1}}$}}#2}
+
+
+\newcommand{\trlemm}[1]{\textbf{\textit{#1}}}
+\newcommand{\trlemmindex}[1]{\textbf{\textit{#1}}\index{#1}}
+
+%\newcommand{\Grammar}{${\rhd}$ }
+%\newcommand{\Meaning}{${\bigtriangleup}$ }
+%\newcommand{\Grammar}{\Moon\ }
+%\newcommand{\Meaning}{\Sun\ }
+\newcommand{\Grammar}{}
+\newcommand{\Meaning}{}
+
+\newcommand{\upadhm}{f}
+
+
+\newcommand{\dnapp}[1]{}
+\newcommand{\rmapp}[1]{#1}
+
+%\newcommand{\trvers}[1]{$^{\textcircled{#1}}$}
+\newcommand{\trfejezet}[1]{\begin{center}{\large \textbf{[{Chapter #1}]}}\end{center}\bigskip}
+%\newcommand{\tralfejezet}[1]{\begin{center}\textsc{[#1]}\end{center}}
+\newenvironment{trnemsloka}{\begin{quotation}\noindent}{\end{quotation}}
+\newcommand{\ie}[1]{(\skt{#1})\index{#1}}
+\newcommand{\ienoindex}[1]{(\skt{#1})}%no indexing
+\newcommand{\suppl}[1]{$<${#1}$>$}
+\newcommand{\error}[1]{{\sout{#1}}}
+%\newcommand{\om}{{\englishfont\textit{omitted in}}}
+\newcommand{\om}{{\englishfont om.}}
+\newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
+\newcommand{\cancelled}{{\englishfont(\textit{cancelled})}}
+\newcommand{\isitcancelled}{{\englishfont(\textit{cancelled?})}}
+%REVISE
+\newcommand{\eyeskip}[1]{{\englishfont(eyeskip to #1)}}
+\newcommand{\eyeskipto}[1]{{\englishfont (eyeskip to #1)}}
+\newcommand{\eyeskipfrom}[2]{{\englishfont (eyeskip from #1)}}
+
+\newcommand{\recto}{$^r$\/}
+\newcommand{\verso}{$^v$\/}
+\newcommand{\pcorr}{{\englishfont $^{pc}$\/}}
+\newcommand{\acorr}{{\englishfont $^{ac}$\/}}
+\newcommand{\sadhaka}{S{\=a}\-dha\-ka\index{sādhaka}}
+\newcommand{\mantrin}{Mantrin\index{mantrin}}
+%\newcommand{\kalpa}{Kalpa\index{kalpa}}
+%\newcommand{\Skt}[1]{#1}\index{#1}}%\index{#1}}%Sanskrit in italics
+\newcommand{\skt}[1]{\textit{#1}}%}%\index{#1}}%Sanskrit in italics
+\newcommand{\sktindex}[1]{\textit{#1}\index{#1}}%}%\index{#1}}%Sanskrit in italics
+\newcommand{\pskt}[1]{\textit{#1}}%parallels
+\newcommand{\cim}[1]{\textsl{#1}\index{#1}}%Titles in slanted
+\newcommand{\titl}[1]{\textsl{#1}}%Titles in slanted
+\newcommand{\cimnoindex}[1]{\textsl{#1}}%Titles in slanted
+%\newcommand{\il}{${\star}$}
+% illegible syllable:
+%\def\langkort{\setbox0=\hbox{{\bf --}}\dimen0=\ht0
+     %  \advance\dimen0 by-2.5ex
+      %  \copy0\kern -1\wd0
+       % \raise\dimen0\hbox to\wd0{\hss{\bf \char'025}\hss}}
+%\newcommand{\il}{\raise.2em\hbox{\englishfont{ -\kern-.27em\raise-.5em\hbox{˘}$\,$}}}
+%\newcommand{\il}{\hspace{.08em}\raise.2em\hbox{-}\kern-.33em\raise-.0em\hbox{\englishfont{˘}$\,$}}
+\newcommand{\il}{\englishfont{×}} % note that I use × for lost in the base file!
+                                  % this here should be an anceps
+
+\newcommand{\lac}{\kern0.1em{\englishfont-{}-{}-{}}\kern0.1em}
+\def\langkort{\setbox0=\hbox{{\bf --}}\dimen0=\ht0
+        \advance\dimen0 by-2.5ex
+        \copy0\kern -1\wd0
+        \raise\dimen0\hbox to\wd0{\hss{\bf \char'025}\hss}}
+\newcommand{\shortsyllable}{\large\raise-.2em\hbox{˘}}
+\newcommand{\lk}{{\englishfont{\kern.05em\englishfont\textendash}\kern-.45em\shortsyllable\kern.05em}}
+\newcommand{\lkwithanusvara}{{\englishfont-\kern-.2em\shortsyllable\kern-1em\raise1em\hbox{ ं}}}
+
+
+\newcommand{\lost}{\englishfont{$\_$\thinspace }}
+\newcommand{\chapp}[1]{\textit{#1}}
+\newcommand{\att}[1]{\underline{#1}}
+\newcommand{\allpatalas}[1]{\textit{Pa\d{t}ala} #1}
+\newcommand{\mntr}[1]{{\textsc{#1}}}%}%\index{#1}}%Mantras in small capitals
+\newcommand{\mntrdn}[1]{#1}%Mantras in devnag
+\newcommand{\mntrindex}[1]{\textsc{#1}\index{#1}}%Mantras in small capitals
+\newcommand{\dialog}[1]{{\textsc{#1}}}%Dialogue in small capitals
+\newcommand{\edmntrsmall}[1]{{\textsc{#1}}}%Mantras in small capitals
+\newcommand{\vegeadalnak}{\bekveg\szamveg\vfill\pagebreak}
+\newcommand{\kb}{${\approx}$}
+\newcommand\compare{~{\englishfont cf.}}
+\newcommand{\similar}{~${\approx}$}
+\newcommand{\scsmall}{\mntr} % outdated
+\newcommand{\verbalroot}[1]{$\sqrt{#1}$}
+\newcommand{\fb}{${\Rsh}$} %folio break
+\newcommand{\upperfol}{${\uparrow}$} %folio break
+\newcommand{\lowerfol}{${\downarrow}$} %folio break
+\newcommand{\aisa}[1]{$^\textnormal{\tiny #1}$}
+\newcommand{\Aisa}[1]{~${\rightarrow}~\S$#1\index{Ai{\'sa} #1}}
+\newcommand{\kep}[1]{\includegraphics[scale=2.5]{$HOME/indology/early_tantra_project/edition/byeditionmainfiles/images/#1}}
+\newcommand{\kepp}[1]{\includegraphics[scale=2]{$HOME/indology/early_tantra_project/edition/byeditionmainfiles/images/#1}}
+\newcommand{\keppp}[1]{\includegraphics[scale=1]{$HOME/indology/early_tantra_project/edition/byeditionmainfiles/images/#1}}
+%%%AUTHORS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\csindex}[1]{#1\index{#1}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\newcommand{\szam}{\beginnumbering}
+\newcommand{\bek}{\pstart}
+\newcommand{\szamveg}{\endnumbering}
+\newcommand{\bekveg}{\pend}
+\newcommand{\ugras}{%
+
+\  
+\dontdisplaylinenum
+
+}
+
+\newcommand{\edmntr}[1]{\textsc{#1}}
+
+% EXTERNAL files
+\input{vrsasara_vol2_ed_macros_sigla.tex}
+\input{vrsasara_vol2_ed_macros_ledmac.tex}
+\input{vrsasara_vol2_ed_macros_authors.tex}
+
+
+% Linux Tamil font
+%\newfontfamily\tamilfont{Lohit Tamil}
+
+
+% Redefining section, subsection etc.
+\makeatletter
+\renewcommand\section{\@startsection{section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\englishfont\LARGE\bfseries}}% from \Large
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\englishfont\Large\bfseries}}% from \large
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+                                     {-0ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\englishfont\large\bfseries}}% from \normalsize
+\makeatother
+

@@ -1,0 +1,1193 @@
+% PACKAGES
+\usepackage{fontspec} % Font selection for XeLaTeX; see fontspec.pdf for documentation
+% LetterSpace=1.2,
+\defaultfontfeatures{WordSpace=1.1,Ligatures=TeX, Mapping=tex-text} % to support TeX conventions like ``---''
+\usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
+%\usepackage{hyperref}
+%\usepackage{glossaries}
+\usepackage{polyglossia}
+\usepackage{xltxtra} % Extra customizations for XeLaTeX
+%\setsansfont{Deja Vu Sans}
+%\setmonofont{Deja Vu Mono}
+% other LaTeX packages.....
+%\usepackage[total={12cm,21cm},top=2.8cm, left=4.5cm, headsep=1.1cm, footskip=1.5cm, footnotesep=1cm, xetex]{geometry}
+%\usepackage[textwidth=11cm, height=20cm, includehead, headsep=1.1cm, footnotesep=1cm, xetex, footskip=1.7cm, left=14em]{geometry}
+
+\usepackage[textwidth=11cm, textheight=18cm, includehead, headsep=1.1cm, footnotesep=.8cm, xetex, footskip=1cm, left=5.2cm]{geometry}
+\usepackage[a4,width=17cm,height=24cm,center,cross,axes,color=blue,cam]{crop}
+
+\usepackage{pdfpages}
+\usepackage{todonotes}
+\usepackage{circledsteps}
+
+
+\usepackage{tikz}
+\usepackage{color}
+\usetikzlibrary{positioning}% To get more advanced positioning options
+\usetikzlibrary{decorations.text}
+
+
+\parskip.1em\parindent1.5em
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% customize the TOC
+\usepackage{tocloft}
+\renewcommand{\cftsecafterpnum}{\hspace*{0em}}
+\renewcommand{\cftsubsecafterpnum}{\hspace*{0em}}
+\renewcommand{\cftsubsubsecafterpnum}{\hspace*{0em}}
+\renewcommand{\cftchapafterpnum}{\hspace*{0em}}
+
+\renewcommand\cftloftitlefont{\englishfont} % optional
+
+\makeatletter
+\newcommand \mydotfill {\leavevmode \cleaders \hb@xt@ .8em{\hss .\hss }\hfill \kern \z@}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% bibliography
+\usepackage{natbib}
+
+% notesep below is for the sep between year and page num
+\setcitestyle{authoryear, round, aysep={ },numbers,open={},close={},notesep={,\thinspace }}
+% to modify the appearance of the label (SANDERSON 2009) in the bibliography (get rid of []s):
+\makeatletter                         % Reference list option change
+\renewcommand\@biblabel[1]{#1:}      %   from [1] to 1:
+\makeatother      
+% Title of biblio
+%For book-classes: 
+%\newcommand{\UnexpandableProtect}{}
+\newcommand{\mycite}[1]{\citeauthor{#1} \citeyear{#1}}
+\newcommand{\mycitep}[2]{\citeauthor{#1} \citeyear{#1}, #2}
+
+% Finally! To hide the numbering in the Biblio 
+\makeatletter
+\renewcommand\@biblabel[1]{}
+\makeatother
+
+% to change indentation in the Bibliography
+\usepackage{enumitem}
+\makeatletter
+\renewenvironment{thebibliography}[1]
+     {\section{Secondary Sources and Editions\bigskip}%
+     \fancyhead[CE]{}
+     \fancyhead[CO]{}
+     \@mkboth{header!}{header!}%
+      \begin{enumerate}[label={[\arabic{enumi}]},itemindent=-2em,leftmargin=2em]
+      \@openbib@code
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \end{enumerate}}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%INDEX
+\newcommand{\csindex}[1]{#1\index{#1}}
+\newcommand{\csindexx}[2]{#1\index{#2@#1}}
+\newcommand{\csindexxx}[3]{#1\index{#2@#3}}
+\newcommand{\cskt}[2]{\skt{#1}\index{#2@\skt{#1}}}
+\newcommand{\sktx}[1]{\skt{#1}\index{#1@\skt{#1}}}
+
+\renewenvironment{theindex}
+               {%\if@twocolumn
+                  %\@restonecolfalse
+                %\else
+                  %\@restonecoltrue
+                %\fi
+%               \columnseprule \z@
+                \columnseprule 0pt
+%               \columnsep 35\p@
+                \columnsep 35pt
+%               \twocolumn[\@makeschapterhead{\indexname}]%
+                \twocolumn[%\makeschapterhead{\indexname}
+                \bigskip
+                \bigskip
+                \bigskip
+                \bigskip
+
+                {\englishfont\Large\hfill\textit{Index to Introduction and Translation}\hfill}
+                \bigskip
+                \bigskip
+
+ REVISE \verify\ In the Index, the surnames of modern authors, as well
+ as mantra-syllables, are typeset
+ in \textsc{Small Capitals}, Sanskrit words in general
+ in \textit{italics}, Sanskrit names of deities, humans, including authors,
+ in non-italic normal typeface with capital initial letters,
+ English words in non-italic normal typeface, and
+ titles of works in \textsl{slanted font}.
+\par \vskip 20pt]%
+% Two lines below were the original.  I changed them so that the
+% heading of the following pages would suit the previous chapters.
+% But I am not certain if that was what Dominic and Haru wanted.
+%                \markboth{\MakeUppercase\indexname}%
+%                        {\MakeUppercase\indexname}%
+              %  \markboth{Niśvāsatattvasaṃhitā}{Index to Introduction and Notes}
+%               \thispagestyle{plain}\parindent\z@
+                \thispagestyle{plain}\parindent0pt
+%               \parskip\z@ \@plus .3\p@\relax
+                \parskip0pt plus .3pt\relax
+                \def\idxitem{\par\hangindent 40pt}
+                \let\item\idxitem%
+}
+%              {\if@restonecol\onecolumn\else\clearpage\fi}
+               {\onecolumn}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+\tolerance=100
+\hbadness=100
+\hfuzz=2pt
+
+% FONT STUFF
+%\newfontfamily\devanagarifont[Script=Devanagari]{Sanskrit2003}
+\newfontfamily\newarfont{Noto Sans Newa}
+\usepackage{ebgaramond}
+\newfontfamily\devanagarifont[Scale=1.2,Script=Devanagari]{Sanskrit2003}
+\newfontfamily\devanagarifontbold[Scale=1.2,Script=Devanagari]{Sanskrit2003}
+%\newfontfamily\englishfont[Scale=1,Script=Latin]{EB Garamond}
+\newcommand{\englishfont}{\ebgaramond}
+%\newfontfamily\smallerfont[Scale=.9,Script=Latin]{EB Garamond}
+\newcommand{\smallerfont}{\ebgaramond}
+
+%\renewcommand{\baselinestretch}{.95}
+% Activate to begin paragraphs with an empty line rather than an indent
+%\usepackage[parfill]{parskip}
+% support the \includegraphics command and options:
+\usepackage{graphicx} 
+\usepackage{makeidx}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%HEADER
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\fancyhead[CE]{}
+\fancyhead[CO]{}
+\fancyfoot[C]{\thepage}
+
+\renewcommand{\headrulewidth}{0pt}
+\addtolength{\topmargin}{-2.49998pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TOC
+
+% this is to get rid of the page numbers on the pages of the toc
+\fancypagestyle{plain}{%
+  \fancyhf{}                          % clear all header and footer fields
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% no section numbering in text:
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{3}
+
+% section titles
+\usepackage{titlesec}
+
+  \titleformat{\chapter}%
+  {\centering\normalfont\englishfont\Large\it}{%
+    %\hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+    %{\color{white}\hspace{-1cm}\normalfont\thesection\hspace{5pt}}
+  }{0em}{}
+
+  % old color format I used to have:
+%  \titleformat{\section}
+%  {\normalfont\Large\itshape\color{red}}{%
+%    \hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+%    {\color{white}\hspace{-1cm}\normalfont\thesection\hspace{5pt}}
+%  }{0em}{}{}
+
+%\titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
+\titlespacing*{\section}
+{0pt}{5.5ex plus 1ex minus .2ex}{.3em}
+
+  \titleformat{\section}
+  {\englishfont\large}{%
+    {\englishfont\large\bf\thesection}  }{0em}{}{}
+
+
+%\titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
+\titlespacing*{\subsection}
+{0pt}{3.5ex plus 1ex minus .2ex}{.3em}
+
+  \titleformat{\subsection}
+  {\normalfont\itshape}{%
+    {\englishfont\itshape\thesection}
+  }{0em}{}{}
+
+ % \titleformat{\subsection}
+ % {\normalfont\large\itshape\color{brown}}{%
+ %   %\hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+    %{\color{white}\hspace{-1cm}\normalfont\thesubsection\hspace{5pt}}
+ % }{0em}{}
+
+  \titleformat{\subsubsection}
+  {\normalfont}{%
+   % \hspace*{-4.5em}\rule[-1.35mm]{4.5em}{1.25em}
+   % {\color{white}\hspace{-1cm}\normalfont\thesubsection\hspace{5pt}}
+  }{0em}{}
+  
+%\newcommand{\mychapter}[1]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
+\newcommand{\mychapter}[1]{\chapter*{#1}
+\addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#1}}{}{}}}
+
+%\newcommand{\mysection}[2]{\vskip1em\begin{center}{\textsc{\large #1}}\end{center}\label{#2}\vskip1em}
+\newcommand{\mysection}[1]{\section{#1}
+\addtocontents{toc}{\protect\contentsline{section}{\protect\numberline{}#1}{}}}
+
+
+\newcommand{\mysubsection}[2]{\noindent\textit{#1}\label{#2}\\%
+\noindent%
+}
+\newcommand{\mysubsubsection}[2]{\noindent{\color{black}{\textbf{#1}}}\label{#2}\hskip2em}
+\newcommand{\msdescr}[2]{\medskip\noindent{\color{black}{\large\textbf{#1}}}\label{#2}\hskip2em}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FOOTNOTES
+%\renewcommand{\footnoterule}{}
+\usepackage[]{footmisc}
+% Here you can modify the spacing between the footnote number and the text of footnote; keep this value and \hangfootparindent value the same
+\renewcommand{\footnotelayout}{\hspace{.5em}}
+\renewcommand{\hangfootparindent}{\hspace{.5em}}
+
+\newcommand\blankfootnote[1]{%
+  \let\thefootnote\relax\footnotetext{#1}%
+  \let\thefootnote\svthefootnote%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%MISC COMMANDS
+\newcommand{\skt}[1]{\textit{#1}}
+\newcommand{\ie}[1]{(\textit{#1})}
+\newcommand{\skttitle}[2]{\textsl{#1}\index{#2@\textsl{#1}}}
+\newcommand{\CHECK}{{\englishfont\color{red}{CHECK}}}
+\newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
+%\newcommand{\shortsyllable}{\raise.15em\hbox{˘}}
+\newcommand{\shortsyllable}{$\cup$}
+\newcommand{\similar}{${\approx}$}
+\newcommand{\compare}{{cf.}}
+\newcommand{\asrama}{\cskt{āśrama}{asrama}}
+\newcommand{\CE}{{\textsc{ce}}}
+\newcommand{\BC}{{\textsc{bc}}}
+\newcommand{\AD}{{\textsc{ad}}}
+\newcommand{\fol}{f.\thinspace}
+\newcommand{\fols}{ff.\thinspace}
+\newcommand{\Fol}{F.\thinspace}
+\newcommand{\Fols}{Ff.\thinspace}
+\newcommand{\verbalroot}[1]{$\sqrt{#1}$}
+\newcommand{\verify}{{\color{red}{CHECK}}}
+\newcommand{\hide}[1]{}
+\newcommand{\dbldanda}{||}
+\newcommand{\il}{${\CHECK}$}
+\newcommand{\lost}{\englishfont{×}}
+\newcommand{\mutacumliquida}{\skt{krama} licence\index{krama licence@\skt{krama} licence}}
+\newcommand{\stemform}{stem form\index{stem form (\skt{prātipadika})}}
+\newcommand{\Stemform}{Stem form\index{stem form (\skt{prātipadika})}}
+
+\newcommand{\recto}{$^r$}
+\newcommand{\verso}{$^v$}
+
+%SMALL CAPS HACKS
+\newcommand\scR{r\kern-.35em\raisebox{-.17em}{.}\kern.15em}
+\newcommand\scS{s\kern-.35em\raisebox{-.17em}{.}\kern.13em}
+\newcommand\scM{m\kern-.5em\raisebox{-.17em}{.}\kern.25em}
+
+% for the translation: chapter and verse number; translation; notes
+\newcommand{\slokawithfn}[3]{\blankfootnote{\kern-1em#1: #3}%
+%\textbf
+\noindent{#1} #2\medskip}
+
+\newcommand{\slokawithoutfn}[2]{%
+%\textbf
+\noindent{#1} #2\medskip}
+
+\renewcommand{\labelitemi}{--}
+
+% INPUT titles, authors, sigla
+%\input{vss_book_skt_works.tex}
+\newcommand{\titleface}[1]{\textit{#1}}
+
+% SANSKRIT WORKS
+\newcommand{\Arthasastra}{\titleface{A\-rtha\-śā\-stra}\index{Arthasastra@\titleface{Artha\-śāstra}}}
+
+\newcommand{\AgamaKL}{\titleface{Ā\-ga\-ma\-ka\-lpa\-la\-tā}\index{Agamakalpalata@\titleface{Āgama\-kalpa\-latā}}}
+\newcommand{\AGAMAKL}{ĀgamaKL\index{Agamakalpalata@\titleface{Āgama\-kalpa\-latā}}}
+
+\newcommand{\Apastambadharmasutra}{\titleface{Ā\-pa\-sta\-mba\-dharma\-sūtra}\index{Apastambadharmasutra@\titleface{Ā\-pa\-sta\-mba\-dharma\-sūtra}}}
+\newcommand{\APASTDHSU}{ĀpastDhSū\index{Apastambadharmasutra @\titleface{Ā\-pa\-sta\-mba\-dharma\-sūtra}}}
+
+\newcommand{\AstangHr}{\titleface{A\-ṣṭā\-ṅga\-hṛ\-da\-ya}\index{Astangahrdaya@\titleface{Aṣṭāṅgahṛdaya}}}
+\newcommand{\ASTANGHR}{AṣṭāṅgHṛ\index{Astangahrdaya@\titleface{Aṣṭāṅgahṛdaya}}}
+
+\newcommand{\AgniP}{\titleface{A\-gni\-pu\-rā\-ṇa}\index{Agnipurana@\titleface{Agnipurāṇa}}}
+\newcommand{\AGNIP}{AgniP\index{Agnipurana@\titleface{Agnipurāṇa}}}
+
+\newcommand{\Amara}{\titleface{Amarakośa}\index{Amarakosa@\titleface{Amarakośa}}}
+\newcommand{\AMARA}{Amara\index{Amarakosa@\titleface{Amarakośa}}}
+
+\newcommand{\Isanasiva}{\titleface{Īśāna\-śiva\-guru\-deva\-paddhati}\index{Isanasivagurudevapaddhati@\titleface{Īśāna\-śiva\-guru\-deva\-paddhati}}}
+\newcommand{\ISGDP}{\titleface{ĪŚGDP}\index{Isanasivagurudevapaddhati@\titleface{Īśāna\-śiva\-guru\-deva\-paddhati}}}
+
+\newcommand{\Uums}{\titleface{Utta\-ro\-tta\-ra\-ma\-hā\-saṃ\-vā\-da}\index{Uttarottaramahasamvada@\titleface{Uttarottaramahāsaṃvāda}}}
+\newcommand{\UUMS}{UUMS\index{Uttarottaramahasamvada@\titleface{Uttarottaramahāsaṃvāda}}}
+
+\newcommand{\Ums}{\titleface{Umā\-mahe\-śva\-ra\-saṃ\-vāda}\index{Umamahesvarasamvada@\titleface{Umāmaheśvarasaṃvāda}}}
+\newcommand{\UMS}{UMS\index{Umamahesvarasamvada@\titleface{Umāmaheśvarasaṃvāda}}}
+
+
+\newcommand{\RV}{ṚV\index{Rgveda@\titleface{Ṛgveda}}}
+
+\newcommand{\KurmP}{\titleface{Kū\-rma\-pu\-rā\-ṇa}\index{Kurmapurana@\titleface{Kūrmapurāṇa}}}
+\newcommand{\KURMP}{KūrmP\index{Kurmapurana@\titleface{Kūrmapurāṇa}}}
+
+\newcommand{\GautDhS}{\titleface{Gau\-ta\-ma\-dha\-rma\-sū\-tra}\index{Gautamadharmasutra@\titleface{Gautadharmasūtra}}}
+\newcommand{\GAUTDHS}{GautDhS\index{Gautamadharmasutra@\titleface{Gautadharmasūtra}}}
+
+\newcommand{\Caraka}{\titleface{Ca\-ra\-ka\-saṃ\-hitā}\index{Carakasamhita@\titleface{Caraka\-saṃhitā}}}
+\newcommand{\CARAKA}{Caraka\index{Carakasamhita@\titleface{Caraka\-saṃhitā}}}
+
+\newcommand{\Jativiveka}{\titleface{Jā\-ti\-vi\-ve\-ka}\index{Jativiveka@\titleface{Jā\-ti\-vi\-ve\-ka}}}
+
+\newcommand{\JayadRY}{\titleface{Ja\-ya\-dra\-tha\-yā\-yā\-ma\-la}\index{Jayadrathayamala@\titleface{Ja\-ya\-dra\-tha\-yā\-yā\-ma\-la}}}
+\newcommand{\JRY}{JRY\index{Jayadrathayamala@\titleface{Ja\-ya\-dra\-tha\-yā\-yā\-ma\-la}}}
+
+\newcommand{\TakI}{\titleface{Tā\-ntri\-kā\-bhi\-dhā\-na\-ko\-śa I}\index{Tantrikabhidhanakosa@\titleface{Tāntrikābhidhānakośa}}}
+\newcommand{\TAKI}{TAK I\index{Tantrikabhidhanakosa@\titleface{Tāntrikābhidhānakośa}}}
+
+\newcommand{\TakII}{\titleface{Tā\-ntri\-kā\-bhi\-dhā\-na\-ko\-śa II}\index{Tantrikabhidhanakosa@\titleface{Tāntrikābhidhānakośa}}}
+\newcommand{\TAKII}{TAK II\index{Tantrikabhidhanakosa@\titleface{Tāntrikābhidhānakośa}}}
+
+\newcommand{\TakIII}{\titleface{Tā\-ntri\-kā\-bhi\-dhā\-na\-ko\-śa III}\index{Tantrikabhidhanakosa@\titleface{Tāntrikābhidhānakośa}}}
+\newcommand{\TAKIII}{TAK III\index{Tantrikabhidhanakosa@\titleface{Tāntrikābhidhānakośa}}}
+
+\newcommand{\TakIV}{\titleface{Tā\-ntri\-kā\-bhi\-dhā\-na\-ko\-śa IV}\index{Tantrikabhidhanakosa@\titleface{Tāntrikābhidhānakośa}}}
+\newcommand{\TAKIV}{TAK IV\index{Tantrikabhidhanakosa@\titleface{Tāntrikābhidhānakośa}}}
+
+\newcommand{\Diksottara}{\titleface{Dī\-kṣo\-tta\-ra}\index{Diksottara@\titleface{Dīkṣottara}}}
+\newcommand{\DIKSOTTARA}{DīkṣU\index{Diksottara@\titleface{Dīkṣottara}}}
+
+\newcommand{\Divyav}{\titleface{Di\-vyā\-va\-dā\-na}\index{Divyavadana@\titleface{Divyāvadāna}}}
+\newcommand{\DIVYAV}{Divyāv\index{Divyavadana@\titleface{Divyāvadāna}}}
+
+\newcommand{\DeviP}{\titleface{De\-vī\-pu\-rā\-ṇa}\index{Devipurana@\titleface{Devī\-purāṇa}}}
+\newcommand{\DEVIP}{DevīP\index{Devipurana@\titleface{Devī\-purāṇa}}}
+
+\newcommand{\DeviBh}{\titleface{De\-vī\-bhā\-ga\-vata}\index{Devibhagavata@\titleface{Devī\-bhāgavata}}}
+\newcommand{\DEVIBH}{DevīBh\index{Devibhagavata@\titleface{Devī\-bhāgavata}}}
+
+\newcommand{\DharmP}{\titleface{Dha\-rma\-pu\-tri\-kā}\index{Dharmaputrika@\titleface{Dharmaputrikā}}}
+\newcommand{\DHARMP}{DharmP\index{Dharmaputrika@\titleface{Dharmaputrikā}}}
+
+\newcommand{\Dharmasamuccaya}{\titleface{Dha\-rma\-samu\-cca\-ya}\index{Dharmasamuccaya@\titleface{Dharmasamuccaya}}}
+
+
+\newcommand{\NaradaP}{\titleface{Nā\-ra\-da\-pu\-rā\-ṇa}\index{Naradapurana@\titleface{Nāradapurāṇa}}}
+\newcommand{\NARADAP}{NāradaP\index{Naradapurana@\titleface{Nāradapurāṇa}}}
+
+\newcommand{\NaradaParivr}{\titleface{Nāradaparivrājakopaniṣad}\index{Naradaparivrajakopanisad@\titleface{Nārada\-pari\-vrājako\-paniṣad}}}
+\newcommand{\NARADAPARIVR}{NāradParivrUp\index{Naradaparivrajakopanisad@\titleface{Nārada\-pari\-vrājako\-paniṣad}}}
+
+\newcommand{\Nisv}{\titleface{Ni\-śvā\-sa\-tattva\-saṃhi\-tā}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}}}
+\newcommand{\NISV}{Niśv\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}}}
+
+\newcommand{\Nisvmukh}{\titleface{Ni\-śvā\-sa mu\-kha}\index{Nisvasamukha@\titleface{Niśvāsa mukha}}}
+\newcommand{\NISVMUKH}{NiśvMukha\index{Nisvasamukha@\titleface{Niśvāsa mukha}}}
+
+\newcommand{\Nisvmul}{\titleface{Ni\-śvā\-sa mū\-la}\index{Nisvasamula@\titleface{Niśvāsa mūla}}}
+\newcommand{\NISVMUL}{NiśvMūl\index{Nisvasamukha@\titleface{Niśvāsa mūla}}}
+
+\newcommand{\Nisvnaya}{\titleface{Ni\-śvā\-sa na\-ya}\index{Nisvasanaya@\titleface{Niśvāsa naya}}}
+\newcommand{\NISVNAYA}{NiśvNaya\index{Nisvasamukha@\titleface{Niśvāsa naya}}}
+
+\newcommand{\Nisvuttara}{\titleface{Ni\-śvā\-sa utta\-ra}\index{Nisvasauttara@\titleface{Niśvāsa uttara}}}
+\newcommand{\NISVUTTARA}{NiśvUttara\index{Nisvasauttara@\titleface{Niśvāsa uttara}}}
+
+\newcommand{\Nisvguhya}{\titleface{Ni\-śvā\-sa gu\-hya}\index{Nisvasaguhya@\titleface{Niśvāsa guhya}}}
+\newcommand{\NISVGUHYA}{NiśvGuhya\index{Nisvasaguhya@\titleface{Niśvāsa guhya}}}
+
+\newcommand{\NisvK}{\titleface{Ni\-śvā\-sa kā\-ri\-kā}\index{Nisvasakarika@\titleface{Niśvāsakārikā}}}
+\newcommand{\NISVK}{NiśvK\index{Nisvasakarika@\titleface{Niśvāsakārikā}}}
+
+\newcommand{\NepMah}{\titleface{Ne\-pā\-la\-mā\-hā\-tmya}\index{Nepalamahatmya@\titleface{Nepāla\-māhātmya}}}
+\newcommand{\NEPMAH}{NepMā\index{Nepalamahatmya@\titleface{Nepāla\-māhātmya}}}
+
+\newcommand{\Patimokkha}{\titleface{Pāti\-mokkha}\index{Patimokkha@\titleface{Pāti\-mokkha}}}
+\newcommand{\PATMOKHA}{Pātimokkha\index{Patimokkha@\titleface{Pāti\-mokkha}}}
+
+\newcommand{\PadmaP}{\titleface{Padma\-pu\-rā\-ṇa}\index{Padmapurana@\titleface{Padmapurāṇa}}}
+\newcommand{\PADMAP}{PadmaP\index{Padmapurana@\titleface{Padmapurāṇa}}}
+
+\newcommand{\ParasaraS}{\titleface{Pa\-rā\-śa\-ra\-smṛ\-ti}\index{Parasarasmrti@\titleface{Pa\-rā\-śa\-ra\-smṛ\-ti}}}
+
+\newcommand{\PadmaS}{\titleface{Padma\-saṃ\-hi\-tā}\index{Padmasamhita@\titleface{Padma\-saṃhitā}}}
+\newcommand{\PADMAS}{PadmaS\index{Padmasamhita@\titleface{Padma\-saṃhitā}}}
+
+\newcommand{\Buddhacarita}{\titleface{Bu\-ddha\-ca\-ri\-ta}\index{Buddhacarita@\titleface{Buddhacarita}}}
+\newcommand{\BUDDHACARITA}{BuddhCar\index{Buddhacarita@\titleface{Buddhacarita}}}
+
+\newcommand{\Bodhisattvabhumi}{\titleface{Bodhi\-sattva\-bhūmi}\index{Bodhisattvabhumi@\titleface{Bodhisattva\-bhūmi}}}
+\newcommand{\BODHISBH}{BodhisattvaBh\index{Bodhisattvabhumi@\titleface{Bodhisattva\-bhūmi}}}
+
+\newcommand{\BrahmaP}{\titleface{Bra\-hma\-pu\-rā\-ṇa}\index{Brahmapurana@\titleface{Brahmapurāṇa}}}
+\newcommand{\BRAHMAP}{BrahmaP\index{Brahmapurana@\titleface{Brahmapurāṇa}}}
+
+\newcommand{\BraYa}{\titleface{Bra\-hma\-yā\-ma\-la}\index{Brahmayamala@\titleface{Brahmayāmala}}}
+\newcommand{\BRAYA}{BraYā\index{Brahmayamala@\titleface{Brahmayāmala}}}
+
+\newcommand{\BrahmaVP}{\titleface{Bra\-hma\-vai\-va\-rta\-pu\-rā\-ṇa}\index{Brahmavaivartapurana@\titleface{Brahma\-vaivarta\-purāṇa}}}
+\newcommand{\BRAHMAVP}{BrahmaVP\index{Brahmavaivartapurana@\titleface{Brahma\-vaivarta\-purāṇa}}}
+
+\newcommand{\BhG}{\titleface{Bha\-ga\-va\-dgī\-tā}\index{Bhagavadgita@\titleface{Bhagavadgītā}}}
+\newcommand{\BHG}{BhG\index{Bhagavadgita@\titleface{Bhagavadgītā}}}
+
+\newcommand{\BaudhDhS}{\titleface{Bau\-dhā\-ya\-na\-dha\-rma\-sū\-tra}\index{Baudhayanadharmasutra@\titleface{Bau\-dhā\-ya\-na\-dha\-rma\-sū\-tra}}}
+\newcommand{\BAUDHDHS}{BaudhDhS\index{Baudhayanadharmasutra@\titleface{Bau\-dhā\-ya\-na\-dha\-rma\-sū\-tra}}}
+
+\newcommand{\BhelaS}{\titleface{Bhe\-la\-saṃ\-hi\-tā}\index{Bhelasamhita@\titleface{Bhelasaṃhitā}}}
+\newcommand{\BHELAS}{BhelaS\index{Bhelasamhita@\titleface{Bhelasaṃhitā}}}
+
+\newcommand{\BrahmandaPur}{\titleface{Bra\-hmā\-ṇḍa\-pu\-rā\-ṇa}\index{Brahmandapurana@\titleface{Brahmāṇḍapurāṇa}}}
+\newcommand{\BRAHMANDAPUR}{BrahmāṇḍaP\index{Brahmandapurana@\titleface{Brahmāṇḍapurāṇa}}}
+
+\newcommand{\BhavP}{\titleface{Bha\-vi\-ṣya\-pu\-rā\-ṇa}\index{Bhavisyapurana@\titleface{Bhaviṣyapurāṇa}}}
+\newcommand{\BHAVP}{BhavP\index{Bhavisyapurana@\titleface{Bhaviṣyapurāṇa}}}
+
+\newcommand{\BhagP}{\titleface{Bhā\-ga\-va\-ta\-pu\-rā\-ṇa}\index{Bhagavatapurana@\titleface{Bhāgavatapurāṇa}}}
+\newcommand{\BHAGP}{BhāgP\index{Bhagavatapurana@\titleface{Bhāgavatapurāṇa}}}
+\newcommand{\MBh}{\titleface{Mahā\-bhā\-rata}\index{Mahabharata@\titleface{Mahābhārata}}}
+\newcommand{\MBH}{MBh\index{Mahabharata@\titleface{Mahābhārata}}}
+
+\newcommand{\MahaSubhS}{\titleface{Ma\-hā\-su\-bhā\-ṣi\-ta\-saṃ\-gra\-ha}\index{Mahasubhasitasamgraha@\titleface{Mahā\-subhāṣita\-saṃgraha}}}
+\newcommand{\MAHASUBHS}{MahāSubhS\index{Mahasubhasitasamgraha@\titleface{Mahā\-subhāṣita\-saṃgraha}}}
+
+\newcommand{\MarkP}{\titleface{Mārkaṇḍeyapurāṇa}\index{Markandeyapurana@\titleface{Mārkaṇḍeyapurāṇa}}}
+\newcommand{\MARKP}{MarkP\index{Markandeyapurana@\titleface{Mārkaṇḍeyapurāṇa}}}
+
+\newcommand{\MatsP}{\titleface{Matsyapurāṇa}\index{Matsyapurana@\titleface{Matsyapurāṇa}}}
+\newcommand{\MATSP}{MatsP\index{Matsyapurana@\titleface{Matsyapurāṇa}}}
+
+\newcommand{\Manu}{\titleface{Manu}\index{Manu@\titleface{Mānavadharmaśāstra}}}
+\newcommand{\MANU}{Manu\index{Manu@\titleface{Mānavadharmaśāstra}}}
+
+\newcommand{\Mitaksara}{\titleface{Mi\-tā\-kṣa\-rā}\index{Mitaksara@\titleface{Mitākṣarā}}}
+\newcommand{\MITAKSARA}{\titleface{Mitākṣarā}\index{Mitaksara@\titleface{Mitākṣarā}}}
+
+
+\newcommand{\YajnS}{\titleface{Yājñavalkyasmṛti}\index{Yajnavalkyasmrti@\titleface{Yājñavalkyasmṛti}}}
+\newcommand{\YAJNS}{YājñS\index{Yajnavalkyasmrti@\titleface{Yājñavalkyasmṛti}}}
+
+\newcommand{\YogaS}{\titleface{Yogasūtra}\index{Yogasutra@\titleface{Yogasūtra}}}
+\newcommand{\YS}{YS\index{Yogasutra@\titleface{Yogasūtra}}}
+
+\newcommand{\YogasikhaU}{\titleface{Yoga\-śikho\-paniṣad}\index{Yogasikhopanisad@\titleface{Yoga\-śikho\-paniṣad}}}
+
+\newcommand{\YogaBh}{\titleface{Yogabhāṣya}\index{Yogabhasya@\titleface{Yogabhāṣya}}}
+\newcommand{\YBH}{YBh\index{Yogabhasya@\titleface{Yogabhāṣya}}}
+
+\newcommand{\Raghu}{\titleface{Ra\-ghu\-vaṃ\-śa}\index{Raghuvamsa@\titleface{Ra\-ghu\-vaṃ\-śa}}}
+\newcommand{\RAGHU}{\titleface{Ra\-ghu\-vaṃ\-śa}\index{Raghuvamsa@\titleface{Ra\-ghu\-vaṃ\-śa}}}
+
+\newcommand{\Ramayana}{\titleface{Rā\-mā\-ya\-ṇa}\index{Ramayana@\titleface{Rāmāyaṇa}}}
+\newcommand{\RAMAYANA}{\titleface{Rāmāyaṇa}\index{Ramayana@\titleface{Rāmāyaṇa}}}
+
+\newcommand{\RasarnavaSK}{\titleface{Ra\-sā\-rṇa\-va\-su\-dhā\-ka\-ra}\index{Rasarnavasudhakara@\titleface{Ra\-sā\-rṇa\-va\-su\-dhā\-ka\-ra}}}
+
+
+\newcommand{\RevKhS}{RKS\index{Revakhanda@\titleface{Revākaṇḍa}}}
+\newcommand{\RKS}{\titleface{Re\-vā\-kha\-ṇḍa}\index{Revakhanda@\titleface{Revākaṇḍa}}}
+
+
+\newcommand{\LaksmiNarS}{\titleface{Lakṣmīnārāyaṇasaṃhitā}\index{Laksminarayanasamhita@\titleface{Lakṣmī\-nā\-rā\-ya\-ṇa\-saṃhitā}}}
+\newcommand{\LAKSMINARS}{LakṣmīNārS\index{Laksminarayanasamhita@\titleface{Lakṣmī\-nā\-rā\-ya\-ṇa\-saṃhitā}}}
+
+\newcommand{\LinPu}{\titleface{Li\-ṅga\-pu\-rā\-ṇa}\index{Lingapurana@\titleface{Liṅgapurāṇa}}}
+\newcommand{\LINPU}{LiṅP\index{Lingapurana@\titleface{Liṅgapurāṇa}}}
+
+\newcommand{\Vagmati}{\titleface{Vā\-gma\-tī\-māhātmya\-praśaṃsā}\index{Vagmatimahatmyaprasamsa@\titleface{Vāgmatīmāhātmyapraśaṃsā}}}
+\newcommand{\VAGMATI}{VāgMāPr\index{Vagmatimahatmyaprasamsa@\titleface{Vāgmatīmāhātmyapraśaṃsā}}}
+
+\newcommand{\VajasaneyiS}{\titleface{Vā\-ja\-sa\-ne\-yi\-saṃ\-hi\-tā}\index{Vajasaneyisamhita@\titleface{Vājasaneyisaṃhitā}}}
+\newcommand{\VAJASANEYIS}{VājasaneyiS\index{Vajasaneyisamhita@\titleface{Vājasaneyisaṃhitā}}}
+
+\newcommand{\VisnuP}{\titleface{Vi\-ṣṇu\-pu\-rā\-ṇa}\index{Visnupurana@\titleface{Viṣṇupurāṇa}}}
+\newcommand{\VISNUP}{ViṣṇuP\index{Visnupurana@\titleface{Viṣṇupurāṇa}}}
+
+\newcommand{\VDhU}{\titleface{Vi\-ṣṇu\-dha\-rmo\-tta\-ra}\index{Visnudharmottara@\titleface{Viṣṇudharmottara}}}
+\newcommand{\VDHU}{VDhU\index{Visnudharmottara@\titleface{Viṣṇudharmottara}}}
+
+\newcommand{\VamP}{\titleface{Vā\-ma\-na\-pu\-rā\-ṇa}\index{Vamanapurana@\titleface{Vāmanapurāṇa}}}
+\newcommand{\VAMP}{VarP\index{Vamanapurana@\titleface{Vāmanapurāṇa}}}
+
+\newcommand{\VayuP}{\titleface{Vā\-yu\-pu\-rā\-ṇa}\index{Vayupurana@\titleface{Vāyupurāṇa}}}
+\newcommand{\VAYUP}{VāyuP\index{Vayupurana@\titleface{Vāyupurāṇa}}}
+
+\newcommand{\VasisthaDhS}{\titleface{Vā\-si\-ṣṭha\-dha\-rma\-sū\-tra}\index{Vasisthadharmasutra@\titleface{Vā\-si\-ṣṭha\-dha\-rma\-sū\-tra}}}
+\newcommand{\VASISTHADHS}{VāsiṣṭhaDhS\index{Vasisthadharmasutra@\titleface{Vā\-si\-ṣṭha\-dha\-rma\-sū\-tra}}}
+
+\newcommand{\VarP}{\titleface{Va\-rā\-ha\-pu\-rā\-ṇa}\index{Varahapurana@\titleface{Varāhapurāṇa}}}
+\newcommand{\VARP}{VarP\index{Varahapurana@\titleface{Varāhapurāṇa}}}
+
+\newcommand{\VasDh}{\titleface{Vā\-si\-ṣṭha\-dha\-rma\-śā\-stra}\index{Vasisthadharmasastra@\titleface{Vāsiṣṭhadharmaśāstra}}}
+\newcommand{\VASDH}{VasDh\index{Vasisthadharmasastra@\titleface{Vāsiṣṭhadharmaśāstra}}}
+
+\newcommand{\VDh}{\titleface{Vi\-ṣṇu\-dha\-rma}\index{Visnudharma@\titleface{Viṣṇudharma}}}
+\newcommand{\VDH}{VDh\index{Visnudharma@\titleface{Viṣṇudharma}}}
+
+\newcommand{\VisnuS}{\titleface{Vi\-ṣṇu\-smṛ\-ti}\index{Visnusmrti@\titleface{Viṣṇusmṛti}}}
+\newcommand{\VISNUS}{ViṣṇuS\index{Visnusmrti@\titleface{Viṣṇusmṛti}}}
+
+\newcommand{\Vss}{\titleface{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}\index{Vrsasarasamgraha@\titleface{Vṛṣasārasaṃgraha}}}
+\newcommand{\Vsssc}{{V\scR\scS a\-sā\-ra\-sa\scM\-gra\-ha}%
+								\index{Vrsasarasamgraha@\titleface{Vṛṣasārasaṃgraha}}}
+\newcommand{\VSS}{{VSS}\index{Vrsasarasamgraha@\titleface{Vṛṣasārasaṃgraha}}}
+
+\newcommand{\SamkhK}{\titleface{Sāṃkhyakārikā}\index{Samkhyakarika@\titleface{Sāṃkhyakārikā}}}
+\newcommand{\SK}{SāṃkhyK\index{Samkhyakarika@\titleface{Sāṃkhyakārikā}}}
+
+\newcommand{\SivP}{\titleface{Śivapurāṇa}\index{Sivapurana@\titleface{Śivapurāṇa}}}
+\newcommand{\SIVP}{SivP\index{Sivapurana@\titleface{Śivapurāṇa}}}
+
+\newcommand{\SivPu}{\titleface{Śi\-va\-pu\-rā\-ṇa}\index{Sivapurana@\titleface{Śivapurāṇa}}}
+\newcommand{\SIVPU}{ŚivP\index{Sivapurana@\titleface{Śivapurāṇa}}}
+
+\newcommand{\Sivasamkalpa}{\titleface{Śi\-va\-saṃ\-ka\-lpa}\index{Sivasamkalpa@\titleface{Śiva\-saṃ\-kalpa}}}
+\newcommand{\SIVAKALPA}{ŚivaSaṃkalpa\index{Sivasamkalpa@\titleface{Śiva\-saṃ\-kalpa}}}
+
+\newcommand{\Sivasamhita}{\titleface{Śi\-va\-saṃ\-hi\-tā}\index{Sivasamhita@\titleface{Śiva\-saṃ\-hitā}}}
+
+\newcommand{\SivaUp}{\titleface{Śi\-vo\-pa\-ni\-ṣad}\index{Sivopanisad@\titleface{Śivopaniṣad}}}
+\newcommand{\SIVAUP}{ŚivaUp\index{Sivopanisad@\titleface{Śivopaniṣad}}}
+
+\newcommand{\SDhS}{\titleface{Śi\-va\-dha\-rma\-śās\-tra}\index{Sivadharmasastra@\titleface{Śivadharmaśāstra}}}
+\newcommand{\SDHS}{ŚDhŚ\index{Sivadharmasastra@\titleface{Śivadharmaśāstra}}}
+
+\newcommand{\SDhSangr}{\titleface{Śi\-va\-dha\-rma\-saṃ\-gra\-ha}\index{Sivadharmasamgraha@\titleface{Śivadharmasaṃgraha}}}
+\newcommand{\SDHSANGR}{ŚDhSaṃgr\index{Sivadharmasamgraha@\titleface{Śivadharmasaṃgraha}}}
+
+\newcommand{\SDHSAMGR}{\SDHSANGR}
+
+\newcommand{\SDhU}{\titleface{Śi\-va\-dhar\-mo\-tta\-ra}\index{Sivadharmottara@\titleface{Śivadharmottara}}}
+\newcommand{\SDHU}{ŚDhU\index{Sivadharmottara@\titleface{Śivadharmottara}}}
+
+\newcommand{\SannyasUp}{\titleface{Sa\-nnyā\-so\-pa\-ni\-ṣad}\index{Sannyasopanisad@\titleface{Sanyāsopaniṣad}}}
+\newcommand{\SANNYASUP}{SannyāsUp\index{Sannyasopanisad@\titleface{Sannyāsopaniṣad}}}
+
+\newcommand{\SiddhYogMata}{\titleface{Si\-ddha\-yo\-ge\-śva\-rī\-mata}%
+							\index{Siddhayogesvarimata@\titleface{Siddhayogeśvarīmata}}}
+\newcommand{\SYM}{SYM\index{Siddhayogesvarimata@\titleface{Siddhayogeśvarīmata}}}
+
+\newcommand{\SkandaP}{\titleface{Ska\-nda\-pu\-rā\-ṇa}\index{Skandapurana@\titleface{Skandapurāṇa}}}
+\newcommand{\SKANDAP}{SkandaP\index{Skandapurana@\titleface{Skandapurāṇa}}}
+
+\newcommand{\SvayP}{\titleface{Sva\-ya\-mbhū\-pu\-rā\-ṇa}\index{Svayambhupurana@\titleface{Sva\-ya\-mbhū\-pu\-rā\-ṇa}}}
+\newcommand{\SVAYP}{SvayamPu\index{Svayambhupurana@\titleface{Sva\-ya\-mbhū\-pu\-rā\-ṇa}}}
+
+\newcommand{\Harivamsa}{\titleface{Hari\-vaṃśa}\index{Harivamsa@\titleface{Hari\-vaṃśa}}}
+\newcommand{\HARIVAMSA}{\titlefacei{Hari\-vaṃśa}\index{Harivamsa@\titleface{Hari\-vaṃśa}}}
+
+\newcommand{\Hyp}{\titleface{Ha\-ṭha\-yo\-ga\-pra\-dī\-pi\-kā}\index{Hathayogapradipika@\titleface{Haṭhayogapradīpikā}}}
+\newcommand{\HYP}{HYP\index{Hathayogapradipika@\titleface{Haṭhayogapradīpikā}}}
+
+\newcommand{\Hatharatnavali}{\titleface{Haṭha\-ratnāvalī}\index{Hatharatnavali@\titleface{Haṭha\-ratnāvalī}}}
+
+\newcommand{\Monier}{Monier-Williams' \titleface{Sanskrit-English Dict.}\index{Monier@{Monier-Williams, Monier}}}
+
+
+%\input{vss_book_authors.tex}
+% INDIVIDUALS
+\newcommand{\authorfont}[1]{{#1}}
+%\newcommand{\authorfont}[1]{\textsc{#1}}
+\newcommand{\Kiss}{\textsc{Kiss}\index{Kiss, Csaba}}
+\newcommand{\Bader}{\textsc{Bader}}%\index{Bader}}
+\newcommand{\Clark}{\textsc{Clark}}%\index{Clark}}
+\newcommand{\Jowett}{\textsc{Jowett}}%\index{Jowett}}
+\newcommand{\Goodall}{{\authorfont{Good\-all}}\index{Goodall, Dominic}}
+\newcommand{\Kloppenborg}{\textsc{Kloppenborg}}%\index{Kloppenborg}}
+\newcommand{\Dehejia}{\textsc{Dehejia}}%\index{Dehejia}}
+\newcommand{\Pandeya}{\textsc{P\={a}\d{n}\d{d}eya}}%\index{{P\={a}\d{n}\d{d}eya}}}
+\newcommand{\Sanderson}{\authorfont{Sand\-erson}\index{Sanderson, Alexis@\authorfont{Sanderson}, Alexis}}
+\newcommand{\Hatley}{\textsc{Hat\-ley}\index{Hatley, Shaman}}
+\newcommand{\Wise}{\textsc{Wise}}%\index{Wise}}
+\newcommand{\Dey}{\textsc{Dey}}%\index{Dey}}
+\newcommand{\Torzsok}{\textsc{T\"or\-zs\"ok}\index{Törzsök, Judit}}
+\newcommand{\Haru}{\textsc{Isa{a}cson}\index{Isa{a}cson, Harunaga}}
+\newcommand{\Nirajan}{{\rm \textsc{Kafle}}\index{Kafle, Nirajan}}
+\newcommand{\Kafle}{{\rm \textsc{Kafle}}\index{Kafle, Nirajan}}
+\newcommand{\Mallinson}{\textsc{Mallin\-son}\index{Mallin\-son, James}}
+\newcommand{\White}{\textsc{White}\index{White}}
+\newcommand{\Goudr}{\textsc{Goudria{a}n}\index{Goudria{a}n, Teun}}
+\newcommand{\Kale}{\textsc{Kale}\index{Kale}}
+\newcommand{\Bagchi}{\textsc{Bagchi}}%\index{Bagchi}}
+\newcommand{\Briggs}{\textsc{Briggs}}%\index{Briggs}}
+\newcommand{\Brunner}{\textsc{Brunner}\index{Brunner, H\'el\`ene}}
+\newcommand{\Dyczkowski}{\textsc{Dyczkowski}}%\index{Dyczkowski}}
+\newcommand{\Finn}{\textsc{Finn}}%\index{Finn}}
+\newcommand{\Garzilli}{\textsc{Garzilli}}%\index{Garzilli}}
+\newcommand{\Heilijgers}{\textsc{Heilijgers}}%\index{Heilijgers}}
+\newcommand{\Mallik}{\textsc{Mallik}}%\index{Mallik}}
+\newcommand{\McGregor}{\textsc{McGregor}}%\index{McGregor}}
+\newcommand{\Rao}{\textsc{Rao}}%\index{Rao}}
+\newcommand{\Vasudeva}{\textsc{Vasudeva}\index{Vasudeva, Somadeva}}
+\newcommand{\Vyas}{\textsc{Vyas \&\ Kshirsagar}}%\index{Vyas \&\ Kshirsagar}}
+\newcommand{\Bouy}{\textsc{Bouy}}%\index{Bouy}}
+\newcommand{\Sensharma}{\textsc{Sensharma}}%\index{Sensharma}}
+\newcommand{\Bisschop}{\textsc{Bisschop}}%\index{Bisschop}}
+\newcommand{\Schoterman}{\textsc{Schoterman}}%\index{Schoterman}}
+\newcommand{\Gonda}{\textsc{Gonda}}%\index{Gonda}}
+\newcommand{\Brooks}{\textsc{Brooks}}%\index{Brooks}}
+\newcommand{\Buhnemann}{\textsc{B\"uhnemann}}%\index{B\"uhnemann}}
+\newcommand{\Khanna}{\textsc{Khanna}}%\index{Khanna}}
+\newcommand{\Gupta}{\textsc{Gupta}}%\index{Gupta}}
+\newcommand{\Hoens}{\textsc{Hoens}}%\index{Hoens}}
+\newcommand{\Padoux}{\textsc{Padoux}}%\index{Padoux}}
+\newcommand{\Avalon}{\textsc{Avalon}}%\index{Avalon}}
+\newcommand{\MookerjeeKhanna}{\textsc{Mookerjee \&\ Khanna}}%\index{Mookerjee \&\ Khanna}}
+\newcommand{\Rawson}{\textsc{Rawson}}%\index{Rawson}}
+\newcommand{\Uberoi}{\textsc{Uberoi}}%\index{Uberoi}}
+\newcommand{\Tapasyananda}{\textsc{Tapasyananda}}%\index{Tapasyananda}}
+\newcommand{\Dvivedi}{\textsc{Dvivedi}}%\index{Dvivedi}}
+\newcommand{\Mallman}{\textsc{Mallman}}%\index{Mallman}}
+\newcommand{\West}{\textsc{West}}%\index{West}}
+\newcommand{\Dearing}{\textsc{Dearing}}%\index{Dearing}}
+\newcommand{\Chaudhuri}{\textsc{Chaudhuri}}%\index{Chaudhuri}}
+\newcommand{\Deshpande}{\textsc{Deshpande}}%\index{Deshpande}}
+\newcommand{\Digby}{\textsc{Digby}}%\index{Digby}}
+\newcommand{\Levi}{\textsc{Levi}}%\index{Levi}}
+\newcommand{\Dupuche}{\textsc{Dupuche}}%\index{Dupuche}}
+\newcommand{\Rukmini}{\textsc{Rukmini}}%\index{Rukmini}}
+\newcommand{\Rose}{\textsc{Rose}}%\index{Rose}}
+\newcommand{\Bunce}{\textsc{Bunce}}%\index{Bunce}}
+\newcommand{\Antarkar}{\textsc{Antarkar}}%\index{Antarkar}}
+\newcommand{\Locke}{\textsc{Locke}}%\index{Locke}}
+\newcommand{\Upadhyay}{\textsc{Upadhyay}}%\index{Upadhyay}}
+\newcommand{\Diwakar}{\textsc{Diwakar}}%\index{Diwakar}}
+\newcommand{\Wallis}{\textsc{Wallis}\index{Wallis, Christopher}}
+
+\newcommand{\eme}{\textit{em.}}
+
+
+%\input{vss_book_sigla.tex}
+%% Sigla for vss_book_xetex.tex
+
+\newcommand{\mssALL}{{\allowbreak\englishfont$\Sigma$}}
+\newcommand{\mssCaCbCc}{{\rm C$_{\scriptscriptstyle\Sigma}$}}
+
+\newcommand{\msCa}{{\englishfont C$_{\scriptscriptstyle 94}$}}
+\newcommand{\msCaacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 94}$}}
+\newcommand{\msCapcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 94}$}}
+
+
+% original
+%\newcommand{\msCb}{{\englishfont C$_\textrm{b}$}}
+%\newcommand{\msCbacorr}{{\englishfont C$_\textrm{b}$\kern-.4em$^{ac}$\/}}
+%\newcommand{\msCbpcorr}{{\englishfont C\raisebox{-.1em}{$_\textrm{b}$}\kern-.57em$^{pc}$\/}}
+%\newcommand{\msCb}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 45}$}}
+%\newcommand{\msCbacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 45}$}}
+%\newcommand{\msCbpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 45}$}}
+\newcommand{\msCb}{{\englishfont C$_{\scriptscriptstyle 45}$}}
+\newcommand{\msCbacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 45}$}}
+\newcommand{\msCbpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 45}$}}
+
+%\newcommand{\msCc}{{\englishfont C$_\textrm{c}$}}
+%\newcommand{\msCcacorr}{{\englishfont C$_\textrm{c}$\kern-.16cm$^{ac}$\/}}
+%\newcommand{\msCcpcorr}{{\englishfont C$_\textrm{c}$\kern-.16cm$^{pc}$\/}}
+%\newcommand{\msCc}{{\rm N$^{\scriptscriptstyle C}_{\scriptscriptstyle 02}$}}
+%\newcommand{\msCcacorr}{{\rm N$^{\scriptscriptstyle Cac}_{\scriptscriptstyle 02}$}}
+%\newcommand{\msCcpcorr}{{\rm N$^{\scriptscriptstyle Cpc}_{\scriptscriptstyle 02}$}}
+\newcommand{\msCc}{{\englishfont C$_{\scriptscriptstyle 02}$}}
+\newcommand{\msCcacorr}{{\englishfont C$^{\scriptscriptstyle ac}_{\scriptscriptstyle 02}$}}
+\newcommand{\msCcpcorr}{{\englishfont C$^{\scriptscriptstyle pc}_{\scriptscriptstyle 02}$}}
+
+%\newcommand{\msNa}{{\englishfont N$_\textrm{a}$}}
+%\newcommand{\msNaacorr}{{\englishfont N$_\textrm{a}$\kern-.10cm$^{ac}$\/}}
+%\newcommand{\msNapcorr}{{\englishfont N$_\textrm{a}$\kern-.13cm$^{pc}$\/}}
+%\newcommand{\msNa}{{\rm N$^{\scriptscriptstyle K}_{\scriptscriptstyle 82}$}}
+%\newcommand{\msNaacorr}{{\rm N$^{\scriptscriptstyle Kac}_{\scriptscriptstyle 82}$}}
+%\newcommand{\msNapcorr}{{\rm N$^{\scriptscriptstyle Kpc}_{\scriptscriptstyle 82}$}}
+\newcommand{\msNa}{{\englishfont K$_{\scriptscriptstyle 82}$}}
+\newcommand{\msNaacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$}}
+\newcommand{\msNapcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$}}
+
+\newcommand{\msNb}{{\englishfont K$_{\scriptscriptstyle 10}$}}
+\newcommand{\msNbacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 10}$}}
+\newcommand{\msNbpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 10}$}}
+
+\newcommand{\msNc}{{\englishfont K$_{\scriptscriptstyle 7}$}}
+\newcommand{\msNcacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 7}$}}
+\newcommand{\msNcpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 7}$}}
+
+\newcommand{\msNd}{{\englishfont K$_{\scriptscriptstyle 3}$}}
+\newcommand{\msNdacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}}
+\newcommand{\msNdpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}}
+
+\newcommand\msParis{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}$}}
+\newcommand\msParisacorr{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}^{\scriptscriptstyle ac}$}}
+\newcommand\msParispcorr{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}^{\scriptscriptstyle pc}$}}
+
+\newcommand\msPaperA{\allowbreak{\englishfont K$_{\scriptscriptstyle 41}$}}
+\newcommand\msPaperAacorr{\allowbreak{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 41}$}}
+\newcommand\msPaperApcorr{\allowbreak{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 41}$}}
+
+\newcommand\msPaperC{\allowbreak{\englishfont K$_{\scriptscriptstyle 107}$}}
+\newcommand\msPaperCacorr{\allowbreak{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 107}$}}
+\newcommand\msPaperCpcorr{\allowbreak{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 107}$}}
+
+\newcommand\msBod{{\englishfont O$_{\scriptscriptstyle 15}$}}
+\newcommand\msBodacorr{{\englishfont O$_{\scriptscriptstyle 15}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msBodpcorr{{\englishfont O$_{\scriptscriptstyle 15}$}$^{\scriptscriptstyle pc}$}
+
+
+
+\newcommand\msL{{\englishfont L$_{\scriptscriptstyle 16}$}}
+\newcommand\msLacorr{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msLapcorr{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle pc}$}
+
+\newcommand\msKoa{{\englishfont Ko$_{\scriptscriptstyle 77}$}}
+\newcommand\msKoaacorr{{\englishfont Ko$_{\scriptscriptstyle 77}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msKoapcorr{{\englishfont Ko$_{\scriptscriptstyle 77}$}$^{\scriptscriptstyle pc}$}
+
+\newcommand\msKob{{\englishfont Ko$_{\scriptscriptstyle 76}$}}
+\newcommand\msKobacorr{{\englishfont Ko$_{\scriptscriptstyle 76}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msKobpcorr{{\englishfont Ko$_{\scriptscriptstyle 76}$}$^{\scriptscriptstyle pc}$}
+
+\newcommand\msKoc{{\englishfont Ko$_{\scriptscriptstyle 52}$}}
+\newcommand\msKocacorr{{\englishfont Ko$_{\scriptscriptstyle 52}$}$^{\scriptscriptstyle ac}$}
+\newcommand\msKocpcorr{{\englishfont Ko$_{\scriptscriptstyle 52}$}$^{\scriptscriptstyle pc}$}
+
+
+\newcommand\msM{{\englishfont M}}
+\newcommand\msMacorr{{\englishfont M}$^{\scriptscriptstyle ac}$}
+\newcommand\msMpcorr{{\englishfont M}$^{\scriptscriptstyle pc}$}
+
+%\newcommand{\Ed}{{\englishfont Ed$_\textrm{N}$}}
+%\newcommand{\Ed}{{\rm E$^{\scriptscriptstyle N}$}}
+\newcommand{\Ed}{{\englishfont E}}
+
+
+
+
+
+
+\newcommand{\blankpage}{%
+\thispagestyle{empty}
+
+\       \
+
+
+\vspace{8cm}
+
+{\large This page intentionally left blank...}
+
+\vfill\pagebreak
+}
+
+
+% for translation with Sanskrit
+\newcommand{\chptr}[1]{\vfill\pagebreak\thispagestyle{empty} \centerline{\large[{\thinspace#1\thinspace}]}}
+\newcommand{\subchptr}[1]{%
+	\centerline{{[\textit{\thinspace#1\thinspace}---}}}
+\newcommand{\subsubchptr}[1]{\centerline{[\textit{\thinspace{\footnotesize#1}\thinspace}---}}
+
+\newcommand{\trchptr}[1]{\centerline{\large[{#1}]}\indent\addcontentsline{toc}{section}{#1}}
+
+\newcommand{\trsubchptr}[1]{\centerline{#1 ]}%
+                 \addcontentsline{toc}{subsection}{#1}%
+                        }
+\newcommand{\trsubsubchptr}[1]{\centerline{{\footnotesize#1} ]}}
+
+\newcommand{\maintext}[1]{
+\leftskip0em
+\noindent
+%\smallskip
+\textit{\englishfont #1}}
+
+\newcommand{\nonanustubhindent}{\noindent\hspace{1.5em}}
+			                
+
+% redefine quote environment
+\let\origquote\quote
+\let\endorigquote\endquote
+\renewenvironment{quote}{%
+  \vspace{-.6em}
+    \origquote
+    \leftskip-.9em
+    \rightskip-1.8em
+    \small
+    }%
+{\endorigquote}
+
+
+\newcommand{\translation}[1]{
+%\noindent2
+\smallskip
+\begin{quote}
+%\vskip-.8em
+%\normalsize
+  %\leftskip-.7em
+  %\rightskip-1.5em
+{\englishfont #1}
+\end{quote}
+%\vskip-.4em
+%\smallskip
+%\leftskip0em
+}
+
+
+% START
+% FOR DRAWING MANDALAS TO SHOW STRUCTURE OF VSS
+
+
+
+
+%based on http://www.texample.net/tikz/examples/mandala/
+
+
+%\definecolor{csabacolor}{HTML}{e6fff0}
+%\definecolor{vaisnava}{HTML}{ff661a}
+%\definecolor{saiva}{HTML}{003399}
+%\definecolor{general}{HTML}{1f7a7a}
+
+% Monochrome version:
+\definecolor{csabacolor}{HTML}{e6fff0}
+\definecolor{vaisnava}{HTML}{cccccc}
+\definecolor{saiva}{HTML}{666666}
+\definecolor{general}{HTML}{ffffff}
+
+\def\petal {
+[rounded corners=0.5] %
+(-1,0) -- (-.7,-1.7) -- (-1,0)%
+.. controls (-1,0.6) and (-0.07,0.8).. (0,1)%
+.. controls (0.07,0.7) and (1,0.6).. (1,0);
+  %.. controls (0.7,-1) and (-0.7,-1).. (-1,0)%
+          }
+
+\def\petalwitharrow {
+[rounded corners=0.5] %
+(-1,0) -- (-.7,-1.7) -- (-1,0)%
+.. controls (-1,0.6) and (-0.07,0.8).. (0,1)%
+.. controls (0.07,0.7) and (1,0.6).. (1,0);
+  %.. controls (0.7,-1) and (-0.7,-1).. (-1,0)%
+\draw [->, very thick] (0,1) -- (0,1.3);
+          }
+
+
+\newcommand{\drawpetals}{%
+\newcount\nums
+\nums=0
+
+\foreach \a in {0,-15,-30,...,-345}
+{
+\begin{scope}[rotate=\a,shift={(0,6)},xscale=1,yscale=1]
+        \draw    [scale=.8] \petal;
+\end{scope}
+
+\begin{scope}[rotate=\a,shift={(0,6.3)},xscale=1,yscale=1]
+        {\global\advance\nums by1}
+        \node [rotate=0, scale=1]{{\the\nums}};
+\end{scope}
+
+}
+}
+
+\newcommand{\drawpetalswitharrows}{%
+\newcount\nums
+\nums=0
+
+\foreach \a in {0,-15,-30,...,-345}
+{
+\begin{scope}[rotate=\a,shift={(0,6)},xscale=1,yscale=1]
+        \draw    [scale=.8] \petalwitharrow;
+\end{scope}
+
+\begin{scope}[rotate=\a,shift={(0,6.3)},xscale=1,yscale=1]
+        {\global\advance\nums by1}
+        \node [rotate=0, scale=1]{{\the\nums}};
+\end{scope}
+
+}
+}
+
+
+\newcommand{\colorpetals}[2]{%
+\begin{scope}[rotate=(#2-1)*-15,shift={(0,6)},xscale=1,yscale=1, opacity=.5]
+        \filldraw    [scale=.8, draw=#1, color=#1] \petal;
+\end{scope}
+}
+
+
+\newcommand{\colorpetalstransition}[3]{%
+\begin{scope}[rotate=(#3-1)*-15,shift={(0,6)},xscale=1,yscale=1, opacity=.5]
+        \shadedraw [scale=.8, draw=#1, left color=#1, right color=#2]  \petal;
+\end{scope}
+}
+
+
+\newcommand{\drawtopicsOne}{%
+\def\topics{{ {"{Brahmāṇḍa}"}, {"{\ \ Śivāṇḍa}"}, {"{\hspace{12em}Dharma = \textit{yama-niyama + varṇāśrama}}"},
+{"{\textit{yama}s}"},
+{"{\textit{niyama}s}"},
+{"{\hspace{1em}\textit{niyama}s}"},
+{"{\hspace{1em}\textit{niyama}s}"},
+{"{\hspace{1em}\textit{niyama}s}"},
+{"{\textit{trikāla} = 3\ \textit{guṇa}s}"},
+%SAIVA
+{"{}"}, {"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+{"{}"},
+% Anarth
+{"{\hspace{-2em}\textit{varṇa}s}"},
+{"{\textit{tattva}s}"}, {"{\hspace{-2em}Viṣṇu's theophany}"}, {"{\hspace{-6em}Anarthayaj\~na's life}"}, {"{\hspace{-6em}\textit{dharmādharma, nidrotpatti}}"},
+{"{\textit{trailokya}}"} }}
+
+\foreach \a in {0,1,2,...,23} {
+        \begin{scope}[rotate=\a*-15,shift={(0,8.5)},xscale=1,yscale=1]
+        \node[scale=1.3,] {\pgfmathparse{\topics[\a]}{\Large\pgfmathresult}};
+        \end{scope}
+    }
+}
+
+
+\newcommand{\drawtopicsTwo}{%
+\def\topics{{ {"{\ \ Brahmāṇḍa}"}, {"{\ \ Śivāṇḍa}"}, {"{\hspace{9em}Dharma, \textit{yama}s-\textit{niyama}s}"},
+{"{\textit{yama}s}"},
+{"{\textit{niyama}s}"},
+{"{\hspace{2em}\textit{niyama}s}"},
+{"{\hspace{2em}\textit{niyama}s}"},
+{"{\hspace{2em}\textit{niyama}s}"},
+{"{3\ \textit{guṇa}s}"},
+%SAIVA
+{"{internal \textit{tīrtha}s}"},
+{"{\hspace{6em}{\textit{āśrama}s:}}\ \textit{vinārthena yaj\~naḥ}"},
+{"{Vipula's story}"},
+{"{\hspace{1em}\phantom{\Huge Ā}summary of 10--12, \textit{garbhotpatti}}"},
+{"{the body}"},
+{"{\textit{jīva, śreṣṭha}}"},
+{"{\textit{yoga}}"},
+{"{\textit{dāna}}"},
+{"{\textit{karman}}"},
+% Anarth
+{"{\hspace{-2em}{\textit{varṇa}s}}"},
+{"{\hspace{-1em}\textit{tattva}s}"}, {"{\hspace{-2em}Viṣṇu's theophany}"}, {"{{\hspace{-6em}Anarthayaj\~na's life}}"}, {"{\textit{dharmādharma, nidrā\ \ \ \ \ \ }}"},
+{"{\textit{trailokya}}"} }}
+
+\foreach \a in {0,1,2,...,23} {
+        \begin{scope}[rotate=\a*-15,shift={(0,8)},xscale=1,yscale=1]
+        \node[scale=.8,] {\pgfmathparse{{\topics[\a]}}{\pgfmathresult}};
+        \end{scope}
+    }
+}
+
+
+\newcommand{\drawtopicsThree}{%
+\def\topics{{ {"{}"}, {"{}"}, {"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},
+{"{\hspace{5em}\fbox{\textit{āśrama}s:}}\ \textit{vinārthena yaj\~naḥ}"},
+{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},
+% Anarth
+{"{\fbox{\textit{varṇa}s}}"},
+{"{}"},{"{}"},{"{\fbox{Anarthayaj\~na's life}}"},{"{}"},{"{}"}} }
+
+\foreach \a in {0,1,2,...,23} {
+        \begin{scope}[rotate=\a*-15,shift={(0,9)},xscale=1,yscale=1]
+        \node[scale=1.3,] {\pgfmathparse{\topics[\a]}{\Large\pgfmathresult}};
+        \end{scope}
+    }
+}
+
+\newcommand{\drawtopicsDating}{%
+\def\topics{{ {"{}"}, {"{}"}, {"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},
+{"{no \textit{piṅgalā}}"}, {"{order of \textit{āśrama}s, 4 \textit{kalā}s, no \textit{piṅgalā}}"},
+{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},{"{}"},
+% Anarth
+{"{}"},
+{"{no \textit{tanmātra}s}"},{"{}"},{"{}"},{"{}"},{"{}"}} }
+
+\foreach \a in {0,1,2,...,23} {
+        \begin{scope}[rotate=\a*-15,shift={(0,9)},xscale=1,yscale=1]
+        \node[scale=1.3,] {\pgfmathparse{\topics[\a]}{\Large\pgfmathresult}};
+        \end{scope}
+    }
+}
+
+
+
+\newcommand{\bigcircle}{%
+\thispagestyle{empty}
+\hspace{-3cm}
+\draw [scale=1] (0,-1) circle (4.7cm);
+}
+
+\newcommand{\titlecircle}{%
+\thispagestyle{empty}
+\hspace{-3cm}
+\draw [scale=1] (0,-1) circle (4.7cm);
+}
+
+\newcommand{\markAnarthaPresence}[1]{%
+\begin{scope}[rotate=(#1-1)*-15,shift={(0,5.3)},xscale=.7,yscale=.7, opacity=.5]
+        \node    [scale=2, color=black] {{\checkmark}};
+\end{scope}
+}
+
+\newcommand{\markvinarthaPresence}[1]{%
+\begin{scope}[rotate=(#1-1)*-15,shift={(0,5.6)},xscale=.7,yscale=.7, opacity=.5]
+        \node    [scale=1.5, color=black] {{\checkmarksmall}};
+\end{scope}
+}
+
+\newcommand{\centeredtext}[2]{
+\node [color=#1 ]{{\Huge #2}};
+}
+
+\newcommand{\uptext}[2]{
+\node [shift={(0,1)}, color=#1 ]{{{\huge #2}}};
+}
+
+\newcommand{\upuptext}[2]{
+\node [shift={(0,2)}, color=#1 ]{{{\huge #2}}};
+}
+
+\newcommand{\downtext}[2]{
+\node [shift={(0,-1)}, color=#1 ]{{{\huge #2}}};
+}
+
+\newcommand{\downdowntext}[2]{
+\node [shift={(0,-2)}, color=#1 ]{{{\huge #2}}};
+}
+
+% or this:
+\def\checkmark{\tikz\fill[scale=0.5, color=black](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+\def\checkmarksmall{\tikz\fill[scale=0.3, color=black](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+
+
+\newcommand{\colorpetalsOne}{%
+% General
+\colorpetals{general}{22}
+\colorpetals{general}{23}
+\colorpetals{general}{24}
+% Vaisnava
+\colorpetalstransition{general}{vaisnava}{1}
+\colorpetals{saiva}{2}
+\colorpetals{vaisnava}{3}
+\colorpetals{vaisnava}{4}
+\colorpetals{vaisnava}{5}
+\colorpetals{vaisnava}{6}
+\colorpetals{vaisnava}{7}
+\colorpetals{vaisnava}{8}
+\colorpetals{vaisnava}{9}
+\colorpetalstransition{saiva}{vaisnava}{10}
+\colorpetals{vaisnava}{19}
+\colorpetals{vaisnava}{20}
+\colorpetalstransition{vaisnava}{general}{21}
+% Saiva
+\colorpetals{saiva}{11}
+\colorpetals{saiva}{12}
+\colorpetals{saiva}{13}
+\colorpetals{saiva}{14}
+\colorpetals{saiva}{15}
+\colorpetals{saiva}{16}
+\colorpetals{saiva}{17}
+\colorpetals{saiva}{18}
+}
+
+\newcommand{\textOne}{%
+%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+\upuptext{teal}{Vaiśampāyana $\rightarrow$ Janamejaya}
+\uptext{vaisnava}{Anarthayajña $\rightarrow$ Viṣṇu}
+\centeredtext{saiva}{Nandikeśvara: Śiva $\rightarrow$ Devī}
+
+}
+
+\newcommand{\textTwo}{%
+%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+%\upuptext{teal}{Vaiśampāyana $\rightarrow$ Janamejaya}
+%\uptext{vaisnava}{Anarthayajña $\rightarrow$ Viṣṇu}
+\centeredtext{black}{VSS}
+%\downtext{black}{{\Large\checkmark} Anarthayajña present}
+%\downdowntext{black}{\checkmarksmall\textit{yajño 'rthaṃ vinā}}
+
+%Anarthayajña's presence:
+\markAnarthaPresence{1}
+\markAnarthaPresence{2}
+\markAnarthaPresence{3}
+\markAnarthaPresence{4}
+\markAnarthaPresence{5}
+\markAnarthaPresence{6}
+\markAnarthaPresence{7}
+\markAnarthaPresence{8}
+\markAnarthaPresence{9}
+\markAnarthaPresence{10}
+\markAnarthaPresence{19}
+\markAnarthaPresence{20}
+\markAnarthaPresence{21}
+\markAnarthaPresence{22}
+
+% vinārthena yajñaḥ presence
+\markvinarthaPresence{11}
+\markvinarthaPresence{22}
+}
+
+\newcommand{\textDating}{%
+%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+\centeredtext{saiva}{Dating the VSS}
+}
+
+% FOR DRAWING MANDALAS TO SHOW STRUCTURE OF VSS
+% END
+
+
+
+
+\newcommand{\lac}{\kern0.1em{\englishfont-{}-{}-{}}\kern0.1em}
+\newcommand{\lk}{{\englishfont{\kern.05em\englishfont\textendash}\kern-.25em{\large\raise.15em\hbox{˘}}\kern.05em}}
+
+
+% not used, just an experiment
+%\newcommand{\BisschopetalUtopia}{%
+%{Bisschop \&\ Kafle \&\ Lubin 2021}%
+%\newwrite\outputstream%
+%\immediate\openout\outputstream=myfile.tmp%
+%\immediate\write\outputstream{%
+%Bisschop \&\ Kafle \&\ Lubin 2021: Bisschop, Peter C. \&\
+%Kafle, Nirajan \&\ Lubin, Timothy.
+%\string\textsl{A Śaiva Utopia. The Śivadharma’s Revision of Brahmanical Varṇāśramadharma.
+%Critical Edition, Translation \&\
+%Study of the Śivāśramādhyāya of the Śivadharmaśāstra}.
+%No. I in Studies in the History of Śaivism.
+%Napoli: Università degli Studi di Napoli
+%L’Orientale, Dipartimento Asia, Africa e Mediterraneo, 2021.}%
+%\immediate\closeout\outputstream
+%}

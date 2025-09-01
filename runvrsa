@@ -1,0 +1,52 @@
+#!/bin/bash
+
+#cd /home/csaba/indology/dharma_project/vrsa_edition
+
+#textprocess.py -xml1 /home/csaba/indology/saiva/skt/sivadharma/vrsasarasamgraha.cred > output01.xml
+#textprocess.py -xml2 /home/csaba/indology/saiva/skt/sivadharma/vrsasarasamgraha.cred > output02.xml
+#textprocess.py -xml3 /home/csaba/indology/saiva/skt/sivadharma/vrsasarasamgraha.cred > output_wrap.xml
+#textprocess.py -xml4 /home/csaba/indology/saiva/skt/sivadharma/vrsasarasamgraha.cred > output_check.xml
+#textprocess.py -xmldn1 /home/csaba/indology/saiva/skt/sivadharma/vrsasarasamgraha.cred > output_devnag01.xml
+#textprocess.py -xmldn2 /home/csaba/indology/saiva/skt/sivadharma/vrsasarasamgraha.cred > output_devnag02.xml
+textprocess.py -html vrsasarasamgraha.cred > ~/indology/dharma_project/editions/vss_new.html
+
+#textprocess.py -txt vrsasarasamgraha.cred > text_version_of_vrsa.txt
+#textprocess.py -txtdn text_version_of_vrsa.txt > dntext_version_of_vrsa.txt
+textprocess.py -velth vrsasarasamgraha.cred > /home/csaba/indology/skt/saiva/sivadharma/vrsasarasangraha_velth.txt 
+
+
+# 2-column Roman and Velthuis Devanāgarī versions
+#textprocess.py -texrm2col vrsasarasamgraha.cred > vrsasara_input.tex
+#textprocess.py -texdn vrsasarasamgraha.cred > vrsasara_input_devnag.dn
+#pdflatex vrsasara_ed_rm.tex 
+###xelatex vrsasara_ed_rm.tex 
+#devnag vrsasara_input_devnag.dn
+#xelatex vrsasara_ed_devnag.tex 
+
+#textprocess.py -trtex vrsasarasamgraha.cred > vss_translation.tex
+
+# the XeLaTeX Devanāgarī version
+textprocess.py -texdnxelatex vrsasarasamgraha.cred > vrsasara_input_devnag_xelatex.tex
+xelatex vrsasara_ed_devnag_xelatex.tex
+#cp vrsasara_ed_devnag_xelatex.pdf  ~/indology/dharma_project/editions/vrsasarasamgraha.pdf
+
+# translation with Skt and notes, for the book
+objectoriented_textprocess.py vrsasarasamgraha.cred > vss_translation_input.tex
+# chatgpt_translation.py vrsasarasamgraha.cred > vss_translation_input.tex
+#xelatex new_ed.tex
+
+#The Book
+#cd /home/csaba/indology/dharma_project/vrsa_edition/vssbook/naples_xelatex_version/
+xelatex vss_book_xelatex.tex
+#bibtex vss_book_xelatex
+bibtex8 --csfile sanskrit.csf vss_book_xelatex.aux
+#makeindex vss_book_xelatex.idx
+######## the above is the old way of indexing, this is the new one:
+sort_tex_index_skt.py vss_book_xelatex.idx > vss_book_xelatex_sorted.idx
+makeindex -o vss_book_pre.ind vss_book_xelatex_sorted.idx
+add2tex_ind_file.py vss_book_pre.ind > vss_book_xelatex.ind
+xelatex vss_book_xelatex.tex
+xelatex vss_book_xelatex.tex
+
+#python3 /home/csaba/software/python_scripts/python_devnag/indic_transliteration/sanscript_mod_csaba.py | sed s/"&#160;"//g > /home/csaba/indology/dharma_project/vrsa_devanagari_version.xml
+

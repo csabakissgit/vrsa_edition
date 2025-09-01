@@ -1,0 +1,779 @@
+<START/>
+<startchapter-n="19"/> 
+%chapter 19
+%folioinfo \msCa\ 447.jpg, f. 226r line 4       DONE
+%folioinfo \msCb\ 458.jpg line 1 f. 228v --     TODAY
+%folioinfo \msCc\ lacuna upto 19.53a            DONE
+%folioinfo \msNa\ 226.jpg lower, line 6         DONE
+%folioinfo \msNb\ 71.jpg lower, line 1          DONE
+%folioinfo \msNc\ 224.jpg upper, line 1         DONE
+%folioinfo \msM\ 443.jpg upper, f. 35v line 4   NOT YET started
+%folioinfo \Ed\ p.651                           DONE
+%folioinfo \msTub\ 4012.jpg upper line 1
+
+<CHAPTER>ekonaviṃśatimo 'dhyāyaḥ</CHAPTER>
+<TRCHAPTER>Chapter Nineteen</TRCHAPTER>
+
+
+<SUBCHAPTER>gāvaḥ</SUBCHAPTER>
+<TRSUBCHAPTER>Cows</TRSUBCHAPTER>
+<ANUSTUBH/>
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+<TEXT> kriyāsūkṣmo mahādharmaḥ karmaṇā kena prāpyate|</TEXT>
+        <TR>By what action can the great Dharma, whose rituals are subtle[?], be reached?</TR>
+%index_grammar: licence pra
+%msT pālyate 
+
+<TEXT> alpopāyaṃ narārthāya pṛcchāmi kathayasva me||</TEXT> 19:1
+        <APP>\vd <LEM>kathayasva</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; kathasva \msNc</APP>
+        <TR>I ask for an easy method for mankind, tell me about it.</TR>
+
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <TR>Anarthayajña spoke:</TR>
+
+<TEXT> alpopāyaṃ mahādharmaṃ kathayāmi dvijottama|</TEXT>
+        <APP>\va <LEM>°pāyaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °pāya \msNb\oo
+                 <LEM>°dharmaṃ</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; °dharma \msNa</APP>
+        <TR>I shall teach you the great Dharma that is the easy method, O Brahmin.</TR>
+% māhā was typo?
+
+%folioinfo \msNa\ 227.jpg upper
+<TEXT> sukhena labhate svargaṃ karmaṇā yena tac{ }chṛṇu||</TEXT> 19:2
+        <TR>Listen to that action by which heaven can be reached easily.</TR>
+%msT svarga ... kena
+
+<TEXT> lokānāṃ mātaro gāvo gobhiḥ sarvaṃ jagad{ }dhṛtam|</TEXT>
+        <APP>\vb <LEM>gobhiḥ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; bhiḥ \msCb\oo
+                 <LEM>sarvaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; sarva \msNb\oo
+                 <LEM>jagad{ }dhṛtam</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; jarāgad{ }dhṛtaṃ \msNc</APP>
+        <TR>Cows are the mothers of the worlds. Cows hold all the world.</TR>
+%msT sarvva
+
+<TEXT> gomayam{ }amṛtaṃ sarvaṃ jātaṃ sarvaṃ śivecchayā||</TEXT> 19:3
+        <APP>\vd <LEM>sarvaṃ</LEM> \mssALL\msCa\msCb\msNb\msNc; sarva° \msNa\Ed</APP>
+        <TR>All cow-dung is nectar, all are produced by Śiva's will.</TR>
+% cows are produced by Śiva? see ŚDhU 1.72
+%msT sarva
+
+<TEXT> sarvadevamayā gāvaḥ sarvadevamayo dvijaḥ|</TEXT>
+        <APP>\va <LEM>°mayā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °mayī \Ed</APP>
+        <APP>\vb <LEM>°mayo</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °mayā \msNb</APP>
+        <TR>Cows contain all the gods. The Brahmin contains all the gods.</TR>
+%msT mayo for mayā in pāda a
+
+<TEXT> sarvadevamayī bhūmiḥ sarvadevamayaḥ śivaḥ||</TEXT> 19:4
+        <APP>\vc <LEM>°mayī bhūmiḥ</LEM> \msCa; °mayo bhūmi \msCb, °mayī bhūmi \msNa, °mayā bhūmiḥ \msNb\msNc,
+                                                °mayo bhūmiḥ \Ed</APP>
+        <APP>\vd <LEM>°mayaḥ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; °maya \msCb</APP>
+        <TR>Earth contains all the gods. Śiva contains all the gods.</TR>
+%msT mayo for mayā in pāda a
+
+<TEXT> tasmād{ }gāvaḥ sadā sevyā dharmamokṣārthasiddhidāḥ|</TEXT>
+        <APP>\vb <LEM>°dāḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °dā \Ed</APP>
+        <TR>Therefore cows are always to be served because they
+            give success in pursuing religious duties, liberation, and financial gain.</TR>
+%msT siddhidā
+
+<TEXT> paricaryā yathāśaktyā grāsavāsajalādibhiḥ||</TEXT> 19:5
+        <APP>\vd <LEM>grāsa°</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; grāma° \msNb</APP>
+        <TR>They should be provided with food, shelter, water, etc., with all one's effort.</TR>
+
+%folioinfo \msCa\ 448.jpg
+% NEW
+<TEXT> tāḍayen{ }nātivegena vācayen{ }mṛdunā caret|</TEXT>
+        <NOTE>I suspect that Łcaret$ in Łpāda$ b is a corruption from an original
+              Łvacā$, which in turn may have stood for Łvācā$ metri causa.</NOTE>
+        <TR>One should not beat them too hard, and should address them with sweet words.</TR>
+% vacasā
+
+%folioinfo \msM\ 443.jpg lower, f. 36r 
+<TEXT> pālayeta ghanāḍhyeṣu bhagnodvigneṣu yatnataḥ||</TEXT> 19:6
+        <APP>\vc <LEM!>pālayeta ghanāḍhyeṣu</LEM> \mssALL\msCa\msCb\msNa\msNc; pālayeta ghanādyeṣu \msNb, pālayan{ }tarppanād{ }yeṣu \Ed</APP>
+        <APP>\vd <LEM>°dvigneṣu</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; °dvignodvigneṣu \msCb</APP>
+        <TR>Protect them in thick [darkness or when in multitude]???, in case something is broken or they are startled.</TR>
+% herd is broken; maybe thunder
+% dhanāḍhya ?
+
+<TEXT> vyādhivraṇaparikleśa oṣadhopakramaṃ caret|</TEXT>
+        <APP>\va <LEM>°vraṇa°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °vana° \Ed\oo
+                 <LEM>°kleśa</LEM> \mssALL\msCa\msNa\msNb\Ed; °kleśe \msCb, °śleṣa \msNc</APP>
+        <APP>\vb <LEM>°kramaṃ ca</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °kramaś{ }ca° \Ed</APP>
+        <TR>In case of pain from disease or wound, one should apply remedy using medicine.</TR>
+
+<TEXT> kaṇḍūyanaṃ ca kartavyaṃ yathāsaukhyaṃ bhaved{ }gavām||</TEXT> 19:7
+        <APP>\vd <LEM!>yathāsaukhyaṃ bhaved{ }gavām</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; yathāsakhya\lk\lk\lk\lk\ \msNc</APP>
+        <TR>Rubbing should be done as much as it is pleasurable for cows.</TR>
+
+<TEXT> gavāṃ pradakṣiṇaṃ kṛtvā śraddhābhaktisamanvitaḥ|</TEXT>
+        <APP>\vb <LEM>°nvitaḥ</LEM> \msNa\msNc\Ed; °nvita\lk\ \msCa, °nvitaṃ \msCb\msNb</APP>
+        <TR>By circumabulating cows with faith and devotion,</TR>
+
+%folioinfo \Ed\ p.652
+<TEXT> sāgarāntā mahī sarvā pradakṣiṇīkṛtā bhavet||</TEXT> 19:8
+        <APP>\vcd <LEM>sarvā pra°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; sarvān{ }pra° \Ed</APP>
+        <TR>the whole Earth up to the oceans will be circulambulated.</TR>
+
+%NEW
+<TEXT> pṛṣṭhasaṃsparśanādye ca śraddhayā yadi mānavaḥ|</TEXT>
+        <APP>\va <LEM!>pṛṣṭhasaṃsparśanādye ca</LEM> \conj; spṛṣṭasaṃsparśanādye ca \msCa\msCb\msNa\msNc, spṛṣṭaṃ samparśanādye ca \msNb,
+                                                                         pṛṣṭasaṃsparśanādyañ{ }ca \Ed</APP>
+        <APP>\vb <LEM>mānavaḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; mānataḥ \msNb</APP>
+        <NOTE>Note the conjecture and the confused syntax in Łpāda$s ab.</NOTE>
+        <TR>If a man touches a cow's back or other [parts of its body] with faith,</TR>
+% maybe pṛṣṭha! and rubbing etc.
+
+<TEXT> ahorātrakṛtaṃ pāpaṃ naśyate nātra saṃśayaḥ||</TEXT> 19:9
+        <TR>his sins, be them committed at daylight or at night, will disappear, no doubt.</TR>
+
+<TEXT> lāṅgūlenoddhṛtaṃ toyaṃ mūrdhnā gṛhṇāti yo naraḥ|</TEXT>
+        <APP>\va <LEM>lāṅgū°</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; lāṅgu° \msCb\oo
+                 <LEM>toyaṃ</LEM> \mssALL\msCa\msCbpcorr\msNa\msNb\msNc\Ed; toddhṛtaṃ \msCbacorr</APP>
+        <APP>\vb <LEM>gṛhṇāti yo naraḥ</LEM> \mssALL\msCa\msNa\msNc\Ed; gṛhṇanti yo narāḥ \msCb, gṛhṇāti yo dvijaḥ \msNb</APP>
+        <NOTE>Found in KKP... and VarāhaP</NOTE>
+        <TR>He who applies the water that has been dispersed by a [cow's] tail 
+            onto his head,</TR>
+
+<TEXT> yāvaj{ }jīvakṛtaṃ pāpaṃ naśyate nātra saṃśayaḥ||</TEXT> 19:10
+        <TR>will have his sins accumulated throughout his life destroyed, no doubt.</TR>
+
+<TEXT> vidhivat{ }snāpayed{ }gāṃ ca mantrayuktena vāriṇā|</TEXT>
+        <APP>\va <LEM!>vidhivat{ }snāpayed{ }gāṃ ca</LEM> \msNa\msNb\msNc; vidhivac{ }chāpayed{ }gāṃ ca \msCa,
+                                                                 vidhivat{ }snāpaye<UNCL>d{ }gāñ{ }ca</UNCL> \msCb,
+                                                                 vidhivat{ }snāpayed{ }gāṃś{ }ca \Ed</APP>
+        <TR>One should bathe a cow as prescribed, using water onto which mantras have been recited.</TR>
+
+<TEXT> tenāmbhasā svayaṃ snātvā sarvapāpakṣayo bhavet||</TEXT> 19:11
+        <TR>If he himself bathes in the same water, he will have all his sins destroyed;</TR>
+
+<TEXT> vyādhir{ }vighnam{ }alakṣmītvaṃ naśyate sadya eva ca|</TEXT>
+        <APP>\va <LEM>vyādhir{ }vi°</LEM> \msCa\msCb\msNc; vyādhivi° \msNa\msNb\Ed</APP>
+        <NOTE>Note Łvighna$ as neuter in Łpāda$ a.</NOTE>
+        <TR>diseases, obstructing forces, and bad luck will disappear instantly;</TR>
+
+% NEW
+<TEXT> mṛtāpatyānapatyānāṃ snānam{ }eva praśasyate||</TEXT> 19:12
+        <APP>\vc <LEM!>mṛtāpatyānapatyānāṃ</LEM> \msNc; mṛtāpatyānapatyāś{ }ca \msCa\msCb\msNapcorr\msNb,
+                                                                mṛtyapatyānapatyāś{ }ca \msNaacorr, 
+                                                                mṛtāpatyāś{ }ca gāvāś{ }ca \Ed</APP>
+        <APP>\vd <LEM>°va pra°</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; °vam{ }pra° \msCb</APP>
+        <TR>this very bath is praised for [people] whose child has died or who are without offspring.</TR>
+% Maybe for people? search for mṛtāpaty
+% Kengo maybe °patyāyāḥ
+
+<TEXT> gavāṃ śṛṅgodakaṃ gṛhya mūrdhni yo dhārayen{ }naraḥ|</TEXT>
+        <APP>\va <LEM>gavāṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; gavā \msNc\oo
+                 <LEM>°dakaṃ</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; °daka \msNa</APP>
+        <TR>If a man collects the `horn-water' of cows and applies it on his head,</TR>
+
+<TEXT> sa sarvatīrthasnānasya phalaṃ prāpnoti mānavaḥ||</TEXT> 19:13
+        <APP>\vc <LEM>°snānasya</LEM> \mssALL\msCa\msNapcorr\msNb\msNc\Ed; °sthānasya \msCb, °snāna \msNaacorr</APP>
+        <APP>\vd <LEM>phalaṃ prāpnoti</LEM> \mssALL\msCa\msNa\msNc\Ed; phalām{ }prāpnoti \msCb, phalam{ }āpnoti \msNb</APP>
+        <NOTE>Applying `horn water' means sprinkling with water filled into a cow's horn, 
+                while reciting the Gāyatrī matra a hundred times. See note to \SDHS\ 10.24
+                in <cite>SDhS10_ed</cite>.</NOTE>
+        <TR>he will receive the fruits of bathing at all the sacred pilgrimage places.</TR>
+%   05uma/umamahesvarasamvada.dn:   785:    sarvatīrthābhiṣekañca phalaṃ prāpnoti mānavaḥ|| 5.15||
+
+<TEXT> grāsamuṣṭipradānena goṣu bhaktisamanvitaḥ|</TEXT>
+        <APP>\vb <LEM>bhaktisamanvitaḥ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; bhaktitaḥ \msCb</APP>
+        <TR>If somebody gives a handful of food to cows with devotion,</TR>
+
+%folioinfo: msNc 244.jpg lower
+<TEXT> agnihotraṃ hutaṃ tena sarvadevāḥ sutarpitāḥ||</TEXT> 19:14
+        <APP>\vc <LEM>hutaṃ</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; phalaṃ \msNa</APP>
+        <APP>\vd <LEM>°devāḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °deva° \msNb</APP>
+        <TR>by this an Agnihotra is being performed and all the gods become satisfied.</TR>
+
+<TEXT> catvāraḥ stanadhārās{ }tu yas{ }tu mūrdhnā pratīcchati|</TEXT>
+        <APP>\va <LEM>catvāraḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; catvāra \msNc\oo
+                 <LEM>stana°</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; sūta° \msCb</APP>
+        <TR>He who collects on his head the four streams [of milk] from the teats</TR>
+
+<TEXT> sa catuḥsāgaraṃ gatvā snānapuṇyaphalaṃ labhet||</TEXT> 19:15
+        <APP>\vd <LEM>labhet</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; bhavet \msNb</APP>
+        <TR>will receive the meritorius fruits of visiting the four oceans.</TR>
+
+%                               prāṇāṃ \msCb
+<TEXT> gavārthaṃ yas{ }tyajet{ }prāṇān{ }gograheṣu dvijottama|</TEXT>
+        <TR>He who gives his life protecting cows during a raid aiming to steal them, O greatest of Brahmins</TR>
+        <PARAL>\vo Ł\similar\ \SDhU\ 12.212.$</PARAL>
+
+<TEXT> kalpakoṭiśataṃ divyaṃ śivaloke mahīyate||</TEXT> 19:16
+        <TR>will prosper in Śivaloka for millions of years.</TR>
+%saiva/sivadharma/01sdhs/sivadharmasastra.dn:varṣakoṭiśataṃ divyaṃ śivaloke mahīyate|
+
+%folioinfo \msNb\ 71.jpg upper 
+<TEXT> cyutabhagnādisaṃskāraṃ sarvaṃ yaḥ kurute naraḥ|</TEXT>
+        <TR>If a man rears all [the cows] that have missing or broken [limbs] CHECK,</TR>
+% maybe meaing cyute when fallen
+
+<TEXT> bhāryākoṭiśataṃ dānaṃ yat{ }phalaṃ parikīrtitam|| </TEXT> 19:17
+        <APP>\vc <LEM>bhāryā°</LEM> \msNa\Ed; āryā° \msCa\msCb\msNc, ārya° \msNb</APP>
+        <NOTE>Łbhāryā$ is suspect.</NOTE>
+        <TR>will get all the fruits that are said to be produced by donating millions of wives[?],</TR>
+% maybe just daughters? footnote! dānaṃ is not very good
+% āyā ? Kengo 
+% bhārya is servant
+% vārya is treasure
+% ācārya Kengo
+% ārya noble thing
+
+%Acintyaviśvasādākhyam:
+%kanyākoṭiśataṃ dānaṃ tattulyaṃ liṃgadarśanāt |
+%liṃgasaṃsparśanādbhaktyā sarvapāpaiḥ pramucyate || 26 ||
+
+<TEXT> tat{ }phalaṃ labhate martyaḥ śivalokaṃ ca gacchati|</TEXT>
+        <APP>\va <LEM!>tat{ }phalaṃ labhate martyaḥ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed;
+                                         <UNCL>tat{ }phalam{ }parikīrttiṃ tyaṃḥ</UNCL> \msCb</APP>
+        <APP>\vb <LEM>°lokaṃ ca gacchati</LEM> \mssALL\msCa\msNb\msNc\Ed; °lo\lk\lk\lk cchati \msCb, °loke vagacchati \msNa</APP>
+        <TR>and will go to Śivaloka.</TR>
+
+<TEXT> śivalokaparibhraṣṭaḥ pṛthivyām{ }ekarāḍ{ }bhavet||</TEXT> 19:18
+        <TR>When descended from Śivaloka, he will become a universal monarch on Earth.</TR>
+
+<TEXT> samāsataḥ samākhyātaṃ yathātattvaṃ dvijottama|</TEXT>
+        <APP>\vb <LEM>°tattvaṃ</LEM> \mssALL\msCa\msNa\msNb\Ed; °tatva \msCb\msNc</APP>
+        <TR>I have taught [about cows] truly, in brief, O supreme Brahmin.</TR>
+
+<TEXT> na śakyaṃ vistarād{ }vaktuṃ gomahābhāgyam{ }uttamam||</TEXT> 19:19
+        <APP>\vc <LEM>śakyaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; śatyaṃ \msNb\oo
+                 <LEM>vistarād{ }va°</LEM> \msNb\Ed; vistarān{ }va° \msCa, vistarāt{ }va° \msCb,  vistarāṃ va° \msNa,
+                                                                                             vistarā va° \msNc</APP>
+        <APP>\vd <LEM>gomahābhāgya°</LEM> \mssALL\msCa\msNa\msNb\msNc; gomahāgya° \msCb\ \hypometr, gomahātmyasa° \Ed</APP>
+        <TR>It is impossible to talk about the excellence of cows in more detail.</TR>
+% change trans
+
+
+
+%folioinfo \msCa\ 448.jpg, f. 226v line 6 
+%folioinfo \msCb\ 458.jpg, f. 228v line 6  
+%folioinfo \msCc\ missing this part (19.20--36 and more)  
+%folioinfo \msNa\ 227.jpg lower line 1 
+%folioinfo \msNb\  71.jpg upper line 1 
+%folioinfo \msNc\ 244.jpg lower line 3 
+<SUBCHAPTER>cāturvarṇyam</SUBCHAPTER>
+% cf. Manu 1.87--91
+
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+<TEXT> devā aṣṭavidhāḥ proktās{ }tiryak{ }pañcavidhaḥ smṛtaḥ|</TEXT>
+        <APP>\va <LEM>devā aṣṭa°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; devāḥraṣṭa° \Ed</APP>
+        <APP>\vb <LEM>°ryak{ }pa°</LEM> \mssALL\msCapcorr\msCb\msNa\msNb\msNc\Ed; °k{ }pa° \msCaacorr\oo
+                 <LEM>smṛtaḥ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; smṛtāḥ \msCb</APP>
+        <TR>The gods are of eight kinds, animals are of five kinds.</TR>
+% neuter -- masc
+
+% proktāḥ \Ed
+
+%folioinfo \msM\ 444.jpg upper, f. 36v
+<TEXT> mānuṣam{ }ekam{ }evāhuś{ }cāturvarṇaḥ kathaṃ bhavet||</TEXT> 19:20
+        <APP>\vc <LEM>mānuṣa°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; mānuṣya° \Ed</APP>
+        <APP>\vd <LEM>°varṇaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb; °varṇṇa \msNc, °vvarṇyaḥ \Ed</APP>
+        <TR>Mankind is said to be only one single [kind]. How come that there is the system of four social classes
+                (Łvarṇa$)?</TR>
+        <NOTE>cāturvarṇ[y]aṃ</NOTE>
+
+%folioinfo \msCb\ 459.jpg, f. 229r  
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <TR>Anarthayajña spoke:</TR>
+
+<TEXT> pūrvakalpasṛjas{ }tv{ }eṣa viṣṇunā prabhaviṣṇunā|</TEXT>
+        <APP>\va <LEM>°sṛjas{ }tv{ }eṣa</LEM> \mssALL\msCa\msNa\msNb\msNc; °sṛja\lk\lk\ \msCb, °sṛjaty{ }eṣa \Ed</APP>
+        <NOTE>See above Łsṛja$ for Łsṛṣṭa$ in 20.40.</NOTE>
+        <TR>It [i.e. the system of four social classes] was created by Lord Viṣṇu in the previous \ae on.</TR>
+
+<TEXT> ekavarṇo dvijaś{ }cāsīt{ }sarvakalpāgram{ }agrataḥ||</TEXT> 19:21
+        <APP>\vc <LEM!>ekavarṇo dvijaś{ }cāsī°</LEM> \msNc; e\lk\lk <UNCL>rṇṇo</UNCL>\l\l\lk ś{ }cāsī° \msCa, 
+                                                ekavarṇṇā dvijaś{ }cāsī° \msCb,
+                                                ekava<UNCL>rṇṇo</UNCL> dvijaś{ }cāsī° \msNa, ekavarṇṇa dvijaś{ }cāsī° \msNb,
+                                                evaṃ varṇā dvijaś{ }cāsī° \Ed</APP>
+        <TR>Before the very beginning of all \ae ons, there was one single class (Łvarṇa$) of Brahmins (Łdvija$).</TR>
+
+%folioinfo \msCa\ 449.jpg, f. 227r 
+<TEXT> sarvavedavido viprāḥ sarvayajñavidas{ }tathā|</TEXT>
+        <APP>\vb <LEM>°yajña°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °veda° \Ed</APP>
+        <TR>The Brahmins (Łvipra$) got to know all the Vedas and all the sacrifices.</TR>
+        
+<TEXT> teṣāṃ viprasahasrāṇāṃ yajñotsāhamano bhavet||</TEXT> 19:22
+        <APP>\vc <LEM>teṣāṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; tathā \Ed</APP>
+        <APP>\vd <LEM>yajñotsā°</LEM> \mssALL\msCa\msCb\msNa\Ed; yajñocchāha° \msNb, yajñotasāha° \msNc\ \unmetr</APP>
+        <TR>These thousands of Brahmins (Łvipra$) developed a desire to perform sacrifices.</TR>
+
+<TEXT> vṛddhaviprasahasrāṇāṃ matam{ }ājñāya brāhmaṇaiḥ|</TEXT>
+        <APP>\vb <LEM>°jñāya</LEM> \mssALL\msCb\msNa\msNb\msNc; °<UNCL>jñāya</UNCL> \msCa, °śritya \Ed\oo
+                 <LEM>brāhmaṇaiḥ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; brāhmaṇeḥ \msCb</APP>
+        <TR>Having understood the intention of the thousands of senior Brahmins (Łvipra$), the Brahmins (Łbrāhmaṇa$)</TR>
+%index_grammar: licence br
+
+%folioinfo \Ed\ p.653
+<TEXT> kartuṃ karma samārabdhaṃ karma cāpi vibhajyate||</TEXT> 19:23
+        <APP>\vc <LEM>kartuṃ</LEM> \mssALL\msCa\msCb\msNc\Ed; kartu \msNa\msNb\oo
+                 <LEM>samārabdhaṃ</LEM> \mssALL\msCa\msNa\msNb\msNc; samārandhaṃ \msCb, samārabdha \Ed</APP>
+        <APP>\vd <LEM>karma cāpi</LEM> \mssALL\msCa\msCb\msNb\msNc; karmaṃ cāpi \msNa, karmaś{ }cāpi \Ed</APP>
+        <TR>commenced performing rituals (Łkarman$) and the tasks (Łkarman$) were distributed.</TR>
+%kartuṅ ... samārabdhaṅ \msCa
+
+<TEXT> ṛtvijatve sthitāḥ kecit{ }kecit{ }saṃrakṣaṇe sthitāḥ|</TEXT>
+        <APP>\vb <LEM>°rakṣaṇe sthitāḥ</LEM> \mssALL\msNa\msNb\msNc\Ed; °rakṣa\lac3 ××× \msCa, <UNCL>rakṣaṇe sthi</UNCL>\lk\ \msCb</APP>
+        <TR>Some took on the function of being priests (Łṛtvij$), some took on the task of protection.</TR>
+        <NOTE>Note the form Łṛtvijatva$.</NOTE>
+
+<TEXT> arthopārjanayuktānye anye śilpe niyojitāḥ||</TEXT> 19:24
+        <APP>\vc <LEM>°yuktānye</LEM> \mssALL\msCa\msNb\msNc\Ed; °yuktā<UNCL>nye</UNCL> \msCb, °yuktātme \msNa</APP>
+        <APP>\vd <LEM>anye</LEM> \mssALL\msCapcorr\msCb\msNa\msNb\msNc\Ed; \om\ \msCaacorr</APP>
+        <TR>Some got engaged in the acquisition of materials and others were appointed to do manual crafts.</TR>
+        <NOTE>Note the double sandhi in °Łyuktānye$ (Łyuktā anye$).</NOTE>
+%index_grammar: double sandhi
+
+<TEXT> evaṃ yajñavidhānena kartum{ }ārebhire purā|</TEXT>
+        <APP>\vb <LEM>°m{ }ārebhire</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; °m{  }āremire \msNa</APP>
+        <NOTE>Perhaps understand pāda a as Łevaṃvidhānena yajñaṃ kartum$.</NOTE>
+        <TR>This is how they started performing sacrifices in the beginning.</TR>
+% check also MBh
+
+<TEXT> yathoddiṣṭena karmeṇa yajñotsāha{-}m{-}avartata||</TEXT> 19:25
+        <APP>\vc <LEM>yathoddi°</LEM> \Ed; yathodi° \msCa\msCb\msNa\msNb\msNc</APP>
+        <APP>\vd <LEM>°vartata</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; °varttataḥ \msNc</APP>
+        <TR>With the tasks (Łkarman$) thus distributed, the will to perform sacrifices increased.</TR>
+%index_grammar: karmeṇa
+
+<TEXT> āgatā ṛṣayaḥ sarve devatāḥ pitaras{ }tathā|</TEXT>
+        <TR>Then came all the Ṛṣis and all the gods and the Ancestors.</TR>
+
+<TEXT> anyonyam{ }abruvan{ }tatra devarṣipitṛdevatāḥ||</TEXT> 19:26
+        <TR>They discussed it among themselves, the divine Ṛṣis, the Ancestors and the gods:</TR>
+% abruvaṃ \msNa
+
+<TEXT> yajñārtham{ }asṛjad{ }varṇaṃ vidhinā kratuhetavaḥ|</TEXT>
+        <APP>\vab <LEM>°sṛjad{ }varṇaṃ vi°</LEM> \mssALL\msCa\msNb\msNc\Ed; °sṛjad{ }varṇṇān{ }vi° \msCb, °sṛdvaṇṇanvivi° \msNa</APP>
+        <APP>\vb <LEM>°dhinā</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °dhānāṃ \msNb\oo
+                 <LEM>kratuhetavaḥ</LEM> \msNa\msNb\msNc; <UNCL>kratu</UNCL>\lac1 × tavaḥ \msCa, kratuhetu<UNCL>ta</UNCL> \msCb,
+                                                                                pātuhetavaḥ \Ed</APP>
+                <TR>Brahmā/Viṣṇu (Łvidhi$) created class for the sake of sacrifice.
+                 [The classes are] for the purpose of rituals (Łkratu$).</TR>
+% not clear where the direct speech ends
+% for hetave
+% vidhinā could just be acc. ...
+
+<TEXT> evam{ }eva pravartantu bhavadbhir{ }dvijasattamāḥ||</TEXT> 19:27
+        <APP>\vd <LEM>bhavadbhir{ }dvi°</LEM> \msCapcorr\msCb; bhagavadbhir{ }dvi° \msCaacorr, bhavadbhi dvi° \msNa\msNb\msNc,
+                                                                                                bhavatidvi° \Ed\oo
+                 <LEM>°sattamāḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °sattamaḥ \msNb</APP>
+        <NOTE>Note the confused syntax both in pādas ab and cd.</NOTE>
+        <TR>Proceed in this very manner, Sirs, O excellent twice-born!</TR>
+
+<TEXT> ijyādhyayanasampannā brāhmaṇā ye 'tra kalpitāḥ|</TEXT>
+        <APP>\vb <LEM>ye 'tra</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; yatra \Ed\oo
+                 <LEM>kalpitāḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; kalpitā \msNb</APP>
+        <TR>Those Brahmins (Łbrāhmaṇa$) who are now engaged in sacrifice and recitation,</TR>
+
+<TEXT> suviprā vipratāṃ yāntu ṣaṭkarmaniratāḥ sadā||</TEXT> 19:28
+        <APP>\vc <LEM>suviprā</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; suvipra \msNb\oo
+                 <LEM>yāntu</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; yātu \msNb</APP>
+        <APP>\vd <LEM>ṣaṭkarma°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; ṣaḍkarmā° \Ed\oo
+                 <LEM>sadā</LEM> \mssALL\msCa\msCb\msNa\Ed; sajā \msNb, sadāḥ \msNc</APP>
+        <TR>those good Brahmins (Łsuvipra$) shall become Brahmins (Łvipratāṃ yāntu$), 
+                 always engaged in the six duties [of Brahmins] (Łṣaṭkarman$).</TR>
+% ṇiratāḥ \msNc
+
+<TEXT> rakṣaṇārthaṃ tu ye viprāḥ kalpitāḥ śastrapāṇayaḥ|</TEXT>
+        <APP>\va <LEM>viprāḥ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; viprā \msCb</APP>
+        <APP>\vb <LEM>śastra°</LEM> \mssALL\msCa\msNa\msNc\Ed; śāstra° \msCb\msNb</APP>
+        <TR>As for those Brahmins (Łvipra$) that have been appointed to protect [the sacrifice]
+                with weapons in their hands,</TR>
+
+<TEXT> kṣatatrāṇāya viprāṇāṃ nityakṣatravratodbhavāḥ||</TEXT> 19:29
+        <APP>\vc <LEM>kṣata°</LEM> \msCa\msNa\msNb; kṣatra° \msCb\msNc, kṛta° \Ed\oo
+                 <LEM>viprāṇāṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; viprāṇā \msNb</APP>
+        <APP>\vd <LEM>nityakṣatra°</LEM> \msCa\msCb\msNc; nityaṃ kṣatra° \msNa\msNb, nityaṃ kṣātra° \Ed\oo
+                 <LEM>°vratodbhavāḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °vratottamaḥ \msNb</APP>
+        <PARAL>\vcd Łcf.\ MBh 12.59.128ab:$
+                 brāhmaṇānāṃ kṣatatrāṇāt{ }tataḥ kṣatriya ucyate</PARAL>
+        <TR>to protect the Brāhmins (Łvipra$) from injury, they shall eternally follow[?] the 
+                 vow of Kṣatras.</TR>
+
+<TEXT> arthopārjanam{ }uddiśya kalpitā ye dvijātayaḥ|</TEXT>
+        <APP>\vb <LEM>ye</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; yo \msNb</APP>
+        <TR>As for those twice-born who have been appointed for the acquisition of materials,</TR>
+
+
+%folioinfo \msNc\ 245.jpg upper  
+%                                         vrato?
+<TEXT> te tu vaiśyatvam{ }āyāntu vārttopāyaratodbhavāḥ||</TEXT> 19:30
+        <APP>\vd <LEM>vārttopāyarato°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; vārtto āpaṇatodbhavāḥ \Ed</APP>
+        <TR>they shall become Vaiśyas, involved in the means of trade.</TR>
+
+<TEXT> vadhabandhanakarmasu śilpasthānavidheṣu ca|</TEXT>
+        <APP>\va <LEM!>vadhabandhanakarmasu</LEM> \msCa\msNa; vadhavandhanakarmeṣu \msCb\msNb\msNc\Ed</APP>
+        <APP>\vb <LEM>°vidheṣu</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °vadheṣu \Ed</APP>
+        <TR>Those of the twice-born who have been appointed to the tasks of slau..ghering and tying [animals] 
+                 and of manual skills,</TR>
+        
+<TEXT> kalpitā ye dvijātīnāṃ sarve śūdrā bhavantu te||</TEXT> 19:31
+        <APP>\vc <LEM>°jātīnāṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; °jātīnā \msNc</APP>
+        <TR>they all shall become Śūdras.</TR>
+
+% EDDIG olvastuk
+<TEXT> prājāpatyaṃ brāhmaṇānām{ }ijyādhyayanatatparāt|</TEXT>
+       <APP>\vab <LEM!>prājāpatyaṃ brāhmaṇānām{ }ijyādhyayanatatparāt</LEM> \msCa\msCb; 
+                            prājāpatyaṃ brāhmaṇānāṃm{ }ijyādhyayanatatparāt \msNa,
+                            prājāpatya  brāhmaṇām{ }ījyādhyayanatatparāt \msNb,
+                            prājāpatyaṃ brāhmaṇām{ }ījyādhyayanatatparāt \msNc,
+                            prājāpatyaṃ brāhmaṇānām{ }ījyādhyayanatatparāṃ \Ed</APP>
+        <TR>The [world] of Prajāpati belongs to the Brahmins (Łbrāhmaṇa$) [after death] because
+                 they are devoted to the sacrifice and to recitation.</TR>
+
+<TEXT> sthānam{ }aindraṃ kṣatriyāṇāṃ prajāpālanatatparāt||</TEXT> 19:32
+        <APP>\vc <LEM>°ndraṃ</LEM> \mssALL\msCa\msCb\msNa\Ed; °ndra \msNb\msNc</APP>
+        <APP>\vd <LEM>°tparāt</LEM> \mssALL\msCb\msNa\msNb\msNc; °<UNCL>tparāt</UNCL> \msCa, °tparaṃ \Ed</APP>
+        <TR>The [world] of Indra belongs to the Kṣatriyas because
+                 they are devoted to the protection of the people.</TR>
+        <PARAL>\vo Łcf.\ Vāyupurāṇa 1.8.166:$
+                prājāpatyaṃ brāhmaṇānāṃ smṛtaṃ sthānaṃ kriyāvatām |
+                sthānam aindraṃ kṣatriyāṇāṃ saṃgrāmeṣv{ }apalāyinām ||
+                   Ł\similar\ Bhaviṣyapurāṇa 2.1.34, etc.$</PARAL>
+% Brahmāṇḍa, and else 
+
+%purana/vAyu-purANam/01/008.md-sāmānyāni tu karmāṇi brahmakṣatraviśāṃ punaḥ।  
+%purana/vAyu-purANam/01/008.md-yajanādhyayanaṃ dānaṃ sāmānyāni tu teṣu ca ।।164।।  
+%purana/vAyu-purANam/01/008.md-karmājīvaṃ tato dattvā tebhyaś caiva parasparam।  
+%purana/vAyu-purANam/01/008.md-lokāntareṣu sthānāni teṣāṃ siddhyā'dadat prabhuḥ ।।165।।  
+%See Vāyupurāṇa (4-5th c.?) 1.8 (important chapter)
+
+<TEXT> vaiśyānāṃ vāsavasthānaṃ vāṇijyakṛṣijīvinām|</TEXT> 
+        <APP>\vb <LEM>vāṇijya°</LEM> \mssALL\msCa\msCb\msNb\msNc; vāṇijyaṃ \msNa\Ed\oo
+                 <LEM>°jīvinām</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °jīvinam \msNb</APP>
+        <TR>The [world] of the Vasus belongs to the Vaiśyas who
+                 earn their living by trade and agriculture.</TR>
+        
+<TEXT> śūdrāṇāṃ marutaḥ sthānaṃ śuśrūṣāniratātmanām||</TEXT> 19:33
+        <APP>\vcd <LEM!>śūdrāṇāṃ marutaḥ sthānaṃ śuśrūṣāniratātmanām</LEM> \msCa\msCb\msNc\Ed; \om\ \msNaacorr,
+                                                        śūdrāṇāṃ marutasthānaṃ śuśrūṣāniratātmanām \msNapcorr
+                                                        śūdrāṇā marutaḥ sthānaṃ śuśrūṣāniratātmanām \msNb</APP>
+        <PARAL>\vo Łcf.\ Vāyupurāṇa 1.8.167--168ab:$
+                vaiśyānāṃ mārutaṃ sthānaṃ svadharmamupajīvinām | 
+                gāndharvaṃ śūdrajātīnāṃ praticāreṇa tiṣṭhatām ||
+                sthānāny{ }etāni varṇānāṃ vyatyācāravatāṃ svayam |</PARAL>
+        <TR>The [world] of Marut[s] belongs to the Śūdras who devote themselves to sevice.</TR>
+% ṇiratā \msCb
+
+<TEXT> maharṣipitṛdevānāṃ matam{ }ājñāya niścitaḥ|</TEXT> 
+        <APP>\va <LEM>°devānāṃ ma°</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; °devānā ma° \msCb</APP>
+        <APP>\vb <LEM>mata°</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; mana° \msNc\oo
+                 <LEM>niścitaḥ</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; niścitāḥ \msNa</APP>
+        <TR>Understanding/acknowledged the thought of the great Ṛṣis, the Ancestors and the gods,</TR>
+% authorized, consented
+
+<TEXT> eṣa saṃkalpito brahmā padmayoniḥ pitāmahaḥ||</TEXT> 19:34
+        <APP>\vc <LEM>°kalpito brahmā</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °kalpitā brāhmā \msNb</APP>
+        <TR>lotus-born Brahmā, the Grandfather constructed [the system of Łvarṇa$s] firmly.</TR>
+% maybe eṣa is: the following
+
+<TEXT> saṃkalpaprabhavāḥ sarve devadānavamānavāḥ|</TEXT> 
+        <APP>\vb <LEM!>devadānavamānavāḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; devadedānamānavaḥ \msNbacorr, 
+                                                                       devadānamānavaḥ \msNbpcorr</APP>
+        <TR>All the gods, demons, and humans are born from this intention,</TR>
+% save \msCb
+% daitya? Kengo
+
+%folioinfo \msM\ 444.jpg lower, f. 37r
+<TEXT> paśupakṣimṛgā mukhyā yāvanti jagasambhavāḥ||</TEXT> 19:35
+        <APP>\vc <LEM>°mṛgā</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed; \lk gā \msCa</APP>
+        <APP>\vd <LEM>jaga°</LEM> \mssALL\msCa\msCb\msNc\Ed; jaṃgama° \msNa, jage \msNb</APP>
+        <TR>and also all the main domestic animals, birds and wild animals that are born in the world.</TR>
+%index_grammar: gender, number
+
+<TEXT> bhūtasaṃkalpakaṃ nāma kalpam{ }āsīd{ }dvijottama|</TEXT>
+        <APP>\va <LEM!>bhūtasaṃkalpakaṃ nāma</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; bhūtasaṃkalpakartā ya \Ed</APP>
+        <TR>That \ae on was called the creation of the beings, O excellent Brahmin.</TR>
+        %saṅkalpakannāma \msCa
+% line misplaced?
+
+%folioinfo \msNa\ 228.jpg upper 
+%folioinfo \msNb\  72.jpg lower 
+<TEXT> kīrtitāni samāsena kim{ }anyac{ }chrotum{ }icchasi||</TEXT> 19:36
+        <TR>[The social classes] have been taught briefly. What else do you wish to hear?</TR>
+
+
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+<TEXT> kiṃ tapaḥ sarvavarṇānāṃ vṛttiṃ vāpi tapodhana|</TEXT>
+        <APP>\va <LEM>tapaḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; tapa \msNb</APP>
+        <APP>\vb <LEM>vṛttiṃ vāpi</LEM> \msCa\msCb\msNa; vṛrtti vāpi \msNb, vṛtti vāpi \msNc, vṛttir{ }vvāpi \Ed</APP>
+        <TR>What penance and livelihood belong to each of the social classes (Łvarṇa$), 
+                        O great ascetic? </TR>
+% maybe not penance, duty
+
+<TEXT> yajñāṃś{ }caiva pṛthaktvena śrotum{ }icchāmi tattvataḥ||</TEXT> 19:37
+        <APP>\vc <LEM>yajñāṃś{ }caiva</LEM> \msCa\msNa; yajñāś{ }caiva \msCb\msNc\Ed, prajñāś{ }caiva \msNb</APP>
+        <TR>I also wish to hear the [types of] worship/sacrifice [belonging to each of them]
+         one by one, as they truly are.</TR>
+%index_anarthayajna_ref_as: tapodhana
+
+%folioinfo \Ed\ p.654
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <APP>\vo <LEM>anartha°</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed; \lac rtha° \msCa</APP>
+        <TR>Anarthayajña spoke:</TR>
+
+%folioinfo \msCa\ 450.jpg, f. 227v
+<TEXT> brāhmaṇasya tapo jñānaṃ tapaḥ kṣatrasya rakṣaṇam|</TEXT>
+        <APP>\va <LEM>jñānaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; yajñāḥ \Ed</APP>
+        <APP>\vb <LEM>tapaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; tapa \msNc\oo
+                 <LEM>kṣatrasya</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; kṣātrasya \Ed</APP>
+        <TR>The Brahmins's penance is knowledge. The Kṣatriya's penance is protection.</TR>
+
+<TEXT> vaiśyasya ca tapo vārttā tapaḥ śūdrasya sevanam||</TEXT> 19:38
+        <APP>\vc <LEM!>vaiśyasya ca tapo vārttā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; vaiśyaś{ }ca tapa vāṇijya \Ed</APP>
+        <TR>The Vaiśya's penance is business (Łvārttā$). The Śudra's penance is service.</TR>
+
+<TEXT> pratigraha dhanaṃ vipraḥ kṣatriyasya dhanur{ }dhanam|</TEXT>
+        <APP>\va <LEM>dhanaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; dhano \Ed</APP>
+        <TR>The Brahmin's wealth is the acceptance of gifts. The Kṣatriya's wealth is his bow.</TR>
+
+%index_grammar: stem form
+%index_grammar: nominative for genitive
+
+<TEXT> kṛṣir{ }dhanaṃ tathā vaiśyaḥ śūdraḥ śuśrūṣaṇaṃ dhanam||</TEXT> 19:39
+        <APP>\vc <LEM>kṛṣir{ }dhanaṃ</LEM> \msCa\msCb\Ed; kṛṣir{ }dhana \msNa, kṛṣi dhanaṃ \msNb\msNc</APP>
+        <APP>\vd <LEM>śūdraḥ</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; śūdra \msNa\oo
+                 <LEM>dhanam</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; dhanaḥ \msNb</APP>
+        <TR>The Vaiśya's wealth is agriculture. The Śūdra's wealth is obedience.</TR>
+
+<TEXT> ārambhayajñaḥ kṣatrasya haviryajñā viśas{ }tathā|</TEXT>
+        <APP>\vb <LEM>°ryajñā</LEM> \msNa; °ryajña \msCa\msNb\msNc, °<UNCL>rya</UNCL>\lk\ \msCb, °ryajño \Ed\oo
+                 <LEM>viśas{ }tathā</LEM> \mssALL\msNa\msNb\msNc\Ed; viśa<UNCL>s{ }ta</UNCL>\lac\ \msCa,
+                                                         <UNCL>visas{ }tathā</UNCL> \msCb</APP>
+        <PARAL>\vo Ł\similar\ \MBH\ 12.224.61:$
+                        ārambhayajñāḥ kṣatrasya haviryajñā viśas tathā |
+                        paricārayajñāḥ śūdrās tu tapoyajñā dvijātayaḥ ||
+                 Ł\similar\ \MBH\ 12.230.12:$
+                        ārambhayajñāḥ kṣatrasya haviryajñā viśaḥ smṛtāḥ |
+                        paricārayajñāḥ śūdrāś ca japayajñā dvijātayaḥ ||</PARAL>
+        <TR>Undertaking is the Kṣatriya's worship. Fire-oblation is the Vaiśya's worship.</TR>
+
+
+<TEXT> śūdrāḥ paricarāyajñā japayajñā dvijātayaḥ||</TEXT> 19:40
+        <APP>\vc <LEM>śūdrāḥ</LEM> \eme; śūdraḥ \msCa\msCb\msNa\msNb\msNc\Ed\oo
+                 <LEM>paricarāyajñā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; paricaro yajño \Ed</APP>
+        <APP>\vd <LEM>°yajñā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °yajño \Ed\oo
+                 <LEM>°jātayaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; °jātaya \msNc</APP>
+        <NOTE>Compare this verse to 17.36.</NOTE>
+        <TR>Service is the Śūdra's worship. Recitation is the Brahmin's worship.</TR>
+
+%index_grammar: stem form
+%index_grammar: nominatives for genitive
+
+% without the MBh the author is lost in grammar
+%folioinfo msCb 460.jpg f.229v
+<TEXT> satya tīrthaṃ dvijātīnāṃ raṇa tīrthaṃ tu kṣatriyāḥ|</TEXT>
+        <APP>\va <LEM>tīrthaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc; tīrtha \msNb\Ed</APP>
+        <APP>\vb <LEM>kṣatriyāḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; kṣatriyaḥ \msNc</APP>
+        <TR>Truth is the pilgrimage place for Brahmins. A battle is a pilgrimage place for Kṣatriyas.</TR>
+
+%index_grammar: kṣatriyāḥ thought of as a Newar genitive?
+%index_grammar: stem form
+
+<TEXT> āryā tīrthaṃ tu vaiśyānāṃ śūdratīrthaṃ ca vai dvijāḥ||</TEXT> 19:41
+        <APP>\vc <LEM>vaiśyānāṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; vaiśānāṃ \Ed</APP>
+        <APP>\vd <LEM>śūdra°</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; śaudra° \msNc\oo
+                 <LEM>ca</LEM> \mssALL\msCa\msCb\msNb\msNc; tu \msNa\Ed</APP>
+        <NOTE>Emend to kārya?</NOTE>
+        <TR>Āryā[varta?] is the pilgrimage place for Vaiśyas. The Brahmins are the pilgrimage place of Śūdras.</TR>
+
+%index_grammar: nominatives for genitive
+
+<TEXT> nāsti vidyāsamo mitro nāsti dānasamaḥ sakhā|</TEXT>
+        <APP>\vb <LEM>°samaḥ sakhā</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °damas{ }sakhā \msNb</APP>
+        <TR>There is no friend comparable to knowledge. There is no companion comparable to gifting.</TR>
+
+<TEXT> nāsti jñānasamo bandhur{ }nāsti yajño japasamaḥ||</TEXT> 19:42
+        <APP>\vcd <LEM>bandhur{ }nā°</LEM> \mssALL\msCa\msNa\Ed; bandhu nā° \msCb\msNb\msNc</APP>
+        <APP>\vd <LEM>japa°</LEM> \mssALL\msCa\msCb\msNa\msNc\ \unmetr; japassamaḥ \msNb, japaḥsamaḥ \Ed</APP>
+        <TR>There is no relative comparable to knowledge. There is no worship comparable to recitation.</TR>
+% ŚDhU:
+% nāsti jñānasamaṃ tīrthaṃ nāsti jñānasamantapaḥ|
+% nāsti jñānasamo yajñastasmājjñānaṃ samabhyaset|| 3.50||
+% 04sivopanisad/sivopanisad.txt: 1183:    nāsti dharmasamaṃ mitraṃ nāsti dharmasamaḥ sakhā
+% 04sivopanisad/sivopanisad.txt- 1184-    yataḥ sarvaiḥ parityaktaṃ naraṃ dharmo 'nugacchati // SU_6.167
+
+<TEXT> dharmahīno mṛtais{ }tulyo devatulyo jitendriyaḥ|</TEXT>
+        <APP>\va <LEM>mṛtais{ }tu°</LEM> \msCb\msNa\msNc; \lk tes{ }tu° \msCa, mṛtan{ }tu° \msNb,  mṛtas{ }tu° \Ed</APP>
+        <TR>A person without Dharma is similar to the dead. Someone who conquers his senses is similar to the gods.</TR>
+
+<TEXT> yajñatulyo 'bhayaṃ dātā śivatulyo manonmanaḥ||</TEXT> 19:43
+        <APP>\vd <LEM>°nmanaḥ</LEM> \msCa\msCb\msNa\msNb\Ed; °tmana \msNc</APP>
+        <NOTE>For a possible synonym of Łmanonmana$, see 19.48b: Łlīnamanāḥ$ (`whose mind has dissolved').
+                See also 11.18b and 49b.</NOTE>
+        <TR>One who gives protection is similar to worship. Who [reaches the state of] mind-nonmind 
+               (Łmanonmana$) becomes similar to Śiva.</TR>
+% manotmanaḥ \msCa\msNa
+
+
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+<TEXT> dānaṃ yajñas{ }tapas{ }tīrthaṃ saṃnyāsaṃ yoga eva ca|</TEXT>
+        <APP>\va <LEM>dānaṃ</LEM> \corr; dāna \msCa\msCb\msNa\msNb\msNc\oo
+                 <LEM>°pas{ }tīrthaṃ</LEM> \mssALL\msCa\msNa\msNc\Ed; °patīrthaṃ \msCb, °pas{ }tīrtha \msNb</APP>
+        <TR>Gifting, worship, penance, pilgrimages, renunciation, and yoga:</TR>
+
+<TEXT> eteṣu katamaḥ śreṣṭhaḥ śrotum{ }icchāmi kīrtaya||</TEXT> 19:44
+        <APP>\vd <LEM>kīrtaya</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; kīrttayaḥ \msNb</APP>
+        <TR>which is the best among these?</TR>
+
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <APP>\vo <LEM>anarthayajña uvāca</LEM> \mssALL\msCapcorr\msCb\msNa\msNb\Ed; \om\ \msCaacorr</APP>
+        <TR>Anarthayajña spoke:</TR>
+
+<TEXT> dānadharmasahasrebhyo yajñayājī viśiṣyate|</TEXT>
+        <APP>\vb <LEM>viśiṣyate</LEM> \msCa\msCb\msNa\msNb\Ed; śiṣyate \msNc</APP>
+        <TR>He who worships with sacrifices is better than a thousand whose Dharma is gifting.</TR>
+%Bṛhatkālottara:
+%brahmacārisahasrebhyo vedādhyāyī viśiṣyate |\\
+%vedādhyāyisahasrebhyo hy agnihotrī viśiṣyate || 61.246\\
+%agnihotrisahasrebhyo yajñayājī viśiṣyate |\\
+%yajñayājisahasrebhyo mantrayājī viśiṣyate || 61.247\\
+%mantrayojisahasrebhyo satrayājyadhiko mataḥ |\\
+%satrayājisahasrebhyo sarvavidyāgamaḥ paraḥ || 61.248\\
+%sarvavidyārthakoṭīnāṃ śivabhakto viśiṣyate |\\ \> VSS 19.45--48
+%tasmai deyaṃ prayatnena tato grāhyaṃ vidhānataḥ |\\
+
+
+%folioinfo \msNc\ 245.jpg lower
+<TEXT> yajñayājisahasrebhyas{ }tīrthayātrī viśiṣyate||</TEXT> 19:45
+        <APP>\vc <LEM>°yāji°</LEM> \mssALL\msCa\msCb\msNa\msNb; °yājī° \Ed</APP>
+        <TR>He who visits pilgrimages places is better than a thousand who worship with sacrifices.</TR>
+
+<TEXT> tīrthayātrisahasrebhyas{ }taponiṣṭho viśiṣyate|</TEXT>
+        <APP>\vb <LEM>°poniṣṭho</LEM> \mssALL\msCa\msCb\msNa\msNb; °paniṣṭho \Ed</APP>
+        <TR>He who is devoted to penance is better than a thousand who visit pilgrimages places.</TR>
+
+<TEXT> taponiṣṭhasahasrebhyaḥ śreṣṭhaḥ saṃnyāsikaḥ smṛtaḥ||</TEXT> 19:46
+        <APP>\vc <LEM>tapo°</LEM> \mssALL\msCa\msCb\msNa\msNb; tapa° \Ed</APP>
+        <TR>He who is a renunciate is better than a thousand who are devoted to penance.</TR>
+
+<TEXT> saṃnyāsīnāṃ sahasrebhyaḥ śreṣṭho yas{ }tu jitendriyaḥ|</TEXT>
+        <APP>\vb <LEM>yas{ }tu</LEM> \mssALL\msCa\msCb\msNa\msNb; yac{ }ya \Ed</APP>
+        <TR>He who controls his senses is better than a thousand renunciates.</TR>
+
+<TEXT> jitendriyasahasrebhyo yogayukto viśiṣyate||</TEXT> 19:47
+        <TR>He who practises yoga is better than a thousand who control their senses.</TR>
+
+<TEXT> yogayuktasahasrebhyaḥ śreṣṭho līnamanāḥ smṛtaḥ|</TEXT>
+        <APP>\va <LEM>°yuktasahasre°</LEM> \mssALL\msCb\msNa\msNb\Ed; °yu<UNCL>kta</UNCL>\lk hasre° \msCa</APP>
+        <APP>\vb <LEM>°manāḥ</LEM> \mssALL\msCa\msCb\msNa; °manaḥ \msNb\Ed</APP>
+        <TR>He whose mind has dissolved is better than a thousand who practise yoga.</TR>
+
+<TEXT> tasmāt{ }sarvaprayatnena mana ādau viśodhayet||</TEXT> 19:48
+        <APP>\vd <LEM>mana ādau</LEM> \mssALL\msCa\msCb\msNa\msNb; ādau mana \Ed</APP>
+        <PARAL>\vcd Ł\similar\ \DHARMP\ 16.19ab:$
+                      tasmāt{ }sarvaprayatnena cittam{ }ādau viśodhayet</PARAL>
+        <TR>Therefore one should first purify the mind by all means.</TR>
+
+<TEXT> nigṛhītendriyagrāmaḥ svargamokṣau tu sādhayet|</TEXT>
+        <APP>\va <LEM>°gṛhīte°</LEM> \mssALL\msCa\msCb\msNa\Ed; °nigṛhote° \msNb</APP>
+        <APP>\vb <LEM>°mokṣau</LEM> \mssALL\msCa\msCb\msNa\Ed; °mokṣo \msNb\oo
+                 <LEM>sādhayet</LEM> \mssALL\msCa\msCb\msNa\msNb; sādhanam \Ed</APP>
+        <TR>He who controls all his senses can reach heaven and liberation.</TR>
+
+%folioinfo \msM\ 445.jpg upper, f. 37v
+<TEXT> visṛṣṭe tv{ }indriyagrāme tiryaknarakasādhanam||</TEXT> 19:49
+        <APP>\vc <LEM>visṛṣṭe</LEM> \msCa\msNa; viśiṣṭe \msCb\msNb, viśiṣṭhe \Ed\oo
+                 <LEM>tv{ }indriya°</LEM> \mssALL\msCa\msCb\msNa\Ed; ndriya° \msNb</APP>
+        <APP>\vd <LEM>tiryaknaraka°</LEM> \mssALL\msCa\msCb\msNa\msNb; tiryannaraka° \Ed</APP>
+        <TR>If all the senses are let loose, what one achieves is animal existence or existence in hell.</TR>
+
+
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+<TEXT> carācarāṇāṃ bhūtānāṃ śreṣṭhaḥ katama ucyate|</TEXT>
+        <APP>\vb <LEM>śreṣṭhaḥ katama</LEM> \mssALL\msCa\msCb\msNa\msNb; katamaḥ śreṣṭha \Ed</APP>
+        <TR>From amongst the moving and unmoving living beings, which is said to be the best?</TR>
+
+<TEXT> kathayasva mamādya tvaṃ chettum{ }arhasi saṃśayam||</TEXT> 19:50
+        <APP>\vc <LEM>kathayasva</LEM> \mssALL\msCb\msNa\msNb\Ed; katha\lac sva \msCa</APP>
+        <APP>\vd <LEM>chettu°</LEM> \mssALL\msCa\msCb\msNa\Ed; chetu° \msNb</APP>
+        <TR>Tell me this now, please cut my doubts.</TR>
+%folioinfo \Ed\ p.655
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <TR>Anarthayajña spoke:</TR>
+
+<TEXT> carācarāṇāṃ bhūtānāṃ tatra śreṣṭhāś{ }carāḥ smṛtāḥ|</TEXT>
+        <APP>\va <LEM>°carāṇāṃ</LEM> \mssALL\msCa\msNa\msNb\Ed; °carāṇā \msCb</APP>
+        <APP>\vb <LEM>śreṣṭhāś{ }carāḥ</LEM> \msCa\msNb; śreṣṭhoḥś{ }carāḥ \msCb, śreṣṭha carāḥ \msNa, śreṣṭho carāḥ \Ed</APP>
+        <TR>From amongst the moving and unmoving living beings, the moving ones are taught to be the best.</TR>
+
+%folioinfo \msNa 228.jpg lower f.35r
+<TEXT> carāṇāṃ caiva sarveṣāṃ buddhimān{ }śreṣṭha ucyate||</TEXT> 19:51
+        <APP>\vc <LEM>°carāṇāṃ</LEM> \mssALL\msCa\msNa\msNb\Ed; °carāṇā \msCb</APP>
+        <TR>From amongst the moving ones, the sentient ones (Łbuddhimat$) are said to be the best.</TR>
+
+<TEXT> buddhimatsu ca sarveṣu tataḥ śreṣṭhā narāḥ smṛtāḥ|</TEXT>
+        <APP>\va <LEM>buddhimatsu</LEM> \mssALL\msCa\msCb\msNa\msNb; buddhimānṣu \Ed</APP>
+        <APP>\vb <LEM>śreṣṭhā</LEM> \msCa\msNb; śreṣṭho \msCb\msNa, śreṣṭha° \Ed</APP>
+        <TR>Among all the sentient ones then humans are the best.</TR>
+
+<TEXT> narāṇāṃ caiva sarveṣāṃ brāhmaṇaḥ śreṣṭha ucyate||</TEXT> 19:52
+        <APP>\vd <LEM>śreṣṭha ucyate</LEM> \mssALL\msCb\msNa\msNb\Ed; śre\lac cyate \msCa</APP>
+        <TR>The best of all humans is said to be the Brahmin.</TR>
+
+%folioinfo msCa 451.jpg f. 228r
+%vidvatsu \msCc msCc resumes here 
+
+%lacuna_start: Ed
+<TEXT> brāhmaṇeṣu ca sarveṣu vidvān śreṣṭhaḥ sa ucyate |</TEXT>
+        <LACUNA>\vab ŁMissing in \Ed.$</LACUNA>
+        <LACUNA>\va Ł\msCc\ resumes here with$ ṇeṣu ca sarvveṣu</LACUNA>
+        <APP>\va <LEM>ca</LEM> \mssALL\msCb\msCc\msNa\msNb; \om\ \msCa</APP>
+        <APP>\vb <LEM>śreṣṭhaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb; śreṣṭha \msCc\oo
+                 <LEM>sa ucyate</LEM> \mssALL\msCa\msNa\msNb\Ed; samucyate \msCb</APP>
+        <TR>Among all the Brahmins, the learned one (Łvidvat$) is the best.</TR>
+
+%lacuna_end: msCc
+%lacuna_end: Ed
+<TEXT> vidvatsv{ }api ca sarveṣu kṛtabuddhir{ }viśiṣyate||</TEXT> 19:53
+        <APP>\vc <LEM>ca</LEM> \mssALL\mssCaCbCc\msNb\Ed; \om\ \msNa</APP>
+        <APP>\vd <LEM>°buddhir{ }vi°</LEM> \mssALL\msCa\msCb\msNa\Ed; °buddhi vi° \msCc\msNb</APP>
+        <TR>From amongst all the scholars, the one whose mind is determined (Łkṛtabuddhi$) is the best.</TR>
+
+<TEXT> kṛtabuddhiṣu sarveṣu śreṣṭhaḥ kartā sa ucyate|</TEXT> 
+        <APP>\vb <LEM>sa ucyate</LEM> \msCb\msNb\Ed; samucyate \msCa\msCc\msNa</APP>
+        <TR>From amongst all those who know their religios duties, the performer [of rituals] (Łkartṛ$) is the best.</TR>
+
+<TEXT> kartṛṣv{ }api ca sarveṣu brahmavedī viśiṣyate||</TEXT> 19:54
+        <TR>And amongst the performers [of rituals] the one who knows the Brahman (Łbrahmavedin$) is eminent.</TR>
+
+%lacuna_start: msCa
+%folioinfo: msNb  72.jpg upper
+% what to do with this line
+<TEXT> brahmavedi paraṃ vipraḥ nānyaṃ vedmi paraṃ tapaḥ|</TEXT>
+        <APP>\va <LEM>vipraḥ</LEM> \msNa\Ed; vipra \msCb\msCc\msNb</APP>
+        <APP>\vb <LEM>nānyaṃ</LEM> \mssALL\mssCaCbCc\msNa\Ed; nānya \msNb</APP>
+        <LACUNA>\vab ŁMissing in \msCa.$</LACUNA>
+        <NOTE>I suspect that Łparaṃ tapaḥ$ in Łpāda$ b might mean Łparataram$...</NOTE>
+        <TR>The knower of Vedic mantras is the best Brahmin. I do not know of any higher penance[?].</TR>
+
+%lacuna_end: msCa
+<TEXT> sa vipraḥ sa tapasvī ca sa yogī sa śivaḥ smṛtaḥ||</TEXT> 19:55
+        <APP>\vc <LEM>vipraḥ</LEM> \mssALL\msCa\msCb\msNa\Ed; vipra \msCc\msNb</APP>
+        <TR>He is the real Brahmin, the real ascetic, the real yogin, he is said to be Śiva.</TR>
+
+
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe dānayajñaviśeṣo nāma ūnaviṃśatitamo 'dhyāyaḥ</COLOPHON></TEXT>
+        <APP> Ł\Colo:$ <LEM>vṛṣasārasaṃgrahe</LEM> \mssALL\msCb\msCc\msNa\msNb\Ed; vṛṣa\lac he \msCa\oo
+                      <LEM>nāma ūnaviṃśa°</LEM> \mssALL\msCa\msCc\msNa\msNb; nā ūnaviśa° \msCb, nāma unaviṃśa° \Ed</APP>
+        <TRCOLOPHON>Here ends the nineteenth chapter in the Vṛṣasārasaṃgraha called The particulars of gifting and worship.</TRCOLOPHON>
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% END OF CHAPTER 19
+
+
+

@@ -1,0 +1,1594 @@
+<START/>
+<startchapter-n="20"/> 
+%chapter 20 
+%folioinfo \Ed\ p.655
+%folioinfo \msCa\ 451.jpg line 2
+%folioinfo \msCb\ 460.jpg line 6 f.229v
+%folioinfo \msCc\ 237.jpg line 3 f.309r
+%folioinfo \msNa\ 228.jpg lower
+%folioinfo \msNb\ 72.jpg upper line 1
+%folioinfo \msM\ 445.jpg upper, f. 37v line 3
+% EDDIG \msM folios
+
+Read Bisschop and Bakker: Moksadharma 187 and 239-241 reconsidered
+and 
+Primal Elements, pp. xvi and 66 etc.
+
+<CHAPTER>viṃśatimo 'dhyāyaḥ</CHAPTER>
+<TRCHAPTER>Chapter Twenty</TRCHAPTER>
+
+<ANUSTUBH/>
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+% numbers singular!
+<TEXT> pañcaviṃśati yat{ }tattvaṃ jñātum{ }icchāmi tattvataḥ|</TEXT>
+
+%index_grammar: singular after numbers, Newari inanimate
+
+<TEXT> kathayasva mamādya tvaṃ chidyate yena saṃśayaḥ||</TEXT> 20:1
+        <TR>I would like to learn about the twenty-five Tattvas truely. 
+                 Teach me now so that my doubts could be dispelled.</TR>
+        <NOTE> This chapter echoes and is partly based on \MBH\ 12.247.1--10 (Mokṣadharma, see
+                        parallel passages in the apparatus):
+                <sep/>
+                        Łbhīṣma uvāca |
+                        bhūtānāṃ guṇasaṃkhyānaṃ bhūyaḥ putra niśāmaya |
+                        dvaipāyanamukhād bhraṣṭaṃ ślāghayā parayānagha $||1||
+                        Łdīptānalanibhaḥ prāha bhagavān dhūmravarcase |
+                        tato 'ham api vakṣyāmi bhūyaḥ putra nidarśanam $||2||
+                        Łbhūmeḥ sthairyaṃ pṛthutvaṃ ca kāṭhinyaṃ prasavātmatā |
+                        gandho gurutvaṃ śaktiś ca saṃghātaḥ sthāpanā dhṛtiḥ $||3||
+                        Łapāṃ śaityaṃ rasaḥ kledo dravatvaṃ snehasaumyatā |
+                        jihvā viṣyandinī caiva bhaumāpyāsravaṇaṃ tathā $||4||
+                        Łagner durdharṣatā tejas tāpaḥ pākaḥ prakāśanam |
+                        śaucaṃ rāgo laghus taikṣṇyaṃ daśamaṃ cordhvabhāgitā $||5||
+                        Łvāyor aniyamaḥ sparśo vādasthānaṃ svatantratā |
+                        balaṃ śaighryaṃ ca mohaś ca ceṣṭā karmakṛtā bhavaḥ $||6||
+                        Łākāśasya guṇaḥ śabdo vyāpitvaṃ chidratāpi ca |
+                        anāśrayam anālambam avyaktam avikāritā $||7||
+                        Łapratīghātatā caiva bhūtatvaṃ vikṛtāni ca |
+                        guṇāḥ pañcāśataṃ proktāḥ pañcabhūtātmabhāvitāḥ $||8||
+                        Łcalopapattir vyaktiś ca visargaḥ kalpanā kṣamā |
+                        sad asac cāśutā caiva manaso nava vai guṇāḥ $||9||
+                        Łiṣṭāniṣṭavikalpaś ca vyavasāyaḥ samādhitā |
+                        saṃśayaḥ pratipattiś ca buddhau pañceha ye guṇāḥ $||10||.
+        </NOTE>
+
+
+
+<SUBCHAPTER>tattvanirṇayam</SUBCHAPTER>
+<TRSUBCHAPTER>Explaining the Tattvas</TRSUBCHAPTER>
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <TR>Anarthayajña spoke:</TR>
+
+<TEXT> sarvapratyakṣadarśitvaṃ kathaṃ māṃ praṣṭum{ }arhasi|</TEXT>
+        <APP>\va <LEM>sarva°</LEM> \mssALL\mssCaCbCc\msNb; sarvaṃ \msNa\Ed\oo
+                 <LEM>°darśitvaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; °darśītvaṃ \msCb</APP>
+        <APP>\vb <LEM>māṃ</LEM> \mssALL\mssCaCbCc\msNb\Ed; maṃ \msNa</APP>
+        <TR>How can you possibly ask me to reveal everything as directly visible?</TR>
+
+% pṛṣṭhena \msCb
+<TEXT> pṛṣṭena kathanīyo 'smi eṣa me kṛtaniścayaḥ|</TEXT>
+        <APP>\vc <LEM>'smi</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; smī \msCb</APP>
+        <TR>[But] I made a decision that [whenever being] questioned, I am to speak.</TR>
+
+<TEXT> śṛṇu te sampravakṣyāmi tattvasadbhāvam{ }uttamam||</TEXT> 20:2
+        <TR>Listen, I shall teach you the supreme essence of the reality levels/principles (Łtattva$).</TR>
+
+
+
+
+%folioinfo \msCb\ 461.jpg, f.230r
+<SUBCHAPTER>puruṣaśivabrahmā (25)</SUBCHAPTER>
+<TRSUBCHAPTER>The Puruṣa/Śiva/Brahmā (25th)</TRSUBCHAPTER>
+
+<TEXT> nādimadhyaṃ na cāntaṃ ca yan{ }na vedyaṃ surair{ }api|</TEXT>
+        <APP>\va <LEM>°madhyaṃ</LEM> \mssALL\mssCaCbCc\msNa\Ed; °madya \msNb\oo
+                 <LEM>cāntaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb; cāntaś{ }ca \Ed</APP>
+        <APP>\vb <LEM>surair{ }api</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; surer{ }api \msCb</APP>
+        <TR>That which has no beginning, no middle part and no end, 
+                and is not to be known even by the gods,</TR>
+
+<TEXT> atisūkṣmo hy{ }atisthūlo nirālambo nirañjanaḥ||</TEXT> 20:3 
+        <APP>\vc <LEM>hy{ }ati°</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; hy{ }adi° \msCc</APP>
+        <TR>that which is extremely subtle and extremely large, supportless and spotless,</TR>
+        <NOTE>Note that the key terms in this verse (Łādi, madhya, anta, sūkṣma$) are to be found in VSS 1.1ab:
+                <sep/>
+               Ł anādimadhyāntam anantapāraṃ
+                 susūkṣmam avyaktajagatsusāram$.</NOTE>
+
+<TEXT> acintyaś{ }cāprameyaś{ }ca akṣarākṣaravarjitaḥ|</TEXT>
+        <TR>inconceivable, immeasurable, imperishable, devoid of syllables,</TR>
+
+<TEXT> sarvaḥ sarvagato vyāpī sarvam{ }āvṛtya tiṣṭhati||</TEXT> 20:4
+        <APP>\vcd <LEM>(sarvaḥŁ...$ tiṣṭhati)</LEM> \mssCaCbCc\msNa\msNb; \om\ \Ed</APP>
+        <PARAL>\vcd Ł\similar\ \NISVK\ 5.48cd:$
+                        sarvagaḥ sarvato vyāpi sarvam{ }āpūrya tiṣṭhati</PARAL>
+        <TR>that which is everything and everywhere and that which is pervasive, 
+                        and exists covering everything.</TR>
+        % Liṅgapurāṇa: sarvataḥ śrutimaṃl loke sarvamāvṛtya tiṣṭhati।। 88.43 ।।
+
+
+<TEXT> sarvendriyaguṇābhāsaḥ sarvendriyavivarjitaḥ|</TEXT>
+        <APP>\vab <LEM>sarve°Ł...$ varjitaḥ</LEM> \mssCaCbCc\msNa\msNb; \om\ \Ed</APP>
+        <PARAL>\vab Ł\similar\ \MBH\ 6.35.14ab:$ sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam </PARAL>
+        <TR>It appears to have the qualities of all the sense faculties
+                         but is devoid of all sense faculties.</TR>
+                         Agnipurāṇa: 
+381.txt:  94:   sarvendriyaguṇābhāsaṃ sarvendiyavivarjitam ।
+381.txt-  95-   asaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca ।। 381.31 ।।
+
+% -jaḥ is a bit suspicious; I take it as a-jaḥ
+<TEXT> ajarāmarajaḥ śāntaḥ paramātmā śivo 'vyayaḥ||</TEXT> 20:5
+        <APP>\vc <LEM>°jaḥ</LEM> \mssCaCbCc\msNa\msNb; yaḥ \Ed</APP>
+        <TR>It is not subject to ageing, it is immortal and unborn. It is peaceful, it is 
+                the supreme soul, it is undecaying Śiva.</TR>
+        <NOTE>I take Łajarāmarajaḥ$ in Łpāda$ a as Łajaro 'maro 'ajaś ca$.</NOTE>
+
+% go for brahma?
+<TEXT> alakṣyalakṣaṇaḥ svastho brahmā puruṣasaṃjñitaḥ|</TEXT>
+        <APP>\vb <LEM>brahmā</LEM> \msCa\msCb\Ed; brahma \msCc\msNa\msNb</APP>
+        <TR>It is characterised by being unobservable, it is self-abiding, it is Brahmā,
+                        it is called Puruṣa.</TR>
+
+<TEXT> pañcaviṃśaḥ sa vijñeyo janmamṛtyuharaḥ prabhuḥ||</TEXT> 20:6
+        <APP>\vc <LEM>°viṃśaḥ</LEM> \mssCaCbCc\msNb\Ed; °viṃśat \msNaacorr, °viṃśa \msNapcorr\oo 
+                 <LEM>sa vijñeyo</LEM> \mssCaCbCc\msNaacorr\msNb\Ed; sarvajñeyo \msNapcorr</APP>
+        <TR>It is to be known as the twenty-fifth [Tattva], the Lord (Łprabhu$) who destroys death and rebirth.</TR>
+% Viṣṇu is not mentioned
+
+<TEXT> kalākalaṅkanirmukto vyomapañcāśavarjitaḥ|</TEXT>
+        <APP>\va <LEM>°nirmukto</LEM> \mssCaCbCc\msNa\Ed; °lirmukto \msNb</APP>
+        <APP>\vb <LEM>°pañcāśa°</LEM> \mssCaCbCc\msNa\Ed; °pañcasa° \msNb</APP>
+        <NOTE>The term Łpañcavyoman$ elsewhere in the text seem to signify the five gross elements;
+              see CHECK. The fifty Łvyoman$s might mean the fifty sounds/letters of Sanskrit;
+              see CHECK.</NOTE>
+        <TR>He is free of the stain of having parts[?], and is devoid of the fifty voids.</TR>
+% pañcavyoman? what is the 50 voids? Phps the 5 elements x 10 types listed below. Or \msNb?
+
+%index_voc: vyoman as tattva?
+%folioinfo \msM\ 445.jpg lower, f. 38r 
+%folioinfo \Ed\ p.656
+<TEXT> jalapakṣī yathā toyair{ }na lipyeta jale caran|</TEXT>
+        <APP>\vcd <LEM>yathā toyair{ }na</LEM> \msCa\Ed; yathā toyī na \msCbacorr, 
+                        yathā toyer{ }na \msCbpcorr, yathā toyai na \msCc\msNa, yadā toyai nna \msNb</APP>
+        <APP>\vd <LEM>lipyeta</LEM> \mssALL\mssCaCbCc\msNa\msNb; lipyate \Ed\oo
+                 <LEM>jale</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; jalai \msCb</APP>
+        <TR>As a waterbird is not stained by the water while swimming in it,</TR>
+
+<TEXT> tadvad{ }doṣair{ }na lipyeta pāpakarmaśatair{ }api||</TEXT> 20:7
+        <APP>\ve <LEM>°ṣair{ }na</LEM> \mssALL\msCa\msCb\msNa\Ed; °ṣai na \msCc, °ṣai nna \msNb</APP>
+        <TR>similarly [the Puruṣa] is not stained even by hundreds of sinful acts.</TR>
+
+
+
+
+
+
+<SUBCHAPTER>prakṛtiḥ (24)</SUBCHAPTER>
+<TRSUBCHAPTER>Prakṛti (24th)</TRSUBCHAPTER>
+
+%                                           conj
+<TEXT> caturviṃśati yat{ }tattvaṃ prakṛtiṃ viddhi niścayam|</TEXT>
+        <APP>\va <LEM>yat{ }tattvaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb; ya tatvaṃ \msCc, yan{ }tatvaṃ \Ed</APP>
+        <APP>\vb <LEM>prakṛtiṃ viddhi niścayam</LEM> \conj; prakṛtir{ }vidhiniścayaḥ \msCa\msCb\msNa\msNb\Ed, 
+                                                                prakṛti vidhiniścayaḥ \msCc</APP>
+        <TR>Know the twenty-fourth Tattva certainly as Prakṛti.</TR>
+        <NOTE>Understand Łcaturviṃśati$ as Łcaturviṃśaṃ$, and note that Łpāda$ b involves conjectures.
+              For emending Łvidhi$ to Łviddhi$, see Łviddhi$ in 20.12b below.</NOTE>
+% maybe retain niścayaḥ in the sense of iti niścaya (as in MMW)
+
+%index_grammar: cardinal number for ordinal number, Newari?
+
+% gender? metri causa; and two 'sa'
+<TEXT> vikṛtiś{ }ca sa vijñeyas{ }tattvataḥ sa manīṣibhiḥ||</TEXT> 20:8
+        <APP>\vc <LEM>vikṛtiś{ }ca</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; vikṛtiñ{ }ca \msCc</APP>
+        <APP>\vd <LEM>°jñeyas{ }tattva°</LEM> \mssALL\mssCaCbCc\msNa\Ed; °jñeyos{ }tatva° \msNb</APP>
+        <TR>It is in fact to be known as Vikṛti (`Modification') by the wise.</TR>
+
+<TEXT> prakṛtiprabhavāḥ sarve buddhyahaṃkāra-ādayaḥ|</TEXT>
+        <APP>\va <LEM>°bhavāḥ</LEM> \mssALL\mssCaCbCc\msNa\Ed; °bhāvaḥ \msNb</APP>
+        <APP>\vb <LEM>buddhyahaṃkāra-ādayaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb; bubuddhyahaṃkāra ādayaḥ \msCc,
+                                                         buddhyāhaṃkārakādayaḥ \Ed</APP>
+        <TR>All [the other Tattvas below Prakṛti], Buddhi, Ahaṃkāra etc.
+                        originate in Prakṛti.</TR>
+
+%folioinfo \msCc\ 238.jpg f.309v
+<TEXT> vikṛtiṃ pratilīyante bhūmyādi kramaśas{ }tu vai||</TEXT> 20:9
+        <APP>\vc <LEM>vikṛtiṃ</LEM> \mssCaCbCc\msNa\Ed; vikṛti \msNb</APP>
+        <APP>\vd <LEM>kramaśas{ }tu vai</LEM> \msCa\msCb\msNb\Ed; yaḥ kramas{ }tu vai \msNa, kramasaṃs{ }tu vaiḥ \msCc</APP>
+        <TR>Earth etc. [up to Buddhi] dissolve in Vikṛti one by one.</TR>
+
+
+
+<SUBCHAPTER>matiḥ/buddhiḥ (23)</SUBCHAPTER>
+<TRSUBCHAPTER>Mati (Buddhi, intelligence, 23rd)</TRSUBCHAPTER>
+
+<TEXT> matitattva trayoviṃśa dharmādiguṇasaṃyutaḥ|</TEXT>
+        <APP>\vb <LEM>°yutaḥ</LEM> \msCa\msCc\msNa\msNb\Ed; °yutam \msCb</APP>
+        <TR>The Intelligence (Łmatitattva$ [= Buddhi]) is the twenty-third.
+                It possesses qualities such as dharmic.</TR>
+
+%index_grammar: stem form
+
+%                            boddhṛ
+<TEXT> sattvādhikasamutpannaboddhāraṃ viddhi dehinaḥ||</TEXT> 20:10
+        <APP>\vc <LEM>°samutpanna°</LEM> \msCa\msCc\msNa\msNb\Ed; °samutpanno \msCb</APP>
+        <APP>\vd <LEM>°boddhāraṃ</LEM> \eme; °bodhāta \mssCaCbCc\msNb, °boddhātaṃ \msNa, °boddhāta \Ed\oo
+                 <LEM>viddhi</LEM> \eme; vidhi \mssCaCbCc\msNa\msNb\Ed</APP>
+        <NOTE>For my emendation of Łvidhi$ to Łviddhi$, see Łviddhi$ in 20.12b below.</NOTE>
+        <TR>Know it as the perceiver of the soul, produced by an abundance of Sattva.</TR>
+
+
+
+
+%folioinfo \msNa\ 229.jpg upper
+<SUBCHAPTER>ahaṃkāraḥ (22)</SUBCHAPTER>
+<TRSUBCHAPTER>Ahaṃkāra (egoity, individualization, 22nd)</TRSUBCHAPTER>
+
+<TEXT> dvāviṃśati ahaṃkāras{ }tattvam{ }uktaṃ manīṣibhiḥ|</TEXT>
+        <APP>\vb <LEM>uktaṃ</LEM> \msCa\msCb\msNa; ukta \msCc\msNb\Ed</APP>
+        <NOTE>Understand Łdvāviṃśati$ in Łpāda$ a as Łdvāviṃśa$.</NOTE>
+        <TR>The twenty-second Tattva is Ahaṃkāra according to the wise.</TR>
+
+%index_grammar: cardinal number for ordinal number, Newari?
+
+<TEXT> bhūtādi mama pañcāha rajādhikasamudbhavam||</TEXT> 20:11
+        <APP>\vc <LEM>bhūtādi mama pañcāha</LEM> \mssALL\mssCaCbCc\msNa\msNb; bhūtādir{ }nāma pañcāha \Ed</APP>
+        <APP>\vd <LEM>rajā°</LEM> \mssALL\mssCaCbCc\msNa\msNb; rajo° \Ed\oo
+                 <LEM>°dbhavam</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; °dbhavaḥ \msCb</APP>
+        <NOTE>CHECK in classical Sāṃkhya the bhūtādi and tāmasa ahaṃkāra gives birth to the elements!</NOTE>
+        <TR>[This is the Tattva that] says: `The five [gross elements] etc.\ are mine!'
+                       It is produced by an abundance of Rajas.</TR>
+% bhūtādi tamasa... ?
+% pamcāha \msNa 
+
+
+
+<SUBCHAPTER>ākāśaḥ (suṣiratvaṃ) śabdaś{ }ca (21-20)</SUBCHAPTER>
+<TRSUBCHAPTER>Space (hollowness) and Sound (21st--20th)</TRSUBCHAPTER>
+
+
+% REJECT:
+% Nirajan: su-śira in the sense of having su in the beginning, because svānta also means mind (CHECK Amarakośa)
+% amarakosab.txt: (1.4.315) cittaṃ tu ceto hṛdayaṃ svāntaṃ hṛnmānasaṃ manaḥ
+
+<TEXT> ekaviṃśati yat{ }tattvaṃ suṣiraṃ viddhi bho dvija|</TEXT>
+        <APP>\va <LEM>yat{ }tattvaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; ya tatvaṃ \msCc</APP>
+        <APP>\vb <LEM>suṣiraṃ viddhi</LEM> \eme; suśiraṃ viddhi \msCa\msCb\msNa\Ed, susira vṛddhi \msCc, 
+                                                        susiraṃ vṛddhi \msNb\oo
+                 <LEM>dvija</LEM> \mssALL\mssCaCbCc\msNa\Ed; dvijaḥ \msNb</APP>
+        <NOTE>Understand Łekaviṃśati$ in Łpāda$ a as Łekaviṃśa$.</NOTE>
+        <TR>Know the twenty-first Tattva as Hollowness (Łsuṣira$) [= Łākāśa$], O Brahmin.</TR>
+
+%index_grammar: cardinal number for ordinal number, Newari?
+
+<TEXT> śabdātītaṃ suṣiratvaṃ saśabdaguṇalakṣaṇam||</TEXT> 20:12
+        <APP>\vc <LEM>suṣiratvaṃ</LEM> \eme; suśiratvaṃ \mssCaCbCc\msNa\msNb\Ed</APP>
+        <APP>\vd <LEM>°lakṣaṇam</LEM> \mssALL\msCb\msCc\msNa\msNb\Ed; °<UNCL>la</UNCL>\lac1 × ṇam \msCa</APP>
+        <TR>Hollowness is beyond Sound [but] it is characterised by the quality of Sound.</TR>
+        <NOTE>Note that from now on in this chapter, Łguṇa$ is used in the sense of the Łtanmātra$ of Sāṃkhya philosophy
+        and that the word Łtanmātra$ does not occur in the VSS.</NOTE>
+
+%%MMW  guṇa:
+  an attribute of the 5 elements (each of which has its own peculiar quality or qualities as well as organ of sense
+  thus 1. ether has śabda, or sound for its Guṇa and the ear for its organ
+  2. the air has tangibility and sound for its Guṇas and the skin for its organ
+  3. fire or light has shape or colour, tangibility, and sound for its Guṇas, and the eye for its organs
+  4. water has flavour, shape, tangibility, and sound for its Guṇas, and the tongue for its organ
+  5. earth has the preceding Guṇas, with the addition of its own peculiar Guṇa of smell, and the nose for its organ), Mn. i, 20 and 76-78
+  MBh. xii, 6846 ff. [see 12.23.23?]
+  Śakuntalā i, 1:
+        yā sṛṣṭiḥ sraṣṭur ādyā vahati vidhi-hutaṃ yā havir yā ca hotrī
+        ye dve kālaṃ vidhattaḥ śruti-viṣaya-guṇā yā sthitā vyāpya viśvam /
+        yām āhuḥ sarva-bīja-prakṛtir iti yayā prāṇinaḥ prāṇavantaḥ
+        pratyakṣābhiḥ prapannas tanubhir avatu vas tābhir aṣṭābhir īśaḥ // KSak_1.1 //p.2
+  BhP. iii, 5, 35:
+        BhP_03.05.035/1 jyotiṣāmbho 'nusaṃsṛṣṭaṃ vikurvad brahma-vīkṣitam
+        BhP_03.05.035/2 mahīṃ gandha-guṇām ādhāt kāla-māyāṃśa-yogataḥ
+
+Encyclopedia of Indian Philosophies. Vol. 4. Sāṃkhya. ed. Larson and Bhattacharya. p. 121-122:
+``V.M. Bedekar has nicely summarized the differences between this sort of fluid Sāṃkhya and Yoga and later 
+philosophical Sāṃkhya:
+        "(i) In the *Mokṣadharma* Sāṃkhya, there is not always emphasized an absolute and clear-cut dualism as in the classical
+        Sāṃkhya. Many of the teachers of the Sāṃkhya in the *Mokṣadharma* appear generrally to posit, at the apex, one single
+        Principle or entity which overrides the dualism. (ii) The *Mokṣadharma* Sāṃkhya, often, speaks of the doctrine 
+        of the eight Prakṛtis, as against the one Prakṛti of the classical Sāṃkhya. (iii) The doctrine of the *tanmātras*
+        (subtle elements) does not seem to have yet developed. There is, however, a mention of the five objects of
+        senses or the five qualities of the elements. (iv) The teaching regarding the number, place and functions of the
+        phychical faculties like *manas*, *ahaṃkāra*, and *buddhi* does not appear to have been consolidated in the 
+        *Mokṣadharma*. Different teachers have expressed different views on the subject. (v) The origin or the source of
+        of the five senses of knowledge has not been fixed as in the classical Sāṃkhya."   ''
+[See Bedekar. Introduction to the Śāntiparvan. p. ccxliii ]
+
+Larson Classical Sāṃkhya p. 114 on guṇa:
+Moreover, in the Moksadharma the term guna is used in
+a variety of ways as Edgerton, Johnston and others have noticed.
+It frequently appears, of course, in the standard use as "quality"
+of the avyakta or prakrti — e.g., XII. 294,32; 293, 33-34.
+The term appears also, however, in the sense of "quality" or
+"aspect" of the gross elements — e.g., XII 244, 4; 267, 13-15.
+Then, too, the term is used in the sense of vikära or
+"secondary part" — e.g., XII. 295, 13-17; 267, 28-29. 106
+
+p115
+The next two terms — i.e., puru$a and
+ätman — seem to be used interchangeably throughout the epic,
+and they function both as cosmic and individual conceptions. 113
+
+see also p188
+ibid. p.72: "The classical doctrines of *prakṛti*, *satkāryovāda*, *tattvavikāra* and the *tanmātras* are 
+not present in these early forms of Sāṃkhya."
+ibid p73: (j) By the 7th or 8th century A.D., according to Frauwallner, Sāmkhya has seriously declined. After a gap of many
+centuries, Sāmkhya has a kind of renaissance as evidenced in
+the late Sāṃkhyapravacanasūtra and the work of Vijñānabhikṣu,
+Mahādeva and Aniruddha.
+
+p74. (d) Problem of the introduction of tanmātras.
+
+p133 We have no tanmātras as yet.
+
+
+
+Dasgupta vol I. p251
+Keith : no guṇas in the Buddhacarita; p37: "The absence of the fine elements, Tanmātras, from the epic... "
+                 Maitrāyaṇī late with tanmātras
+
+Bakker, Hans and Bisschop, Peter. “Moksadharma 187 and 239–241 Reconsidered.” Asiatische Studien, 1999, vol. 3. pp. 459–72.
+
+Yajñavalkya has tanmātras but also guṇa in that sense
+
+
+JRY mix:
+sparśatanmātrataḥ sparśaguṇayukto marudbhavet JY.1.9.102.2
+rūpatanmātrato rūpaṃ-guṇayuktaḥ saXoṣṇāguḥ JY.1.9.103.1
+
+
+BhP_02.05.025/1 tāmasādapi bhūtādervikurvāṇādabhūn nabhaḥ
+BhP_02.05.025/3 tasya mātrā guṇaḥ śabdo liṅgaṃ yaddraṣṭṛdṛśyayoḥ
+
+mix:
+ākāśavikṛter vāyuḥ śabdasparśaguṇo 'bhavat  /
+vāyoś ca sparśatanmātrāt tejaś cāvir abhūt tataḥ  // MatsP_3.24 //
+
+
+
+
+vimgrep '"sabda.h spar"sa"s ca " results:
+
+
+% in prezi already
+Manu! similar to VSS, guṇa for tanmātra, tanmātra not in the text
+pratibuddhaś ca sṛjati manaḥ sadasadātmakam  // Mn_1.74 //
+manaḥ sṛṣṭiṃ vikurute codyamānaṃ sisṛkṣayā  /
+ākāśaṃ jāyate tasmāt tasya śabdaṃ guṇaṃ viduḥ  // Mn_1.75 //
+ākāśāt tu vikurvāṇāt sarvagandhavahaḥ śuciḥ  /
+balavāñ jāyate vāyuḥ sa vai sparśaguṇo mataḥ  // Mn_1.76 //
+vāyor api vikurvāṇād virociṣṇu tamonudam  /
+jyotir utpadyate bhāsvat tad rūpaguṇam ucyate  // Mn_1.77 //
+jyotiṣaś ca vikurvāṇād āpo rasaguṇāḥ smṛtāḥ  /
+adbhyo gandhaguṇā bhūmir ity eṣā sṛṣṭir āditaḥ  // Mn_1.78 //
+
+Aṣṭāṅgahṛdaya 3.2 CHECK
+śabdaḥ sparśaś ca rūpaṃ ca raso gandhaḥ kramād guṇāḥ |
+khānilāgnyabbhuvām ekaguṇavṛddhyanvayaḥ pare || 2 ||
+
+Caraka:
+Ca.4.1.27cd
+śabdaḥ sparśaśca rūpaṃ ca raso gandhaśca tadguṇāḥ//
+
+Both tanmātra and guṇa in Yājñavalkya:
+buddher utpattir avyaktāt tato 'haṃkārasaṃbhavaḥ /
+tanmātrādīny ahaṃkārād ekottaraguṇāni ca // Yj_3.179 //
+"sabda.h spar"sa"s ca ruupa.m ca raso gandha"s ca tadgu.naa.h /
+yo yasmaan ni.hs.rta"s cai.saa.m sa tasminn eva liiyate // Yj_3.180 // 
+See also Mitākṣarā
+
+MBh 03201013 ff : 24 tattva (no manas), guṇās as in the VSS:
+03201013  vyādha uvāca
+03201013a brāhmaṇā vai mahābhāgāḥ pitaro 'grabhujaḥ sadā
+03201013c teṣāṃ sarvātmanā kāryaṃ priyaṃ loke manīṣiṇā
+03201014a yat teṣāṃ ca priyaṃ tat te vakṣyāmi dvijasattama
+03201014c namaskṛtvā brāhmaṇebhyo brāhmīṃ vidyāṃ nibodha me
+03201015a idaṃ viśvaṃ jagat sarvam ajayyaṃ cāpi sarvaśaḥ
+03201015c mahābhūtātmakaṃ brahman nātaḥ parataraṃ bhavet
+03201016a mahābhūtāni khaṃ vāyur agnir āpas tathā ca bhūḥ
+03201016c śabdaḥ sparśaś ca rūpaṃ ca raso gandhaś ca tadguṇāḥ
+03201017a teṣām api guṇāḥ sarve guṇavṛttiḥ parasparam
+03201017c pūrvapūrvaguṇāḥ sarve kramaśo guṇiṣu triṣu
+03201018a ṣaṣṭhas tu cetanā nāma mana ity abhidhīyate
+03201018c saptamī tu bhaved buddhir ahaṃkāras tataḥ param
+03201019a indriyāṇi ca pañcaiva rajaḥ sattvaṃ tamas tathā
+03201019c ity eṣa saptadaśako rāśir avyaktasaṃjñakaḥ
+03201020a sarvair ihendriyārthais tu vyaktāvyaktaiḥ susaṃvṛtaḥ
+03201020c caturviṃśaka ity eṣa vyaktāvyaktamayo guṇaḥ
+03201020e etat te sarvam ākhyātaṃ kiṃ bhūyo śrotum icchasi
+03202001  mārkaṇḍeya uvāca
+03202001a evam uktaḥ sa vipras tu dharmavyādhena bhārata
+03202001c kathām akathayad bhūyo manasaḥ prītivardhanīm
+03202002  brāhmaṇa
+03202002a mahābhūtāni yāny āhuḥ pañca dharmavidāṃ vara
+03202002c ekaikasya guṇān samyak pañcānām api me vada
+03202003  vyādha uvāca
+03202003a bhūmir āpas tathā jyotir vāyur ākāśam eva ca
+03202003c guṇottarāṇi sarvāṇi teṣāṃ vakṣyāmi te guṇān
+03202004a bhūmiḥ pañcaguṇā brahmann udakaṃ ca caturguṇam
+03202004c guṇās trayas tejasi ca trayaś cākāśavātayoḥ
+03202005a śabdaḥ sparśaś ca rūpaṃ ca raso gandhaś ca pañcamaḥ
+03202005c ete guṇāḥ pañca bhūmeḥ sarvebhyo guṇavattarāḥ
+03202006a śabdaḥ sparśaś ca rūpaṃ ca rasaś cāpi dvijott
+ETC
+
+ BUt also in the Purāṇas, e.g. in the Nāradapurāṇa 42.80 ff
+
+Tanmātras e.g. in the Svacchanda:
+SvaT11:76cd: tanmātrāṇy atha bhūtādes tebhyo bhūtāny ajījanat|| 76||
+SvaT11:77ab: śabdaḥ sparśaśca rūpaṃ ca raso gandhaśca pañcamaḥ|
+SvaT11:77cd: etāni pañca khyātāni tanmātrāṇi krameṇa tu|| 77||
+
+detto in the Parākhya synonyms?:
+śabdaḥ sparśaś ca rūpaṃ ca raso gandhaś ca pañcamaḥ|| 4:106||
+tanmātraśabdaparyāyā mātrā bhūtādisambhavāḥ|
+Goodall here quotes Mṛgendra vidyā 12.5:
+sabdaḥ sparśaś ca rūpaṃ ca raso gandhaś ca pañcamaḥ|
+guṇā-?viśiṣṭās tanmātrās tanmātrapadayojitāḥ|| 5||
+
+
+Śivasaṃhitā: !
+śabdaḥ sparśaśca rūpaṃ ca raso gandhastathaiva ca |
+etat paṃcaguṇā pṛthvī kalpakaiḥ kalpyate'dhunā || 1-74 ||
+
+Īśānagurudevapaddhati 3
+śabdaḥ sparśaśca rūpaṃ ca raso gandhaśca pañcamaḥ |
+tanmātrāṇyeva viṣayā bhūtāderabhavan kramāt || 1-104 ||
+
+BraYā 12:
+        %NE                       i.e. ruupa.m: what is it like?
+        %                                     ta.m   Earth
+        ii"saane tu di"saako.ne nyaset [5] pa~ncagu.naanvitam \veg%12. 4
+
+        %SE
+        %       t.rgu.na~n Fire               rggu.na.m    Water
+        agneye [3] trigu.na.m caiva nai.rtye tu [4] caturgu.nam \dandab
+                        \var{\p agneye~] \corrKiss~; agneya.m \A}
+                        \var{\pp nair.rtye~] \corrKiss~; nai.rtye \A}
+
+        %       SW          CENTRE;  Hatley reads ty, which is possibly the right one
+        [2] dvigu.naa vaayuko.ne tu madhya \att{hy} [1] ekagu.no tathaa \veg%12. 5
+                        \var{\p hy~] \conjKiss~; ty \A}
+        %%Yes, these are the five elements: wind is 2-gu.na,
+        %MBh: 12290015c buddhi.m caturgu.naa.m j~naatvaa tama"s ca trigu.na.m mahat
+        %     12290016a dvigu.na.m ca rajo j~naatvaa sattvam ekagu.na.m puna.h
+
+DhP: tanmātra and 3 guṇas, the same in the Uttarottara and the Śivopaniṣad
+
+MBh 12 (Śāntiparvan) Mokṣadharma = Chapters: 174- (168-?) - 365
+
+Larson Classical Sāṃkhya p19: Garbe: by no means an older form, no preliminary stage of the "classical," that is, the real, pure Samkhya, but
+an unclear, partly pointless mixed philosophy. 66 ; 44ff : Johnston's steps...: 4 (f) the great elements and the objects of the senses
+are replaced in these later speculations by the tanmätras and the gross elements — probably because of influence from Vaiksikas.
+p50 Frauwallner's stage 2 (no tanmātras yet)!
+
+p188: In the older accounts of the tattvas the five gross elements functioned in place of the
+tanmātras, and the remaining five tattvas were the objects of the
+senses, which are left out of the classical Sāmkhya listing.
+
+
+<SUBSUBCHAPTER>śabdaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Sound</TRSUBSUBCHAPTER>
+
+%folioinfo \msCa\ 452.jpg
+<TEXT> saptasvarās{ }trayo grāmā mūrchanās{ }tv{ }ekaviṃśatiḥ|</TEXT>
+        <APP>\va <LEM>grāmā</LEM> \mssALL\mssCaCbCc\msNa\msNb; grāmāḥ \Ed</APP>
+        <APP>\vb <LEM>mūrchanā°</LEM> \mssALL\mssCaCbCc\msNa\Ed; mūrcchānā° \msNb\oo
+                 <LEM>°viṃśatiḥ</LEM> \msCc\Ed; °viṃśati \msCa\msCb\msNa\msNb</APP>
+        <TR>The seven [diatonic musical] notes (Łsvara$), the three basic scales (Łgrāma$),
+                and the twenty-one modal scales (Łmūrchana$);</TR>
+saptasvarāstrayo grāmā mūrchanās tv ekaviṃśatiḥ  /
+mama priyakaraṃ divyaṃ nṛtyaṃ gītaṃ ca yoginā  // RKS_101.15 // 
+Svacch...
+
+
+% tānā-m-
+<TEXT> tānā{-}m{-}ekonapañcāśac{ }chabdabhedas{ }tadādayaḥ||</TEXT> 20:13
+        <APP>\vc <LEM>°kona°</LEM> \msCa\Ed; °kūna° \msCb\msCc\msNa\msNb</APP>
+        <TR>the forty-nine hexatonic and pentatonic scales (Łtāna$): the classification of Sound 
+                                includes these and other [classes].</TR>
+
+<TEXT> evam{ }ādīny{ }anekāni svarabhedā dvijottama|</TEXT>
+        <APP>\vb <LEM>°bhedā</LEM> \mssALL\mssCaCbCc\msNa\msNb; °bhedān \Ed\oo
+                 <LEM>°ttama</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; °ttamaḥ \msCc</APP>
+        <TR>These and many other are the classes of sounds, O Brahmin.</TR>
+
+<TEXT> gāndharvasvaratattvajñair{ }munibhiḥ samudāhṛtam||</TEXT> 20:14
+        <APP>\vc <LEM>gāndharvasvaratattva°</LEM> \mssALL\msCb\msNa\msNb\Ed; gāndharvvāsuratatva° \msCa,
+                                                 gandharvvāsurastatva° \msCc</APP>
+        <APP>\vcd <LEM>°jñair{ }muninibhiḥ</LEM> \mssALL\msCa\msCb\msNa\Ed;
+                                                 °jñair{ }munibhi \msCc, °jñai munibhiḥ \msNb</APP>
+        <TR>[This] has been declared by the experts on musical notes.</TR>
+
+<TEXT> veṇumurajatantrīṇāṃ dundubhīnāṃ svanāni ca|</TEXT>
+        <APP>\va <LEM>°tantrīṇāṃ</LEM> \mssALL\mssCaCbCc\msNa\Ed; °tantīnāṃ \msNb</APP>
+        <APP>\vb <LEM>dundubhīnāṃ</LEM> \mssALL\mssCaCbCc\msNa\Ed; dundubhīnā \msNb\oo
+                 <LEM>svanāni</LEM> \mssALL\msCb\msCc\msNa\msNb\Ed; stanāni \msCa</APP>
+        <TR>[Other sounds include] the sounds of flutes, tambourines, lutes, kettle-drums,</TR>
+
+<TEXT> śaṅkhakāhalakāṃsyānāṃ śabdāni vividhāni ca||</TEXT> 20:15
+        <APP>\vcd <LEM>°kāhalakāṃsyānāṃ śabdāni</LEM> \msNa\msNb\Ed; °kāhalakāṃsyā<UNCL>nāṃ</UNCL> \lac2 ×× ni \msCa, 
+                                °kāhalakāsyānāṃ śabdāni \msCb, °kāṃsyānāṃ śabdāni \msCc</APP>
+        <TR>conch-shells, bass-drums and gongs.</TR>
+
+
+<SUBSUBCHAPTER>ākāśaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Space</TRSUBSUBCHAPTER>
+
+% 10 ākāśadhātu 
+% ma-vipulā
+<TEXT> ākāśadhātu viprendra śṛṇu vakṣyāmi te daśa|</TEXT>
+        <APP>\va <LEM>°dhātu</LEM> \mssALL\msCb\msCc\msNa\msNb\Ed; °dhātuṃ \msCa</APP>
+        <TR>Listen, O excellent Brahmin, I shall teach you the ten elements (Łdhātu$) of space.</TR>
+
+%index_grammar: singular after numbers, Newari
+
+% what is śaṅkhala?
+<TEXT> pāyūpasthodara kaṇṭha śaṅkhalau mukha nāsikau||</TEXT> 20:16
+        <APP>\vc <LEM>°dara</LEM> \mssALL\mssCaCbCc\msNa\msNb; °daraḥ \Ed</APP>
+        <APP>\vd <LEM>śaṅkhalau</LEM> \mssALL\mssCaCbCc\msNa\msNb; śrotau ca \Ed</APP>
+        <TR>[Space is present in the following ten bodily locations:] 
+                the anus, the sexual organs, the stomach, the neck, the two ears[?], the mouth, the two
+                                        nostrils,</TR>
+
+<TEXT> hṛdiṃ ca daśamaṃ jñeyaṃ deha ākāśasambhavaḥ|</TEXT>
+        <APP>\va <LEM>hṛdiṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb; hṛdiś \Ed\oo
+                 <LEM>daśamaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; daśama \msCc</APP>
+        <TR>and the tenth, the [cavity of the] heart. The body originates in space.</TR>
+
+%index_grammar: stem hṛdi
+
+<TEXT> punar{ }anyat{ }pravakṣyāmi tac{ }chṛṇuṣva dvijottama||</TEXT> 20:17
+        <APP>\vc <LEM>anyat{ }pra°</LEM> \mssCaCbCc\Ed; anyaṃ pra° \msNa, anya pra° \msNb</APP>
+        <APP>\vd <LEM>dvijottama</LEM> \mssCaCbCc\msNa\Ed; jijottama \msNb</APP>
+        <TR>Next I shall teach you something else. Listen to it, O excellent Brahmin.</TR>
+
+%folioinfo \msNb\ 73.jpg lower
+% 10 ākāśadhātu-guṇas including the above śabda
+<TEXT> daśa dhātuguṇā jñeyāḥ pañcabhūtaḥ pṛthak{ }pṛthak|</TEXT>
+        <APP>\vb <LEM>°bhūtaḥ</LEM> \msCa\msCc\msNa\msNb\Ed; °bhūta \msCb</APP>
+        <TR>Ten element-guṇas (Łdhātuguṇa$) are to be known for each of the five elements (Łbhūta$).</TR>
+
+<TEXT> ākāśasya guṇāḥ śabdo vyāpitvaṃ chidratāpi ca||</TEXT> 20:18
+        <APP>\vc <LEM>ākāśasya</LEM> \msCb\msCc\msNa\msNb\Ed; ākāśa\lac1 × \msCa</APP>
+        <APP>\vd <LEM>vyāpitvaṃ</LEM> \msCa\msCc\msNa\msNb\Ed; vyāpitvāṃ \msCb</APP>
+        <PARAL>\vcd Ł \similar\ MBh 12.247.7ab:$ākāśasya guṇaḥ śabdo vyāpitvaṃ chidratāpi ca</PARAL>
+        <TR>The qualities of Space are Sound, pervasion and `perforatedness' [being pervaded],</TR>
+
+<TEXT> anāśrayanirālambam{ }avyaktam{ }avikāritā|</TEXT>
+        <TR>its being supportless, independent and unmanifest, invariableness,</TR>
+
+<TEXT> apratīghātitā caiva bhūtatvaṃ prakṛtāni ca||</TEXT> 20:19
+        <APP>\vc <LEM>apratīghātitā</LEM> \msCa\msNa\msNb\Ed; apratīghātatā \msCb\msCc</APP>
+        <TR>not being restrainable, being an element, and ...,  [?].</TR>
+        <PARAL>\vo Ł \similar\ \MBH\ 12.247.7cd--8ab:$
+                         anāśrayam{ }anālambam{ }avyaktam{ }avikāritā||
+                         apratīghātatā caiva bhūtatvaṃ vikṛtāni ca|</PARAL>
+
+% there are ten guṇas of ākāśa??!
+
+
+
+<SUBCHAPTER>vāyuḥ sparśaś{ }ca (19-18)</SUBCHAPTER>
+<TRSUBCHAPTER>Wind and Touch (19th--18th)</TRSUBCHAPTER>
+
+<TEXT> ākāśadhātor{ }viprendra tato vāyusamudbhavaḥ|</TEXT>
+        <APP>\va <LEM>°dhātor{ }vi°</LEM> \msCb; °dhāto vi° \msCa\msCc\msNa\msNb\Ed</APP>
+        <TR>The birth of Wind is then from the Space Łdhātu$.</TR>
+
+<TEXT> śabdapūrvaguṇaṃ gṛhya vāyoḥ sparśaguṇaḥ smṛtaḥ||</TEXT> 20:20
+        <APP>\vc <LEM>śabda°</LEM> \mssALL\mssCaCbCc\msNa\Ed; śabdaḥ \msNb\oo
+                 <LEM>°pūrva°</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; °pūrvaṃ \msCb</APP>
+        <TR>Together with the previous Sound Łguṇa$, Wind has Touch as its guṇa.</TR>
+
+<TEXT> śabda pūrvaṃ mayākhyātaṃ śṛṇu sparśaṃ dvijottama|</TEXT>
+        <APP>\va <LEM>pūrvaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; pūrva \msCc</APP>
+        <APP>\vb <LEM>sparśaṃ dvijottama</LEM> \msCc\msNa; sparśa\lac1 × jottama \msCa, sparśaṃ dvijottamaḥ \msCb,
+                                                        sparśa dvijottama \msNb\Ed</APP>
+        <TR>I have already described Sound, listen to Touch, O excellent Brahmin.</TR>
+
+% 12 vāyuguṇas
+<TEXT> kaṭhinaś{ }cikkaṇaḥ ślakṣṇo mṛdusnigdhakharadravāḥ||</TEXT> 20:21
+        <APP>\vc <LEM>cikkaṇaḥ</LEM> \corr; cikkanaḥ \msCa\msCb\msNa\msNb, cikkalaḥ \msCc, cikkaraḥ \Ed</APP>
+        <APP>\vd <LEM>°snigdha°</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; °śnidha° \msCb</APP>
+        <PARAL>\vcd Ł\similar\ \MBH\ 12.177.34ab:$ kaṭhinaś{ }cikkaṇaḥ ślakṣṇaḥ picchalo mṛdudāruṇaḥ</PARAL>
+        <TR>Hard, smooth, slippery, soft, sticky, sharp, fluid,</TR>
+
+%folioinfo \msM\ 446.jpg upper, f. 38v 
+<TEXT> karkaśaḥ paruṣas{ }tīkṣṇaḥ śītoṣṇa daśa ca dvayam|</TEXT>
+        <APP>\va <LEM>paruṣas{ }tīkṣṇaḥ</LEM> \msCb\msNb; paruṣas{ }trīkṣṇaś \msCa, 
+                                tīkṣṇaḥ \msNaacorr, paruṣā tīkṣṇaḥ \msNapcorr, paruṣas{ }tīkṣṇa \msCc\Ed</APP>
+        <APP>\vb <LEM>dvayam</LEM> \msNa; dvaya \msCa\msCc\msNb\Ed, dvayaḥ \msCb</APP>
+        <TR>rough, rugged, pointed[?], cold, hot: these are [the] twelve [Łvāyuguṇa$s].</TR>
+
+%lacuna_start: msCc
+<TEXT> iṣṭāniṣṭadvayasparśa vapuṣā parigṛhyate||</TEXT> 20:22
+        <APP>\vc <LEM>°dvaya°</LEM> \mssCaCbCc\msNa\Ed; °dvayo \msNb</APP>
+        <APP>\vd <LEM>°gṛhyate</LEM> \msCa\msNa\msNb\Ed; °gṛhate \msCb</APP>
+        <PARAL>\vc ŁFolio 309v in \msCc\ ends with$ iṣṭāniṣṭadvaya Łand the next folio is missing.
+                  \msCc\ resumes on folio 311r with 20.50c $(mānsañ{ }ca medañ{ }ca)</PARAL>
+        <TR>It is the body that senses both pleasant and unpleasant touches.</TR>
+
+%folioinfo \msCb\ 462.jpg, f.230v
+% \msCc\ missing folio
+% 10 prāṇas (vāyudhātus?) 
+<SUBSUBCHAPTER>prāṇāḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The vital breaths</TRSUBSUBCHAPTER>
+
+<TEXT> prāṇo 'pānaḥ samānaś{ }ca udāno vyāna eva ca|</TEXT>
+        <APP>\va <LEM>'pānaḥ</LEM> \mssALL\msCa\msNa\Ed; pāna° \msCb\msNb</APP>
+        <PARAL>\vab Ł= Dharmaputrikā 4.16ab$</PARAL>
+        <TR>Prāṇa, Apāna, Samāna, Udāna and Vyāna,</TR>
+                This section is very closely parallel to Agnipurāṇa 214.5 ff !!!
+
+<TEXT> nāgakūrmo 'tha kṛkaro devadatto dhanaṃjayaḥ||</TEXT> 20:23
+        <APP>\vc <LEM>nāga°</LEM> \mssALL\msCb\msNa\msNb\Ed; nāma° \msCa\oo
+                 <LEM>kṛkaro</LEM> \mssALL\msCa\msCb\msNa\msNb; kṛkalo \Ed</APP>
+        <TR>Nāga, Kūrma, Kṛkara, Devadatta, Dhanaṃjaya:</TR>
+        <PARAL>\vo Ł The next XX verses are parallel to a
+                         passage in the Bṛhatkālottara (NGMPP Reel No.\ B 29/59 Manuscript No.\ pra - 89):$
+        prāṇopānaḥ samānaś{ }ca udāno vyāna eva ca||
+        nāgaḥ kurmodhva kṛkaro devadattadhanaṃyayau|
+        prāṇas{ }tu prathamo vāyur{ }daśānām{ }api sa prabhuḥ||
+        prāṇaḥ prāṇamayaḥ prāṇa visargāpūraṇaṃ prati|
+        nityam{ }āpūrayaty{ }eṣa prāṇinām{ }urasi sthitaḥ||
+        niśvāsocchvāsakāmais{ }tu prāṇo jīvasamāśritaḥ|
+        prayāṇaṃ kurute yasmāt{ }tasmāt{ }prāṇa prakīrtitaḥ||
+        apānasahāpānas{ }tu āhāraṃ ca nṛṇām{ }adhaḥ|
+        mūtraśukravahovāyur{ }apānas{ }tena kīrtitaḥ||
+        pītaṃ bhakṣitam{ }āghrātaṃ raktapitakaphānilaṃ|
+        samaṃ nayati mātreṣu samāno nāma mārutaḥ||
+        spadaṃyabhyadharaṃ vaktraṃ netragātra prakopanaḥ|
+        udvejayati marmāṇi udāto nāma mārutaḥ||
+        vyāno vināmayatyaṃgaṃ vyāno vyādhiprakopakaḥ|
+        prītecināsī kathito vāddhikyāt vyāna ucyate||
+        Ł...
+         cf.\ also Sārdhatriśatikālottara, Agnipurāṇa and Dīpikā by Aghoraśivācārya on the Mṛgendra $ </PARAL>
+% purana/linga-puranam/01/008.txt:prāṇo'pānaḥ samānaśca udāno vyāna eva ca।। 8.61 ।।
+% dharmaputrika_kafleḍn:prāṇo'pānaḥ samānaśca udāno vyāna eva ca|%
+
+
+
+%folioinfo \Ed\ p.657
+<TEXT> daśa vāyupradhānaite kīrtitā dvijasattama|</TEXT>
+        <APP>\vb <LEM>kīrtitā</LEM> \mssALL\msCb\msNa\msNb; <UNCL>kīrtti</UNCL>tā \msCa, kīrtitāḥ \Ed</APP>
+        <TR>These are said to be the ten main Winds, O excellent Brahmin.</TR>
+
+%index_grammar: stem form / double sandhi
+%index_grammar: singular after numbers, Newari
+
+<TEXT> dhanaṃjayo bhaved{ }ghoṣo devadatto vijṛmbhakaḥ||</TEXT> 20:24
+        <APP>\vc <LEM>bhaved{ }ghoṣo</LEM> \mssALL\msCa\msCb\msNb\Ed; bhaved{ }yoṣo \msNa</APP>
+        <TR>Dhanaṃjaya is [responsible for] noise, Devadatta [for] yawning,</TR>
+
+<TEXT> kṛkaraḥ kṣudhakṛn{ }nityaṃ kūrmonmīlitalocanaḥ|</TEXT>
+        <APP>\va <LEM>kṛkaraḥ</LEM> \mssALL\msCa\msCb\msNa\msNb; kṛkara \Ed\oo
+                 <LEM>°kṛn{ }nityaṃ</LEM> \mssALL\msCa\msNa\msNb\Ed; kṛn{ }nitya \msCb</APP>
+        <APP>\vb <LEM>kūrmonmīlitalocanaḥ</LEM> \mssALL\msCa\msNa\Ed; karmolmīnalocanaḥ \msCb, kūrmonmīnalocanaḥ \msNb</APP>
+        <TR>Kṛkara constantly causes hunger, Kūrma is [is responsible for] the opening of the eyes.</TR>
+        <NOTE>Kṛkara in other texts usually performs sneezing (Łkṣut$), here
+                it seems that Łkṣudha$° stands for Łkṣudhā$° metri causa.</NOTE>
+
+%index_grammar: shortening, kṣudha metri causa for kṣudhā
+%index_grammar: stem form / double sandhi
+
+<TEXT> nāga udghāṭanaṃ puṣyaṃ karoti satataṃ dvija||</TEXT> 20:25
+        <APP>\vc <LEM>puṣyaṃ</LEM> \mssALL\msCa\msCb\msNa\Ed; punsāṃ \msNb</APP>
+        <APP>\vd <LEM>dvija</LEM> \mssALL\msCa\msCb\msNa\Ed; dvijaḥ \msNb</APP>
+        <TR>Nāga constantly opens [up things] and nourishes, O Brahmin.</TR>
+
+% number!
+<TEXT> prāṇaḥ śvasati bhūtānāṃ niśvasanti ca nityaśaḥ|</TEXT>
+        <APP>\va <LEM>prāṇaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb; prāṇāḥ \Ed</APP>
+        <APP>\vb <LEM>nityaśaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb; nitya yaḥ \Ed</APP>
+        <TR>Prāṇa makes living beings inhale and exhale.</TR>
+
+<TEXT> prayāṇaṃ kurute yasmāt{ }tasmāt{ }prāṇa iti smṛtaḥ||</TEXT> 20:26
+        <APP>\vc <LEM>prayāṇaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb; prayāṇā \Ed</APP>
+        <TR>It is called Prāṇa because it sets [beings] in motion (Łprayāṇaṃ kurute$).</TR>
+% prayāṇaṃ kurute yasmāttasmātprāṇaḥ prakīrtitaḥ ॥8            purana/agni-puranam/214.txt
+
+% manujām for pl gen, or emend to nṛṇām (Bṛhatkālottara) aiśa
+<TEXT> apanayaty{ }apānas{ }tu āhāraṃ manujām{ }adhaḥ|</TEXT>
+        <APP>\va <LEM>apanaya°</LEM> \msCb\msNa\msNb\Ed; a<UNCL>pa</UNCL> \lac1 × ya° \msCa</APP>
+        <APP>\vb <LEM>āhāraṃ manujām{ }adhaḥ</LEM> \msCa\msCb; āhāraṃ manujādhamaḥ \msNa,
+                                        āhāra manujādhamaḥ \msNb, āhāraṃ manujāpavaḥ \Ed</APP>
+        <TR>Apāna takes people's[?] food down.</TR>
+
+<TEXT> śukramūtravaho vāyur{ }apānas{ }tena kīrtitaḥ||</TEXT> 20:27
+        <APP>\vd <LEM>°pānas{ }tena</LEM> \msCa\msNa\msNb\Ed; °vānas{ }tena \msCb</APP>
+        <TR>It gets rid of semen and urine, that is why it is called
+                        Apāna [the 'down and out' Wind].</TR>
+% mūtraśukravaho vāyurapānastena kīrtitaḥ ॥9            purana/agni-puranam/214.txt
+
+<TEXT> pītabhakṣitam{ }āghrātaṃ raktapittakaphānilam|</TEXT>
+        <APP>\va <LEM>°ghrātaṃ</LEM> \msCa\msCb\msNb\Ed; °ghrāti \msNa</APP>
+        <APP>\vb <LEM>raktapitta°</LEM> \mssALL\msCa\msCb\msNa\Ed; raktaḥ pittaḥ \msNb</APP>
+
+%folioinfo \msNa\ 229.jpg lower
+% \msNa saman
+<TEXT> samaṃ nayati gātreṣu samāno nāma mārutaḥ||</TEXT> 20:28
+        <TR>The Wind called Samāna brings into equilibrium that which has been drunk,
+                the food that has been eaten, the blood [and the three humours] Pitta,
+                        Kapha and Anila.</TR>
+               samannayati gātreṣu samāno nāma mārutaḥ ॥10            purana/agni-puranam/214.txt
+
+% verse 20.30:
+<TEXT> spandayaty{ }adharaṃ vaktraṃ netragātraprakopanam|</TEXT>
+        <APP>\vo <LEM>(spandayaty{ }adharaṃŁ...$ mārutaḥ)</LEM> \mssALL\msCa\msCb\msNa\Ed; \om\ \msNb</APP>
+        <APP>\va <LEM>°dharaṃ</LEM> \mssALL\msCa\msCb\msNa; \om\ \msNb, °dhara° \Ed\ \unmetr</APP>
+        <APP>\vb <LEM>°gātrapra°</LEM> \mssALL\msCa\msNa\Ed; °gātram{ }pra° \msCb, \om\ \msNb</APP>
+                spandayatyadharaṃ vaktraṃ netrarāgaprakopanaṃ ।            purana/agni-purana
+
+<TEXT> udvejayati marmāṇi udāno nāma mārutaḥ||</TEXT> 20:29
+        <APP>\vc <LEM>marmāṇi</LEM> \mssALL\msCa\msCb\msNa; \om\ \msNb, karmāṇi \Ed</APP>
+        <APP>\vd <LEM>udāno nāma</LEM> \mssALL\msCb\msNa\Ed; <UNCL>u</UNCL>\lac4 ×××× \msCa, \om\ \msNb</APP>
+        <TR>The Wind called Udāna causes the lower lip and the mouth to tremble,
+                 it irritates the eyes and the limbs and
+                 it disturbs the vital organs.</TR>
+
+%folioinfo \msCa\ 453.jpg
+<TEXT> vyāno vināmayaty{ }aṅgaṃ vyaṅgo vyādhiprakopanaḥ|</TEXT>
+        <APP>\va <LEM>vyāno vi°</LEM> \mssALL\msCa\msCb\msNa\Ed; vyāno pi \msNb</APP>
+        <APP>\vb <LEM>°kopanaḥ</LEM> \mssALL\msCa\msCb\msNa\Ed; °kopamaḥ \msNb</APP>
+        <TR>Vyāna bends the limbs, [it makes the body] deformed, [it causes] illness and irritaion.</TR>
+
+% unmetr (two short)
+<TEXT> prītivināśakathitaṃ vārdhikyaṃ vyāna ucyate||</TEXT> 20:30
+        <APP>\vc <LEM>prītivi°</LEM> \mssALL\msCa\msCb\msNa; prītir{ }vi° \msNb\Ed</APP>
+        <TR>It is said to destroy pleasure ... is called Vyāna.</TR>
+
+<TEXT> daśavāyuvibhāge ca kīrtito me dvijottama|</TEXT>
+        <APP>\vb <LEM>me</LEM> \mssALL\msCa\msCb\msNa\msNb; ye \Ed</APP>
+        <TR>[Everything] concerning the section on the ten Winds has been
+                        taught by me, O excellent Brahmin.</TR>
+
+<TEXT> daśavāyuguṇāṃś{ }cānyāṃ chṛṇu kīrtayato mama||</TEXT> 20:31
+        <APP>\vcd <LEM>°vāyuguṇāṃś{ }cānyāṃ śṛṇu</LEM> \mssALL\msCa\msCb\msNa; °vāyuguṇāś{ }cānyaṃ śṛṇu \msNb,
+                        °dhātuguṇāś{ }cānyac{ }chṛṇu \Ed</APP>
+        <APP>\vd <LEM>kīrtayato mama</LEM> \mssALL\msCa\msNa\msNb; kīrttiyato mama \msCb, kīrtaya me dvija \Ed</APP>
+        <TR>[Now] listen as I teach you the ten other Łguṇa$s of Wind.</TR>
+
+<TEXT> vāyor{ }aniyama sparśo vādasthānaṃ svatantratā|</TEXT>
+        <APP>\va <LEM>°niyamaḥ</LEM> \corr; °niyama \msCa\msCb\msNa\msNb\Ed</APP>
+        <APP>\vb <LEM>vādasthānaṃ</LEM> \eme; vāta\lac1 × ne \msCa, vātasthāne \msCb\msNa\msNb\Ed</APP>
+        <TR>The Wind has [these Łguṇa$s]: unsettledness, touch, presence in speech,
+                        independence,</TR>
+
+<TEXT> balaṃ śīghraṃ ca mokṣaṃ ca ceṣṭā karmātmanā bhavaḥ||</TEXT> 20:32
+        <PARAL>\vo Ł\similar\ MBh 12.247.6:$
+                        vāyor{ }aniyamaḥ sparśo vādasthānaṃ svatantratā|
+                        balaṃ śaighryaṃ ca mohaś{ }ca ceṣṭā karmakṛtā bhavaḥ||</PARAL>
+        <NOTE>While I hesitate to emend this verse to fully correspond to the 
+                very similar one in the MBh, my translation partly reflects the latter.</NOTE>
+        <TR>strength, quickness, release, movement and performing actions and existence.</TR>
+
+
+
+
+
+<SUBCHAPTER>tejo rūpaś{ }ca (17-16)</SUBCHAPTER>
+<TRSUBCHAPTER>Fire and Form (17th-16th)</TRSUBCHAPTER>
+
+<TEXT> vāyunāpi sṛjas{ }tejas{ }tadrūpaṃ guṇam{ }ucyate|</TEXT>
+        <APP>\vab <LEM>sṛjas{ }tejas{ }ta°</LEM> \mssALL\msCa\msCb\msNa\Ed; sṛjatvejatta° \msNb</APP>
+        <APP>\vb <LEM>°rūpaṃ guṇa°</LEM> \mssALL\msCa\msCb\msNa\msNb; °rūpaguṇa° \Ed</APP>
+        <NOTE>Understand Łsṛjas$ as Łsṛṣṭas$ and Łtadrūpaṃ guṇam ucyate$ as Łtadguṇaṃ rūpam ucyate$</NOTE>
+        <TR>Fire is created by Wind. Its Łguṇa$ is Form.</TR>
+
+<TEXT> śabdasparśasama jyotis{ }triguṇaṃ samudāhṛtam||</TEXT> 20:33
+        <APP>\vcd <LEM>°jyotis{ }tri°</LEM> \mssALL\msCa\msNa\msNb\Ed; °jyotitri° \msCb</APP>
+        <TR>There are three guṇas of Fire together with Sound and Touch.</TR>
+        <NOTE>I understand Łśabdasparśasama jyotis triguṇaṃ$ as Łśabdasparśena saha jyotis triguṇaṃ$.</NOTE>
+
+% verse 20.35:
+<TEXT> śabdaḥ sparśaḥ purā proktaḥ śṛṇu rūpaguṇaṃ tataḥ|</TEXT>
+        <APP>\va <LEM>śabdaḥ</LEM> \msNa\Ed; śabda° \msCa\msCb\msNb\oo
+                 <LEM>proktaḥ</LEM> \mssALL\msCa\msNa\msNb; proktāḥ \msCb\Ed</APP>
+        <APP>\vb <LEM>rūpaguṇaṃ</LEM> \mssALL\msCa\msCb\msNb\Ed; rūpaṃ guṇaṃ \msNa</APP>
+        <TR>Sound and Touch have been discussed before, therefore [now] hear about the Form guṇa.</TR>
+
+%  rūpaguṇas + 10 tejodhātus 
+<TEXT> hrasvaṃ dīrgham{ }aṇu sthūlaṃ vṛttamaṇḍalam{ }eva ca||</TEXT> 20:34
+        <APP>\vc <LEM>hrasvaṃ</LEM> \msCa\msNa; hrasva° \msCb\msNb\Ed\oo
+                 <LEM>dīrgham{ }aṇu</LEM> \mssALL\msCa\msCb\msNa; °dīrgham{ }anu \msNb, °dīrghalaghu \Ed\oo
+                 <LEM>sthūlaṃ</LEM> \mssALL\msCa\msCb\msNa\Ed; sthūla \msNb</APP>
+        <APP>\vd <LEM>°maṇḍalam{ }eva</LEM> \msCa\msNa\Ed; °maṇḍam{ }eva \msCb</APP>
+        <TR>Short, tall, minute, gross and circular,</TR>
+
+<TEXT> caturasraṃ dvirasraṃ ca tryasraṃ caiva ṣaḍasrakam|</TEXT>
+        <APP>\va <LEM>caturasraṃ dvirasraṃ</LEM> \msCb\msNa;
+                                 caturaśran{ }dvi\lac1 × śraṃ \msCa,
+                                 caturasradvirasraś \Ed</APP>
+        <APP>\vb <LEM>tryasraṃ</LEM> \mssALL\msCa\msCb\msNa; tisraś \Ed</APP>
+        <TR>square, ???, triangle and hexagon.</TR>
+
+<TEXT> śuklaḥ kṛṣṇas{ }tathā rakto nīlaḥ pīto 'ruṇas{ }tathā||</TEXT> 20:35
+        <APP>\vc <LEM>śuklaḥ</LEM> \mssALL\msCa\msCb\msNa; śuklaṃ \Ed</APP>
+        <APP>\vd <LEM>nīlaḥ</LEM> \mssALL\msCa\msCb\msNa; nīla° \Ed</APP>
+        <PARAL>\vcd Ł= \MBH\ 12.177.32cd$ </PARAL>
+        <TR>Light, dark, red, blue, yellow, brown,</TR>
+
+<TEXT> śyāmaḥ piṅgala babhruś{ }ca nava raṅgāḥ prakīrtitāḥ|</TEXT>
+        <APP>\va <LEM>śyāmaḥ piṅgala babhruś{ }ca</LEM> \Ed; 
+                        śyāmaḥ piṅgalo babhruś{ }ca \msCa\msCb,
+                       śyāmaś{ }ca piṅgalo babhruś{ }ca \msNaacorr,
+                       śyāma piṅgalo bhruś{ }ca \msNapcorr</APP>
+        <APP>\vb <LEM>raṅgāḥ</LEM> \mssALL\msCa\msCb\msNa; raṅgaḥ \Ed</APP>
+        <TR>dark-blue, golden, deep-brown: these are the nine colours.</TR>
+
+<TEXT> navadhā navaraṅgānām{ }ekāśīti guṇāḥ smṛtāḥ||</TEXT> 20:36
+        <APP>\vd <LEM>smṛtāḥ</LEM> \mssALL\msCa\msCb\msNa; smṛtaṃ \Ed</APP>
+        <TR>The ninefold guṇas of the nine colours make up 81.</TR>
+
+<TEXT> tejodhātu daśa brūmaḥ śṛṇuṣvāvahito bhava|</TEXT>
+        <APP>\va <LEM>tejodhātu daśa</LEM> \mssALL\msCa\msCb\msNa; 
+                                tejodhātur{ }daśaṃ \Ed</APP>
+        <TR>I am telling you the ten Fire dhātus, listen and be attentive.</TR>
+
+%index_grammar: singular after numbers, Newari
+
+%folioinfo \msM\  breaks off after tejodhā° (446.jpg upper, f. 38v)
+%folioinfo \msM\  446.jpg lower is a jump to 22.35
+%              for  īkṣaṇa?
+<TEXT> kāmas{ }tejo kṣaṇaḥ krodho jaṭharāgniś{ }ca pañcamaḥ||</TEXT> 20:37
+        <APP>\vc <LEM>tejo kṣaṇaḥ</LEM> \msCa; tejaḥ kṣaṇaḥ \msCb, teja kṣaṇaḥ \msNa, tejekṣaṇaḥ \Ed</APP>
+        <APP>\vd <LEM>jaṭharāgniś{ }ca</LEM> \msCb\msNa\Ed; jaṭha\lac1 × gniś{ }ca \msCa</APP>
+        <TR>Desire, heat, sight, anger, the digestive fire as the fifth,</TR>
+
+<TEXT> jñānaṃ yogas{ }tapo dhyānaṃ viśvāgnir{ }daśamaḥ smṛtaḥ|</TEXT>
+        <APP>\vb <LEM>viśvāgnir{ }da°</LEM> \msCa\msCb\Ed; viśvāgni da° \msNa</APP>
+        <TR>knowledge, yoga, penance, meditation, the fire of the universe[?] as the tenth.</TR>
+
+<TEXT> daśa tejoguṇāṃś{ }cānyān{ }pravakṣyāmi dvijottama||</TEXT> 20:38
+        <APP>\vc <LEM>daśa tejoguṇāṃś{ }cā°</LEM> \msCa\msNa; daśa tejoguṇāś{ }cā° \msCb, daṃśatejoguṇāś{ }cā° \Ed</APP>
+        <TR>I shall teach you the other ten Łguṇa$s of Fire, O excellent Brahmin.</TR>
+
+<TEXT> agner{ }durdharṣatāpnoti tāpapākaprakāśanaḥ|</TEXT>
+        <APP>\va <LEM>agner{ }durdharṣatāpnoti</LEM> \conj; agner{ }durddhaṣatāpnoti \msCa,
+                                agne durddhaṣatāpnoti \msCb\msNa, agner{ }durdharṣavāpnoti \Ed</APP>
+
+<TEXT> śaucaṃ rāgo laghus{ }taikṣṇyaṃ daśamaṃ cordhvabhāgitā||</TEXT> 20:39
+        <APP>\vc <LEM>rāgo</LEM> \mssALL\msCa\msCb\msNa; gaṅgā \Ed\oo
+                 <LEM>laghus{ }taikṣṇyaṃ</LEM> \corr; laghus{ }taikṣṇaṃ \msCa\msNa\Ed, laghus{ }tīkṣṇaṃ \msCb</APP>
+        <APP>\vd <LEM>daśamaṃ cordhvabhāgitā</LEM> \eme; daśapañcorddhabhāṣitam \msCa, daśamaṃ cordhabhāṣitam \msCb\msNa, 
+                                                                daśamaś{ }cordhabhāṣitam \Ed</APP>
+        <PARAL>\vcd Ł \similar\ MBh 12.247.5cd:$ 
+                agner{ }durdharṣatā tejas{ }tāpaḥ pākaḥ prakāśanam|
+                śaucaṃ rāgo laghus{ }taikṣṇyaṃ daśamaṃ cordhvabhāgitā||</PARAL>
+        <TR>Fire has [the following qualities:] unconquerable, ..., splendour, heat, cooking,
+                        illuminating, purity, passion, lightness, sharpness and the tenth, tending upwards.</TR>
+
+
+
+
+<SUBCHAPTER>āpo rasaś{ }ca (15-14)</SUBCHAPTER>
+<TRSUBCHAPTER>Water and Taste (15th--14th)</TRSUBCHAPTER>
+
+<TEXT> jyotiso 'pi sṛjaś{ }cāpaḥ saraso guṇasaṃyutaḥ|</TEXT>
+        <APP>\va <LEM>jyotiso</LEM> \msCb; jyotiḥ so \msCa\msNa\Ed\oo
+                 <LEM>sṛjaś{ }cāpaḥ</LEM> \msCb; sṛjaś{ }cāpi \msCa\msNa\Ed</APP>
+        <TR>Water is produced from Fire and has Taste as its Łguṇa$.</TR>
+
+%                                   ś?
+<TEXT> caturguṇāḥ smṛtā āpaḥ vijñeyā ca manīṣibhiḥ||</TEXT> 20:40
+        <APP>\vd <LEM>vijñeyā ca manīṣibhiḥ</LEM> \Ed; \om\ \msCa\msCb\msNa\msNb, tān{ }nibodha dvijottamaḥ \msNc</APP>
+        <TR>The wise know Water as having four Łguṇa$s:</TR>
+%pāda d is also in PaperMSA 1341! (364.jpg, upper, lines 1-2) and PaperC (8335)
+
+%folioinfo \Ed\ p.658
+<TEXT> śabdaḥ sparśaś{ }ca rūpaṃ ca rasaś{ }ca sa caturguṇaḥ|</TEXT>
+        <APP>\va <LEM>rūpaṃ</LEM> \mssALL\msCa\msCb\msNa; rūpaś \Ed</APP>
+        <PARAL>\vab \similar\ Ł MBh 12.299.11ab (= 3.202.5ab = 6.6.5ab = 12.299.11ab):$ 
+                śabdaḥ sparśaś{ }ca rūpaṃ ca raso gandhaś{ }ca pañcamaḥ</PARAL>
+        <TR>Sound, Touch, Form, and the fourth, Taste.</TR>
+
+% stem form
+<TEXT> rūpādiguṇa pūrvokta adhunātha rasaṃ śṛṇu||</TEXT> 20:41
+        <APP>\vc <LEM>pūrvokta</LEM> \mssALL\msCa\msCb\msNa; pūrvoktaṃ \Ed</APP>
+        <TR>The Łguṇa$s Form etc. have been taught. Listen to Taste now.</TR>
+
+<TEXT> kaṭutiktakaṣāyāś{ }ca lavaṇāmlas{ }tathaiva ca|</TEXT>
+        <APP>\va <LEM>lavaṇāmlas{ }ta°</LEM> \mssALL\msCa\msCb\msNa; lavaṇāntas{ }ta° \Ed</APP>
+        <TR>The wise teach that the six tastes are:</TR>
+
+<TEXT> madhuraś{ }ca rasān{ }ṣaḍ{ }vai pravadanti manīṣiṇaḥ||</TEXT> 20:42
+        <APP>\vc <LEM>rasān{ }ṣaḍ{ }vai</LEM> \corr; rasāṃ ṣaḍ{ }vai \msCa, rasā ṣaḍ{ }vai \msCb\msNa\Ed</APP>
+        <TR>pungent, bitter, astringent, salty, sour, and sweet.</TR>
+
+<TEXT> ṣaḍrasāḥ ṣaḍvibhedena ṣaṭtriṃśaguṇa ucyate|</TEXT>
+        <APP>\va <LEM>°rasāḥ</LEM> \mssALL\msCa\msCb\msNa; °rasā \Ed\oo
+                 <LEM>ṣaḍvibhedena</LEM> \mssALL\msCa\msCb\Ed; ṣaḍbhir{ }bhedena \msNa</APP>
+        <TR>[These] six tastes have six kinds and thus become thirty-six Łguṇa$s.</TR>
+% śaḍrasāḥ \msCb
+
+<TEXT> āpadhātu daśa tv{ }anyān{ }śṛṇu kīrtayato mama||</TEXT> 20:43
+        <APP>\vc <LEM>āpa°</LEM> \mssALL\msCb\msNa\Ed; <UNCL>ā</UNCL>pa° \msCa\oo
+                 <LEM>daśa tv{ }anyān</LEM> \corr; daśa tv{ }anyāṃ \msCa\msNa, daśatvaṃnyāṃ \msCb, daśa tv{ }anyā \Ed</APP>
+        <APP>\vd <LEM>kīrtayato</LEM> \mssALL\msCa\msNa\Ed; kīrttiyato \msCb</APP>
+        <TR>I shall teach you the other ten Łdhātu$s of Water, listen to me.</TR>
+
+%index_grammar: singular after numbers, Newari
+
+<TEXT> lālā siṅghāṇikā śleṣmā raktaḥ pittaḥ kaphas{ }tathā|</TEXT>
+        <APP>\va <LEM>lālā</LEM> \mssALL\msCa\msNa\Ed; lalāṃ \msCb\oo
+                 <LEM>siṅghāṇikā</LEM> \corr; sighānikā \msCa, si<UNCL>ghā</UNCL>nikā \msCb, siṃghānikā \msNa\Ed\oo 
+                 <LEM>śleṣmā</LEM> \mssALL\msCa\msCb\msNa; śoṣmā \Ed</APP>
+        <APP>\vb <LEM>raktaḥ</LEM> \msCa\msNa; rakta° \msCb\Ed</APP>
+        <TR>Saliva, mucus, the phlegmatic humour, blood, bile, phlegm,</TR>
+
+%folioinfo \msCb\ 463.jpg, f.231r
+<TEXT> svedam{ }aśru rasaś{ }caiva medaś{ }ca daśamaḥ smṛtaḥ||</TEXT> 20:44
+        <APP>\vc <LEM>rasaś{ }caiva</LEM> \mssALL\msCa\msCb\Ed; rasaṃś{ }caiva \msNa</APP>
+        <APP>\vd <LEM>medaś{ }ca</LEM> \mssALL\msCa\msCb\msNa; medaṃ ca \Ed\oo
+                 <LEM>daśamaḥ</LEM> \mssALL\msCa\msNa\Ed; madaḥ \msCbacorr, madanaḥ \msCbpcorr</APP>
+        <TR>sweat, tears, chyle, and the tenth, fat.</TR>
+
+<TEXT> daśa āpaguṇāś{ }cānye kīrtayiṣyāmi tān{ }śṛṇu|</TEXT>
+        <APP>\va <LEM>daśa āpa°</LEM> \mssALL\msCa\msCb\msNa; daśaś{ }cāpa° \Ed\oo
+                 <LEM>cānye</LEM> \msCa\msCb; cānyā \msNa\Ed</APP>
+        <APP>\vb <LEM>tān</LEM> \Ed; tāṃ \msCa\msCb\msNa</APP>
+        <TR>I shall teach you the ten Łguṇa$s of Water, listen to me.</TR>
+
+%folioinfo \msNa\ 230.jpg upper
+<TEXT> adbhyaḥ śaityaṃ rasa kledo dravatvaṃ snehasaumyatā|</TEXT>
+        <APP>\vc <LEM>adbhyaḥ śaityaṃ</LEM> \conj; adbhya śaityaṃ \msCa,
+                                 aṅgaśaityaṃ \msCb, aṅgyaśaityaṃ \msNa, agnyaśaitya° \Ed</APP>
+        <TR>From Water [come] coldness, liquidity, wetness, fluidity, oiliness,</TR>
+% cf. 53a bhūmer
+
+<TEXT> jihvā viṣyandinī caiva bhaumānyaśravaṇādhamaḥ||</TEXT> 20:45
+        <APP>\ve <LEM>viṣyandinī</LEM> \msCb\msNa; °vi<UNCL>ṣ</UNCL>\lac2 ×× nī \msCa, °niṣpandinī \Ed</APP>
+        <APP>\vf <LEM>bhaumānyaśravaṇādhamaḥ</LEM> \mssALL\msCa\msCb\msNa; bhaumān{ }daśaguṇāñ{ }śṛṇu \Ed</APP>
+        <PARAL>\vo Ł\similar\ \MBH\ 12.247.4 (with$ adbhyaḥ Łas a variant in the critical edition):$
+                apāṃ śaityaṃ rasaḥ kledo dravatvaṃ snehasaumyatā |
+                jihvā viṣyandinī caiva bhaumāpyāsravaṇaṃ tathā ||</PARAL>
+        <NOTE>This verse is a version of \MBH\ 12.247.4 (see the apparatus).</NOTE>
+        <TR>the tongue, dripping, earthiness, wateriness, and flowing.</TR>
+
+
+
+
+<SUBCHAPTER>bhūmir{ }gandhaś{ }ca (13-12)</SUBCHAPTER>
+<TRSUBCHAPTER>Earth and Smell (13rd--12th)</TRSUBCHAPTER>
+
+%folioinfo \msCa\ 454.jpg
+<TEXT> āpaś{ }cāpy{ }asṛjad{ }bhūmis{ }tasyā gandhaguṇaḥ smṛtaḥ|</TEXT> 
+        <APP>\va <LEM>āpaś{ }cāpy{ }asṛjad{ }bhū°</LEM> \msCb;
+                                āpaś{ }cāpījyajā bhū° \msCa\msNa, āpaś{ }ca bījyajā bhū° \Ed</APP> 
+        <TR>Water produced Earth. Its Łguṇa$ is said to be Smell.</TR>
+
+<TEXT> caturāpaguṇān{ }gṛhya bhūmer{ }gandhaguṇaḥ smṛtaḥ||</TEXT> 20:46
+        <APP>\vc <LEM>°guṇān{ }gṛ°</LEM> \mssALL\msCa\Ed; °guṇaṃ gṛ° \msCb, °guṇā gṛ° \msNa</APP>
+        <TR>Taking the four Łguṇa$s of Water, Earth has [the additional] Łguṇa$ Taste:</TR>
+
+<TEXT> śabdaḥ sparśaś{ }ca rūpaṃ ca raso gandhaś{ }ca pañcamaḥ|</TEXT>
+        <APP>\va <LEM>rūpaṃ ca</LEM> \mssALL\msCa\msNa; rūpaś{ }ca \msCb\Ed</APP>
+        <APP>\vb <LEM>pañcamaḥ</LEM> \mssALL\msCa\msCb\msNa; pañcama \Ed</APP>
+        <TR>Sound, Touch, Form, Taste, and the fifth, Smell.</TR>
+% śabdaḥ sparśaśca rupañca rasoṃ gandhaśca tadguṇāḥ ।            purana/agni-puranam/376.txt
+
+<TEXT> āpaḥpūrvaguṇāḥ proktā bhūmer{ }gandhaguṇaṃ śṛṇu||</TEXT> 20:47
+        <APP>\vc <LEM>āpaḥ°</LEM> \mssALL\msCa\msCb\msNa; āpa° \Ed\oo
+                 <LEM>proktā</LEM> \mssALL\msCa\msCb\msNa; prokto \Ed</APP>
+        <APP>\vd <LEM>bhūmer{ }ga°</LEM> \mssALL\msCa\msCb; bhūme ga° \msNa, bhūmir{ }ga° \Ed\oo
+                 <LEM>śṛṇu</LEM> \mssALL\msCa\msCb\msNa; smṛta \Ed</APP>
+        <TR>The Łguṇa$s of Water have been taught. Now listen to the Smell-Łguṇa$s of Earth.</TR>
+
+<TEXT> iṣṭāniṣṭadvayor{ }gandhaḥ surabhir{ }durabhis{ }tathā|</TEXT> 
+        <APP>\va <LEM>dvayor{ }gandhaḥ</LEM> \mssALL\msCb\msNa\Ed; dvayo\lac2 ×× \msCa</APP>
+        <TR>Smells are pleasant or unpleasant, fragrant and stinking.</TR>
+
+<TEXT> karpūraḥ kasturīkaṃ ca candanāgarum{ }eva ca||</TEXT> 20:48
+        <APP>\vc <LEM>kasturīkaṃ ca</LEM> \mssALL\msCa\msCb\msNa; kastūrīkaś{ }ca \Ed\ \unmetr</APP>
+        <APP>\vd <LEM>°garu°</LEM> \mssALL\msCa\msCb\msNa; °guru° \Ed</APP>
+        <TR>Pleasant smells are camphor, musk, sandalwood, and Aloe,</TR>
+
+<TEXT> kuṅkumādisugandhāni ghrāṇam{ }iṣṭaṃ prakīrtitam|</TEXT> 
+        <APP>\vb <LEM>ghrāṇam{ }iṣṭaṃ kīrtitam</LEM> \mssALL\msCa\msCb\msNapcorr;
+                                                 \om\ \msNaacorr, ghrāṇam{ }iṣṭaṃ kīrtitaḥ \Ed</APP>
+        <TR>saffron and other fragrant substances.</TR>
+
+<TEXT> viṅmūtrasvedagandhāni vaktragandhaṃ ca duḥsaham|</TEXT>
+        <APP>\vc <LEM>viṅmūtrasvedagandhāni</LEM> \mssALL\msCa\msCb\msNapcorr\Ed; \om\ \msNaacorr</APP>
+        <APP>\vd <LEM>°gandhaṃ ca</LEM> \mssALL\msCa\msCb\msNa; °gandhaś{ }ca \Ed</APP>
+        <TR>Unleasant smells are the smell of urine, f\ae ces and sweat, unbearably bad breath, </TR>
+
+<TEXT> jīrṇasphoṭitagandhāni aniṣṭānīti kīrtitam||</TEXT> 20:49
+        <APP>\ve <LEM>°sphoṭita°</LEM> \mssALL\msCa\msNa; °sphuṭita° \msCb, °sphoṭaka° \Ed</APP>
+        <APP>\vf <LEM>kīrtitam</LEM> \mssALL\msCa\msCbpcorr\msNa\Ed; kītam \msCbacorr</APP>
+        <TR>withered and decaying[?] smells.</TR>
+
+<TEXT> bhūmer{ }dhātu daśa tv{ }anyān{ }kathayiṣyāmi tac{ }chṛṇu|</TEXT>
+        <APP>\va <LEM>bhūmer{ }dhā°</LEM> \mssALL\msCa\msCb\msNa; bhūme dhā° \Ed</APP>
+        <APP>\vab <LEM>tv{ }anyān{ }ka°</LEM> \msCa; tv{ }anyāṃ \msCb\msNa, tv{ }anyā ka° \Ed</APP>
+        <APP>\vb <LEM>tac{ }chṛṇu</LEM> \mssALL\msCb\msNa\Ed; <UNCL>ta</UNCL>\lac1 × ṇu \msCa</APP>
+        <TR>I shall teach you the other ten Łdhātu$s of Earth, listen to me.</TR>
+% anyāṅ \msCa
+% here ends \msTub? (with tvaca)
+
+%folioinfo \msCc\ 239.jpg, f.311r
+<TEXT> tvacaṃ māṃsaṃ ca medaṃ ca snāyu majjā sirā tathā|</TEXT>
+        <APP>\vc <LEM>tvacaṃ māṃsaṃ ca medaṃ ca</LEM> \msCa; tvacaṃ māṃsañ{ }ca \msCb, \lac2 ×× mānsañ{ }ca medañ{ }ca \msCc,
+                                tvacaṃ māsaṃ ca medaṃ ca \msNa, tvacā māṃsaś{ }ca medaś{ }ca \Ed</APP>
+        <APP>\vd <LEM>snāyu</LEM> \mssALL\msCc\msNa\Ed; śnāyuṃ \msCa\msCb\oo
+                 <LEM>sirā tathā</LEM> \eme;  śirās{ }tathā \msCa\msNa, śiras{ }tathā \msCb\msCc\Ed</APP>
+        <LACUNA>\vc Ł\msCc\ resumes here, on folio 311r, with$ mānsañ{ }ca medañ{ }ca</LACUNA>
+        <TR>skin, flesh, fat, sinew, marrow, vein,</TR>
+
+%lacuna_end: msCc
+<TEXT> nakhadantaruhāś{ }caiva keśaś{ }ca daśamas{ }tathā||</TEXT> 20:50
+        <APP>\vf <LEM>keśa°</LEM> \mssALL\mssCaCbCc\msNa; keśā° \Ed</APP>
+        <NOTE>I take Łruha$ as shorthand for Łtanuruha$ or Łaṅgaruha$: `bodily hair'.</NOTE>
+        <TR>nail, tooth, bodily hair, and the tenth, the hair of the head.</TR>
+
+% 10 bhūmiguṇas 
+<TEXT> daśa tv{ }anyān{ }pravakṣyāmi śṛṇu bhūmiguṇān{ }dvija|</TEXT>
+        <APP>\va <LEM>tv{ }anyān{ }pra°</LEM> \Ed; tv{ }anyām{ }pra° \msCa, tv{ }anyāṃ pra° \msCb\msCc\msNa</APP>
+        <APP>\vb <LEM>°guṇān{ }dvi°</LEM> \mssALL\msCa\msNa\Ed; °guṇā dvi° \msCb, °guṇāṃ div° \msCc</APP>
+        <TR>I shall teach the other ten Łguṇa$s of Earth, listen, O Brahmin.</TR>
+
+<TEXT> bhūmeḥ sthairyaṃ rajastvaṃ ca kāṭhinyaṃ prasavātmakam|</TEXT>
+        <APP>\vc <LEM>bhūmeḥ</LEM> \mssALL\msCa\msCc\msNa\Ed; bhūmiḥ \msCb\oo
+                 <LEM>sthairyaṃ</LEM> \mssALL\msCa\msCb\msNa\Ed; sthairya \msCc\oo
+                 <LEM>rajastvaṃ ca</LEM> \mssALL\mssCaCbCc\msNa; rajatvaś ca \Ed</APP>
+        <APP>\vd <LEM>kāṭhinyaṃ</LEM> \mssALL\mssCaCbCc\msNa; kaṭhinyaṃ \Ed</APP>
+        <TR>From Earth [come] firmness, dustiness, rigidity, procreation,</TR>
+
+<TEXT> gandho guruś{ }ca śaktiś{ }ca nīhārasthāpanākṛtiḥ||</TEXT> 20:51
+        <APP>\vf <LEM>°kṛtiḥ</LEM> \mssALL\msCa\msCb\msNa\Ed; °kṛti \msCc</APP>
+        <PARAL>\vo Ł\similar\ MBh 12.247.3:$
+                        bhūmeḥ sthairyaṃ pṛthutvaṃ ca kāṭhinyaṃ prasavātmatā|
+                        gandho gurutvaṃ śaktiś ca saṃghātaḥ sthāpanā dhṛtiḥ||</PARAL>
+        <NOTE>This verse is a variant of \MBH\ 12.247.3 (see the apparatus).</NOTE>
+        <TR>smell, heaviness, power, fog, support, shape.</TR>
+
+<TEXT> guṇadhātuviśeṣaś{ }ca utpattiś{ }ca dvijottama|</TEXT>
+        <APP>\va <LEM>guṇadhātu°</LEM> \msNa; <UNCL>guṇandhā</UNCL>tu° \msCa, guṇātvātu° \msCb, guṇaṃ dhātu° \msCc\Ed</APP>
+
+<TEXT> yathā śrutaṃ mayā pūrvaṃ kīrtitaṃ nikhilena tu||</TEXT> 20:52
+        <APP>\vcd <LEM>pūrvaṃ kīrtitaṃ</LEM> \msCa\msCc\msNa\Ed; pūrva kīrtita \msCb</APP>
+        <TR>O Brahmin, I have taught you in a complete form the various Łguṇa$s and Łdhātu$s 
+                        and [their] origin as I heard it before.</TR>
+
+
+
+% EDDIG \msCc
+
+
+<SUBCHAPTER>buddhīndriyāṇi karmendriyāṇi ca (11-2)</SUBCHAPTER>
+<TRSUBCHAPTER>Sense capacities and action capacities (11th--2nd)</TRSUBCHAPTER>
+
+<TEXT> vaikārikam{ }ahaṃkāraṃ sattvodriktāt{ }tu sāttvikaḥ|</TEXT>
+        <APP>\vab <LEM>sattvodriktāt{ }tu</LEM> \corr;
+                                 satvodṛktāt{ }tu \msCa\msNa, 
+                                 satvodṛktān{ }tu \msCb,
+                                 sattvonuktānu \Ed</APP>
+        <APP>\vb <LEM>sāttvikaḥ</LEM> \msCa\msCb\Ed; sātvikāḥ \msNa</APP>
+        <PARAL>\vab Ł\similar\ \LINPU\ 1.70.38cd (= \SIVP\ 7.1.10.14cd):$
+                    vaikārikād{ }ahaṃkārāt{ }sattvodriktāt{ }tu sāttvikāt</PARAL>
+        <NOTE>CHECK In classical Sāṃkhya the vaikṛta and sāttvika 
+                 ahaṃkāra gives birth to the karmendriyas! See Ruzsa 127</NOTE>
+        <TR>The Ahaṃkāra is subject to modification and because of an abundance of
+            Sattva [in it], it is Sāttvika.</TR>
+
+
+% MBh
+% 12291023a bhūtasargam ahaṃkārāt tṛtīyaṃ viddhi pārthiva
+% 12291023c ahaṃkāreṣu bhūteṣu caturthaṃ viddhi vaikṛtam
+
+<TEXT> śrotraṃ tvak{ }cakṣuṣī jihvā nāsikā caiva pañcamī||</TEXT> 20:53
+        <APP>\vc <LEM>śrotraṃ</LEM> \mssALL\msCa\msNa\Ed; śrotra \msCb</APP>
+        <PARAL>\vcd Ł= \MBH\ 14.42.13ab = \LINPU\ 1.70.41ab$</PARAL> 
+        <TR>Ear, skin, eyes, tongue, and the fifth, nose:</TR>
+
+<TEXT> buddhīndriyāṇi pañcaiva kīrtitāni dvijottama|</TEXT>
+        <TR>these are the five sense capacities (Łbuddhīndriya$), O great Brahmin.</TR>
+
+<TEXT> hastapādas{ }tathā pāyur{ }upastho vāk{ }ca pañcamaḥ||</TEXT> 20:54
+        <APP>\vc <LEM>pāyu°</LEM> \mssALL\msCa\msCb\msNa; snāyu° \Ed</APP>
+        <APP>\vd <LEM>°pastho vāk{ }ca</LEM> \mssALL\msCb\msNa\Ed; °pa<UNCL>stho vā</UNCL>\lac1 × \msCa\oo
+                 <LEM>pañcamaḥ</LEM> \mssALL\msCa\msCb\msNa; pañcamam \Ed</APP>
+        <NOTE>A line stating that the second set here is that of 
+              the Łkarmendriya$s may have dropped out.</NOTE>
+        <TR>Hands, feet, anus, the sexual organs, and the fifth, speech[:
+            these are the organs of action (Łkarmendriya$).]</TR>
+
+
+<SUBSUBCHAPTER>śrotram (11)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The sense capacity of hearing (11th)</TRSUBSUBCHAPTER>
+
+<TEXT> śrotreṇa gṛhyate śabdo vividhas{ }tu dvijottama|</TEXT>
+        <TR>The ear perceives the various sounds, O great Brahmin,</TR>
+
+<TEXT> veṇuvīṇāsvanānāṃ ca tantrīśabdam{ }anekadhā||</TEXT> 20:55
+        <TR>those of flutes and lutes, and of various kinds of strings,</TR>
+
+%folioinfo \Ed\ p.659
+% unmetr
+<TEXT> muraja<crux>maunda</crux>paṇavabherīpaṭahanisvanam|</TEXT>
+        <APP>\va <LEM>muraja°</LEM> \Ed; murava° \msCa\msNa, surava° \msCb\oo
+                 <LEM>°maunda°</LEM> \msCa\msNa; °monda° \msCb, °saunda° \Ed</APP>
+        <TR>the sound of tambourines, ..., Łpaṇava$ drums, kettle-drums, tabors,</TR>
+
+<TEXT> śaṅkhakāhalaśabdaṃ ca śabdaṃ ḍiṇḍimagomukham|</TEXT> 
+        <TR>the sound of conch-shells, bass drums, Łḍiṇḍima$ drums, `cow-face' horns,</TR>
+% śabdaṇ \msCa
+%LiP_1,51.17ab
+%jharjharaiḥ śaṅkhapaṭahair bherīḍiṇḍimagomukhaiḥ  /
+
+%Lakṣmīnārāyaṇasaṃhitā/khaṇḍaḥ 4 (tiṣyasantānaḥ) 4.75.72:
+%kāṃsyān śaṃkhān paṭahāṃś ca bherīdiṇḍimagomukhān |
+%mṛdaṃgān paṇavāṃś cāpi murajāmbarakāṃs tathā ||
+
+<TEXT> kāṃsikātālamiśraṃ ca gītāni vividhāni ca||</TEXT>20:56
+        <APP>\ve <LEM>°kātāla°</LEM> \mssALL\msCa\msCb\msNa; °kāhala° \Ed</APP>
+        <TR>a mix of small gongs and cymbals, and various kinds of songs.</TR>
+
+
+<SUBSUBCHAPTER>tvak (10)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The sense capacity of touch (10th)</TRSUBSUBCHAPTER>
+
+<TEXT> tvacayā gṛhyate sparśaḥ sukhaduḥkhasamanvitaḥ|</TEXT> 
+        <APP>\va <LEM>gṛhyate</LEM> \mssALL\msCb\msNa\Ed; gṛhya\lac1 × \msCa</APP>
+        <TR>Touch is perceived by the skin, and it can be pleasant or unpleasant.</TR>
+
+<TEXT> mṛdusūkṣma sukhasparśaḥ vastraśayyāsanādayaḥ||</TEXT>20:57
+        <APP>\vc <LEM>°sukha</LEM> \mssALL\msCa\msCb\msNa; °sukhaṃ \Ed</APP>
+        <TR>Pleasant touch is soft and delicate, [such as] clothes, beds, seats, etc.</TR>
+
+<TEXT> tīkṣṇaśastrajalaśaityaṃ uṣṇe tapte kṣate kṣaraḥ|</TEXT> 
+        <APP>\va <LEM>°jalaśaityaṃ</LEM> \msNa; °jalaṃ śaitye \msCa, °jala śaitya \msCb, °jalaṃ śaitya \Ed</APP>
+        <APP>\vb <LEM>uṣṇe tapte</LEM> \msCa\msNa; uṣṇe tapta \msCb, uṣṇatapta \Ed</APP>
+        <TR>The coldness of steel (Łtīkṣṇaśastra$) and water on a hot and painful wound, a cloud (Łkṣara$)???</TR>
+
+<TEXT> evamādīny{ }anekāni jñeyānīṣṭaṃ dvijottama||</TEXT>20:58
+        <TR>these and others are the pleasant ones????, O great Brahmin.</TR>
+
+%index_grammar: Newari number?
+
+<SUBSUBCHAPTER>cakṣuḥ (9)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The sense capacity of seeing (9th)</TRSUBSUBCHAPTER>
+
+<TEXT> cakṣuṣā gṛhyate rūpaṃ sahasrāṇi śatāni ca|</TEXT>
+        <TR>Form are perceived by the Eye, and the hunderds of thousand</TR>
+
+
+<TEXT> devarūpavikārāṇi nakṣatragrahatārakāḥ||</TEXT> 20:59
+        <TR>forms of gods, constellations, planets, and stars,</TR>
+
+%folioinfo \msCa\ 455.jpg
+<TEXT> mānuṣānāṃ vikārāṇi grāmaṃ nagarapattanam|</TEXT>
+        <TR>variations in people, villages, towns, and cities,</TR>
+
+%index_grammar: singular nom. for plural gen. Newari?
+
+<TEXT> vṛkṣagulmalatānāṃ ca paśupakṣiśarīsṛpām||</TEXT> 20:60
+        <TR>of trees, bushes, creepers, cattle, birds, reptiles,</TR>
+ 
+%folioinfo \msNa\ 230.jpg lower
+<TEXT> kṛmikīṭapataṅgānāṃ jalajānām{ }anekadhā|</TEXT>
+        <TR>worms, insects, moths, various aquatic animals,</TR>
+
+<TEXT> śailadāravahemāni rūpāṇi vividhāni ca|</TEXT>
+        <APP>\vc <LEM>hemāni</LEM> \msNa; °homāni \msCa, °bhomāni \msCb, °romāṇi \Ed</APP>
+        <TR>and various shapes made of stone, wood, and gold,</TR>
+
+<TEXT> dhātudravyavikārāṇi rūpāṇi dvijasattama||</TEXT> 20:61
+        <APP>\vf <LEM>dvijasattama</LEM> \msCb\msNa\Ed; dvija<UNCL>sa</UNCL>\lac2 ×× \msCa</APP>
+        <TR>shapes of modifications of mineral materials, O truest Brahmin.</TR>
+
+
+<SUBSUBCHAPTER>jihvā (8)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The sense capacity of tasting (8th)</TRSUBSUBCHAPTER>
+
+<TEXT> jihvayā gṛhyate svādo hṛdyāhṛdyo dvijottama|</TEXT>
+        <APP>\va <LEM>jihvayā</LEM> \msCb\msNa\Ed; \lac2 ×× yā \msCa\oo
+                 <LEM>gṛhyate</LEM> \msCa\msNa\Ed; gṛhatve \msCb</APP>
+        <TR>Taste is perceived by the Tongue, and it can be pleasant and unpleasant.</TR>
+
+<TEXT> phalamūlāni śākāni kandāni piśitāni ca||</TEXT> 20:62
+        <TR>Fruits and roots, vegetables, bulbs, and meat,</TR>
+% sākāni \msCa above
+
+%folioinfo \msCb\ 464.jpg, f.231v
+<TEXT> pakvāpakvaviśeṣāṇi dadhikṣīraghṛtāni ca|</TEXT>
+        <TR>particular cooked and uncooked [dishes], yoghurt, milk, and ghee,</TR>
+
+<TEXT> vrīhyauṣadharasānāṃ ca miśrāmiśram{ }anekadhā|</TEXT>
+        <APP>\vc <LEM>vrīhyauṣadha°</LEM> \mssALL\msCa\msCb\msNa; vrīhyoṣadhi° \Ed</APP>
+        <TR>herbs and juices, various mixed and unmixed [drinks].</TR>
+
+<TEXT> ṣaṭkarmapratibhedena rasabhedaśataṃ smṛtam||</TEXT> 20:63
+        <APP>\vf <LEM>°śataṃ</LEM> \mssALL\msCa\msCb\msNa; °śata \Ed</APP>
+        <TR>Classified into six functions [the six basic flavours?],
+                 there are a hundred kinds of flavour (Łrasa$).</TR>
+
+
+<SUBSUBCHAPTER>ghrāṇam (7)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The sense capacity of smelling (7th)</TRSUBSUBCHAPTER>
+<TEXT> ghrāṇena gṛhyate gandha iṣṭāniṣṭo dvijarṣabha|</TEXT>
+        <APP>\vab <LEM>gṛhyate gandha iṣṭā°</LEM> \msCb\msNa\Ed;
+                         gṛ<UNCL>hyate ga</UNCL>\lac2 ×× ṣṭā° \msCa</APP>
+        <APP>\vb <LEM>°niṣṭo</LEM> \mssALL\msCa\msCb\msNa; °niṣṭā \Ed\oo
+                 <LEM>°rṣabha</LEM> \mssALL\msCa\msCb\msNa; °rṣabhaḥ \Ed</APP>
+        <TR>Smell is perceived by the Nose. Smell can be pleasant or unpleasant, O chief Brahmin.</TR>
+
+<TEXT> guḍājyaṃ guggulur{ }bhasmacandanāgarukaṃ tathā|</TEXT>
+        <APP>\vc <LEM>°jyaṃ guggulur{ }bha°</LEM> \msCa\msNa;
+                                 °jyaṃ guggulaṃ bha° \msCb,
+                                 °jyaguggulubha° \Ed</APP>
+        <APP>\vd <LEM>°garukaṃ</LEM> \mssALL\msCa\msCb\msNa; °gurukas \Ed</APP>
+        <TR>The smell of molasses, clarified butter, 
+                bdellium, ashes, sandalwood, Aloe,</TR>
+
+<TEXT> kastūrikuṅkumādīnām{ }iṣṭo gandho manoharaḥ||</TEXT> 20:64
+        <APP>\vf <LEM>gandho</LEM> \mssALL\msCa\msCb\msNa; gandha \Ed</APP>
+        <TR>musk, saffron, etc., is pleasant and charming.</TR>
+
+<TEXT> vraṇamūtrapurīṣāṇāṃ māṃsaparyuṣitāni ca|</TEXT>
+        <APP>\vb <LEM>māṃsa°</LEM> \msCb\msNa\Ed; māsa° \msCa</APP>
+        <TR>The bad smell of wounds, urine and f\ae ces, rotten meat,</TR>
+% MMW: rātriparyuṣita mfn. anything which has stood over-night, stale, not fresh Suśr.
+
+<TEXT> vātakarmādidurgandha aniṣṭaḥ samudāhṛtaḥ||</TEXT> 20:65
+        <APP>\vc <LEM>°ndha</LEM> \msCa\msCb\Ed; °ndho \msNa</APP>
+        <TR>fart, etc., is said to be unpleasant.</TR>
+
+
+
+
+%% KARMENDRIYAS
+<SUBSUBCHAPTER>hastakarma (6)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Function of the hands (6th)</TRSUBSUBCHAPTER>
+
+<TEXT> hastena kurute karma vividhāni dvijottama|</TEXT>
+        <APP>\va <LEM>hastena</LEM> \mssALL\msCa\msCb\msNa; hastābhyāṃ \Ed</APP>
+        <TR>One performs various actions with the hands, O great Brahmin,</TR>
+
+%index_grammar: Newari number and ergativus?! lehet az alany naraḥ is
+
+<TEXT> māhendraṃ vāruṇaṃ caiva vāyavyāgneyam{ }eva ca||</TEXT> 20:66
+        <APP>\vc <LEM>māhendraṃ vāruṇaṃ</LEM> \msCb\msNa;
+                        \lac2 ×× ndram{ }vāruṇañ \msCa, mohendravāruṇaṃ \Ed </APP>
+        <NOTE>Łmāhendra$ means `connected to the earth' because of
+              its synonym Łpārthiva$, which means both `royal' and `earthly'.</NOTE>
+        <TR>those related to earth (Łmāhendra$), water (Łvāruṇa$), air (Łvāyavya$), and
+            fire (Łāgneya$).</TR>
+
+<TEXT> āgneya pacanādīni kāṃsyo lohas{ }trapus{ }tathā|</TEXT>
+        <APP>\va <LEM>°pacanā°</LEM> \msCa\msCb; °pavanā° \msNa\Ed</APP>
+        <TR>Those related to fire are: cooking, etc., 
+                [working with] copper, iron, and tin,</TR>
+
+<TEXT> agnikarmāṇy{ }anekāni yajñahomakriyās{ }tathā||</TEXT> 20:67
+        <TR>various fire-rituals, and rituals of fire-worship.</TR>
+
+<TEXT> sūrpavyajanavātena mukhavātena vai tathā|</TEXT>
+        <APP>\va <LEM>°vyajana°</LEM> \msCa\msNa\Ed; °vyaja° \msCb</APP>
+        <APP>\vb <LEM>mukha°</LEM> \msCa\msNa\Ed; sukha° \msCb</APP>
+        <TR>[Acts moving] air with a winnowing fan,
+                one's breath,</TR>
+
+<TEXT> camaracarmavātena vātayantraṃ ca vāyavam||</TEXT> 20:68
+        <TR>a chowrie or parchment, or a pankha, are the ones
+                related to air.</TR>
+
+<TEXT> vāruṇaṃ toyakarmāṇi kurute vividhāni ca|</TEXT>
+        <APP>\vb <LEM>kurute</LEM> \msCb\msNa\Ed; kuru\lac1 × \msCa</APP>
+        <TR>Those related to water perform various acts involving water:</TR>
+
+<TEXT> rasoparasakarmāṇi tasya poṣaṇakarma ca||</TEXT> 20:69
+        <TR>acts with flavours and secondary flavours, 
+              its [the body's?] nourishing,</TR>
+
+<TEXT> snānācamanakarmāṇi vastraśaucādayas{ }tathā|</TEXT>
+        <TR>bathing, sipping water, washing clothes, etc.,</TR>
+
+<TEXT> kāyaśaucaṃ ca kurute tṛṣānāśanam{ }eva ca||</TEXT> 20:70
+        <APP>\vd <LEM>tṛṣānāśana°</LEM> \Ed; tṛṣanāśana° \msCa\msNa, tṛṣaṇāśata° \msCb</APP>
+        <TR>washing one's body, and quenching one's thirst.</TR>
+
+%folioinfo \Ed\ p.660
+<TEXT> vamanāni hy{ }anekāni vāruṇaṃ karma ucyate|</TEXT>
+        <APP>\va <LEM>vamanāni</LEM> \conj; navamāni \msCa\msNa\Ed, evamādi \msCb</APP>
+        <APP>\vb <LEM>vāruṇaṃ</LEM> \msCa\msNa\Ed; vāruṇa° \msCb</APP>
+        <TR>Various ways of vomitting [ex conj., accept msCb, or 9th?] are [also] called 
+            acts involving water.</TR>
+
+<TEXT> māhendraṃ pārthivaṃ karma anekāni dvijottama||</TEXT> 20:71
+        <TR>An earthly act involve various ways of working 
+                with earth, O great Brahmin.</TR>
+
+<TEXT> kulālakarma bhūkarma karma pāṣāṇam{ }eva ca|</TEXT>
+        <APP>\va <LEM>kulālakarma°</LEM> \msCb\msNa\Ed; ku<UNCL>la</UNCL>\lac2 ×× rmma° \msCa</APP>
+        <APP>\vb <LEM>karma</LEM> \mssALL\msCa\msCb\msNapcorr; \om\ \msNaacorr, karmaṃ \Ed</APP>
+        <TR>The work of a potter, working with soil or with stones,</TR>
+
+<TEXT> dārudantimaśṛṅgādikarma pārthivam{ }ucyate|</TEXT>
+        <APP>\vc <LEM>°śṛṅgādi°</LEM> \msCa\msCb\Ed; °śṛṅgāni \msNa</APP>
+        <APP>\vd <LEM>pārthivam{ }u°</LEM> \msCa\msNa\Ed; pārthiva u° \msCb</APP>
+        <NOTE>Understand °Łdantima$° in Łpāda$ c as Łdanta$ or Łdantidanta$.</NOTE>
+        <TR>work with wood, ivory, horns of animals, etc., are 
+            called earthly acts.</TR>
+
+<TEXT> catuṣkarma samāsena hastataḥ parikīrtitam||</TEXT> 20:72
+        <APP>\ve <LEM>°ṣkarma</LEM> \msCb\msNa\Ed; °ṣka \msCa</APP>
+        <TR>The five actions of the hand have been
+                briefly described.</TR>
+
+
+
+<SUBSUBCHAPTER>pādakarma (5)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The action of the feet (5th)</TRSUBSUBCHAPTER>
+
+<TEXT> pādābhyāṃ gamanaṃ karma diśaś{ }ca vidiśas{ }tathā|</TEXT>
+        <APP>\va <LEM>gamanaṃ</LEM> \msCa\Ed; gamana \msCb, gamanaḥ \msNa</APP>
+        <APP>\vb <LEM>diśaś{ }ca vidiśas</LEM> \msCa\msCb\msNa; diśañ{ }ca vidiśan \Ed</APP>
+        <TR>The action for the feet is going in all the directions of
+                the cardinal and intermediate point of the compass,</TR>
+
+<TEXT> nimnonnatasame deśe śilāsaṃkaṭakoṭare|</TEXT>
+        <APP>\vd <LEM>śilā°</LEM> \msCa\msCb\Ed; tila° \msNa</APP>
+        <TR>up and down slopes, and on flat ground, on rocks,
+            through passages, and into caves,</TR>
+
+<TEXT> toyakardamasaṃghāte bahukaṇṭakasaṃkule||</TEXT> 20:73
+        <APP>\vf <LEM>bahukaṇṭaka°</LEM> \msCb\Ed; <UNCL>bahu</UNCL>\lac2 ×× ka° \msCa,
+                                                        bahusaṃkaṭa° \msNa\oo
+                 <LEM>°kule</LEM> \mssALL\msCa\msCb\msNa; °yute \Ed</APP>
+        <TR>through land flooded with water and filled with mud 
+                        and covered in thorns.</TR>
+
+
+% EDDIG \msCb
+%folioinfo \msCa\ 456.jpg
+<SUBSUBCHAPTER>pāyukarma (4)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The action of the anus (4th)</TRSUBSUBCHAPTER>
+
+<TEXT> pāyukarma visargaṃ tu kaṭhinadravapicchalam|</TEXT>
+        <APP>\va <LEM>pāyu°</LEM> \msCa\msCb\msNa; pāpa° \Ed</APP>
+        <APP>\vb <LEM>°picchalam</LEM> \msCa\msNa\Ed; °picchilam \msCb</APP>
+        <TR>The function of the anus is the discharging [of urine].        
+           [Whether it is] thick, fluid, slimy,</TR>
+
+% understand  phenala
+<TEXT> saraktaphenilādīni pāyuśakti pramuñcati||</TEXT> 20:74
+        <APP>\vc <LEM>sarakta°</LEM> \msCa\msNa\Ed; sakta° \msCb</APP>
+        <APP>\vd <LEM>pāyuśakti</LEM> \Ed;  pāyucchakti \msCa\msNa, pāyuśchakti \msCb\oo
+                 <LEM>°muñcati</LEM> \msCa\msCb\msNa; °muñcate \Ed</APP>
+        <TR>bloody, foamy, etc., the energy of the anus discharges it.</TR>
+ 
+
+<SUBSUBCHAPTER>upasthakarma (3)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The action of the sexual organs (3rd)</TRSUBSUBCHAPTER>
+
+<TEXT> upasthakarma ānandaṃ karoti jananaṃ prajā|</TEXT>
+        <APP>\va <LEM>ānandaṃ</LEM> \msCa\msCb\msNa; ānanda \Ed</APP>
+        <TR>The functioning of the sexual organs cause joy, and produces offspring.</TR>
+
+%index_grammar: crazy Newari?
+
+% ānandaṅ
+<TEXT> strīpuṃnapuṃsakaṃ caiva upasthaṃ kurute dvija||</TEXT> 20:75
+        <TR>The sexual organs produce females, males, 
+            and gender-neutral ones, O Brahmin.</TR>
+% upastha is masc
+
+
+<SUBSUBCHAPTER>vākkarma (2)</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>The action of speaking (2nd)</TRSUBSUBCHAPTER>
+
+<TEXT> vācā tu kurute karma navadhā dvijapuṅgava|</TEXT>
+        <APP>\vb <LEM>°puṅgava</LEM> \msCa\msCb\Ed; °puṅgavaḥ \msNa</APP>
+        <TR>Speech performs nine kinds of action, O chief Brahmin.</TR>
+
+%folioinfo \msNa\ 231.jpg upper
+<TEXT> stuti nindā praśaṃsā ca ākrośaḥ priya eva saḥ||</TEXT> 20:76
+        <APP>\vd <LEM>ākrośaḥ</LEM> \msCb\msNa\Ed; \lac1 × krośaḥ \msCa</APP>
+        <TR>Praise, scolding, approval, abuse, kind words,</TR>
+
+<TEXT> praśno 'nujñā tathākhyānam{ }āśīś{ }ca vidhayo nava|</TEXT>
+        <APP>\vb <LEM>˚ś{ }ca vidhayo nava</LEM> \msCb;
+                        ˚ś{ }ca vidhayonaya \msCa,
+                        ˚ś{ }ca vidhayonayaḥ \msNa,
+                        ˚ś{ }cāvidhiyonayaḥ \Ed</APP>
+        <TR>asking, permitting, describing events, and blessing 
+            are nine methods.</TR>
+
+<TEXT> etā navavidhā vāṇī kīrtitā me dvijottama||</TEXT> 20:77
+        <APP>\vd <LEM>kīrtitā</LEM> \msCa\msCb\msNa; kīrtito \Ed\oo
+                 <LEM>°ttama</LEM> \msCa\msCb\msNa; °ttamaḥ \Ed</APP>
+        <TR>The nine kinds of speech have been taught
+            by me as being these, O great Brahmin.</TR>
+
+
+
+
+<SUBCHAPTER>manaś{ }conmanaś{ }ca (1)</SUBCHAPTER>
+<TRSUBCHAPTER>The mind and the non-mind (1st)</TRSUBCHAPTER>
+
+<TEXT> adhunā kathayiṣyāmi manaso nava vai guṇān|</TEXT>
+        <TR>Now I shall teach the nine  Łguṇa$s of
+           the mind.</TR>
+
+<TEXT> calopapattiḥ sthairaṃ ca visarga kalpanā kṣamā|</TEXT>
+        <APP>\vd <LEM>visarga°</LEM> \msCb\msNa\Ed; visarge \msCa\oo
+                 <LEM>°kṣamā</LEM> \msCa\msCb\msNa; °samā \Ed</APP>
+        <TR>Movement, effecting, firmness, emission, 
+            fantasy, patience,</TR>
+
+<TEXT> sad{ }asac{ }cāśutā caiva manaso nava vai guṇāḥ||</TEXT> 20:78
+        <APP>\ve <LEM!>sad{ }asac{ }cāśutā caiva</LEM> \eme;
+                            sad{ }asabbāṃśutāñ{ }caiva \msCa,
+                            sad{ }asatāñ{ }caiva \msCb,
+                            sad{ }aśabdāṃśutāṃ caiva \msNa,
+                            sad{ }asac{ }cāśutāś{ }caiva \Ed</APP>
+        <PARAL>\vcdef Ł\similar\ \MBH\ 12.247.9:$
+                        calopapattir{ }vyaktiś{ }ca visargaḥ kalpanā kṣamā |
+                        sad{ }asac{ }cāśutā caiva manaso nava vai guṇāḥ ||</PARAL> 
+        <TR>truth, untruth, and quickness are the nine Łguṇa$s of
+                the mind.</TR>
+
+% sadasavvā? \msCa
+
+<TEXT> iṣṭāniṣṭavikalpaś{ }ca vyavasāyaḥ samādhitā|</TEXT>
+        <APP>\va <LEM>iṣṭā°</LEM> \msCb\msNa\Ed; \lac1 × ṣṭā° \msCa</APP>
+        <APP>\vb <LEM>°sāyaḥ</LEM> \msCa\msNa\Ed; °sāya \msCb\oo
+                 <LEM>samādhitā</LEM>  \msCa\msCb\msNa; samādhinā \Ed</APP>
+        <PARAL>\vab Ł=\MBH\ 12.247.10ab$</PARAL> 
+        <NOTE>ŁPāda$s ab are identical with \MBH\ 12.247.10ab, which 
+              starts listing five Łguṇa$s, not of the mind (Łmanas$), but of
+              intelligence (Łbuddhi$). The second half of
+              the verse in the \MBH\ reads:
+              Łsaṃśayaḥ pratipattiś ca buddhau pañceha ye guṇāḥ$.
+              Our 20.79ab may simply be misplaced or rather seems
+              like a false start.</NOTE>
+        <TR>[The five Łguṇa$s of the mind, or intelligence, include] pleasant and unpleasant notions,
+            intention and being united.</TR>
+
+<TEXT> manaso dvividhaṃ rūpaṃ manaś{ }conmana eva ca||</TEXT> 20:79
+        <APP>\vd <LEM>°nmana</LEM> \msCb\msNa\Ed; °tmana \msCa</APP>
+        <TR>The form of the Mind is twofold: mind and non-mind.</TR>
+
+<TEXT> manas{ }tv{ }indriyabhāvatve unmanastvam{ }anindriye|</TEXT>
+        <APP>\va <LEM>°bhāvatve</LEM> \msCa\msNa\Ed; °bhāvetve \msCb</APP>
+        <APP>\vb <LEM>°nindriye</LEM> \corr; °nīndriye \msCa\msCb\msNa, °tīndriya \Ed</APP>
+        <TR>It is mind when there are sense faculties, 
+            and non-mind when there are no senses.</TR>
+% variants!            ñ ca \msCa
+%sukham ātyantikaṃ yat tad buddhi-grāhyam atīndriyam |
+%vetti yatra na caivāyaṃ sthitaś calati tattvataḥ ||BhG_6.21||
+
+% buddhi not yet developed in the VSS
+
+
+<TEXT> nigṛhītā visṛṣtaṃ ca bandhamokṣau tu sādhanam||</TEXT> 20:80
+        <APP>\vcd <LEM!>nigṛhītā visṛṣtaṃ ca bandhamokṣau tu sādhanam</LEM> \msCa\msCb\msNa; \om\ \Ed</APP>
+        <NOTE>Note the in Łpāda$s cd Łnigṛhītā$ should connect to
+              Łmokṣa$ and Łvisṛṣṭa$ to Łbandha$, not in the order
+              that the text suggests.</NOTE>
+        <TR>When [the senses] are controlled, liberation is produced.
+            When they are let go, bondage is produced.</TR>
+
+<TEXT> nigṛhītendriyagrāmaḥ svargamokṣau tu sādhanam|</TEXT>
+        <TR>If the senses are under control, it means reaching heaven and liberation.</TR>
+
+<TEXT> visṛṣṭa indriyagrāme duḥkhasaṃsārasādhanam||</TEXT> 20:81
+        <APP>\vc <LEM>°sṛṣṭa</LEM> \msNa; °sṛṣṭe \msCa\msCb\Ed</APP>
+        <APP>\vd <LEM>duḥkha°</LEM> \msNa; \lac1 × kha° \msCa, duḥkhaṃ \msCb\Ed</APP>
+        <TR>When the senses are let loose, suffering and transmigration are the result.</TR>
+
+<TEXT> sakalaṃ niṣkalaṃ caiva mana eva vidur{ }budhāḥ|</TEXT>
+        <APP>\vb <LEM>mana eva</LEM> \msCa\msCb\Ed; manar{ }eva \msNa</APP>
+        <TR>The wise know that the mind can be form-endowed (Łsakala$) 
+            and formless (Łniṣkala$).</TR>
+
+<TEXT> sakalaṃ mana nānātve ekatve mana niṣkalam||</TEXT> 20:82
+        <TR>When there is multiplicity (Łnānātva$), the mind is form-endowed (Łsakala$).
+            When there is oneness, the mind is formless (Łniṣkala$).</TR>
+
+
+% EDDIG \msNa
+
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+% ma-vipulā
+<TEXT> manaḥ svavedyaṃ lokānām{ }unmanas{ }tu na vidyate|</TEXT>
+        <APP>\va <LEM>manaḥ</LEM> \msCa\msNa\Ed; mana \msCb</APP>
+        <TR>The mind is self-evident for people, 
+                but the non-mind (Łunmanas$) is not known.</TR>
+
+%folioinfo \msCb\ 465.jpg, f.232r
+<TEXT> unmanaḥ kathayāsmākaṃ kīdṛśaṃ lakṣaṇaṃ bhavet||</TEXT> 20:83
+        <TR>Teach us about the non-mind, what is its defining mark?</TR>
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <TR>Anarthayajña spoke:</TR>
+
+<TEXT> unmanastvaṃ gate vipra nibodha daśalakṣaṇam|</TEXT>
+        <APP>\vb <LEM>nibodha</LEM> \msCb\msNa\Ed; \lac1 × bodha \msCa</APP>
+        <TR>Hear the ten chacteristic marks of someone who 
+                has entered the state of the non-mind, O Brahmin.</TR>
+
+<TEXT> na śabdaṃ śṛṇute śrotraṃ śaṅkhabherīsvanād{ }api||</TEXT> 20:84
+        <APP>\vc <LEM>śabdaṃ</LEM> \msCa\msNa\Ed; śabda \msCb\oo
+                 <LEM>śrotraṃ</LEM> \msCa\msCb\msNa; śrotre \Ed</APP>
+        <TR>His ears do not hear any sound, not even the sound
+                 of conch-shells and kettle-drums.</TR>
+%folioinfo \Ed\ p.661
+
+<TEXT> tvacaḥ sparśaṃ na jānāti śītoṣṇam{ }api duḥsaham|</TEXT>
+        <TR>His skin does not know touch,
+                 not even unbearable cold or hotness.</TR>
+
+<TEXT> rūpaṃ paśyati no cakṣuḥ parvatābhyadhiko 'pi vā||</TEXT> 20:85
+        <TR>His eyes do not see any forms, not even things
+                         bigger than mountains.</TR>
+
+<TEXT> jihvā rasaṃ na vindeta madhurāmlavaṇo 'pi vā|</TEXT>
+        <APP>\vb <LEM>°rāmlavaṇo</LEM> \corr; °rāmlavano \msCa\msNa, 
+                                    °ro lavano \msCb, °rāmlavato \Ed</APP>
+        <TR>His tongue does not sense tastes,
+                         not even sweetness or saltiness.</TR>
+
+<TEXT> gandhaṃ jighrati na ghrāṇā tīkṣṇaṃ vāpy{ }aśucīny{ }api||</TEXT> 20:86
+        <APP>\vc <LEM>ghrāṇā</LEM> \mssALL\msCa\msCb\msNa; ghrāṇo \Ed</APP>
+        <APP>\vd <LEM>vāpy{ }aśucī°</LEM> \mssALL\msCa\msNa\Ed; vāpi śucī° \msCb</APP>
+        <TR>His nose does not sense smells,
+                 not even strong or impure ones.</TR>
+
+<TEXT> unmanas{ }tv{ }eṣa me khyātaṃ sarvadvaitavināśanam|</TEXT>
+        <APP>\va <LEM>unmanas{ }tv{ }eṣa me</LEM> \msCb\msNa;
+                                \lac6 ×××××× \msCa, 
+                                unmanas{ }tava me \Ed</APP>
+        <TR>I have taught the non-mind like this. It destroys
+                         all duality [such as hot-cold],</TR>
+
+%index_grammar: me for mayā (Oberlies 4.1.3 [pp. 102--103])
+
+<TEXT> bhavapāragasuvyaktaṃ niṣkalaṃ śivam{ }avyayam||</TEXT> 20:87
+        <TR>which is imperishable Niṣkala Śiva that manifests competely
+            when one reaches the other shore of existence.</TR>
+% for all sects?
+
+<TEXT> sa śivaḥ sa paro brahmā sa viṣṇuḥ sa paro 'kṣaraḥ|</TEXT>
+        <TR>It is Śiva, highest Brahmā, highest and imperishable Viṣṇu.</TR>
+
+<TEXT> sa sūkṣmaḥ sa paro haṃsaḥ so 'kṣaraḥ kṣaravarjitaḥ||</TEXT> 20:88
+        <TR>It is subtle, it is the highest Swan [i.e.\ soul], which is
+            imperishable and devoid of decay.</TR>
+
+% unmana for unmanaṃ or unmanas? stem form? or nom.?
+<TEXT> eṣa unmana jānīhi śivaś{ }ca dvijapuṅgava|</TEXT>
+        <APP>\vb <LEM>°puṅgava</LEM> \msCa\msCb\Ed; °puṅgavaḥ \msNa</APP>
+        <TR>Know this as the non-mind, and as Śiva, 
+                        O chief of the Brahmins.</TR>
+
+<TEXT> kīrtito 'smi samāsena kim{ }anyat{ }paripṛcchasi||</TEXT> 20:89
+        <APP>\vd <LEM>paripṛcchasi</LEM> \msCb\msNa\Ed; pa<UNCL>ri</UNCL>\lac3 ××× \msCa</APP>
+        <TR>I have taught you [this], what else would you like to ask?</TR>
+
+
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe pañcaviṃśatitattvanirṇayo nāma viṃśatimo 'dhyāyaḥ</COLOPHON></TEXT>
+        <APP> Ł\Colo:$  <LEM>°viṃśatitattvanirṇayo nāma viṃśatimo</LEM> \msCa\msNa;
+                                                °viṃśatimo \msCb,
+                                                °viṃśatitattvanirṇayo nāma viṃśatitamo \Ed</APP>
+        <TRCOLOPHON>Here ends the twentieth chapter in the Vṛṣasārasaṃgraha called the Description of the twenty-five Tattvas.</TRCOLOPHON>
+%END OF CHAPTER 20
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+ % yugas as the four legs
+
+

@@ -1,0 +1,924 @@
+<START/>
+<startchapter-n="10"/> 
+%chapter 10 
+<CHAPTER>daśamo 'dhyāyaḥ</CHAPTER>
+       <TRCHAPTER> Chapter Seven </TRCHAPTER>
+
+<SUBCHAPTER>kāyatīrthopavarṇanam</SUBCHAPTER>
+<TRSUBCHAPTER>Description of the pilgrimage places in the body</TRSUBCHAPTER>
+% ŚDhU:
+% tīrthāni toyapūrṇāni devāḥ pāṣāṇamṛṇmayāḥ|
+% yogino na prapadyante svātmapratyayakāriṇaḥ|| 3.63||
+% agnau kriyāvatāṃ devā divi devā manīṣiṇām|
+% pratimāsv aprabuddhānāṃ yoginām ātmani sthitāḥ|| 3.64||
+% śivam ātmani paśyanti pratimāsu na yoginaḥ|
+% ajñānām bhāvanārthāya pratimā parikalpitā|| 3.65||
+% ātmatthaṃ yaḥ śivaṃ tyaktvā bahiḥsthaṃ yajate śivam|
+% haste piṇḍaṃ samutsṛjya lihet kūrparamātmanaḥ|| 3.66||
+% sarvatrāvasthitaṃ ye tu na prapaśyanti śaṅkaram|
+
+<ANUSTUBH/>
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+% See long list of tīrthas at the end of Kane Dharmaśāstra vol 4
+%folioinfo \msCb\ 427.jpg 
+<TEXT> katamaṃ sarvatīrthānāṃ śreṣṭham{ }āhur{ }manīṣinaḥ|</TEXT>
+        <APP>\va <LEM>katamaṃ sarva°</LEM> \mssALL\mssCaCbCc\msNa\Ed; 
+                                                        katamasarva° \msNb, kathaman{ }sarva° \msNc</APP>
+        <APP>\vab <LEM>°tīrthānāṃ śreṣṭha°</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; °tīrthā\lk\lk ṣṭha° \msCa</APP>
+        <APP>\vb <LEM>manīṣinaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; manīṣibhiḥ \Ed</APP>
+        <LACUNA>ŁWitnesses used for this chapter: \msCa\ ff.\thinspace 207r--208v, 
+                                              \msCb\ ff.\thinspace 212v--214r, 
+                                              \msCc\ ff.\thinspace 283v--285v,
+                                              \msNa\ ff.\thinspace 14v--15v, 
+                                              \msNb\ exp.\thinspace 55 (lower) -- 56 (lower),
+                                              \msNc\ ff.\thinspace 222v--223v,
+                                              \Ed\ pp.\thinspace 610--613; 
+                                              \mssCaCbCc\ = \msCa + \msCb + \msCc$</LACUNA>
+        <TR>Which pilgrimage place (Łtīrtha$) do the wise consider the best of all?</TR>
+
+<TEXT> kathayasva muniśreṣṭha yady{ }asti bhuvi kāmadam||</TEXT> 10:1
+        <APP>\vd <LEM>bhuvi</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; bhūri \Ed\oo
+                 <LEM>°dam</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °daḥ \msNa</APP>
+        <TR>Tell me, O best of sages, if there is one in the world that fulfils [all] desires.</TR>
+
+%index_anarthayajna_ref_as: muniśreṣṭha
+
+
+%folioinfo \msCc\ 211.jpg 
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <TR>Anarthayajña spoke:</TR>
+
+<TEXT> atiguhyam{ }idaṃ praśnaṃ pṛṣṭaḥ snehād{ }dvijottama|</TEXT>
+        <APP>\vb <LEM>snehād{ }dvi°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; snehā dvi° \msCc</APP>
+        <TR>This question is an extremely deep secret.
+                 [Now that you] ask [me], O excellent Brahmin,</TR>
+
+<TEXT> bravīmi vaḥ purāvṛttaṃ nandinā kathito 'smy{ }aham||</TEXT> 10:2
+        <APP>\vd <LEM>'smy{ }aham</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; smṛham \msCc</APP>
+        <NOTE>On the syntax of Łpāda$ d, see pp.~\pageref{kathita} ff.</NOTE>
+        <TR>I shall teach you, out of fondness, an ancient legend that Nandi told me.</TR>
+
+<TEXT> nandikeśvara uvāca|*</TEXT>
+        <APP>\vo <LEM>nandi°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; nandī° \msCb</APP>
+        <NOTE>Note the change of speaker here: Nandikeśvara is also the main
+              interlocutor of the \SDHS\ and the \SDHSAMGR.
+              This verse marks the beginning of the layer that can be labelled Śaiva
+              (see pp.~\pageref{structure} ff).
+              On Nandi/Nandin/Nandikeśvara not being Śiva's bull, see
+              <cite>bhattacharya_nandin_1977</cite> and pp.~\pageref{bull} ff. above.</NOTE>
+        <TR>Nandikeśvara spoke:</TR>
+
+<TEXT> kailāsaśikhare ramye siddhacāraṇasevite|</TEXT>
+        <APP>\va <LEM>kailāsa°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; kailāśe \Ed</APP>
+        <PARAL>\vab Ł \compare\ MBh 12.327.18cd:$ merau girivare ramye siddhacāraṇasevite </PARAL>
+        <TR>On the beautiful peak of Mount Kailāsa, which is
+                 frequented by Siddhas and celestial singers (Łcāraṇa$),</TR>
+
+<TEXT> tatrāsīnaṃ śivaṃ sākṣād{ }devī vacanam{ }abravīt||</TEXT> 10:3
+        <TR>Devī asked Śiva, who was sitting there in his manifest form (Łsākṣāt$).</TR>
+% abravīta \msNc
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> bhagavan{ }devadeveśa sarvabhūtajagatpate|</TEXT>
+        <APP>\va <LEM>°deveśa</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °deśa \msCb</APP>
+        <APP>\vb <LEM>°pate</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\msNc\Ed; °patim \msNaacorr</APP>
+        <TR>O Lord, Lord of the chiefs of the gods, O ruler of all beings and of the whole world,</TR>
+
+<TEXT> praṣṭum{ }icchāmy{ }ahaṃ tv{ }ekaṃ dharmaguhyaṃ sanātanam||</TEXT> 10:4
+        <APP>\vc <LEM>dharma°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; dha<UNCL>rmaṃ</UNCL> \msNa</APP>
+        <NOTE>It is not unlikely that in Łpāda$ d, Łsanātanam$ was intended to refer to
+              Łdharma$° (`eternal Dharma'), or that Łdharmaguhya$ should be corrected
+              to Łdharmaṃ guhyaṃ$ (`\dots~ask you about the secret and eternal Dharma').</NOTE>
+        <TR>I would like to ask you about an eternal secret concerning Dharma,</TR>
+% \msNa has an interesting character after dharma
+
+<TEXT> atitīrthaṃ paraṃ guhyaṃ saṃsārād{ }yena mucyate|</TEXT>
+        <APP>\va <LEM>°tīrthaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc; °tīrtha \msNb\Ed</APP>
+        <APP>\vab <LEM>guhyaṃ saṃsārād{ }yena mucyate</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; 
+                                <UNCL>ga</UNCL>\lac1 × <UNCL>saṃ</UNCL>sārād{ }yena mucyate \msNb</APP>
+        <TR>about the transcendental and highly secret pilgrimage place at which one
+                 can be liberated from mundane existence (Łsaṃsāra$).</TR>
+
+%folioinfo \msNb\ 55.jpg upper
+<TEXT> manuṣyāṇāṃ hitārthāya brūhi tattvaṃ maheśvara||</TEXT> 10:5
+        <APP>\vd <LEM>°śvara</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °śvaraḥ \msCc</APP>
+        <TR>O Maheśvara, teach me the truth for the benefit of mankind.</TR>
+
+
+<TEXT> maheśvara uvāca|*</TEXT>
+        <TR>Maheśvara spoke:</TR>
+
+<TEXT> ko māṃ pṛcchati taṃ praśnaṃ muktvā tvām{ }eva sundari|</TEXT>
+        <APP>\va <LEM>taṃ praśnaṃ</LEM> \msNa\msNb; tat{ }praśna \msCa\msCb, tat{ }praśnaṃ \msCc\Ed, 
+                                                                taṃ praśna \msNc</APP>
+        <APP>\vb <LEM>muktvā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; muktā \Ed</APP>
+        <TR>Who else could ask me that question except for you, O Sundarī?</TR>
+
+<TEXT> śṛṇu vakṣyāmi taṃ praśnaṃ devair{ }api sudurlabham||</TEXT> 10:6
+        <APP>\vc <LEM>taṃ praśnaṃ</LEM> \msNc; tat{ }praśnaṃ \mssCaCbCc\msNa\msNb\Ed</APP>
+        <TR>Listen, I shall expound that question, which is difficult to grasp even for the gods.</TR>
+
+<TEXT> kurukṣetraṃ prayāgaṃ ca vārāṇasīm{ }ataḥ param|</TEXT>
+        <TR>If one gets to know Kurukṣetra, Prayāga, Vārāṇasī,</TR>
+
+<TEXT> gaṅgāgniṃ somatīrthaṃ ca sūryapuṣkaramānasam||</TEXT> 10:7
+        <APP>\vc <LEM>gaṅgāgniṃ</LEM> \msCa\msCb; gaṅgāgni \msCc\msNa\msNb\msNc, gaṅgā'gni° \Ed </APP>
+        <TR>Gaṅgā, Agni[tīrtha], Somatīrtha, Sūrya[tīrtha], Puṣkara, Mānasa,</TR>
+        
+<TEXT> naimiṣaṃ bindusāraṃ ca setubandhaṃ suradraham|</TEXT>
+        <APP>\va <LEM>naimiṣaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; nemisa \msNc</APP>
+        <APP>\vb <LEM>°bandhaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °bandha° \Ed\oo
+                 <LEM>°draham </LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °hradaṃ \Ed</APP>
+        <NOTE>Note Łbindusāraṃ$ for Łbindusaras/°saraṃ/°sarasaṃ$ metri causa.</NOTE>
+        <TR>Naimiṣa, Bindusaras, Setubandha, Suradraha,</TR>
+
+%index_metre: lengthtening of vowel metri causa (bindusāraṃ)
+
+<TEXT> ghaṇṭikeśvaravāgīśaṃ jñātvā niścayapāpahā||</TEXT> 10:8
+        <APP>\vc <LEM>°vāgīśaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; \lac1 ×<UNCL>gīśa</UNCL> \msNb</APP>
+        <APP>\vd <LEM>niścayapāpahā</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed;
+                                                 niśca<UNCL>ya</UNCL>\lk\lk\lk\  \msCa</APP>
+        <NOTE>Although some of these toponyms are difficult to identify and some may refer to
+              southern locations (e.g. Setubandha), in general they suggest a North Indian focus.
+              See details on the pilgrimage places in this chapter on pp.~\pageref{provenance} ff.</NOTE>
+        <TR>Ghaṇṭikeśvara, and Vāgīśa, one will certainly be able to destroy one's sins.</TR>
+
+
+%folioinfo \Ed\ p.611
+%folioinfo \msCa\ 410.jpg
+<TEXT> umovāca|*</TEXT>
+        <TR>Umā spoke:</TR>
+
+<TEXT> evamādi mahādeva pūrvavat{ }kathitāsmy{ }aham|</TEXT>
+        <APP>\vb <LEM>kathitā°</LEM> \msCa\msCc\msNa\msNc; kathito \msCb\msNb\Ed</APP>
+        <NOTE>I take Łpūrvavat$ in Łpāda$ b as if used in the sense of Łpūrvaṃ$ (`previously'),
+              and Łeteṣāṃ$ in Łpāda$ d as Łeteṣu$.  It would also be possible to take Łeteṣāṃ$
+              in 10.9d and Łjñānamātreṇa$ in 10.10b as connected (`by the 
+              mere knowledge of them'; actually, one should understand 
+              Łsvargabhogapradānāṃ tīrthānām eteṣāṃ$),
+              but the former solution, namely taking Łeteṣāṃ$ as Łeteṣu$,
+              seems to work also in 10.14, where again a genitive (Łteṣāṃ$) 
+              may stand for a locative (Łteṣu$). On the syntax of Łpāda$ b,
+              see p.~\pageref{kathita}.</NOTE>
+        <TR>I have been taught this previously, O Mahādeva.</TR>
+
+%index_grammar: genitive for locative
+
+<TEXT> svargabhogapradaṃ tīrtham{ }eteṣāṃ suranāyaka||</TEXT> 10:9
+        <APP>\vcd <LEM>tīrtham{ }e°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; tīrthaṃm{ }e° \msCc</APP>
+        <APP>\vd <LEM>suranāyaka</LEM> \msCapcorr\msNa\msNc; suranāka \msCaacorr, suranāyakam \msCb\msCc\msNb\Ed</APP>
+        <TR>[Which is] the pilgrimage place that yields all kinds of enjoyment, O Suranāyaka?</TR>
+
+<TEXT> kathaṃ mucyeta saṃsārāj{ }jñānamātreṇa īśvara|</TEXT>
+        <APP>\va <LEM>kathaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; katha \msCb</APP>
+        <APP>\vb <LEM>jñāna°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; jñāta° \msCb\oo
+                 <LEM>īśvara</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; ceśvara \msNa</APP>
+        <TR>[And] how is one liberated from mundane existence by merely knowing [the pilgrimage places], O Īśvara?</TR>
+
+%index_grammar: lack of sandhi in pāda d
+
+<TEXT> kautūhalaṃ mahaj{ }jātaṃ chindhi saṃśayakārakam||</TEXT> 10:10
+        <APP>\vc <LEM!>kautūhalaṃ mahaj{ }jātaṃ</LEM> \mssCaCbCc\Ed; kautūhalam{ }ma<UNCL>ho</UNCL>j{ }jātaṃ \msNa, 
+                                kauhalam{ }mahaj{ }jātaṃ \msNbacorr,
+                                kau<UNCL>tū</UNCL>halam{ }mahaj{ }jātaṃ \msNbpcorr,
+                                kotūhalaṃ mahaj{ }jātaṃ \msNc</APP>
+        <APP>\vd <LEM>°kārakam</LEM> \Ed; °kāraka \mssCaCbCc\msNb\msNc, °kārakaḥ \msNa</APP>
+        <NOTE>We are forced to agree with \Ed's printing °Łkārakam$ in Łpāda$ d because
+              all the other readings seem out of context, whether they refer to Śiva
+              in the vocative or nominative.</NOTE> 
+        <TR>Cut [this] great curiosity arising [in me] that causes doubt.</TR>
+
+<TEXT> rudra uvāca|*</TEXT>
+        <TR>Rudra spoke:</TR>
+
+<TEXT> kiṃ na jānāmi tat{ }tīrthaṃ sulabhaṃ durlabhaṃ ca yat|</TEXT>
+        <APP>\va <LEM>jānāmi</LEM> \mssCaCbCc\msNb; jānā<UNCL>mi</UNCL> \msNaacorr, jānā<UNCL>si</UNCL> \msNapcorr, 
+                                                                                jānāsi \msNc\Ed</APP>
+        <APP>\vb <LEM>durlabhaṃ ca</LEM> \msCa\msNa\msNb\Ed; dulabhañ{ }ca \msCb\msNc, dullabhañ{ }ca \msCc</APP>
+        <NOTE>Note Łsevīnāṃ$ for Łsevināṃ$ in Łpāda$ c metri causa.
+             <sep/>My translation here is slightly tentative and is fashioned to make sense
+              in light of what is coming: the praise of internalised pilgrimage places,
+              contrasting them with real, external pilgrimage places.</NOTE>
+        <TR>How could I not know [the difference between] that pilgrimage place that is easy to reach 
+                 and that which is difficult to reach?</TR>
+
+<TEXT> sulabhaṃ gurusevīnāṃ durlabhaṃ tad{ }vivarjayet||</TEXT> 10:11
+        <APP>\vc <LEM!>sulabhaṃ gurusevīnāṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed;
+                                                    \lk\lk \lk\lk \lk\lk vīnāṃ \msCa</APP>
+        <APP>\vd <LEM>°varjayet</LEM> \mssALL\mssCaCbCc\msNb\msNc; °varjaye \msNa, °varjanāt \Ed</APP>
+        <TR>It is easy to reach for those who serve their guru. One can abandon the one
+                 which is difficult to reach.</TR>
+
+%index_metre: lengthening of vowel metri causa
+% dulabhaṃ \msNc
+
+
+<SUBSUBCHAPTER>kurukṣetram</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Kurukṣetra</TRSUBSUBCHAPTER>
+<TEXT> kuruḥ puruṣa vijñeyaḥ śarīraṃ kṣetra ucyate|</TEXT>
+        <APP>\va <LEM>kuruḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; guruḥ \msNb\oo
+                 <LEM>puruṣa</LEM> \Ed; puruṣaḥ \mssCaCbCc\msNa\msNb\ \unmetr, puruṣo \msNc\ \unmetr</APP>
+        <APP>\vb <LEM>śarīraṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; śarī<UNCL>ra</UNCL> \msCa\oo
+                 <LEM>kṣetra ucyate</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; kṣetram{ }ucyate \msNa</APP>
+        <PARAL>\vb Ł\compare\ \BHG\ 13.1:$
+                        idaṃ śarīraṃ kaunteya kṣetram{ }ity{ }abhidhīyate|
+                        etad{ }yo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ||</PARAL>
+        <NOTE>In Łpāda$ b, one could apply \msNa's reading that has the standard neuter nominative form Łkṣetram$
+              as opposed to the form transmitted in all other witnesses (Łkṣetra$) but
+              the latter might be original, influenced by the \stemform\ Łpuruṣa$ in Łpāda$ a.</NOTE>
+        <TR>ŁKuru$- [in Kurukṣetra] is to be known as the soul (Łpuruṣa$), 
+                        -Łkṣetra$ as the body.</TR>
+
+%index_grammar: stem form metri causa 
+%index_geo: Kurukṣetra
+
+%folioinfo \msNa\ 208.jpg lower, f.15r
+<TEXT> śarīrasthaṃ kurukṣetraṃ sarvatīrthaphalapradam||</TEXT> 10:12
+        <APP>\vc <LEM>°sthaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °stha \msNc\oo
+                 <LEM>°kṣetraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °kṣetra \msNc</APP>
+        <TR>Kurukṣetra that is in the body yields the fruits of [visiting] all pilgrimage places.</TR>
+% Which BhG commentator started to talk about Kurukṣetra being in the body?
+
+<TEXT> sarvayajñaphalāvāptiḥ sarvadānaphalāni ca|</TEXT>
+        <PARAL>\vab Ł\similar\ \UMS\ 21.48cd:$
+                                sarvayajñaphalāvāptiḥ sarvadānaphalaṃ labhet</PARAL>
+        <TR>[And there will be] the obtaining of the fruits of all sacrifices,
+                        the fruits of all [possible] gifting,</TR>
+
+
+% cīrṇṇaṃn \msCa
+<TEXT> sarvavratatapaś{ }cīrṇaṃ tatphalaṃ sakalaṃ bhavet||</TEXT> 10:13
+        <APP>\vd <LEM>tatphalaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; tatphala \msNc</APP>
+        <TR>and all the fruits of all religious observances and penance performed.</TR>
+
+<TEXT> evam{ }eva phalaṃ teṣāṃ tīrthapañcadaśeṣu ca|</TEXT>
+        <APP>\vb <LEM>tīrthapañcadaśeṣu</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; tīrthampaṃcadaśaiṣu \msCb</APP>
+        <TR>This is how the fruits [are said to be also] in the case of those fifteen
+                pilgrimage places [from Kurukṣetra to Vāgīśa]. </TR>
+
+%index_grammar: genitive for locative?
+
+%folioinfo \msCc\ 212.jpg 
+% for anaghaṃ? or accept \msNb?
+<TEXT> anaghānaṃ mahāpuṇyaṃ mahātīrthaṃ mahāsukham||</TEXT> 10:14
+        <APP>\vc <LEM!>anaghānaṃ mahāpuṇyaṃ</LEM> \msCb\msNc; \lk\lk \lk\lk \lk\lk puṇya \msCa,
+                                anapyām{ }mahāpuṇyaṃ \msCc\ \hypermetr,
+                                anadhyānaṃ mahāpuṇyaṃ \msNa, adhvānan{ }tu mahāpuṇyaṃ \msNb,
+                                snānadhyānaṃ mahāpuṇyaṃ \Ed</APP>
+        <NOTE>Łanaghānaṃ$ in Łpāda$ c is problematic. It may simply stand for Łanaghaṃ$ (`faultless').
+              That is how I translate it. Originally it may have involved a \stemform\ adjective:
+              Łanaghaitan$ (Łanagha + etad$).</NOTE>
+        <TR>[Kurukṣetra,] the great and faultless pilgrimage place is extremely auspicious and pleasant.</TR>
+
+
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> atīva romaharṣo me jāto 'sti tridaśeśvara|</TEXT>
+        <APP>\va <LEM>atīva</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; avīva \msCb</APP>
+        <APP>\vb <LEM>'sti</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; smi \msNb\oo
+                 <LEM>tridaśeśvara</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; tridaśeśvaraḥ \msCc, tri\lac1 × śeśvara \msNb</APP>
+        <TR>I am extremely thrilled, O Tridaśeśvara.</TR>
+
+<TEXT> sulabhaṃ sukaraṃ sūkṣmaṃ śrutvā tuṣṭiś{ }ca me gatā||</TEXT> 10:15
+        <APP>\vd <LEM>tuṣṭiś{ }ca</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; tuṣṭiñ{ }ca \msCc\oo
+                 <LEM>gatā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; gatāḥ \msCb</APP>
+        <NOTE>We could read Łśrutvātuṣṭiś$ (i.e. Łśrutvā-atuṣṭiś$) in Łpāda$ d
+              (`hearing this, my discontent is gone'), but interlocutors in this
+              text usually want to hear more when they are still unsatisfied, and
+              hungry for more teaching. See, e.g., <cite>KissVolume2021</cite>.
+              (Or shall we read Łśrutvātuṣṭiś ca me 'gatā$, `hearing this my
+              discontent has not yet disappeared'?)</NOTE>
+        <TR>Hearing about that which is easy to obtain, easy to perform, and is subtle,
+                 my contentment has left me [that is, I want to hear more].</TR>
+
+%folioinfo \msNc\ 225.jpg lower, f. 223r
+%folioinfo \msM\ 424.jpg lower, f. 16r 
+<TEXT> caturdaśa paro bhūyaḥ kathayasva manoharam|</TEXT>
+        <NOTE>Note again the use of the singular next to numbers (Łcaturdaśa \dots\ manoharam prayāgādi$),
+              a frequent phenomenon in this text.</NOTE>
+        <TR>Teach me further about the remaining fourteen pleasant [pilgrimage places],</TR>
+
+%index_grammar: singular after numbers, Newari
+
+<TEXT> prayāgādi pṛthaktvena tattvatas{ }tu sureśvara||</TEXT> 10:16
+        <APP>\vd <LEM>tattvatas{ }tu</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\msNc\Ed; tatvata \msNaacorr</APP>
+        <TR>Prayāga and the others, one by one, as they really are, O Sureśvara.</TR>
+
+
+
+
+
+<SUBSUBCHAPTER>prayāgo vārāṇasī ca</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Prayāga and Vārāṇasī</TRSUBSUBCHAPTER>
+
+<TEXT> rudra uvāca|*</TEXT>
+
+<TEXT> suṣumnā bhagavatī gaṅgā iḍā ca yamunā nadī|</TEXT>
+        <APP>\va <LEM>suṣumnā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; suṣumṇā \Ed\oo
+                 <LEM>bhagavatī gaṅgā</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\ \unmetr;
+                                                 bhagavatī ga\lk\ \msCa, bhavatī gaṅgā \Ed</APP>
+        <NOTE>There seems to be only two yogic tubes mentioned 
+              here (and in 10.20--21, and 11.21): Suṣumnā and Iḍā, instead 
+              of the more usual triad of Iḍā, Piṅgalā, 
+              and Suṣumnā. This is strikingly similar to
+              what we see in the archaic yoga of the \NISVNAYA, 
+              see 
+              <citep>NisvasaGoodall</citep><pnum>33--34</pnum>.
+              According to 
+              <citep>BaroisDhP</citep><pnum>23 and 46</pnum> 
+              the case is similar in the \DHARMP.
+              This is slightly doubtful because a third tube, 
+              called Turyā, is mentioned immediately after
+              Iḍā and Suṣumnā in \DHARMP\ 4.57: 
+        <sep/>
+                Łiḍā vāmā suṣumnā ca dve nāḍī nāsikāśrite$ | <br/>
+                Łbhruvor madhye parā nāḍī tajjñais turyeti kīrttitā$ ||
+        <sep/>
+            It is also possible that the third tube is there, 
+            as Prayāga, in our obscure \VSS\ 10.17cd,
+            which may want to say that at the confluence of 
+            the Gaṅgā/Suṣumnā and the Yamunā/Iḍā,
+            there is the internalised pilgrimage place, 
+            or tube, called Prayāga.
+         Compare \MBH\ Suppl. 6.3A.41--44:
+        <sep/>
+        Łiḍā bhagavatī gaṅgā piṅgalā yamunā nadī$ |<br/>
+        Łtayor madhye tṛtīyā tu tat prayāgam anusmaret$ ||<br/>
+        Łiḍā vai vaiṣṇavī nāḍī brahmanāḍī tu piṅgalā$ |<br/>
+        Łsuṣumṇā caiśvarī nāḍī tridhā prāṇavahā smṛtā$ ||
+        <sep/>
+         Note that Yamunā has not been mentioned as 
+         a Łtīrtha$ in \VSS\ 10.7--8 above.
+        See also \HYP\ 3.110:
+        <sep/>
+        Łiḍā bhagavatī gaṅgā piṅgalā yamunā nadī$ | <br/>
+        Łiḍāpiṅgalayor madhye bālaraṇḍā ca kuṇḍalī$ ||
+ 
+        Note also \Ed's attempt to make Łpāda$ a metrical.</NOTE>
+        <TR>The Suṣumnā[-tube] is the Honourable Gaṅgā, Iḍā[-tube] 
+                     is the river Yamunā.</TR>
+
+% maybe Bhāgmatī?
+%index_geo: Yamunā
+
+% srotovahā?
+<TEXT> etāḥ srotovahā nadyaḥ prayāgaḥ sa vidhīyate||</TEXT> 10:17
+        <APP>\vc <LEM>etāḥ srotovahā</LEM> \eme; etā śrotavahā \msCa\msNc\Ed, 
+                                        ete śrotāvahā \msCb\msCc, etā śrotravahā \msNa\msNb</APP>
+                <TR>[At the confluence of] these surging rivers is [the pilgrimage place] called Prayāga.</TR>
+                % a line dropped out?
+
+%index_geo: Prayāga
+
+
+<TEXT> dakṣiṇā vāruṇī nāsā vāmanāsā asi smṛtā|</TEXT>
+        <APP>\va <LEM>dakṣiṇā</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed; dakṣi<UNCL>ṇaṃ</UNCL> \msCa, dakṣiṇaṃ \msCc\oo
+                 <LEM>vāruṇī</LEM> \msNapcorr\msNc\Ed; varuṇī \msCa\msCc\msNaacorr\msNb, varuṇā \msCb</APP>
+        <APP>\vb <LEM>°nāsā</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; °nā \msCb\msNb</APP>
+        <NOTE>This verse most probably describes the spot between the eyebrows as an
+                internalised pilgrimage place.</NOTE>
+        <TR>The right nostril is [the river] Vāruṇī, the left nostril is known as [the river] Asi.</TR>
+% \msCb and \msNb often go together
+
+% internal sandhi! 
+<TEXT> vāruṇā-asimadhyena tena vārāṇasī smṛtā||</TEXT> 10:18
+        <APP>\vc <LEM!>vāruṇā-asimadhyena</LEM> \Ed; varuṇā asimadhyena \msCa\msCb\msNa\msNc,
+                                                vāruṇan{ }nāsamadhyeta \msCc,
+                                                varuṇa asimadhyena \msNb</APP>
+        <TR>Because [it is] at the confluence of Vāruṇā and Asi,
+                        [the city/internalised pilgrimage place there] is known as Vārāṇasī.</TR>
+% vārānasī \msNc
+
+%index_geo: Vārāṇasī
+
+<SUBSUBCHAPTER>gaṅgā</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Gaṅgā</TRSUBSUBCHAPTER>
+<TEXT> ākāśagaṅgā vikhyātā tasyāḥ sravati cāmṛtam|</TEXT>
+        <APP>\vb <LEM>tasyāḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; tasmā \msCc, tasyā \msNb</APP>
+        <NOTE>This verse may describe a bodily location such as the soft palate as an
+              internalised pilgrimage place.</NOTE>
+        <TR>[There is] the famous ethereal Gaṅgā. The nectar of immortality issues from her</TR>
+
+<TEXT> ahorātram{ }avicchinnaṃ gaṅgā sā tena ucyate||</TEXT> 10:19
+        <APP>\vd <LEM>tena</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; te \msCc</APP>
+        <NOTE>The word Łgaṅga$ is interpreted here as an intensive form from the root\verbalroot{Łgam$},
+              related to the better-attested intensive stems Łjaṅgam$ and Łganīgam$ (see the latter two, e.g., in 
+              <citep>WhitneyGrammar</citep><pnum>§1003</pnum>).</NOTE>
+        <TR>day and night uninterruptedly. That is why [this internalised pilgrimage place] is called Gaṅgā.</TR>
+
+%index_geo: Gaṅgā
+
+<SUBSUBCHAPTER>somatīrtham</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Somatīrtha</TRSUBSUBCHAPTER>
+<TEXT> somatīrtham{ }iḍā nāḍī kiṅkiṇīravacihnitā|</TEXT>
+        <APP>\va <LEM>°tīrtham{ }iḍā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °tīrtha iḍā \msCb</APP>
+        <APP>\vb <LEM>kiṅkiṇī°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; ciñcinī° \msCc\oo
+                 <LEM>°rava°</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc; °ravi° \msCbacorr, °rāva° \Ed\oo
+                 <LEM>°cihnitā</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °cihnikā \msCc, °cihnatā \msNb</APP>
+        <NOTE>Note that Iḍā has already been identified as the Yamunā in 10.17b.</NOTE>
+        <TR>Somatīrtha is the tube Iḍā. It is characterised by the ringing of small bells.</TR>
+
+<TEXT> taṃ tu śrutvā na saṃdehaḥ sarvapāpakṣayo bhavet||</TEXT> 10:20
+        <APP>\vc <LEM>taṃ tu</LEM> \corr; <UNCL>tan{ }tu</UNCL> \msCa, tan{ }tu \msCb\msCc\msNa\msNc\Ed, 
+                                                                                ta<UNCL>t{ }tu</UNCL> \msNb\oo
+                 <LEM>na saṃdehaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; varāroheḥ \msCc</APP>
+        <TR>Upon hearing that [ringing], all of one's sins will be destroyed.</TR>
+
+%index_geo: Somatīrtha
+
+<SUBSUBCHAPTER>sūryatīrtham</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Sūryatīrtha</TRSUBSUBCHAPTER>
+
+<TEXT> sūryatīrthaṃ suṣumnā ca nīravāravasaṃyutā|</TEXT>
+        <APP>\va <LEM>°tīrthaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °tīrtha \msNb\oo
+                 <LEM>suṣumnā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; suṣumṇā \Ed</APP>
+        <APP>\vb <LEM>nīravā°</LEM> \Ed; vīravā° \msCa\msCc, cīravā° \msCb\msNa\msNb\msNc\oo
+                 <LEM>°yutā</LEM> \msCa\msNa\msNc\Ed; °yutam \msCb\msCc, °yutāṃ \msNb</APP>
+         <NOTE>Suṣumnā has already been identified as the Gaṅgā in 10.17a.</NOTE>
+%Łnīravā-rava$ in Łpāda$ b probably stands for Łnīrava-rava$ metri causa.
+        <TR>Sūryatīrtha is the [tube] Suṣumnā, the one that emits a soundless thunder.</TR>
+
+%folioinfo \msCb\ 428.jpg 
+<TEXT> śrutimātrād{ }vimucyeta pāparāśir{ }mahān{ }api||</TEXT> 10:21
+        <APP>\vc <LEM>°mātrā°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °mātā° \msCc</APP>
+        <TR>One is liberated by merely hearing it, even if one has mountains of sin.</TR>
+
+%index_geo: Sūryatīrtha
+
+<SUBSUBCHAPTER>agnitīrtham</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Agnitīrtha</TRSUBSUBCHAPTER>
+% Prāṇāgnihotra (Muktabodha, line 129): somatīrthamagnitīrthaṃ śarīre tu sadāsthitam | 
+% but Agnitīrtha also in MBh and Purāṇas, see also Purāṇic Enc
+
+<TEXT> agnitīrthārjunā nāḍī brahmaghoṣamanoramā|</TEXT>
+        <APP>\va <LEM>°rjunā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °junā \msCc, °rjunaṃ \Ed</APP>
+        <APP>\vb <LEM>°ramā</LEM> \mssALL\mssCaCbCc\msNa\msNb; °ramāḥ \msNc\Ed</APP>
+        <NOTE>Łagnitīrtha$ is most probably in \stemform\ in Łpāda$ a.
+              <sep/>  
+              I am not aware of any yogic teachings that involve a Łnāḍī$ called Łarjunā$.
+              Maybe Łaruṇā$ or Łvaruṇā$ was meant? A Łvāruṇī nāḍī$ does occur in 
+              some texts, such as the \YogasikhaU\ (5.26, <citep>YogaUpanisads</citep><pnum>444</pnum>), 
+              the \Hatharatnavali\ (4.34--35, <citep>RootsOfYoga</citep><pnum>5.1.10</pnum>), 
+              and the \Sivasamhita\ (2.15, ibid. 5.2.4). On the other hand,     
+              `red' (Łaruṇa$) would be an appropriate label for Agnitīrtha,
+              not to mention that fact that it is a synonym of Łpiṅgala$, 
+              the name of the Łnāḍī$ that is conspicuously missing in this chapter
+              and in 11.21.</NOTE>
+        <TR>Agnitīrtha is the Arjuna tube. It is charming because of the hum of 
+                        Veda recitation.</TR>
+
+%folioinfo \Ed\ p.612
+<TEXT> tat{ }tad{ }akṣaram{ }ākarṇya amṛtatvāya kalpate||</TEXT> 10:22
+        <APP>\vc <LEM>°karṇya</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °rṇya \msCb</APP>
+        <APP>\vd <LEM>kalpate</LEM> \msCb\msNc\Ed; ka\lk \lac1\ × \msCa, kalpyate \msCc\msNa\msNb</APP>
+        <TR>Upon hearing this or that syllable, one's share  will be immortality.</TR>
+
+%index_geo: Agnitīrtha
+
+
+
+<SUBSUBCHAPTER>puṣkaram</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Puṣkara</TRSUBSUBCHAPTER>
+<TEXT> puṣkaraṃ hṛdi madhyastham{ }aṣṭapattraṃ sakarṇikam|</TEXT>
+        <APP>\vb <LEM>°pattraṃ</LEM> \msCb\msNa\msNc\Ed; \lk\lk\ \msCa, °patra \msCc\msNb\oo
+                 <LEM>°karṇikam</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; \lk\lk\lk\  \msCa, °karṇikām \Ed</APP>
+%        \vab Łillegible in $ \msCa
+        <NOTE>Łhṛdi$ was probably meant to be nominative, as in 10.27, 
+              here potentially compounded with Łmadhyastham$.</NOTE>
+        <TR>Puṣkara is a lotus with eight petals and a pericarp in the centre of the heart.</TR>
+
+%index_grammar: stem hṛdi?
+
+<TEXT> cintayet{ }sūkṣma tanmadhye janmamṛtyuvināśanam||</TEXT> 10:23
+        <APP>\vc <LEM>sūkṣma</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; <UNCL>sūkṣma</UNCL> \msCa, sūkṣmaṃ \Ed</APP>
+        <NOTE>On Łsūkṣma$ (here in \stemform\ metri causa), see \CHECK.</NOTE>
+        <TR>One should visualize the Subtle One in its centre. It will destroy birth and death.</TR>
+% tatmadhye \msNc
+
+%index_grammar: stem form metri causa 
+%index_geo: Puṣkara
+
+<SUBSUBCHAPTER>mānasam</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Mānasa</TRSUBSUBCHAPTER>
+<TEXT> mānasasaramadhyasthaṃ sa haṃsaḥ kamalopari|</TEXT>
+        <APP>\va <LEM>mānasa°</LEM> \msCb\msNa; <UNCL>mānasa</UNCL> \msCa, mānasaṃ \msCc\msNb\msNc\Ed</APP>
+        <APP>\vb <LEM>sa haṃsaḥ</LEM> \conj; sahaṃsa° \msCa\msCc\msNa\msNb\msNc\Ed, sahasaṃ \msCb</APP>
+        <NOTE>Understand Łmānasasara$° in Łpāda$ a as Łmānasasaro$° (metri causa).
+              To make sense of this verse, especially the masculine nominatives in
+              Łpāda$s cd, I have conjectured Łsa haṃsaḥ$ for what seems to 
+              a compound: Łsahaṃsakamalopari$. I suspect Łpāda$ a to qualify, clumsily,
+              Łkamala$ in Łpāda$ b. Other possibilities include Łsahaṃsa$° meaning
+              `with the syllables HAṂ and SA on it.' 
+
+              The association of Lake Mānasa on Mount Kailāsa with lotuses, and especialy with geese or swans, is
+              well-known. See, e.g., \MBH\ 6.114.90ff: Gaṅgā sends the great sages, who inhabit
+              Lake Mānasa in the form of geese, to visit the dying Bhīṣma.
+              Although the interpretation of this verse, which obviously refers to an internalised
+              form of this pilgrimage place, is still problematic, the goose/swan
+              most probably signifies to the soul.</NOTE>
+        <TR>That goose on a lotus in the middle of the Mānasa lake</TR>
+
+<TEXT> salīlo līlayācārī parataḥ parapāragaḥ||</TEXT> 10:24
+        <APP>\vc <LEM>salīlo</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; salīlā \Ed</APP>
+        <APP>\vd <LEM>parataḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; parata \msNb</APP>
+        <TR>is playful, acting gracefully, rising far beyond the other shore.</TR>
+
+%index_geo: Mānasa (lake/tīrtha)
+
+<SUBSUBCHAPTER>naimiṣam</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Naimiṣa</TRSUBSUBCHAPTER>
+<TEXT> naimiṣaṃ śṛṇu deveśi nimiṣā pratyayo bhavet|</TEXT>
+        <APP>\vb <LEM!>nimiṣā pratyayo bhavet</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; nimi pratyayo bhavet \msCb,
+                                             ni\lac1 ×<UNCL>ṣo</UNCL> pratyayo <UNCL>bhavet</UNCL> \msNb</APP>
+        <TR>Listen to Naimiṣa, O Deveśī. It yields assurance in a moment.</TR>
+
+%folioinfo \msNb\ 56.jpg lower
+<TEXT> samyag{ }chāyāṃ nirīkṣeta ātmāno vā parasya vā||</TEXT> 10:25
+        <APP>\vd <LEM>ātmano</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; \lk nmano \msCa, svātmāno \Ed\oo
+                 <LEM>parasya vā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; parasya ca \Ed</APP>
+        <NOTE>This obscure verse (coupled with the next one) might have something to do with a type of
+              meditation, Łchāyādhyāna$, mentioned in \NISVUTTARA\ 5.6:
+        <sep/>
+             Łtattvadhyānaṃ prathamakaṃ chāyādhyānaṃ dvitīyakam$ |<br/>
+             Łghoṣadhyānan tṛtīyan tu lakṣadhyānañ caturthakam$ ||
+        <sep/>
+                   Later on in the same text (5.12 and 16), this meditation on `the shadow of the 
+                   soul/Łpuruṣa$' is mentioned again.
+                   \NISVUTTARA\ 5.16 states that 
+                   `[f]ocussing on[?] one's awareness on [one's] ``shadow'' (Łchāyācittam$),
+                    one will see the soul (Łpumān$ = Łpumāṃsam$?) in the sky (Łviyatstham$).
+                           Practising in this way, one attains success and becomes Śiva.' 
+                           (Translation from <citep>NisvasaGoodall</citep><pnum>391</pnum>.)
+                          The Sanskrit reads:
+        <sep/>
+                         Łchāyācittaṃ samālambya viyatsthaṃ paśyate pumān$ |<br/>
+                         Łevam abhyasyamānas tu siddhyate ca śivo bhavet$ ||
+        <sep/>
+                          But as the editors of the \NISV\ put it with reference to the
+                          four elements of meditation given there:
+                           `[v]ery little of this is clear and almost nothing is certain'
+                           (<citep>NisvasaGoodall</citep><pnum>389</pnum>).</NOTE>
+        <TR>One can observe the shadow of one's own and others' soul properly.</TR>
+
+%folioinfo \msCa\ jpg.411
+<TEXT> āyatam{ }aṅgulīmātraṃ nimiṣākṣiḥ sa paśyati|</TEXT>
+        <APP>\va <LEM>āyatam{ }aṅgulī°</LEM> \conj; āyatapy{ }aṅgulī° \mssCaCbCc\msNa\msNb,
+                                                āyātapy{ }aṅgulī° \msNc\Ed\oo
+                 <LEM>°mātraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb; °mātra \msNc, °madhye \Ed</APP>
+        <APP>\vb <LEM>°kṣiḥ</LEM> \eme; °kṣi \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <NOTE>ŁPāda$s ab involve an emendation and a conjecture, without which it is
+              difficult to understand this line.</NOTE>
+        <TR>He will see [the soul's] length with his eyes shut as one finger-breadth.</TR>
+
+<TEXT> dṛṣṭvā pratyayam{ }evaṃ hi naimiṣajñaḥ sa ucyate||</TEXT> 10:26
+        <APP>\vd <LEM>naimiṣajñaḥ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; naimisaṃjñaḥ \msCb, naimiṣajña \msCc</APP>
+        <TR>When one has seen the proof thus, one is called the knower of Naimiṣa.</TR>
+
+%index_geo: Naimiṣa
+
+
+<SUBSUBCHAPTER>bindusaraḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Bindusaras</TRSUBSUBCHAPTER>
+
+<TEXT> tīrthaṃ bindusaraṃ nāma śṛṇu vakṣyāmi sundari|</TEXT>
+        <APP>\va <LEM>tīrthaṃ bindu°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; tīrtham{ }indu° \Ed</APP>
+        <NOTE>Understand °Łsaraṃ$ in Łpāda$ a as °Łsaro$ (thematisation).</NOTE>
+        <TR>Listen, O Sundarī, I shall teach you the pilgrimage place called Bindusaras.</TR>
+
+%index_voc: sara for saras (thematisation)
+
+<TEXT> dehamadhye hṛdi jñeyaṃ hṛdimadhye tu paṅkajam||</TEXT> 10:27
+        <APP>\vc <LEM>hṛdi jñeyaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; \om\ \msCb</APP>
+        <PARAL>\vo Ł\compare\ \NISVK\ 5.55:$
+                eteṣāṃ nādamadhye tu śivaṃ tatra vyavasthitaḥ|
+                hṛdayaṃ dehamadhye tu tatra padmaṃ vyavasthitam||</PARAL>
+        <NOTE>Take Łhṛdi$ as a nominative in Łpāda$ c and possibly also in Łpāda$ d (and see 10.23a).</NOTE>
+        <TR>The heart is to be known to be located in the centre of the body.
+                 In the centre of the heart, there is a lotus.</TR>
+
+
+%index_grammar: stem hṛdi?
+
+<TEXT> karṇikā padmamadhye tu binduḥ karṇikamadhyataḥ|</TEXT>
+        <APP>\va <LEM>°madhye</LEM> \mssALL\msCb\msCc\msNb\msNc\Ed; °dhye \msCa, °padhye \msNa</APP>
+        <TR>There is a pericarp in the centre of the lotus, and the subtle sonic matter (Łbindu$)
+                                in the centre of the pericarp.</TR>
+
+%folioinfo \msCc\ 213.jpg 
+<TEXT> bindumadhye sthito nādaḥ sa nādaḥ kena bhidyate||</TEXT> 10:28
+        <APP>\vc <LEM>bindumadhye</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; <UNCL>bindu</UNCL>\lk\lk\ \msCa</APP>
+        <APP>\vd <LEM>bhidyate</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed; <UNCL>vi</UNCL>dyate \msCa, vidyate \msCc</APP>
+        <PARAL>\vo Ł\compare\ \NISVK\ 5.56:$
+                karṇikā padmamadhye tu akāraṃ tasya madhyataḥ|
+                tasya madhye viniṣkrāntaṃ nādaṃ paramadurlabham||</PARAL>
+        <NOTE>For a general discussion on Łnāda$ and Łbindu$, see, e.g., \TAKIII\ s.v. Łnāda$.
+              Our text considers the internalised manifestation of the pilgrimage place Bindusaras
+              to be Łbindu$, or subtle sonic matter.</NOTE>
+        <TR>In the centre of the subtle sonic matter (Łbindu$), there is the subtle sound (Łnāda$).
+                How is that subtle sound (Łnāda$) divided?</TR>
+
+
+<TEXT> ukāraṃ ca makāraṃ ca bhittvā nādo vinirgataḥ|</TEXT>
+        <APP>\va <LEM>ukāraṃ ca makāraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; ukāraś{ }ca makāraś \Ed</APP>
+        <PARAL>\vab Ł= \NISVK\ 5.57ab$</PARAL>
+        <TR>The subtle sound (Łnāda$) departs divided by the sounds U and M.</TR>
+
+<TEXT> taṃ viditvā viśālākṣi so 'mṛtatvaṃ labheta ca||</TEXT> 10:29
+        <APP>\vd <LEM>so 'mṛtatvaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; somyatatvaṃ \msCc, somatatvaṃ \Ed\oo
+                 <LEM>ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; vā \Ed</APP>
+        <NOTE>\VSS\ 10.27--29ab seem to paraphrase \NISVK\ 5.55--57ab.</NOTE>
+        <TR>Realizing that [subtle sound], O Viśālākṣi, one can obtain immortality.</TR>
+
+
+%index_geo: Bindusaras
+
+%folioinfo \msNa\ 209.jpg upper, f.15v
+<SUBSUBCHAPTER>setubandham</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Setubandha</TRSUBSUBCHAPTER>
+<NOTANUSTUBH/> sragdharā 
+<LONGVERSELINES/>
+%       -   -  -  - . -   -   . . . . . . -   - . - -  . - -
+<TEXT> vakṣye te setubandhaṃ duritamalaharaṃ nādatoyapravāhaṃ</TEXT>
+        <APP>\va <LEM>te</LEM> \mssALL\msCapcorr\msCb\msNa\msNb\msNc\Ed; \om\ \msCaacorr, haṃ \msCc\oo
+                 <LEM>°bandhaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °bandhūṃ \msCb\oo
+                 <LEM>°toya°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °toyaṃ \msNb</APP>
+        <TR>I shall teach you Setubandha, which sports a current whose water of subtle sound (Łnāda$) 
+                                cleanses you of the dirt of your sins.</TR>
+
+<TEXT> jihvākaṇṭhorakūlā svaragaṇapulināvartaghoṣā taraṅgā|</TEXT>
+        <APP>\vb <LEM>°kaṇṭhora°</LEM> \conj; °kaṇṭhoru° \mssCaCbCc\msNa\msNb\msNc\Ed\oo
+                 <LEM>svara°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; sura° \msCc\Ed</APP>
+        <NOTE>Note that °Łkaṇṭhora$° is a conjecture based on the context: this line
+                        speaks about sounds and the production of sounds. For this,
+                        Łuraḥ$/Łura$ (`chest') seems better than Łūru$ (`thigh').
+              It is not evident at first sight why Łpāda$s b and c stick to feminine endings. I take this
+              as qualifying an implied Łnadī$, partly because the similarly structured 10.33 below
+              explicitly mentions Łnadī$. Some of the compounds here are inverted or split:
+              understand Łāvartaghoṣā taraṅgā$ as Łghoṣāvartataraṅgā$, 
+              Łkumbhīrāghoṣamīnā$ as Łaghoṣakumbhīramīnā$, and 
+              Łbhīmanakrā visargā$ as Łvisargabhīmanakrā$.</NOTE>
+        <TR>[It is a river whose] banks are the tongue, the throat, and the chest, and
+                 its sandbanks are the group of vowels (Łsvara$). It is wavy with its whirlpools 
+                 of voiced consonants (Łghoṣa$).</TR>
+
+<TEXT> kumbhīrāghoṣamīnā daśagaṇamakarā bhīmanakrā visargā</TEXT>
+        <APP>\vc <LEM>°mīnā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °mānā \Ed\oo
+                 <LEM>daśa°</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; \lk\lk\ \msCa\oo
+                 <LEM>visargā</LEM> \mssCaCbCc; visargāḥ \msNa\msNb\msNc\Ed</APP>
+        <TR>Voiceless consonants (Łaghoṣa$) are its crocodiles and fish, 
+                 the ten verbal classes (Łgaṇa$) are its sea-monsters,
+                 Łvisarga$s are its terrifying alligators.</TR>
+
+%folioinfo \msM\ 425.jpg upper, f. 16v 
+% gabhīra is Vedic
+%       - -  - -  . -  -  . . . . . . -   - . - -  . - -
+<TEXT> sānusvāre gabhīre madasukharasanaṃ setubandhaṃ vrajasva||</TEXT> 10:30
+        <APP>\vd <LEM>°svāre</LEM> \msCa\msCb\msNc\Ed; °sāre \msCc,
+                                         °svāro \msNa, °svā<UNCL>reṇa</UNCL> \msNb\ \unmetr\oo
+                 <LEM>gabhīre</LEM> \msCa\msCb\msNc; gambhīre \msCc\msNb\Ed, <UNCL>gaṃ</UNCL>bhīre \msNa\oo
+                 <LEM>°rasanaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °ramaṇaṃ \Ed\oo
+                 <LEM>°bandhaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °bandha \msCb\oo
+                 <LEM>vrajasva</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; ramasva \Ed</APP>
+        <NOTE>Nevertheless, the general idea seems to be clear: the internalised
+              version of the pilgrimage place Setubandha, externally usually understood as 
+              Rameśvara in the South, is now the sounds of recitation.</NOTE>
+        <TR>It is in the deep-sounding Łanusvāra$ (Łsā-anusvāre$). 
+                 Go to Setubandha, have a taste of the pleasure of intoxication.</TR>
+
+%index_geo: Setubandha
+
+<SUBSUBCHAPTER>suradrahaḥ</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Suradraha</TRSUBSUBCHAPTER>
+<NOTANUSTUBH/> sragdharā 
+<LONGVERSELINES/>
+<TEXT> saptadvīpāntamadhye śṛṇu śaśivadane sarvaduḥkhāntalābham</TEXT>
+        <APP>\va <LEM>°dvīpā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °dīpā° \msNc</APP>
+        <TR>O Moon-faced goddess, listen to [the description of Suradraha], the way to the cessation of
+                        all sorrow, in the centre of the seven islands.</TR>
+
+%      - - - -  . -  -   . .!  . .  . . -   - . - -  . - -
+<TEXT> īśānenābhijuṣṭaṃ hṛdi hrada vimalaṃ nādaśītāmbupūrṇam|</TEXT>
+        <APP>\vb <LEM>īśānenābhijuṣṭaṃ</LEM> \msCc\msNa\msNc\Ed; īśānenābhiduṣṭaṃ \msCa\msNb,
+                                                 īśānebhiduṣṭaṃ \msCbacorr, īśānebhi\lac1 × duṣṭaṃ \msCbpcorr\oo
+                 <LEM>vimalaṃ nādaśītā°</LEM> \mssALL\mssCaCbCc\msNa\msNc;
+                                                 vimalān{ }nādaśītā° \msNb, vimalaṃ nāmaśitā° \Ed</APP>
+        <NOTE>The first syllable of Łhrada$ in Łpāda$ b does not make the previous syllable long 
+              (\mutacumliquida), otherwise the line would be unmetrical.
+              Understand the same Łhrada$ as a \stemform\ metri causa
+              standing for the accusative.</NOTE>
+        <TR>It is frequented by Īśāna, a spotless lake in the heart full of
+                        the cool water of sound (Łnāda$).</TR>
+
+%index_metre: muta cum liquida licence hr
+%index_grammar: stem form metri causa 
+
+%       -  -  -   - . -  -    . . . . . . -   - . -   -  .  -  -
+<TEXT> tatraikaṃ jātapadmaṃ prakṛtidalayutaṃ keśaraṃ śaktibhinnaṃ</TEXT>
+        <APP>\vc <LEM>keśaraṃ</LEM> \msCb\Ed; keśara° \msCa\msCc\msNa\msNc\ \unmetr, keśvara° \msNb\ \unmetr</APP>
+        <NOTE>Łkeśaraṃ śaktibhinnaṃ$ in Łpāda$ c should probably be understood as a bahuvrīhi compound
+              thus: Łśaktibhinnakeśaraṃ$.</NOTE>
+        <TR>There is a lotus arising there whose petals are Prakṛti and whose filaments are split
+                 between Śaktis,</TR>
+
+%index_grammar: split compounds (more!)
+
+<TEXT> pañcavyomapraśastaṃ gatiparamapadaṃ prāptukāmena sevyam||</TEXT> 10:31
+        <APP>\vd <LEM>°vyoma°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °vyo<UNCL>maṃ</UNCL> \msNa\oo
+                 <LEM>°śastaṃ ga°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °śasvaṅ{ }ga° \msCc\oo
+                 <LEM>°parama°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °paramaṃ \msNa\ \unmetr\oo
+                 <LEM>sevyam</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; sarvam \Ed</APP>
+        <NOTE>For Łvyoman$ as `gross element,' see notes to \VSS\ 4.32 above, but note
+              that the expression `fifty voids' (Łpañcāśadvyoman$) also comes up in 
+              \VSS\ 20.7 and also in 10.33 below. It is not clear why this internalised pilgrimage place,
+              or the filaments of the lotus mentioned, would be praised as the five elements.</NOTE>
+        <TR>praised as the five gross elements (Łvyoman$). 
+                 It is to be honoured if one wishes to obtain the path to the supreme abode.</TR>
+
+%index_voc: vyoman as tattva?
+%index_geo: Suradraha
+
+
+<SUBSUBCHAPTER>ghaṇṭikeśvaram</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Ghaṇṭikeśvara</TRSUBSUBCHAPTER>
+<NOTANUSTUBH/> sragdharā 
+<LONGVERSELINES/>
+%             -  -  - -  . - -!        . . . .    . . -    -  . - - . - -         
+<TEXT> <crux>nāḍyaikāsaṅgatāni</crux> nipatitam{ }amṛtaṃ ghaṇṭikāpārakeṇa</TEXT>
+        <APP>\va <LEM>nipatitam{ }amṛtaṃ</LEM> \mssALL\mssCaCbCc\msNc\Ed; nipatitam{ }amṛta° \msNa\ \unmetr, 
+                                        ni\lac2 ×× tam{ }amṛtaṃ \msNb\oo
+                 <LEM>°pārakeṇa</LEM> \msCa\msCb\msNa\msNc; °yāṅkareṇa \msCc\Ed, °<UNCL>pārakena</UNCL> \msNb</APP>
+        <NOTE>The interpretation of this verse is not without problems. The cruxed expression
+              in Łpāda$ a is difficult to repair; it may involve Łnāḍī$ or Łnāḍyā$, Łekā$, and 
+              Łsaṃgata$. These suggest that it may hint at a point of confluence where the bodily tubes (Łnāḍī$)
+              join. Possibly understand Łnāḍya ekasaṃgatāḥ$.</NOTE>
+        <TR>The tubes join[?]. The nectar of immortality (Łamṛta$) has descended by the Saviour Ghaṇṭikā.</TR>
+
+<TEXT> tṛpyante tena nityaṃ hṛdi kamalapuṭaṃ sthāṇubhūtāntarātmā|</TEXT>
+        <APP>\vb <LEM>°puṭaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °puṭa \msCb\oo
+                 <LEM>sthāṇu°</LEM> \conj; sthānu° \mssCaCbCc\msNa\msNc,
+                                                   <UNCL>sthāna</UNCL>° \msNb, sthāna° \Ed</APP>
+        <NOTE>In Łpāda$ b, Łsthāṇu$ is my conjecture for Łsthānu$, and 
+                I understand °Łātmā$ as standing for the plural nominative.</NOTE>
+        <TR>Those whose inner selves have become Sthāṇu [i.e. Śiva]
+                  are continuously delighted in Him, as he is embraced by the lotus in their hearts.</TR>
+
+%index_grammar: ātmā singular nom for plur nom
+
+<TEXT> yaṃ paśyantīśabhaktāḥ kalikaluṣaharaṃ vyāpinaṃ niṣprapañcaṃ</TEXT>
+        <APP>\vc <LEM>yaṃ paśyantīśabhaktāḥ</LEM> \msNa; yaṃ paśyantīśabhaktā \msCa\msNb, 
+                                                yaṃ paśyantīśabharttāḥ \msCb, yaṃ pasyantīsabhaktyā \msCc,
+                                                yat{ }paśyantīśabhaktyā \msNc, yaṃ paśyannīśamakṣā \Ed\oo
+                 <LEM>°prapañcam</LEM> \msCa\msNa\msNb\msNc; °prapañca \msCb\msCc\Ed</APP>
+        <TR>[He is the one] whom Īśa's devotees can behold, who drives off the impurity of
+                 the Kali age, who is all-pervading (Łvyāpin$) and non-manifest (Łniṣprapañca$),</TR>
+
+% unmetr
+%       - - -    -  . - -. .  . .    .  . -  -   .    - - . -  -         
+<TEXT> deveśaṃ ghaṇṭikeśāmarabhavam{ }abhavaṃ tīrtham{ }ākāśabindum||</TEXT> 10:32
+        <APP>\vd <LEM>deveśaṃ</LEM> \msCb\msNb\Ed; devyeśaṃ \msCa\msCc\msNa, devyeśa \msNc\oo
+                 <LEM>ghaṇṭikeśāmara°</LEM> \msCc; ghaṇṭikeśamara° \msCa\msCb\msNb\msNc, 
+                                              ghaṇṭikeśaṃ mara° \msNa, ghāṇṭakeśāmara° \Ed\oo
+                 <LEM>°bhavaṃ tīrtham</LEM> \eme; °bhavantīrtham \msCb\msCc\msNa\msNb\msNc\Ed, bhava\lk\lk rtham \msCa\oo
+                 <LEM>°bindum</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °bindu \msCc</APP>
+        <NOTE>I take Łghaṇṭikeśa$ in Łpāda$ d as a \stemform\ noun in sandhi with Łamara$,
+              notwithstanding the (unmetrical) reading Łghaṇṭikeśamara$° in \msCa\msCb\msNb\msNc.
+
+              The external pilgrimage place related to Ghaṇṭikeśvara the redactors of the 
+              \VSS\ may have had in mind here may or may not be 
+              `Virajā, modern Jajpur in the Cuttack District of Orissa' presided over by
+              Ghaṇṭīśa, Mahāghaṇṭeśvara or 
+              Mahāghaṇṭa Bhairava (<citep>SandersonSaivaAge</citep><pnum>113, n. 241</pnum>).
+                      See Introduction pp.~\pageref{provenance} ff.
+
+              As for the yogic interpretation of this verse, it seems plausible that Łghaṇṭikā$ is
+              taken here as the uvula, from which Łamṛta$ is said to be dripping down the throat.
+                      See \TAKII\ s.v. Łghaṇṭikā$ and <cite>MallinsonKhecari</cite>.</NOTE>
+        <TR>the lord of gods, Ghaṇṭikeśa of undying existence. 
+        The \ae rial Łbindu$ is a non-mundane (Łabhava$) pilgrimage place.</TR>
+
+%index_grammar: stem form metri causa ghaṇṭikeśa
+%index_geo: Ghaṇṭikeśvara
+
+<SUBSUBCHAPTER>vāgīśvaratīrtham</SUBSUBCHAPTER>
+<TRSUBSUBCHAPTER>Vāgīśvaratīrtha</TRSUBSUBCHAPTER>
+% Narahari version!
+<LONGVERSELINES/>
+<TEXT> mīmāṃsāratnakūlā kramapadapulinā śaivaśāstrārthatoyā</TEXT>
+        <APP>\va <LEM>śaiva°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; śarva° \Ed</APP>
+        <NOTE>By Łkramapada$, most probably a particular method of reciting Vedic texts
+              (better known as Łpadakrama$) is meant.</NOTE>
+      <TR>The banks [of Vāgīśvaratīrtha] are the gems of Mīmāṃsā, 
+                 its sandbanks the [Vedic] Łkramapada$s,
+                 its water the meaning of the Śaiva manuals.</TR>
+        
+
+% Sanderson Textual Cr. through 35 on dating Pañcarātra scriptures
+%       - -   -  -  . - -     . . . . . . -   -  . - -  . -  -         
+<TEXT> mīnaughā pañcarātraṃ śrutikuṭilagatiḥ smārtavegā taraṅgā|</TEXT>
+        <APP>\vb <LEM>mīnaughā°</LEM> \msNa\msNb\Ed;  mīnoghā° \mssCaCbCc\msNc\oo
+                 <LEM>pañcarātraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pañcaśatraṃ \Ed\oo
+                 <LEM>°gatiḥ</LEM> \corr; °gati \mssCaCbCc\msNa\msNb\msNc\Ed\oo
+                 <LEM>°smārtavegā taraṅgā</LEM> \mssALL\mssCaCbCc\msNa\msNc; °smā\lac1 × <UNCL>vegā taraṅgā</UNCL> \msNb, 
+                                                                °smārtavegās{ }taraṅgā \Ed</APP>
+        <NOTE>Note the split compounds in Łpāda$ b. Understand Łmīnaughā pañcarātraṃ$ as
+              Łpañcarātramīnaughā$, and Łsmārtavegā taraṅgā$ as Łsmārtavegataraṅgā$.</NOTE>
+        <TR>Its flock of fish is the Pañcarātra [tradition], its winding path is
+                 the Śruti [tradition], its rapid waves the Smārta [tradition].</TR>
+
+%index_grammar: split compounds (more!)
+
+%       - - -  - . -  - . . . . . . -   - . - -  .  - -         
+<TEXT> yogāvartātiśobhā upaniṣadivahā bhāratāvartaphenā</TEXT>
+        <APP>\vc <LEM>°vahā bhāratā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; mahābhāratā° \msNb</APP>
+        <NOTE>Note the form Łupaniṣadi$ for a \stemform\ of Łupaniṣad$ in Łupaniṣadi-vahā$ in
+              Łpāda$ c. This phenomenon is similar to what we see in 10.23 and 27 above with Łhṛdi$.
+              The lack of sandhi between °Łśobhā$ and Łupaniṣadi$° is also notable.</NOTE>
+        <TR>It is beautiful with its whirlpools of yoga. Its currents are the Upaniṣads.
+                 The foam made by its whirlpools is the ŁMahābhārata$.</TR>
+
+%index_grammar: upaniṣadi as stem form
+
+%       -  - -   - . - -  . .  . . . . -  -   .  - -  . - -         
+<TEXT> pañcāśadvyomarūpī rasabhavananadī tīrtha vāgīśvarīyam||</TEXT> 10:33
+        <APP>\vd <LEM>°śadvyoma°</LEM> \mssALL\mssCaCbCc\msNb\msNc; °śavyoma° \msNa, °sadvyoma° \Ed</APP>
+        <NOTE>Łtīrtha$ in Łpāda$ d is a \stemform\ noun metri causa. The exact meaning of
+              Łpañcāśadvyoma$° is not clear to me. Could it be the fifty sounds of Sanskrit?
+              All in all, Vāgīśvaratīrtha here represents the religious traditions and scriptures.</NOTE>
+        <TR>This river, whose form is the fifty voids (Łvyoman$),
+                is the abode of the elixir. [This is the description of] the pilgrimage place Vāgīśvara.</TR>
+
+
+%index_texts: mīmāṃsā, kramapada, śaivaśāstra, pañcarātra, śruti, smṛti, yoga, upaniṣad, MBh  
+%index_voc: 50 vyoman ?
+%index_geo: Vāgīśvaratīrtha
+%index_grammar: stem form metri causa 
+
+<NOTANUSTUBH/> śārdūlavikrīḍita
+<LONGVERSELINES/>
+%       -     -   -  .  .  -  .  - . .  .  -  -  - . -   -   . -  
+<TEXT> yas{ }taṃ vetti sa vetti vedanikhilaṃ saṃsāraduḥkhacchidaṃ</TEXT>
+        <APP>\va <LEM>yas{ }taṃ</LEM> \mssALL\msCc\msNa\msNb\msNc\Ed; yasta° \msCa\msCb\oo
+                 <LEM>sa vetti</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; <UNCL>na</UNCL> vetti \msNc</APP>
+        <NOTE>I take Łpāda$s b and c as if °Łchidaṃ$ in Łpāda$ a were implied for
+              each element there,</NOTE>
+         <TR>One will know all the Vedas by knowing Him who puts an end to the suffering of
+                        transmigration,</TR>
+
+%index_grammar: split compounds
+                 
+%       -  -  -  . . - . - . . . -    - -  .  -    -  . -  
+<TEXT> janmavyādhiviyogatāpamaraṇaṃ kleśārṇavaṃ duḥsaham|</TEXT>
+        <APP>\vb <LEM>°maraṇaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °maraṇa \msNc\oo
+                 <LEM>°rṇavaṃ</LEM> \mssALL\mssCaCbCc\msNb\msNc; °ṇṇavaṃ \msNa, °rṇava \Ed</APP>
+         <TR>to birth, disease, separation, suffering, death, the floods of unbearable pain,</TR>
+
+<TEXT> garbhāvāsam{ }atīva sahyaviṣayaṃ dustīryaduḥkhālayaṃ</TEXT>
+        <APP>\vc <LEM>garbhāvāsam</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; garbhovāsam \Ed\oo
+                 <LEM>°viṣayaṃ</LEM> \msCa\msCb\msNb; °viṣamaṃ \msCc\msNa\msNc\Ed\oo
+                 <LEM>°layam</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °laya<UNCL>ḥ</UNCL> \msNa\oo
+                 <LEM>dustīrya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; dustīryaḥ \msNc</APP>
+         <NOTE>and  Łatīva sahya$° as standing for Łatīvāsahya$° metri causa.</NOTE>
+         <TR>to dwelling in the womb, to extremely insufferable sensations, and to 
+                  places of suffering that are difficult to escape from.</TR>
+
+%index_grammar: shortening metri causa
+
+%folioinfo \Ed\ p.613
+<TEXT>prāptaṃ tena na saṃśayaḥ śivapadaṃ duṣprāpya devair{ }api||</TEXT> 10:34
+        <APP>\vd <LEM!>prāptaṃ tena na saṃśayaḥ śivapadaṃ duṣprāpya devair{ }api</LEM> \msCa\msCbpcorr\msNa\msNc; 
+                      prāptaṃ tena na saṃśayaḥ   śivadaṃ duṣprāpya devair{ }api \msCbacorr,
+                      prāptaṃ tena na saṃśayaṃ śivapadaṃ duṣprāpya devair{ }api \msCc\Ed,
+                      prā\lac6 ×××××× <UNCL>yaḥ śiva</UNCL> \lk\lk \lk\lk  <UNCL>ya devair{ }api</UNCL> \msNb</APP>
+        <NOTE>Understand Łduṣprāpya$ as a \stemform\ adjective (for Łduṣprāpyaṃ$) metri causa.</NOTE>
+        <TR>Such a person will, without doubt, reach Śiva's world that is difficult to enter even
+                 for the gods.</TR>
+
+%index_grammar: stem form metri causa 
+
+%folioinfo \msCb\ 429.jpg 
+<ANUSTUBH/>
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe kāyatīrthopavarṇano nāmādhyāyo daśamaḥ</COLOPHON></TEXT>
+            <APP> Ł\Colo:$ <LEM>kāyatīrthopavarṇano</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed;
+                                                           kāyatī\lk\lk \lk rṇṇano \msCa\oo
+                 <LEM>nāmādhyāyo daśamaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; nāma daśamo 'dhyāyaḥ \Ed</APP>
+        <TRCOLOPHON>Here ends the tenth chapter in the ŁVṛṣasārasaṃgraha$ called the Description of the bodily pilgrimage places.</TRCOLOPHON>
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%END OF CHAPTER 10
+
+
+<NORMALVERSELINES/>
+
+
+% Śaiva Utopia v2.0
+% same order of āśramas there in the ŚDhŚ p22
+% Viṣṇudharma has the other order
+
+
+% start CGPTed section

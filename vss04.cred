@@ -1,0 +1,2665 @@
+<START/>
+<startchapter-n="4"/> 
+%folioinfo \msCa\ 392.jpg
+%folioinfo \msCb\ 413.jpg
+%folioinfo \msCc\ 190.jpg
+%folioinfo \msNa\ 199.jpg lower, f.6r line 5
+%folioinfo \msNb\ 48.jpg lower
+%folioinfo \msNc\ 217.jpg upper line 1, 214v
+%folioinfo \msM\ 417.jpg lower, f. 6r line 4 
+%folioinfo \Ed\ p.591
+
+%chapter 4: 
+<CHAPTER>caturtho 'dhyāyaḥ</CHAPTER>
+<TRCHAPTER> Chapter Four </TRCHAPTER>
+
+<SUBCHAPTER>yameṣu satyam (2)</SUBCHAPTER>
+<TRSUBCHAPTER>Second Yama-rule: truthfulness</TRSUBCHAPTER>
+
+<ANUSTUBH/>
+<TEXT> anarthayajña uvāca|*</TEXT>
+                <TR>Anarthayajña spoke:</TR>
+% \msM\ omits this anarthayajña uvāca (again) see start of chapter 12
+        <LACUNA>ŁWitnesses used for this chapter: \msCa\ ff.\thinspace 198v--201v, 
+                                              \msCb\ ff.\thinspace 206r--208v, 
+                                              \msCc\ ff.\thinspace 273v--277r,
+                                              \msNa\ ff.\thinspace 6r--9r, 
+                                              \msNb\ exp.\thinspace 48--50 (lower--upper),
+                                              \msNc\ ff.\thinspace 214v--217r,
+                                              \Ed\ pp.\thinspace 591--597;
+                                        \mssCaCbCc\ = \msCa + \msCb + \msCc$</LACUNA>
+
+% also etymology (Flo)
+<TEXT> sadbhāvaḥ satyam{ }ity{ }āhur{ }dṛṣṭapratyayam{ }eva vā|</TEXT>
+        <APP>\va <LEM>sadbhāvaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc; sadbhāva° \msNb\Ed</APP>
+        <APP>\vab <LEM>satyam{ }ity{ }āhur{ }dṛ°</LEM> \msCb\msNa\msNc\Ed; satya<UNCL>m{ }i</UNCL>\-ty{ }āhu dṛ° \msCa,
+                                satyam{ }ity{ }āhu dṛ° \msCc, satyām{ }ity{ }āhur{ }dṛ° \msNb</APP>
+        <APP>\vb <LEM>°pratyaya°</LEM> \msCa\msCb\msNa\msNb; °pratya° \msCc, °pratyeya° \msNc, pratyakṣa° \Ed</APP>
+        <PARAL>\va Ł\similar\ \MBH\ 12.288.45d:$ 
+                        sadbhāvaḥ satyam{ }ucyate 
+                   Ł\compare\  also \BRAHMANDAPUR\ 3.3.86ab:$
+                        asadbhāvo 'nṛtaṃ jñeyaṃ sadbhāvaḥ satyam{ }ucyate </PARAL>
+        <TR>The state of being real (Łsad-bhāva$) is called truth (Łsat-ya$).
+            Alternatively, it is also a certainty (Łpratyaya$) that originates in perception (Łdṛṣṭa$).</TR>
+% see 15.7
+
+% Oberhammer Lucas
+% Kenji check satya in Yogasūtra (satyā)
+<TEXT> yathābhūtārthakathanaṃ tat{ }satyakathanaṃ smṛtam||</TEXT> 4:1
+        <APP>\vc <LEM!>yathābhūtārthakathanaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; 
+                                                      yathābhūtārtha \msCcacorr,
+                                                      yathābhūtārthanaṃ kta \msCcpcorr</APP>
+        <APP>\vd <LEM>tat{ }satyakathanaṃ</LEM> \msCa\msNa\msNb\msNc\Ed;
+                                                        tat{ }satyakathakaṃ \msCb,
+                                                        kathanaṃ smṛtaṃ \msCcacorr,
+                                                        <UNCL>satyaka ja</UNCL>kathanaṃ smṛtaṃ \msCcpcorr</APP>
+        <PARAL>\vcd Ł\compare\ \SDHS\ 11.105:$ 
+                svānubhūtaṃ svadṛṣṭaṃ ca yaḥ pṛṣṭārthaṃ na gūhati|
+                yathābhūtārthakathanam{ }ity{ }etat{ }satyalakṣaṇam||</PARAL>
+        <NOTE>Compare \SDHS\ 11.105:
+                <sep/>
+                 Łsvānubhūtaṃ svadṛṣṭaṃ ca yaḥ pṛṣṭārthaṃ na gūhati$ |<br/>
+                 Łyathābhūtārthakathanam ity etat satyalakṣaṇam$ ||
+                <sep/>
+                 Translation in <citep>SaivaUtopia</citep><pnum>p.~124</pnum>:
+                `If one does not conceal a matter one is asked about, whether
+                 it was experienced by oneself or witnessed with one's own eyes,
+                 but gives an account of things as they happened, this is the definition of `truth.' '
+                This verse makes it tempting to emend Łsatyakathanaṃ$ to Łsatyalakṣaṇaṃ$ in \VSS\ 4.1d, but 
+                I rather take the \VSS\ verse to introduce two views on truth: one philosophical,
+                and one ordinary that relates to the moral aspect of truthfulness.
+                Also consider the commentator's remark on the same verse in the \SDHS\ 
+                (11.105; <citep>SaivaUtopia</citep><pnum>p.~124 n.~181 and p.~143</pnum>):
+                Łyathābhūtārthakathane prāṇivadhaprāptāv asatyasya sādhutvāt para pīḍāvinirmuktam eva satyam ity āha$.
+                Translation ibid.: `\dots\ he states that [speech is] truth
+                only as long as it is devoid of harm of others, for untruth is good when giving an
+                account of something as it really happened will result in the slaughter of a living
+                creature.'</NOTE>
+        <TR>Relating things in a way that corresponds to reality is called `speaking the truth.'</TR>
+
+%index_metre: na-vipulā
+
+% Ed kroṣa 
+<TEXT> ākrośatāḍanādīni yaḥ saheta suduḥsaham|</TEXT>
+        <APP>\va <LEM>°tāḍanā°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °nāḍanā° \msCb</APP>
+        <APP>\vb <LEM>suduḥsaham</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; sudusahaṃ \msCc</APP>
+        <NOTE>Łsuduḥsaham$ (singular) in Łpāda$ b picks up °Łādīni$ (plural) in Łpāda$ a.</NOTE>
+        <TR>He who endures severe abuse and beating etc.</TR>
+
+%index_grammar: singular for plural, Newari? 
+
+% ŚDh 11.82 Nirajan
+<TEXT> kṣamate yo jitātmā tu sa ca satyam{ }udāhṛtam||</TEXT> 4:2
+        <APP>\vd <LEM>satyam{ }udāhṛtam</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; 
+        <UNCL>satya</UNCL>m{ }u<UNCL>dā</UNCL>hṛtam \msCa</APP>
+        <PARAL>\vo Ł\compare\ \SDHS\ 11.82:$
+                ākruṣṭas{ }tāḍito vāpi yo nākrośen{ }na tāḍayet |
+                vāgādy{ }avikṛtaḥ svasthaṃ kṣāntir{ }eṣā sunirmalā ||</PARAL>
+        <NOTE>The Ł-m$ in Łsatyam$ may be a sandhi-bridge and the phrase may refer to a
+              masculine subject (`a truthful person') thus: Łsa ca satya-m-udāhṛtaḥ$.
+              Compare with \SDHS\ 11.82 (see apparatus), which is a definition of
+              forbearance (Łkṣānti$).</NOTE>
+        <TR>and resists [giving\linebreak away secrets], his self being conquered,
+            is said to be [an example of] truth[ful\-ness].</TR>
+
+%index_grammar: hiatus-filler, sandhi bridge
+
+% CHECK ŚDh (??)
+<TEXT> vadhārtham{ }udyataḥ śastraṃ yadi pṛccheta karhicit|</TEXT>
+        <APP>\va <LEM>°dyataḥ</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °dyata \msNa\oo
+                 <LEM>śastraṃ</LEM> \msCa\msNa\msNb\msNc; satya \msCb\Ed, śastra \msCc</APP>
+        <APP>\vb <LEM>karhicit</LEM> \mssCaCbCc\Ed; karhacit \msNa\msNb\msNc</APP>
+        <NOTE>Understand Łudyataḥ$ (nom.) in an active sense (`holding/lifting').</NOTE>
+        <TR>If one is being interrogated at any time with a sword lifted to strike him down,</TR>
+
+<TEXT> na tatra satyaṃ vaktavyam{ }anṛtaṃ satyam{ }ucyate||</TEXT> 4:3
+        <APP>\vc <LEM>satyaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; satya \msCb\Ed</APP>
+        <TR>in this case the truth is not to be spoken, and a lie can be called truth.</TR>
+
+%index_metre: ma-vipulā
+
+
+% ŚDh (??)
+<TEXT> vadhārhaḥ puruṣaḥ kaścid{ }vrajet{ }pathi bhayāturaḥ|</TEXT>
+        <APP>\vb <LEM>°turaḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °tura \msCb</APP>
+        <NOTE>`being killed' is not the most obvious translation for
+              Łvadhārhaḥ$ in Łpāda$ a, but the context suggests that it is not
+              a person who `deserves death' that may have been intended.</NOTE>
+        <TR>A person who is walking on the road and is afraid of being killed</TR>
+
+<TEXT> pṛcchato 'pi na vaktavyaṃ satyaṃ tad{ }vāpi ucyate||</TEXT> 4:4
+        <APP>\vc <LEM>pṛcchato</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pṛcchate \Ed</APP>
+        <APP>\vd <LEM>tad{ }vāpi</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; tad{ }api \msNb</APP>
+        <TR>should not reply to [people who are potentially dangerous] even if they ask him. 
+                        This is also called truth[fulness].</TR>
+% pṛcchato gen. he should not answer he who is afraid Judit
+% vadhārha as a innocent person... Flo Judit
+% ŚDh 11 comm Nirajan on asat! p. 9
+
+
+
+<NOTANUSTUBH/> upajāti
+%       .  -  . -  .?   . . -   . -  .  
+<TEXT> na narmayuktam{ }anṛtaṃ hinasti</TEXT>
+        <APP>\va <LEM>hinasti</LEM> \msCa\msCb\msNb\msNc; hi nāsti \msCc\msNa\Ed</APP>
+
+%index_metre: long syllable at end of word
+
+%       -    - .  - -     .  . - . - -
+<TEXT> na strīṣu rājan{ }na vivāhakāle|</TEXT>
+        <APP>\vb <LEM>rājan{ }na</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; rāja na \msCc, rājyaṃ na \msNa</APP>
+
+%        -  -  . -  -  .  . - . - -  
+<TEXT> prāṇātyaye sarvadhanāpahāre</TEXT>
+        <APP>\vc <LEM>°tyaye</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °tyaje \msNb\oo
+                 <LEM>°pahāre</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °prahāre \msCc\msNb</APP>
+
+%       -  - . -   -  .    . - . -  -
+<TEXT> pañcānṛtaṃ satyam{ }udāharanti||</TEXT> 4:5
+        <TR>A lie does not hurt when it is connected with joking,
+        with women, O king, at the time of marriage,
+        at the departure from life and when one's entire wealth is about to be taken away.
+        They call these five kinds of lies truths.</TR>
+        <PARAL>\vo Ł\similar\ \MBH\ 1.77.16:$ na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
+                                               prāṇātyaye sarvadhanāpahāre pañcānṛtāny{ }āhur{ }apātakāni||;
+                           Ł\MBH\ 12.159.28:$ na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
+                                               na gurvarthe nātmano jīvitārthe pañcānṛtāny{ }āhur{ }apātakāni||;
+                             Ł\MATSP\ 31.16:$ na narmayuktaṃ vacanaṃ hinasti na strīṣu rājan{ }na vivāhakāle|
+        ŁAbhidharmakośabhāṣya 24114--24117 (introduced by $ mohajo mṛṣāvādo yathāhaŁ):$
+                                               na narmayuktam{ }anṛtaṃ hi nāsti na strīṣu rājan{ }na vivāhakāle|
+                                               prāṇātyaye sarvadhanāpahāre pañcānṛtāny{ }āhur{ }apātakāni|| Łetc.$</PARAL>
+        <NOTE>This Łupajāti$ verse appears in countless sources, beginning with 
+              the \MBH\ (see the apparatus). All versions 
+              contain a vocative addressing a king, which is out of context in the \VSS, the addressee being Vigatarāga,
+              i.e. Viṣṇu disguised as a Brahmin. The redactors did not notice or did not care about this
+              small inconsistency. Note the metrical licence that allows the last syllable
+              of °Łyuktam$ to count as long (see p.~\pageref{short2long}).
+              The reading with Łanṛtaṃ$, as opposed to Łvacanaṃ$, in Łpāda$ a, can be found 
+              in the apparatus of the \MBH\ critical edition.</NOTE>
+              
+%index_metre: upajāti
+%index_metre: -m a- long
+
+% anṛtam in the apparatus in the MBh critical edition, and also in the Kumbhakona ed.
+% Lingapurāṇa 01/090.txt:  31:        na dharmayuktamanṛtaṃ hinastīti manīṣiṇaḥ।। 90.9 ।।
+
+
+
+
+<ANUSTUBH/>
+% tirya is a word in this text
+<TEXT> devamānuṣatiryeṣu satyaṃ dharmaḥ paro yataḥ|</TEXT>
+        <APP>\vb <LEM>°mānuṣa°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °mānuṣya° \msNc\oo
+                 <LEM!>satyaṃ dharmaḥ paro yataḥ</LEM> \msCb\msCc; satyaṃ dharmaḥ payataḥ \msCa,
+                        satyaṃ dharma paro yataḥ \msNa\msNc, satyadharma paro yataḥ \msNb, satyadharmaparāyaṇaḥ \Ed</APP>
+        <TR>Since truth is the supreme Dharma in [the world of] gods, humans and animals,</TR>
+
+%folioinfo \msNa\ 200.jpg upper, f. 6v
+%folioinfo \msM\ 418.jpg upper, f. 6v  
+<TEXT> satyaṃ śreṣṭhaṃ variṣṭhaṃ ca satyaṃ dharmaḥ sanātanaḥ||</TEXT> 4:6
+        <APP>\vc <LEM>śreṣṭhaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc; śreṣṭha \msNb\Ed\oo
+                 <LEM>variṣṭhaṃ ca</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; variṣṭhamvariṣṭhamvañ{ }ca \msCbacorr</APP>
+        <APP>\vd <LEM>satyaṃ</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; satya° \msCb\msNb\oo
+                 <LEM>dharmaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; dharma \msCc\Ed</APP>
+        <TR>truth is the best, the most preferable. Truth is the eternal Dharma.</TR>
+
+<TEXT> satyaṃ sāgaram{ }avyaktaṃ satyam{ }akṣayabhogadam|</TEXT>
+        <APP>\va <LEM>satyaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; satya \msCc</APP>
+        <APP>\vb <LEM!>satyam{ }akṣayabhogadam</LEM> \msCa\msNa\msNb\msNc; satyaṃm{ }akṣayabhogadam \msCb\msCc,
+                                satyam{ }akṣayate naraṃ \Ed</APP>
+        <TR>Truth is an unmanifest ocean. Truth yields imperishable pleasures.</TR>
+%folioinfo \Ed\ p.592
+
+% yat sthāna Judit Kenji CHECK
+<TEXT> satyaṃ potaḥ paratrārthaṃ satyaṃ panthāna vistaram||</TEXT> 4:7
+        <APP>\vc <LEM>potaḥ</LEM> \mssALL\mssCaCbCc\msNb\msNc; pota \msNa, proktaḥ \Ed</APP>
+        <APP>\vd <LEM>panthāna vistaram</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; yaj{ }jñānavistaram \Ed</APP>
+        yanthāna° OR pasthāna° ? \msCa\msCb\msCc\msNa
+        <NOTE>ŁPāda$ d is slightly problematic because it is difficult to ascertain if some of the
+               MSS actually read Łpanthāna$ or Łpasthāna$ (or Łyasthāna$).  I suspect that Łpanthāna$ 
+               is a \stemform\ noun formed (metri causa)
+               to stand for an irregular nominative of Łpathin$.</NOTE>
+        <TR>Truth is a ship bound for the other world. Truth is the wide path.</TR>
+
+%index_grammar: stem form noun?
+
+% iṣṭa as sacrificed? (CsK: don't think so)
+<TEXT> satyam{ }iṣṭagatiḥ proktaṃ satyaṃ yajñam{ }anuttamam|</TEXT>
+        <APP>\va <LEM>°ṣṭagatiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °<UNCL>ṣṭā</UNCL>gatiḥ \msNb</APP>
+        <TR>Truth is said to be the desired path. Truth is the supreme sacrifice.</TR>
+
+<TEXT> satyaṃ tīrthaṃ paraṃ tīrthaṃ satyaṃ dānam{ }anantakam||</TEXT> 4:8
+        <APP>\vc <LEM>tīrthaṃ</LEM> \mssCaCbCc\msNa; tīrtha \msNb\msNc, tīrthāt \Ed</APP>
+%The repetition of Łtīrthaṃ$ in Łpāda$ c is sightly suspect. Cf., e.g., \MATSP\ 22.79ab:
+%                 Łsatyaṃ tīrthaṃ dayā tīrthaṃ tīrtham{ }indriyanigrahaḥ$.
+        <TR>Truth is a pilgrimage place, a supreme pilgrimage place. Truth is endless donation.</TR>
+
+
+<TEXT> satyaṃ śīlaṃ tapo jñānaṃ satyaṃ śaucaṃ damaḥ śamaḥ|</TEXT>
+        <APP>\va <LEM>satyaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; satya \msCb</APP>
+        <APP>\vb <LEM>śamaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; śamam \msNb</APP>
+        <TR>Truth is virtue, austerity, knowledge. Truth is purity, self-control, and\linebreak tranquillity.</TR>
+
+<TEXT> satyaṃ sopānam{ }ūrdhvasya satyaṃ kīrtir{ }yaśaḥ sukham||</TEXT> 4:9
+        <APP>\vc <LEM>satyaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; saṃtyaṃ \msCb, satya \msNc</APP>
+        <APP>\vd <LEM>sukham</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; sukhaḥ \Ed</APP>
+        <PARAL>\vc Ł\similar\ \VARP\ 193.36cd:$ satyaṃ svargasya sopānaṃ pārāvārasya naur{ }iva</PARAL>
+        <NOTE>Considering a similar line in the \VARP\ (193.36cd, see the apparatus), one 
+              wonders if the slightly odd Łūrdhvasya$ in Łpāda$ c is not a corrupt form of 
+              Łsvargasya$ somehow.</NOTE>
+        <TR>Truth is the ladder [that leads] upwards. Truth is fame and glory and happiness.</TR>
+
+<TEXT> aśvamedhasahasraṃ ca satyaṃ ca tulayā dhṛtam|</TEXT>
+        <APP>\va <LEM>°sahasraṃ ca</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °sahasrasya \msCc</APP>
+        <APP>\vb <LEM>tulayā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; tulyayā \msCc</APP>
+        <TR>[When] a thousand Aśvamedha sacrifices and truth are measured on a pair of scales,</TR>
+
+<TEXT> aśvamedhasahasrād{ }dhi satyam{ }eva viśiṣyate||</TEXT> 4:10
+        <APP>\vc <LEM>°sahasrād{ }dhi</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °sahasrā hi \msCc</APP>
+        <APP>\vd <LEM>eva</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; evaṃ \msCc\Ed</APP>
+        <PARAL>\vo Ł = \MBH\ 1.69.22 = \MBH\ Suppl. 13.20.330 = \MARKP\ 8.42 = \VDHU\ 3.265.7
+                       \similar\ \MBH\ 12.156.26 (pāda d reads $ satyam{ }evātiricyateŁ) \similar\ \VDH\ 55.6 
+                           (pāda d reads$ satyam{ }etad{ }viśiṣyateŁ)$;
+                   Ł\compare\ \SDHS\ 11.107:$
+                        aśvamedhāyutaṃ pūrṇaṃ satyañ{ }ca tulitaṃ purā|
+                        aśvamedhāyutāt{ }satyam{ }adhikaṃ bahubhir{ }guṇaiḥ||</PARAL>
+        <TR>truth indeed surpasses a thousand Aśvamedha sacrifices.</TR>
+
+%folioinfo \msNb\ 48.jpg ends with this line
+<TEXT> satyena tapate sūryaḥ satyena pṛthivī sthitā|</TEXT>
+        <APP>\vab <LEM>sūryaḥ satyena pṛthivī sthitā</LEM> \msNa\msNc; sū<UNCL>ryaḥ sa</UNCL>tyena pṛthi sthitāḥ \msCa,
+                                sūryaḥ satyaina pṛthivī sthitā \msCb, sūrya satyena pṛthivī sthitāḥ \msCc,
+                                sūrya <UNCL>satye</UNCL> \lac3 ××× vī sthitā \msNb, sūryaḥ satyena pṛthivī sthitāḥ \Ed</APP>
+        <NOTE>In general, see sections similar to \VSS\ 4.11--17 on Łsatya$ in \MBH\ 12.192.63--72,
+                \RevKhS\ 91.68--70, \VDH\ 55.1ff, \VDHU\ 3.265.1ff, etc.</NOTE> 
+        <TR>The Sun shines because of truth. The Earth stays in place by truth.</TR>
+
+%folioinfo \msNb\ 48.jpg upper              for satyena?
+<TEXT> satyena vāyavo vānti satye toyaṃ ca śītalam||</TEXT> 4:11
+        <APP>\vc <LEM>vāyavo</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; vātyavo \msNb</APP>
+        <APP>\vd <LEM>satye</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; satyāt \Ed</APP>
+        <PARAL>\vo Ł\similar\ \VARP\ 193.37:$ 
+                        sūryas{ }tapati satyena vātaḥ satyena vāti ca|  
+                        agnir{ }dahati satyena satyena pṛthivī sthitā|| 
+                   Ł\similar\ \VDHU\ 3.265.4cd--5ab:$
+                        satyena vāyur{ }abhyeti satyenābhāsate raviḥ || 
+                        satyena cāgnir{ }dahati svargaṃ satyena gacchati | </PARAL>
+        <NOTE>Here in \VSS\ 4.11d, and several times below, Łsatye$ is probably 
+                                to be taken as standing for Łsatyena$.</NOTE>
+        <TR>The winds blow because of truth. Water has a cooling effect through truth.</TR>
+
+%index_grammar: locative (-e) for instrumental
+
+%index_grammar: without licence it is iambic (WHAT?), satye for satyena?
+
+% what is the logic; Flo: Śiva instructing him?
+<TEXT> tiṣṭhanti sāgarāḥ satye samayena priyavrataḥ|</TEXT>
+        <APP>\va <LEM>sāgarāḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; sāgarā \msCc</APP>
+        <APP>\vb <LEM>samayena</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; satyena ca \Ed</APP>
+        <NOTE>ŁPāda$ b, Łsamayena priyavrataḥ$, probably stand for Łsamayena priyavratasya$ although
+              it is unclear to me what exactly Łsamaya$ refers to here.
+        <sep/>
+
+        For the story of Priyavrata, Manu's son, in which he wanted to turn nights into days by 
+        circling aroung Mount Meru in a chariot, and by this produced the seven oceans,
+        see, e.g., \BHAGP\ 5.1.30--31: 
+        Łyāvad avabhāsayati suragirim anuparikrāman bhagavān ādityo
+         vasudhātalam ardhenaiva pratapaty ardhenāvacchādayati, tadā hi [priyavrataḥ]
+         bhagavadupāsanopacitātipuruṣaprabhāvas tad anabhinandan samajavena
+         rathena jyotirmayena rajanīm api dinaṃ kariṣyāmīti saptakṛtvas 
+         taraṇim anuparyakrāmad dvitīya iva pataṅgaḥ |
+         ye vā u ha tadrathacaraṇanemikṛtaparikhātās te sapta sindhava āsan
+         yata eva kṛtāḥ sapta bhuvo dvīpāḥ |$.
+        </NOTE>
+        <TR>The oceans exist by the truthful encounter with Priyavrata.</TR>
+
+%index_grammar: locative (-e) for instrumental
+%index_persons: Priyavrata
+
+        % (see translation on pp.640 ff)
+
+% Is the Bhāgavatapurāṇa not too late? Priyavrata not in the epics. Mentioned in the Devībhāgavata/mahāpurāṇa
+%Cf.\ Purāṇic Encyclopedia, s.v. Łpriyavrata$:
+%``Priyavrata once circled round Meru in his chariot. As
+%if competing with the Sun Priyavrata started his circling
+%along with sunrise and ended it at sunset. He did so
+%seven days making nights look like day and the sun
+%appear dim and faded. The Sun was dejected and it
+%was at the request of the Trimūrtis that Priyavrata
+%stopped his circumambulation. It was the path of Priyavrata's
+%circling for seven days that later became the seven
+%oceans of Purāṇic fame. (Yuddha Kāṇḍa, Kamba Rāmāyaṇa).''
+
+
+%Ṛgveda
+%RV_10.085.01.1{20} satyenottabhitā bhūmiḥ sūryeṇottabhitā dyauḥ
+%RV_10.085.01.2{20} ṛtenādityāstiṣṭhanti divi somo adhi śritaḥ
+%RV_10.085.02.1{20} somenādityā balinaḥ somena pṛthivī mahī
+%RV_10.085.02.2{20} athonakṣatrāṇāmeṣāmupasthe soma āhitaḥ
+
+%        satye for satyena?
+% he kept his word? Nirajan (watchman) CsK?
+% vañchana Judit but stays in truth
+<TEXT> satye tiṣṭhati govindo balibandhanakāraṇāt||</TEXT> 4:12
+        <TR>Govinda abides in truth because He [as Vāmana] stopped [Mahā]Bali [in spite of the 
+                        fact that this was achieved by a trick].</TR>
+        <NOTE><sep/>
+        
+        ŁPāda$s cd: for a somewhat similar reference to the story of Mahābali, see, e.g., \VAMP\ 65.66:
+        <sep/>
+        Łevaṃ purā cakradhareṇa viṣṇunā$ 
+        Łbaddho balir vāmanarūpadhāriṇā$ |<br/>
+        Łśakrapriyārthaṃ surakāryasiddhaye$ 
+        Łhitāya viprarṣabhagodvijānām$ || </NOTE>
+
+
+%index_mythical_figures: Govinda
+%index_mythical_figures: Bali (Mahābali)
+
+
+%                             śaśibhās is moonlight
+<TEXT> agnir{ }dahati satyena satyena śaśinaś{ }caraḥ|</TEXT>
+        <APP>\vab <LEM>satyena satyena</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\Ed; satyena \msNaacorr\msNc</APP>
+        <APP>\vb <LEM>śaśinaś{ }caraḥ</LEM> \conj; saśi<UNCL>bhācaraḥ</UNCL> \msCa, 
+                                                   śa<UNCL>si</UNCL>\lk caraḥ \msCb,
+                                                   sa śirā varaḥ \msCc, 
+                                                   śaśir{ }ācaraḥ \msNa\msNb\msNc,
+                                                   śaśibhāṣkaraḥ \Ed</APP>
+        <PARAL>\vc Ł\similar\ \VARP\ 193.37cd:$ 
+                agnir{ }dahati satyena satyena pṛthivī sthitā</PARAL>
+        <PARAL>\vd Ł\compare\ \VARP\ 155.30cd:$
+                        satyena sūryas{ }tapati somaḥ satyena rājate;
+                 Ł\compare\ \LAKSMINARS\  1.345.50ab:$
+                        satyena sūryas{ }tapati candraḥ satyena vardhate|
+                Ł\compare\ \MBH\ Suppl. 13.587:$
+                        mucukundena māndhātrā hariścandreṇa cābhibho|
+                        satyaṃ vadata māsatyaṃ satyaṃ dharmaḥ sanātanaḥ|
+                        hariścandraś{ }carati vai divi satyena candravat||</PARAL>
+                <NOTE>ŁPāda$ a might as well be a reference to a story mentioned in \MANU\ 8.116:
+                <sep/>
+              Łvatsasya hy abhiśastasya purā bhrātrā yavīyasā$ |<br/>
+              Łnāgnir dadāha romāpi satyena jagataḥ spaśaḥ$ ||
+                <sep/>
+              Olivelle's translation (<citeyear>OlivelleManu</citeyear>, 311): 
+             `Long ago when Vatsa was accused by his younger brother, 
+              Fire, the world's spy, did not burn a single hair of his because he told the truth.'
+              Olivelle's note on this verse (ibid. 311) reads:
+              `Vatsa was accused by his brother of being the son of a Śūdra woman and thus not 
+              a pure Brahmin. Vatsa went through fire to prove his pedigree. See ŁPañcaviṃśa Brāhmaṇa$
+              14.6.6.'
+
+              Since Łśaśi$ (instead of Łśaśin$) is a possible stem in this text, 
+              Łśaśir ācaraḥ$ (\msNa\msNb\msNc) in Łpāda$ b could be acceptable here,
+              perhaps standing metri causa for the compound Łśaśicaraḥ$.
+              Nevertheless, I have chosen to conjecture Łśaśinaś caraḥ$, now preferring it
+              to my previous conjecture, Łśaśinā caraḥ$.
+              Other possibilities, suggested by Judit Törzsök and other colleagues, include Łśaśibhāskaraḥ$, 
+              Łśaśigocaraḥ$, Łśiśiro 'caraḥ$, and Łśiśirāmbhasaḥ$. Similar passages quoted in the apparatus
+              suggest that the Moon vaxes, or shines, by truth (Łsatyena vardhate$/Łrājate$).
+              Compare also a passage in the \MBH\ (quoted in the apparatus) that 
+              compares Hariścandra, renowned for his truthfulness, to the Moon, 
+              using the verb Łcarati$. These passages seem to support a reading close to
+              my conjecture.</NOTE>
+        <TR>Fire burns according to truth. The Moon's course is [governed] by truth.</TR>
+
+% Judit goes for śaśinā caraḥ
+%Kengo: śaśer ācāraḥ or avacaraḥ, śaśibhāskarau (Judit likes it: candra, sun and fire)
+%śaśigocara Nirajan
+% Flo sg. for star, or ācaret, candratāraka
+%On koṭihoma there is something in Sanderson 2003, Śaiva Religion among the Khmers (I), p382 Marco
+%Marco 'bhā' as a star or asterism
+%Judit:
+%esetleg samaya = limit / boundary? Merthogy kijelölte a szekerével a 7 kontinenst 
+%és a tengereket. [Wilson... nem hiszem CsK]
+%Amugy a 13 kemény dolog. Ezeket ajanlom még 
+%śaśibhāskaraḥ (Az ed.) merthogy candrasūrya elôfordul feliratban is,
+%        mint witness to the truthfulness of the agreement
+%Vagy
+%        śiśiro ’caraḥ = śiśira hegy (acara = acala) mert utana hegyek vannak
+%Vagy
+%        śiśirāmbhasaḥ/ śiśiro ’mbhasaḥ for śiśiram ambhas, a hideg viz mint fentebb, de most a tûz mellett
+
+%folioinfo \msCc\ 191.jpg
+% see also Törzsök Murari vol. p36
+<TEXT> satyena vindhyās{ }tiṣṭhanti vardhamāno na vardhate||</TEXT> 4:13
+        <APP>\vc <LEM>vindhyās{ }tiṣṭhanti</LEM> \msCa\msNa\msNc;
+                        vindhyas{ }tiṣṭhanti \msCb\msNb, vindhyā tiṣṭhanti \msCc, tiṣṭhate vindhyo \Ed</APP>
+        <TR>It is because of truth that the Vindhya mountain stands in place and that
+                although it was growing, it is not growing [anymore].</TR>
+        <NOTE><sep/>
+
+        While it is not clear if Łpāda$s ab refer to specific legends or not,
+        Łpāda$s cd hint at the story of Agastya and the Vindhya mountain (as pointed out to me
+        by Judit Törzsök):
+        Vindhya became jealous of the Sun's revolving around Mount Meru, and when the Sun 
+        refused him the same favour, he decided to grow higher and obstruct the Sun's movement.
+        As a solution to this situation, Agastya asked Vidhya to bend down to make 
+        it easier for him to reach the south and to remain thus until he retured. 
+        Vindhya agreed to do what Agastya asked him but Agastya never returned. 
+        See \MBH\ 3.102.1--14 (see the word Łsamaya$ in verse 13 in this passage, and compare it to \VSS\ 4.12b):
+                <sep/>
+                         Łyudhiṣṭhira uvāca$ |<br/>
+                         Łkimarthaṃ sahasā vindhyaḥ pravṛddhaḥ krodhamūrchitaḥ$ |<br/>
+                         Łetad icchāmy ahaṃ śrotuṃ vistareṇa mahāmune$ ||<br/>
+                         Łlomaśa uvāca$ |<br/>
+                         Ładrirājaṃ mahāśailaṃ meruṃ kanakaparvatam$ |<br/>
+                         Łudayāstamaye bhānuḥ pradakṣiṇam avartata$ ||<br/>
+                         Łtaṃ tu dṛṣṭvā tathā vindhyaḥ śailaḥ sūryam athābravīt$ |<br/>
+                         Łyathā hi merur bhavatā nityaśaḥ parigamyate$ |<br/>
+                         Łpradakṣiṇaṃ ca kriyate mām evaṃ kuru bhāskara$ ||<br/>
+                         Łevam uktas tataḥ sūryaḥ śailendraṃ pratyabhāṣata$ |<br/>
+                         Łnāham ātmecchayā śaila karomy enaṃ pradakṣiṇam$ |<br/>
+                         Łeṣa mārgaḥ pradiṣṭo me yenedaṃ nirmitaṃ jagat$ ||<br/>
+                         Łevam uktas tataḥ krodhāt pravṛddhaḥ sahasācalaḥ$ |<br/>
+                         Łsūryācandramasor mārgaṃ roddhum icchan paraṃtapa$ || 5 ||<br/>
+                         Łtato devāḥ sahitāḥ sarva eva; sendrāḥ samāgamya mahādrirājam$ |<br/>
+                         Łnivārayām āsur upāyatas taṃ; na ca sma teṣāṃ vacanaṃ cakāra$ ||<br/>
+                         Łathābhijagmur munim āśramasthaṃ; tapasvinaṃ dharmabhṛtāṃ variṣṭham$ |<br/>
+                         Łagastyam atyadbhutavīryadīptaṃ; taṃ cārtham ūcuḥ sahitāḥ surās te$ ||<br/>
+                         Łdevā ūcuḥ$ |<br/>
+                         Łsūryācandramasor mārgaṃ nakṣatrāṇāṃ gatiṃ tathā$ |<br/>
+                         Łśailarājo vṛṇoty eṣa vindhyaḥ krodhavaśānugaḥ$ ||<br/>
+                         Łtaṃ nivārayituṃ śakto nānyaḥ kaś cid dvijottama$ |<br/>
+                         Łṛte tvāṃ hi mahābhāga tasmād enaṃ nivāraya$ ||<br/>
+                         Łlomaśa uvāca$ |<br/>
+                         Łtac chrutvā vacanaṃ vipraḥ surāṇāṃ śailam abhyagāt$ |<br/>
+                         Łso 'bhigamyābravīd vindhyaṃ sadāraḥ samupasthitaḥ$ || 10 ||<br/>
+                         Łmārgam icchāmy ahaṃ dattaṃ bhavatā parvatottama$ |<br/>
+                         Łdakṣiṇām abhigantāsmi diśaṃ kāryeṇa kena cit$ ||<br/>
+                         Łyāvadāgamanaṃ mahyaṃ tāvat tvaṃ pratipālaya$ |<br/>
+                         Łnivṛtte mayi śailendra tato vardhasva kāmataḥ$ ||<br/>
+                         Łevaṃ sa samayaṃ kṛtvā vindhyenāmitrakarśana$ |<br/>
+                         Ładyāpi dakṣiṇād deśād vāruṇir na nivartate$ ||<br/>
+                         Łetat te sarvam ākhyātaṃ yathā vindhyo na vardhate$ |<br/>
+                         Łagastyasya prabhāvena yan māṃ tvaṃ paripṛcchasi$ || 14 ||</NOTE>
+
+                        % search for 'vindhya iva vardha' Kenji
+                        %tiṣṭhan tu? Kengo
+
+%index_metre: ma-vipulā
+%index_geo: Vidhya mountain
+
+
+<TEXT> lokālokaḥ sthitaḥ satye meruḥ satye pratiṣṭhitaḥ|</TEXT>
+        <APP>\va <LEM>°lokaḥ</LEM> \Ed; °loka \mssCaCbCc\msNa\msNb\msNc\oo
+                 <LEM>sthitaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; sthiḥ \msNc\oo
+                 <LEM>satye</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; satyaṃ \Ed</APP>
+        <APP>\vb <LEM>meruḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; meru \msCc\Ed</APP>
+        <TR>The [mythical] Lokāloka mountains are located in truth. Mount Meru stands by truth.</TR>
+%folioinfo \msCa\ 393.jpg
+
+%index_geo: Lokāloka mountains
+%index_geo: Meru
+
+<TEXT> vedās{ }tiṣṭhanti satyeṣu dharmaḥ satye pratiṣṭhati||</TEXT> 4:14
+        <APP>\vc <LEM>vedās{ }ti°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; devās{ }ti° \msCb, vedā ti° \Ed</APP>
+        <APP>\vd <LEM>satye</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; dharme \msCc\oo
+                 <LEM>pratiṣṭhati</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; pratiṣṭhiti \msNcacorr, pratiṣṭhitaḥ \msNcpcorr</APP>
+        <TR>The Vedas abide in truth. Dharma is rooted in truth.</TR>
+
+<TEXT> satyaṃ gauḥ kṣarate kṣīraṃ satyaṃ kṣīre ghṛtaṃ sthitam|</TEXT>
+        <APP>\va <LEM>gauḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; gau \msCc\msNb</APP>
+        <APP>\vab <LEM>kṣīraṃ satyaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; kṣītyaṃ \msCbacorr, ksī\lk  nityaṃ \msCbpcorr</APP>
+        <APP>\vb <LEM>kṣīre ghṛtaṃ sthitam</LEM> \msCa\msCb\msNa\msNc; kṣīraṃ ghṛtaṃ sthitam \msCc, kṣīre ghṛta sthitam \msNb,
+                                                                kṣīraṃ sthitaṃ ghṛtam \Ed</APP>
+        <TR>The milk a cow yields is truth. Ghee in milk is present as truth.</TR>
+
+<TEXT> satye jīvaḥ sthito dehe satyaṃ jīvaḥ sanātanaḥ||</TEXT> 4:15
+        <APP>\vc <LEM>satye jīvaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb; satye jīva \msNc, satyaṃ jīva \Ed</APP>
+        <APP>\vd <LEM>jīvaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; jīva \msCc</APP>
+        <NOTE>Łsatye$ (for Łsatyena$?) in Łpāda$ c may also stand for Łsatyaṃ$: `The soul dwells in the body as truth.'</NOTE>
+        <TR>The soul dwells in the body by truth. The eternal soul is truth.</TR>
+
+<TEXT> satyam{ }ekena samprāpto dharmasādhananiścayaḥ|</TEXT>
+        <APP>\va <LEM>satyam{ }ekena</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; satyam{ }ekaina \msCb, satyem{ }ekena \msNb</APP>
+        <APP>\vb <LEM>dharma°</LEM> \Ed; dharmaḥ \mssCaCbCc\msNa\msNb\msNc\oo
+                 <LEM>°niścayaḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; °niścaḥ \msCa</APP>
+        <NOTE>Or: `If truth alone (Łekena$) is obtained, Dharma is surely accomplished.'</NOTE>
+        <TR>If truth is obtained by somebody (Łekena$), he/she will be one for whom Dharma is surely accomplished.</TR>
+
+<TEXT> rāmarāghavavīryeṇa satyam{ }ekaṃ surakṣitam||</TEXT> 4:16
+        <APP>\vd <LEM>satyam{ }ekaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; satyem{ }ekaṃ \msNb\oo
+                 <LEM>surakṣitam</LEM> \mssALL\msCa\msCc\msNb\msNc\Ed; surikṣitam \msCb, surakṣitaḥ \msNa</APP>
+        <TR>By the heroism of Rāma Rāghava, the only truth was well-guarded.</TR>
+
+%index_persons: Rāma Rāghava
+
+% go for evaṃ?
+<TEXT> evaṃ satyavidhānasya kīrtitaṃ tava suvrata|</TEXT>
+        <APP>\va <LEM>evaṃ satya°</LEM> \msCb; etat{ }satya° \msCa\msCc\msNa\msNb\msNc\Ed</APP>
+        <APP>\vb <LEM>suvrata</LEM> \msCa\msNa\msNc; suvrate \msCb\msNb, suvra<UNCL>taḥ</UNCL> \msCc, suvrataṃ \Ed</APP>
+        <TR>Thus have [I] taught the rules of truth to you, O virtuous one,</TR>
+% for kīrtanam Kengo (but then tava is problematic)
+
+<TEXT> sarvalokahitārthāya kim{ }anyac{ }chrotum{ }icchasi||</TEXT> 4:17
+        <TR>to favour the whole world. What else do you wish to hear?</TR>
+% Marco maybe pāda c goes with pāda d 
+
+
+
+
+<SUBCHAPTER>yameṣv{ }asteyam (3)</SUBCHAPTER>
+<TRSUBCHAPTER>Third Yama-rule: refraining from stealing</TRSUBCHAPTER>
+
+%folioinfo \msNc\ 217.jpg lower, f. 215r
+<TEXT> vigatarāga uvāca|*</TEXT>
+        <TR>Vigatarāga spoke:</TR>
+
+<TEXT> na hi tṛptiṃ vijānāmi śrutvā dharmaṃ tavāpy{ }aham|</TEXT>
+        <APP>\va <LEM>tṛptiṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; tṛpti \msCc\oo
+                 <LEM>vijānāmi</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; vināmi \msNb</APP>
+        <APP>\vb <LEM!>śrutvā dharmaṃ tavāpy{ }aham</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc;
+                                                         śru dharman{ }tavāpy{ }aham \msCa,
+                                                         dharmaṃ śrutvā tathāpy{ }aham \Ed</APP>
+        <NOTE>It is not inconceivable that Łtava$ is meant to carry the sense of the ablative
+               (`I can't have enough of learning about Dharma from you').</NOTE>
+        <TR>I can't have enough of learning about [this teaching of] your[s on] Dharma.</TR>
+
+%index_grammar: genitive as ablative (tava)?
+
+<TEXT> upariṣṭād{ }ato bhūyaḥ kathayasva tapodhana||</TEXT> 4:18
+        <APP>\vd <LEM>°dhana</LEM> \msCc\msNa\msNb\Ed; °dhūna \msCa, °dhanaḥ \msCb\msNc</APP>
+        <TR>Teach me further than this, O great ascetic.</TR>
+
+%index_anarthayajna_ref_as: tapodhana
+
+
+<TEXT> anarthayajña uvāca|*</TEXT>
+        <TR>Anarthayajña spoke:</TR>
+
+<TEXT> steyaṃ śṛṇv{ }atha viprendra pañcadhā parikīrtitam|</TEXT>
+        <APP>\vb <LEM>°kīrtitam</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °kīrttitām \msCb</APP>
+        <TR>Now listen to [my teaching about] stealing, O great Brahmin, 
+                                which is taught to be of five kinds.</TR>
+
+<TEXT> adattādānam{ }ādau tu utkocaṃ ca tataḥ param|</TEXT> 
+        <APP>\vd <LEM>utkocaṃ ca tataḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; tkoca tataḥ \msCb, utkocaṃ cānṛtaḥ \Ed</APP>
+        <TR>Firstly, [listen to] theft, then bribery,</TR>
+        <NOTE>`Theft' (Ładattādāna$): literally `taking what has not been given.'</NOTE>
+
+%folioinfo \msCb\ 414.jpg
+<TEXT> prasthavyājas{ }tulāvyājaḥ prasahyasteya pañcamam||</TEXT> 4:19
+        <APP>\ve <LEM>tulāvyājaḥ</LEM> \msCb\msNc\Ed; tulāvyāja \msCa\msCc\msNa\msNb</APP>
+        <APP>\vf <LEM>°sahya°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °sahye \msNb\oo
+                 <LEM>°steya</LEM> \mssALL\msCb\msCc\msNa\msNb\Ed; °stena \msCa\msNc\oo
+                 <LEM>pañcamam</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; pañcamaḥ \msCc\Ed</APP>
+        <NOTE>Note the \stemform\ °Łsteya$ in Łpāda$ f.</NOTE>
+        <TR>cheating with weights, cheating with scales, and the fifth kind, robbery.</TR>
+% prasahyacaura = (m.) ‘violent thief’, a robber, plunderer, [L.] MMW
+
+%index_grammar: stem form noun
+
+% is dhṛṣṭa OK? phps dṛṣṭa = evident (crime)?
+<TEXT> dhṛṣṭaduṣṭaprabhāvena paradravyāpakarṣaṇam|</TEXT> 
+        <APP>\va <LEM>dhṛṣṭaduṣṭa°</LEM> \msCa\msNa\msNc\Ed; dhṛṣṭadumna° \msCb, dhṛtaduṣṭa° \msCc, dṛṣṭaduṣṭa° \msNb</APP>
+        <APP>\vb <LEM>°karṣaṇam</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °karṣaṇa \msNa</APP>
+        <NOTE>My impression is that Łprabhāva$ in Łpāda$ a stands for Łbhāva$, Łduṣṭabhāva$ (`vicious')
+              being a common expression.</NOTE>
+        <TR>When somebody's wealth is taken away by an impudent and wicked person,</TR>
+
+% gender (probably not a bahuvrīhi?)
+<TEXT> vāryamāṇo 'pi durbuddhir{ }adattādānam{ }ucyate||</TEXT> 4:20
+        <APP>\vc <LEM>vāryamāṇo 'pi</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; vāryamāno vi° \msCb</APP>
+        <NOTE>The implications of Łvāryamāṇo$ in Łpāda$ c are unclear to me, therefore
+              my translation is tentative. One could consider emending to Łvāryamāṇāpi$,
+              possibly suggesting that `it is a wicked thought (Łdurbuddhi$) even if suppressed (Łvāryamāṇa$).'</NOTE>
+        <TR>it is called theft, even if that fool is prevented [from committing the\linebreak crime].</TR>
+% duburddhir \msNc
+% if remains unnoticed? Marco
+% Nirajan even if restrained
+
+% typical feature that with a śṛṇu-type line a 3-line śloka is formed
+<TEXT> utkocaṃ śṛṇu viprendra dharmasaṃkarakārakam|</TEXT> 
+        <APP>\va <LEM>utkocaṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; utkoca \msCa\oo
+                 <LEM>viprendra</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; vidrendra \msNb</APP>
+        <APP>\vb <LEM>°saṃkara°</LEM> \msCc\msNa; °śaṅkara° \msCa\msCb\msNb, °sakara° \msNc, °saṃhāra° \Ed\oo
+                 <LEM>°kārakam</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °kārakaḥ \msNa</APP>
+        <TR>O great Brahmin, listen to bribery, which causes confusion in Dharma.</TR>
+
+<TEXT> mūlyaṃ kāryavināśārtham{ }utkocaḥ parigṛhyate|</TEXT>
+        <APP>\vc <LEM>mūlyaṃ</LEM> \conj; mūla \mssCaCbCc\msNa\msNb\msNc\Ed\oo
+                 <LEM>°vināśārtha°</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\msNc\Ed; °vinārtha° \msNaacorr</APP>
+        <APP>\vd <LEM>°tkocaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc; °tkocaṃ \msNb, °tkoca \Ed</APP>
+                <NOTE>Note that Łmūlyaṃ$ in Łpāda$ c is a conjecture for Łmūla$. It is partly based on 
+                      a relevant passage in the \Mitaksara\ (ad \YajnS\ 2.176cd):
+                      Łpaṇyasya krītadravyasya yan mūlyaṃ dattam, bhṛtir vetanaṃ kṛtakarmaṇe dattam$\dots\ 
+                      Łutkocena kāryapratibandhanirāsārtham adhikṛtebhyo dattam$\dots\ </NOTE>
+        <TR>A sum of money taken in order to dismiss a lawsuit is a bribe.</TR>
+% Judit could be more general: duty? maybe except it, 'obligation' Florinda
+
+% MMW: kārya - to be imposed (as a punishment), [Mn. viii, 276 and 285]
+%Judit: "Sztem inkabb: when a sum of money is given to make as if something did not happen. (kenôpénz a rendôrnek: itt ugye nem is volt gyorshajtas) or: to avoid that something should happen (pl. birsag)" CsK: I took kārya as punishment, fine
+% kārya is also 'lawsuit'
+% Mitākṣarā:
+% ayam arthaḥ: paṇyasya krītadravyasya yan mūlyaṃ dattam, bhṛtir vetanaṃ kṛtakarmaṇe dattam, tuṣṭyā bandicāraṇādibhyo dattam, snehād duhitṛputrādibhyo dattam, pratyupakārata upakṛtavate pratyupakārarūpeṇa dattam, strīśulkaṃ pariṇayanārthaṃ kanyājñātibhyo yad dattam, yac cānugrahārtham adṛṣṭārthaṃ dattaṃ tad etat saptavidham api dattam eva na pratyāharaṇīyam | bhayena bandigrāhādibhyo dattam, krodhena putrādibhyo vairaniryātanāyānyasmai dattam, putraviyogādinimittaśokāveśena dattam,
+% utkocena kāryapratibandhanirāsārtham adhikṛtebhyo dattam
+
+%folioinfo \msM\ 418.jpg lower, f. 7r  
+%folioinfo \Ed\ p.593
+%           asau shd be acc. (\msM\ has steya)
+<TEXT> tena cāsau vijānīyād{ }dravyalobhabalāt{ }kṛtam||</TEXT> 4:21
+        <APP>\vef <LEM>vijānīyād{ }dra°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; vijānīyā dra° \msCc</APP>
+        <TR>Therefore this [also] should be considered as such 
+                [i.e.\ as stealing because] it is committed out of greed for material goods.</TR>
+        <NOTE>Note Łasau$ in Łpāda$ e as an accusative form (for Łamum$ or Ładaḥ$). It is not unlikely that 
+              Łtena$ is a corruption from Łstena$, and the Łpāda$ may have originally read 
+              Łstenaṃ taṃ ca vijānīyād$ (`he should be known as a thief'), or similar (cf. 4.22c below). 
+              \msM\ (f. 7r) reads Łtena steya vijānīyād$ here.</NOTE>
+
+%index_grammar: nominative for accusative (asau)? Corruption?
+
+<TEXT> prasthavyāja-upāyena kuṭumbaṃ trātum{ }icchati|</TEXT>
+        <TR>[Even if] somebody wants to protect a family by the method of cheating with weights,</TR>
+
+%index_grammar: lack of internal sandhi (prasthavyāja-upāyena)
+
+<TEXT> taṃ ca stenaṃ vijānīyāt{ }paradravyāpahārakam||</TEXT> 4:22
+        <APP>\vc <LEM>taṃ ca stenaṃ</LEM> \msCa; tañ{ }ca stena \msCb,
+                                so 'pi tena \msCc\Ed, taṃ ca steyaṃ \msNa, tañ{ }ca teya \msNb, tañ{ }ca tena \msNc</APP>
+        <APP>\vd <LEM>°hārakam</LEM> \msCa\msCb\msNapcorr\msNc\Ed; °hārakaḥ \msCc, °hārakā \msNaacorr °hārakāḥ \msNb</APP>
+        <TR>that person should be considered a thief, because he takes away other people's wealth.</TR>
+
+
+<TEXT> tulāvyāja-upāyena parasvārthaṃ hared{ }yadi|</TEXT> 
+        <APP>\va <LEM>parasvārthaṃ</LEM> \msCa\msCc\msNa\msNc; parasvārtha \msCb\msNb, parasyārthaṃ \Ed\oo
+                 <LEM>hared{ }yadi</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; hared{ }yati \msCb</APP>
+        <TR>If somebody takes away somebody else's belongings
+                                         by the method of cheating with scales,</TR>
+
+%folioinfo \msNa\ 200.jpg lower, f.7r
+<TEXT> cauralakṣaṇakāś{ }cānye kūṭakāpaṭikā narāḥ||</TEXT> 4:23
+        <APP>\vd <LEM>kūṭakāpaṭikā</LEM> \msNb; <UNCL>ku</UNCL>ṭakā yaṭikā \msCa, kūṭakāyaṭikā \msCb\msCc\msNaacorr\msNc,
+                                         kūṭakāryaṭikā \msNapcorr\Ed</APP>
+        <PARAL>\vcd Ł\compare\ \UMS\ 8.3cd:$ kūṭakāpaṭikāś{ }caiva satyārjavavivarjitāḥ</PARAL>
+        <NOTE>I take Łanye$ in Łpāda$ c rather liberally, and as connected to
+              Łpāda$s ab, because I suspect that this verse introduces one single
+              category, albeit using clumsy syntax.</NOTE>
+        <TR>that person is another kind of a deceitful swindler (Łkūṭa-kāpaṭika$) 
+            having the characteristics of thieves.</TR>
+
+%index_grammar: singular-plural confusion 
+
+<TEXT> durbalārjavabāleṣu cchadmanā vā balena vā|</TEXT> 
+        <APP>\va <LEM>°rjava°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °java° \msNb</APP>
+        <APP>\vb <LEM>cchadmanā</LEM> \Ed; cchanmanā \mssCaCbCc\msNa\msNb, cchatmānā \msNc</APP>
+        <TR>If someone, by deceit or by force, snatches away the wealth</TR>
+
+<TEXT> apahṛtya dhanaṃ mūḍhaḥ sa cauraś{ }cora ucyate||</TEXT> 4:24
+        <APP>\vcd <LEM>mūḍhaḥ sa</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; mūḍhās{ }sa \msNb</APP>
+        <APP>\vd <LEM>cauraś{ }cora</LEM> \msNc; coraś{ }cora \msCa\msCc\msNb\Ed, caura cora \msCb, cauraś{ }caura \msNa</APP>
+        <NOTE>It is possible that Łpāda$ d read differently originally, 
+              e.g., Łsa coraś cora ucyate$, meaning `that thief is [rightly] called a thief'.</NOTE> 
+        <TR>of weak and honest people and simpletons, that morally corrupt usurper is [simply] a thief.</TR>
+
+%lacuna_start: Ed
+<TEXT> nāsti steyasamaṃ pāpaṃ nāsty{ }adharmaś{ }ca tatsamaḥ|</TEXT>
+        <APP>\va <LEM>steya°</LEM> \msNa\msNc; tena \msCa, stena° \msCb\msCc\msNb</APP>
+        <APP>\vb <LEM>°samaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °samaṃ \msCc</APP>
+        <LACUNA>\vo ŁThis verse is missing in \Ed.$</LACUNA>
+        <TR>There is no sin equal to stealing. There is no crime (Ładharma$) equal to it.</TR>
+
+%folioinfo: \msCc\ 192.jpg, f. 274v
+<TEXT> nāsti stenasamākīrtir{ }nāsti stenasamo 'nayaḥ||</TEXT> 4:25
+        <APP>\vc <LEM>stena°</LEM> \mssALL\msCa\msCb\msNa\msNb; tena \msCc, steya° \msNc\oo
+                 <LEM>°samā°</LEM> \msCb\msCc\msNb; °samo \msCa\msNa\msNc</APP>
+        <APP>\vd <LEM>stena°</LEM> \mssALL\mssCaCbCc\msNb\Ed; steya° \msNa\msNc</APP>
+        <TR>There is no ill-fame comparable to that of being a thief. 
+                There is no bad-conduct comparable to being a thief.</TR>
+
+%lacuna_end: Ed
+<TEXT> nāsti steyasamāvidyā nāsti stenasamaḥ khalaḥ|</TEXT> 
+        <APP>\va <LEM>steya°</LEM> \msNa\msNc\Ed; stena° \mssCaCbCc\msNb\oo
+                 <LEM>°samā</LEM> \msCc\msNb; °samo \msCa\msCb\msNa\msNc\Ed</APP>
+        <APP>\vb <LEM>stena°</LEM> \mssCaCbCc\msNb; steya° \msNa\msNc, tena \Ed</APP>
+        <TR>There is no greater ignorance than stealing. There are no bigger rouges than thieves.</TR>
+
+<TEXT> nāsti stenasama ajño nāsti stenasamo 'lasaḥ||</TEXT> 4:26
+        <APP>\vc <LEM>stena°</LEM> \msCa\msCb\msNb\msNc; steya° \msCc\msNa\Ed\oo
+                 <LEM>°sama</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed\ \unmetr; °samaṃ \msNb\oo
+                 <LEM>ajño</LEM> \msCb; ajña\lk\ \msCa, ajña \msCc\msNa\msNb\msNc, ajñaḥ \Ed</APP>
+        <APP>\vd <LEM>stena°</LEM> \msCa\msCb\msNb; steya° \msCc\msNa\msNc, tena \Ed </APP>
+        <NOTE>Note the peculiar sandhi in Łpāda$ c (°Łsama ajño$), which still leaves the Łpāda$ 
+              a Łsa-vipulā$.</NOTE>
+        <TR>There is nobody as ignorant as a thief. There is no lazy person that is comparable to a thief.</TR>
+
+%index_metre: sa-vipulā
+%index_grammar: sandhi
+
+<TEXT> nāsti stenasamo dveṣyo nāsti stenasamo 'priyaḥ|</TEXT>
+        <APP>\va <LEM>stena°</LEM> \msCa\msCb\msNb; steya° \msCc\msNa\msNc, tena \Ed </APP>
+        <APP>\vb <LEM>stena°</LEM> \msNb; steya° \mssCaCbCc\msNa\msNc\Ed</APP>
+        <TR>There is nobody as detestable as a thief. There is nobody disliked as much as a thief.</TR>
+
+<TEXT> nāsti steyasamaṃ duḥkhaṃ nāsti steyasamo 'yaśaḥ||</TEXT> 4:27
+        <APP>\vc <LEM>steya°</LEM> \msCc; stena° \msCa\msCb\msNa\msNb, stenya° \msNc, tena \Ed </APP>
+        <APP>\vd <LEM>steya°</LEM> \msCc\msNc; stena° \msCa\msCb\msNa\msNb, tena \Ed </APP>
+        <NOTE>Note how Łstena$ and Łsteya$ are used interchangeably (or chaotically)
+                        in the above passages in the MSS to denote both `thief' and 'theft/stealing'.
+                         The scribe of \msNc\ ends up writing Łstenya$ in 4.27e.</NOTE>
+        <TR>There is no greater suffering than stealing. There is no greater disgrace than theft.</TR>
+% infamy for ayaśaḥ Judit no problem with gender in this text
+  
+
+
+
+<NOTANUSTUBH/> śārdūlavikrīḍita
+<LONGVERSELINES/>
+%        -   -  -   . . -     .    -  . . . -    -  -  .    -  -  . -
+<TEXT> pracchanno hriyate 'rtham{ }anyapuruṣaḥ pratyakṣam{ }anyo haret</TEXT>
+        <APP>\va <LEM>pracchanno</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; prasthanno \msCb\oo
+                 <LEM>'rtham{ }anyapuruṣaḥ</LEM> \msCb\msNc;
+                                         vittam \msCa\msNaacorr\msNb,
+                                         citta \msCc, ca vittam{ }athavā \msNapcorr\Ed\oo
+                 <LEM>pratyakṣam{ }anyo</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; pratyakṣam{ }ano \msCb,
+                                         pratyakṣyam{ }anye \Ed</APP>
+        <TR>Some [thieves] take away [other people's] wealth in disguise, some in broad daylight.</TR>
+        <NOTE>Metre Łśārdūlavikrīḍita$. It appears that Łhriyate$ in Łpāda$ a is to be taken as an active verb (Łharate$).
+                 Note also how \msCb\ and \msNc\ read the same here against the other witnesses.</NOTE>
+% important as far \Ed is concerned
+% look at \msNapc again (is it a modern hand?) mathavā is probably another hand ('ca' not so?)
+
+%       -  - -      . . - . -    .       .  . -   - - .  -  -  . -
+<TEXT> nikṣepād{ }dhanahāriṇo 'nya{-}m{-}adhamo vyājena cānyo haret|</TEXT> 
+        <APP>\vb <LEM>nikṣepād{ }dhana°</LEM> \msCa\msCb\msNa; nikṣepā dhana° \msCc\msNb\msNc, nikṣepātraya° \Ed\oo
+                 <LEM>°hāriṇo</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; °hāriṇyo \msCb, °hāriṇā \msNb\oo
+                 <LEM>'nyam{ }adhamo</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; 'nyam{ }adhano \msCc, 'nyavidhayo \Ed\oo
+                 <LEM>cānyo</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; cānyā \Ed\oo
+                 <LEM>haret</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; hare \msNa</APP>
+        <NOTE>Take °Łhāriṇo$ in Łpāda$ b as singular and Łm$ in Ł'nya-m-adhamo$ as a sandhi-bridge.
+              Alternatively, read as plural: °Łhāriṇo 'nya adhamo$\dots\ </NOTE>
+        <TR>Other wicked people take money from deposits, and some people steal through fraud.</TR>
+
+%index_grammar: hiatus-filler, sandhi bridge
+
+% nikṣepa as pawn ? Judit 
+% vyāja is interest? Nirajan (Arthaśāstra)
+%Tr. by R. Shamasastry (1956):
+%2.6.10: mūlyaṃ bhāgo vyājī parighaḥ kḷptam rūpikam atyayaś cāyamukham|
+%`Capital (mūla), share (bhāga), premia (vyāji), parigha[2](?), fixed taxes (kḷpta), premia on coins (rūpika[3]) and fixed fines (atyaya) are several forms of revenue (āyamukha, i.e. the mouth from which income is to issue).'
+%2.6.22: vikriye paṇyānām arghavṛddhir upajā, mānaunmānaviśeṣo vyājī, krayasaṃgharṣe vārdhavṛddhiḥ - ity āyaḥ ||
+%`The rise in price of merchandise due to the use of different weights[6] and measures in selling is termed vyājī; the enhancement of price due to bidding among buyers is also another source of profit.'
+%vyāji = 'Transaction tax ' ( https://www.gktoday.in/gk/kautilyas-system-of-tax-administration ) 
+
+
+%      -  -  -   . . -  . - . .  . - -  -  . -     -   . -
+<TEXT> anye lekhyavikalpanāhṛtadhanā <crux>anyo hṛtād{ }vai hṛtā</crux></TEXT>
+        <APP>\vc <LEM>anye lekhya°</LEM> \corr; anyā lekha° \msCb\msCc,
+                                 anyo le<UNCL>khya</UNCL>° \msCa, anyo lekhya° \msNa\msNb\msNc, anyollekhya \Ed\oo
+                 <LEM>°dhanā anyo</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °dhanyo \msCb\oo
+                 <LEM>hṛtād{ }vai</LEM> \mssALL\mssCaCbCc\msNc\Ed; hṛtad{ }vai \msNa, hṛtād{ }ve \msNb</APP>
+        <NOTE>The second half of Łpāda$ c is difficult to reconstruct.</NOTE>
+        <TR>Some gather wealth by forging documents, others steal from stolen money[?].</TR>
+% anyo lekhya keep it Judit
+% forging copperplates is a big topic Kengo! (Flo: Solamon has a chapter on it)
+
+%folioinfo \msCa\ 394.jpg
+%     unmetr: 
+%       -  -    - .  . -  . -   . . . -!       - -  .  -  -    . -
+<TEXT> anyaḥ krītadhano 'paro dhayahṛta ete jaghanyāḥ smṛtāḥ||</TEXT> 4:28
+        <APP>\vd <LEM>anyaḥ krītadhano</LEM> \mssALL\mssCaCbCc\msNa\msNb; anya krītadhano \msNc, anāśrītadhanaṃ \Ed\oo
+                 <LEM>'paro dhayahṛta</LEM> \msCa\msCc\msNb; paro dhayahyata \msCb, paro dhana<UNCL>hṛta</UNCL> \msNa, 
+                                             parodhaprahṛta \msNc, madā hy{ }apahṛtaṃ \Ed\oo
+                 <LEM>jaghanyāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; jaghanyaḥ \Ed</APP>
+        <NOTE>The translation of Łpāda$ d is mostly guesswork. Tentatively, I take Łkrīta$ as Łkrītaka$ (`a purchased son', see
+              \MANU\ 9.174). Łdhayahṛta$ makes little sense to me. Florinda De Simini suggested that
+              Łdhaya$ might stand for Łdaya$, which in turn may stand for Łdāya$ (`inheritance') metri causa.
+              Lacking any better solution, I supplied these in my translation, marked with question marks.
+              Note also the metrical licence that the last syllable of Łdhayahṛta$ counts as long.</NOTE>
+        <TR>Some people's wealth is from purchased [children?] (Łkrīta$).
+                 Others take away others' inheritance[?]. These are considered the vilest.</TR>
+% kīrtidhana?? 'paro? 'dhamahṛta? dhaya as an infant?
+%vikrīṇīte ya ātmānaṃ svatantraḥ san narādhamaḥ  /
+%sa jaghanyataras teṣāṃ naiva dāsyāt pramucyate  // Nar_5.35 //
+% dāya for daya metri causa Florinda Dāyabhāga
+
+%index_metre: śārdūlavikrīḍita
+%index_metre: long syllable at end of word -m a- long, actually -a a-
+
+
+
+
+
+
+% stenan \msCa
+%folioinfo \msNb\ 48.jpg upper ends with this line (the sequence is lower - upper | lower - upper)
+%        - -!-  .  .  -  .    -  .  . . -   -  -   . - -    . -
+<TEXT> stenatulya na mūḍham{ }asti puruṣo dharmārthahīno 'dhamaḥ</TEXT>
+        <APP>\va <LEM>stenatulya</LEM> \msCa\msCb\msNc\ \unmetr; steyastulya \msCc,
+                         steyatulya \msNa\ \unmetr, tena tulya \msNb\ \unmetr, stenastulya \Ed</APP>
+        <NOTE>For some time I was wondering if one should accept \Ed's reading Łstenastulya na mūḍham asti$ 
+                as a metri causa version of Łstenatulyo na mūḍho 'sti$; see a similar case of a nominative ending
+                inside of compound in Łpāda$ c below. One major concern remained:
+                the accepted reading would be of an edition that rarely emerges as 
+                the sole transmitter of the best reading. Another possible solution could be 
+                to emend to Łstenaṃtulya$\dots, meaning `there is no bigger foolishness than theft,'
+                but then the second part of Łpāda$ a is difficult to connect. In the end,
+                I decided to go for the most widely attested reading (Łstenatulya$),
+                which is unmetrical.
+
+                <sep/> </NOTE>
+        <TR>There is no bigger idiot than a thief, who is a wicked person without Dharma and
+            financial gain (Łartha$).</TR>
+% Judit go for unmetrical version?
+% stenam ? CsabaK/Judit
+
+%index_grammar: sandhi a-m-a instead of o '
+
+%folioinfo \msNb\ 49.jpg lower
+<TEXT> yāvaj{ }jīvati śaṅkayā narapateḥ saṃtrasyamāno raṭan|</TEXT>
+        <APP>\vb <LEM>yāvaj{ }jīvati</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; yāvat{ }taj{ }jīvati \Ed\oo
+                 <LEM>°pateḥ</LEM> \msCb\msNb\msNc; °patiḥ \msCa\msCc\msNa\Ed\oo
+                 <LEM>saṃtrasyamāno raṭan</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; saṃtrāsyamāno śaṭhaḥ \Ed</APP>
+        <LACUNA>\vo ŁThe lower folio side in exposure 49 in \msNb\ is rather blurred and seems to be partly erased,
+                        therefore all the readings in this MS for verses 4.29--46 are rather uncertain,
+                        even if not indicated explicitly.$</LACUNA>
+        <TR>As long as he lives, he trembles in fear of the king, wailing.</TR>
+
+%        -  -  - . .  -  . -  . . . -    -  - .  -  - . -
+<TEXT> prāptaḥśāsana tīvrasahyaviṣamaṃ prāpnoti karmeritaḥ</TEXT>
+        <APP>\vc <LEM>prāptaḥ°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; prāpta° \msNa\oo
+                 <LEM>°sahya°</LEM> \mssALL\mssCaCbCc\msNa\msNc; \lac2 ×× \msNb, °sadya° \Ed\oo
+                 <LEM>°viṣamaṃ</LEM> \eme; °viṣamaḥ \mssCaCbCc\msNa\msNc\Ed, \lac3 ××× \msNb\oo
+                 <LEM>karmeritaḥ</LEM> \mssALL\msCb\msCc\msNa\msNc\Ed; karme<UNCL>rita</UNCL> \msCa,
+                                         \lac2 ××<UNCL>ritaḥ</UNCL> \msNb</APP>
+        <TR>Having received his punishment, he gets into severe and [in]tolerable
+                                 difficulties, propelled by [his] karma.</TR>
+        <NOTE>Understand Łprāptaḥśāsana tīvrasahyaviṣamaṃ$ in Łpāda$ c as Łprāptaśāsanas tīvram asahyaṃ ca viṣamaṃ prāpnoti$.
+                Alternatively, understand Łtīvrasahya$° as Łduḥsahya$°.
+                The actual reading of \msCa, Łprāptaś$, lost in the process of normalization and standing
+                        in contrast with that of all other MSS that read Łprāptaḥ$, may suggest
+                        a doubling of the Łś$ of Łśāsana$ metri causa.
+                        More likely is that a licence of having a nominative ending inside of a compound
+                        is applied here, as may have been the case above in Łpāda$ a.</NOTE>
+
+%index_grammar: nominative inside compound
+
+% REVISE Judit: MSS prāptaśśāsana? CHECK yes: \msCa no: \msCb\msCc\msNa\msNb
+
+% unmetr                            !
+%       - - -   . . -  .  - .  . . -    -  - .  -  - . -
+<TEXT> kālena mriyate sa yāti nirayam{ }ākrandamāno bhṛśam||</TEXT> 4:29
+        <APP>\vd <LEM>nirayam{ }ākrandamāno</LEM> \mssCaCbCc\msNa; <UNCL>nira</UNCL>yam{ }ākrandamā<UNCL>no</UNCL> \msNb, 
+                                                               nirayaṃ sa krandamāno \msNc, niyamam{ }ākrandramāno \Ed</APP>
+        <TR>When his time comes, he dies and goes to hell, weeping vehemently.</TR>
+
+
+
+%index_metre: śārdūlavikrīḍita
+
+
+
+<LONGVERSELINES/>
+<TEXT> nītvā durgatikoṭikalpa nirayāt{ }tiryatvam{ }āyānti te</TEXT>
+        <APP>\va <LEM>nirayāt{ }tiryatva°</LEM> \msCb\msNa; nirayān{ }tiryatva° \msCa, nirayā tiryatva° \msCc, 
+                       ni<UNCL>rayā\-t{ }tiryatva</UNCL>° \msNb, nirayān{ }tiryakṣa° \msNc, nirayān{ }tiryaktva° \Ed</APP>
+        <TR>Having spent ten million \ae ons of suffering,
+                                 they emerge from hell to the state of animal existence.</TR>
+        <NOTE>Note the \stemform\ °Łkalpa$ for °Łkalpaṃ$ metri causa in Łpāda$ a.</NOTE>
+
+%index_grammar: stem form noun
+%index_voc: tiryatva
+
+<TEXT> tiryatve ca tathaivam{ }ekaśatikaṃ prabhramya varṣārbudam|</TEXT>
+        <APP>\vb <LEM>tiryatve</LEM> \mssALL\mssCaCbCc\msNa\msNc; <UNCL>tiryatve</UNCL> \msNb, tiryaktvaṃ \Ed\oo
+                 <LEM>tathaivam{ }ekaśatikaṃ</LEM> \msCb; tathaikam{ }ekaśatikaṃ \msCa\msNa\msNc,
+                        tathaikam{ }ekaśatika \msCc, <UNCL>tathai</UNCL>kam{ }ekaśatikaṃ \msNb, tathaikam{ }ekasakikaṃ \Ed\oo
+                 <LEM>°bhramya°</LEM> \mssALL\mssCaCbCc\msNc\Ed; °bhrāmya \msNa, \lac1 ×\csa mya \msNb\oo
+                 <LEM>varṣārbudam</LEM> \msNcpcorr; varṣāmbudam \msCa\msCb\msNa\msNb\msNcacorr, varṣāmbudaḥ \msCc\Ed</APP>
+        <NOTE>In Łpāda$ c, Łtathaivam$, or Łtathaikam$, and Łekaśatikaṃ$ are suspect.</NOTE>
+        <TR>Similarly, they roam about in animal existence for a hundred and one times ten million years.</TR>
+
+%index_voc: tiryatva
+
+%       - -  -   .    . -  . -  .  . . -   - -   . - - . -
+<TEXT> mānuṣyaṃ tad{ }avāpnuvanti vipule dāridryarogākulaṃ</TEXT>
+        <APP>\vc  <LEM>mānuṣyaṃ</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed;
+                                                 mānuṣya \msCb\ \unmetr, <UNCL>mānuṣya</UNCL> \msNb\ \toplost\oo
+                 <LEM>vipule</LEM> \mssALL\mssCaCbCc\msNa\msNc; vipu<UNCL>la</UNCL> \msNb\ \toplost, vipulaṃ \Ed\oo
+                 <LEM>dāridrya°</LEM> \mssALL\mssCaCbCc\msNa\msNc; \lk ri\lk\ \msNb, dāridhra° \Ed</APP>
+        <TR>Then they reach the status of human existence on earth which is full of poverty and disease.</TR>
+        <NOTE>I understand Łvipule$ as Łvipulāyāṃ$, Łvipulā$ appearing in \Amara\ 2.1.7 as a synonym of
+                        Łdhātrī$, `earth.' It is difficult to interpret it otherwise.
+                        This is still problematic because both human and
+                        animal existence takes place on earth, thus, if Łtiryatva$ (i.e. Łtiryaktva$) 
+                        indeed means `animal existence,' there is no contrast between Łpāda$s b and c as
+                        regards location. As for Łtiryaktva$, see, e.g., \MANU\ 12.40:
+                        <sep/>
+                                Łdevatvaṃ sāttvikā yānti manuṣyatvaṃ ca rājasāḥ$ |
+                                Łtiryaktvaṃ tāmasā nityam ity eṣā trividhā gatiḥ$ ||
+                        <sep/>
+              It is not unlikely that the original form of Łdāridryarogākulam$ was Łdāridryarogākule$,
+              picking up Łvipule$.</NOTE>
+
+% Nirajan vipule in an extended family? still a punishment
+% kule ? CsK
+
+%folioinfo \msNc\ 218.jpg upper, f. 215v
+%       -  -     -  . . - .  -  .  . . -    -   -  . -   -  . -
+<TEXT> tasmād{ }durgatihetu karma sakalaṃ tyaktvā śivaṃ cāśrayet||</TEXT> 4:30
+        <APP>\vd <LEM>tasmād{ }du°</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; tasmā du° \msCc, <UNCL>tasmā du</UNCL>° \msNb\oo
+                 <LEM>cāśrayet</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; cāśrat \msNa</APP>
+        <TR>Then abandoning all one's karmas, the causes of suffering, one seeks refuge in Śiva.</TR>
+        <NOTE>Note the switch from plural to singular in Łpāda$ d (Łāśrayet$).</NOTE>
+
+
+%index_metre: śārdūlavikrīḍita
+
+
+<NORMALVERSELINES/>
+
+
+
+
+<SUBCHAPTER>yameṣv{ }ānṛśaṃsyam (4)</SUBCHAPTER>
+<TRSUBCHAPTER>Fourth Yama-rule: absence of hostility</TRSUBCHAPTER>
+
+<ANUSTUBH/>
+<TEXT> aṣṭamūrtiśivadveṣṭā pitur{ }mātuś{ }ca yo dviṣet|</TEXT>
+        <APP>\va <LEM>°śiva°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °śivaṃ \msNc</APP>
+        <TR>The one who is hostile towards the eight-formed Śiva, he who hurts his mother or father,</TR>
+
+<TEXT> gavāṃ vā atither{ }dveṣṭā nṛśaṃsāḥ pañca eva te||</TEXT> 4:31
+        <APP>\vc <LEM>gavāṃ vā</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; avām{ }vā \msCb, \lk\lk <UNCL>m{ }vā</UNCL> \msNb\oo
+                 <LEM>atither{ }dve°</LEM> \mssALL\msCa\msCb\msNb\msNc\Ed; atithidve° \msCc, atithe dve° \msNa</APP>
+        <APP>\vd <LEM>nṛśaṃsāḥ</LEM> \msCa\msCc\msNa\msNb; nṛśaṃsā \msCb\msNc\Ed</APP>
+        <NOTE>Note Łpitur$ and Łmātur$ used as accusative forms in Łpāda$ b, or rather,
+                        understand Łpitur mātuś ca yo dveṣṭā$, i.e. Łdviṣet$ is
+                        metri causa for Łdveṣṭā$.</NOTE>
+        <TR>he who is hostile towards cows or guests: these are the five types of hostile people.</TR>
+
+%index_grammar: genitive for accusative or dveṣṭā for dviṣet metri causa
+%index_grammar: absence of sandhi inside pāda (gavāṃ vā atither dveṣṭā)
+
+<TEXT> aṣṭamūrtiḥ śivaḥ sākṣāt{ }pañcavyomasamanvitaḥ|</TEXT>
+        <APP>\va <LEM>°mūrtiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °mūrti° \Ed</APP>
+        <APP>\vb <LEM>°nvitaḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °nvitāḥ \msCc\msNb</APP>
+        <TR>Śiva, when manifest (Łsākṣāt$), has eight form, possessing the five elements (Łvyoman$),</TR>
+% MW: aṣṭamūrti (m.) ‘eight-formed’, a N. of Śiva (as identified with the five elements, mind, egotism, and Prakṛti [matter]; or, according to the opening of the Śakuntalā, with the five elements, the sun and moon and the sacrificing priest), [MBh. iii, 1939]; [Ragh. &c.] 
+
+%index_voc: vyoman as five elements
+
+<TEXT> sūryaḥ somaś{ }ca dīkṣaś{ }ca dūṣakaḥ sa nṛśaṃsakaḥ||</TEXT> 4:32
+        <APP>\vc <LEM>sūryaḥ</LEM> \mssCaCbCc\msNa; <UNCL>sūrya</UNCL>° \msNb\msNc, sūrya° \Ed\oo
+                 <LEM>dīkṣa°</LEM> \mssALL\mssCaCbCc\msNa\msNc; <UNCL>dī</UNCL>\lk\ \msNb, dīkṣu° \Ed</APP>
+        <PARAL>\vo Ł\compare\ \SDHS\ 12.17:$
+                mūrtayo yāḥ śivasyāṣṭau tāsu nindāṃ vivarjayet |
+                guroś{ }ca śivabhaktānāṃ nṛpasādhutapasvināṃ ||</PARAL>
+        <TR>and the Sun, the Moon, and the sacrificer. [He who] disgraces [any of these] is a hostile person.</TR>
+        <NOTE>Törzsök has suggested emending Łsa nṛśaṃsakaḥ$ in Łpāda$ d to Łtannṛṃśakaḥ$. I don't think that it is
+              inevitably necessary. I think that Łpāda$s a-c form a list that is meant to be in the genitive, understanding
+              \dots\ Łity eteṣāṃ dūṣakaḥ sa nṛśaṃsakaḥ$ or similar.  This is clumsy but in a way that is
+              more than possible within the style of this text.
+
+              I have not been able find any other attestation of Łvyoman$ meaning the five elements. Perhaps it is meant
+              to mean Łvyomādi$ (`the atmosphere/sky and the other four elements'). 
+        
+                For Śiva of eight forms, see, e.g., ŁŚakuntalā$ 1.1:
+        <sep/>
+                        [1] Łyā sṛṣṭiḥ sraṣṭur ādyā vahati$ [2] Łvidhihutaṃ yā havir$ [3] Łyā ca hotrī$<br/>
+                        [4, 5] Łye dve kālaṃ vidhattaḥ$ [6] Łśruti-viṣaya-guṇā yā sthitā vyāpya viśvam$ |<br/>
+                        [7] Łyām āhuḥ sarva-bīja-prakṛtir iti yayā prāṇinaḥ prāṇavantaḥ$ [8]<br/>
+                        Łpratyakṣābhiḥ prapannas tanubhir avatu vas tābhir aṣṭābhir īśaḥ$ ||
+        <sep/>
+                 Here the eight Łmūrti$s, or rather, Łtanu$s, are: 
+                        [1] Łjala$, [2] Łagni$, [3] Łhotrī$ (`the form that sacrifices'), [4 + 5] Łsūrya$ + Łcandra$,
+                        [6] Łākāśa$, [7] Łbhūmi$, [8] Łvāyu$.
+
+                For a similar interpretation of Łaṣṭamūrti$, see, e.g., 
+                \Isanasiva\ 2.29.34 (Łmantrapāda$; note Łyajamāna$ for our Łdīkṣa$):
+                <sep/>
+                                        Łkṣmā-vahni-yajamānārka-jala-vāyv-indu-puṣkaraiḥ$ |<br/>
+                                        Łaṣṭābhir mūrtibhiḥ śambhor dvitīyāvaraṇaṃ smṛtam$ ||
+                <sep/>
+                (For Łpuṣkara$ as `sky, atmosphere', see, e.g., \Amara\ 1.2.167:
+                        Łdyodivau dve striyām abhraṃ vyoma puṣkaram ambaram$.)
+
+                A closely related Aṣṭamūrti-hymn appears in \Nisvmukh\ 1.30--41 (I owe thanks to Nirajan Kafle
+                        for drawing my attention to this); see <citep>KafleNisvasaBook</citep><pnum>62, 63, 116, 119</pnum>. 
+                        Kafle notes that this hymn is closely parallel to some passages in the ŁPrayogamañjarī$ (1.19--26),
+                        the ŁTantrasamuccaya$ (1.16--23), and the ŁĪśānaśivagurudevapaddhati$ (Łkriyāpāda$ 26.56--63). 
+                                       See also \TAKI\ s.v. Łaṣṭamūrti$.</NOTE>
+
+% tannṛ°] \emeTorzsok; sa nṛ° \mssCaCbCc\msNa\msNb\msNc\Ed
+
+%index_grammar: clumsy
+
+<TEXT> pitākāśasamo jñeyo janmotpattikaraḥ pitā|</TEXT>
+        <APP>\vb <LEM>°karaḥ pitā</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °karapitāḥ \msCc, °<UNCL>karaḥ pitā</UNCL> \msNb</APP>
+        <TR>The father is to be considered similar to the [element] sky, he is the cause of one's birth.</TR>
+
+%folioinfo \msM\ 419.jpg upper, f. 7v  
+%                    = sūrya?
+<TEXT> pitṛdaivata<crux>m{ }ādiś{ }cam{ }ānṛśaṃsa tamanvitaḥ</crux>||</TEXT> 4:33
+        <APP>\vc <LEM>°daivata°</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; °devata° \msCb, \lk vata° \msNb</APP>
+        <APP>\vcd <LEM>°diś{ }cam{ }ānṛśaṃsa tamanvitaḥ</LEM> \msCa\msCb;
+                                 °dityam{ }anṛśaṃsa tamanvitaḥ \msCc\msNb,
+                                 °diśca anṛśaṃsa tamānvitaḥ \msNa, 
+                                 °diścam{ }anṛśaṃsa tamānvitaḥ \msNc, 
+                                 °dityam{ }mānṛśaṃsa tato 'nvitaḥ \Ed</APP>
+        <NOTE>It is difficult to restore Łpāda$s cd, although the general meaning of this line is
+              predictable. Some questions remain. Is Łāditya$ a good reading or is Łmātṛ$ hidden in
+              Łdaivata-mādiśca$? Is Łānṛśaṃsa$ right or was it Łnṛśaṃsa$ that was meant by the author of this line?
+              Does Łtamanvitaḥ$ (or Łtamānvitaḥ$) has anything to do with Łtamas$ (`darkness')?</NOTE>
+        <TR>One should not be hostile to a father, god\dots[?].</TR>
+% maybe a verb at the ending Kengo
+% ādṛtya ? Nirajan mā nṛśaṃset? Nirajan
+% tamo'nvitaḥ : Judit is doubtful about it
+% ādi seems better Judit
+
+<TEXT> pṛthvyā gurutarī mātā ko na vandeta mātaram|</TEXT>
+        <APP>\va <LEM>pṛthvyā</LEM> \msCa\msCb\msNc; <UNCL>pṛthvyā</UNCL> \msCc\msNa, pṛthvī \msNb, 
+                                                                pṛthvyāṃ \Ed</APP>
+        <APP>\vb <LEM>vandeta</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; vandena vandeta \msCb, vandyeta \msCc</APP>
+        <TR>The mother is more venerable than the earth. Who would not praise a mother?</TR>
+
+%folioinfo \msCb\ 415.jpg, 207r
+%folioinfo \msCc\ 193.jpg, f. 275r
+% syntax
+<TEXT> yajñadānatapovedās{ }tena sarvaṃ kṛtaṃ bhavet||</TEXT> 4:34
+        <APP>\vd <LEM>sarvaṃ</LEM> \eme; sarva \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <TR>By that [praise], sacrifices, gifts, austerities and [the study of] the Vedas, all will
+                        be completed.</TR>
+
+<TEXT> gāvaḥ pavitraṃ maṅgalyaṃ devatānāṃ ca devatāḥ|</TEXT>
+        <APP>\va <LEM>pavitraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; <UNCL>pavitra</UNCL> \msNb\oo
+                 <LEM>maṅgalyaṃ</LEM> \msCa\msCb\msNa; māṅgalyaṃ \msCc\msNc\Ed, <UNCL>maṅgalyaṃ</UNCL> \msNb\oo
+                 <LEM>devatāḥ</LEM> \mssCaCbCc\msNc; daivatāḥ \msNa, <UNCL>devatāḥ</UNCL> \msNb, devatā \Ed</APP>
+        <PARAL>\va Ł\similar\ \VISNUS\ 23.57c:$ gāvaḥ pavitramaṅgalyaṃ (goṣu lokāḥ pratiṣṭhitā)\oo
+                Ł\compare\ also \MBH\ Suppl. 13.15.33:$ gāvaḥ pavitraṃ paramaṃ goṣu lokāḥ pratiṣṭhitāḥ 
+                Łand \AGNIP\ 291.1cd:$ gāvaḥ pavitrā māṅgalyā goṣu lokāḥ pratiṣṭhitāḥ</PARAL>
+        <TR>Cows are an auspicious blessing, they are the gods of the gods.</TR>
+
+%index_metre: ma-vipulā
+
+<TEXT> sarvadevamayā gāvas{ }tasmād{ }eva na hiṃsayet||</TEXT> 4:35
+        <APP>\vd <LEM>°smād{ }eva</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; °smād{ }uva \msCb, °smād{ }gāvaṃ \Ed</APP>
+        <PARAL>\vc Ł= \VDHU\ 3.291.25c$</PARAL>
+        <TR>Cows contain in themselves all the gods. That is exactly why one should not hurt them.</TR>
+
+<TEXT> jātamātrasya lokasya gāvas{ }trātā na saṃśayaḥ|</TEXT>
+        <APP>\va <LEM!>jātamātrasya lokasya</LEM> \msCa\msCc\msNa\msNc\Ed; satasātasya \msCbacorr,
+                                                        satasātasya nokasya \msCbpcorr,
+                                                        jātamātra<UNCL>sya lokasya</UNCL> \msNb</APP>
+        <NOTE>Note the number confusion in the phrase Łgāvas trātā$, for Łgāvas trātāras$. Alternatively,
+              this line might try to echo \Harivamsa\ 45.30ab: 
+                Łtrātavyāḥ prathamaṃ gāvas trātās trāyanti tā dvijān$ 
+               (`First the cows should be protected. When protected, they protect the Brahmins').</NOTE>
+                <TR>Cows are the protectors of the world as if the world were their new-born [calf], 
+                                        there is no doubt about it.</TR>
+
+%folioinfo \msNa\ 201.jpg upper, f.7v
+%folioinfo \Ed\ p.594
+<TEXT> ghṛtaṃ kṣīraṃ dadhi mūtraṃ śakṛtkarṣaṇam{ }eva ca||</TEXT> 4:36
+        <APP>\vd <LEM>śakṛt{ }ka°</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; kṣat{ }ka° \msCb, <UNCL>śakṛt{ }ka</UNCL>° \msNb</APP>
+                <PARAL>\vo Ł\compare\ \SDHU\ 12.92ff$</PARAL>
+        <NOTE>ŁPāda$ c is a Łsa-viplulā$. 
+              The use of Łkarsaṇa$ in Łpāda$ d, most probably in the sense of `collecting,' is slightly odd.</NOTE>
+        <TR>Collecting [the five products of the cow, the Łpañcagavya$,] 
+                        ghee, milk, curd, and [the cow's] urine and dung [is auspicious].</TR>
+
+%index_metre: sa-vipulā
+
+% tṛṇāni khādanti vasanty{ }araṇye pibanti toyāny{ }aparigrahāṇi|
+% duhyanti bāhyanti punanti pāpaṃ gavāṃ rasair{ }jīvati jīvalokaḥ|| 92||
+% kutas{ }teṣāṃ hi pāpāni yeṣāṃ gṛham{ }alaṅkṛtaṃ|
+% satataṃ bālavatsābhir gobhiḥ śrībhir iva svayaṃ|| 93||
+% ye kurvanti gavāṃ bhaktiṃ tṛṇatoyapradānataḥ|
+% praṇasaṃrohanādyaiś{ }ca gavāṃ lokaṃ vrajanti te|| 94||
+% tṛṇatoyapradeśeṣu nītvā yatnena mātaraḥ|
+% ye rakṣanti sadā gopāḥ śivaloke vrajanti te|| 95||
+% ye śivāya guror{ }vāpi gāṃ prayacchanti bhaktitaḥ|
+% te modanti śiveloke bhogaiḥ kalpāyutan{ }narāḥ|| 96||
+% nivedya gorasaṃ bhakatyā śivāya śivayogine|
+% sarvān{ }kāmān{ }avāpnoti śivalokam{ }ito gataḥ|| 97||
+% ihalokasukhārthāya paralokahitāya ca|
+% sarvasvenāpi gāntasmād{ }ādadīta vipaścitaiḥ|| 98||
+% aho sumahadāś{ }caryam{ }aho suṣṭhu subhāṣitaṃ|
+% yat{ }pavitraś{ }ca mṛṣṭaś{ }ca goraso buddhivarddhanaḥ|| 99||
+% gomatā nirjitāḥ lokā vṛtāśāgomatārjitāḥ|
+% gomatā nirjitaḥ svargaḥ samastaṃ gomatā jitaṃ|| 100||
+% gāvo bandhur{ }manuṣyāṇāṃ gāvaś{ }ca dhanam{ }uttamaṃ|
+% gāvo yeṣāṃ gṛhe na syur{ }abandhur{ }iva tadgṛhaṃ|| 101||
+% spṛṣṭvā tu gāvaḥ śamayanti pāpaṃ datvā tu gāvas{ }tridivaṃ nayanti|
+% saṃrakṣitāś{ }copanayanti vittaṃ gobhir{ }nna tulyaṃ dhanama sti kiñcit|| 102||
+% sampannam{ }aśnāti dadāti nityaṃ pāpāpahaṃ mitravivarddhanaṃ ca|
+% sa eva cārthaḥ paribhujyate ca gobhir{ }nna tulyaṃ dhanam{ }asti kiñcit|| 103||
+% tṛṇāni śuṣkāṇi vane caritvā pītvā ca toyāny{ }amṛtaṃ sravanti|
+% yad{ }gomayādyaiś{ }ca punanti lokān{ }gobhir{ }nna tulyan{ }dhanam{ }asti kiñcit|| 104||
+% sa eva loke paramaḥ pavitro gavāṃ rasaḥ puṣṭi vivarddhanaś{ }ca|
+% aśnāti nityaṃ vividhānnayuktāmiṣṭañ{ }ciraṃ yena śiva prasādāt|| 105||
+% gomātṛśālāṃ yaḥ kuryāt sudṛḍhāmiṣṭakāmayīṃ ||
+% mṛtpiṇḍakāṣṭhākuḍyaṃ vā satkapāṭārgalānvitāṃ || 12.106 ||
+% sapidhānairgavākṣaiś ca caturbhiḥ samalaṅkṛtāṃ ||
+% paścāt kuḍyaṃ ca kartavyam uccair eva gavākṣakaṃ || 12.107 ||
+% supakkvair vaṃśavidalaiḥ kaṭaṃ kṛtvā samaṃdṛḍhaṃ ||
+% gavām adhaḥ pradātavyaṃ yena mūtram adho vrajet || 12.108 ||
+% gomayaṃ taṅgavākṣaiś ca kṣiptvā dūraṃ punar nnayet ||
+% vikīrya bhasmanā sarvaṃ dhūpayīta samantataḥ || 12.109 ||
+% kṛśavṛddhāturāṇāṃ ca pṛthagbhāvaṃ prakalpayet ||
+% pṛthak ca bālavatsānām itareṣāṃ pṛthagbhavet || 12.110 ||
+% damyānaḍvāha ya prāṇāṃ (vṛṣāṇāṃ) vasatiṃ kalpayet pṛthak ||
+% gāḥ (gāvaḥ) svapanti sukhenaiva vasanti ca ramanti ca || 12.111 ||
+% rudro brahmā ca viṣṇuś ca gośālāyāṃ sadā yajet ||
+% vinyasya pūrvavadanāṃ paścāt kuḍayagavākṣake || 12.112 ||
+% % SEE ŚDhU 12.89 (Yuko) ! CHECK
+% saṃhārūḍhāṃ mahādurgāṃ pañca nandādimātaraḥ ||
+% vighneśaṃ somanandiṃ ca pūrvādārabhya vinyaset || 12.113 ||
+% nadyubhaya taṭāśvattha vilvavalmīkamṛttikāṃ ||
+% pañcagavyena saṃyojya devān piṇḍaiḥ prakalpayet || 12.114 ||
+% dvāraśākhāgavākṣābhyāṃ mṛdākāryau suśobhanau ||
+% nandīśvaramahākālau vṛṣaṃ coccair vahiḥ sthitaṃ || 12.115 ||
+% yādṛśo'yaṃ vṛṣendraḥ syāt sarvāvayavaśobhanaḥ || 
+% taddarśanānubhāvena gavāṃ syustādṛśāḥ prajāḥ || 12.116 ||
+% aṣṭamyāṃ snāpanaṃ kṛtvā bhojanaṃ ca prakāmataḥ ||
+% svasti vācyaṃ tataś cāgre pradhānāṅgāmpraveśayet || 12.117 ||
+% iti yaḥ kārayed bhaktyā gomātṛgṛhamīdṛśaṃ ||
+% sa vidhūyāśu pāpāni śivaloke mahīyate || 12.118 ||
+
+
+<NOTANUSTUBH/> upajāti  
+%       -  - . -   -  . . -  . - -    
+<TEXT> pañcāmṛtaṃ pañcapavitrapūtaṃ</TEXT> 
+        <APP>\va <LEM>°pavitrapūtam</LEM> \msCc\msNa\Ed; °pavitrapūtana \msCa\ \unmetr,
+                        °pavitraṃ \msCb\ \unmetr, °pavitrapūta \msNb,
+                        °pavitrapūtaṃnaṃ \msNc\ \unmetr</APP>
+
+%       -  -  . -  -   . . -   . - - 
+<TEXT> ye pañcagavyaṃ puruṣāḥ pibanti|</TEXT>
+        <APP>\vb <LEM>°gavyaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °gavyā \msCc, °<UNCL>gavyāṃ</UNCL> \msNb\oo
+                 <LEM>puruṣāḥ</LEM>  \mssALL\msCa\msCb\msNa\msNb\msNc; puruṣā \msCc, puruṣaḥ \Ed\oo
+                 <LEM>pibanti</LEM>  \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; vivanti \msCc</APP>
+        <NOTE>The five Łpavitra$s can be the five Łbrahmamantras$, see, e.g., \TAKIII\ s.v. Łpavitra$ 1.</NOTE>
+        <TR>People who drink the five products of the cow,
+                 the five nectars, purified by the five Pavitras,</TR>
+
+%       -  - . -  -  .   . -   .  -  -
+<TEXT> te vājimedhasya phalaṃ labhanti</TEXT> 
+        <APP>\vc <LEM>labhanti</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; bhavanti \msCc</APP>
+        <TR>will obtain the fruits of a horse sacrifice, </TR>
+
+%       .    -  . -    -  .    . -  . - -  
+<TEXT> tad{ }akṣayaṃ svargam{ }avāpnuvanti||</TEXT> 4:37
+        <APP>\vd <LEM>svarga°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; sva° \msCb</APP>
+        <TR>and then reach the undecaying heavens.</TR>
+
+%index_metre: upajāti
+
+<TEXT> gobhir{ }na tulyaṃ dhanam{ }asti kiṃcid</TEXT>
+        <APP>\va <LEM>gobhir{ }na tu°</LEM> \msNc; na gobhis{ }tu° \mssCaCbCc\msNa\msNb\ \unmetr, na gāvatu° \Ed</APP>
+        <PARAL>\va Ł= \SDHU\ 12.102d, 103d, 104d; $ 
+                   Ł\compare\ \MBH\ 13.51.26cd:$ gobhis{ }tulyaṃ na paśyāmi dhanaṃ kiṃcid{ }ihācyuta</PARAL>
+        <TR>There is no wealth comparable to a cow.</TR>
+
+<TEXT> duhyanti vāhyanti bahiś{ }caranti|</TEXT>
+        <NOTE>Note that Łduhyanti$ and Łvāhyanti$ are supposed to be understood as passive,
+              as in the similar verse in \SDHU\ 12.92 (see apparatus).</NOTE>
+        <TR>They yield milk, they carry things, they roam under the sky.</TR>
+        % ŚDhU 12 comm: duhyanti duhyante kṣīraṃ vāhyanti vāhyante bhāraṃ atra karmmakarttṛkatvan 
+                      %  draṣṭavyaṃ punanti pañcagavyadvāreṇa jagacchodhayanti
+% Nirajan wild cows?
+
+<TEXT> tṛṇāni bhuktvā amṛtaṃ sravanti</TEXT>
+        <TR>Feeding on grass, they issue nectar.</TR>
+
+<TEXT> vipreṣu dattāḥ kulam{ }uddharanti||</TEXT> 4:38
+        <APP>\vd <LEM>dattāḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; <UNCL>dattā</UNCL> \msCc, dattā \Ed</APP>
+        <PARAL>\vo Ł\compare\ \SDHU\ 12.92:$
+                        tṛṇāni khādanti vasanty{ }araṇye pibanti toyāny{ }aparigrahāṇi|
+                        duhyanti vāhyanti punanti pāpaṃ gavāṃ rasair{ }jīvati jīvalokaḥ||</PARAL>
+        <TR>When given to Brahmins, they deliver the family [from Łsaṃsāra$ or the suffering experienced in hell].</TR>
+
+%index_metre: upajāti
+
+<TEXT> gavāhnikaṃ yaś{ }ca karoti nityaṃ</TEXT>
+        <APP>\va <LEM>gavāhnikaṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; gavāṃhnikaṃ \msCa\oo
+                 <LEM>yaś{ }ca karoti</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; yaḥ prakaroti \Ed</APP>
+        <TR>He who feeds the cows daily,</TR>
+
+<TEXT> śuśrūṣaṇaṃ yaḥ kurute gavāṃ tu|</TEXT>
+        <APP>\vb <LEM>gavāṃ tu</LEM> \msCb\msNc; gavān{ }tu \msCa\msCc\msNa\msNb, gavānām \Ed</APP>
+      % aseṣa/asaiṣa \msCa
+        <TR>he who serves the cows,</TR>
+
+% unmetr
+<TEXT> aśeṣayajñatapadānapuṇyaṃ</TEXT>
+        <APP>\vc <LEM>°tapa°</LEM> \mssALL\mssCaCbCc\msNa\msNc; °<UNCL>tapa</UNCL>° \msNb, °japa° \Ed</APP>
+        <NOTE>Strictly speaking, Łpāda$ c is unmetrical. The second syllable of Łyajña$ counts as
+              long (see Introduction p.~\pageref{short2long}).</NOTE>
+
+        %index_metre: long syllable at end of word
+
+%       .  -     . -   -    . . -  . -  -  
+<TEXT> labhaty{ }asau tām{ }anṛśaṃsakartā||</TEXT> 4:39
+        <APP>\vd <LEM!>labhaty{ }asau tām{ }anṛśaṃsakartā</LEM> \eme;
+                      labhaty{ }asau tam{ }anṛśaṃsakartā \msCb\msNa\msNb\msNc,
+                         labhaty{ }asau bham{ }anṛśaṃsakarttā \msCa,
+                                 labhaty{ }asau tam{ }anṛtaṃ sa karttā \msCc,
+                                 bhavaty{ }asau dharmam{ }aśeṣakartā \Ed</APP>
+        <NOTE>Although the accusative with °Łkartā$ in Łpāda$ d is still not optimal, my 
+              emendation of Łtam$ to Łtām$ at least restores the metre and improves 
+              upon the meaning of the sentence. Alternatively, as suggested by Törzsök,
+              Łtaṃ$ could be understood as Łtad$, picking up Łpuṇyaṃ$ in Łpāda$ c,
+              but in this way any reference to cows here is only implied.</NOTE>
+        <TR>he who is kind to her [i.e. to the cow], will obtain the merits of all sacrifices,
+                 austerities and gifting.</TR>
+
+
+%index_metre: upajāti
+
+<ANUSTUBH/>
+<TEXT> atithiṃ yo 'nugaccheta atithiṃ yo 'numanyate|</TEXT> 
+        <NOTE>Note the peculiar active verb forms Łanugaccheta$ and Łanupūjyeta$.
+              On this formation, see a remark about \Nisvmul\ 2.8 in <citep>NisvasaGoodall</citep><pnum>247</pnum>:
+                        `We have assumed that Łpūjyeta$ is intended to mean Łpūjayet$ and is
+                        perhaps a contraction of Łpūjayeta$.'</NOTE> 
+        <TR>He who looks after a guest, he who respects a guest,</TR>
+                % Nirajan: follows Dharmasūtras , accompany
+
+<TEXT> atithiṃ yo 'nupūjyeta atithiṃ yaḥ praśaṃsate||</TEXT> 4:40
+        <APP>\vd <LEM>praśaṃsate</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; praśaṃsyate \msCc</APP>
+        <TR>he who worships a guest, he who praises a guest,</TR>
+
+%folioinfo \msCa\ 395.jpg
+<TEXT> atithiṃ yo na pīḍyeta atithiṃ yo na duṣyati|</TEXT>
+        <APP>\va <LEM>na pīḍyeta</LEM> \msCa\msCb\msNa\Ed; na gaccheta (Łeyeskip to 4.40c$) \msCc,
+                                                 <UNCL>na pī</UNCL>\lk\lk\ \msNb, nipīḍyeta \msNc</APP>
+        <APP>\vb <LEM>atithiṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; atiṃ \msCc, \lk\lk\lk\ \msNb\oo
+                 <LEM>na duṣyati</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; nuduṣyati \msCb, \lk\ duṣyati \msNb</APP>
+        <NOTE>On the form Łpīḍyeta$, see previous note.</NOTE>
+        <TR>he who does not harm a guest, he who does not commit a fault towards a guest,</TR>
+
+<TEXT> atithipriyakartā yaḥ atitheḥ paricārakaḥ|</TEXT>
+        <APP>\vc <LEM>atithi°</LEM> \msCa\msNa; atithiṃ \msCb\msCc\msNc\Ed, ati<UNCL>thiṃ</UNCL> \msNb\oo
+                 <LEM>°priya°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; priyaḥ \msCc\oo
+                 <LEM>yaḥ</LEM> \mssALL\msCb\msCc\msNb\msNc\Ed; yar \msCa, ya \msNa</APP>
+                        % second time of r being a sandhi bridge?
+        <TR>he who keeps the guest happy, he who attends to the needs of a guest,</TR>
+
+<TEXT> atitheḥ kṛtasaṃtoṣas{ }tasya puṇyam{ }anantakam||</TEXT> 4:41
+        <APP>\ve <LEM>atitheḥ</LEM> \msCb\msCc\msNc; atithi° \msCa\msNa\msNb, atithiṃ \Ed</APP>
+        <APP>\vef <LEM>°saṃtoṣas{ }tasya</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °saṃtā yasya \msCb</APP>
+        <APP>\vf <LEM>puṇya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; pūna° \msNc</APP>
+        <TR>he who makes a guest satisfied: his merits are endless.</TR>
+
+<TEXT> āsanenārghapātreṇa pādaśaucajalena ca|</TEXT>
+        <APP>\va <LEM>°ārgha°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °ārdhya° \Ed\oo
+                 <LEM>°pātreṇa</LEM> \conj; °pādyena \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <NOTE>My conjecture in Łpāda$ a (°Łpātreṇa$ for °Łpādyena$) is inspired by the fact that 
+                in the MSS Łpāda$ b seems to awkwardly repeat what °Łpādyena$ in Łpāda$ a signifies.</NOTE>
+        <TR>He should offer [the guest] a seat, a vessel with water-offering, and 
+                                water for washing his feet,</TR>
+                                        % argha is for the hands (Dominic when reading HCC 29.141
+
+<TEXT> annavastrapradānair{ }vā sarvaṃ vāpi nivedayet||</TEXT> 4:42
+        <APP>\vc <LEM>annava°</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; annam{ }va° \msCc, <UNCL>anna</UNCL>va° \msNb</APP>
+        <APP>\vd <LEM>nivedayet</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pradāpayet \Ed</APP>
+        <TR>or gifts of food and clothes, or all [of these].</TR>
+
+
+<TEXT> putradārātmano vāpi yo 'tithim{ }anupūjayet|</TEXT> 
+        <APP>\va <LEM>°dārātmano</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; °<UNCL>dārā</UNCL>tmano \msCa, °dārātmako \Ed</APP>
+        <APP>\vb <LEM>°pūjayet</LEM> \msCa\msNa\Ed; °pūjyate \msCb\msCc\msNb, °pūjate \msNc</APP>
+        <NOTE>I analyse Łpāda$ a as if it read Łputradārair ātmano$ (Łputradāraiḥ$ being a
+                common expression). Another solution would be to emend to °Łātmanā$,
+                and thus to include the possibility of sacrificing one's own life for the guest.
+                <sep/>
+                For the requirement that one should in certain circumstances 
+                part with his wife or son, or his own life,
+                for the benefit of someone else, see \VSS\ 2.38, and the narrative in \VSS\ chapter 12
+                which tells about a Brahmin giving away his own wife to a guest.
+                Note that in fact \VSS\ 4.44cd below echoes verse 37cd in the above mentioned chapter 12
+                (see the apparatus).</NOTE>
+        <TR>He who worships the guest by [offering him] his own son or wife</TR>
+
+<TEXT> śraddhayā cāvikalpena aklībamānasena ca||</TEXT> 4:43
+        <APP>\vc <LEM>śraddhayā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; śraddhāyā \msCc\oo
+                 <LEM>cāvikalpena</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; cāpi kalpena \msCa</APP>
+        <TR>with willingness, without hesitation, and with a brave heart,</TR>
+
+<TEXT> na pṛcched{ }gotracaraṇaṃ svādhyāyaṃ deśajanmanī|</TEXT>
+        <APP>\va <LEM>°caraṇaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °pravaraṃ \Ed</APP>
+        <APP>\vb <LEM>deśajanmanī</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; deśajanmanā \msCa</APP>
+        <PARAL> Ł\vab = \UUMS\ 10.7ab = \UMS\ 6.11ab \similar\ \MBH\ 13.62.18ab:
+                $na pṛcched{ }gotracaraṇaṃ svādhyāyaṃ deśam{ }eva vā</PARAL>
+        <TR>and does not ask [the guest about his] lineage, Vedic affiliation (Łcaraṇa$), 
+                                        studies, country or birth,</TR>
+
+<TEXT> cintayen{ }manasā bhaktyā dharmaḥ svayam{ }ihāgataḥ||</TEXT> 4:44
+        <APP>\vc <LEM>cintayen{ }ma°</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; cittayet{ }ma° \msCb, cintayet{ }ma° \msNc</APP>
+        <APP>\vd <LEM>°gataḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °gatāḥ \msCc, ga<UNCL>tam</UNCL> \msNb</APP>
+        <PARAL>\vcd Ł\compare\ \VSS\ 12.37cd: $dvijarūpadharo dharmaḥ svayam{ }eva ihāgataḥ</PARAL>
+        <TR>and imagines mentally, with devotion, that it is Dharma himself who has come to visit,</TR>
+               
+<TEXT> aśvamedhasahasrāṇi rājasūyaśatāni ca|</TEXT> 
+        <APP>\vb <LEM>°sūya°</LEM> \msCa\msNa\msNc\Ed; °sūrya° \msCb\msCc, °sū<UNCL>rya</UNCL>° \msNb</APP>
+        <TR>[will obtain all the fruits of] thousands of Aśvamedha sacrifices and hundreds 
+                                        of Rājasūya sacrifices,</TR>
+
+<TEXT> puṇḍarīkasahasraṃ ca sarvatīrthatapaḥphalam||</TEXT> 4:45
+        <APP>\vd <LEM>°tapaḥ°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °tapa° \msNc\ \unmetr</APP>
+        <TR>a thousand Puṇḍarīka sacrifices and the fruit of [visiting] all the pilgrimage places and
+                [performing] all the austerities;</TR>
+                        % tapas at the tīrthas? Florinda
+       % See \MBH\ Supp 14.4.1624 ff:
+       %                         <skt>
+       %                         bhagavān uvāca|
+       %                         śṛṇuṣvāvahito rājan puṣpāṇi prītikṛnti me|
+       %                         kumudaṃ karavīraṃ ca caṇakaṃ campakaṃ tathā||
+       %                         mallikājātipuṣpaṃ ca nandyāvartaṃ ca nandikam|
+       %                         palāśapuṣpapatrāṇi dūrvā bhṛṅgakam eva ca||
+       %                         vanamālā ca rājendra matpriyāṇi viśeṣataḥ|
+       %                         sarveṣām api puṣpāṇāṃ sahasraguṇam utpalam||
+       %                         tasmāt padmaṃ tathā rājan padmāt tu śatapatrakam|
+       %                         tasmāt sahasrapatraṃ tu puṇḍarīkaṃ tataḥ param||
+       %                         <b>puṇḍarīkasahasrāt</b> tu tulasī guṇato 'dhikā|</skt>
+
+<TEXT> atithir{ }yasya tuṣyeta nṛśaṃsamatam{ }utsṛjet|</TEXT>
+        <APP>\vb <LEM!>nṛśaṃsamatam{ }utsṛjet</LEM> \msCa\msNa\msNc; nṛśaṃsamata utsṛjet \msCb, 
+                             nṛśaṃsakamamam{ }utsṛjet \msCc, nṛsasamatam{ }utsṛjet \msNb, na saṃśaya samaśnute \Ed</APP>
+        <TR>he whose guest is satisfied [and] he who can abandon the sentiment of cruelty,</TR>
+% See also Vāyupurāṇa 1.23.105ff
+
+%folioinfo \msCc\ 194.jpg, f. 275v
+%folioinfo \msNb\ 49.jpg upper
+<TEXT> sa tasya sakalaṃ puṇyaṃ prāpnuyān{ }nātra saṃśayaḥ||</TEXT> 4:46
+        <NOTE>The demonstrative pronoun Łtasya$ in Łpāda$ c may refer to the guest:
+              `he will obtain all his [i.e. the guest's] merits,' hinting at some sort of karmic exchange.
+                Nevertheless, I think rather that Łtasya$ points to the merits one can obtain by the rituals listed 
+                in the previous verse. This is suggested by passages such as the following:
+                <sep/>
+                \MBH\ Suppl. 13.14.379--380:
+                <sep/>
+                       Łahany ahani yo dadyāt kapilāṃ dvādaśīḥ samāḥi$ | <br/>
+                       Łmāsi māsi ca satreṇa yo yajeta sadā naraḥ$ ||  <br/>
+                       Łgavāṃ śatasahasraṃ ca yo dadyāj jyeṣṭhapuṣkare$ |  <br/>
+                       Łna taddharmaphalaṃ tulyam atithir yasya tuṣyati$ || <br/>
+                <sep/>
+                 \BRAHMAVP\ 3.44--46:
+                <sep/>
+                        Łatithiḥ pūjito yena pūjitāḥ sarvadevatāḥ$ | <br/>
+                        Łatithir yasya saṃtuṣṭas tasya tuṣṭo hariḥ svayam$ || <br/>
+                        Łsnānena sarvatīrtheṣu sarvadānena yat phalam$ |   <br/>
+                        Łsarvavratopavāsena sarvayajñeṣu dīkṣayā$ ||  <br/>
+                        Łsarvais tapobhir vividhair nityair naimittikādibhiḥ$ |   <br/>
+                        Łtad evātithisevāyāḥ kalāṃ nārhanti ṣoḍaśīm$ ||</NOTE>
+        <TR>will obtain all the merits of the above, there is no doubt about it.</TR>
+
+%folioinfo \msNc\ 218.jpg lower, f. 216r
+<TEXT> <crux>na gatim{ }atithijñasya</crux> gatim{ }āpnoti karhacit|</TEXT>
+        <APP>\va <LEM>na gatim{ }a°</LEM> \msCa\msCb\msNb\msNc; na tithim{ }a° \msCc\Ed, na gati nā° \msNa</APP>
+        <APP>\vb <LEM>karhacit</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; karhicit \msCa\Ed</APP>
+        <NOTE>Something has gone wrong with Łpāda$s ab and I am unable to reconstruct the
+                meaning. The translation tries to reflect what is actually transmitted.
+                The line may have begun with something like Łnāgatātithyavajña$°
+                (`he who despises a guest that has arrived will not\dots'). I have accepted
+                Łkarhacit$ for standard Łkarhicit$ in Łpāda$ b because it is attested in Buddhist texts,
+                see <citep>EdgertonHybrid</citep><pnum>s.v. Łkarhacid$</pnum>, and 
+                because the readings support it overwhelmingly, unlike in 4.3b above.</NOTE>
+        <TR>One will never reach a path that is the path of one who 
+            knows his guest.[?]</TR>
+              
+
+%folioinfo \msM\ 419.jpg lower, f. 8r  
+<TEXT> tasmād{ }atithim{ }āyāntam{ }abhigacchet{ }kṛtāñjaliḥ||</TEXT> 4:47
+        <APP>\vc <LEM>°yānta°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °yānti° \msCc</APP>
+        <PARAL>\vcd Ł= \VAYUP\ 2.17.8 = \BRAHMANDAPUR\ 2.15.8 
+                        \similar\ \SDHU\ 4.44ab:$
+                        tasmād{ }atithim{ }āyāntam{ }anugacchet{ }kṛtāñjaliḥ</PARAL> 
+        <TR>Therefore one should go up to the arriving guest with respectfully joined palms.</TR>
+
+<TEXT> saktuprasthena caikena yajña āsīn{ }mahādbhutaḥ|</TEXT>
+        <APP>\va <LEM>saktu°</LEM> \eme; śanku° \msCa\msCb, śaṃktu° \msCc, śaktu° \msNa\msNc, śakthu° \msNb, śakti° \Ed\oo
+                 <LEM>caikena</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; cekena \msNc</APP>
+        <APP>\vb <LEM>āsīn{ }mahādbhutaḥ</LEM> \corr; āsīn{ }mahadbhutaḥ \msCa\msCb\msNa\msNb, āsī mahadbhutaḥ \msCc, 
+                                               āsīt{ }mahādbhutaḥ \msNc, āsīn{ }mahadbhutam \Ed</APP>
+        <NOTE>This verse is a reference to the story related by a mongoose in \MBH\ 14.92--93: 
+                A Brahmin who practises the vow of gleaning (Łuñcha$) and his family
+                receive a guest. They feed the guest with the last morsels of the little food
+                they have. In the end, the guest reveals that he is in fact Dharma (14.93.80cd) and as 
+                a reward the family departs to heaven. The noble act of the poor Brahmin and his family
+                is depicted as yielding greater rewards than Yudhiṣṭhira's grandiose horse-sacrifice. 
+                (See an analysis of this story in <cite>TakahashiUnca</cite>.)
+
+        </NOTE>
+        <TR>By one Łprastha$[, a small unit of weight] of coarsely ground grains</TR>
+
+<TEXT> atithiprāptadānena svaśarīraṃ divaṃ gatam||</TEXT> 4:48
+        <APP>\vc <LEM>°dānena</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °prādānena \msCc</APP>
+        <APP>\vd <LEM>sva°</LEM> \mssALL\mssCaCbCc\msNa\msNb; <UNCL>sa</UNCL>° \msNc, sa° \Ed\oo
+                 <LEM>°gatam</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °gataḥ \msCc</APP>
+        <NOTE>We would be forced to accept the reading of \Ed\ in Łpāda$ d (Łsaśarīro$) 
+                if the expression were in the masculine (Łdivaṃ gataḥ$). This would make sense
+                and it would also echo expressions occuring, e.g., in the \MBH:
+                3.164.33cd: Łpaśya puṇyakṛtāṃ lokān saśarīro divaṃ vraja$;
+                14.5.10cd: Łsaṃjīvya kālam iṣṭaṃ ca saśarīro divaṃ gataḥ$.
+                It is tempting to emend accordingly, but instead I have retained 
+                Łsvaśarīraṃ divaṃ gatam$, and I interpret it in a general way.</NOTE>
+        <TR>given to a guest, an extremely wonderful sacrifice was performed,
+                and his body [i.e. the protagonist in his mortal form] reached heaven.</TR>
+
+
+<TEXT> nakulena purādhītaṃ vistareṇa dvijottama|</TEXT> 
+        <APP>\vb <LEM>°ttama</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °ttamam \msCc, °ttamaḥ \Ed</APP>
+        <NOTE>CHECK.................... NOTE on tr</NOTE>
+        <TR>[This] old [story] of the mongoose is to be read in detail [in the ŁMahābhārata$],
+                                 O great Brahmin,</TR>
+
+<TEXT> viditaṃ ca tvayā pūrvaṃ prasthavārttā ca kīrtitā||</TEXT> 4:49
+        <APP>\vd <LEM>kīrtitā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; kīrtitam \msCc, kīrtitāḥ \Ed</APP>
+        <TR>and you must know it already. The story of the Łprastha$ is well-known.</TR>
+% https://www.sacred-texts.com/hin/m14/m14090.htm (= etext 14.92.1 ff.)
+
+
+<SUBCHAPTER>yameṣu damaḥ (5)</SUBCHAPTER>
+<TRSUBCHAPTER>Fifth Yama-rule: self-restraint</TRSUBCHAPTER>
+
+<TEXT> dama eva manuṣyāṇāṃ dharmasārasamuccayaḥ|</TEXT> 
+        <APP>\vb <LEM>dharmasāra°</LEM> \eme; dharmaḥ sāra° \mssCaCbCc\msNa\msNb\msNc, dharmabhāra° \Ed</APP>
+        <PARAL>\vb Ł\compare, e.g., \MBH\ Suppl. 14.4.2477: $śrotum{ }icchāmi kārtsnyena dharmasārasamuccayam</PARAL>
+        <TR>Self-restraint is in itself the distilled essence of Dharma for man.\linebreak</TR>
+% see MBh e.g. maybe quote some for support
+% a work called dharmasārasamuccaya:
+% http://catalogue-old.ngmcp.uni-hamburg.de/mediawiki/index.php/C_44-8(7)_S%C4%81rasamuccaya
+
+<TEXT> damo dharmo damaḥ svargo damaḥ kīrtir{ }damaḥ sukham||</TEXT> 4:50
+        <APP>\vc <LEM>svargo</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; svarga \msCc</APP>
+        <APP>\vd <LEM>kīrtir{ }da°</LEM> \msCa\msCb\msNb\Ed; kīrti da° \msCc\msNa\msNc</APP>
+        <TR>Self-re\-straint is Dharma, self-restraint is heaven, 
+                 self-restraint is fame, self-re\-straint is happiness.</TR>
+
+%                                              damaḥs \msCc
+<TEXT> damo yajño damas{ }tīrthaṃ damaḥ puṇyaṃ damas{ }tapaḥ|</TEXT>
+        <APP>\va <LEM>damas{ }tī°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; dama tī° \msCb</APP>
+        <TR>Self-restraint is sacrifice, self-restraint is a pilgrimage-place, 
+                 self-restraint is merit, self-restraint is religious austerity.</TR>
+
+<TEXT> damahīna{-}m{-}adharmaś{ }ca damaḥ kāmakulapradaḥ||</TEXT> 4:51
+        <APP>\vd <LEM>damaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; dama \msCc, damaṃ \Ed\oo
+                 <LEM>kāma°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; kāmaṃ \msNc</APP>
+         <NOTE>I suspect that the final Łm$ in Łdhamahīnam$ in Łpāda$ c is a hiatus-filler.
+                 Understand Łdhamahīno 'dharmaś ca$.
+                 Łkāmakulapradaḥ$ in Łpāda$ d is slightly suspect.
+                 It may have originally read Łsarvakāmapradaḥ$ (`fulfilling all desires') or
+                 Łkulakāmapradaḥ$ (`fulfilling the desires of the family').
+                 \SDHS\ 4.28b reads Łsarvakāmasukhapradam$, which opens up further possibilities.</NOTE>
+        <TR>If one has no self-restraint, one is a sinner (Ładharma$), 
+                 [while] self-restraint yields a multitude of desired objects.</TR>
+
+%index_grammar: hiatus-filler, sandhi bridge
+
+% unmetr!
+<TEXT> nirdamaḥ kari mīnaś{ }ca pataṅgabhramaramṛgāḥ|</TEXT>
+        <APP>\va <LEM>°damaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °dama \msCc</APP>
+        <APP>\vb <LEM>°bhramara°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed\ \unmetr; °bhrama<UNCL>rā</UNCL>° \msNc</APP>
+        <NOTE>Note Łkari$ for Łkarī$ metri causa, and the end of Łpāda$ b, °Łmṛgāḥ$, which 
+                        should be treated metrically as if it read °Łmrigāḥ$.</NOTE>
+        <TR>The elephant, the fish, the moth, the bee, and the deer are without self-restraint.</TR>
+% nirdama is a rare word, but it's in the Harivaṃśa:
+% tava sapta vṛṣā gopa nirdamāḥ sasyaghātakāḥ HV_App.I,12.55
+
+%index_metre: unmetrical at end of line and ṛ -> ri
+%index_voc: nirdama is rare?
+%index_grammar: shortening metri causa
+
+%folioinfo \msNa\ 201.jpg lower, f.8r
+<TEXT> tvag{ }jihvā ca tathā ghrāṇā cakṣuḥ śravaṇam{ }indriyāḥ||</TEXT> 4:52
+        <APP>\vc <LEM>ghrāṇā</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; ghrāṇaṃ \msCb, ghrāṇa \msCc</APP>
+        <APP>\vd <LEM>°ndriyāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °ndriyaḥ \Ed</APP>
+        <TR>The senses are the skin, the tongue, the nose, the eye, and\linebreak the ear.</TR>
+
+%folioinfo \Ed\ p.595
+
+<TEXT> durjayendriyam{ }ekaikaṃ sarve prāṇaharāḥ smṛtāḥ|</TEXT>
+        <APP>\vb <LEM>sarve</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; sarva° \msCb\oo
+                 <LEM>°harāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °harā \Ed</APP>
+                <TR>Each of these sense faculties are hard to conquer and 
+                        all are known to be fatal [if unconquered].</TR>
+
+<TEXT> damaṃ yo jayate 'samyag{ }nirdamo nidhanaṃ vrajet||</TEXT> 4:53
+        <APP>\vd <LEM>vrajet</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; vraje\lac1\ × \msCa</APP>
+        <NOTE>The only way to make sense of Łpāda$s cd is to supply and Łavagraha$ before
+              Łsamyag$. Otherwise some text may have dropped out here.</NOTE>
+        <TR>If one masters self-restraint in a less than proper way,
+                 one remains unrestrained and will die.</TR>
+
+%folioinfo \msCb\ 417.jpg, f. 207v
+<TEXT> mṛge śrotravaśān{ }mṛtyuḥ pataṅgāś{ }cakṣuṣor{ }mṛtāḥ|</TEXT>
+        <APP>\va <LEM>mṛge</LEM> \mssALL\mssCaCbCc\msNa\msNc; mṛgo \msNb\Ed\oo
+                 <LEM>śrotra°</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; śotra° \msCc, śrota° \msNc\oo
+                 <LEM>°vaśā°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °vacaśā° \msCb</APP>
+        <APP>\vb <LEM>pataṅgāś{ }ca°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pataṅgā ca° \Ed\oo
+                 <LEM>°ṣor{ }mṛtāḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; °so mṛtāḥ \msCc, °ṣo mṛtāḥ \msNc</APP>
+        <TR>In the case of the deer, death comes about because of hearing [when, e.g., hunters use buck grunts].
+                 Moths die because of their eyes [as they are attracted to the light of a lamp].</TR>
+
+%index_grammar: loc/gen for abl cakṣusor
+% Alessandro: 'sajāla' hunting; imitate sounds? śyainika śāstra? "hunters shouting" try to frighten the deer?
+
+<TEXT> ghrāṇayā bhramaro naṣṭo naṣṭo mīnaś{ }ca jihvayā||</TEXT> 4:54
+        <APP>\vc <LEM>ghrāṇayā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; ghrātayā \msCb</APP>
+        <APP>\vcd <LEM>naṣṭo naṣṭo</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; naṣṭo \msCb</APP>
+        <TR>Bees perish because of their smelling [as they are attracted to smells],
+                 fish because of their tongues [when attracted by the bait].</TR>
+        <PARAL>\vo Ł\compare\ \BUDDHACARITA\ 11.35:$ 
+               gītair{ }hriyante hi mṛgā vadhāya rūpārtham{ }agnau śalabhāḥ patanti| 
+               matsyo giraty{ }āyasam{ }āmiṣārthī tasmād{ }anarthaṃ viṣayāḥ phalanti||</PARAL>
+        <NOTE>My comments in square brackets in the translation are tentative. See
+              a verse from the \Buddhacarita\ (11.35) in the apparatus that may have been
+              the inspiration for this verse in the \VSS. In Johnston's translation
+              (<citeyear>Buddhacarita</cite>, II. 157):
+              `For deer are lured to their destruction by songs, moths fly into the fire
+              for its brightness, the fish greedy for the bait swallows the hook;
+              therefore the objects of sense breed calamity.'</NOTE>
+
+%See also Harśacarita 3:
+%māndhātā mārgaṇavyasanena saputrapautro rasātalamagāt|
+%purukutsaḥ kutsitaṃ karma tapasyannapi mekalakandhakāyāmakarot|
+%etc.
+
+
+% melasse Alessandro
+<TEXT> sparśena ca karī naṣṭo bandhanāvāsaduḥsahaḥ|</TEXT> 
+        <APP>\vb <LEM>°saduḥsahaḥ</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; °saduḥsaha \msCb, °sudussahaḥ \msNb</APP>
+        <NOTE>ŁMātaṅgalīlā$ 11.1 may shed some light on elephants dying in captivity:
+               <sep/>
+               Łvānyas tatra sukhoṣitā vidhivaśād grāmāvatīrṇā gajā baddhās tīkṣṇakaṭūgravāgbhir$
+               Łatiśugbhīmohabandhādibhiḥ | udvignāś ca manaḥśarīrajanitair duḥkhair atīvākṣamāḥ$
+               Łprāṇān dhārayituṃ ciraṃ naravaśaṃ prāptāḥ svayūthād atha$ ||
+               <sep/>
+                In Edgerton's translation (<citeyear>EdgertonElephant</citeyear>, 92): 
+               <sep/>
+                `Forest elephants who dwell there happily and by
+                the power of fate have been brought to town in bonds, afflicted by harsh, bitter, cruel words,
+                by excessive grief, fear, bewilderment, bondage, etc., and by sufferings of mind and body,
+                are quite unable for long to sustain life, when from their own herds they have come into
+                the control of men.'</NOTE>
+        <TR>The elephant perishes because of touch, not tolerating to be kept in fetters.</TR>
+% Trautmann on elephants Flo
+
+<TEXT> kiṃ punaḥ pañcabhuktānāṃ mṛtyus{ }tebhyaḥ kim{ }adbhutam||</TEXT> 4:55
+        <APP>\vc <LEM>punaḥ</LEM> \mssALL\msCapcorr\msCb\msCc\msNa\msNb\msNc\Ed; puna \msCaacorr</APP>
+        <APP>\vd <LEM>tebhyaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; tebhya \Ed</APP>
+        <TR>How much more true it is for those who enjoy all five [senses]!
+                 Why should death come as a surprise for them?</TR>
+
+
+<TEXT> purūravo 'tilobhena atikāmena daṇḍakaḥ|</TEXT>
+        <APP>\va <LEM>purūravo</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; purorave \msCc, pururavā° \Ed</APP>
+        <APP>\vab <LEM>tilobhena atikāmena</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; tikāmena atilobhena \Ed</APP>
+        <APP>\vb <LEM>daṇḍakaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; puṇḍakaḥ \Ed</APP>
+        <NOTE>We may treat Łpurūravo$ in Łpāda$ a as a \stemform\ 
+                 noun or thematised stem, or imagine that the
+                 original reading was Łpurūravā$° with double sandhi:
+                 Łpurūravās ati$° \rightarrow\ Łpurūravā ati$° \rightarrow\ Łpurūravāti$°.
+
+                 ŁPāda$ a may refer to the following passage in the \MBH\ (1.70.16--18, 20ab):
+         <sep/>
+                                 Łpurūravās tato vidvān ilāyāṃ samapadyata$ | <br/>
+                                 Łsā vai tasyābhavan mātā pitā ceti hi naḥ śrutam$ || <br/>
+                                 Łtrayodaśa samudrasya dvīpān aśnan purūravā$  | <br/>
+                                 Łamānuṣair vṛtaḥ sattvair mānuṣaḥ san mahāyaśā$  || <br/>
+                                 Łvipraiḥ sa vigrahaṃ cakre vīryonmattaḥ purūravā$  | <br/>
+                                 Łjahāra ca sa viprāṇāṃ ratnāny utkrośatām ap$  || <br/>
+                                       [\dots] <br/>
+                                 Łtato maharṣibhiḥ kruddhaiḥ śaptaḥ sadyo vyanaśyata$ |
+        <sep/>
+                        `The wise Purūravas was born to Ilā. We heard that Ilā 
+                           was both his mother and his father. 
+                           The great Purūravas ruled over thirteen islands of the ocean
+                           and, though human, he was always surrounded by superhuman beings.
+                           Intoxicated with his power, Purūravas quarrelled with some Brahmins  
+                           and robbed them of their wealth even though they were protesting. [...]
+                           Therefore, cursed by the great Ṛṣis, he perished.'
+        <sep/>
+        See also \Buddhacarita\ 11.15 (Aiḍa = Purūravas):
+                 <sep/>
+                 Łaiḍaś ca rājā tridivaṃ vigāhya$ 
+                 Łnītvāpi devīṃ vaśam urvaśīṃ tām$ | <br/>
+                 Łlobhād ṛṣibhyaḥ kanakaṃ jihīrṣur$ 
+                 Łjagāma nāśaṃ viṣayeṣv atṛptaḥ$ ||
+        <sep/>
+              In Johnston's translation (<citeyear>Buddhacarita</cite>, II. 152):
+        <sep/>
+              `Although the royal son of Iḍā penetrated the triple heaven and brought
+               the goddess Urvaśī into his power, he was still unsatisfied with the 
+               objects of sense and came to destruction in his greedy desire to seize
+               gold from the ṛṣis.'
+        <sep/>
+                For Daṇḍa(ka)'s story, see \RAMAYANA\ 7.71.31 ff.:
+                Daṇḍa meets Arajā, a beautiful girl, in a forest and rapes her. As a consequence,       
+                her father, Śukra/Bhārgava, destroys Daṇḍa's kingdom, which thus
+                becomes the desolate Daṇḍaka-forest.</NOTE>
+        <TR>Purūravas [perished] by excessive greed, Daṇḍaka by excessive desire,</TR>
+
+<TEXT> sāgarāś{ }cātidarpeṇa atimānena rāvaṇaḥ||</TEXT> 4:56
+        <APP>\vc <LEM>sāgarā°</LEM> \eme; sagara° \msCa\msCb\msNa\msNb\msNc\Ed, sāgara° \msCc</APP>
+        <PARAL>\vd Ł\compare\ \MAHASUBHS\ 563cd:$
+                        vinaṣṭo rāvaṇo laulyād{ }ati sarvatra varjayet</PARAL>
+        <TR>Sagara's sons by excessive pride, Rāvaṇa by excessive haughtiness,</TR>
+        <NOTE>
+                <sep/>
+                For two versions of the destruction of
+                Sagara's sons (note emendation in Łpāda$ c), 
+                who were chasing the sacrificial horse of their father's Aśvamedha sacrifice,
+                and by doing so disturbed Kapila's meditation, and who in turn burnt them to ashes,
+                see \MBH\ 3.105.9 ff. and \BRAHMANDAPUR\ 2.52--53.
+
+                <sep/>
+                As for Rāvaṇa's haughtiness,
+                especially the fact that he chose to be invincible by all creatures except humans,
+                and its consequences,
+                one should recall the story of the \RAMAYANA\ and Rāvaṇa's destruction brought about by Rāma therein.</NOTE>
+
+% gretil/mbh1_18uḥtmṭxt-03,105.024a             tataḥ pūrvottare deśe samudrasya mahīpate
+% gretil/mbh1_18uḥtmṭxt-03,105.024b*0522_01     vidāryamāṇāṃ pṛthivīṃ sāgarair baladarpitaiḥ
+% gretil/mbh1_18uḥtmṭxt:03,105.024c             vidārya pātālam atha saṃkruddhāḥ sagarātmajāḥ
+% gretil/mbh1_18uḥtmṭxt-03,105.024e             apaśyanta hayaṃ tatra vicarantaṃ mahītale
+% gretil/mbh1_18uḥtmṭxt-03,105.025a             kapilaṃ ca mahātmānaṃ tejorāśim anuttamam
+
+
+% atimāṇena \msCb
+% rāvanaḥ \msNc
+
+%folioinfo \msCa\ 396.jpg
+<TEXT> atikrodhena saudāsa atipānena yādavāḥ|</TEXT> 
+        <APP>\vb <LEM>atipānena</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; atipāpena \Ed</APP>
+        <TR>Saudāsa by excessive anger, the Yādavas by excessive drinking,</TR>
+        <NOTE>Saudāsa (note the sandhi between the two Łpāda$s),
+                also known as Kalmāṣapāda, hit Śakti, Vasiṣṭha's son, with a whip because
+                the latter did not give way to him, and as a consequence Śakti cursed Saudāsa:
+                Saudāsa had to roam the world as a Rākṣasa for twelve years. 
+                See \MBH\ 1.166.1ff.
+
+                <sep/>
+                As for the end of the Yādavas, see the short ŁMausalaparvan$ of the \MBH\ (canto 16):
+                cursed by the sages Viśvāmitra, Kaṇva and Nārada, and seeing menacing omens,
+                the Yādavas take to drinking in Prabhāsa and destroy each other.</NOTE>
+
+% check Saudāsa's death
+
+<TEXT> atitṛṣṇāc{ }ca māndhātā nahuṣo dvijavajñayā||</TEXT> 4:57
+        <APP>\vc <LEM!>atitṛṣṇāc{ }ca māndhātā</LEM> \conj;
+                                        atitṛṣṇā ca māndāto \msCa,
+                                        atitṛṣṇā ca māndhāto \msCb\msCc\msNa\msNc,
+                                        atitṛṣṇā ca mandhāto \msNb,
+                                        atitṛṣṇā ca mānāc{ }ca ca \Ed</APP>
+        <APP>\vd <LEM>nahuṣo</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; naghuṣo \msNb</APP>
+        <TR>Māndhātṛ by excessive desire, Nahuṣa by contempt for Brahmins,</TR>
+        <NOTE><sep/>Most probably, Łatitṛṣṇā$ in the MSS stands for Łatitṛṣṇāt$ (intending Łatitṛṣṇayā$),
+                and the forms Łmāndhāto$/Łmandhāto$ in \msCb\ stand for Łmāndhātā$ (nominative of Łmāndhātṛ$).
+                I have corrected these in spite of the fact that the authors' knowledge about Māndhātṛ's story may
+                come from \DIVYAV\ 17, where it sometimes appears to be an a-stem noun (Łmāndhāta$).
+                Łdvijavajñayā$ in Łpāda$ d stands for Łdvijāvajñayā$ metri causa.
+
+                <sep/>
+                Māndhātṛ was born from his father's body who, being excessively thirsty once,
+                had drank some decoction prepared for ritual purposes and as a result become pregnant with him.
+                Nevertheless, \Buddhacarita\ 11.13 suggests that Māndhātṛ himself was still unsatisfied
+                with wordly objects even after he had obtained half of Indra's throne:
+        <sep/>
+                                Łdevena vṛṣṭe 'pi hiraṇyavarṣe$ 
+                                Łdvīpān samagrāṃś caturo 'pi jitvā$ |  <br/> 
+                                Łśakrasya cārdhāsanam apy avāpya$
+                                Łmāndhātur āsīd viṣayeṣv atṛptiḥ$ ||
+        <sep/>
+              In Johnston's translation (<citeyear>Buddhacarita</cite>, II. 151):
+        <sep/>
+              `Though the heavens rained gold for him and though he conquered the whole
+              of the four continents and won half the seat of Śakra, yet Māndhātṛ's longing
+              for the objects of sense remained unappeased.'
+        <sep/>
+                In fact, as Monika Zin points out (<citep>ZinMandhatar</citep><pnum>149</pnum>),
+                Māndhātṛ/Māndhāta's rise and fall is a very popular theme
+                in the `Narrative Art of the Amaravati School': 
+                `Statistics show that in the Amaravati School the most frequently represented narrative is
+                  the story of King Māndhātar, which appears 47 times.'
+ 
+                <sep/>
+                Nahuṣa was elevated to the position of Indra for a period of time and he also wanted
+                to take Śacī, Indra's wife. Indra instructed Śacī to tell Nahuṣa to 
+                harness some Ṛsis to a vehicle and use this vehicle to take Śacī. 
+                Agastya, one of the Ṛṣis, was insulted even further by Nahuṣa, therefore
+                he cursed Nahuṣa, who then fell from the vehicle. See \MBH\ 12.329.35ff and
+                a verse in the \Buddhacarita\ (11.14) that follows the one about Māndhātṛ:
+        <sep/>
+                                             Łbhuktvāpi rājyaṃ divi devatānāṃ$ 
+                                                Łśatakratau vṛtrabhayāt pranaṣṭe$ | <br/>
+                                             Łdarpān maharṣīn api vāhayitvā$ 
+                                                Łkāmeṣv atṛpto nahuṣaḥ papāta$ ||
+        <sep/>
+              In Johnston's translation (<citeyear>Buddhacarita</cite>, II. 151):
+        <sep/>
+        `Although he enjoyed sovereignty over the gods in heaven, when Śatakratu hid himself
+         for fear of Vṛtra, and though out of wanton pride he made the great ṛṣis carry him,
+         yet Nahuṣa fell, being still unsatisfied with the passions.'</NOTE>
+
+        % See Zin ibid. p. 151:
+        % ''The story [e.g. ŁDivyāvadāna$ XVII, see more sources in fn. 17 of this article] 
+        % relates that Māndhātar was a miraculously born <skt>cakravartin</skt> with Seven
+        % Jewels who could cause rain to fall so that his subjects could prosper; not usual rain, but rain
+        % of coins, of grain or of cloth. By virtue of his moral strength alone, Māndhātar conquered the world---
+        % without any weapons. He conquered all the countries on earth, then Uttarakuru,
+        % Pūrvavideha and Aparagodānīya, after which he set out to conquer the heavens. When he was
+        % traversing from one abode of the gods to the next (Nāgas, Sadāmattas, Mālādharas, etc.)
+        % groups of gods pledged obeisance to him and immediately marched in front of his troops.
+        % Māndhātar reached the splendid city of the Trayastriṃśa gods atop Sumeru, where Indra, in
+        % the meeting-hall, bequeathed to him half of his own seat and half of his heavenly realm.
+        % Māndhātar then ruled together with Indra for an unimaginable period of time during which 36
+        % Indras changed. One day, shortly after he won a battle against the Asuras, a sinful thought
+        % came to his mind: why should he rule alongside Indra? It was he, after all, who won the war,
+        % not Indra - he was better and should, therefore, rule alone.
+        % At that very moment Māndhatar fell from heaven, down to his former realm, became sick and died.
+        % Shortly before his death, he preached a sermon to his subjects in which <i>gātha</i>s 
+        % from the <i>Dhammapada</i> (186--187) appear...''
+
+%index_metre: shortening of vowel metri causa
+%Buddhacarita:
+%
+%samudravastrām api gām avāpya  
+%        pāraṃ jigīṣanti mahārṇavasya 
+%lokasya kāmair na vitṛptir asti  
+%         patadbhir ambhobhir ivārṇavasya  // 11.12 //
+%
+%devena vṛṣṭe 'pi hiraṇyavarṣe  
+%        dvīpān (samagrāṃś C samudrāṃś ) caturo 'pi jitvā
+%śakrasya cārdhāsanam apy avāpya  
+%        *māndhātur* āsīd viṣayeṣv atṛptiḥ  // 11.13 //
+%
+%bhuktvāpi rājyaṃ divi devatānāṃ   
+%        śatakratau vṛtrabhayāt pranaṣṭe
+%darpān maharṣīn api vāhayitvā  
+%        kāmeṣv atṛpto *nahuṣaḥ* papāta  // 11.14 //
+%
+%aiḍaś ca rājā tridivaṃ vigāhya    [= Purūravas]
+%        nītvāpi devīṃ vaśam urvaśīṃ tām
+%lobhād ṛṣibhyaḥ kanakaṃ jihīrṣur  
+%        jagāma nāśaṃ viṣayeṣv atṛptaḥ  // 11.15 //
+%
+%baler mahendraṃ nahuṣaṃ mahendrād   
+%        indraṃ punar ye nahuṣād upeyuḥ
+%svarge kṣitau vā viṣayeṣu teṣu  
+%        ko viśvased bhāgyakulākuleṣu  // 11.16 //
+%MBh 12:
+%Unto her Indra then said, Go and say
+%unto Nahusha that he should come to thee on a vehicle never used before,
+%viz., one unto which some Rishis should be harnessed, and arriving at
+%thine in that state he should wed thee. Indra has many kinds of vehicles
+%that are all beautiful and charming. All these have borne thee. Nahusha,
+%however, should come on such a vehicle that Indra himself had not
+%possessed. Thus counselled by her lord, Sachi left that spot with a
+%joyous heart. Indra also once more entered the fibres of that
+%lotus-stalk. Beholding the Queen of Indra come back to heaven, Nahusha
+%addressed her saying, The time thou hadst fixed is over. Unto him Sachi
+%said what Indra had directed her to say. *Harnessing a number of great
+%Rishis unto the vehicle he rode, Nahusha set out from his place for
+%coming to where Sachi was living.* The foremost of Rishis, viz., Agastya,
+%born within a jar, of the vital seed of Maitravaruna, beheld those
+%foremost of Rishis insulted by Nahusha in that way. Him Nahusha struck
+%with his foot. Unto him, Agastya said,--Wretch, as thou hast betaken
+%thyself to a highly improper act, do thou fall down on the Earth. Be
+%olong as the Earth and her hills continue. As soon as these words were
+%uttered by the great Rishi, Nahusha fell down from that vehicle. The
+%three worlds once more became master-less. The deities and the Rishis
+%then united together and proceeded to where Vishnu was and appealed to
+%him for bringing about the restoration of Indra. Approaching him, they
+%said,--O holy one, it behoveth thee to rescue Indra who is overwhelmed by
+%the sin of Brahmanicide. The boon-giving Vishnu replied unto them,
+%saying,--Let Sakra perform a Horse-sacrifice in honour of Vishnu. He will
+%then be restored to his former position. The deities and the Rishis began
+%to search for Indra, but when they could not find him, they went to Sachi
+%and said unto her,--O blessed lady, go unto Indra and bring him here.
+%transformed into a snake and do thou continue to live in that form as
+%
+%Mahāsubhāṣitasaṅgraha:
+%MSS_0560-1 atidarpe hatā laṅkā atimāne ca kauravāḥ /<BR>
+%MSS_0560-2 atidāne balir baddhaḥ sarvam atyantagarhitam //<BR>
+%MSS_0561-1 atidākṣiṇyayuktānāṃ śaṅkitānāṃ pade pade /<BR>
+%MSS_0561-2 parāpavādibhīrūṇāṃ na bhavanti vibhūtayaḥ //<BR>
+%MSS_0562-1 atidānād dhataḥ karṇas tv atilobhāt suyodhanaḥ /<BR>
+%MSS_0562-2 atikāmād daśagrīvas tv atisarvatra varjayet //<BR>
+%MSS_0563-1 atidānād balir baddho naṣṭo mānāt suyodhanaḥ /<BR>
+%MSS_0563-2 vinaṣṭo rāvaṇo laulyād ati sarvatra varjayet //<BR>
+%MSS_0564-1 atidānād balir baddho hy atimānāt suyodhanaḥ /<BR>
+%MSS_0564-2 atikāmād daśagrīvo hy ati sarvatra garhitaḥ //<BR>
+%MSS_0565-1 atidāne balir baddho atimāne ca kauravāḥ /<BR>
+%MSS_0565-2 atirūpe hṛtā sītā sarvam atyantagarhitam //<BR>
+%MSS_0566-1 atidīrghajīvidoṣād vyāsena yaśo'pahāritaṃ hanta /<BR>
+
+
+
+% kosa/vacaspatyam.txt: \textbf{atidāna} na° atiśayitaṃ dānam prā° sa°
+
+% sandhi
+<TEXT> atidānād{ }balir{ }naṣṭa atiśauryeṇa arjunaḥ|</TEXT>
+        <APP>\va <LEM>°r{ }naṣṭa</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; °r{ }naṣṭo \msCb, naṣṭo \msCc</APP>
+        <PARAL>\va Ł\compare\ \MAHASUBHS\ 563ab:$
+                        atidānād{ }balir{ }baddho naṣṭo mānāt{ }suyodhanaḥ</PARAL>
+        <NOTE>ŁPāda$ a is most probably a reference to Mahābali's promises made to Vāmana that caused his own fall. 
+                The ultimate cause of Arjuna' death while the Pāṇḍavas were on the way to the underworld 
+                was summarised by Yudhiṣṭhira thus (\MBH\ 17.2.21ab):
+                <sep/>
+                       Łekāhnā nirdaheyaṃ vai śatrūn ity arjuno 'bravīt$ | <br/>
+                       Łna ca tat kṛtavān eṣa śūramānī tato 'patat$ ||
+                <sep/>
+                `Arjuna claimed that he could destroy the enemy in one single day. He failed to do so.
+                  He was a boaster, that is why he fell.'</NOTE>
+        <TR>[Mahā]bali perished by excessive gifting, Arjuna by excessive heroism,</TR>
+
+%index_grammar: lack of sandhi metri causa
+
+<TEXT> atidyūtān{ }nalo rājā nṛgo goharaṇena tu||</TEXT> 4:58
+        <APP>\vc <LEM>atidyūtān{ }nalo</LEM> \msCa\msCc\msNb\msNc; atidyūtān{ }naro \msCb\msNa, atikhyātān{ }nalo \Ed</APP>
+        <APP>\vd <LEM>nṛgo go°</LEM> \Ed; nṛgaṅ{ }go° \msCa\msCc\msNb\msNc, nṛgaṃ go° \msCb\msNa</APP>
+        <TR>King Nala by excessive gambling, Nṛga by taking a cow.</TR>
+        <LACUNA>\vo ŁAfter this verse, \Ed\ adds:$ 
+                        tasmād{ }dama sadā sa rakṣet ati sarvatra varjayet   
+                Ł(understand:$ tasmād{ }damaṃ sadā rakṣet ati sarvatra varjayet Ł)$;
+                Ł\compare\ \MAHASUBHS\ 563cd:$
+                        vinaṣṭo rāvaṇo laulyād{ }ati sarvatra varjayet </LACUNA>
+        %``Therefore one should always preserve Self-restraint and should always avoid excessiveness.''
+% SEE Maṇicūḍāvadāna tr. Ren Yuan (pdf) page 67 !!! %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+        % PaperMS A1341 does not have this extra line:
+        /home/csaba/mmedia/images/scan/saiva/sivadharmacorpus/mss_florinda/newari/ngmpp/paper_mtm/A 1341-06/DSCN0337.JPG
+        % PaperMS C107-7 does not have this extra line either:
+        /home/csaba/mmedia/images/scan/saiva/sivadharmacorpus/mss_florinda/newari/ngmpp/paper_mtm/C 107-07_scribe_of_a1341?/DSCN8306.JPG
+        % PaperMS C57-5 does not have it either (4182.jpg)
+        % Not in PaperMS B219-3 (3819.jpg) last but one line
+                <NOTE>
+                        <sep/> 
+                        King Nala was an expert in the game of dice but once he lost his kingdom to Puṣkara.
+                        See, e.g., \MBH\ 3.56.1ff. 
+
+                <sep/>
+                       As for Nṛga, see \MBH\ 14.93.74: 
+                <sep/>
+                       Łgopradānasahasrāṇi dvijebhyo 'dān nṛgo nṛpaḥ$ | <br/>
+                       Łekāṃ dattvā sa pārakyāṃ narakaṃ samavāptavān$ ||
+                <sep/>
+                         `King Nṛga had donated thousands of cows to the twice-born.
+                         By giving away one single cow that belonged to someone else, 
+                         he fell into hell.'</NOTE>
+ 
+
+<NOTANUSTUBH/> upajāti
+<TEXT> damena hīnaḥ puruṣo dvijendra</TEXT>
+        <APP>\va <LEM!>hīnaḥ puruṣo dvijendra</LEM> \mssALL\mssCaCbCc\msNa\msNc; 
+                                hīna puruṣo dvijendra \msNb, hīnaṃ puruṣaṃ dvijendraḥ \Ed</APP>
+        <TR>[For] a person who is without self-restraint, O great Brahmin,</TR>
+
+<TEXT> svargaṃ ca mokṣaṃ ca sukhaṃ ca nāsti|</TEXT>
+        <NOTE>ŁPāda$ b: Łsvarga$ and Łmokṣa$ are usually masculine in standard Sanskrit.</NOTE>
+        <TR>there is no heaven, liberation or happiness.</TR>
+
+%index_grammar: gender
+%index_grammar: nominative for genitive
+
+        -  - .  -  -!. . -  . - -
+<TEXT> vijñānadharmakulakīrtināśa</TEXT> 
+        <APP>\vc <LEM>°nāśa</LEM> \msCb; °nāśo \Ed °nāma \msCa\msCc\msNa, °naśca \msNb, °nāgā \msNc</APP>
+        <NOTE>The majority of the witnesses suggest that Łpāda$ c ends in a \stemform\ noun (°Łnāśa$),
+                although a singular masculine nominative (as in \Ed) may work.
+                This Łpāda$ is unmetrical, or rather it applies the licence of a word-final
+                short syllable being counted as potentially long (°ŁdharMA$°; see p.~\pageref{short2long}). </NOTE>
+
+%index_metre: long syllable at end of word
+%index_grammar: stem form noun
+
+% unmetr:
+<TEXT> bhavanti vipra damayā vihīnāḥ||</TEXT> 4:59
+        <APP>\vd <LEM>vipra</LEM> \mssALL\mssCaCbCc\msNaacorr\msNb\Ed; viprā \msNapcorr\msNc\oo
+                 <LEM>damayā</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc\Ed; dayā \msCbacorr</APP>
+        <TR>O Brahmin, people without self-restraint 
+                        are the destruction of knowledge, Dharma, family and fame.</TR>
+        <NOTE>Note how Łviprā$ in Łpāda$ d is probably an attempt in some MSS to restore the metre.
+                This Łpāda$ is also unmetrical, or rather the licence of a word-final
+                short syllable being counted as potentially long is applied again (ŁviPRA$).</NOTE>
+
+%index_metre: upajāti
+%index_metre: long syllable at end of word
+ 
+
+%folioinfo \msCc\ 195.jpg, f. 276r
+<SUBCHAPTER>yameṣu ghṛṇā (6)</SUBCHAPTER>
+<TRSUBCHAPTER>Sixth Yama-rule: taboos</TRSUBCHAPTER>
+
+<ANUSTUBH/>
+<TEXT> nirghṛṇo na paratrāsti nirghṛṇo na ihāsti vai|</TEXT>
+        <APP>\va <LEM>nirghṛṇo</LEM> \msCa\msCb\msNb; nighṛṇo \msCc\msNc, nirghṛṇa \msNaacorr, 
+                                nirghṛ<UNCL>ṇe</UNCL> \msNapcorr, nirghṛṇe \Ed</APP>
+        <APP>\vb <LEM>nirghṛṇo</LEM> \msCa\msCb\msNaacorr\msNb; nighṛṇo \msCc\msNc, nirghṛṇe \msNapcorr\Ed</APP>
+        <NOTE>The implications of Łpāda$s ab are not crystal clear to me. Perhaps:
+              such a person has no right for existence in society and has no place in heaven.</NOTE>
+        <TR>A person without taboos does not exists either in this or the other world.</TR>
+
+<TEXT> nirghṛṇe na ca dharmo 'sti nirghṛṇe na tapo 'sti vai||</TEXT> 4:60
+        <APP>\vc <LEM>nirghṛṇe</LEM> \msCa\msCb\msNb\Ed; nighṛṇe \msCc\msNa\msNc</APP>
+        <APP>\vd <LEM>nirghṛṇe</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; nighṛṇe \msCc\msNc</APP>
+        <TR>If one has no taboos, one cannot have Dharma or religious austerity.</TR>
+% in a person Judit he has no... aversion 
+% Judit likes 'taboo'
+
+<TEXT> parastrīṣu parārtheṣu parajīvāpakarṣaṇe|</TEXT>
+        <APP>\vb <LEM>°jīvāpakarṣaṇe</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; °jīvāparkaṇe \msCb, °jīvopakarṣaṇe \Ed</APP>
+        <TR>These five should be treated as taboo:
+            women who are not depending on oneself, others' wealth, taking away others' lives,</TR>
+
+<TEXT> paranindāparānneṣu ghṛṇāṃ pañcasu kārayet||</TEXT> 4:61
+        <APP>\vc <LEM>paranindā°</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; parani\-nda\lk\ \msCa\oo
+                 <LEM>°parānneṣu</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °parāṃneṣu \msNb</APP>
+        <APP>\vd <LEM>ghṛṇāṃ</LEM> \msCa\msCb\msNa\msNc; ghṛṇā \msCc\msNb\Ed</APP>
+        <TR>hurting others and [consuming] others' food.</TR>
+        
+<TEXT> parastrī śṛṇu viprendra ghṛṇīkāryā sadā budhaiḥ|</TEXT>
+        <APP>\va <LEM>ghṛṇī°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; ghṛṇā \msCb</APP>
+        <TR>Listen, O great Brahmin. The wise should always treat women who are not 
+                        dependent on oneself as taboo,</TR>
+
+<TEXT> rājñī viprī parivrājā svayoniparayoniṣu||</TEXT> 4:62
+        <APP>\vc <LEM>°vrājā</LEM> \mssCaCbCc\msNc; °vrājī \msNa\msNb, °vrājyā \Ed</APP>
+        <APP>\vd <LEM>°para°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °paśu° \msNb</APP>
+        <NOTE>The translation of Łparayoni$ in Łpāda$ d is tentative.</NOTE>
+        <TR>[be she] a queen, a Brahmin's wife, a wandering religious mendicant, 
+                        a relative or of another caste.</TR>
+% Judit parastrī might be the first category and then rājñī ... ?
+
+%folioinfo \msM\ 420.jpg upper, f. 8v  
+% corr to anyad?
+<TEXT> parārthe śṛṇu bhūyo 'nya anyāyārtha{-}m{-}upārjanam|</TEXT>
+        <APP>\vb <LEM>anyāyā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; anyayā° \msNb\oo
+                 <LEM>°rjanam</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °rjjavam \msNb</APP>
+        <PARAL>\vb Ł\compare\ \BHG\ 16.12:$
+                āśāpāśaśatair{ }baddhāḥ kāmakrodhaparāyaṇāḥ|
+                īhante kāmabhogārtham{ }anyāyenārthasaṃcayān||</PARAL>
+        <NOTE>Although Ł'nya$ in Łpāda$ a could be interpreted several ways (e.g. Łanye$ for Łanyasmin$, 
+              or taken to be the first element of a compound: Łanya-anyāyārtha-$),
+              I think that Łbhūyo 'nyat$ is a fixed expression meaning `something/anything more.' 
+              See, e.g., \BHG\ 7.2cd:
+              Łyaj jñātvā neha bhūyo 'nyaj jñātavyam avaśiṣyate$.
+              Understand Łpāda$ b as a compound (Łanyāya-artha-upārjanam$). 
+              See cheating with scales mentioned in 4.23.</NOTE>
+        <TR>Listen further to something else, with regards to others' wealth.
+                 [It may include] gaining wealth through unlawful means,</TR>
+% Judit anyāyārtha is the first thing
+% Fra maybe pāda b works fine
+% Bhagavadgītā anyāyena ... CHECK Nirājan
+% Kengo rather 'anya' ?
+% anye for anyasmin Judit or compound (also Kengo's idea) 
+
+<TEXT> āḍhaprasthatulāvyājaiḥ parārthaṃ yo 'pakarṣati||</TEXT> 4:63
+        <APP>\vc <LEM>°tulā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °tula° \msNb</APP>
+        <APP>\vd <LEM>°rthaṃ</LEM> \msCa\msCb\msNa\Ed; °rtha \msCc, °<UNCL>rtha</UNCL> \msNb, °rthe \msNc</APP>
+        <TR>when somebody takes away other people's wealth by cheating with
+                 weights of one Łāḍha[ka]$ or a Łprastha$ and with scales.</TR>
+
+<TEXT> jīvāpakarṣaṇe vipra ghṛṇīkurvīta paṇḍitaḥ|</TEXT>
+        <APP>\va <LEM>vipra</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed; vi<UNCL>pra</UNCL> \msCa, vipre \msCc</APP>
+        <APP>\vb <LEM>ghṛṇī°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; ghṛṇāṃ \Ed</APP>
+        <TR>O Brahmin, the wise should regard taking away lives as taboo,</TR>
+% they meant 'ghṛṇāṃ kurvīta' Judit 
+
+<TEXT> vanajāvanajā jīvā vilagāś{ }caraṇācarāḥ||</TEXT> 4:64
+        <APP>\vc <LEM>vanajāvanajā</LEM> \msCa\msCc\msNa\msNb\Ed; 
+                        vanajāva\lk jā \msCbacorr, vanajā va<UNCL>ni</UNCL>jā \msCbpcorr, vanaja vinajā \msNc</APP>
+        <APP>\vd <LEM!>vilagāś{ }caraṇācarāḥ</LEM> \corr; 
+                        vilagācaraṇācarāḥ \msCa\msCb\msNc, vilagocaragocaraḥ \msCc\Ed, vilagocaragocarāḥ \msNa,
+                                                        <UNCL>vilagācara</UNCL>ṇācarāḥ \msNb</APP>
+        <NOTE>In Łpāda$ d, I take Łcaraṇācarāḥ$ as standing for Łcarācarāḥ$ (Łcara-acarāḥ$) metri causa.
+              Alternatively, one may understand it as Łcaraṇacarāḥ$ (metri causa), 
+              meaning `those who move on their feet,' perhaps as opposed to snakes (Łbilaga$ or Łbilaṃga$).
+              Neither solution is fully satisfactory. Note that this Łpāda$ also involves a small correction.</NOTE>
+        <TR>[be they] wild or domesticated living beings, serpents, plants and animals.</TR>
+
+% vihagācaraṇācarāḥ?
+% bilaga ! Nirājan bilaṃgama serpent 
+% walk on their feet Judit 
+
+
+%folioinfo \msNc\ 219.jpg upper, f. 216v
+<TEXT> paranindā ca kā vipra śṛṇu vakṣye samāsataḥ|</TEXT>
+        <APP>\vb <LEM>vakṣye</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; vakṣyā \Ed</APP>
+        <TR>And what is the hurting of others? Listen, O Brahmin, I shall tell you briefly.</TR>
+
+<TEXT> devānāṃ brāhmaṇānāṃ ca gurumātātithidviṣaḥ||</TEXT> 4:65
+        <LACUNA>\vcd ŁThese two pādas are illegible in \msNb$</LACUNA>
+        <NOTE>Note Łmātā$ as a \stemform\ in Łpāda$ d.</NOTE>
+        <TR>He who is hostile to the gods, Brahmins, the guru, a mother, and guests [hurts others].</TR>
+
+%index_voc: mātā as stem  see Monier
+
+%folioinfo \msNb\ 50.jpg lower
+<TEXT> parānneṣu ghṛṇā kāryā abhojyeṣu ca bhojanam|</TEXT>
+        <APP>\vb <LEM>abhojyeṣu</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; abhojye \msCb</APP>
+        <TR>As regards other people's food, eating together with people whose food
+                        is not to be accepted (Łabhojyeṣu$) is taboo,</TR>
+
+% any association with alcohol
+<TEXT> sūtake mṛtake śauṇḍe varṇabhraṣṭakule naṭe||</TEXT> 4:66
+        <APP>\vc <LEM>śauṇḍe</LEM> \msNa; sauṇḍye \msCa\msCc\msNc, śoṇḍye \msCb, <UNCL>sauṇḍe</UNCL> \msNb, sauṇḍo \Ed</APP>
+        <LACUNA>\vo ŁThis verse is mostly illegible in \msNb$</LACUNA>
+        <TR>[e.g.] after birth or death [in a family], in case of vendors of alcohol,
+                or a family having lost their caste, and in the case of a [member of the] Naṭa [caste of dancers].</TR>
+% kule ... bahuvrīhi individual
+        <NOTE>One should probably understand Łśauṇḍe$ in Łpāda$ c as Łśauṇḍike$, `a distiller,' or, alternatively,
+                it may be corrupted from Łṣaṇḍhe$, `a eunuch'; see both in \VasDh\ 14.1--3:
+                <sep/>
+                Łathāto bhojyābhojyaṃ ca varṇayiṣyāmaḥ$ |
+                Łcikitsaka-mṛgayu-puṃścalī-ḍaṇḍika-stenābhiśastar-ṣaṇḍha-patitānām annam abhojyam$ |
+                Łkadarya-dīkṣita-baddhātura-soma-vikrayi-takṣa-rajaka-śauṇḍika-sūcaka-vārdhuṣika-carmāvakṛntānām$ || etc.
+                <sep/>
+                It is translated by Olivelle (<citeyear>OlivelleDharmasutras</citeyear>, 285) as:
+                        `Next we will describe food that is fit and food that is
+                        unfit to be eaten [\dots] The following are unfit
+                        to be eaten: food given by a physician, a hunter, a harlot, a law
+                        enforcement agent, a thief, a heinous sinner [...] a
+                        eunuch, or an outcaste; as also that given by a miser, a man
+                        consecrated for a sacrifice, a prisoner, a sick person, a man who
+                        sells Soma, a carpenter, a washerman, a liquor dealer, a spy, an
+                        usurer, a leather worker\dots'
+                <sep/>
+                In support of reading Łṣaṇḍhe$, one might consult \MANU\ 3.239:
+                <sep/>
+                        Łcāṇḍālaś ca varāhaś ca kukkuṭaḥ śvā tathaiva ca$ |<br/>
+                        Łrajasvalā ca ṣaṇḍhaś ca nekṣerann aśnato dvijān$ ||
+                <sep/>
+                Translated by Olivelle (<citeyear>OlivelleDharmasutras</citeyear>, 120) as:
+                <sep/>
+                        `A Cāṇḍāla, a pig, a cock, a dog, a menstruating woman, or a eunuch must not
+                         look at the Brahmins while they are eating.'</NOTE>
+
+% check sauṇḍa as a jāti ṣaṇḍha ! Judit but also śuṇḍa -- śauṇḍa : connected to bar more likely
+% notable examples
+
+
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+<LONGVERSELINES/>
+% °susakta°?
+%      - -  -  .  . - .  - .  . . -   -  -   . -  -   . -
+<TEXT> ete pañcaghṛṇāsu saktapuruṣāḥ svargārthamokṣārthino</TEXT>
+        <APP>\va <LEM>°puruṣāḥ</LEM> \msNc; °puruṣaḥ \mssCaCbCc\msNa\msNb\Ed\oo
+                 <LEM>°rthino</LEM> \eme; °rthinaḥ \msNcpcorr, °rthināṃ \mssCaCbCc\msNa\msNb\Ed, °rthinā \msNcacorr</APP>
+        <TR>Those people who stick to the five kinds of taboo [and thus] 
+                        seek heaven, wealth and liberation,</TR>
+% maybe svargātha - seeking heaven Judit 
+% end of line was -aḥ
+
+%                       śakta \msCa
+% phps without avagraha?
+<TEXT> loke 'nindanam{ }āpnuvanti satataṃ kīrtir{ }yaśo'laṃkṛtam|</TEXT>
+        <APP>\vb <LEM>'nindanam{ }āpnuvanti</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; 
+                        'nindanavāpnuvanti \msCc, nandanavāyuvānti \Ed</APP>
+%                  °kṛtāḥ \eme; °kṛtam \mssCaCbCc\msNa\msNb\msNc\Ed
+        <NOTE>Understand Łkīrtir-yaśo$° as Łkīrtiyaśo$° ('r' being an intrusive consonant here metri causa), 
+              as in 5.20b below. Alternatively, emend to Łkīrtiṃ yaśo'laṃkṛtām$.</NOTE>
+        <TR>will reach eternal faultlessness in this world, embellished with fame and glory.</TR>
+
+%index_grammar: r as a sandhi bridge?
+%index_grammar: hiatus-filler, sandhi bridge
+
+%        -  - -  .! . -    . -   .  .  . -  - -   .  -  -   . -
+<TEXT> prajñābodhaśrutiṃ smṛtiṃ ca labhate mānaṃ ca nityaṃ labhed</TEXT>
+        <APP>\vc <LEM>°śrutiṃ</LEM> \msNc; °śruti° \mssCaCbCc\msNa\msNb\Ed\oo
+                 <LEM>nityaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; nitya \msCb</APP>
+        <NOTE>In Łpāda$ c, note the \mutacumliquida\ that allows °Łbodhaśrutiṃ$°
+              to scan as - \shortsyllable\ \shortsyllable\ - , the consonant cluster 
+              Łśr$ not turning the previous syllable long.</NOTE> 
+        <TR>[A person like that] will obtain wisdom, intelligence, [knowledge of] the Śruti and Smṛti traditions,
+                 and honour forever.</TR>
+% end of line was labhet
+
+%index_metre: muta cum liquida licence śr:
+
+<TEXT> dākṣiṇyaṃ sabhavet{ }sa āyuṣa paraṃ prāpnoti niḥsaṃśayaḥ||</TEXT> 4:67
+        <APP>\vd <LEM>sa āyuṣa</LEM> \eme; samāyuṣa \mssCaCbCc\msNc, samāyuṣaḥ \msNa\ \unmetr,
+                                <UNCL>samāyuṣa</UNCL> \msNb, sa mānuṣa \Ed\oo
+                 <LEM>niḥsaṃśayaḥ</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; nisaṃśayaḥ \msNa</APP>
+        <TR>Kindness will arise and he will obtain an extra long life, no doubt.</TR>
+        <NOTE>ŁPāda$ d has several problems. I take Łsabhavet$ as standing for Łsambhavet$ metri causa,
+              and I had to emend Łsamāyuṣa$ to Łsa āyuṣa$ to make sense of it.
+              Understand Łāyuṣa$ as Łāyuḥ$ (metri causa), otherwise accept \Ed's Łsa mānuṣa$.
+              Also consider correcting Łniḥsaṃśayaḥ$ to Łniḥsaṃśayam$.</NOTE>
+
+%index_metre: śārdūlavikrīḍita
+
+<NORMALVERSELINES/>
+
+
+<SUBCHAPTER>yameṣu pañcavidho dhanyaḥ (7)</SUBCHAPTER>
+<TRSUBCHAPTER>Seventh Yama-rule: five kinds of virtue</TRSUBCHAPTER>
+
+%folioinfo \msNa\ 202.jpg upper, f.8v
+<ANUSTUBH/>
+<TEXT> caturmaunaṃ catuḥśatruś{ }caturāyatanaṃ tathā|</TEXT>
+        <APP>\va <LEM>caturmaunaṃ ca°</LEM> \corr; caturmaunaś{ }ca° \msCa\msCb\msNa\msNc\Ed, caturmoṇaś{ }ca° \msCc,
+                                                        <UNCL>caturmaunaś{ }ca</UNCL>° \msNb</APP>
+        <APP>\vab <LEM>°tuḥ{ }śatruś{ }ca°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc;
+                                                        °tuśatru ca° \msCc, °tuḥ{ }śatru ca° \Ed</APP>
+        <APP>\vb <LEM>°turāyatanaṃ</LEM> \mssALL\msCb\msCc\msNa\msNc\Ed; °<UNCL>tu</UNCL>rāyatanaṃ \msCa, 
+                                                                  °<UNCL>turāyatanam</UNCL> \msNb</APP>
+        <TR>The four cases of observing silence, [victory over] the four enemies, the four 
+                        sanctuaries,</TR>
+
+%folioinfo \Ed\ p.596
+% stem form? vidhi? vidhy ucyate? or vidhā? or accept \Ed?
+<TEXT> caturdhyānaṃ catuṣpādaṃ pañcadhanyavidhocyate||</TEXT> 4:68
+        <APP>\vc <LEM>°pādaṃ</LEM> \mssALL\mssCaCbCc\msNc\Ed; °pādaḥ \msNa, \lk\lk\ \msNb</APP>
+        <APP>\vd <LEM>pañcadhanya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; dhanyapañca° \Ed</APP>
+        <NOTE>Understand Łpāda$ d as Łpañcavidho dhanya ucyate$.</NOTE>
+        <TR>the four meditations, and the four-legged [Dharma] are called the five ways of being virtuous.</TR>
+
+%index_grammar: clumsy
+
+
+<TEXT> caturmaunasya vakṣyāmi śṛṇuṣvāvahito bhava|</TEXT>
+        <APP>\va <LEM>°maunasya</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °monasya \msCb</APP>
+        <NOTE>Note the genitive with a verb meaning `to tell' in Łpāda$ a, similarly to 1.37a and \verify\
+                (See p.~\pageref{tellplusgen}).</NOTE>
+        <TR>I shall tell you about the four cases of observing silence. Listen, be attentive.</TR>
+
+%index_grammar: gen + telling
+
+<TEXT> pāruṣyapiśunāmithyā sambhinnāni ca varjayet||</TEXT> 4:69
+        <APP>\vc <LEM>pāruṣya°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; pāruṣyaṃ \msNa\oo
+                 <LEM>°piśunā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °piṇḍānā° \Ed</APP>
+        <PARAL>\vcd Ł\compare\ \DIVYAV\ 186.21:$
+                    ārya, kim{ }ebhiḥ karma kṛtam{ }yenaivaṃvidhāni duḥkhāni pratyanubhavantīti? 
+                    sa kathayati| ete prāṇātipātikā adattādāyikāḥ kāmamithyācārikā mṛṣāvādikāḥ paiśunikāḥ pāruṣikāḥ 
+                    saṃbhinnapralāpikā abhidhyālavo vyāpannacittā mithyādṛṣṭikāḥ|;
+                    Ł\compare\ \DHARMP\ 1.31cd--32ab:$
+                        mithyā piśunasambhinnapāruṣyavacanāni ca||
+                        jalpataḥ sambhavanty{ }ete tasmān{ }maunaṃ praśasyate|</PARAL>
+         <NOTE>Compare the four types of Łmauna$ taught here with the five types of
+              Łmaunavrata$, as the ninth Niyama-rule, in \VSS\ 8.25--33 below.
+              Similar lists on Łmauna$ are often found in Buddhist texts:
+              see references, e.g., in <cite>EdgertonHybrid</cite> s.v. 
+              Łpaiśunika$ and Łsaṃbhinnapralāpa$.
+              See also the relevant \DIVYAV\ 186.21, as well as \DHARMP\ 1.31cd--32ab 
+              quoted in the apparatus.</NOTE>
+        <TR>One should avoid violent and slanderous [words], lies, and idle [talk].</TR>
+% piśunā : informing against, betraying [MBh.];
+
+<TEXT> kāmaḥ krodhaś{ }ca lobhaś{ }ca mohaś{ }caiva caturvidhaḥ| </TEXT>
+        <TR>The fourfold enemy [made up of] desire, anger, greed, and delusion</TR>
+
+% 05uma/umamahesvarasamvada.dn:  2403:    kāmakrodhaśca lobhaśca rāgo dveṣaśca pañcamam|^M
+% 05uma/umamahesvarasamvada.dn-  2404-    mahābhogāśca ityete dehe ṣaḍvṛṣalāḥ smṛtāḥ|| 20.4||^M
+% 06uttarottara/uttarottara.txt: 1007:    kāmakrodhaś ca lobhaś ca mohaś caiva tu kutra vā
+
+% carvidhaḥ \msCbacorr
+
+%https://encyclopediaofbuddhism.org/wiki/Arhat: 'The Tibetan term for arhat was translated by meaning from Sanskrit. This translation, dgra bcom pa, means "one who has destroyed the foes of afflictions".[21] Thus the Tibetan translators also understood the meaning of arhat to be ari-hanta.'
+
+<TEXT> catuḥśatrur{ }nihantavyaḥ so 'rihā vītakalmaṣaḥ||</TEXT> 4:70
+        <APP>\vc <LEM>catuḥśatrur{ }ni°</LEM> \msCa\msCb\Ed; catuśatru ni° \msCc\msNa\msNb\msNc</APP>
+        <APP>\vd <LEM>so 'rihā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; srorihā \msCb, sarvathā \Ed</APP>
+        <TR>is to be destroyed. He who destroys [these] enemies will become sinless.</TR>
+% Judit 14 ...
+        <NOTE>Possible direct sources for the idea that Łkāma$ is an enemy to be defeated or avoided include
+                \Buddhacarita\ 11.17:
+        <sep/>
+        Łcīrāmbarā mūlaphalāmbubhakṣā$ 
+        Łjaṭā vahanto 'pi bhujaṃgadīrghāḥ$ |<br/> 
+        Łyair nānyakāryā munayo 'pi bhagnāḥ$ 
+        Łkaḥ kāmasaṃjñān mṛgayeta śatrūn$ ||
+        <sep/>
+              In Johnston's translation (<citeyear>Buddhacarita</cite>, II. 152):
+        <sep/>
+              `Who would seek after the enemies known as the passions, by whom
+               even sages were undone, despite their bark-dresses, their diet
+               of roots and water, their coils of hair long as snakes, and their
+               lack of worldly interests.'
+        <sep/>
+        See also \BHG\ 3.37--43 on Łkāma$ as an enemy.
+        As for Łarihā$ in Łpāda$ d, the notion that a saint is a `destroyer of the enemies' 
+        [that are evil states of mind] (Łarihanta/arahanta$)
+        in Jainism, but less so in Buddhism, is discussed in 
+        <citep>GombrichWhat2013</citep><pnum>57--58</pnum>.</NOTE>
+
+% Brahmavihāras go back to the upaniṣads
+%folioinfo \msCa\ 397.jpg
+<TEXT> caturāyatanaṃ vipra kathayiṣyāmi tac{ }chṛṇu|</TEXT>
+        <TR>I shall teach you the four sanctuaries. Listen, O Brahmin.</TR>
+
+% Yogasūtra - Buddhism?
+<TEXT> karuṇā muditopekṣā maitrī cāyatanaṃ smṛtam||</TEXT> 4:71
+        <APP>\vc <LEM>mudito°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; muditau° \Ed</APP>
+        <APP>\vd <LEM>cāyatanaṃ</LEM> \mssALL\msCc\msNa\msNb\msNc\Ed; cāyatana \msCa, cāyata<UNCL>na</UNCL> \msCb</APP>
+        <NOTE>This verse teaches the four Buddhist Łbrahmavihāra$s under the label
+              Łcatur\-āyatana$. Therefore the word Łāyatana$ seems to be a synonym of Łvihāra$ here,
+              and its use a way of appropriating it, turning the list into a Brahmanical one,
+              unless the two terms are simply mixed up.</NOTE>
+        <TR>Compassion, sympathy in joy, indifference, and benevolence are the four sanctuaries.</TR>
+
+%index_buddhism: caturāyatana (brahmavihāras)
+
+%                could this use of the term Łāyatana$ for the four Buddhist 
+%                Łbrahmavihāra$s have been influenced by the following passage in the Dharmasamuccaya (date?)?
+%                        <skt>mokṣasyāyatanāni ṣaṭ |
+%                        apramādas tathā śraddhā vīryārambhas tathā dhṛtiḥ |
+%                        jñānābhyāsaḥ saṃtāśleṣo mokṣasyāyatanāni ṣaṭ ||1.3||
+%                        nava śāntisamprāptihetavaḥ |
+%                        dānaṃ śīlaṃ damaḥ kṣāntir maitrī bhūteṣv ahiṃsatā |
+%                        karuṇāmuditopekṣā śāntisamprāptihetavaḥ ||1.4||</skt>
+
+%folioinfo \msCb\ 417.jpg f.208r
+%folioinfo \msCc\ 196.jpg f.276v
+<TEXT> caturdhyānādhunā vakṣye saṃsārārṇavatāraṇam|</TEXT>
+        <TR>I shall now teach you the four meditations,
+                 which will liberate you from transmigration.</TR>
+        <NOTE>Note the \stemform\ Łdhyāna$ in °Łdhyānādhunā$ (for °Łdhyānam adhunā$) in Łpāda$~a.</NOTE>
+
+%index_grammar: stem form noun
+
+<TEXT> ātmavidyābhavaḥ sūkṣmaṃ dhyānam{ }uktaṃ caturvidham||</TEXT> 4:72
+        <APP>\vc  <LEM>°bhavaḥ</LEM> \msCb\msCcpcorr\msNa\msNb\msNc; °bhava \msCa\msCcacorr, °bhavaṃ \Ed</APP>
+        <APP>\vcd <LEM>sūkṣmaṃ dhyā°</LEM> \msCa\msNa\msNc\Ed; 
+                                        sūkṣmā<UNCL>nyā</UNCL>° \msCb,
+                                        sū<UNCL>kṣma</UNCL>dhyā° \msCc, sūkṣmadhyāna° \msNb</APP>
+        <APP>\vd  <LEM>°nam{ }uktaṃ caturvidham</LEM> \msCc\msNb; °nam{ }uktaś{ }caturvidham \msCa,
+                                                                      °nam{ }uktaś{ }caturvidhaḥ \msCb\msNa, 
+                                                                      °nam{ }uktaṃ caturvidhiṃ \msNc, °nayajñaś{ }ca \Ed</APP>
+        <TR>Meditation is taught to be fourfold: of the Self, Łvidyā$, Łbhava$ [= Śiva] 
+                                        and the subtle one (Łsūkṣma$).</TR>
+
+% Judit                         the kalās?
+<TEXT> ātmatattvaḥ smṛto dharmo vidyā pañcasu pañcadhā|</TEXT>
+        <APP>\va <LEM>smṛto</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; smṛtā \msCc\Ed\oo
+                 <LEM>dharmo</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; dhanyā \Ed</APP>
+        <NOTE>This verse is difficult to interpret. ŁPāda$s a to d should define Łātman$, Łvidyā$, 
+              Łbhava$ (i.e. Śiva), and Łsūkṣma$, objects of meditation, respectively.
+              In Łpāda$ a, Łdharmo$ is suspect: it may be the result of
+              an eyeskip to Łpāda$ a of the next verse. ŁPāda$ b might refer to Łtattva$s in an ontological
+              system of 25 Łtattva$s.</NOTE>
+        <TR>The Łtattva$ of the Self is Dharma. ŁVidyā$ is in the five in a fivefold way.</TR>
+% Dharma is eyeskip?
+
+<TEXT> ṣaṭtriṃśākṣaram{ }ity{ }āhuḥ sūkṣmatattvam{ }alakṣaṇam||</TEXT> 4:73
+        <APP>\vcd <LEM>āhuḥ sū°</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; ā\lk\lk\ \msCa</APP>
+        <NOTE>ŁPāda$ c seems a reference to a tantric 36-Łtattva$ ontological system,
+              in striking contrast with the 25-Łtattva$ system described in \VSS\ chapter 20.
+              Compare the rather similar Łdhyānayajña$ section in \VSS\ 6.7ff, in which
+              five types of meditations are taught. See analysis on pp. Intro \verify.</NOTE>
+        <TR>They call the thirty-sixth the imperishable one [Śiva].
+                        The subtle Łtattva$ has no attributes.</TR>
+
+%index_grammar: stem form noun
+
+% CHECK again the bull is the āśramas
+<TEXT> catuṣpādaḥ smṛto dharmaś{ }caturāśramam{ }āśritaḥ|</TEXT>
+        <APP>\vab <LEM>dharmaś{ }ca°</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; dharma ca° \msCc\msNb</APP>
+        <APP>\vb <LEM>°śritaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °śritāḥ \msNc</APP>
+        <TR>The four-legged [bull] is said to be Dharma [as] it rests on the four
+           disciplines (Łāśrama$),</TR>
+
+<TEXT> gṛhastho brahmacārī ca vānaprastho 'tha bhaikṣukaḥ||</TEXT> 4:74
+        <APP>\vd <LEM>bhaikṣukaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; bhakṣakaḥ \Ed</APP>
+        <PARAL>\vcd Ł = \MBH\ 12.234.13ab \similar\ \MBH\ 14.4513ab etc. $
+                \vo Ł\compare\ 3.4 above:$
+                śrutismṛtidvayor{ }mūrtiś{ }catuṣpādavṛṣaḥ sthitaḥ|
+                caturāśrama yo dharmaḥ kīrtitāni manīṣibhiḥ||</PARAL>
+        <TR>[those of] the householder, the chaste one, the forest-dweller and the mendicant.</TR>
+        % vāṇa \msCc
+        % found these parallels with python software
+
+<TEXT> dhanyās{ }te yair{ }idaṃ vetti nikhilena dvijottama|</TEXT>
+        <APP>\va <LEM>yair{ }idaṃ</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; yer{ }idaṃ \msCb\msCc\oo
+                 <LEM>vetti</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; veti \msCc</APP>
+        <NOTE>Note the ergative syntax with the plural instrumental (Łyair$) and a singular active verb.</NOTE>
+        <TR>Virtuous are those who know these thoroughly, O great Brahmin.</TR>
+
+%index_grammar: ergative, Newari?
+
+<TEXT> pāvanaṃ sarvapāpānāṃ puṇyānāṃ ca pravardhanam||</TEXT> 4:75
+        <APP>\vd <LEM>pravardhanam</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pravardhanaḥ \Ed</APP>
+        <TR>[They will experience] the purification of all sins and the growth of merits.</TR>
+
+<TEXT> āyuḥ kīrtir{ }yaśaḥ saukhyaṃ dhanyād{ }eva pravardhate|</TEXT>
+        <APP>\vb <LEM>dhanyād{ }eva</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; dharmād{ }eva \Ed</APP>
+        <TR>One's life-span, fame and glory, and happiness grow only through virtue (Łdhanya$).</TR>
+
+<TEXT> śāntiḥ puṣṭiḥ smṛtir{ }medhā jāyate dhanyamānave||</TEXT> 4:76
+        <APP>\vc <LEM>puṣṭiḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; \lk ṣṭiḥ \msCa\oo
+                 <LEM>smṛtir{ }medhā</LEM> \\mssALLmsCa\msCb\msNb\msNc\Ed; smṛti medhā \msCc\msNa</APP>
+        <APP>\vd <LEM>°mānave</LEM> \eme; °mānavaḥ \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <NOTE>Emending °Łmānavaḥ$ to °Łmānave$ might err by overcorrection, and °Łmānavaḥ$ may have originally
+              been felt like a genitive (`for a person\dots').</NOTE>
+        <TR>In a virtuous person piece, prosperity, tradition (Łsmṛti$) and intelligence will arise.</TR>
+
+
+
+
+<SUBCHAPTER>yameṣv{ }apramādaḥ (8)</SUBCHAPTER>
+<TRSUBCHAPTER>Eighth Yama-rule: avoiding mistakes</TRSUBCHAPTER>
+
+<TEXT> pramādasthāna pañcaiva kīrtayiṣyāmi tac{ }chṛṇu|</TEXT>
+        <APP>\va <LEM>°sthāna</LEM> \msCa\msCc\msNa\msNb; °sthānaṃ \msCb\msNc\Ed\ \unmetr\oo
+                 <LEM>pañcaiva</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pañcaivaṃ \Ed</APP>
+        <APP>\vb <LEM>kīrtayiṣyāmi</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; kīrtiyiṣyāmi \msNb</APP>
+        <NOTE>Note the \stemform\ noun in Łpāda$ a (°Łsthāna$) metri causa, and also 
+                        that this \stemform\ noun may function as a singular noun
+                        next to a number (Łpañca$), a frequently seen phenomenon in this text.</NOTE>
+        <TR>There are five areas of making serious mistakes. I shall teach them to you, listen.</TR>
+
+%index_grammar: stem form noun
+%index_grammar: singular after numbers? Newari, numeral follows noun
+
+% ṅgaṇāgamam \msCc
+<TEXT> brahmahatyā surāpānaṃ steyo gurvaṅganāgamam|</TEXT> 
+        <PARAL>\vcdef Ł\similar\ \MBH\ Suppl. 12.30:$
+                    brahmahatyāṃ surāpānaṃ steyaṃ gurvaṅganāgamam|
+                    mahānti pātakāny{ }āhuḥ saṃyogaṃ caiva taiḥ saha||
+                    Ł \similar\ \MANU\ 11.55 (in Olivelle's edition):$
+                    brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ|
+                    mahānti pātakāny{ }āhuḥ saṃsargaś{ }cāpi taiḥ saha||
+                Ł\compare\ also \YAJNS\ 3.228:$
+                        brahmahā madyapaḥ stenas{ }tathaiva gurutalpagaḥ|
+                        ete mahāpātakino yaś{ }ca taiḥ saha saṃvaset|| </PARAL>
+        <TR>Murdering a Brahmin, drinking alcohol, stealing, having sex with the guru's wife:</TR>
+
+% brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ ।168.024            purana/agni-puranam/168.txt
+
+%folioinfo \msM\ 420.jpg lower, f. 9r  
+<TEXT> mahāpātakam{ }ity{ }āhus{ }tatsaṃyogī ca pañcamaḥ||</TEXT> 4:77
+        <NOTE><sep/>
+              See the apparatus to the Sanskrit text for very similar verses in the \MBH, \MANU\ and 
+              the \YAJNS, and note how Łpāda$ f slightly deviates from \MANU\ 11.55, which is translated in
+                <citep>OlivelleManu</citep><pnum>217--218</pnum> as: 
+                        `Killing a Brahmin, drinking liquor, stealing, and having sex with an elder's  
+                         wife---they call these ``grievous sins causing loss of caste''; 
+                         and so is establishing any links with such individuals.'</NOTE> 
+        <TR>they call these grievous sins. The fifth is when one is connected with them
+                [i.e. with these sins or with people involved in these sinful acts].</TR>
+
+<TEXT> anṛtaṃ ca samutkarṣe rājagāmī ca paiśunaḥ|</TEXT>
+        <APP>\va <LEM>samutkarṣe</LEM> \eme; samutkarṣaṃ \msCa\msNa, 
+                                         samutka<UNCL>rṣa</UNCL> \msCb,
+                                         samutkarṣa \msCc\msNb\msNc\Ed</APP>
+        <APP>\vb <LEM>rāja°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; rājñī° \Ed</APP>
+        <TR>A lie concerning one's superiority, a slander that reaches the king's ear,</TR>
+% Judit concerns the king 
+% Flo Pañcatantra jackal etc.
+% anṛte ca samutkarṣo rājagāmi ca paiśunaṃ ।168.025            purana/agni-puranam/168.txt
+
+<TEXT> guroś{ }cālīkanirbandhaḥ samāni brahmahatyayā||</TEXT> 4:78
+        <APP>\vc <LEM>°nirbandhaḥ</LEM> \eme; °nirbaddhaḥ \msCb\msNc, nibaddhas \msCa\msCc\msNa\msNb, nirvaddhas \Ed</APP>
+        <APP>\vd <LEM>brahmahatyayā</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; bra\lk\lk \lk yā \msCa</APP>
+        <PARAL>\vo \similar\ Ł\MBH\ 5.40.3 and \MANU\ 11.56:$
+                 anṛtaṃ ca samutkarṣe rājagāmi ca paiśunam|
+                 guroś{ }cālīkanirbandhaḥ samāni brahmahatyayā||
+                Ł\similar\ \VISNUS\ 37.1--4 \similar\ \AGNIP\ 168.25$</PARAL>
+        <NOTE>This verse being a quotation of \MANU\ 11.56, my translation 
+              is based on <citep>OlivelleManu</citep><pnum>218</pnum>.
+              On lies and slander (or `malignant speech,' Łpiśuna$), see also \VSS\ 4.69 and 8.25--28.</NOTE>
+        <TR>and false accusations against an elder are equal to killing a Brahmin.</TR>
+
+
+<TEXT> brahmojjhaṃ vedanindā ca kūṭasākṣī suhṛdvadhaḥ|</TEXT>
+        <APP>\va <LEM>brahmojjhaṃ</LEM> \eme; brahmo ṛg° \mssCaCbCc\msNa\msNb\msNc, brahma ṛg° \Ed</APP>
+        <APP>\vb <LEM>suhṛd{ }vadhaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; sakṛd{ }budhaḥ \Ed</APP>
+        <NOTE>This verse continues quoting \MANU. ŁPāda$ a in the witnesses may actually be no more than the result of 
+              misreading of the syllable Łjjha$ in \MANU\ 11.57. Note the variant Łbrahmojjhaṃ vedanindā ca$
+              in both the `Northern' and `Southern' transmissions in Olivelle's critical edition 
+              of \MANU\ (<citep>OlivelleManu</citep><pnum>847</pnum>).</NOTE>
+        <TR>Abandoning the Vedas, reviling the Vedas, being a false witness, murdering a friend,</TR>
+% brahmo is strange form
+% Brahma veda = Atharvaveda Nirajan 
+
+<TEXT> garhitānādyayor{ }jagdhiḥ surāpānasamāni ṣaṭ||</TEXT> 4:79
+        <APP>\vc <LEM>°nādyayor{ }jagdhiḥ</LEM> \eme; °nnañ{ }ca yo jagdhis \msCa, °nnañ{ }ca yo jagdhi \msCb,
+                                 °nnañ{ }ca yodvignaḥ \msCc, °nnaṃ ca yo jagdhiḥ \msNa, °nnaṃ ca yo jagdhiḥ \msNb,
+                                 °nnañ{ }ca yo jave \msNc, °nnaś{ }ca yo vipraḥ \Ed</APP>
+        <PARAL>\vo \similar\ Ł\MANU\ 11.57:$
+                        brahmojjhatā vedanindā kauṭasākṣyaṃ suhṛdvadhaḥ|
+                        garhitānādyayor{ }jagdhiḥ surāpānasamāni ṣaṭ||
+                Ł\compare\ \YAJNS\ 3.229:$
+                        gurūṇām{ }adhyadhikṣepo vedanindā suhṛdvadhaḥ|
+                        brahmahatyāsamaṃ jñeyam{ }adhītasya ca nāśanam||</PARAL>
+        <TR>eating unfit or forbidden food are six [deeds that are] equal to drinking alcohol.</TR>
+
+<TEXT> retotsekaḥ svayonyāsu kumārīṣv{ }antyajāsu ca|</TEXT>
+        <APP>\va <LEM>svayonyāsu</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; sutonyāsu \msCb</APP>
+        <TR>Sexual intercourse with a female relative, with an unmarried girl,
+                 with women of the lowest castes,</TR>
+% Judit like in tantric text : śiroddeśa from śirodeśa, keep it, it does not mean ut-! originally phps some gemination
+% retaḥsekaḥ svayonyāṣu kumārīṣvantyajāsu ca ।168.028            purana/agni-puranam/168.txt
+
+<TEXT> sakhyuḥ putrasya ca strīṣu gurutalpasamaḥ smṛtaḥ||</TEXT> 4:80
+        <APP>\vc <LEM>sakhyuḥ</LEM> \eme; sakhya \mssCaCbCc\msNa\Ed, \lk\lk\ \msNb, sa<UNCL>khyu</UNCL> \msNc\oo
+                 <LEM>putrasya ca strīṣu</LEM> \mssALL\mssCaCbCc\msNa\msNc; 
+                                                \lk\lk\lk\lk\lk\lk\ \msNb, putrīṣu cāstrīṣu \Ed</APP>
+        <APP>\vd <LEM>°samaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc; \lk\lk\ \msNb, °sama \Ed</APP>
+        <PARAL>\vo \similar\ Ł\MANU\ 11.59:$
+                                retaḥsekaḥ svayonīṣu kumārīṣv{ }antyajāsu ca|
+                                sakhyuḥ putrasya ca strīṣu gurutalpasamaṃ viduḥ||</PARAL>
+        <NOTE>The text, and my emendation in Łpāda$ c, still follow \MANU\ (11.59).</NOTE>
+        <TR>with the wife of a friend or of one's own son are said to be equal to violating the guru's bed.</TR>
+% Flo Śivadharmaśāstra/Śivadharmottara Manu quotations are better/more Manu, more faithful
+                % sakhyuḥ putrasya ca(3) strīṣu gurutalpasamaṃ viduḥ ॥168.028            purana/agni-puranam/168.txt
+
+<TEXT> nikṣepasyāpaharaṇaṃ narāśvarajatasya ca|</TEXT>
+        <APP>\va <LEM>nikṣepa°</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; nikhepa° \msCb, <UNCL>nikṣepa</UNCL>° \msNb</APP>
+        <APP>\vb <LEM>narāśvarajatasya</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; narāṇāṃ svajanasya \msCb, 
+                                                        <UNCL>narāśvarajatasya</UNCL> \msNb</APP>
+        <TR>Stealing deposits, people, horses, silver,</TR>
+        %        nikṣepasyāpaharaṇaṃ narāśvarajatasya ca ।168.027            purana/agni-puranam/168.txt
+
+%folioinfo \msNc\ 219.jpg lower, 217r
+% manīnāṃ \msCb
+<TEXT> bhūmivajramaṇīnāṃ ca rukmasteyasamaḥ smṛtaḥ||</TEXT> 4:81
+        <APP>\vd <LEM>rukmasteya°</LEM> \eme; <UNCL>rūgya</UNCL>\lk ya° \msCa,
+                                rugmasteya° \msCb\msCc\msNa\msNc, \lk\lk \lk\lk\ \msNb, hṛtasteya° \Ed\oo
+                 <LEM>°samaḥ</LEM> \mssALL\msCa\msCbpcorr\msCc\msNa\msNb\msNc; saḥ \msCbacorr, °sama \Ed</APP>
+        <PARAL>\vo Ł= \MANU\ 11.58 $</PARAL>
+        <NOTE>This is \MANU\ 11.58. I have emended Łrugma$° to Łrukma$° in Łpāda$ d, although
+              Łrugma$° is attested in a great number of Southern MSS and one Śāradā MS in
+               <citep>OlivelleManu</citep><pnum>847</pnum>.</NOTE>
+        <TR>land, diamonds, or gems are said to be equal to stealing gold.</TR>
+%nikṣepasyāpaharaṇaṃ narāśvarajatasya ca|
+%bhūmivajramaṇīnāṃ ca rukmasteyasamaṃ smṛtam||
+% Nirajan rugma might be acceptable
+% bhūmivajramaṇīnāñca rukmasteyasamaṃ smṛtaṃ ॥168.027            purana/agni-puranam/168.txt
+
+<TEXT> catvāra ete sambhūya yat{ }pāpaṃ kurute naraḥ|</TEXT>
+        <APP>\va <LEM>ete</LEM> \mssALL\mssCaCbCc\msNa\msNc; <UNCL>ete</UNCL> \msNb, eva \Ed\oo
+                 <LEM>sambhūya</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; saṃbhūyo \msCc, <UNCL>saṃbhūyo</UNCL> \msNb</APP>
+        <TR>Since a man commits sin if [any of these] four [i.e. Łbrahmahatyā, surāpāna, stena, gurvaṅganāgama$],
+                 occurs,</TR>
+
+<TEXT> mahāpātaka pañcaitat tena sarvaṃ prakāśitam|</TEXT> 
+        <APP>\vc <LEM>°pañcaitat</LEM> \corr; °pañcaitan \mssCaCbCc\Ed, °pañcaite \msNa,
+                                              °pañcaitam \msNb, °pañcetan \msNc</APP>
+        <NOTE>Perhaps understand Łpāda$ c as Łetan mahāpātakapañcakaṃ$.</NOTE>
+        <TR>therefore all the five grievous sins have been explained.</TR>
+
+<TEXT> pañcapramādam{ }etāni varjanīyaṃ dvijottama||</TEXT> 4:82
+        <APP>\ve <LEM>°mādam</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °māda \Ed</APP>
+        <APP>\vf <LEM>varjanīyaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; varjanīyo \msCc</APP>
+        <NOTE>Note the confusion of number and gender: understand Łpañca pramādāḥ etā varjanīyāḥ$.</NOTE>
+        <TR>These five kinds of mistakes are to be avoided, O great Brahmin.</TR>
+
+%index_grammar: gender
+
+<SUBCHAPTER>yameṣu mādhuryam (9)</SUBCHAPTER>
+<TRSUBCHAPTER>Ninth Yama-rule: charm</TRSUBCHAPTER>
+
+% on kāyavāg etc. see Manu 12.3
+% Törzsök
+<TEXT> kāyavāṅmanamādhuryaś{ }cakṣur{ }buddhiś{ }ca pañcamaḥ|</TEXT>
+        <APP>\vab <LEM>manamādhuryaś{ }ca°</LEM> \eme; °manasā dhūryaś{ }ca° \msCa\msCc\msNa\msNc,
+                                                        °mana<UNCL>mā</UNCL>dhūryaś{ }ca° \msCb,
+                                                       °mana\lk dhūrya\lk ° \msNb, °manasā bhūyaś{ }ca° \Ed</APP>
+        <APP>\vb <LEM>°kṣur{ }buddhi°</LEM> \msCa\msCb\msNc\Ed; °kṣu buddhi° \msCc\msNa, \lk\lk \lk\  \msNb</APP>
+        <NOTE>My emendation from °Łmanasā dhūryaś$ to °Łmana-mādhuryaś$ is based on the fact that following the list
+                of Łyama$s in 3.16, we need some reference to Łmādhurya$ here and that it is easy to see how this
+                 corruption came about: °Łmano-mādhurya$° would be unmetrical, hence the form °Łmana-mādhurya$;
+                        °Łmana-mā$° is easily corrupted to °Łmanasā$° (not to mention the fact 
+                        that Łmanasā$ comes up in the next verse). 
+                        In addition, we need five items in this line because of Łpañcamaḥ$.
+                        As always, I correct Łmādhūrya$ to Łmādhurya$, although it seems that 
+                        the former is acceptable in this text. 
+                        I did not correct Łmādhuryaś$ to Łmādhuryaṃ$ because of the corresponding
+                        Łpañcamaḥ$.</NOTE>
+        <TR>[Charm has five types:] bodily, verbal and mental charm, 
+                        [charm of] the eyes and [of one's] thoughts as fifth.</TR>
+
+<TEXT> saumyadṛṣṭipradānaṃ ca krūrabuddhiṃ ca varjayet||</TEXT> 4:83
+        <APP>\vc <LEM>°dānaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNc; \lk\lk\ \msNb, °dānaś{ }ca \Ed</APP>
+        <APP>\vd <LEM>°buddhiṃ ca</LEM> \msCa\msNa\msNc; buddhiś{ }ca \msCb, °dṛṣṭiṃ ca \msCc\Ed, \lk\lk \lk\ \msNb</APP>
+        <TR>Giving [others] a friendly glance [is commendable] and one should avoid cruel thoughts.</TR>
+
+<TEXT> prasannamanasā dhyāyet{ }priyavākyam{ }udīrayet|</TEXT>
+        <APP>\va <LEM>prasanna°</LEM> \mssALL\mssCaCbCc\msNa\Ed; <UNCL>prasanna</UNCL>° \msNb, prasaṃna° \msNc</APP>
+        <NOTE>ŁPāda$s cd of the previous verse, and Łpāda$s ab of the present one cover
+              four categories of the above: Łcakṣurmādhurya$, Łbuddhimādhurya$, Łdṛṣṭimādhurya$ and Łvāgmādhurya$.
+              This suggests that what follows is on Łkāyamādhurya$.</NOTE>
+        <TR>One should meditate with a tranquil mind and should speak [to other people using] gentle words.</TR>
+
+%folioinfo \Ed\ p.597
+\msNa\ 202.jpg lower, f.9r
+<TEXT> yathāśaktipradānaṃ ca svāśramābhyāgato guruḥ||</TEXT> 4:84
+        <APP>\vc <LEM>yathā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; yasya \Ed\oo
+                 <LEM>°dānaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °dātaś \Ed</APP>
+        <APP>\vd <LEM>svāśramā°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; svāsamā° \msCc\oo
+                 <LEM>°gato</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °sato \msNc</APP>
+        <NOTE>Emending Łpāda$ d to Łsvāśramābhyāgate gurau$ would make the line smoother.</NOTE>
+        <TR>[When] respectable people arrive at one's own hermitage,
+                       [one should] present them with as many gifts as one can,</TR>
+
+%folioinfo \msCc\ 197.jpg, f. 277r
+<TEXT> indhanodakadānaṃ ca jātavedam{ }athāpi vā|</TEXT>
+        <APP>\vb <LEM>indhano°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; itvano° \msNc\oo
+                 <LEM>jāta°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; jā° \msCb</APP>
+        <NOTE>Understand Łjātavedam$ in Łpāda$ b as Łjātavedasam$ or Łjātavedāḥ$,
+                or rather as belonging to the compound °Łdānaṃ$: Łjātavedodānaṃ$.</NOTE>
+        <TR>with gifts of fire-wood, water and fire.</TR>
+
+<TEXT> sulabhāni na dattāni indhanāgnyudakāni ca|</TEXT>
+        <APP>\vc <LEM>sulabhāni na</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; surabhāni ca \Ed</APP>
+        <APP>\vd <LEM>°dakāni</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °<UNCL>ta</UNCL>kāni \msNb</APP>
+        <TR>[If] fire-wood, fire and water are easily available [but] are not given [as gift]</TR>
+
+<TEXT> kṣute jīveti vā noktaṃ tasya kiṃ parataḥ phalam||</TEXT> 4:85
+        <APP>\ve <LEM>kṣute</LEM> \conj; kṣutaṃ \mssCaCbCc\msNa\msNb\msNc, śataṃ \Ed</APP>
+        <NOTE>For Łpāda$ e, see an Āryāgīti verse in the \MAHASUBHS\ (2558): 
+        <sep/>
+                Łamṛtāyatām iti vadet pīte bhukte kṣute ca śataṃ jīva$ |<br/>
+                Łchoṭikayā saha jṛmbhāsamaye syātāṃ cirāyurānandau$ ||
+        <sep/>
+                `When eating or drinking, one should say: ``May it turn into nectar!''; 
+                 and after sneezing: ``Live for a hundred years!''
+                 By snapping the thumb and forefinger when yawning, there will be long life and happiness.'</NOTE>
+        <TR>or [if the phrase] `Live [for a hundred years]!' is not uttered when [somebody]
+                sneezes, what reward could there be for such a person in the afterlife?</TR>
+
+
+
+
+<SUBCHAPTER>yameṣv{ }ārjavam (10)</SUBCHAPTER>
+<TRSUBCHAPTER>Tenth Yama-rule: sincerity</TRSUBCHAPTER>
+
+<TEXT> pañcārjavāḥ praśaṃsanti munayas{ }tattvadarśinaḥ|</TEXT>
+        <APP>\va <LEM>pañcārjavāḥ</LEM> \msCa\msCb\msNa\msNc; pañcārjavaḥ \msCc, \lk\lk \lk\lk\ \msNb, pañcārjavā \Ed\oo
+                 <LEM>praśaṃsanti</LEM> \mssCaCbCc\msNc; praśasanti \msNa\Ed, <UNCL>prasasanti</UNCL> \msNb</APP>
+        <NOTE>°Łārjavāḥ$ should be in the accusative, therefore it is to be taken as feminine (rather than neuter) or as
+               an irregular form for °Łārjavāni$. I have emended Łpāratoṣikam$ to Łpāritoṣikam$.</NOTE>
+        <TR>The sages who see the truth praise five types of sincerity.</TR>
+
+%folioinfo \msCa\ 398.jpg
+% pāratoṣika also pāritoṣika as salary
+<TEXT> karmavṛttyābhivṛddhiṃ ca pāritoṣikam{ }eva ca|</TEXT>     
+        <APP>\vc <LEM>karma°</LEM> \mssALL\msCb\msCc\msNa\msNc\Ed; \lk rmma° \msCa, <UNCL>kammā</UNCL>° \msNb\oo
+                 <LEM>°vṛttyābhivṛddhiṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNc;
+                                °vṛttibhivṛddhiñ{ }ca \msNb, °vṛtyābhivṛddhiś{ }ca \Ed</APP>
+        <APP>\vd <LEM>pāritoṣika°</LEM> \eme; pāratoṣika° \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <TR>A sincere person does not rejoice in prosperity arising from the operation of karma or by a reward,</TR>
+
+<TEXT> strīdhanotkocavittaṃ ca ārjavo nābhinandati||</TEXT> 4:86
+        <APP>\ve <LEM>strīdhanotkoca°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; strīdhanaṅgo ca \Ed\oo
+                 <LEM>°vittaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °vittiñ{ }ca \msNb</APP>
+        <APP>\vf <LEM>ārjavo nā°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; ārjavañ{ }ca \msCc, ārjjavenā° \Ed</APP>
+        <NOTE>My translation of the categories listed here is tentative, the only guiding light being
+              that, if the first line is right, there should be five of them. In addition, I have tried to
+              find categories that seem to be, more or less, in conflict with `sincerity' or `straightness.'</NOTE>
+        <TR>in riches from women, from property, and bribery.</TR>
+
+
+<TEXT> ārjavo na vṛthā yajña ārjavo na vṛthā tapaḥ|</TEXT>
+        <APP>\vab <LEM!>ārjavo na vṛthā yajña ārjavo na vṛthā tapaḥ</LEM> \mssCaCbCc\msNb\msNc; \om\ \msNaacorr,
+                                                 ārjavo na vṛthā yajña ārjavo na vṛthā tapa \msNapcorr,                  
+                                                 ārjavo na vṛthā yajñaś{ }cārrjavo na vṛthā tapaḥ \Ed</APP>
+        <TR>If one is not sincere, sacrifice is in vain. If one is not sincere, austerity is in vain.</TR>
+
+<TEXT> ārjavo na vṛthā dānam{ }ārjavo na vṛthāgnayaḥ||</TEXT> 4:87
+        <APP>\vcd <LEM>(ārjavoŁ...$ vṛthāgnayaḥ)</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; \om\ \Ed</APP>
+        <TR>If one is not sincere, gifting is in vain. If one is not sincere, [sacrificial] fires are in vain.</TR>
+%I thank Nirajan Kafle for helping me interpret this verse.
+
+<TEXT> ārjavasyendriyagrāmaḥ suprasanno 'pi tiṣṭhati|</TEXT>
+        <APP>\vab <LEM>(ārjava°Ł...$ tiṣṭhati)</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; \om\ \Ed</APP>
+        <APP>\va <LEM>°grāmaḥ</LEM> \msCa\msCb\msNc\Ed; °grāmāt \msCc\msNb, °grāmāḥ \msNa</APP>
+        <TR>The sense faculties of a sincere person are firm even when he is delighted.</TR>
+% apitiṣṭhati in one word? Nirajan Śaṅkara bhāṣya to Bṛhadāraṇyaka
+
+<TEXT> ārjavasya sadā devāḥ kāye tasya caranti te||</TEXT> 4:88
+        <APP>\vd <LEM>tasya caranti</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; ta\lk\lac2 ×× nti \msCa, tasya ramanti \Ed</APP>
+        <TR>The gods are always present in the body of a sincere person.</TR>
+
+
+<NOTANUSTUBH/> mālinī 
+<TEXT> iti yamapravibhāgaḥ kīrtito 'yaṃ dvijendra</TEXT>
+        <APP>\va <LEM>yamapravibhāgaḥ</LEM> \msCa\msCb\msNb\msNc; yamavibhāgaḥ \msCc,
+                                yamapraribhāgaḥ \msNa, niyamaparibhāgaḥ \Ed\oo
+                 <LEM>dvijendra</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; narendra \Ed</APP>
+        <NOTE>In Łpāda$ a °Łpra$° does not make the previous syllable long: this is the phenomenon of
+                `muta cum liquida,' or \mutacumliquida, one of the hallmarks of the \VSS, 
+                that is, syllables such as Łtra, pra, bra, dra$ do not necessarily make the 
+                previous syllable long.</NOTE>
+        <TR>Thus has been taught this section on the Yama-rules, O great Brahmin.</TR>
+
+%index_metre: licence pr muta cum liquida 
+
+%                                       taṃ? tat in \msCc
+<TEXT> iha parata sukhārthaṃ kārayet{ }taṃ manuṣyaḥ|</TEXT>
+        <APP>\vb <LEM>°yet{ }taṃ manuṣyaḥ</LEM> \corr; °yet{ }tan{ }manuṣyaḥ \msCa\msNa\msNb\msNc\Ed, °yet{ }ta manuṣyaḥ \msCb,
+                                                                 °yet{ }tat{ }manuṣyaḥ \msCc</APP>
+        <NOTE>In Łpāda$ b, Łparata$ most probably stands for Łparatra$ or Łparataḥ$ metri causa. 
+              We may correct it to Łparatra$, presupposing the presence of the \mutacumliquida.</NOTE>
+        <TR>Humans should follow them to reach happiness here and in the other world.</TR>
+
+<TEXT> duritamalapahārī śaṅkarasyājñayāste</TEXT>
+        <APP>\vc <LEM>durita°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; irita° \Ed\oo
+                 <LEM>°pahārī</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °palapahārī \msCc\oo
+                 <LEM>°jñayāste</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; °jñayāte \msNa</APP>
+        <NOTE>°Łmalapahārī$ in the MSS stands either for °Łmalāpahārī$ or °Łmalaprahārī$ metri causa. 
+                I could have chosen to emend it to °Łmalaprahārī$ again 
+                applying the \mutacumliquida,
+                but I decided not to because Łapahārin$, Łapahāra$, 
+                Łapahāraka$ are used in the text very frequently. 
+                See also 8.44c, which contains a very similar expression:
+                Łsakalamalapahāre dharmapañcāśad etat$.</NOTE>
+        <TR>One will remove the filth of sins, and shall by Śaṅkara's command</TR>
+
+ % should it not be cchatra? unmetr...  eme: pravartā (pravartṛ)
+% cakravartā 
+% ekāṭapattra Nirajan like my pravṛtṛ
+<TEXT> bhavati pṛthivibhartā hy{ }ekachatrapravartā||</TEXT> 4:89
+        <APP>\vd <LEM>°vartā</LEM> \conj; °vṛttā \mssCaCbCc\msNb\msNc, °vṛttāḥ \msNa\Ed</APP>
+        <TR>become a ruler of the world [that he subjugates] under one royal umbrella.</TR>
+% एकातपत्रं जगतः 
+
+%index_metre: mālinī
+
+<ANUSTUBH/>
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe yamavibhāgo nāmādhyāyaś{ }caturthaḥ</COLOPHON></TEXT>
+        <APP> Ł\Colo:$ <LEM>nāmādhyāyaś{ }caturthaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc;
+                                                         nāmaś{ }caturtho 'dhyāyaḥ \Ed</APP>
+        <TRCOLOPHON>Here ends the fourth chapter in the ŁVṛṣasārasaṃgraha$ called Section on the Yama-rules.</TRCOLOPHON>
+
+%END OF CHAPTER 4
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%lacuna_end: msM
+
+

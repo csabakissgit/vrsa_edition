@@ -1,0 +1,752 @@
+<START/>
+<startchapter-n="23"/> 
+%chapter 23
+%folioinfo \Ed\ p.670
+%folioinfo \msCa\ 464.jpg line 5
+%folioinfo \msCb\ 471.jpg line 6
+%folioinfo \msCb\ 251.jpg line 5
+%folioinfo \msNa\ 235.jpg upper line 5 f.235r
+%folioinfo \msNb\ 79.jpg lower line 2
+%folioinfo \msNc\ 252.jpg lower line 5
+%folioinfo \msM\ 448.jpg upper, f. 45v line 1
+<CHAPTER>trayoviṃśatitamo 'dhyāyaḥ</CHAPTER>
+<TRCHAPTER>Chapter Twenty-Three</TRCHAPTER>
+
+<SUBCHAPTER>devadānavavipakṣatā</SUBCHAPTER>
+<TRSUBCHAPTER>Enmity between gods and demons</TRSUBCHAPTER>
+<ANUSTUBH/>
+<TEXT> janamejaya uvāca|*</TEXT>
+        <TR>Janamejaya spoke:</TR>
+
+<TEXT> devānāṃ dānavānāṃ ca uttarāraṇim{ }eva ca|</TEXT>
+        <APP>\vab <LEM>dānavānāṃ ca uttarāraṇim{ }eva</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed;
+                               dā\lac7 ××××××× ṇim{ }eva \msCa,
+                                dānavānāñ{ }ca uttaraṇim{ }eva \msCc</APP>
+        <TR>Please teach me about the gods and demons (Łdānava$),
+                         the upper churning stick (Łuttarāraṇi$) [used at the churning of the ocean],</TR>
+
+%folioinfo \msCb\ 472.jpg f.235v
+<TEXT> vidviṣanti ca te 'nyonyaṃ kāraṇaṃ tasya kīrtaya||</TEXT> 23:1
+        <APP>\vd <LEM>tasya</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; ta<UNCL>sya</UNCL> \msNa</APP>
+        <TR>and about the reason why they [i.e. the gods and the demons] hate each other.</TR>
+
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+        <TR>Vaiśampāyana spoke:</TR>
+
+<TEXT> pāpapuṇyasvabhāvābhyāṃ devadaityasya bhūpate|</TEXT>
+        <NOTE>Note how odd the word-order within the compounds in Łpāda$s ab is:
+                it suggests that Łpāpa$ belongs to Łdeva$s and Łpuṇya$ to Łdaitya$s;
+                it is surely to be understood in the opposite way.</NOTE>
+        <TR>O king, because the gods have a meritorious nature, and
+                the demons (Łdaitya$) have a sinful one,</TR>
+
+<TEXT> dharmapakṣasmṛto devo dānavo 'dharmapakṣataḥ||</TEXT> 23:2
+        <APP>\vc <LEM>dharmapakṣa°</LEM> \msNa\msNc; dharme pakṣaḥ \msCa, dharmapakṣaḥ \msCb\Ed,
+                                                                dharmaḥ pakṣaḥ \msCc, dharmmapakṣāḥ \msNb\oo
+                 <LEM>devo</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; devā \Ed</APP>
+        <APP>\vd <LEM>'dharma°</LEM> \Ed; darppa° \mssCaCbCc\msNb, darpa° \msNa\msNc</APP>
+        <TR>a god is considered to be on the side of Dharma and a demon (Łdānava$) on the
+                side of Adharma [or: pride?].</TR>
+
+%folioinfo: \msCc 252.jpg f. 317v
+<TEXT> hetunā tena rājendra anyonyaṃ vidviṣanti te|</TEXT>
+        <APP>\va <LEM>hetunā tena</LEM> \msCa\msNa\msNb\Ed; hetunānena \msCb\msCc\msNc</APP>
+        <APP>\vb <LEM>anyonyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; anyonya \msNb</APP>
+        <TR>That is the reason why they hate each other, O great king.</TR>
+
+% sandhi !!
+<TEXT> devadveṣṭāsurāḥ sarve vibudhāś{ }cāsuradviṣaḥ||</TEXT> 23:3
+        <APP>\vc <LEM!>devadveṣṭāsurāḥ sarve</LEM> \eme; devadveṣṭāsuraḥ sarve \msNa\Ed, 
+                       <UNCL>de</UNCL>vadve<UNCL>ṣṭā</UNCL>suras \lac2 ×× \msCa,
+                                                        devadveṣṭāsuraḥ sarvo \msCb\msNcpcorr,
+                                                        devadveṣṭā'svarā sarvo \msCc,
+                                                        devadveṣṭā'suras{ }sarvo \msNb,
+                                                        devadveṣṭāsura sarvo \msNcacorr</APP>
+        <APP>\vd <LEM>vibudhā°</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; \lac2 ×× dhā° \msCa\oo
+                 <LEM>°suradviṣaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °surasidvaṣaḥ \msNc</APP>
+        <TR>All the demons (Łasura$) hate the gods, and all the gods (Łvibudha$) hate the demons.</TR>
+
+
+
+
+<SUBCHAPTER>dharmādharmavipakṣatā</SUBCHAPTER>
+<TRSUBCHAPTER>Enmity between Dharma and Adharma</TRSUBCHAPTER>
+%folioinfo \msCa\ 465.jpg
+%folioinfo \msNa\ 235.jpg lower
+<NOTANUSTUBH/> śārdūlavikrīḍita 
+%        -  -  -  . . -  . -   . . .  -    - - . -  - .  -
+<TEXT> dharmādharmavipakṣatāṃ śṛṇu parāṃ bhūtānukampodayāṃ</TEXT>
+        <APP>\va <LEM>°vipakṣatāṃ</LEM> \msCc\Ed; °vivakṣatāṃ \msCa\msNa\msNb\msNc, °vivakṣitāṃ \msCb\oo
+                 <LEM>parāṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; parā \msNc\oo
+                 <LEM>°kampodayām</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °kampādayām \Ed</APP>
+        <TR>Listen to the supreme [description of the] enmity between Dharma and Adharma. 
+                It induces compassion towards living beings.</TR>
+% kākapada with dot in \msNb above parāṃ !!
+
+%                                         nirmāṇam \msCb
+<TEXT> satyaṃ śaucam{ }ahiṃsatā dama śamo nirmānam{ }īrṣāruṣā|</TEXT>
+        <APP>\vb <LEM>°rṣā°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; °ṣā° \msCb, °rṣyā° \Ed</APP>
+        <NOTE>Note that in Łpāda$ b Łīrṣā$ (`envy'), and potentially Łruṣā$ (`anger'), if
+             not read as Łaruṣā$, should mean just the opposite.</NOTE>
+        <TR>Truth, purity, non-violence, self-restraint, tranquillity, freedom from pride,
+                [from] envy and anger,</TR>
+
+%folioinfo: \msNc 253.jpg upper
+<TEXT> tṛṣṇālobharatasya kāmaviṣayaḥ sarvendriyāṇāṃ jayaḥ</TEXT>
+        <APP>\vc <LEM>°ratasya</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °tarasya \msNb\oo
+                 <LEM>sarvendriyāṇāṃ jayaḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; \om\ \msCb</APP>
+        <NOTE>I translate Łpāda$ c as if it read Łtṛṣnālobharatāṇāṃ kāmaviṣayāṇāṃ sarvendriyāṇāṃ ca jayaḥ$.</NOTE>
+        <TR>conquering all the senses that indulge in the desirous objects because of thirst and greed,</TR>
+% viṣaya going with jaya maybe?
+
+<TEXT> ādhyātmeṣu ratiḥ prasannamanaso nirdvandvasarvālayaḥ||</TEXT> 23:4
+        <APP>\vd <LEM>prasannamanaso nirdvandva°</LEM> \msCb\msNa\msNb\Ed; 
+                                prasanna\lac5 ××××× \msCa, prasannamanaso nirdvadva° \msCc, 
+                                prasannamanaso nirdandva° \msNc</APP>
+        <TR>rejoicing in spiritual knowledge (Łādhyātma$), having a peaceful mind,
+                an abode of the indifference to all opposites,</TR>
+
+% śaśva ! Aiśa
+<TEXT> pāpopekṣaṇaśaśvapuṇyamuditā dīneṣu kāruṇyatā</TEXT>
+        <APP>\va <LEM>pāpo°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pāpā° \Ed\oo
+                 <LEM>°śaśva°</LEM> \mssALL\mssCaCbCc\msNa\msNb; °śaśca° \msNc\Ed\oo
+                 <LEM>°muditā</LEM> \mssALL\mssCaCbCc\msNa\msNb; °mudito \msNc\Ed\oo
+                 <LEM>dīneṣu</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; dāneṣu \msCc</APP>
+        <NOTE>Note °Łśaśva$° for °Łśaśvat$° metri causa.</NOTE>
+        <TR>disregarding sin, always rejocing in [other people's merit], compassion for the miserable,</TR>
+
+<TEXT> dānaṃ śīladhṛtikṣamājapatapaḥ svādhyāyamaune ratiḥ|</TEXT>
+        <APP>\vb <LEM>svādhyāya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; svādhyāye \msNc\ \unmetr</APP>
+        <TR>donation, virtue, firmness, patience, recitation, austerity, rejoicing in
+                study and silence,</TR>
+
+<TEXT> yogābhyāsaratir{ }divaukasagaṇe jñāne ca sāṃkhye tathā</TEXT>
+        <APP>\vc <LEM>yogābhyāsaratir{ }divaukasa°</LEM> \msCa\msNb; 
+                       yogābhyāsaratidivaukasa° \msCb\msCc\msNa\ \unmetr, 
+                       yogā<UNCL>bhyāsara</UNCL>tir{ }divaukasa° \msNc,
+                       yogabhyāsaratidivaikasa° \Ed\ \unmetr\oo
+                 <LEM>°gaṇe</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °gaṇa° \msCc</APP>
+        <TR>rejoicing in yoga practice, in the gods in the sky, in knowledge, and in Sāṃkhya,</TR>
+
+% yajña (m) gender
+<TEXT> akrodhārjavatejayajñam{ }abhayaḥ saṃtoṣa adrohatā||</TEXT> 23:5
+        <APP>\vd <LEM>°bhayaḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; °bhayas \msCa, °bhayaṃ \Ed\oo
+                 <LEM>saṃtoṣa</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; satoṣa \msNb\ \unmetr</APP>
+        <NOTE>Probably understand Łabhayaḥ$ in Łpāda$ d as neuter nominative Łabhayaṃ$.</NOTE>
+        <TR>an absence of anger, as well as honesty, energy and sacrifices, 
+            fearlessness, contentedness, being free from malice,</TR>
+
+
+%        - -  -  . .! -    . - . . . -  - -  . - -  .  -
+<TEXT> tyāgo mārdava hrīr{ }acāpalaratir{ }nyāsābhimāno 'grahāt</TEXT>
+        <APP>\va <LEM>°hrīr{ }acāpalaratir{ }nyāsā°</LEM> \msCb\msNc\Ed;
+                        <UNCL>hrī</UNCL>\lac4 ×××× ratir{ }nyāsā° \msCa, °hrīr{ }acāpalaratinyāsā° \msCc\msNa\msNb</APP>
+        <NOTE>Note the Łkrama$ licence in Łpāda$s a and b concerning the syllables Łhrī$ and Łśra$,
+                        respectively. In Łpāda$ b, I take Łnyāsābhimāno$ as if reading
+                        Łnyastābhimāno$.</NOTE>
+        <TR>resigning, softness, modesty, not indulging in unsteadiness, casting away
+            self-conceit because of the absence of taking anything.??</TR>
+
+% agrahāt for nominative?
+%index_grammar: licence hra
+
+%       -   -  - . . - .  - . . . -       - -  .! -    - . -
+<TEXT> maitrībhāvasadārapaiśunamatir{ }brāhmaṇyaśraddhānvitaḥ|</TEXT>
+        <APP>\vb <LEM>°matir{ }brāhmaṇya°</LEM> \msCa\msNa\Ed; °matibrahmaṇya° \msCb, °matibrāhmaṇya° \msCc\msNc,
+                                                                °matibrahmāṇya° \msNb\oo
+                 <LEM>°nvitaḥ</LEM> \msNa; °nvitā \mssCaCbCc\msNb\Ed, °nvitāḥ \msNc</APP>
+        <NOTE>I interpret the first part of Łpāda$ b as Łmaitrībhāvaḥ sadā-r-apaiśunamatir$ 
+              (`the cultivation of benevolence always, the lack of malignity'), 
+              with an Łr$ acting as a sandhi-bridge.</NOTE>
+        <TR>the cultivation of benevolence, thoughts always devoid of malignity, 
+             and the possession of Brahminhood and faith:</TR>
+
+%index_grammar: licence śra unmetrical:
+
+<TEXT> etācāra sadā narendra vibudhāḥ saṃkṣepataḥ kīrtitāḥ</TEXT>
+        <APP>\vc <LEM>kīrtitāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; kīrtitaḥ \Ed</APP>
+        <NOTE>Note the syntax in Łpāda$ c. What was meant is probably the following:
+                Łeṣa sadācāraḥ narendra vibudhānāṃ saṃkṣepataḥ kīrtitaḥ$.</NOTE>
+        <TR>I have taught you the eternal conduct of the gods like this, in brief, O king.</TR>
+
+% maybe etadācārāḥ vibudhāḥ
+% etatsadācārāḥ
+%index_grammar: stem form metri causa
+
+%folioinfo \Ed\ p.671
+<TEXT> daityānāṃ śṛṇu kīrtaye svavahito 'sambhāvya teṣāṃ nijam||</TEXT> 23:6
+        <APP>\vd <LEM>daityānāṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; daityānā \msCa\oo
+                 <LEM>kīrtaye</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; kīrtaya \msNa\oo
+                 <LEM>svavahito</LEM> \mssALL\mssCaCbCc\msNb\msNc; svavahisaṃ \msNa, tv{ }avahito \Ed\oo
+                 <LEM>nijam</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; nijaḥ \msNa</APP>
+        <NOTE>Note Łsambhāvya$ (stem form) for Łsambhāvyaṃ$ metri causa in Łpāda$ d.</NOTE>
+        <TR>Listen attentively, I shall teach you about despicable [behaviour] of the demons.</TR>
+
+%index_grammar: stem form metri causa
+
+<TEXT> daityāḥ pāparatisvabhāvacapalā nirlajjadarpālasāḥ</TEXT>
+        <APP>\va <LEM>daityāḥ</LEM> \mssALL\mssCaCbCc\msNb\msNc; daityā \msNa\Ed</APP>
+        <TR>Demons (Łdaitya$) rejoice in sin by nature, they are inconstant, shameless, haughty, and lazy.</TR>
+
+<TEXT> kāmakrodhavaśāḥ suduṣṭamanasas{ }tṛṣṇādhikā nirdayāḥ|</TEXT>
+        <APP>\vb <LEM>kāmakrodhavaśāḥ</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed; \lk\lac4 ×××× śās \msCa, kāmakrodhavaśā \msCc\oo
+                 <LEM>°manasas{ }tṛṣṇā°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °manasās{ }tṛṣṇā° \msCc</APP>
+        <TR>They are under the influence of desire and anger, their minds are extremely filthy,
+             they have excessive thirst, and are pitiless.</TR>
+% Devīpurāṇa:
+%krūraṃ taskarasīrṣakaṃ śaṭhadhiyaṃ tṛṣṇādhikaṃ nirddayam ||033:042a-d||
+%kāmakrodhavaśaṃ kṛtaghnacapalaṃ tṛṣṇāturaṃ jihmalam |
+%mūrkha hiṃsana sūcakaṃ paśupate toṣākaraṃ trāhi mām ||033:042e-h||
+
+% nitya stem form
+<TEXT> śaucācāravivarjitā gurugirānnānitya kuryuḥ kriyāḥ</TEXT>
+        <APP>\vc <LEM>°varjitā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °varji \msCb\oo
+                 <LEM>°girānnānitya</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °girānnānnitya \msCc</APP>
+        <TR>They do not have purity or proper conduct,.... </TR>
+% maybe anya Kengo
+
+<TEXT> jīvākarṣaṇajīvinaḥ pratidinaṃ mohāndharāgānvitāḥ||</TEXT> 23:7
+        <APP>\vd <LEM>jīvākarṣaṇa°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; naivākarṣaṇa° \Ed\oo
+                 <LEM>pratidinaṃ mohāndharāgānvitāḥ</LEM> \msCa\msCb\msNa\Ed; pratidinaṃ mohāndhakārānvitāḥ \msCc\msNc,
+                                   <UNCL>pratidina mohāndhakārānvitāḥ</UNCL> \msNb</APP>
+        <TR>Their means of living is sucking the soul [out of people] every day, and they are endowed
+                with delusions, passion, and darkness.</TR>
+% feed on souls
+
+
+%folioinfo \msM\ 448.jpg lower, f. 46r
+<TEXT> nidrā nitya divā prasaktam{ }aśuciḥ sūryodaye supyate</TEXT>
+        <APP>\va <LEM>nidrā nitya</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; nitya nitya \msCc\oo
+                 <LEM>sūryodaye supyate</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; \lk\lk\lk\lk\lk\lk\lk\ \msNb</APP>
+        <TR>They always and continually (or they cling Łprasakta$) sleep during the day,
+                they are impure, falling asleep at sunrise.</TR>
+
+<TEXT> āśāpāśaśatair{ }nibaddhahṛdayo hṛtvā parasvaṃ punaḥ|</TEXT>
+        <APP>\vb <LEM>°śatair{ }ni°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °śatai ni° \msCc\oo
+                 <LEM>hṛtvā parasvaṃ punaḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed;
+                                                 <UNCL>hṛ</UNCL>\lac5 ××××× naḥ \msCa</APP>
+        <TR>Their hearts are bound by hundreds fetters of hope, and furthermore, they steal people's belongings.</TR>
+% repetadly
+% BhG 16.   on āśāpāśa  CHECK
+
+<TEXT> mātsaryāt{ }parapākabhedanirato mūlasya duṣpūratā</TEXT>
+        <APP>\vc <LEM>mātsaryā°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; mātsarya° \msCc, māṃsaryā° \Ed</APP>
+        <NOTE>Perhaps take Łmūlasya$ as Łmūlāt$ (`thoroughly, fundamentally').</NOTE>
+        <TR>They like destroying other's food out of envy; they are fundamentally difficulty to satisfy.</TR>
+
+% nāstī metri causa
+% unmetrical
+
+%folioinfo \msNb\ 79.jpg upper 
+%       -  - -  .  . -  . -     .  . . -! - - . - -   . -
+<TEXT> nāstīkatva parāṅganāsv{ }abhirata utkocakāmaḥ sadā||</TEXT> 23:8
+        <APP>\vd <LEM>°parāṅganāsv{ }abhirata</LEM> \msCa\msNc;
+                                °paraṅganāsv{ }abhirata \msCb,
+                                °parāṅganā cabhirata \msCc,
+                                °parāṅganās{ }tv{ }abhirata \msNa,
+                                °<UNC>parāṅganāsv{ }abhirataṃ</UNC> \msNb,
+                                °parāṅganāpy{ }abhirato \Ed\oo
+                 <LEM>utkoca°</LEM> \mssALL\mssCaCbCc\msNa; utkāca \msNb\msNc, uktā ca \Ed</APP>
+        <NOTE>Note Łnāstīkatva$° for Łnāstikatva$° metri causa in Łpāda$ d, 
+                and also the fact that the last syllable of Łabhirata$ counts as heavy.</NOTE>
+        <TR>[A demon] does not accept the Vedas (Łnāstikatva$), finds pleasure in others' wives, 
+                and always wishes to bribe somebody.</TR>
+
+
+
+%                                                           -ṃ?
+<TEXT> devabrāhmaṇa vidviṣanti satataṃ lobhāc{ }ca kāryakriyāḥ</TEXT>
+        <APP>\va <LEM>lobhāc{ }ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; lobhā ca \msNc\oo
+                 <LEM>°kriyāḥ</LEM> \msCc; °kriyā \msCa\msCb\msNa\msNb\msNc\Ed</APP>
+        <TR>[Demons] hate gods and Brahmins perpetually, and they perform their duties [only] out of greed.</TR>
+
+% their rituals or them who perform rituals; maybe duties
+%index_grammar: stem form metri causa
+
+% sandhi!
+% adruvan is not certain CHECK
+%folioinfo: \msCc 253.jpg f. 318r
+<TEXT> dharmaṃ dūṣayate ca mūḍhamanasā āryaṃ ca tīrthaṃ tathā|</TEXT>
+        <APP>\vb <LEM>°manasā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °manasa \msCb\oo
+                 <LEM>āryaṃ ca</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; āryac{ }ca \msCb</APP>
+        <TR>They abuse the Dharma with their stupid minds, and also the noble ones (Łārya$)?, and
+                the pilgrimage places.</TR>
+
+%             anyahatāś or hantavyāni?
+<TEXT> hantavyānyahatāś{ }ca manyabahavo visphūrjitam{ }adruvan</TEXT>
+        <APP>\vc <LEM>°hatāś{ }ca</LEM> \mssALL\mssCaCbCc\msNb\msNc; °hatāṃś{ }ca \msNa, °hatāṃ{ }ca \Ed\oo
+                 <LEM>manya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; yanya \Ed\oo
+                 <LEM>visphūrjitam{ }adruvan</LEM> \msCc\msNa\msNb\msNc;
+                                        vi\lac4 ×××× druvan \msCa,
+                                        visphūrjitām{ }adruvan \msCb,
+                                        visphurjjite nakravat \Ed</APP> 
+        <TR>While they are to be slain, they kill others; they are full of anger?? (manyu?), roaring, they ran away...?</TR>
+
+<TEXT> daityānāṃ kathitaṃ ca cihna katicit{ }sadbhāvataḥ kīrtitam||</TEXT> 23:9
+        <APP>\vd <LEM>kathitaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; kathitaś \Ed\oo
+                 <LEM>cihna</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; cihna kati cihna \msCc, cihnaṃ \msNb\oo
+                 <LEM>kīrtitam</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; kīrttita \msNb</APP>
+        <TR>Some of the characteristics of the demons have been taught as they truly are.</TR>
+
+
+
+<TEXT> martyeṣv{ }eva narendra mānuṣam{ }abhūd{ }devāsurāṇāṃ nṛpa</TEXT>
+        <APP>\va <LEM>nṛpa</LEM> \eme; nṛpaḥ \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <TR>O king, in the world of mortals the human race arose. That which is said</TR>
+
+% unmetr            .    .
+<TEXT> yo 'yaṃ proktaḥ svabhāvatā{-}m{ }ubhayato mānuṣyaloke tathā|</TEXT>
+        <APP>\vb <LEM>°bhayato</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °dayato \msCb\oo
+                 <LEM>°loke</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °lokan \Ed\oo
+                 <LEM>tathā</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; yathā \msNb</APP>
+        <TR>about the gods and demons, O king, is to be found in the same way in the world of man,
+                in both of its natural state.</TR>
+
+<TEXT> yan{ }me pṛcchitavān{ }narendra kathitaṃ tat{ }tvāṃ purā gopitam</TEXT>
+        <APP>\vc <LEM>pṛcchitavān</LEM> \msNa\Ed; pṛcchitavā \mssCaCbCc\msNb\msNc\oo
+                 <LEM>tat{ }tvāṃ</LEM> \eme; yat{ }tvaṃ \mssCaCbCc\msNa\msNb\msNc\Ed\oo
+                 <LEM>gopitam</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; gopitaḥ \msCc</APP>
+        <TR>Since you asked me, O king, I have taught you that which used to be a secret:</TR>
+
+% stem form bhūya
+<TEXT> vidveṣobhayakāraṇaṃ narapate kiṃ bhūya vakṣyāmy{ }aham||</TEXT> 23:10
+        <APP>\vd <LEM>vidveṣobhayakāraṇaṃ narapate kiṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\Ed; 
+                                vi<UNCL>dveṣobhaya</UNCL>\lac5 ××××× pate ki \msCa,
+                                vidveṣobhavakāraṇaṃ narapate kiṃ \msNc</APP>
+        <TR>the reason for the mutual enmity [between gods and demons], O king. What else shall I teach you?</TR>
+
+
+
+<SUBCHAPTER>nidrotpattiḥ</SUBCHAPTER>
+<TRSUBCHAPTER>The birth of sleep</TRSUBCHAPTER>
+
+%folioinfo \msCa\ 466.jpg
+<ANUSTUBH/> 
+<TEXT> janamejaya uvāca|*</TEXT>
+        <TR>Janamejaya spoke:</TR>
+
+%folioinfo \msNa\ 236.jpg upper
+<TEXT> asti kautūhalaṃ cānyaṃ pṛcchāmi tvāṃ dvijottama|</TEXT>
+        <APP>\vab <LEM>kautūhalaṃ cānyaṃ pṛ°</LEM> \msCa\msCc\msNa; kautūhalaṃ cānya pṛ° \msCb\msNb, 
+                                        kautuhalaṃś{ }cānyat{ }pṛ° \msNc, kautuhalaṃś{ }cānyaṃ pṛ° \Ed</APP>
+        <TR>I have another thing I am curious about and I would like to ask you, O great Brahmin:</TR>
+
+%folioinfo: \msNc 253.jpg lower
+<TEXT> kathaṃ nidrā samutpannā sarvabhūtavimohanī||</TEXT> 23:11
+        <APP>\vd <LEM>°mohanī</LEM> \mssALL\msCapcorr\msCb\msNa\msNb\msNc\Ed; °mohinī \msCaacorr\msCc</APP>
+        <TR>how did sleep arise, leaving all beings unconscious?</TR>
+
+<TEXT> rātrau prajāyate kasmād{ }divā kasmān{ }na jāyate|</TEXT>
+        <APP>\va <LEM>°jāyate</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °jāyayate \msNc</APP>
+        <TR>Why does it come at night and why does it not come in the daytime?</TR>
+
+<TEXT> kasmāc{ }ca kurute jantor{ }nidrā netrapramīlanam|</TEXT>
+        <APP>\vc <LEM>jantor</LEM> \msCa\msNa; janto \msCb\msCc\msNb\msNc\Ed</APP>
+        <TR>Why does sleep make people close their eyes?</TR>
+
+<TEXT> etan{ }me saṃśayaṃ chindhi sarvajño 'si dvijottama||</TEXT> 23:12
+        <APP>\vf <LEM!>sarvajño 'si dvijottama</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed;
+                                                \lac4 ×××× dvijottama \msCa,
+                                                sarvajño si dvijottamaḥ \msCc</APP>
+        <TR>Dispel these doubts I have, you are omniscient, O best of Brahmins.</TR>
+
+
+<TEXT> vaiśampāyana uvāca|*</TEXT>
+        <TR>Vaiśampāyana spoke:</TR>
+
+%folioinfo \msCb\ 473.jpg f.236r
+%                              ṇidrā \msNc
+<TEXT> devī hy{ }eṣā mahābhāgā nidrā netrāśrayā nṛṇām|</TEXT>
+        <APP>\va <LEM>devī</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed;
+                                                 asti kautūhalaṃ cānya devī \msCb\ Ł(eyeskip to 23.11a)$\oo
+        <APP>\vb <LEM>°śrayā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °śrayo \Ed</APP>
+        <TR>Sleep, this beautiful goddess dwells in people's eyes.</TR>
+
+<TEXT> tasyā vaśaṃgataṃ sarvaṃ jagat{ }sthāvarajaṅgamam||</TEXT> 23:13
+        <APP>\vc <LEM>°gataṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °gata \msNc</APP>
+        <APP>\vd <LEM>°jaṅgamam</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °jaṅgama \msCc</APP>
+        <TR>The whole world, moving and unmoving, is under her spell.</TR>
+
+% na-vipulā
+<TEXT> sadevadānavagaṇā gandharvoragarākṣasāḥ|</TEXT>
+        <APP>\va <LEM>°dānavagaṇā</LEM> \mssALL\msCa\msCc\msNc\Ed; °dānava \msCb, °dānavāgaṇā \msNa,
+                                                                ˚dānavagaṇāṃ \msNb</APP>
+        <APP>\vb <LEM!>gandharvoragarākṣasāḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; gandharvo nāgarākṣasāḥ \msCbacorr,
+                                                                      gandharvo nāgakinnararākṣasāḥ \msCbpcorr\
+                                                                        Ł(eyeskip to 23.15b)$</APP>
+        <TR>The demons and the gods, the Gandharvas, the snakes, the Rākṣasas,</TR>
+
+<TEXT> yakṣabhūtapiśācāś{ }ca paśupakṣisarīsṛpāḥ||</TEXT> 23:14
+        <APP>\vc <LEM>°piśācāś{ }ca</LEM> \msCa\msCc\msNa\msNb\Ed; °piśāśāś{ }ca \msCbpcorr, °pisāś{ }ca \msCbacorr\msNc</APP>
+        <APP>\vd <LEM>°sarīsṛpāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °śarīsṛpaḥ \Ed</APP>
+        <TR>the Yakṣas, the Ghosts (Łbhūta$), the Piśācas, the cattle, the birds, the reptiles,</TR>
+
+% naga metri causa?
+<TEXT> guhyakāś{ }ca mṛgā nāgāḥ kiṃnarā jalajoragāḥ|</TEXT>
+        <APP>\va <LEM>guhyakāś{ }ca</LEM> \eme; 
+                                 guhyavastra° \msCa\msNa\msNb\msNc,
+                                 guhya<UNCL>vva</UNCL>stra° \msCb,
+                                 guhyayakṣa° \msCc,
+                                 guhyakaś{ }ca \Ed\oo
+                 <LEM>nāgāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; nāgā \Ed</APP>
+        <APP>\vb <LEM!>kiṃnarā jalajoragāḥ</LEM> \eme;
+                                kinna\lac5 ××××× gāḥ \msCa,
+                                kiṃnarā jalajā nagāḥ \msCb\msCc\msNa\msNb\msNc\Ed</APP>
+        <NOTE>Note that Łguhykāś ca$ in Łpāda$ a is an emendation for 
+              Łguhyavastra$/Łguhyayakṣa$°, which I find puzzling.</NOTE>
+        <TR>the Guhyakas?, the beasts, the serpents, the Kiṃnaras, the aquatic snakes:</TR>
+% guhyavaktra, guhyavajra?, Kubera?
+% jalajanāga ?
+
+<TEXT> nidrāvaśagatāḥ sarve pāpmanā tv{ }abhilaṅghitāḥ||</TEXT> 23:15
+        <APP>\vd <LEM>°laṅghitāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °laṅghitā \msNb</APP>
+        <NOTE>One would expect a feminine form instead of Łpāpmanā$ all through the
+              remaining part of this chapter. MAYBE just a noun accept it.</NOTE>
+        <TR>all are under Sleep's spell, violated by [this] evil.</TR>
+
+<TEXT> devadānavakarmānte tasminn{ }amṛtasambhave|</TEXT>
+        <APP>\va <LEM>°karmānte</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °karmāt{ }te \Ed</APP>
+        <APP>\vb <LEM>tasminn{ }amṛta°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; tasminn{ }anṛta° \msCc\Ed</APP>
+        <TR>At the end of what the gods and demons did when
+                the nectar of immortality was produced,</TR>
+
+%                      viṣṇor? or in compound?
+<TEXT> mandarotpādane viṣṇur{ }devāsurasamāgame||</TEXT> 23:16
+        <APP>\vc <LEM>°tpādane</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; °tpāṭane \msCb, °tthāpane \Ed</APP>
+        <APP>\vcd <LEM>viṣṇur{ }de°</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; viṣṇude° \msCc\msNb</APP>
+        <NOTE>Perhaps understand Łutpādane$ in Łpāda$ c as Łutpāte$.</NOTE>
+        <TR>when mount Mandara was raised during the encounter of Viṣṇu, the gods, and demons,</TR>
+
+
+%folioinfo \Ed\ p.672
+<TEXT> jāyate vigrahe tv{ }eṣā kṛte hy{ }amṛtamanthane|</TEXT>
+        <APP>\va <LEM>vigrahe tv{ }eṣā</LEM>\mssALL\msCa\msNa\msNb\msNc\Ed; vigrahe teṣāṃ \msCb, vigraha tveṣā \msCc</APP>
+        <TR>she [i.e. Sleep] was born in a bodily form after the churning of the nectar has been finished.</TR>
+% Skandap ch 2 a version ?
+
+%folioinfo \msM\ 449.jpg upper, f. 46v
+<TEXT> rajas{ }tamaś{ }cāsuraṃ vai sattvaṃ devakṛtaiḥ śubhaiḥ||</TEXT> 23:17
+        <APP>\vc <LEM>°maś{ }cāsuraṃ vai</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; °maś{ }ca suram{ }vai \msCc,
+                                                 °maś{ }cāsura vai \msNc</APP>
+        <APP>\vd <LEM>°kṛtaiḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °kṛtaḥ \msCc\oo
+                 <LEM>śubhaiḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; śubhai \msCb</APP>
+        <NOTE>Note the odd syntax in Łpāda$s cd. Perhaps understand
+              Łrajas tamaś cāsuraiḥ kṛte, sattvaṃ devaiḥ śubhaiḥ kṛtam$.</NOTE>
+        <TR>Rajas and Tamas was created by the demons, beautiful? Sattva by the gods.</TR>
+
+%index_metre: ra-vipulā
+
+<TEXT> tataḥ sattvamayī devī rajastamasi vāsinī|</TEXT>
+        <APP>\va <LEM>tataḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; tata \msNc</APP>
+        <APP>\vab <LEM>sattvamayī devī rajas{ }tamasi vāsinī</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc;
+                       sattvamayī <UNCL>de</UNCL>\lac4 ×××× masi vāsinī \msCa,
+                       sattvamayī devī rajas{ }tamanivāsinī \Ed</APP>
+        <TR>Therefore the goddess is Sattvic [but] dwells in Rajas and Tamas.</TR>
+
+<TEXT> krodhajā vai sthitā madhye devadānavapakṣayoḥ||</TEXT> 23:18
+        <APP>\vd <LEM>°dānava°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °dāna° \msCc\oo
+                 <LEM>°pakṣayoḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °pakṣataḥ \msNb</APP>
+        <TR>She was born out of anger, right amidst the facing armies of gods and demons.</TR>
+
+<TEXT> tām{ }adbhutamayīṃ dṛṣṭvā vismitā devadānavāḥ|</TEXT>
+        <APP>\va <LEM>°bhutamayīṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc; °bhutamayī \msNb, °bhūtamayīṃ \Ed</APP>
+        <TR>Catching sight of this miraculous [goddess], both the gods and the demons were astonished.</TR>
+
+% mayīn \msCa\Ed
+%folioinfo: \msCc 254.jpg f. 318v
+<TEXT> tasyāḥ prabhāvābhihatā dudruvus{ }te diśo daśa||</TEXT> 23:19
+        <APP>\vd <LEM>daśa</LEM> \mssALL\mssCaCbCc\msNa\msNb; daḥdaśa \msNc, daśaḥ \Ed</APP>
+        <TR>Smitten by her majesty, they fled in ten directions.</TR>
+
+% 23:20:
+<TEXT> tatra pītāmbaradharo viṣṇur{ }ekas{ }tu tiṣṭhati|</TEXT>
+        <APP>\va <LEM!>tatra pītāmbaradharo</LEM> \mssALL\mssCaCbCc\msNa\msNc; 
+                                                        <UNCL>navaprī</UNCL>tāmbaradhare \msNb,
+                                                        tatra pitāmbaradharo \Ed</APP>
+        <TR>In that moment only Viṣṇu stayed, wearing his yellow attire.</TR>
+
+<TEXT> sābhigatvā viśālākṣī nārāyaṇam{ }athābravīt||</TEXT> 23:20
+        <APP>\vc <LEM>sābhi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; sobhi° \Ed\oo
+                 <LEM>°kṣī</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °kṣi \msCc</APP>
+        <APP>\vd <LEM>°bravīt</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; °<UNCL>bra</UNCL>\lac1 × \msCa</APP>
+        <TR>She with her huge eyes went up to Nārāyaṇa and spoke:</TR>
+
+<TEXT> devadānavanāthas{ }tvaṃ tvayi sarvaṃ pratiṣṭhitam|</TEXT>
+        <APP>\va <LEM>deva°</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; \lac2 ×× \msCa</APP>
+        <APP>\vb <LEM>sarvaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; sarva° \Ed</APP>
+        <TR>You are the lord of the gods and demons. Everything is present in you.</TR>
+
+<TEXT> dehi deva mamāvāsaṃ yatrāhaṃ nivase sukham||</TEXT> 23:21
+        <APP>\vd <LEM>yatrāhaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; yatrahaṃ \msNc</APP>
+        <TR>Give me a dwelling place, O god, where I can live happily.</TR>
+
+<TEXT> tato nārāyaṇas{ }tuṣṭas{ }tāṃ devīṃ pratyabhāṣata|</TEXT>
+        <APP>\va <LEM>nārāyaṇas{ }tu°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; nārayaṇa tu° \msNb</APP>
+        <APP>\vb <LEM>devīṃ</LEM> \msCa\msNa\Ed; devī \msCb\msCc\msNb\msNc\oo
+                 <LEM>°bhāṣata</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; °bhāṣate \msCb, °bhāṣata \msNb</APP>
+        <TR>After this, Nārāyaṇa, contented, replied to the goddess:</TR>
+
+%                                     eṇām \msCc
+<TEXT> śarīre mama vāstavyaṃ viṣṇur{ }enām{ }athābravīt||</TEXT> 23:22
+        <APP>\vc <LEM>vāstavyam</LEM> \mssALL\mssCaCbCc\msNa\msNc; vāstavya \msNb, vastavyaṃ \Ed</APP>
+        <APP>\vd <LEM>viṣṇur{ }enā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; viṣṇur{ }evā° \msNb</APP>
+        <TR>You should dwell in my body. This is what Viṣṇu said to her.</TR>
+
+<TEXT> tatas{ }tāṃ vaiṣṇavaṃ tejaḥ pāpmanā samatiṣṭhata|</TEXT>
+        <APP>\va <LEM>tatas{ }tāṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; tatrasthāṃ \msNc\oo
+                 <LEM>vaiṣṇavaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; viṣṇuvat \Ed</APP>
+        <APP>\vb <LEM>°tiṣṭhata</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °tiṣṭhataḥ \msNb</APP>
+        <TR>After this, Viṣṇu's brilliance dwelt together with her??, this evil.</TR>
+% tāṃ is a problem --> tad? or for tayā?
+% maybe a causative
+
+<TEXT> tataḥ śete sa vaikuṇṭhaḥ pāpmanā tv{ }abhilaṅghitaḥ||</TEXT> 23:23
+        <APP>\vc <LEM>śete</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; śeyete \msNc\oo
+                 <LEM>vaikuṇṭhaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; vaikuṇṭha \msNb</APP>
+        <APP>\vd <LEM!>pāpmanā tv{ }abhilaṅghitaḥ</LEM> \msCb\msNa\msNb\msNc;
+                                pāpma\lac4 ×××× ghitaḥ \msCa,
+                                pāpmanā tv{ }abhilaṅghitāḥ \msCc\Ed</APP>
+        <TR>Then Vaikuṇṭha [i.e. Viṣṇu] fell asleep, violated by this evil.</TR>
+
+<TEXT> tasmin{ }śayāne vitrastā devāsuragaṇās{ }tathā|</TEXT>
+        <APP>\va <LEM>tasmin</LEM> \mssALL\msCa\msCc\msNb\msNc\Ed; tasmi \msCb\msNa</APP>
+        <TR>The groups of gods and demons got terrified when he went to sleep.</TR>
+
+<TEXT> ūcus{ }te paramodvignāḥ śayānaṃ viṣṇum{ }acyutam||</TEXT> 23:24
+        <TR>Highly distressed, they addressed the sleeping Viṣṇu, the imperishable.</TR>
+
+
+%folioinfo \msNb\ 80.jpg lower 
+% 23:25:
+<TEXT> trātāraṃ nābhigacchāma uttiṣṭhottiṣṭha keśava|</TEXT>
+        <APP>\vb <LEM>uttiṣṭho°</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; utiṣṭho° \msCc, uttiṣṭha° \msNb</APP>
+        <TR>We cannot find [our] protector! Wake up, wake up, O Keśava!</TR>
+
+<TEXT> tataḥ śaṅkhagadāpāṇir{ }uttiṣṭhata mahābhujaḥ||</TEXT> 23:25
+        <APP>\vd <LEM>°ttiṣṭhata</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; °tiṣṭhata \msCb\msNc</APP>
+        <TR>Upon this he woke up, with the conch-shell and the mace held in his hands, the one with strong arms.</TR>
+
+<TEXT> utthitaś{ }ca viśālākṣaḥ pāpmanā tasya pṛṣṭhataḥ|</TEXT>
+        <APP>\va <LEM>utthita°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; uttiṣṭha° \Ed\oo
+                 <LEM>viśālākṣaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; viśālākṣiḥ \Ed</APP>
+        <TR>The one with huge eyes woke up, with the evil one at his side.</TR>
+
+<TEXT> tataḥ sā vigrahavatī sthitā nārāyaṇālaye||</TEXT> 23:26
+        <APP>\vc <LEM!>tataḥ sā vigrahavatī</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed;
+                        tata\lac4 ×××× <UNCL>va</UNCL>tī \msCa</APP>
+        <TR>Then she stayed there in Nārāyaṇa's abode in her bodily form.</TR>
+
+%folioinfo: msNc 254 upper 
+%folioinfo \msCa\ 467.jpg
+<TEXT> viṣṇur{ }devāsuragaṇān{ }idaṃ vacanam{ }abravīt|</TEXT>
+        <APP>\va <LEM>viṣṇur{ }de°</LEM> \msCa\msNb\Ed; viṣṇu de° \msCb\msCc\msNa\msNc\oo
+                <LEM>°gaṇān{ }i°</LEM> \mssALL\mssCaCbCc\msNb\Ed; °gaṇā i° \msNa, °gaṇon{ }i° \msNc</APP>
+        <TR>Viṣṇu delivered this speech to the groups of gods and demons:</TR>
+
+%folioinfo \msNa\ 236.jpg
+<TEXT> asmākaṃ vai śarīreṣu iyaṃ pāpmā viniḥsṛtā||</TEXT> 23:27
+        <APP>\vd <LEM>viniḥsṛtā</LEM> \msNc; vinisṛtā \mssCaCbCc\msNa\msNb\Ed\ \unmetr</APP>
+        <NOTE>Probably understand Łasmākaṃ śarīreṣu$ in Łpāda$ c as Łmama śarīrāt$.</NOTE>
+        <TR>This evil has come out of my body.</TR>
+
+<TEXT> eṣātisattvā na satī satyena bhaginī mama|</TEXT>
+        <APP>\va <LEM!>eṣātisattvā na satī</LEM> \emeDeSimini; eṣātisattvā na satā \mssALL\msCb\msCc\msNa\msNc,
+                                                                eṣābhisattvā rasatā \msCa\msNb,
+                                                                eṣātisattvā masatī \Ed</APP>
+        <TR>This extremely Sattvic lady is not my lawful wife. She is actually my sister.</TR>
+
+<TEXT> viśrutāṃ triṣu lokeṣu tāṃ pūjayatha māṃ yathā||</TEXT> 23:28
+        <APP>\vc <LEM>°śrutāṃ</LEM> \msCa; °śrutā \msCb\msNa\msNb\msNc, °śruti \msCc, °śruto \Ed</APP>
+        <APP>\vd <LEM>tāṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; tā \msCc</APP>
+        <TR>She is famous in the three worlds, [therefore] worship her like you worship me.</TR>
+
+<TEXT> tato devāsuragaṇāḥ saptalokāḥ samānuṣāḥ|</TEXT>
+        <APP>\vb <LEM>°lokāḥ samānuṣāḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; °<UNCL>lo</UNCL>\lac3 ××× nuṣāḥ \msCa</APP>
+        <TR>Then the groups of gods and demons, and the seven worlds together with humans,</TR>
+
+<TEXT> vibhaktā vaiṣṇavī pāpmā teṣu sarveṣu devatā||</TEXT> 23:29
+        <APP>\vc <LEM>°bhaktā</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °bhakto \msCb\oo
+                 <LEM>vaiṣṇavī</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; vīṣṇavī \msCc</APP>
+        <NOTE>Łvibhaktā$ most probably functions here as a finite verb, which
+            may betray Newar influence. See Introduction...</NOTE>
+        <TR>distributed goddess, the Vaiṣṇava Evil among those [places]:</TR>
+
+<TEXT> parvateṣv{ }atha vṛkṣeṣu sāgareṣu saritsu ca|</TEXT>
+        <APP>\vb <LEM>sāgareṣu</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; sāreṣu \msCc</APP>
+       <NOTE>For a similar act of distibuting sins among the rivers etc., see verse 11.6.</NOTE>
+       <TR>among the mountains, the trees, the oceans and the rivers.</TR>
+
+<TEXT> tato nidrāvaśagataṃ jagat{ }sthāvarajaṅgamam||</TEXT> 23:30
+        <APP>\vc <LEM>°vaśagataṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °vaśaga° \msCb</APP>
+        <APP>\vd <LEM>jagat{ }sthā°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; jagasthā° \msCc\oo
+                <LEM>°jaṅgamam</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; °ṅgamam \msCb</APP>
+        <TR>Therefore the world, moving and unmoving, got under the spell of Sleep.</TR>
+
+<TEXT> eṣotpattiś{ }ca nidrāyā yathā vasati tac{ }chṛṇu|</TEXT>
+        <APP>\va <LEM>eṣotpattiś{ }ca</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; \lk\lk\lk\lk ca \msCb</APP>
+        <TR>This is the birth of Sleep. Listen to the way she lives.</TR>
+
+%            sthāṇāni \msNc
+<TEXT> trīṇi sthānāni tasyā vai śarīreṣu śarīriṇām|</TEXT>
+        <APP>\vc <LEM>tasyā</LEM> \eme; yasyā \mssCaCbCc\msNa\msNb\msNc\Ed\oo
+                 <LEM>vai</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; ve \msCb</APP>
+        <APP>\vd <LEM>śarīreṣu</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; \om\ \msCb</APP>
+        <TR>There are three locations for her in the human body.</TR>
+
+<TEXT> śleṣmapittānilasthāna trīṇi pakṣāṇi vāsinaḥ||</TEXT> 23:31
+        <APP>\ve <LEM>śleṣma°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; śleṣmā° \msCc</APP>
+        <APP>\vef <LEM>°nilasthāna trīṇi</LEM> \msCb\msNa\msNc;
+                                        ni\lac4 ×××× ṇi \msCa,
+                                        nila\gap\gap\gap\gap\gap\gap sthānā trīṇi \msCc,
+                                        °nilasthānā trīṇi \msNb,
+                                        °nilasthāne trīṇi \Ed</APP> 
+        <APP>\vf <LEM>pakṣāṇi</LEM> \mssCaCbCc\msNc; pakṣā ni° \msNa\Ed, yakṣāṇi \msNb</APP>
+        <NOTE>Note the stem form noun Łsthāna$ for Łsthānāni$ in Łpāda$ c.</NOTE>
+        <TR>The three locations where she lives are the place of phlegm, bile, and air.</TR>
+
+%index_grammar: stem form
+
+%folioinfo \msM\ 450.jpg lower, f. 47r 
+<TEXT> tamaḥ śleṣmāśrayā nidrā rajonidrā tu vātikā|</TEXT> 
+        <APP>\va <LEM>tamaḥ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; tataḥ \msCb, tama° \Ed</APP>
+        <APP>\vb <LEM>°nidrā tu</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °nidrāti° \Ed</APP>
+        <TR>Tamas-sleep is connected to phlegm; Rajas-sleep to air;</TR>
+
+<TEXT> pittāśrayāṃ smṛtāṃ nidrāṃ sāttvikāṃ viddhi bhūpate||</TEXT> 23:32
+        <APP>\vc <LEM>pittāśrayāṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; pittāsraśra<UNCL>yāṃ</UNCL> \msCc\oo
+                 <LEM>smṛtāṃ</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; smṛtā \msNa</APP>
+        <APP>\vcd <LEM>nidrāṃ sāttvikāṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; nidrāṃ sātvikā \msCc, nidrā sāttvikā \msNc</APP>
+        <TR>the sleep that is said to be connected to bile is to be known as Sattvic, O king.</TR>
+
+%folioinfo: \msCc 255.jpg f. 319r
+<TEXT> ādityaprabhavaṃ tejas{ }tasmin{ }sattvaṃ pratiṣṭhati|</TEXT>
+        <APP>\vb <LEM>sattvaṃ pratiṣṭhati</LEM> \mssALL\msCa\msCb\msNa\msNc; sarvvaṃ pratiṣṭhitam \msCc,
+                                                                             satva pratiṣṭhiti \msNb,
+                                                                             sarva pratiṣṭhitaṃ \Ed</APP>
+        <TR>Sattva is present in the energy coming from the Sun (Łāditya$).</TR>
+
+<TEXT> nidrā divā na bhavati tasmāt{ }sattvaguṇātmikā||</TEXT> 23:33
+        <TR>Therefore Sleep that is essentially of Sattvic Quality (Łguṇa$) does not come in the daytime.</TR>
+% or Sattva-sleep?
+
+%folioinfo \msCb\ 474.jpg f.236r
+<TEXT> yasmāt{ }somodbhavā nidrā tamāṃsi ca rajāṃsi ca|</TEXT>
+        <APP>\va <LEM>yasmāt{ }so°</LEM> \msCa\msNa\msNc; <UNCL>yasmā</UNCL>t{ }so° \msCb, tasmāt{ }so° \msCc\Ed,
+                                                                yasmā so° \msNb</APP>
+        <APP>\vb <LEM!>tamāṃsi ca rajāṃsi ca</LEM> \mssALL\msCb\msCc\msNa\msNc\Ed;
+                                ta<UNCL>māṃ</UNCL>si ca <UNCL>ra</UNCL>\lac3 ××× \msCa,
+                                tamānsi ca rajāṃsi ca \msNb</APP>
+        <TR>Since Sleep arises from Soma [i.e. the Moon, and there are characteristics in her
+                of] Tamas and Rajas??,</TR>
+
+<TEXT> tasmād{ }rātrau bhaven{ }nidrā tāmasī ha rajātmikā||</TEXT> 23:34
+        <APP>\vc <LEM>tasmād{ }rātrau</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; tasmā<UNCL>d{ }rāto</UNCL> \msNc\oo
+                 <LEM>bhave°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; bhava° \msNa</APP>
+        <NOTE>ŁPāda$ d is somewhat problematic, especially if we read Łtāmasī harajātmikā$. 
+              A suggestion by Kengo Harimoto (Łtāmasī raja-ātmikā$) led me think
+              that Łha$ might simply be an emphatic particle, and Łraja$ in Łrajātmikā$ is
+              simply a variant of Łrajas$. Alternatively, one could read Łtāmasīha rajātmikā$,
+              Łiha$ meaning `in this world.'</NOTE>
+        <TR>therefore sleep that occurs at night is both Tāmasa and also composed of Rajas.</TR>
+
+% CHECK Simon Brodbeck Harivaṃśa pdf book:
+%"On the phenomenal level she is also Vishnu’s helpmate Sleep, who is instantiated in Vishnu’s sleep, in the rainy season, and in the destruction and abeyance of the universe, as well as in human sleep and death (Hv 40.7–34)."
+
+%"Without warning, the secret power that stays in the world under the name of Sleep becomes hostile and horrible, a night of destruction for earthly kings. 27 Her body’s the door of darkness, the destroyer of nights and days, the terrible taker of half the life of everything on earth that breathes."
+
+% Luca sent article: Knowing you
+
+% EDDIG olvastuk
+
+<TEXT> yadā hi sarvāṅgagatau srotāṃsi pratipadyate|</TEXT>
+        <APP>\va <LEM>sarvā°</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; satvā° \msCa</APP>
+        <APP>\vb <LEM>prati°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; \om\ \msCb</APP>
+        <NOTE>Perhaps understand Łpāda$s ab as Łsarvāṅgagateṣu srotaḥsu$. Note also
+              that most sources read Łśrotas$ or Łśrotras$ for what I believe
+              should in this chapter mean `bodily channels'.</NOTE>
+        <TR>For when [she] reaches the channels that permeate the body,</TR>
+
+<TEXT> rajas{ }tamaś{ }ca niyatas{ }tadā nidrā pravartate||</TEXT> 23:35
+        <APP>\vc <LEM>rajas{ }tama°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; rajatama° \msNb</APP>
+        <APP>\vcd <LEM>niyatas{ }tadā</LEM> \mssALL\msCa\msCb\msNa\msNc; niyamaṃs{ }tadā \msCc, 
+                                                                niyata tadā \msNb,
+                                                                niyataṃs{ }tadā \Ed</APP>
+        <NOTE>Understand Łniyatas$ as dual, or rather what is meant is
+               Łniyatarajastamasī nidrā$.</NOTE>
+        <TR>then a joint Rajas-Tamas sleep takes place.</TR>
+
+%                                    for pakṣma
+<TEXT> tamasy{ }ūrdhvagatasroto hy{ }akṣipakṣmāsamāśritā|</TEXT>
+        <APP>\va <LEM>°gatasroto</LEM> \msCa\msCc\msNa\msNb; °gataśrotro \msCb\msNc, °gate śrotro \Ed</APP>
+        <APP>\vb <LEM>hy{ }akṣi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; hy{ }ākṣi° \Ed</APP>
+        <NOTE>Note Łpakṣmā$ for Łpakṣma$ in Łpāda$ b.</NOTE>
+        <TR>In darkness??, she is in the upward channels??, and resorts to the eyes and eyelashes.</TR>
+
+% samāśṛtā \msCa\Ed
+<TEXT> tamaḥ pravartate jantos{ }tatas{ }tv{ }akṣnor{ }nimīlanam||</TEXT> 23:36
+        <APP>\vc <LEM>tamaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; tama \msCc</APP>
+        <APP>\vcd <LEM>jantos{ }tatas{ }tv{ }a°</LEM> \mssALL\msCa\msCc\msNa\msNc;
+                                         jantos{ }tata tv{ }a° \msCb, 
+                                         janto tatas{ }tṛ° \msNb,        
+                                         janto tamas{ }tv{ }a° \Ed</APP>
+        <APP>\vd <LEM>°kṣṇor{ }ni°</LEM> \msCa\msCb; °kṣṇo ni° \msCc\msNa\msNb\msNc\Ed</APP>
+        <TR>It is because of the functioning of Tamas that humans close their eyes.</TR>
+
+<TEXT> nāsākṣikarṇasrotāṃsi prayujyante kaphena tu|</TEXT>
+        <APP>\va <LEM>°karṇa°</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °varṇṇa° \msNc\oo
+                 <LEM>°srotāṃsi</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; śro<UNCL>tā</UNCL>\lac1 × \msCa</APP>
+        <APP>\vb <LEM>prayujyante kaphena</LEM> \msCb\msNa\Ed; \lac5 ××××× phena \msCa,
+                                               prapūryante phalena \msCc, prapūryante kaphena \msNb\msNc</APP>
+        <TR>The channels in the nose, the eyes, and the ears mingle with phlegm,</TR>
+
+<TEXT> hṛdayaṃ muhyate cāpi tamasā cāvṛtaṃ manaḥ||</TEXT> 23:37
+        <APP>\vd <LEM>cāvṛtaṃ ma°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; cāvṛtām{ }ma° \msCc</APP>
+        <TR>and the heart becomes stupified, and the mind is covered in darkness (Łtamas$).</TR>
+
+<TEXT> sparśaṃ na vedayaty{ }eva na śṛṇoti na paśyati|</TEXT>
+        <TR>One does not sense touch, does not hear or see anything.</TR>
+
+<TEXT> nocchvāsayati nāsābhyāṃ vivṛtākṣimukho naraḥ||</TEXT> 23:38
+        <APP>\vc <LEM>nocchvāsayati</LEM> \msCa\msNa\msNb\Ed; nośvāsayati \msCb, nocchvāsayadi \msCc, nocchāyati \msNc</APP>
+        <APP>\vd <LEM>°mukho naraḥ</LEM> \mssALL\msCa\msCb\msNa\msNc; °mukhena caḥ \msCc, °mukhena vā \msNb, 
+                                                                                          °mukhena ca \Ed</APP>
+        <TR>Man does not breathe through the nostrils and his eyes and mouth are open.</TR>
+
+<TEXT> eṣā nṛṇām{ }antakarī nidrā vai tāmasī smṛtā|</TEXT>
+        <APP>\va <LEM>°ntakarī</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; °nakarī \msCa</APP>
+        <TR>This is the Tamas-sleep, which is fatal?? for men.</TR>
+
+<TEXT> akarmaṇy{ }apravṛttiś{ }ca mṛtavat svapate kṣitau||</TEXT> 23:39
+        <APP>\vc <LEM>akarma°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; svakarma° \msCb\oo
+                 <LEM>°pravṛtti°</LEM> \msCa\msCc\msNa\Ed; °pravṛti° \msCb, °pra<UNCL>vartti</UNCL>° \msNb,
+                                                                            °pravṛrtti° \msNc</APP>
+        <APP>\vd <LEM>mṛtavat</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; mṛtāvat \msCc\oo
+                 <LEM>svapate</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; svapati \msCb</APP>
+        <TR>One does not act or function, sleeping on the ground like a corpse.</TR>
+
+<TEXT> nidrotpattiṃ vikāraṃ ca kathito 'smi narādhipa|</TEXT>
+        <APP>\va <LEM>°tpattiṃ vikāraṃ ca</LEM> \msNa\msNb\msNc;
+                      °tpa<UNCL>tti</UNCL>\lac4 ×××× \msCa,
+                      °tpatti vikārañ{ }ca \msCb\msCc,
+                      °tpattiṃ vikāraś{ }ca \Ed</APP>
+        <NOTE>Note the syntax, namely the use of a past participle with Łasmi$ as a finite verb,
+              in Łpāda$ b. See Introduction...</NOTE>
+        <TR>I have taught you, O king, the birth of Sleep, and her varieties.</TR>
+
+<TEXT> tasmān{ }nidrāṃ na seveta tamomohapravardhanīm||</TEXT> 23:40
+        <APP>\vc <LEM>°drāṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °drā \msNb</APP>
+        <APP>\vd <LEM>°vardhanīm</LEM> \mssCaCbCc; °vardhanī \msNa\msNb\msNc\Ed</APP>
+        <TR>Therefore one should not indulge in sleep, for it increases mental darkness and delusion.</TR>
+
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe nidrotpattis{ }trayoviṃśatimo 'dhyāyaḥ</COLOPHON></TEXT>
+        <TRCOLOPHON>Here ends the twenty-third chapter in the Vṛṣasārasaṃgraha called the Birth of Sleep.</TRCOLOPHON>
+        <APP> Ł\Colo:$  <LEM>°viṃśatimo 'dhyāyaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °viṅśatimaḥ \msCc, 
+                                                                                    °viṃśatitamo 'dhyāyaḥ \Ed</APP>
+%END OF CHAPTER 23
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+<START/>
+

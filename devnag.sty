@@ -1,0 +1,105 @@
+% % $Log: devnag.sty $
+% Revision 1.2  1994/06/15  16:22:13  Dominik_Wujastyk
+% o  tidied up comments.
+%
+% Revision 1.1  1994/06/15  16:15:17  Dominik_Wujastyk
+% Initial revision
+%
+% LaTeX2e package for using Velthuis's Devanagari font.
+% =====================================================
+% Sample input .dn file:
+% \documentclass{article}
+% \usepackage{devnag}
+% \begin{document}
+% {\dn devaanaa.m priya.h}
+% \end{document}
+%
+%
+\ProvidesFile{devnag.sty}[1994/6/15]
+%
+\@ifundefined{selectfont}
+   {\@latexerr{The `dev2e' style option may only be used with LaTeX2e.^^J
+                Use `dev' instead.}\@eha
+    \endinput}{}
+%
+% \DeclareFontEncoding{OT1}{}{} % Already done by standard classes.
+\DeclareFontSubstitution{OT1}{dn}{m}{n}
+%
+% Normally hyphenation is turned off (\hyphenchar=-1).  But this value
+% is now turned into a macro for use by the \dohyph macro, which changes
+% \chyph to 255, the position of the hyphen in the newer hyphenatable
+% Devagari font.
+% (NB: the value of \chyph is used by the \DeclareFontFamily macro in
+% ot1dn.fd.)
+%
+\newcount\chyph
+\chyph=-1
+%
+% Now define the main Devanagari macro, \dn.  The changing of the 
+% catcodes for Devanagari characters is done here, and \dn is 
+% normally called inside a group.  So these changes won't spill
+% out to affect the rest of the text.
+%
+\def\dn{\do@dev@catcodes
+  \fontencoding{OT1}\fontfamily{dn}\fontseries{m}\fontshape{n}\selectfont
+  \tolerance=10000
+  \pretolerance=10000
+  \emergencystretch=.2\hsize % remove this line if you are not using TeX > 3.0
+  \baselineskip1.27\baselineskip}
+%
+\newcount\chnum
+\newdimen\itdim
+\newdimen\dnblskip
+%
+%  And here is the macro that changes the catcodes appropriately for Devanagari:
+\def\do@dev@catcodes{%
+  \chnum=0
+  \loop\catcode\chnum=11
+    \ifnum\chnum<12 \advance\chnum by1
+    \repeat
+  \chnum=14
+  \loop\catcode\chnum=11
+    \ifnum\chnum<31 \advance\chnum by1
+    \repeat
+  \catcode127=11 }
+%
+\def\subscr#1{\/\itdim=\lastkern
+  \unkern\kern-\itdim \lower\dp0 \hbox to\itdim{#1\hfil}}
+%
+\def\0{\llap{\char13}}
+\def\1{\llap{\char32}}
+\def\2{\llap{\char92}}
+\def\3#1w{{\char"#1}}
+\def\4{\llap{\char123}}
+\def\5{\llap{\char125}}
+\def\6#1{\setbox0=\hbox{#1}#1\subscr{\char126}}
+\def\7#1{\setbox0=\hbox{#1}#1\subscr{\char0}}
+\def\8#1{\setbox0=\hbox{#1}#1\subscr{\char1}}
+\def\9#1{\setbox0=\hbox{#1}#1\subscr{\char2}}
+\def\qa#1#2{\setbox0=\hbox{#1}#1\subscr{\char253\kern1.5ex\lower1.25ex
+  \hbox{\char#2}\kern-1.5ex}}
+\def\qb#1{\setbox0=\hbox{#1}#1\subscr{\char253}}
+\def\qq#1{\setbox0=\hbox{#1}#1\subscr{\char94}}
+\def\qx#1{\setbox0=\hbox{#1}#1\subscr{\char14}}
+\def\qy#1{\setbox0=\hbox{#1}#1\subscr{\char31}}
+\def\qz#1{\setbox0=\hbox{#1}#1\subscr{\char124}}
+\def\qva{\kern0.5ex\2\kern-0.5ex}
+\def\qvb{\kern1ex\0\kern-1ex}
+\def\qvc{\kern1ex\rdt\kern-1ex}
+\def\?{\llap{\char3}}
+\def\<{\llap{\char4}}
+\def\rs{\rm\thinspace}
+\let\re=\thinspace
+\def\rdt{\llap{\char19}}
+\def\dnnum{\let\nstyle=d}
+\def\cmnum{\let\nstyle=r}
+\cmnum
+\def\rn#1{\if\nstyle r{\rm #1}\else#1\fi}
+\def\dohyphen{\chyph=255
+  \def\-{\@@hyph}
+  \hfuzz=8pt}
+%
+% the end.
+%
+\endinput
+

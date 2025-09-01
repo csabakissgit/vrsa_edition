@@ -1,0 +1,326 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8
+
+% So this is the main file for the VSS book (XeLaTeX)
+% it requires
+% vssbook_vol2_macros.tex and other macro files
+
+\documentclass[11pt]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%
+%%%% LOAD MACROS %%%%%
+%%%%%%%%%%%%%%%%%%%%%%
+\input{vssbook_vol2_macros.tex}
+
+\frenchspacing
+\usepackage[cam, center,cross,axes,color=blue]{crop}
+
+\makeindex 
+
+\begin{document}
+%\pagenumbering{roman}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% FRONT MATTER %%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{00vss_frontmatter.tex}
+
+%%%%%%%%%%%%%%%%%%%%
+% TABLE OF CONTENT %
+%%%%%%%%%%%%%%%%%%%%
+\fancyhead[CO]{}
+\fancyhead[CE]{}
+\fancyhead[RO]{}
+\fancyhead[RE]{}
+\fancyhead[LO]{}
+\fancyhead[LE]{}
+
+\renewcommand{\contentsname}{{\hfill
+        {\normalfont\Large\englishfont Table of Contents}\hfill}}
+\thispagestyle{empty}
+\pagenumbering{gobble}
+\tableofcontents
+
+\vfill
+\pagebreak
+
+\thispagestyle{empty}
+\renewcommand{\listfigurename}{{\hfill
+        {\normalfont\Large\englishfont List of Figures}\hfill}}
+\listoffigures
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACKNOWLEDGEMENTS and PREFACE %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\pagenumbering{arabic}
+%\input{01vss_vol2_acknowledgements.tex}
+
+%\input{02vss_vol2_preface.tex}
+%\input{testpage.tex}
+
+
+
+%%%%%%%%%%%%%%%%
+% INTRODUCTION %
+%%%%%%%%%%%%%%%%
+\pagenumbering{arabic}
+\fancyfoot[C]{{\thepage}}
+
+%\input{03vss_vol2_intro}
+
+
+
+%%%%%%%%%%%%%%%%%%%%
+% CRITICAL EDITION %
+%%%%%%%%%%%%%%%%%%%%
+\mychapter{Introduction to the Critical Edition}
+%\input{04vss_vol2_cred_intro}
+
+\bigskip
+
+%\input{05vss_vol2_witnesses}
+\vfill
+\pagebreak
+
+\blankpage
+
+\pagebreak
+% set page nember also in the edition's tex source file
+%\setcounter{page}{500} % set it in the edition file (.tex, see path below)
+
+%\section{The Sanskrit text}
+\mychapter{A Critical Edition of Vṛṣasārasaṃgraha 13--24}
+
+\pagebreak
+
+\blankpage
+%\addcontentsline{toc}{chapter}{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
+\addcontentsline{toc}{section}{Sanskrit Text}
+\includepdf[noautoscale, pages=-]{vrsasara_vol2_ed.pdf}
+
+
+
+
+%%%%%%%%%%%%%%%
+% TRANSLATION %
+%%%%%%%%%%%%%%%
+
+
+\mychapter{An Annotated Translation of Vṛṣasārasaṃgraha 13--24}
+%\addcontentsline{toc}{section}{\Vss\ 1--12}
+
+
+%FOOTNOTE
+% Reformat footnotes
+\makeatletter 
+\renewcommand{\@makefntext}[1]{%
+  \setlength{\parindent}{20pt}%
+  %\begin{list}{}
+  {\setlength{\labelwidth}{6mm}% 1.5em
+    \setlength{\leftmargin}{0pt}%{\labelwidth}%
+    \setlength{\labelsep}{10pt}%
+    \setlength{\itemsep}{0pt}%
+    \setlength{\parsep}{0pt}%
+    \setlength{\topsep}{0pt}%
+    \footnotesize}%
+  %\item[\@thefnmark\hfil]
+  #1% @makefnmark
+  %\end{list}%
+}
+\makeatother 
+\let\svthefootnote\thefootnote
+
+
+
+\fancyhead[CE]{{\footnotesize \textit{Vṛṣasārasaṃgraha}}}
+\fancyhead[CO]{{\footnotesize \textit{Translation of chapter 13}}}
+%%%%\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.pdf}
+
+
+% CORRECT PAGE NUMBER AFTER SKT EDITION !
+\setcounter{page}{1001}
+%%%%%\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex}
+
+\
+\pagebreak
+
+\blankpage
+
+\input{vss_vol2_translation_input.tex}
+
+
+
+
+
+
+
+
+
+%\mychapter{Appendices}
+%\addcontentsline{toc}{chapter}{\hspace{1.4em}Appendices}
+
+%\thispagestyle{empty}
+
+%\section{passeges from part two}
+
+%\vfill
+%\pagebreak
+
+
+
+
+
+
+
+\mychapter{Symbols and Abbreviations}
+%\addcontentsline{toc}{chapter}{\hspace{1.4em}Abbreviations and Bibliography}
+\thispagestyle{empty}
+
+\section{Symbols}
+
+\begin{description}
+
+\item[\similar]
+
+\item[\compare]
+
+\item[ = ]
+
+\end{description}
+
+
+\section{Abbreviations}
+
+\begin{description}
+
+\item[CUDL] = University of Cambridge Digital Library  
+  (https://cudl.lib.cam.ac.uk)
+  
+\item[\fol]
+
+\item[\fols]
+
+\item[MGMCP]
+
+\item[MGMPP]
+
+\item[MS(S)] = manuscript(s)
+
+%\nocite{Siddham} 
+\item[Siddham] = Siddham, the Asia Inscriptions Database:
+https://siddham.network 
+
+\item[ŚDhŚ] = \SDhS
+
+\item[ŚDhU] = \SDhU
+  
+\item[VSS] = asdfadfasdfadsa
+  
+\end{description}
+
+
+TO BE SUPPLIED
+
+\begin{itemize}
+\item
+  Balogh 2018? ON THE SAME TOPIC
+\item
+  Ranjan Sen 2006. `Vowel-weakening before muta cum liquidā sequences in
+  Latin. A problem of syllabification?' In: Oxford University Working
+  Papers in Linguistics, Philology \& Phonetics 11: 143-61.
+\end{itemize}
+\vfill
+\pagebreak
+%(\cite[see][13 ff.]{OlivelleGrhastha})
+
+
+
+\mychapter{References}
+\section{Primary Sources}
+
+\leftskip2em
+\parindent-2em
+\ 
+
+
+\skttitle{Arthaśāstra}{Arthasastra}: see \mycite{Arthasastra1969}
+
+\skttitle{Uttarottara}{Uttarottara}: see \verify
+
+\skttitle{Umāmaheśvarasaṃvāda}{Umamahesvarasamvada}: see \verify
+
+\skttitle{Ṛgveda-khila}{Rgvedakhila}: see \mycite{RgvedaKhila}
+
+\skttitle{Kūrmapurāṇa}{Kurmapurana}: see \mycite{Kurmapurana}
+
+\skttitle{Padmapurāṇa}{Padmapurana}: see \verify
+
+\skttitle{Buddhacarita}{Buddhacarita}: see \verify
+
+\Bodhisattvabhumi: see \verify
+
+\skttitle{Brahmāṇḍapurāṇa}{Brahmandapurana}: see \verify
+
+\BhG: see \mycite{MahabharataCriticalEd}  \verify
+
+\Manu: see \mycite{Manu1972}
+
+\MBh: see \mycite{MahabharataCriticalEd}
+
+\MahaSubhS: see \mycite{Mahasubhasitasamgraha}
+
+\skttitle{Mātaṅgalīlā}{Matangalila}: see \mycite{Matangalila}
+
+\YS: see \verify
+
+\Raghu: see %\mycite{Goodall...}
+
+\RasarnavaSK: see \mycite{Rasarnavasudhakara}
+
+\skttitle{Vāgmatīmāhātmyapraśaṃsā}{Vagmatimahatmyaprasamsa}:
+
+\VajasaneyiS: see \mycite{VajasaneyiS}
+
+\skttitle{Viṣṇudharmottara}{Visnudharmottara}:
+
+\skttitle{Viṣṇudharma}{Visnudharma}: see \mycite{VisnudharmaGrunendahl}
+
+
+\skttitle{Viṣṇupurāṇa}{Visnupurana}: see \mycite{Visnupurana_critical}
+
+OTHER PURANAS
+
+
+
+% print biblio:
+\bibliographystyle{csaba2022}
+%\renewcommand*{\bibname}{References huhu}
+
+%% Add titles without referencing them:
+%\nocite{MahabharataCriticalEd}
+%\nocite{Kurmapurana}
+
+\label{bibliography}
+
+CHANGE repeated authornames with
+\rule[.2em]{1.5cm}{.5pt}
+% or rather with 3 em dashes
+
+\bibliography{vssbiblio}
+
+
+
+\label{index}
+%\renewcommand*{\indexname}{{\normalfont Index}}
+\addcontentsline{toc}{chapter}{\protect\textbf{\numberline{}Index}}
+\printindex
+
+%\listoftodos
+%TODOS
+%fix nirṛta ligature
+
+\end{document}

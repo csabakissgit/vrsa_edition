@@ -1,0 +1,896 @@
+<START/>
+<startchapter-n="13"/> 
+%chapter 13
+%folioinfo \msCa\ 425.jpg, f. 251v
+%folioinfo \msCb\ 440.jpg, f. 219v line 2
+%folioinfo \msCc\ 228.jpg line 2, f.293v
+%folioinfo \msNa\ 215.jpg lower line 6
+%folioinfo \msNc\ 232.jpg upper, f. 225v ?
+%folioinfo \msM\ 432.jpg upper, f. 23v line 3
+%folioinfo \Ed\ p.629
+<CHAPTER>trayodaśamo 'dhyāyaḥ</CHAPTER> 
+<TRCHAPTER>Chapter Thirteen</TRCHAPTER> 
+<SUBCHAPTER>kathaṃ sukhopāyo na kriyate</SUBCHAPTER> 
+<TRSUBCHAPTER>Why is the easy method not followed?</TRSUBCHAPTER> 
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> ahiṃsātithyakānāṃ ca śruto dharmaḥ suvistaraḥ|</TEXT>
+        <APP>\va <LEM>°tithya°</LEM> \msCb\msCc\msNa\Ed; °tithyā° \msCa\ \unmetr</APP>
+        <NOTE>ŁPāda$s ab and cd are back-references to chapters 12 and 11,
+              respectively.</NOTE>
+        <TR>I have heard the Dharma of non-violence and of
+            guest-reception in detail.</TR>
+
+%folioinfo: \msNa\ 216.jpg upper
+<TEXT> kiṃ na kurvanti manujāḥ sukhopāyaṃ mahatphalam||</TEXT> 13:1
+        <APP>\vd <LEM>°pāyaṃ</LEM> \msCb\msCc\msNa\Ed; °<UNCL>pa</UNCL>yam \msCa</APP>
+        <NOTE>Łmahatphalam$ in Łpāda$ d should be taken as a Łbahuvrīhi$ compound
+              in spite of what Aṣṭādhyāyī 6.3.46 says: Łān mahataḥ samānādhikaraṇa-jātīyayoḥ$,
+              `The ending of Łmahat$ becomes Łā$ (Łmahā$) before a word that should be in the same
+               case (Łsamādhikaraṇa$) and before Łjātīya$'.
+               Kāśikāvṛtti ad loc. adds: 
+               Łamahān mahān sampanno mahadbhūtaś candramāḥ ity atra gauṇatvān mahadarthasya na bhavaty ātvam$,
+               `From non-big (Łamahān$), the Moon has become big (Łmahān sampannaḥ$): 
+               [this can be expressed by the phrase] Łmahadbhūtaś candramā$. 
+               In this case, because of the subordinate nature of the meaning of 'Łmahat$', the
+               substituion with Łā$ does not happen.'
+               In the above verse in the \VSS, Łmahat$ is clearly to be taken as being
+               in the same case as Łphalam$, therefore the use of Łmahat$ instead of Łmahā$ is 
+               grammatically problematic. 
+               See the same phenomenon mentioned in <citep>OberliesEpicSkt</citep><pnum>71</pnum>.
+               Łmahatphalam$ as a Łbahuvrīhi$ appears in \SDhS\ 1.10 \CHECK and \SDhU\ 10.5,
+               and Łsumahatpātaka$ as a compound in \SDHU\ 6.8 and 10. \CHECK</NOTE>
+% Dominic's note on ŚDhU 10.5:
+%|10.5| This interpretation requires understanding mahatphalam as a bahuvrīhi, the Pāṇinian form of which would be rather mahāphalam. Note that several South Indian sources actually read mahāphalam, whereas the Sanskit commentary reads mahatphalam but interprets it as though it were mahāphalam.
+        <TR>Why do people not follow the easy method that
+            brings about great rewards?</TR>
+
+<TEXT> svaśarīre sthito yajñaḥ svaśarīre sthitaṃ tapaḥ|</TEXT>
+        <APP>\va <LEM>°śarīre</LEM> \mssCaCbCc\msNa; °śarīra° \Ed</APP>
+        <NOTE>ŁPāda$s ab and cd are back-references to chapters 11 and 10,
+              respectively.</NOTE>
+        <TR>I have heard in full detail that worship resides in one's
+            own body, and penance resides in one's body,</TR>
+
+<TEXT> svaśarīre sthitaṃ tīrthaṃ śruto vistarato mayā||</TEXT> 13:2
+        <APP>\vd <LEM>vistarato</LEM> \msCa\msCc\msNa\Ed; \om\ \msCb</APP>
+        <TR>and that the pilgrimage places reside in one's own body.</TR>
+
+% note brūhi
+<TEXT> kimarthaṃ bhagavan{ }brūhi sukhopāyaṃ mahatphalam|</TEXT>
+        <APP>\va <LEM>°rthaṃ</LEM> \msCa\msCc\msNa\Ed; °rtha \msCb\oo
+                 <LEM>bhagavan{ }brū°</LEM> \msCb\Ed; bhagavān{ }brū° \msCa\msCc\msNa</APP>
+        <NOTE>On Łmahatphalam$, see note on 13.1 above.</NOTE>
+        <TR>O Lord, tell me why does the easy method yields
+                    great rewards?</TR>
+
+<TEXT> kiṃ nivṛttās{ }tu deveśa ṛṣidaivatamānuṣāḥ||</TEXT> 13:3 
+        <APP>\vd <LEM>°daivata°</LEM> \msCa\msCb\msNa\Ed; °devata° \msCc</APP>
+        <TR>And why are the sages, the gods, and the people
+                        indifferent?</TR>
+
+<TEXT> mahādeva uvāca|*</TEXT>
+        <APP>\vo <LEM>mahādeva</LEM> \msCa\msCb; maheśvara \msCc, deveśa \msNa, bhagavān \Ed</APP>
+        <NOTE>Note the variation in the manuscripts with regards to the interlocutor here:
+              Łmahādeva, maheśvara, deveśa, bhagavān$.</NOTE>
+        <TR>Mahādeva spoke:</TR>
+
+<TEXT> adya pṛṣṭena kathitaṃ gopitaṃ mayi sundari|</TEXT>
+        <APP>\vb <LEM>mayi</LEM> \msCb\msCc\msNa; <UNCL>ma</UNCL>yi \msCa, ṛṣi \Ed</APP>
+        <NOTE>Understand Łmayi$ in Łpāda$ b as Łmayā$ metri causa.</NOTE>
+        <TR>Now, as I am asked to do so, I shall reveal 
+            the secret to you, O Sundarī,</TR>
+
+<TEXT> mānuṣāṇāṃ hitārthāya tava ca varavarṇini||</TEXT> 13:4
+        <TR>for the benefit of mankind and to favour you, 
+                O Varavarṇinī.</TR>
+
+<TEXT> adyaprabhṛti deveśi khyātir{ }loke bhaviṣyati|</TEXT>
+        <APP>\vb <LEM>khyātir{ }lo°</LEM> \msCa\msCb\Ed; khyāti lo° \msCc\msNa</APP>
+        <TR>From this day on, O Deveśī, it will be open knowledge
+            (Łkhyāti$) in the world.</TR>
+
+<TEXT> dhanyā evaṃ cariṣyanti adhanyā na ramanti tam||</TEXT> 13:5
+        <TR>The fortunate ones will follow, the unfortunate ones will 
+                not delight in it.</TR>
+
+<TEXT> triguṇena tu bandhena baddhapāśadṛḍhena tu|</TEXT>
+        <APP>\vb <LEM>baddha°</LEM> \msCa\msNa; baddhaḥ \msCb, baddhā° \msCc\Ed</APP>
+        <TR>Because of the threefold bondage,
+                in which the nooses are tied firmly,</TR>
+
+<TEXT> tenārthena ramanty{ }atra jānanto 'pi hi mohitāḥ||</TEXT> 13:6
+        <APP>\vd <LEM>hi</LEM> \mssCaCbCc\msNa; vi° \Ed</APP>
+        <TR>those who are stuck in it remain deluded, even if
+            they are knowledgable.</TR>
+
+
+<SUBCHAPTER>triguṇabandhaḥ</SUBCHAPTER> 
+<TRSUBCHAPTER>Threefold bondage</TRSUBCHAPTER> 
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+% cchedaka would be unmetrical?
+<TEXT> kiṃ vā triguṇabandheti brūhi saṃśayachedaka|</TEXT>
+        <APP>\va <LEM>°bandheti</LEM> \msCa\msNa\Ed; °bandhena \msCb\msCc</APP>
+        <APP>\vb <LEM>°chedaka</LEM> \mssCaCbCc\Ed; °chedakaḥ \msNa</APP>
+        <TR>But what is this threefold bondage?
+                Teach me, O you who repel my doubts.</TR>
+        
+<TEXT> adyāpi mama deveśa mohotpannas{ }tribandhanaiḥ||</TEXT> 13:7
+        <NOTE>Understand Łmohotpannas$ in Łpāda$ d as
+              Łmoha utpannas$ (double sandhi).</NOTE>
+        <TR>Even now, I am still confused, O Deveśa, by the threefold bondage.</TR>
+
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> prākṛtaṃ vaikṛtaṃ caiva dakṣiṇābandham{ }eva ca|</TEXT>
+        <APP>\va <LEM>prākṛtaṃ vai°</LEM> \msCa\msNa\Ed; prākṛm{ }vai° \msCb, prākṛtiṃ vai \msCc</APP>
+        <TR>The social classes (Łvarṇa$) and the social order of disciplines (Łāśrama$)</TR>
+
+%folioinfo \msM\ breaks off, f. 24 missing?
+<TEXT> etenaiva tu bandhena baddhāḥ varṇāśramāḥ sadā||</TEXT> 13:8
+        <NOTE>The three categories of Łprākṛta$- Łvaikṛta$- and Łdakṣiṇābandha$ appear in commentaries on
+              Sāṃkhya texts. One brief explanation that is close to what could be implied 
+              here in the \VSS\ is Māṭhatavṛtti ad Sāṃkhyakārikā 44:
+                Łtenājñānena manuṣyatiryagdeveṣv ātmānaṃ nibadhnāti | na mokṣaṃ
+                gacchatīty arthaḥ | ato 'jñānaṃ nimittaṃ bandho naimittikāḥ | sa ca bandhas
+                trividhaḥ | prakṛtibandho vaikārikabandho dakṣiṇābandhaś ceti | tatra
+                prakṛtibandho nāmāṣṭāsu prakṛtiṣu paratvenābhimānaḥ | vaikārikabandho nāma
+                brahmādisthāneṣu śreyobuddhiḥ | dakṣiṇābandho nāma gavādidānejyānimittaḥ |$ </NOTE>
+        <TR>are bound forever by [1] natural (Łprākṛta$), and [2] modified (Łvaikṛta$) bondage, and
+                [3] the bondage of ritual reward (Łdakṣiṇā\-bandha$).</TR>
+
+<TEXT> jñānahīnā nivartante paramaṃ prāpya tat{ }padam|</TEXT>
+        <APP>\vb <LEM>tat{ }padam</LEM> \mssCaCbCc\msNa; tatparaṃ \Ed</APP>
+        <TR>After they have reached that ultimate realm,
+               being ignorant, [people] fall back</TR>
+
+%folioinfo \msCc\ 229.jpg f. 294r
+<TEXT> iṣṭastrīputrabhṛtyārthe dhanadhānyasamuccaye|</TEXT>
+        <APP>\vc <LEM!>iṣṭastrīputrabhṛtyārthe</LEM> \mssCaCbCc\msNa;
+                                 iṣṭastrīṣu nivartante \Ed</APP>
+        <APP>\vd <LEM>°ccaye</LEM> \msCa\msCc\msNa\Ed; °caye \msCb\ \unmetr</APP>
+        <TR>for the sake of a desired woman, in order to have sons,
+             servants, to accumulate money and grain.</TR>
+
+%folioinfo \msCa\ 426.jpg, f.216r
+<TEXT> snehād{ }ākṛṣṭamanasāṃ bandhaḥ prākṛta ucyate||</TEXT> 13:9
+        <APP>\ve <LEM>°kṛṣṭamanasāṃ</LEM> \msCa\msCb\msNa; °kṛṣṇamanasā \msCc, °kṛṣyamanasāṃ \Ed</APP>
+        <TR>The bondage of minds that are caught by affection 
+            is called `natural' (Łprākṛta$).</TR>
+
+<TEXT> yogayuktena manasā yad{ }yad{ }aiśvaryam{ }āpyate|</TEXT>
+        <TR>If one gets attached to the powers that one has obtained 
+            by controlling the mind with yoga,</TR>
+
+<TEXT> tadā vaikṛtabandhaṃ tu yadi tatrānurajyate||</TEXT> 13:10
+        <APP>\vc <LEM>tadā</LEM> \conj; tam{ }ā° \msCa\msCc\msNa, tamo \msCb, tac{ }ca \Ed\oo
+                 <LEM>°bandhaṃ tu</LEM> \mssCaCbCc\msNa; °bandhas{ }tu \Ed</APP>
+        <TR>then it is the `modified' (Łvaikṛta$) bondage.</TR>
+        
+
+
+%folioinfo \Ed\ p.630
+<TEXT> ārāmodyānavāpīṣu dānakratuphaleṣu ca|</TEXT>
+        <TR>The abiding[?] of one's mind that is attached to [gifting] gardens, parks, 
+             and wells, to the fruits of gifting and rites,</TR>
+
+<TEXT> āsaktamanaso vāso dakṣiṇābandha kathyate||</TEXT> 13:11
+        <APP>\vc <LEM!>āsaktamanaso vāso</LEM> \msCa\msCb\msNa; aśaktamanaso vāsa \msCc, āśaktamanasā vācā \Ed</APP>
+        <APP>\vd <LEM>°bandha</LEM> \corr; °bandhaḥ \mssCaCbCc\msNa\Ed\ \unmetr</APP>
+        <NOTE>I have corrected °Łbandhaḥ$ to °Łbandha$, a \stemform\ noun, in
+              Łpāda$ d to restore the metre.</NOTE>
+        <TR>is called the bondage of ritual reward (Łdakṣiṇā\-bandha$).</TR>
+
+
+
+<TEXT> anenaiva tu pāśena baddho vānaravad{ }yathā|</TEXT>
+        <APP>\va <LEM>pāśena</LEM> \msCb\msCc\msNa\Ed; <UNCL>pā</UNCL>\lac na \msCa</APP>
+        <APP>\vb <LEM>baddho</LEM> \mssCaCbCc\msNa; baddhā \Ed</APP>
+        <TR>Tied with this bondage, like monkeys</TR>
+
+<TEXT> mokṣituṃ na ca śaknoti itaś{ }cetaś{ }ca dhāvati||</TEXT> 13:12
+        <TR>not able to get away, people just keep running
+            to and fro.</TR>
+
+<TEXT> devāsuramanuṣyeṣu tiryeṣu narakeṣu ca|</TEXT>
+        <TR>They will trasmigrate through [births among the] gods, demons, humans,
+             animals, and in hells,</TR>
+
+<TEXT> bhramate cakrayantravad yāvat{ }tattvaṃ na vindati||</TEXT> 13:13
+        <APP>\vcd <LEM!>bhramate cakrayantravad{ }yāva°</LEM> \msCa\msNa; 
+                                        bhramate  cakravat{ }tāvad{ }yāva° \msCb
+                                        bhramate  cakrayantraiś{ }cad{ }yāva° \msCc,
+                                        bhramante cakrayantreva yāva° \Ed</APP>
+        <TR>as if on a wheel-machine, until they understand the truth.</TR>
+
+<TEXT> garbhavāsaparikleśo janmamṛtyuḥ punaḥ punaḥ|</TEXT>
+        <APP>\va <LEM>°kleśo</LEM> \msCa\msCb\msNa; °kleśau \msCc\Ed</APP>
+        <APP>\vb <LEM>°mṛtyuḥ</LEM> \msCa\msNa; °mṛtyu \msCb\msCc\Ed</APP>
+        <TR>There is the pain of being in the womb, birth and death again and again,</TR>
+
+<TEXT> vyādhiśokabhayāyāsacintayā jarayā hataḥ||</TEXT> 13:14
+        <APP>\vc <LEM>vyādhi°</LEM> \mssCaCbCc\msNa; vyādhiḥ \Ed\oo
+                 <LEM>°bhayā°</LEM> \mssCaCbCc\Ed; °sayā° \msNa</APP>
+        <TR>and then one dies of old age with anxiety about illness, sadness, danger, and fatigue.</TR>
+
+
+<SUBCHAPTER>garbhotpattiḥ</SUBCHAPTER> 
+<TRSUBCHAPTER>Formation of the embryo</TRSUBCHAPTER> 
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> garbhotpattiḥ kathaṃ deva yogī labhati kīdṛśīm|</TEXT>
+        <APP>\va <LEM>°pattiḥ</LEM> \mssCaCbCc\Ed; °pattiṃ \msNa\oo
+                 <LEM>deva</LEM> \msCapcorr\msCb\msCc\msNa\Ed; devi \msCaacorr</APP>
+        <APP>\vb <LEM>°dṛśīm</LEM> \msCa\msCc\msNa\Ed; °dṛśam \msCb</APP>
+        <TR>How is the embryo produced, O god? And what 
+            kind [of development of an embryo] will the yogin go through?</TR>
+
+<TEXT> kīdṛśaṃ labhate garbhaṃ śrotuṃ naḥ pratidīyatām||</TEXT> 13:15
+        <APP>\vc <LEM>garbhaṃ</LEM> \msCa\msCbpcorr\msNa; ga<UNCL>rbhāṃ</UNCL> \msCbacorr, garbhaḥ \msCc\Ed</APP>
+        <APP>\vd <LEM>pratidīyatām</LEM> \mssCaCbCc\msNa; pratyudīryatām \Ed</APP>
+        <TR>What kind of a womb will he end up? Allow us to hear this.</TR>
+
+
+%folio_info: \msCb\ 220r 441.jpg
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+
+<TEXT> śṛṇu devi pravakṣyāmi garbhotpattiṃ yathākramam|</TEXT>
+        <APP>\vb <LEM>°pattiṃ ya°</LEM> \msCa\msNa; °patti ya° \msCb\msCc, °pattir{ }ya° \Ed</APP>
+        <TR>Listen, O Devī, I shall teach you the formation 
+            of the embryo in due order,</TR>
+
+<TEXT> yathā saṃśayavicchedaṃ labhiṣyasi varānane||</TEXT> 13:16
+        <APP>\vc <LEM>°cchedaṃ</LEM> \msCa\msCc\msNa\Ed; °ccheda \msCb</APP>
+        <APP>\vd <LEM>labhiṣyasi</LEM> \mssCaCbCc\msNa; bhaviṣyasi \Ed</APP>
+        <TR>to put an end to your doubts, O Varānanā.</TR>
+
+<TEXT> akṣarāt{ }prabhavo brahmā karma brahmasamudbhavam|</TEXT>
+        <APP>\va <LEM>akṣarāt{ }pra°</LEM> \msCa\msCb\msNa\Ed; akṣarā pra° \msCc</APP>
+        <APP>\vb <LEM>brahma°</LEM> \msCa\msCb; brahmā° \msCc\msNa, vaddha° \Ed</APP>
+        <NOTE>Understand Łpāda$ a as Łakṣarāt brahmaprabhavaḥ$.</NOTE>
+        <TR>From the imperishable is born Brahmā. 
+            From Brahmā is born the ritual (Łkarman$).</TR>
+
+<TEXT> karmato yajñaprabhavo yajñato dhūmasambhavaḥ||</TEXT> 13:17
+        <NOTE>ŁPāda$ c is a Łna-vipulā$ if the syllabe Łpra$
+              does not makes the previous syllable heavy (\mutacumliquida).</NOTE>
+        <TR>From ritual arises worship (Łyajña$). 
+            From sacrifice arises smoke.</TR>
+
+%index_metre: muta cum liquida licence (pra) na-vipulā
+
+%lacuna_start: Ed
+<TEXT> dhūmrād{ }abhrāṇi jāyante abhrāt{ }parjanyasambhavaḥ |</TEXT>
+        <APP>\va <LEM>dhūmrād{ }abhrāṇi</LEM> \msCb\msCc; dhūmād{ }abhrāṇi \msCa,
+                                                     dhūmrādad{ }abhrāṇi \msNa</APP>
+        <LACUNA>\vab Łmissing in \Ed$</LACUNA>
+        <TR>From smoke are born the clouds. From the clouds come the rain-clouds.</TR>
+
+%lacuna_end: Ed
+
+%folioinfo: \msNa\ 216.jpg lower
+<TEXT> parjanyād{ }annam{-}utpattir{ }annād{ }bhūtāni jajñire||</TEXT> 13:18
+        <APP>\vd <LEM>°nnād{ }bhūtāni</LEM> \msCa\msCb\msNa\Ed; °nnā bhūtāni \msCc\oo
+                 <LEM>jajñire</LEM> \msCa\msCc\msNa\Ed; yajñire \msCb</APP>
+        <NOTE>Understand Łannam utpattir$ in Łpāda$ c as a Łtatpuruṣa$ compound.</NOTE>
+        <TR>From the rain-clouds food arises. From food living beings arise.</TR>
+
+<TEXT> annād{ }rasasamutpattī rasāc{ }choṇitasambhavaḥ|</TEXT> 
+        <APP>\va <LEM>°tpattī</LEM> \mssCaCbCc\msNa; °tpatti \Ed</APP>
+        <TR>From food arises flavour (Łrasa$). From flavour arises blood.</TR>
+
+<TEXT> śoṇitān{ }māṃsam{-}utpattir{ }māṃsād{ }medasamudbhavaḥ||</TEXT> 13:19
+        <APP>\vc <LEM>°tān{ }māṃsa°</LEM> \msCa\msNa\Ed; °tān{ }māsa° \msCb, °tā mānsa° \msCc</APP>
+        <APP>\vcd <LEM>°tpattir{ }māṃsā°</LEM> \msCa\msNa; °tpattir{ }māsā° \msCb, °tpatti māṃsā° \msCc\Ed</APP>
+        <APP>\vd <LEM>°dasamudbha°</LEM> \msNa\Ed; °dassamudbha° \msCa\msCc, °daḥ samudbha° \msCb</APP>
+        <TR>From blood flesh arises. From flesh fat arises.</TR>
+
+<TEXT> medaso 'sthīni jāyante asthibhyo majjasambhavaḥ|</TEXT> 
+        <APP>\va <LEM>medaso 'sthīni</LEM> \msCa\msCb\msNa\Ed; medo'sthīni \msCc</APP>
+        <TR>From fat bones arise. From the bones marrow arises.</TR>
+
+<TEXT> majjāyās{ }tu bhavec{ }chukraṃ naraḥ śukrasamudbhavaḥ||</TEXT> 13:20
+        <APP>\vc <LEM>majjāyā°</LEM> \msCa\msCc\msNa\Ed; majjayā° \msCb</APP>
+        <TR>From marrow arises semen. And man is born from semen.</TR>
+
+<TEXT> śukraśoṇitasaṃyogād{ }garbhotpattis{ }tataḥ smṛtā|</TEXT>
+        <APP>\vb <LEM>smṛtā</LEM> \msCa\msCb\msNapcorr; smṛtaḥ \msCc\msNaacorr\Ed</APP>
+        <TR>The formation of the embryo is known to come 
+            from the union of semen and blood.</TR>
+
+<TEXT> agnisomātmakaṃ devi śarīraṃ dvayadhātutaḥ||</TEXT> 13:21
+        <APP>\vd <LEM>śarīraṃ</LEM> \mssCaCbCc\msNa; śarīra° \Ed</APP>
+        <TR>The body is made of Fire and Soma, O Devī, 
+            because of the two [corresponding] elements.</TR>
+
+<TEXT> somadhātu smṛtaṃ śukram{ }agnidhātu rajaḥ smṛtam|</TEXT>
+        <APP>\vab <LEM>°kram{ }agni°</LEM> \msCa\msCc\msNa\Ed; °kram{ }ārgga° \msCb</APP>
+        <APP>\vb <LEM>rajaḥ</LEM> \mssCaCbCc\msNa; raja \Ed\oo
+                 <LEM>smṛtam</LEM> \msCa\msCb\Ed; smṛtaḥ \msCc\msNa</APP>
+        <TR>Semen is said to be of the Soma element,
+            blood is said to be of the Fire element.</TR>
+
+<TEXT> agnisomāśrayaṃ devi śarīram{ }iti saṃjñitam||</TEXT> 13:22
+        <APP>\vd <LEM>saṃjñitam</LEM> \msCb\msCc\msNa\Ed; saṃ<UNCL>jñi</UNCL>\lac\ \msCa</APP>
+        <TR>The body is taught to be the seat of Fire and Soma, O Devī.</TR>
+
+<TEXT> māse māse ṛtuḥ strīṇāṃ bhavatīha na saṃśayaḥ|</TEXT>
+        <APP>\va <LEM>māse māse ṛtuḥ</LEM> \msCa\msCc; māse māse ṛtu \msCb\msNa, māsī māsī ṛtuḥ \Ed</APP>
+        <TR>Each month women have their periods, no doubt about it.</TR>
+
+%folioinfo \msCc\ 230.jpg f. 294v
+<TEXT> ṛtukāle prasarpeta na sukhārthaṃ varānane||</TEXT> 13:23
+        <APP>\vc <LEM>°sarpeta</LEM> \msCb\msCc\msNa; °sa<UNCL>rppe</UNCL>ta \msCa, °sarpyeta \Ed</APP>
+        <TR>One should approach them at the time of their period,
+            and not for pleasure, O Varānanā.</TR>
+
+<TEXT> putrakāmaḥ prayuñjīta dharmārthaṃ ca yaśasvini|</TEXT>
+        <APP>\va <LEM>°kāmaḥ</LEM> \mssCaCbCc; °kāma \msNa\Ed</APP>
+        <APP>\vb <LEM>°rthaṃ ca</LEM> \mssCaCbCc\msNa; rthaś{ }ca \Ed</APP>
+        <TR>One should enjoy [a woman] if one wishes to have a son,
+            and for the sake of religious duty (Łdharma$), 
+            O Yaśasvinī.</TR>
+
+<TEXT> pumān{ }strīṣūpayuñjīta araṇīva hutāśanam||</TEXT> 13:24
+        <APP>\vc <LEM>°ṣūpa°</LEM> \mssCaCbCc\msNa; °puṃ pra° \Ed</APP>
+        <APP>\vd <LEM>°śanam</LEM> \msNa; °śanaḥ \mssCaCbCc\Ed</APP>
+        <TR>The man should enjoy the women[, and produce offspring,]
+            like two sticks [rubbed together produce] fire.</TR>
+
+<TEXT> pumān{ }śukrādhiko jñeyaḥ kanyā raktādhikā bhavet|</TEXT>
+        <TR>Males are to be known as having an excess of
+            semen, while females have an excess of blood.</TR>
+
+<TEXT> samaśukre ca rakte ca sa ca jāyen{ }napuṃsakaḥ||</TEXT> 13:25
+        <APP>\vd <LEM>jāyen{ }na°</LEM> \msCa\msCb\msNa\Ed; jāye na° \msCc</APP>
+        <TR>When the semen and the blood are in equal 
+            quantitiy, a gender-neutral [child] will be born.</TR>
+
+
+<SUBCHAPTER>dviyamā triyamā ca gurviṇī</SUBCHAPTER>
+<TRSUBCHAPTER>Pregnancy with twins and triplets</TRSUBCHAPTER>
+
+%folioinfo \msCa\ 427.jpg
+%folioinfo \Ed\ p.631
+<TEXT> devy{ }uvāca|*</TEXT>
+        <TR>Devī spoke:</TR>
+
+<TEXT> dviyamā triyamā caiva kathaṃ jāyeta gurviṇī|</TEXT>
+        <TR>How does a woman become pregnant with twins or triplets?</TR>
+
+<TEXT> kathaṃ strīdviyamā jāyet{ }kathaṃ vā puruṣadvayam||</TEXT> 13:26
+        <TR>How are twin girls born and how are twin boys born?</TR>
+
+<TEXT> bhagavān{ }uvāca|*</TEXT>
+        <TR>The Lord spoke:</TR>
+
+<TEXT> raktādhikā smṛtā kanyā jāyate varavarṇini|</TEXT>
+        <APP>\vb <LEM>jāyate</LEM> \msCa\msCb\msNa\Ed; jāyante \msCc</APP>
+        <TR>When there is an excess of blood, 
+            a daughter is born, O Varavarṇinī.</TR>
+
+<TEXT> vāyunā ca dvidhā bhinnā kanyakādviyamā smṛtā||</TEXT> 13:27
+        <APP>\vd <LEM>kanyakā°</LEM> \mssCaCbCc\msNa; kanyaka° \Ed</APP>
+        <TR>When it is split into two by Wind, 
+            it will be twin girls.</TR>
+
+%Caraka: 
+%śukrādhikaṃ dvaidham upaiti bījaṃ 
+%  yasyāḥ sutau sā sahitau prasūte  |
+%raktādhikaṃ vā yadi bhedam eti 
+% dvidhā sute sā sahite prasūte  ||  13  ||
+%Tr. p700
+
+<TEXT> śukrādhikas{ }tu puruṣo dvidhā bhinno 'nilena tu|</TEXT>
+        <APP>\va <LEM>°dhikas{ }tu</LEM> \msCb\msCc\msNa; °dhi<UNCL>ka</UNCL>\lac\ \msCa, °dhikās{ }tu \Ed\oo
+                 <LEM>puruṣo</LEM> \msCa\msCb\msNa; puruṣā \msCc, puruṣa \Ed</APP>
+        <APP>\vb <LEM>bhinno</LEM> \msCa\msCb\msNa; bhinnā \msCc\Ed</APP>
+        <TR>And when the male, which has an excess of semen, is
+            split into two by Wind,</TR>
+
+%bhinatti yāvad bahudhā prapannaḥ
+% śukrārtavaṃ vāyuratipravṛddhaḥ  |
+%tāvanty apatyāni yathāvibhāgaṃ 
+% karmātmakānyasvavaśāt prasūte  ||  14  ||
+
+<TEXT> dviyamā puruṣā jñeyās{ }triyamās{ }tu tridhā kṛte||</TEXT> 13:28
+        <APP>\vc <LEM>puruṣā</LEM> \msCa\msCb; puruṣo \msCc\msNa\Ed</APP>
+        <APP>\vcd <LEM>jñeyās{ }triyamās{ }tu tri°</LEM> \msCa\msCc\msNapcorr; 
+                                                jñeyāḥs{ }triyamās{ }tus{ }tri° \msCb,
+                                                jñeyās{ }triyamā tri° \msNaacorr,
+                                                jñeyā triyamās{ }tu tri° \Ed</APP>
+        <TR>they will be twin boys. When it is split into three,
+                they will be triplets.</TR>
+
+<TEXT> ṛtusnātā yadā nārī yadi garbhād{ }vigṛhṇati|</TEXT>
+        <APP>\vb <LEM!>garbhād{ }vigṛhṇati</LEM> \mssCaCbCc\msNa; garbhādi gṛhyati \Ed</APP>
+        <TR>When a woman has just bathed after her period, if she conceives[?] in[?] her womb</TR>
+
+<TEXT> prathame ca dvitīye ca tṛtīye ca na jīvati||</TEXT> 13:29
+        <APP>\vd <LEM>na</LEM> \mssCaCbCc\msNa; sa \Ed</APP>
+        <TR>on the first, second, or third day, [the embryo] will not survive.</TR>
+%Suśruta
+%3.2.48| ṛtusnātā tu yā nārī svapne maithunamāvahet||
+%ārtavaṃ vāyurādāya kukṣau garbhaṃ karoti hi||
+%3.2.49| māsi māsi vivardheta garbhiṇyā garbhalakṣaṇam||
+%kalalaṃ jāyate tasyā varjitaṃ paitṛkairguṇaiḥ||
+%3.2.50| sarpavṛścikakūṣmāṇḍavikṛtākṛtayaśca ye||
+%garbhāstvete striyāścaiva jñeyāḥ pāpakṛtā bhṛśam||
+%3.2.51| garbho vātaprakopeṇa dauhṛde vāvamānite||
+%bhavet kubjaḥ kuṇiḥ paṅgurmūko minmina eva vā|| ETC
+
+<TEXT> sameṣu janayet{ }putraṃ kanyakāṃ viṣame dine|</TEXT>
+        <APP>\va <LEM>°t{ }putraṃ</LEM> \corr; °t{ }putraḥ \mssCaCbCc\msNa\Ed</APP>
+        <APP>\vb <LEM>kanyakāṃ vi°</LEM> \corr; kanyakā vi° \msCa\msCc\msNa\Ed, kanyakā<UNCL>d{ }vi°</UNCL> \msCb</APP>
+        <TR>On even days, he will beget a son, on odd days, a daughter.</TR>
+
+<TEXT> ṣaṣṭy{ }aṣṭamī ca daśamī dvādaśī ca pumān bhavet||</TEXT> 13:30
+        <APP>\vc <LEM>ṣaṣṭy{ }aṣṭamī</LEM> \msCa\msCb\msNa; ṣaṣṭyāṣṭamī \msCc, ṣaṣṭyāṣṭamau \Ed</APP>
+        <APP>\vd <LEM>dvādaśī</LEM> \msCa\msCc\msNa\Ed; \om\ \msCb\oo
+                 <LEM>bhavet</LEM> \msCa\msCb\msNa\Ed; labhet \msCc</APP>
+        <TR>On the sixth, eighth, tenth, and twelfth days: it will be a male.</TR>
+
+<TEXT> pañcamī saptamī caiva navamy{ }ekādaśī striyaḥ|</TEXT>
+        <APP>\vb <LEM>navamy{ }ekā°</LEM> \mssCaCbCc\msNa; navam{ }ekā° \Ed</APP>
+        <TR>On the fifth, seventh, ninth, and eleventh days: a female.</TR>
+
+<TEXT> samarakte ca śukre ca śyāmaḥ saṃjāyate pumān||</TEXT> 13:31
+        <APP>\vd <LEM>śyāmaḥ</LEM> \msCa\msCb\msNa\Ed; śyāma \msCc</APP>
+        <TR>When blood and semen are even, the man will be dark-coloured.</TR>
+
+<TEXT> rudhiraṃ tv{ }ekarātreṇa kalalaṃ pratipadyate|</TEXT>
+        <APP>\va <LEM>rudhiraṃ</LEM> \msCa\msCb\msNa\Ed; rudhira \msCc</APP>
+        <TR>The blood will turn into a spot in one day.</TR>
+
+<TEXT> kalalaṃ pañcarātreṇa arbudatvaṃ prajāyate||</TEXT> 13:32
+        <TR>This spot will become a lump in five days.</TR>
+
+<TEXT> arbudaḥ saptarātreṇa māṃsapeśīsamudbhavaḥ|</TEXT>
+        <APP>\va <LEM>arbudaḥ</LEM> \msCa\msCb\msNa\Ed; arbuda \msCc</APP>
+        <TR>The lump will become a piece of flesh by the end of the first week.</TR>
+
+% \similar\ Śivadharmottara 29ab
+<TEXT> dvitīyasaptarātreṇa tat{ }sarvaṃ māṃsaśoṇitam||</TEXT> 13:33
+        <APP>\vc <LEM>°dvitīya</LEM> \mssCaCbCc\msNa; dvitīyaṃ \Ed</APP>
+        <TR>By the end of the second week, the whole thing will be 
+            flesh and blood.</TR>
+
+<TEXT> tṛtīyasaptarātreṇa hṛdayaṃ jāyate tataḥ|</TEXT>
+        <APP>\va <LEM>tṛtīya°</LEM> \mssCaCbCc; tṛtīyaṃ \msNa\Ed</APP>
+        <TR>By the end of the third week, it will have a heart.</TR>
+
+<TEXT> tataḥ sarvāṇi gātrāṇi śiraś{ }caivopajāyate||</TEXT> 13:34
+        <TR>Then all the limbs and the head are formed.</TR>
+
+%folioinfo: \msNa\ 217.jpg upper
+<TEXT> hṛdaye jāyamāne tu mūrcchā tandrir{ }arocakaḥ|</TEXT>
+        <APP>\vb <LEM>mūrcchā ta°</LEM> \mssCaCbCc\msNa; mūrcchanta° \Ed\oo
+                 <LEM>tandrir{ }arocakaḥ</LEM> \msCa\Ed; taṃdrir{ }avocakaḥ \msCb, tandrīr{ }arocakaḥ \msCc\msNa</APP>
+        <TR>When the heart is developing, [the women will experience]
+            fainting, exhaustion, and loss of apetite.</TR>
+
+<TEXT> striyāś{ }chardiḥ prasekaś{ }ca daurbalyaṃ copajāyate||</TEXT> 13:35
+        <APP>\vd <LEM>daurbalyaṃ</LEM> \msCa\msCc\msNa\Ed; daubalya \msCb</APP>
+        <TR>She will experience nausea, vomiting and weakness.</TR>
+
+%folioinfo: \msCb 442.jpg, f. 220v
+<TEXT> tasya hi hṛdayaṃ nārī yadi bhidyati kiṃcana|</TEXT>
+        <APP>\va <LEM>tasya</LEM> \mssCaCbCc\msNa; tasyā \Ed</APP>
+        <APP>\vb <LEM>bhidyati</LEM> \msCb\msNa; bhidyāti \msCa\msCc, bhakṣyati \Ed</APP>
+        <NOTE>The translation of this verse is tentative and presupposes
+              that the construction Łtasya ... hṛdayaṃ nārī$ stands for
+              Łtasyā nāryā hṛdayaṃ$.  Perhaps understand Łbhidyati$ 
+              in Łpāda$ b as Łbhedayati$ (causative).</NOTE>
+        <TR>If the woman's heart is longing for something,</TR>
+
+%index_grammar: odd syntax, Newar?
+
+<TEXT> bhakṣyaṃ lehyaṃ tathā peyam{ }upabhogāṃs{ }tathārthayet||</TEXT> 13:36
+        <APP>\vc <LEM>bhakṣyaṃ lehyaṃ ta°</LEM> \msCa\msNa\Ed; bhakṣyaṃ lehyaṃn{ }ta° \msCb,
+                                                        bhakṣyalehyan{ }ta° \msCc</APP>
+        <APP>\vcd <LEM>peyam{ }u°</LEM> \msCb\msCc\Ed; pe\lac\ \msCa, peyaṃm{ }u° \msNa</APP>
+        <APP>\vd <LEM>°bhogāṃs{ }ta°</LEM> \msCa\msCc; °bhogāṃ{ }ta° \msCb, °bhogās{ }ta° \msNa\Ed\oo
+                 <LEM>°rthayet</LEM> \mssCaCbCc\msNa; °yayat \Ed</APP>
+        <TR>and she asks for any food, be it chewable, sippable, drinkable, or
+            any kind of delicacy,</TR>
+
+%folioinfo \msCc\ 231.jpg f. 295r
+<TEXT> śayanāsanadānāni vastrāṇy{ }ābharaṇāni ca|</TEXT>
+        <APP>\va <LEM>°dānāni</LEM> \mssCaCbCc\msNa; °yānāni \Ed</APP>
+        <TR>a bed, a seat, gifts, clothes, or jewellery,</TR>
+
+<TEXT> yad{ }yad{ }ākāṅkṣate kiṃcit{ }tadāsyaiva pradāpayet||</TEXT> 13:37
+        <APP>\vd <LEM>tadāsyaiva</LEM> \msCb\msCc\msNa; tad{ }āsyai ca \msCa, 
+                                                  tat{ }tad{ }āsyai \Ed</APP>
+        <NOTE>Understand Łtadāsyaiva$ (or Łtad asyaiva$) 
+              as Łtadaiva asyai$ (or Łtad eva asyai$).</NOTE>
+        <TR>anything she desires, one should give that to her immediately.</TR>
+
+%Cf.\ MBh 13.40.12:
+%śayyāsanam alaṃkāram annapānam anāryatām |
+%durvāgbhāvaṃ ratiṃ caiva dadau strībhyaḥ prajāpatiḥ ||
+
+%index_grammar: gender confusion
+
+<TEXT> nāyāsaṃ kārayec{ }cāsyā na caivam{ }avamānayet|</TEXT>
+        <APP>\va <LEM>kārayec{ }cāsyā</LEM> \msCa\msCb\Ed; kāraccāsyo \msCc, kārayec{ }cāsya \msNa</APP>
+        <TR>One should not cause her trouble, and should not ignore her.</TR>
+
+%folioinfo \msM\ resumes 432.jpg lower, f. 25r
+<TEXT> mukham{ }āpāṇḍuraṃ snigdhaṃ kālatvaṃ stanakakṣayoḥ||</TEXT> 13:38
+        <APP>\vc <LEM>°pāṇḍuraṃ</LEM> \Ed; °pāṇḍaraṃ \mssCaCbCc\msNa</APP>
+        <APP>\vd <LEM!>kālatvaṃ stanakakṣayoḥ</LEM> \msCb\msCc\msNa; 
+                                        kālaṃtva stanakakṣayoḥ \msCa,
+                                        kapolastanakeśayoḥ \Ed</APP>
+        <TR>Her face is pale and greasy, her breasts and armpits dark.</TR>
+
+<TEXT> śarīraṃ ca śriyā juṣṭaṃ pīnoruśroṇivaṅkṣaṇam|</TEXT>
+        <APP>\va <LEM>śarīraṃ ca</LEM> \mssCaCbCc\msNa; śarīraś{ }ca \Ed</APP>
+        <APP>\vb <LEM>°śroṇivaṅkṣaṇam</LEM> \corr;
+                                °śoṇivaṃkṣaṇam \msCa\msNa, °śoṇivakṣaṇam \msCb\msCc, °śroṇivakṣasam \Ed</APP>
+        <TR>Her body is inhabited by beauty, her thighs, buttocks,
+            and groin are round and fleshy.</TR>
+
+<TEXT> liṅgair{ }ebhir{ }vijānīyād{ }garbhe jīvaṃ pratiṣṭhitam||</TEXT> 13:39
+        <APP>\vc <LEM>liṅgair{ }e°</LEM> \msCa\msCb\msNa; liṅger{ }e° \msCc\Ed</APP>
+        <APP>\vcd <LEM>°jānīyād{ }ga°</LEM> \mssCaCbCc\msNa; °jānīyāṅ{ }ga° \Ed</APP>
+        <TR>By these sings, one should know that there is a [new] life in the womb.</TR>
+
+<TEXT> caturthasaptarātreṇa śiraś{ }caivopajāyate|</TEXT>
+        <APP>\va <LEM>caturtha°</LEM> \corr; caturthe \mssCaCbCc\msNa\Ed</APP>
+        <TR>By the fourth week, the head develops.</TR>
+
+
+% unmetr (two short)
+<TEXT> pañcamasaptarātreṇa grīvā tatropajāyate||</TEXT> 13:40
+        <APP>\vd <LEM>grīvā ta°</LEM> \msCa\msCb\msNa\Ed; grīvās{ }ta° \msCc</APP>
+        <TR>By the fifth week, the neck develops.</TR>
+
+% unmetr (two short)
+<TEXT> ṣaṣṭhamasaptarātreṇa skandhagātraṃ prajāyate|</TEXT>
+        <TR>By the sixth week, the shoulders and the limbs form.</TR>
+
+%folioinfo \Ed\ p.632
+<TEXT> saptamasaptarātreṇa pṛṣṭhavaṃśaḥ prajāyate||</TEXT> 13:41
+        <APP>\vd <LEM>°vaṃśaḥ</LEM> \msCa\msCc\msNa; °śaśaḥ \msCb, °vaṃśa \Ed</APP>
+        <TR>By the seventh week, the backbone develops.</TR>
+
+<TEXT> aṣṭamasaptarātreṇa pāṇī jāyata cobhayau|</TEXT>
+        <APP>\vb <LEM>jāyata</LEM> \conj; jāyataḥ co° \msCapcorr\ \unmetr,
+                                         jāyati co° \msCaacorr,
+                                         jāyataś{ }co° \msCb\msNa\ \unmetr, 
+                                         jāyetaś{ }co° \msCc\ \unmetr, 
+                                         jāyata co° \Ed</APP>
+        <NOTE>I conjecture Łjāyata$ (for a standard Łparasmaipada$ dual Łjāyataḥ$) in Łpāda$ b,
+              influenced by \msCb's reading in 13.43b, to restore the metre.</NOTE>
+        <TR>By the eighth week, the two hands form.</TR>
+
+%folioinfo \msCa\ 428.jpg, f. 216v
+<TEXT> saptarātraṃ nava prāpya jāyate hy{ }urapañjaram||</TEXT> 13:42
+        <APP>\vd <LEM>hy{ }ura°</LEM> \corr; hy{ }uraḥ° \mssCaCbCc\msNa\ \unmetr, hṛdi° \Ed</APP>
+        <TR>By the ninth week, the ribs develop.</TR>
+
+%                             for jāyataḥ
+<TEXT> daśame saptarātre ca pādau jāyata cobhayau|</TEXT>
+        <APP>\vb <LEM>jāyata</LEM> \msCb; jāyeta \msCa\msCc\msNa\Ed</APP>
+        <TR>By the tenth week, the two feet develop.</TR>
+
+<TEXT> udaraṃ copajāyeta saptaikādaśarātrike||</TEXT> 13:43
+        <APP>\vc <LEM>udaraṃ co°</LEM> \msCa\msCb\msNa; udaraṃś{ }co° \msCc, udaraś{ }co° \Ed</APP>
+        <TR>By the eleventh week, the abdomen forms.</TR>
+
+% unmetr (two short)
+<TEXT> dvādaśasaptarātreṇa kukṣipārśvaḥ prajāyate|</TEXT>
+        <APP>\vb <LEM>°pārśvaḥ</LEM> \msCa\msCb\msNa; °pārśveḥ \msCc\Ed</APP>
+        <TR>By the twelfth week, the flanks of the abdomen form.</TR>
+
+<TEXT> saptatraidaśarātreṇa kaṭis{ }tatropajāyate||</TEXT> 13:44
+        <APP>\vd <LEM>kaṭis{ }tatro°</LEM> \msCa\msCc\msNa; kaṭikas{ }tatro° \msCbacorr, 
+                                                       kakas{ }tatro° \msCbpcorr,
+                                                       kuṭi sūtro° \Ed</APP>
+        <TR>By the thirteenth week, its buttocks develop.</TR>
+
+
+<TEXT> navaty{ }aṣṭa ca rātreṇa jāyate sūtraviṃśatiḥ|</TEXT>
+        <APP>\va <LEM>°ṣṭa ca</LEM> \mssCaCbCc\msNa; °ṣṭama° \Ed</APP>
+        <APP>\vb <LEM>sūtraviṃśatiḥ</LEM> \msCb\msCc\msNa; sūtaviṃśatiḥ \msCa, sūtraviṃśati \Ed</APP>
+        <NOTE>The word Łsūtra$ is unusual in the sense of `a finger/toe'.
+              I base my translation on \SDHU\ 8.32cd, which seems to 
+              point to the same period of pregnancy:
+                Łmāsaiś caturbhir aṅgulyaḥ prajāyante yathākramam$;
+                `By the fourth month the fingers develop in due order.'</NOTE>
+        <TR>By the ninety-eighth night [i.e.\ by the fourteenth week],
+                the ten fingers and ten toes develop.</TR>
+
+<TEXT> saptapañcadaśāhena sarvamedaḥ prajāyate||</TEXT> 13:45
+        <TR>By the fifteenth week, all the fat is developed.</TR>
+
+<TEXT> ṣoḍaśasaptarātreṇa asthi sarvāṇi jāyate|</TEXT>
+        <TR>By the sixteenth week, all the bones are formed.</TR>
+
+%index_grammar: Newari? asthi sarvāṇi
+
+<TEXT> saptasaptadaśāhena jāyate snāyubandhanam||</TEXT> 13:46
+        <TR>By the seventeenth week, the sinews are fixed.</TR>
+
+<TEXT> saptamāṣṭādaśāhena jāyate mukhamaṇḍalam|</TEXT>
+        <TR>By the eighteenth week, the face develops.</TR>
+
+<TEXT> saptonaviṃśarātreṇa ghrāṇavaṃśaḥ prajāyate||</TEXT> 13:47
+        <TR>By the nineteenth week, the nasal canal is formed.</TR>
+
+% urethra?
+<TEXT> saptaviṃśatirātreṇa netranālaṃ prajāyate|</TEXT>
+        <APP>\va <LEM>sapta°</LEM> \msCa\msCc\Ed; saptā° \msCb\msNa</APP>
+        <APP>\vb <LEM>netranālaṃ</LEM> \mssCaCbCc\msNa; naitranāliṃ \Ed</APP>
+        <TR>By the twentieth week, the veins of the eye develop.</TR>
+
+<TEXT> saptaikaviṃśarātreṇa karṇayugmaṃ prajāyate||</TEXT> 13:48
+        <TR>By the twenty-first week, the two ears form.</TR>
+
+<TEXT> dvāviṃśasaptarātreṇa jāyate dvau bhruvau tataḥ|</TEXT>
+        <TR>By the twenty-second week, the two eyebrows form.</TR>
+
+<TEXT> saptatriviṃśarātreṇa gaṇḍayugmaṃ prajāyate||</TEXT> 13:49
+        <TR>By the twenty-third week, the two cheeks develop.</TR>
+
+<TEXT> caturviṃśatisaptāhe oṣṭhayugmaṃ prajāyate|</TEXT>
+        <TR>By the twenty-fourth week, the two lips develop.</TR>
+
+<TEXT> pañcaviṃśatisaptāhe jihvā jāyeta sundari||</TEXT> 13:50
+        <TR>By the twenty-fifth week, the tongue is born, O Sundarī.</TR>
+
+%folioinfo \msCc\ 232.jpg f. 295v
+<TEXT> ṣaḍviṃśasaptarātreṇa dantapālī prajāyate|</TEXT>
+        <APP>\va <LEM>ṣaḍviṃśa°</LEM> \msCa\Ed; ṣaṭtriṃśa° \msCb, <UNCL>ṣaḍviṃśa</UNCL>° \msCc, ṣaḍviṃśati° \msNa</APP>
+        <APP>\vb <LEM>°pālī</LEM> \msCa\msCb\msNa; °pā\lk\lk\ \msCc, °paṅkti \Ed</APP>
+        <TR>By the twenty-sixth week, the gums develop.</TR>
+
+<TEXT> saptaviṃśatisaptāhe jāyate vṛṣaṇadvayam||</TEXT> 13:51
+        <APP>\vc <LEM>sapta°</LEM> \msCa\msNa\Ed; saptā° \msCb\msCc</APP>
+        <APP>\vd <LEM>vṛṣaṇa°</LEM> \msCa\msCb\msNa; \lk\lk\lk\ \msCc, vṛṣala° \Ed</APP>
+        <TR>By the twenty-seventh week, the testicles form.</TR>
+
+<TEXT> aṣṭāviṃśatisaptāhe bhagaliṅgaṃ prajāyate|</TEXT> 
+        <TR>By the twenty-eighth week, the womb and the penis develop.</TR>
+
+<TEXT> ūnaviṃśatisaptāhe jāyate ca tvag{ }eva ca||</TEXT> 13:52
+        <APP>\vc <LEM>ūna°</LEM> \mssCaCbCc\msNa; una° \Ed\oo
+                 <LEM>°viṃśati°</LEM> \msCa\msCc\msNa\Ed; °triṃśati° \msCb</APP>
+        <APP>\vd <LEM>jāyate ca tvag{ }eva</LEM> \msCa\msCb\Ed; jāyate ca g{ }eva \msCc, jāyate tvatvag{ }eva \msNa</APP>
+        <TR>By the twenty-ninth week, the skin forms.</TR>
+
+%folioinfo: \msNa\ 217.jpg lower
+<TEXT> triṃśatisaptarātreṇa jāyate nābhimaṇḍalam|</TEXT>
+        <APP>\va <LEM>°śati°</LEM> \msNa; °śatā \mssCaCbCc, °śata° \Ed</APP>
+        <TR>By the thirtieth week, the navel develops.</TR>
+
+<TEXT> saptaikatriṃśarātreṇa sarvarandhraṃ prajāyate||</TEXT> 13:53
+        <APP>\vd <LEM>°randhraṃ</LEM> \msCa\msCb\msNa\Ed; °rāndhra \msCc</APP>
+        <TR>By the thirty-first week, all the cavities are formed.</TR>
+
+
+%folioinfo \msM\ 433.jpg upper, f. 25v
+<TEXT> dvātriṃśatsaptarātreṇa nakhaviṃśati jāyate|</TEXT>
+        <APP>\va <LEM>°triṃśatsa°</LEM> \msCa\msCb\msNa; °triṃśasa° \msCc\Ed</APP>
+        <NOTE>Note °Łviṃśati$ for °Łviṃśatir$ in Łpāda$ b metri causa.</NOTE>
+        <TR>By the thirty-second week, the twenty nails are formed.</TR>
+
+<TEXT> tretriṃśatsaptarātreṇa roma keśaś{ }ca jāyate||</TEXT> 13:54
+        <APP>\vc <LEM>tretriṃśat°</LEM> \msCa\msNa; tritiṃśa° \msCb\Ed, tretrinsa° \msCc</APP>
+        <APP>\vd <LEM>roma</LEM> \msCa\msCb; loma° \msCc\msNa\Ed</APP>
+        <TR>By the thirty-third week, hair on the body and on the head grow.</TR>
+
+<TEXT> saptarātracatustriṃśe sarvasandhiḥ prajāyate|</TEXT>
+        <APP>\va <LEM!>saptarātracatustriṃśe</LEM> \msCa; 
+                                saptarātracatutriṃśe \msCb,
+                                saptatriṃsacatustriṅsa \msCc,
+                                saptarātracatustriṃśat \msNa,
+                                catustriṃśasaptarātreṇa \Ed\ \unmetr</APP>
+        <APP>\vb <LEM>sarva°</LEM> \mssCaCbCc\msNa; sarvve \Ed</APP>
+        <TR>By the thirty-fourth week, all the joints are formed.</TR>
+
+<TEXT> pañcatriṃśatisaptāhe sarvamarma prajāyate||</TEXT> 13:55
+        <APP>\vc <LEM>°śati°</LEM> \msCb\msCc\msNa\Ed; °śa° \msCa\ \unmetr</APP>
+        <TR>By the thirty-fifth week, all the Łmarman$-joints are formed.</TR>
+
+<TEXT> ṣaḍtriṃśasaptarātreṇa vedanā copajāyate|</TEXT> 
+        <TR>By the thirty-six week, consciousness arises.</TR>
+
+<TEXT> saptatriṃśatisaptāhe īrṣādveṣaḥ prajāyate||</TEXT> 13:56
+        <APP>\vd <LEM>īrṣādveṣaḥ</LEM> \msCa\msCc\msNa; īrṣādveṣa \msCb, īrṣyādveṣaḥ \Ed</APP>
+        <TR>By the thirty-seventh week, envy and hatred arise.</TR>
+
+
+%folioinfo: \msCb 443.jpg, f. 221r
+<TEXT> aṣṭatriṃśatisaptāhe pañcātmakasamanvitam|</TEXT> 
+        <TR>By the thirty-eighth week, being composed of the five elements 
+            (Łpañcātmaka$),</TR>
+% check if it's really the elemets; 
+
+<TEXT> sarvāṅgam{ }aṅgasampūrṇaḥ paripakvaḥ sa tiṣṭhati||</TEXT> 13:57
+        <APP>\vd <LEM>°pakvaḥ</LEM> \msCa\msCb\msNa; °pakva \msCc\Ed</APP>
+        <PARAL>\vo Ł\compare\ \SDHU\ 8.36cd:$
+                pañcātmakasamāyuktaḥ paripakvaḥ sa tiṣṭhati
+                   Ł= \PADMAP\ 2.66.37cd$</PARAL>
+        <TR>having all limbs and a full body, it is fully developed.</TR>
+
+
+%mātusv Ed                                 ṇa \msCc
+<TEXT> mātuḥ śvāśitapītaṃ ca nābhisūtrāgamena tu|</TEXT> 
+        <APP>\va <LEM>mātuḥ</LEM> \eme; mātu \mssCaCbCc\msNa\Ed\oo
+                 <LEM>°pītaṃ ca</LEM> \mssCaCbCc\msNa; °pītaś{ }ca \Ed</APP>
+        <PARAL>\vab Ł\compare\ \SDHU\ 8.37:$
+                        mātur{ }āhāravīryeṇa ṣaḍvidhena rasena ca |
+                        nābhisūtranibandhena vardhate sa dine dine ||
+                    Ł= \PADMAP\ 2.66.38$</PARAL>
+        <TR>It is breathing and drinking from the mother, from a flow 
+            [of nutrients] through the umbilical cord.</TR>
+
+%folioinfo \Ed\ p.633
+<TEXT> prajātasyopadhāryante garbhasthasyaiva jantavaḥ||</TEXT> 13:58
+        <APP>\vc <LEM>prajāta°</LEM> \mssCaCbCc\msNa; ajāta° \Ed</APP>
+        <NOTE>The translation of Łpāda$s cd is tentative. I take 
+               Łupadhāryante$ as a causative (Łupadhārayanti$).</NOTE>
+        <TR>Humans nourish a child that has been born just as they do 
+            a baby in the womb.</TR>
+
+<TEXT> tataḥ praviśate cittaṃ nidrāsvapnaṃ yathā tathā|</TEXT> 
+        <APP>\va <LEM>cittaṃ</LEM> \msCa\msCb\msNa; dehe \msCc\Ed</APP>
+        <APP>\vb <LEM>°svapnaṃ</LEM> \mssCaCbCc\msNa; °svapna \Ed</APP>
+        <PARAL>\vab Ł\compare\ \SDHU\ 8.38:$
+                tataḥ smṛtiṃ labhej{ }jīvaḥ saṃpūrṇe 'smin śarīrake | 
+                sukhaduḥkhaṃ vijānāti nidrāsvapnaṃ purākṛtam ||
+                    Ł\similar\ \PADMAP\ 2.66.39$</PARAL>
+        <TR>Then consciousness enters the mind, as if
+            sleep and dream.</TR>
+
+<TEXT> nopalabhyati sūkṣmatvād{ }araṇy{ }agnir{ }yathā tathā||</TEXT> 13:59
+        <APP>\vc <LEM>°labhyati</LEM> \msCa\msCb\msNa\Ed; °lakṣyati \msCc</APP>
+        <APP>\vd <LEM>°raṇy{ }agni°</LEM> \msCb\msNa\Ed; \lac ṇy{ }agni° \msCa, °ntar{ }agni° \msCc\oo
+                 <LEM>tathā</LEM> \msCapcorr\msCb\msCc\msNa\Ed; \om\ \msCaacorr</APP>
+        <TR>It cannot [be?] perceived because of its subtlety, 
+            like the fire [that resides inside] the sticks [that produce fire 
+            cannot be seen?].</TR>
+
+%folioinfo \msCa\ 429.jpg, f. 217r
+<TEXT> garbhodakena siktāṅgo jarāyupariveṣṭitaḥ|</TEXT> 
+        <APP>\va <LEM>°ṅgo</LEM> \mssCaCbCc\msNa; °ṅga \Ed</APP>
+        <APP>\vb <LEM>jarāyu°</LEM> \eme; jarayā \mssCaCbCc\msNa,  jarāyā \Ed\oo
+                 <LEM>°veṣṭitaḥ</LEM> \msCa\msCb\msNa\Ed; °veṣṭitam \msCc</APP>
+        <PARAL>\vab Ł\compare\ \SDHU\ 8.43--44 (=\PADMAP\ 2.66.44-45):$
+                yathā girivarākrāntaḥ kaścid{ }duḥkhena tiṣṭhati |
+                tathā jarāyuṇā dehī duḥkhaṃ tiṣṭhati duḥkhitaḥ || 
+                patitaḥ sāgare yadvad{ }duḥkham{ }āste samākulaḥ | 
+                garbhodakena siktāṅgas{ }tathāste vyākulātmakaḥ ||</PARAL>
+        <TR>Wet with the amniotic fluid, he is surrounded by the
+                fetal membranes.</TR>
+
+<TEXT> jātiṃ smarati tatrastho jantuś{ }cetaḥsamanvitaḥ||</TEXT> 13:60
+        <APP>\vc <LEM>jātiṃ</LEM> \mssCaCbCc\msNa; jāti \Ed</APP>
+        <APP>\vd <LEM>°ś{ }cetaḥ°</LEM> \msCa\msNa\Ed; °ś{ }caitaḥ° \msCb, °ś{ }ceta° \msCc</APP>
+        <TR>Being in there, the child, now being conscious, starts 
+                remembering [previous] births.</TR>
+
+<TEXT> mṛtaś{ }cāhaṃ punarjāto bhūyaś{ }caiva punar{ }mṛtaḥ|</TEXT> 
+        <APP>\va <LEM>punarjāto</LEM> \msCa\msCc\msNa\Ed; punajāto \msCb</APP>
+        <PARAL>\vab Ł\similar\ \NISVK\ 26.17ab:$
+                mṛtaś{ }cāhaṃ punarjāto jātaś{ }cāhaṃ punar{ }mṛtaḥ
+                     Ł= \SDHU\ 8.39ab = \PADMAP\ 2.66.40ab$</PARAL>
+        <TR>`I died and was then reborn. And then I died again.</TR>
+% There are more extensive parallels between NISVK and SDHU
+
+<TEXT> sthāvarāṇāṃ sahasreṣu jāto 'smi vividheṣu ca||</TEXT> 13:61
+        <TR>I was reborn in thousands of different plants,</TR>
+
+%lacuna_start: Ed
+<TEXT> tiryagyonisahasreṣu preteṣu narakeṣu ca|</TEXT>
+        <LACUNA>\vab Łmissing in \Ed$</LACUNA>
+        <TR>in thousands of animals, as ghosts in hells,</TR>
+
+%lacuna_end: Ed
+<TEXT> caturvarṇavivarṇeṣu mānuṣeṣu sahasraśaḥ||</TEXT>  13:62
+        <TR>as thousands of humans in the four main social classes (Łvarṇa$) and in
+            mixed castes.</TR>
+
+<TEXT> sāmprataṃ ca punar{ }garbhaḥ kleśaprāptaḥ suduḥsahaḥ|</TEXT>
+        <APP>\va <LEM>ca punar{ }ga°</LEM> \msCa\msCc\msNa\Ed; punaga° \msCb</APP>
+        <APP>\vb <LEM>kleśa°</LEM> \msCa\msCc\msNa; kleśaṃ \msCb, kleśaḥ \Ed\oo
+                 <LEM>°duḥsahaḥ</LEM> \msCc\Ed; °duhaḥ \msCa, °duḥsahaṃ \msCb, °duḥsaha \msNa</APP>
+        <TR>And now I am again an embryo, in unbearable anguish.</TR>
+
+<TEXT> idānīṃ jātamātro 'haṃ saṃskāraiś{ }cāpi saṃskṛtaḥ||</TEXT>  13:63
+        <PARAL>\vcd Ł\similar\ \SDHU\ 8.40ab:$
+                adhunā jātamātro 'haṃ prāptasaṃskāra eva vā
+                    Ł= \PADMAP\ 2.66.41ab$</PARAL>
+        <TR>Now I am a newborn baby, being purified by rituals (Łsaṃskāra$).</TR>
+
+<TEXT> yogam{ }evābhisevāmi sāṃkhyaṃ vā pañcaviṃśakam|</TEXT> 
+        <APP>\vb <LEM>sāṃkhyaṃ</LEM> \mssCaCbCc\msNa; sākhyaṃ \Ed\oo
+                 <LEM>°viṃśakam</LEM> \msCa\msCb\msNa\Ed; °viṃśatim \msCc</APP>
+        <TR>I will do nothing but practise yoga or the 
+            Sāṃkhya of twenty-five [Łtattva$s].</TR>
+
+<TEXT> yatra janmajarā nāsti yatra mṛtyuś{ }ca nāsti vai||</TEXT> 13:64
+        <TR>Where there is no birth and no aging, 
+            and where there is no death,</TR>
+
+<TEXT> yatra brahma paraṃ vaidyaṃ cariṣyāmi yatavrataḥ|</TEXT> 
+        <APP>\va <LEM>brahma</LEM> \msCa\msNa\Ed; brahmā \msCb\msCc\oo
+                 <LEM>vaidyaṃ ca°</LEM>\msCa\msNa; vedyaṃ ca° \msCb\Ed, vaidyāñ{ }ca° \msCc</APP>
+        <APP>\vb <LEM>yata°</LEM> \mssCaCbCc\Ed; yataḥ \msNa</APP>
+        <NOTE>That the Łbrahman$ is the ultimate doctor (Łvaidyaṃ$) or
+              something to be known (Łvedyaṃ$) here is debateble.
+              I have chosen the former as a sort of lectio difficilior.</NOTE>
+        <TR>where the Brahman is the ultimate doctor,
+            I shall go there, keeping my vows firmly.'</TR>
+
+% \msCc is blurred
+<TEXT> evam{ }ādīny{ }anekāni cintayitvā punaḥ punaḥ||</TEXT> 13:65
+        <TR>It thinks about these and many similar things
+            again and again.</TR>
+
+<TEXT> yāvat{ }tiṣṭhati garbhastho jātiṃ smarati pūrvikām|</TEXT>
+        <APP>\vb <LEM>jātiṃ</LEM> \msCa\msCc\msNa; jāti \msCb\Ed</APP>
+        <TR>While in the womb, it remembers its previous births.</TR>
+
+<TEXT> tato jāyati kaṣṭena mahākleśena mānavaḥ||</TEXT> 13:66
+        <TR>Then the human is born with great difficulty and 
+            great pain,</TR>
+
+<TEXT> yoniyantrasutīvreṇa pīḍyamānaḥ suduḥkhitaḥ|</TEXT> 
+        <APP>\vb <LEM>°mānaḥ</LEM> \msCa\msNa; °māna° \msCb\msCc\Ed\oo
+                 <LEM>°duḥkhitaḥ</LEM> \msCa\msCb\msNa\Ed; °duḥkhitāḥ \msCc</APP>
+        <PARAL>\vab Ł\compare\ \SDHU\ 8.49ab:$
+                 garbhāt{ }koṭiguṇaṃ duḥkhaṃ yoniyantraprapīḍanāt
+                    Łand \SDHU\ 8.52cd:$
+                 tathā śarīraṃ niḥsāraṃ yoniyantraprapīḍitam</PARAL>
+        <TR>tormented by the mechanisms of the vagina,
+            in incredible pain.</TR>
+
+<TEXT> jātamātre smṛtibhraṃśo bhavatīha acetanaḥ||</TEXT> 13:67
+        <APP>\vc <LEM>°mātre</LEM> \mssCaCbCc\msNa; °mātro \Ed</APP>
+        <TR>As soon as it is born, it forgets its [previous]
+            lives in this world, [and becomes] unconscious.</TR>
+
+<TEXT> māyāmudgaratīvreṇa hataḥ kiṃ śubham{ }ācaret|</TEXT> 
+        <APP>\va <LEM>°mudgara°</LEM> \msCa\msCc\msNa\Ed; °mudgala° \msCb\oo
+                 <LEM>°tīvreṇa</LEM> \mssCaCbCc\msNapcorr\Ed; °tī \msNaacorr</APP>
+        <TR>[The baby] is hit by the hard hammer of illusion (Łmāyā$).
+            How could it act in an auspicious way?</TR>
+
+<TEXT> eṣa garbhasamutpattiḥ kathito 'smi varānane|</TEXT>
+        <TR>This is how I have told you the formation of 
+            the embryo, O Varānanā,</TR>
+
+%index_grammar: Newari? no idea about the passive
+
+<TEXT> duḥkhasaṃsāraprathamaḥ kiṃ bhūyaḥ śrotum{ }icchasi||</TEXT> 13:68
+        <APP>\ve <LEM>°sāra°</LEM> \msCa\Ed; °sāraḥ \msCb\msCc\msNa\oo
+                 <LEM>°prathamaḥ</LEM> \mssCaCbCc\msNa; °praśamaṃ \Ed</APP>
+        <NOTE>In fact, 13.68 in \msCa, \msCb, and \msNa\ end with Łicchasīti$, 
+              leading into the colophon (Łvṛṣasārasaṃgrahe...$), but \msCb\
+              repeats the Łiti$ thus: Łicchasīti || iti vṛṣasārasaṃgrahe...$</NOTE>
+        <TR>the first [stage] of the suffering in transmigration
+            (Łsaṃsāra$). What else would you like to hear?</TR>
+% icchasīti \msCc
+
+%folioinfo: \msNa\ 218.jpg upper
+%folioinfo \msM\ 433.jpg lower, f. 26r
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe garbhotpattir{ }adhyāyas{ }trayadaśamaḥ</COLOPHON></TEXT>
+         <APP> Ł\Colo:$ <LEM>°tpattir{ }adhyāyas{ }trayadaśamaḥ</LEM> \mssCaCbCc\msNa; 
+                                             °tpattir{ }nāma trayadaśo 'dhyāyaḥ \Ed</APP>
+        <TRCOLOPHON>Here ends the thirteenth chapter in the ŁVṛṣasārasaṃgraha$ chapter on The development of the embryo.</TRCOLOPHON>
+
+%END OF CHAPTER 13
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -1,0 +1,35 @@
+TODOS
+=====
+Use C-Space to toggle [ ]s
+
+* Edition:
+        - [X] Collate MSS for ch. 12 or any missing collation
+        - [ ] Revise Skt, Tr and Notes for chs. 1-12
+        - Sigla:
+            - [ ] normalize sigla in parallels
+            - [ ] siglum 02 or 2?; Paris and Munchen sigla?
+        - [ ] number verses in non-edited chapters for easy reference
+        - [ ] Signs in edition
+                - [ ] lac --- with number
+                - [ ] unclear should be ()s ?
+                - [ ] get rid of circles in apparatus?
+
+* Book - other parts:
+        - [ ] Finish Introduction
+        - [ ] add to grammar stuff like shortening, vipulās, odd compounds,
+          inverted compounds, hiatus bridges, caus for simplex, s.v.
+          ('word order in compound' in %index
+        - [ ] Dharma label blah-blah
+        - [ ] Bibliography: Zotero? Rather: BibTeX now
+        - [ ] sigla list like Purāṇas etc....
+        - [ ] Indexing
+        - [ ] Cover, Title and Frontmatter
+            - [ ] Find cover photo
+            - [ ] ISBN number
+            - [ ] 'Cover photo by'
+        - [ ] Check, and change sigla everywhere
+        - [ ] [How to describe a MS?](How to describe a MS?.md)
+        - [ ] Fix page numbers (Skt ed is manual!)
+        - [ ] Check TOC
+        - [ ] overhanging lines everywhere, causing vertical space, esp.
+          translation (12.111, 12.150, 151)

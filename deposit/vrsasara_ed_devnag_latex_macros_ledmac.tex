@@ -1,0 +1,151 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% I am using this:
+% no lemma, no number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\makeatletter
+% my old version
+%\def\lemmaesszamnelkulfmt#1#2#3{%
+%\tolerance=99\normal@pars\rightskip=0pt\leftskip=0pt
+%\parindent=0pt \parfillskip=0pt plus 1fil {#3}\penalty-10}
+%\makeatother
+
+% https://djdekker.net/ledmac/#mult
+% Q 24: Help! My footnotes are running off the bottom of the page!
+\renewcommand{\footfudgefiddle}{90}
+
+% updated current version
+\makeatletter
+ \newcommand*{\lemmaesszamnelkulfmt}[3]{%
+\ledsetnormalparstuff%
+%\enspace
+#3\allowbreak
+}
+\makeatother
+
+
+%%%%%%%%%%%%%% inactive %%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+% I'd like a spaced out colon after the lemma:
+\def\spacedcolon{{\rm\thinspace:\thinspace}}
+\def\normalfootfmt#1#2#3{%
+  \normal@pars
+  \parindent=0pt \parfillskip=0pt plus 1fil
+  {\notenumfont\printlines#1|}\strut\enspace
+  {\select@lemmafont#1|#2}\spacedcolon\enskip#3\strut\par}
+
+% And I'd like the 3-col notes printed with a hanging indent:
+\def\threecolfootfmt#1#2#3{%
+  \normal@pars
+  \hsize .3\hsize
+  \parindent=0pt
+  \tolerance=5000       % high, but not infinite
+  \raggedright
+  \hangindent1.5em \hangafter1
+  \leavevmode
+  \strut\hbox to 1.5em{\notenumfont\printlines#1|\hfil}\ignorespaces
+  {\select@lemmafont#1|#2}\rbracket\enskip
+  #3\strut\par}
+
+\makeatletter
+\def\myparafootfmt#1#2#3{%
+\tolerance=9999\normal@pars\rightskip=0pt\leftskip=0pt
+\parindent=0pt \parfillskip=0pt plus 1fil{\bf l}$_{\bf\printlines#1|}$\thinspace #3\penalty-10}
+\makeatother
+
+% And I'd like the 2-col notes printedf with a double colon:
+\def\doublecolon{{\rm\thinspace::\thinspace}}
+\def\twocolfootfmt#1#2#3{%
+  \normal@pars
+  \hsize .45\hsize
+  \parindent=0pt
+  \tolerance=5000
+  \raggedright
+  \leavevmode
+  \strut{\notenumfont\printlines#1|}\enspace
+  {\select@lemmafont#1|#2}\doublecolon\enskip
+  #3\strut\par}
+
+% And in the paragraphed footnotes, I'd like a colon too:
+\def\parafootfmt#1#2#3{%
+  \normal@pars
+  \parindent=0pt \parfillskip=0pt plus 1fil
+  {\notenumfont\printlines#1|}%
+  {\select@lemmafont#1|#2}:%
+  #3\penalty-10 }
+\makeatother
+
+% I'd like the line numbers picked out in bold.
+%\let\notenumfont=\eightbf
+%\lineation{page}
+%\linenummargin{inner}
+%\firstlinenum=3       % just because I can
+%\linenumincrement=1
+
+\makeatletter
+ \def\lemmaesszamnelkulparallelsfmt#1#2#3{%
+\tolerance=9999\normal@pars\rightskip=0pt\leftskip=0pt
+\parindent=0pt \parfillskip=0pt plus 1fil #3\penalty-10}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% NAPLES : two-column apparatus
+\makeatletter
+ \def\lemmaesszamnelkultwocolfmt#1#2#3{%
+\normal@pars\parindent=-10pt\rightskip=0pt\leftskip=10pt
+\tolerance=9999
+  \hsize .46\hsize
+  %\raggedright
+  %\leavevmode
+  \strut{}%\enspace
+  {\select@lemmafont#1|#2}%\enskip
+  \textit{#3}\strut\par}
+\makeatother
+
+%%%% no lemma, but with number(?) %%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+\def\lemmanelkulfmt#1#2#3{%
+ \normal@pars\rightskip=0pt\leftskip=0pt
+\parindent=0pt \parfillskip=0pt plus 1fil
+{{\bf\printlines#1| }}%
+{\select@lemmafont#1|#2}#3 \penalty-10}
+
+\makeatother
+\footparagraph{A}
+\footparagraph{B}
+\footparagraph{C}
+%\footnormal{C}
+%\footparagraph{D}
+%\foottwocol{D} % if you want 2-col apparatus STEP 1
+\footparagraph{E}
+
+% register separators, could be Alex Watson-style
+\usepackage{bbding} % for the lohere symbol
+\newcommand{\anormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}}
+%\newcommand{\bnormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}\vskip.5em}
+\newcommand{\bnormalfootnoterule}{\begin{center}{\vskip-0em\rule{3em}{.1pt}}\end{center}\vskip0em}
+%\newcommand{\cnormalfootnoterule}{\begin{center}{\vskip.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
+%\newcommand{\dnormalfootnoterule}{\begin{center}{\vskip-.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
+\newcommand{\cnormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}}
+\newcommand{\dnormalfootnoterule}{\begin{center}{\vskip-0em}\end{center}\vskip0em}
+%\newcommand{\paranormalfootnoterule}{\begin{center}{\rule{3em}{.1pt}}\end{center}\vskip-.1em}
+
+\let\Afootnoterule=\anormalfootnoterule
+\let\Bfootnoterule=\bnormalfootnoterule
+\let\Cfootnoterule=\cnormalfootnoterule
+\let\Dfootnoterule=\dnormalfootnoterule
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\let\Afootfmt\lemmaesszamnelkulfmt % without automatic lemma and any number;
+% these you add manually; for Sanskrit, automatic lemma is a nightmare
+\let\Afootfmt\lemmaesszamnelkulfmt
+\let\Bfootfmt\lemmaesszamnelkulfmt
+\let\Cfootfmt\lemmaesszamnelkulfmt
+\let\Dfootfmt\lemmaesszamnelkulfmt % original 1-col apparatus
+%\let\Dfootfmt\parafootfmt % another type of apparatus layer
+
+\lineation{page}
+\linenummargin{outer}
+\firstlinenum{10000} % 10000 to eliminate
+\linenumincrement{1}
+

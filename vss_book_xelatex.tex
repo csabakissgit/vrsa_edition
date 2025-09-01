@@ -1,0 +1,336 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8
+
+% So this is the main file for the VSS book (XeLaTeX)
+% it requires
+% vssbook_macros.tex and other macro files
+% in this folder, and
+% /home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex 
+% which is the translation with notes and Sanskrit 
+% and also
+% /home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf
+% which is the critical edition
+
+\documentclass[11pt]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%
+%%%% LOAD MACROS %%%%%
+%%%%%%%%%%%%%%%%%%%%%%
+\input{vssbook_macros}
+
+\frenchspacing
+\usepackage[cam, center,cross,axes,color=blue]{crop}
+
+\hyphenation{un-matched su-preme re-straint vio-lence}
+\makeindex 
+
+\begin{document}
+%\pagenumbering{roman}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% FRONT MATTER %%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{00vss_frontmatter.tex}
+
+%%%%%%%%%%%%%%%%%%%%
+% TABLE OF CONTENT %
+%%%%%%%%%%%%%%%%%%%%
+\fancyhead[CO]{}
+\fancyhead[CE]{}
+\fancyhead[RO]{}
+\fancyhead[RE]{}
+\fancyhead[LO]{}
+\fancyhead[LE]{}
+
+\renewcommand{\contentsname}{{\hfill
+        {\normalfont\Large\englishfont Table of Contents}\hfill}}
+\thispagestyle{empty}
+\pagenumbering{gobble}
+\tableofcontents
+
+\vfill
+\pagebreak
+
+\thispagestyle{empty}
+\renewcommand{\listfigurename}{{\hfill
+        {\normalfont\Large\englishfont List of Figures}\hfill}}
+\listoffigures
+\vfill
+
+\pagebreak
+\blankpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACKNOWLEDGEMENTS and PREFACE %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagenumbering{arabic}
+\input{01vss_acknowledgements.tex}
+
+\input{02vss_preface.tex}
+%\input{testpage.tex}
+
+
+
+%%%%%%%%%%%%%%%%
+% INTRODUCTION %
+%%%%%%%%%%%%%%%%
+
+\input{03vss_intro}
+
+
+
+%%%%%%%%%%%%%%%%%%%%
+% CRITICAL EDITION %
+%%%%%%%%%%%%%%%%%%%% 
+% to add vertical space in the TOC
+%\addtocontents{toc}{\protect\vspace{20pt}}
+
+\mychapter{Introduction to the Critical Edition}
+\input{04vss_cred_intro}
+
+\bigskip
+
+\input{05vss_witnesses}
+\vfill
+\pagebreak
+
+\blankpage
+
+\pagebreak
+% set page nember also in the edition's tex source file
+%\setcounter{page}{500} % set it in the edition file (.tex, see path below)
+
+%\section{The Sanskrit text}
+\myblankchapter{A Critical Edition\\ \vspace{.4em} of\\ \vspace{.4em}Vṛṣasārasaṃgraha 1--12}{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
+
+\pagebreak
+
+\blankpage
+%\addcontentsline{toc}{chapter}{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
+%\addcontentsline{toc}{section}{Sanskrit Text}
+\includepdf[noautoscale, pages=-, addtotoc={1,  section, 1, Adhyāya 1, adhyaya01,
+                                            20, section, 1, Adhyāya 2, adhyaya02,
+                                            27, section, 1, Adhyāya 3, adhyaya03,
+                                            36, section, 1, Adhyāya 4, adhyaya04,
+                                            56, section, 1, Adhyāya 5, adhyaya05,
+                                            62, section, 1, Adhyāya 6, adhyaya06,
+                                            68, section, 1, Adhyāya 7, adhyaya07,
+                                            74, section, 1, Adhyāya 8, adhyaya08,
+                                            84, section, 1, Adhyāya 9, adhyaya09,
+                                            93, section, 1, Adhyāya 10, adhyaya10,
+                                            101, section, 1, Adhyāya 11, adhyaya11,
+                                            113, section, 1, Adhyāya 12, adhyaya12}]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
+
+
+
+
+%%%%%%%%%%%%%%%
+% TRANSLATION %
+%%%%%%%%%%%%%%%
+
+
+\myblankchapter{An Annotated Translation of\\ Vṛṣasārasaṃgraha 1--12}{An Annotated Translation of Vṛṣasārasaṃgraha 1--12}
+%\addcontentsline{toc}{section}{\Vss\ 1--12}
+
+%FOOTNOTE
+% Reformat footnotes
+\makeatletter 
+\renewcommand{\@makefntext}[1]{%
+  \setlength{\parindent}{20pt}%
+  %\begin{list}{}
+  {\setlength{\labelwidth}{6mm}% 1.5em
+    \setlength{\leftmargin}{0pt}%{\labelwidth}%
+    \setlength{\labelsep}{10pt}%
+    \setlength{\itemsep}{0pt}%
+    \setlength{\parsep}{0pt}%
+    \setlength{\topsep}{0pt}%
+    \footnotesize}%
+  %\item[\@thefnmark\hfil]
+  #1% @makefnmark
+  %\end{list}%
+}
+\makeatother 
+\let\svthefootnote\thefootnote
+
+
+
+\fancyhead[CE]{{\footnotesize \textit{Vṛṣasārasaṃgraha}}}
+\fancyhead[CO]{{\footnotesize \textit{Translation of chapter 1}}}
+%%%%\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.pdf}
+
+% CORRECT PAGE NUMBER AFTER SKT EDITION !
+\setcounter{page}{1001}
+%%%%%\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex}
+
+\
+\pagebreak
+
+\blankpage
+
+\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation_input.tex}
+
+
+
+
+
+
+
+
+
+%\mychapter{Appendices}
+%\addcontentsline{toc}{chapter}{\hspace{1.4em}Appendices}
+
+%\thispagestyle{empty}
+
+%\section{passeges from part two}
+
+%\vfill
+%\pagebreak
+
+
+
+
+
+
+
+\mychapter{Symbols and Abbreviations}
+%\addcontentsline{toc}{chapter}{\hspace{1.4em}Abbreviations and Bibliography}
+\thispagestyle{empty}
+
+\section{Symbols}
+
+\begin{description}
+
+\item[\similar]
+
+\item[\compare]
+
+\item[ = ]
+
+\end{description}
+
+
+\section{Abbreviations}
+
+\begin{description}
+
+\item[CUDL] = University of Cambridge Digital Library  
+  (https://cudl.lib.cam.ac.uk)
+  
+\item[\fol]
+
+\item[\fols]
+
+\item[MGMCP]
+
+\item[MGMPP]
+
+\item[MS(S)] = manuscript(s)
+
+%\nocite{Siddham} 
+\item[Siddham] = Siddham, the Asia Inscriptions Database:
+https://siddham.network 
+
+\item[ŚDhŚ] = \SDhS
+
+\item[ŚDhU] = \SDhU
+  
+\item[VSS] = asdfadfasdfadsa
+  
+\end{description}
+
+
+TO BE SUPPLIED
+
+\vfill
+\pagebreak
+%(\cite[see][13 ff.]{OlivelleGrhastha})
+
+
+
+\mychapter{References}
+\section{Primary Sources}
+
+\leftskip2em
+\parindent-2em
+\ 
+
+
+\titleface{Arthaśāstra}: see \mycite{Arthasastra1969}
+
+\titleface{Uttarottara}: see \verify
+
+\titleface{Umāmaheśvarasaṃvāda}: see \verify
+
+\titleface{Ṛgveda-khila}: see \mycite{RgvedaKhila}
+
+\titleface{Kūrmapurāṇa}: see \mycite{Kurmapurana}
+
+\titleface{Nepālamāhātmya}: see \mycite{AcharyaNepalaMahatmya}
+
+\titleface{Padmapurāṇa}: see \verify
+
+\titleface{Buddhacarita}: see \verify
+
+\titleface{Bodhisattvabhumi}: see \verify
+
+\titleface{Brahmāṇḍapurāṇa}: see \verify
+
+\titleface{Bhagavadgītā}: see \mycite{MahabharataCriticalEd}  \verify
+
+\titleface{Manu/Mānavadharmaśāstra}: see \mycite{Manu1972}
+
+\titleface{Mahābhārata}: see \mycite{MahabharataCriticalEd}
+
+\titleface{Mahāsubhāṣitasaṃgraha}: see \mycite{Mahasubhasitasamgraha}
+
+\titleface{Mātaṅgalīlā}: see \mycite{Matangalila}
+
+\titleface{Yogasūtra}: see \verify
+
+\titleface{Raghuvaṃśa}: see %\mycite{Goodall...}
+
+\titleface{Rasārṇavasudhākara}: see \mycite{Rasarnavasudhakara}
+
+\titleface{Vāgmatīmāhātmyapraśaṃsā}:
+
+\titleface{Vājasaneyisaṃhitā}: see \mycite{VajasaneyiS}
+
+\titleface{Viṣṇudharmottara}:
+
+\titleface{Viṣṇudharma}: see \mycite{VisnudharmaGrunendahl}
+
+\titleface{Viṣṇupurāṇa}: see \mycite{Visnupurana_critical}
+
+OTHER PURANAS
+
+
+
+% print biblio:
+\bibliographystyle{naples}
+%\renewcommand*{\bibname}{References huhu}
+
+%% Add titles without referencing them:
+%\nocite{MahabharataCriticalEd}
+%\nocite{Kurmapurana}
+
+\label{bibliography}
+
+CHANGE repeated authornames with
+\rule[.2em]{1.5cm}{.5pt}
+% or rather with 3 em dashes
+
+\bibliography{vssbiblio}
+
+
+
+\label{index}
+%\renewcommand*{\indexname}{{\normalfont Index}}
+\addcontentsline{toc}{chapter}{\protect{\numberline{}Index}}
+\printindex
+
+%\listoftodos
+%TODOS
+%fix nirṛta ligature
+
+\end{document}

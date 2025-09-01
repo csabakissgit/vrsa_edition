@@ -1,0 +1,450 @@
+<START/>
+<startchapter-n="15"/> 
+%chapter 15
+% collated: \msCa\msCb\msCs(missing)\msNa\Ed
+%folioinfo \msCa\ image 433.jpg line 3
+%folioinfo \msCb\ image 446.jpg line 5
+% \msCc\ folios missing from MS
+%folioinfo \msNa\ 219.jpg lower line 6
+%folioinfo \msNb\ 65.jpg  lower line 4
+%folioinfo \msNc\ 236.jpg lower line 4 f. 234r--235r
+%folioinfo \msM\ 435.jpg lower, f. 28r line 3
+%folioinfo \msT\ 4004.jpg not collated 
+%folioinfo \Ed\ p.639
+<CHAPTER>pañcadaśamo 'dhyāyaḥ</CHAPTER>
+<!-- <TRCHAPTER>Chapter Fifteen</TRCHAPTER> -->
+
+<SUBCHAPTER>jīvavarṇanam</SUBCHAPTER>
+<TRSUBCHAPTER>The description of the soul</TRSUBCHAPTER>
+
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <!-- <TR>The goddess spoke:</TR> -->
+
+<TEXT> jīvabhūteti yat{ }proktaṃ lakṣaṇaṃ kīdṛśaṃ bhavet|</TEXT>
+        <APP>\vb <LEM>lakṣaṇaṃ kī°</LEM> \msNa\msNb\msNc\Ed; lakṣaṇāṅ{ }kī° \msCa, laṇaṃ kī° \msCb</APP>
+
+<TEXT> sthānam{ }asya na jānāmi rūpaṃ varṇaṃ ca īśvara||</TEXT> 15:1
+        <APP>\vc <LEM>sthānam{ }asya</LEM> \msCb\msNa\msNb\msNc\Ed; *<UNCL>na</UNCL>m{ }asya \msCa</APP>
+        <APP>\vd <LEM>rūpaṃ varṇaṃ</LEM> \msCa\msCb\msNa\Ed; rūpavarṇaṃ \msNb\msNc</APP>
+        <!-- <TR>A certain `soul being' was mentioned. What are [its] characteristics?
+                 I do not know about its location or form or colour, O Īśvara.</TR> -->
+        % sthāna is illegible in \msCa
+        % rūpavarṇa \Ed
+        <PARAL><rm>Testimonia for this chapter: \msCa\ ff.\thinspace 219r--220r, 
+                                             \msCb\ ff.\thinspace 222v--223v, 
+                                             \msCc\ is not available for this chapter,
+                                             \msNa\ ff.\thinspace 26r--27r, 
+                                             \msNb\ ff.\thinspace 230v--231r, 
+                                             \msNc\ ff.\thinspace 234r--235r</rm></PARAL>
+
+<TEXT> etat{ }kautūhalaṃ chindhi saṃśayaṃ parameśvara|</TEXT>
+        <APP>\va <LEM>etat{ }kautūhalaṃ</LEM> \msCa\msCb\msNa\msNb\Ed; etat{ }kautūlaṃ \msNc\oo
+                 <LEM>chindhi</LEM> \msCa\msCb\msNa\msNb\Ed; chitvāndhi \msNc</APP>
+        <APP>\vb <LEM>saṃśayaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; saṃśaya \msNb</APP>
+
+% phps anya-deva? or phps he means yāciṣyāmi?
+% stem form nirṇaya(ṃ)
+<TEXT> na cānyad{ }eva paśyāmi jīvanirṇaya kīrtaya||</TEXT> 15:2
+        <!-- <TR>This is what I'm  curious about. Drive my doubts away, Parameśvara.
+                 I cannot see anything else [as vitally important]. Teach me the details of the soul. </TR> -->
+        <NOTE>ŁPāda$ c is suspicious. It may have originally read Łna cānyad eva yācāmi$ (``I am not asking for anything else'').
+                Note the stem form noun Ł°nirṇaya$ in pāda d metri causa.</NOTE>
+% nirnaya \msNc
+
+%index_grammar: stem form metri causa
+
+<TEXT> īśvara uvāca|*</TEXT>
+        <APP>\vo <LEM>īśvara</LEM> \msCa\msCb\msNa\msNb\msNc; bhagavān \Ed</APP>
+        <!-- <TR>Īśvara spoke:</TR> -->
+
+<TEXT> jīvasya lakṣaṇaṃ devi kathituṃ kena śakyate|</TEXT>
+        <APP>\va <LEM>lakṣaṇaṃ</LEM> \msCb\msNa\msNb\msNc\Ed; kathitaṃ \msCa </APP>
+
+%folioinfo \msNa\ 220.jpg upper
+% MA-vipulā
+<TEXT> na rūpavarṇaṃ jīvasya vidyate sthānam{ }eva ca||</TEXT> 15:3
+        <APP>\vc <LEM>°varṇaṃ</LEM> \msCb\msNa\msNc; °varṇa \msCa\msNb\Ed</APP>
+        <!-- <TR>O Goddess, who could be able to talk about the characteristics of the soul?
+                 There is no such thing as the form or colour of the soul or its location.</TR> -->
+
+<TEXT> vyāpi sarvagataṃ sūkṣmaṃ sarvam{ }āśritya tiṣṭhati|</TEXT>
+        <APP>\va <LEM>vyāpi</LEM> \msCb\msNa\msNb\msNc; vyā<UNCL>pi</UNCL> \msCa, vyāpī \Ed</APP>
+        <APP>\va <LEM>°śritya</LEM> \msCb; °śṛtya \msCa\msNa\msNb, °śrutya \msNc, °vṛtya \Ed</APP>
+% in fact vyāp<UNCL>\csi</UNCL>
+
+<TEXT> nirālambam{ }anādhāram{ }anaupamyaṃ nirañjanam||</TEXT> 15:4
+        <APP>\vd <LEM>°pamyaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; °pamya \msNb</APP>
+        <!-- <TR>Its pervasive, omnipresent, subtle, it exists dwelling in everything.
+                 It is supportless, it is not contained in anything, it is unparalleled and spotless.</TR> -->
+
+<TEXT> araṇistho yathā vahniḥ kāṣṭheṣu nopalabhyate|</TEXT>
+
+<TEXT> tadvaj{ }jīvo na paśyeta śarīrastho 'pi sundari||</TEXT> 15:5
+        <APP>\vc <LEM>jīvo na</LEM> \msCb\msNa\msNb\msNc; jīvon{ }na \msCa, jīvaṃ na \Ed</APP>
+        <APP>\vd <LEM>'pi</LEM> \msCa\msCb\msNa\msNc\Ed; hi \msNb</APP>
+        <!-- <TR>As fire [hidden] in fire-kindling sticks[?] is not perceivable in the wood,
+                similarly the soul cannot be seen although it dwells in the body, O Sundarī.</TR> -->
+        <NOTE>Note Łpaśyeta$ as a passive form.</NOTE>
+
+<TEXT> dadhivac{ }ca yathā sarpir{ }dṛśyate na ca dṛśyate|</TEXT>
+
+<TEXT> tadvaj{ }jīvaḥ śarīrastho dṛśyate na ca dṛśyate||</TEXT> 15:6
+        <APP>\vc <LEM>tadvaj{ }jīvaḥ</LEM> \msCa\msCb\msNa\msNb; tadva jīvaḥ \msNc, tadvaj{ }jīva \Ed</APP>
+        <!-- <TR>Just as ghee can and cannot be seen in[?] curd[?],
+                 in the same way the soul in the body can and cannot be seen.</TR> -->
+        % jīva Ed, jīvaś \msCa
+        % dṛś¤¤ \msCa
+
+
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <!-- <TR>The goddess spoke:</TR> -->
+
+%folioinfo \msCb\ 447.jpg
+<TEXT> adṛṣṭapratyayo hy{ }asti nāsti pratyayadarśanam|</TEXT>
+
+%                            sarvatrāvasthitaḥ
+<TEXT> vyāpī kathaṃ mahādeva sarvatrāvasthitaḥ katham||</TEXT> 15:7
+        <APP>\vd <LEM>°sthitaḥ</LEM> \msCb\msNc\Ed; °sthitaṃ \msCa\msNa, °sthita \msNb</APP>
+        <!-- <TR>Is it without any direct proof? Is there no way to directly see any proof [of its existence]?
+                 How is it pervasive, O Mahādeva? How can it be omnipresent?</TR> -->
+        % vyāpi ... sarvatra vasthitaḥ \Ed
+
+
+
+<TEXT> maheśvara{ }uvāca|*</TEXT>
+        <APP>\vo <LEM>maheśvara</LEM> \msCa\msCb\msNb\msNc; mahādeva \msNa, bhagavān \Ed</APP>
+        <!-- <TR>Maheśvara spoke:</TR> -->
+
+<TEXT> asaṃśayo mahādevi vyāpī sarvagataḥ śivaḥ|</TEXT>
+
+<TEXT> dṛśyatendriyasaṃyogāj{ }jīvapratyayadarśanam||</TEXT> 15:8
+        <APP>\vc <LEM>dṛśyate°</LEM> \msCb\msNa\msNb\msNc; dṛśyete° \msCa, dṛśyante \Ed</APP>
+        <APP>\vd <LEM>°jīva°</LEM> \msCa\msCb\msNa\msNb\Ed; °jī° \msNc</APP>
+        <!-- <TR>It is doubtlessly pervasive, omnipresent, it is Śiva.
+                  It can be perceived through its contact with the senses. [That is] the direct perception of the evidence of
+                        [the existence of] the soul.</TR> -->
+
+<TEXT> yathākāśasthito vāyuḥ śabdasparśaguṇānvitaḥ|</TEXT>
+        <APP>\vcd <LEM>vāyuḥ śabda°</LEM> \msCb\msNa\msNb\msNc\Ed; vāyu<UNCL>śśa</UNCL>¤ \msCa</APP>
+        <APP>\vd <LEM>°nvitaḥ</LEM> \msCa\msNa\msNb\msNc\Ed; °nvitam \msCb</APP>
+
+%folioinfo \msCa\ 434.jpg       
+%folioinfo \msM\ 436.jpg upper, f. 28v
+% phps ceṣṭena
+<TEXT> tadvad{ }dehī vijānīyād{ }guṇaceṣṭena nānyathā||</TEXT> 15:9
+        <APP>\vd <LEM>°ceṣṭena</LEM> \msCa\msCb\msNa\msNb; °veṣṭana \msNc, °veṣṭena \Ed</APP>
+        <!-- <TR>As air in the sky is endowed with the qualities of sound and touch,
+                 similarly one can perceive the soul through the functioning of its qualities and in no other way.</TR> -->
+        <NOTE>Although it is difficult to be certain whether the majority of the MSS read °Łceṣṭena$ or Ł°veṣṭena$,
+                        I suppose that the somewhat irregular Ł°ceṣṭena$ is the right reading 
+                        and that it stands for a more standard Ł°ceṣṭayā$.</NOTE>
+
+\msNb\ 65.jpg upper
+<TEXT> devy{ }uvāca|*</TEXT>
+        <!-- <TR>The goddess spoke:</TR> -->
+
+<TEXT> vyāpīti kathitaḥ pūrvaṃ jīvaḥ sarvagato 'pi ca|</TEXT>
+        <APP>\va <LEM>kathitaḥ</LEM> \msCa\msNa\msNcpcorr\Ed; kathitaṃ \msCb\msNb, kathatiḥ \msNcacorr</APP>
+
+<TEXT> taṃ vṛthā kathito 'sy{ }adya mriyate kena hetunā||</TEXT> 15:10
+        <APP>\vc <LEM>vṛthā</LEM> \msCa\msCb\msNa\msNb\Ed; vyathā \msNc\oo
+                 <LEM>'sy{ }adya</LEM> \msCa\msCb\msNc; smy{ }adya \msNa\Ed, sy{ }a* \msNb</APP>
+        <!-- <TR>The soul was mentioned earlier as being pervasive and also omnipresent.
+                 [I suppose] you said that [only] idly. In this case, why does [the soul] die?</TR> -->
+        <NOTE>pāda c strange structure, but frequent in this text.</NOTE>
+
+
+%folioinfo \Ed\ p.640
+<TEXT> īśvara uvāca|*</TEXT>
+        <APP>\vo <LEM>īśvara</LEM> \msCa\msCb\msNb\msNc; bhagavān \msNa\Ed</APP>
+        <!-- <TR>Īśvara spoke:</TR> -->
+% \msNa\ reads bhagavān too!
+
+<TEXT> na jīvo mriyate devi sarveṣāṃ surasundari|</TEXT>
+% na jīvo mriyate' (Chāndogya 6.11.3) CHECK
+
+<TEXT> ghaṭāntastho yathākāśo bahirākāśavad{ }yathā||</TEXT> 15:11
+        <!-- <TR>O Goddess, nobody's soul ever dies, O Surasundarī.
+                 As [in the case of] space inside a pot, and space outside it,</TR> -->
+
+
+ %% Caryāmelāpakapradīpa of Āryadeva:
+        yathā dīpo ghaṭāntaḥstho bāhye naivāvabhāsate /
+        bhinne tu tadghaṭe paścād dīpajvālābhibhāsate //
+        svakāya eva hi ghaṭo dīpa eva hi tattvakam /
+        guruvaktreṇa saṃbhinne buddhajñānaṃ sphuṭaṃ bhavet //
+        gaganaṃ gaganodbhūtam ākāśākāśaṃ sa paśyati /
+        tathaiva hi guror vaktrāt prayogo 'yaṃ pradarśitaḥ //
+
+<TEXT> ghaṭabhinne viśālākṣi viśeṣo nopalakṣyate|</TEXT>
+        <APP>\vb <LEM>nopalakṣyate</LEM> \msCa\msCb\msNb\msNc\Ed; nopalabhyate \msNa</APP>
+
+<TEXT> dehabhinne yadā devi vināśo nopalabhyate||</TEXT> 15:12
+        <APP>\vc <LEM>deha°</LEM> \msCa\msNa\msNb\msNc\Ed; dehe \msCb\oo
+                 <LEM>yadā devi</LEM> \msCa\msCb\msNa\msNb\msNc; tathā dehī \Ed</APP>
+        <!-- <TR>there is no perceivable difference when the pot is broken to pieces, O Viśālākṣī.
+                  [Similarly,] when the body perishes, O goddess, there is no perceivable destruction [of the soul].</TR> -->
+        <PARAL>\vo <rm>cf.\ Bhāgavatapurāṇa 12.5.5:</rm>
+                         ghaṭe bhinne ghaṭākāśa ākāśaḥ syād yathā purā|
+                         evaṃ dehe mṛte jīvo brahma sampadyate punaḥ||</PARAL>
+
+<TEXT> susūkṣmaḥ sarvago vyāpī paramātmānam{ }avyayaḥ|</TEXT>
+        <APP>\va <LEM>susūkṣmaḥ</LEM> \msCa\msCb\msNa\msNb; susūkṣma \msNc, sa sūkṣmaḥ \Ed</APP>
+\msCbacorr paramānmāna vyaya
+
+<TEXT> bahir{ }antaś{ }ca bhūtānām{ }acaraś{ }cara eva saḥ||</TEXT> 15:13
+        <APP>\vd <LEM>°caraś{ }ca°</LEM> \msCa\msCb\msNa\msNb\msNc; °caran{ }ca° \Ed\oo
+                 <LEM>saḥ</LEM> \msCa\msCb\msNa\msNb\msNc; sa \Ed</APP>
+        <!-- <TR>It is extremely subtle, omnipresent, pervasive, it is the supreme soul, it is imperishable.
+             It is outside and inside the living beings. It is immovable and moving.</TR> -->
+        <PARAL>\vcd <rm>\similar\ MBh 6.35.15ab:</rm> bahir antaś{ }ca bhūtānām acaraṃ caram{ }eva ca</PARAL>
+        <NOTE>Note Łparamātmānam$ for Łparamātmā$.</NOTE>
+MBh check context in more detail:
+06035012c anādimat paraṃ brahma na sat tan nāsad ucyate
+06035013a sarvataḥpāṇipādaṃ tat sarvatokṣiśiromukham
+06035013c sarvataḥśrutimal loke sarvam āvṛtya tiṣṭhati
+06035014a sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam
+06035014c asaktaṃ sarvabhṛc caiva nirguṇaṃ guṇabhoktṛ ca
+06035015a bahir antaś ca bhūtānām acaraṃ caram eva ca
+06035015c sūkṣmatvāt tad avijñeyaṃ dūrasthaṃ cāntike ca tat
+
+%  bahirantaśca bhūtānāmacarañcarameva ca ।            purana/agni-puranam/381.txt
+
+<TEXT> aprameyo 'vināśī ca aprapañcaḥ prapañcakaḥ|</TEXT>
+        <APP>\vab <LEM>(aprameyoŁ...$ prapañcakaḥ)</LEM> \msCa\msCb\msNa\msNc\Ed; \om\ \msNb</APP>
+
+<TEXT> sarvendriyaguṇābhāsaḥ sarvendriyavivarjitaḥ||</TEXT> 15:14
+        <PARAL>\vcd <rm>\similar\ MBh 6.35.14ab:</rm> sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam</PARAL>
+        <!-- <TR>It is immeasurable, imperishable, unmanifest and manifest.
+                 It appears as having the qualities of all the senses but is devoid of senses.</TR> -->
+                         Agnipurāṇa: 
+381.txt:  94:   sarvendriyaguṇābhāsaṃ sarvendiyavivarjitam ।
+381.txt-  95-   asaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca ।। 381.31 ।।
+
+<TEXT> evam{ }eṣa mahādevi jīvasya varavarṇini|</TEXT>
+
+<TEXT> kathito 'smi samāsena kim{ }anyac{ }chrotum{ }icchasi||</TEXT> 15:15
+        <APP>\vd <LEM>icchasi</LEM> \msCb\msNa\msNb\msNc\Ed; icchati \msCa</APP>
+        <!-- <TR>Thus have I briefly described to you, O Mahādevī, the soul. O Varavarṇinī,
+                what else would you like to hear?</TR> -->
+
+
+<SUBCHAPTER>sāraśreṣṭham</SUBCHAPTER>
+<TRSUBCHAPTER>The best</TRSUBCHAPTER>
+
+<TEXT> devy{ }uvāca|*</TEXT>
+        <!-- <TR>The goddess spoke:</TR> -->
+
+<TEXT> sāraśreṣṭhaṃ mahādeva kathayeśāna īśvara|</TEXT>
+        <APP>\va <LEM>°śreṣṭhaṃ</LEM> \msCb\msNa\Ed; °śreṣṭha \msCa\msNb\msNc</APP>  
+
+<TEXT> śrotum{ }icchāmi deveśa mānuṣāṇāṃ hitaṃ vada||</TEXT> 15:16
+        <APP>\vd <LEM>vada</LEM> \msCa\msCb\msNa\msNb; vadaḥ \msNc\Ed</APP>
+        <!-- <TR>O Mahādeva, O Īśāna, Īśvara! Tell me what is the best in essence.
+                I would like to hear it, O Deveśa. Tell me for the benefit of mankind.</TR> -->
+        <NOTE>Pāda d is a clumsy paraphrase of the common Łmānuṣāṇāṃ hitāya ca$ or similar phrases.</NOTE>
+
+%index_grammar: clumsy
+
+<TEXT> īśvara{ }uvāca|*</TEXT>
+        <APP>\vo <LEM>īśvara</LEM> \msCa\msCb\msNa\msNb\msNc; bhagavān \Ed</APP>
+        <!-- <TR>Īśvara spoke:</TR> -->
+
+<TEXT> āśramāṇāṃ gṛhī śreṣṭho varṇaśreṣṭhā dvijātayaḥ|</TEXT>
+        <APP>\va <LEM>āśramāṇāṃ</LEM> \msCa\msCb\msNa\msNc\Ed; āśramāṇā \msNb\oo
+                 <LEM>gṛhī</LEM> \msCb\msNa\msNb\msNc\Ed; gṛ<UNCL>hī</UNCL> \msCa</APP>
+        <APP>\vb <LEM>°śreṣṭhā</LEM> \msCa\msCb\msNc; °śreṣṭo \msNa\msNb\Ed</APP>
+ % in fact \rmapp{gṛh<UNCL>ī</UNCL>}\dnapp{gṛha<UNCL>\csI</UNCL>} \msCa
+
+<TEXT> aśvamedhaḥ kratuśreṣṭho japaśreṣṭho 'ghamarṣaṇaḥ||</TEXT> 15:17
+        <APP>\vd <LEM>japa°</LEM> \msCapcorr\msNa\msNb\msNc\Ed; ja° \msCaacorr, 'japa° \msCb\oo
+                 <LEM>'ghamarṣaṇaḥ</LEM> \msCb\msNa\msNb\msNc\Ed; rghamarṣaṇaḥ \msCa</APP>
+        %medha \Ed
+        <!-- <TR>The best life-stage is that of the householder (Łgṛhin$). 
+                 The best social classes are the twice-born ones.
+                 The best ritual is the Łaśvamedha$. The best recitation is the Łaghamarṣaṇa$.</TR> -->
+
+<TEXT> devatānāṃ hariḥ śreṣṭhaḥ śreṣṭhā gaṅgā nadīṣu ca|</TEXT>
+        <APP>\vab <LEM>śreṣṭhaḥ śreṣṭhā gaṅgā</LEM> \msCa\msNa\msNb\msNc\Ed; śreṣṭhā gaṅgāṇāñ{ }ca \msCb</APP>
+%index_geo: Gaṅgā
+
+<TEXT> anāśanas{ }tapaḥśreṣṭhas{ }tīrthaśreṣṭhaḥ suradrahaḥ||</TEXT> 15:18
+        <APP>\vc <LEM>anāśana°</LEM> \msCa\msCb\msNa\msNb\Ed; anaśana° \msNc</APP>
+        <APP>\vd <LEM>°rthaśreṣṭhaḥ</LEM> \msCa\msCb\msNa\msNb\Ed; °rthaśreṣṭha \msNc\oo
+                 <LEM>°drahaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; °hradaḥ \Ed</APP>
+        <!-- <TR>The best god is Hari. The best river is the Ganges.
+                  The best austerity is fasting. The best pilgrimage-place is Suradraha.</TR> -->
+        <NOTE>Łanāśanas$ (or Łanāsanas$ in most MSS) stands for Łanaśanas$ (found only in \msNc) but the latter would cause 
+                a metrical problem, namely both the second and third syllables would be two short. This is why I retained
+                        the non-standard form Łanāśanas$.</NOTE>
+%index_geo: Suradraha
+
+<TEXT> kṣomaṃ vastreṣu ca śreṣṭhaṃ yaśaḥ śreṣṭhaṃ vibhūṣaṇam|</TEXT>
+        <APP>\va <LEM>kṣaumaṃ</LEM> \msNc\Ed; kṣomaṃ \msCa\msCb\msNa, kṣoma \msNb</APP>
+        <APP>\vb <LEM>śreṣṭhaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; śreṣṭha \msNb\oo
+                 <LEM>°bhūṣaṇam</LEM> \msCa\msNa\msNb\msNc\Ed; °bhūṣiṇam \msCb</APP>
+% \msNc\ tends to have more correct forms sometimes
+
+%folioinfo \msNa\ 220.jpg lower
+<TEXT> bhārataṃ śrutiṣu śreṣṭhaṃ vrataśreṣṭho dayāparaḥ||</TEXT> 15:19
+        <APP>\vd <LEM>°śreṣṭho</LEM> \msCa\msCb\msNa\msNc\Ed; śreṣṭhaṃ \msNb\oo
+                 <LEM>dayāparaḥ</LEM> \msCb\msNa\msNb\msNc\Ed; <UNCL>dayāpa</UNCL>raḥ \msCa</APP>
+        <!-- <TR>The best cloth is linen. The best ornament is fame.
+                 The best Śruti is the Mahābhārata. The best of vows is compassion.</TR> -->
+
+%                          stem form (śreṣṭhendriyeṣu)!
+<TEXT> dāneṣu cābhayaṃ śreṣṭhaṃ manaḥ śreṣṭhendriyeṣu ca|</TEXT>
+%index_grammar: stem form metri causa
+
+<TEXT> vidyā saṃgrahaṣu śreṣṭhā satyaṃ śreṣṭhaṃ vacaḥsu ca||</TEXT> 15:20
+        <APP>\vc <LEM>saṃgrahaṣu</LEM> \msCa\msCb\msNa\msNb\Ed; saṃgraheṣu \msNc\ \unmetr\oo
+                 <LEM>śreṣṭhā</LEM> \msCa\msCb\msNa\msNb\msNc; śreṣṭho \Ed</APP> 
+        <!-- <TR>The best donation is the freedom from danger. The best sense-faculty is the mind.
+                 The best way to accumulate wealth is accumulate knowledge. The best word is the truthful one.</TR> -->
+        <NOTE>Note the form Łsaṃgrahaṣu$ in Łpāda$ c for Łsaṃgraheṣu$ (as in \msNc) metri causa</NOTE>
+
+<TEXT> āyudhānāṃ dhanuḥ śreṣṭhaṃ bāndhaveṣu ca mātaraḥ|</TEXT>
+        <APP>\va <LEM>śreṣṭhaṃ</LEM> \msCa\msCb\msNa\msNc\Ed; śreṣṭha \msNb</APP>
+        <APP>\vb <LEM>bāndhaveṣu ca mātaraḥ</LEM> \msCa\msCb\msNaacorr\msNc\Ed; bāndhaveṣu ca mātaraṃ \msNapcorr,
+                grahaśreṣṭho divākaraḥ <EYESKIP>to 15.24b</EYESKIP> \msNb</APP>
+
+% auṣadhi: oṣadhi is better
+<TEXT> jñānam{ }auṣadhiṣu śreṣṭhaṃ vaidyaśreṣṭhaḥ śivākṣaraḥ||</TEXT> 15:21
+        <APP>\vcd <LEM>(jñāna°Ł...$ śivākṣaraḥ)</LEM> \msCa\msCb\msNa\msNc\Ed; \om\ \msNb</APP>
+        <APP>\vc <LEM>jñānam{ }oṣadhiṣu</LEM> \msNc; jñānam{ }auṣadhiṣu \msCa\msCb\msNa\msNb\Ed</APP>
+        <APP>\vd <LEM>vaidya°</LEM> \msCa\msCb\msNa; \om\ \msNb, vaidyaḥ \msNc, vaidyo \Ed\oo
+                 <LEM>°śreṣṭhaḥ</LEM> \msCb\msNa\msNc\Ed; °śreṣṭha \msCa, \om\ \msNb</APP>
+        <!-- <TR>The best weapon is the bow. The best relatives are the mothers.
+                 The best medicine is knowledge. The best doctor is Śiva's syllable.</TR> -->
+
+<TEXT> akāraś{ }cākṣaraḥ śreṣṭho dharmaśreṣṭho hy{ }ahiṃsakaḥ|</TEXT>
+
+% unmetr (two short)
+<TEXT> paśuṣu saurabhī śreṣṭhā nareṣu ca narādhipaḥ||</TEXT> 15:22
+        <APP>\vo <LEM>(akāra°Ł...$ narādhipaḥ)</LEM> \msCa\msCb\msNa\msNc\Ed; \om\ \msNb</APP>
+        <!-- <TR>The best letter is `a'. The best Dharma is non-violence.
+                 The best domestic animal is the cow. The best person is the king.</TR> -->
+% paśusu \msCa\Ed
+
+%folioinfo \msNc\ 237.jpg lower
+<TEXT> māsi mārgaśiraḥ śreṣṭhaṃ kṛtaḥ śreṣṭhaś{ }caturyuge|</TEXT>
+        <APP>\vo <LEM>(māsiŁ...$ cāyanam{ }uttaram)</LEM> \msCa\msCb\msNa\msNc\Ed; \om\ \msNb</APP>
+        <APP>\va <LEM>māsi</LEM> \msCa\msCb\msNa\msNc; \om\ \msNb, māsī \Ed\oo
+                 <LEM>°śiraḥ</LEM> \msCa\msCb\msNa\msNb\Ed; °śira \msNc</APP>
+        <APP>\vb <LEM>śreṣṭhaś{ }caturyuge</LEM> \msCa\msNa\Ed; śreṣṭhaṃ caturyuge \msCb,
+                                        \om\ \msNb, śreṣṭhaś{ }caryuge \msNc</APP>
+
+
+% standard sandhi
+<TEXT> vasanta ṛtuṣu śreṣṭhaḥ śreṣṭhaṃ cāyanam{ }uttaram||</TEXT> 15:23
+        <APP>\vd <LEM>śreṣṭhaṃ cā°</LEM> \msCa\msCb\msNc\Ed; śreṣṭhaś{ }cā° \msNa, \om\ \msNb\oo
+                 <LEM>°ttaram</LEM> \msCa\msNa\msNc\Ed; °tta<UNCL>me</UNCL>m \msCb, \om\ \msNb</APP>
+        <!-- <TR>The best month is Mārgaśiras. The best of the four \ae ons is the Kṛta.
+                The best season is spring. The best path of the Sun is the northern one.</TR> -->
+        <NOTE>Understand Łmāsi$ in Łpāda$ a as Łmāseṣu$. That it is Łmārgaśiras$ (Łmārgaśīrṣa$)
+                that is regarded as the best month may indicate that the VSS 
+                uses a calendar in which the year starts with that month (corresponding to 
+                November-December). The same seems to be true for a religious observance 
+                                        taught in ŚDhŚ 10.17--34.</NOTE>
+
+<TEXT> amāvāsyā dinaśreṣṭhā grahaśreṣṭho divākaraḥ|</TEXT>
+        <APP>\va <LEM>amāvāsyā dinaśreṣṭhā</LEM> \msCa\msCb\msNc\Ed; \om\ \msNb, amāvāsyā dinaśreṣṭho \msNa</APP>
+        <APP>\vb <LEM>grahaśreṣṭho divākaraḥ</LEM> \msCa\msCb\msNa\msNb; grahaḥ śreṣṭho divākaraḥ \msNc,
+                                                        vasuśreṣṭho hutāśanaḥ \Ed</APP>
+
+<TEXT> strīṣu lakṣmīr{ }dhṛtiḥ śreṣṭhā vasuśreṣṭho hutāśanaḥ||</TEXT> 15:24
+        <APP>\vcd <LEM>(strīṣuŁ...$ hutāśanaḥ)</LEM> \msCa\msCb\msNa\msNb\msNc; \om\ \Ed</APP>
+        <APP>\vc <LEM>strīṣu</LEM> \msCa\msNa\msNb\msNc; strī \msCb, \om\ \Ed\oo
+                 <LEM>lakṣmīr{ }dhṛtiḥ</LEM> \msCa; lakṣmīdhṛtiḥ \msCb\msNa\msNb\msNc, \om\ \Ed</APP>
+        <!-- <TR>The best day is the day of the new-moon. The best planet is the Sun.
+                  The best among women are Lakṣmī and Dhṛti [two of Dharma's thirteen wives]. The best Vasu is Agni.</TR> -->
+
+%index_mythical_figures: Agni
+%index_mythical_figures: the Vasus
+
+%folioinfo \msM\ 436.jpg lower, f. 29r
+% unmetr (two short)
+<TEXT> ṛṣiṣu uśaṇā śreṣṭhaḥ kāntiśreṣṭho niśākaraḥ|</TEXT>
+        <APP>\va <LEM>uśaṇā</LEM> \corr; uśanāḥ \msCa\msCb\msNa\msNb\msNc, uśanaḥ \Ed</APP>
+        <APP>\vb <LEM>kānti°</LEM> \msCb\msNa\msNb\Ed; kāntiḥ \msNc, kā¤ \msCa</APP>
+
+%index_mythical_figures: Uśanas
+
+%\msCa image 435
+%folioinfo \Ed\ p.641
+% he means kalāsu ca?
+<TEXT> nakṣatreṣv{ }abhijit śreṣṭhaḥ kālaḥ śreṣṭhaḥ kaleṣu ca ||</TEXT> 15:25
+        <APP>\vc <LEM>°bhijit śre°</LEM> \Ed; °bhijiḥ śre° \msCa\msCb\msNa\msNbpcorr\msNc, °bhiji \msNbacorr</APP>
+        <APP>\vd <LEM>kālaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; kaliḥ \Ed</APP>
+        <!-- <TR>The best Ṛṣi is Uśanas. The best brightness is the Moon['s]. 
+                 The best constellation is Abhijit. The best CHECK is time.</TR> -->
+% phps kaleṣu is eclipse? see ch 12 on eclipse graheṣu?
+
+%folioinfo \msCb\ 448.jpg
+<TEXT> vedeṣu ca varaṃ sāma sthāvareṣu himālayaḥ|</TEXT>
+% i.e. varaḥ sāmavedaḥ... is this significant?
+
+% stem form ! (vaṭa) or accept vara?
+<TEXT> aśvattho vaṭa vṛkṣeṣu bhūteṣu vara cetanaḥ||</TEXT> 15:26
+        <APP>\vc <LEM>vaṭa</LEM> \msCa\msCb\msNa\msNb; vara \msNc\Ed</APP>
+        <APP>\vd <LEM>vara cetanaḥ</LEM> \msCb\Ed; varaś{ }cetanaḥ \msCa\msNa\msNc\ \unmetr, vaś{ }cetanaḥ \msNb</APP>
+        <!-- <TR>The best Veda is the Sāmaveda. The best mountain is the Himalayas.
+                 The [best] among trees are the Aśvattha and Vaṭa. The best beings are
+                        the ones with consciousness.</TR> -->
+
+%index_grammar: stem form metri causa
+% stem forms
+<TEXT> adhyātma sarvavidyāsu vākya satya vara smṛtaḥ|</TEXT>
+        <APP>\va <LEM>adhyātma</LEM> \msCb\msNb\Ed; adhyātmā \msCa\msNc, ādhyātmaṃ \msNa\oo
+                 <LEM>sarvavidyāsu</LEM> \msCa\msNa\msNb\msNc; sarvavidyānāṃ \msCb, varavidyāsu \Ed</APP>
+        <APP>\vb <LEM>vākya</LEM> \msCb; vāhu \msCa\msNa\msNb\msNc, vācaḥ \Ed\oo
+                 <LEM>vara</LEM> \msCa\msCb\Ed; va<UNCL>ra</UNCL>ḥ \msNa, varaḥ \msNb\msNc</APP>
+        % see adhyātmika as sāṃkhyayoga in Niśv mukha, not sure which variant works best
+        % smṛtaḥ is not very good
+%index_grammar: stem form metri causa
+
+% stem form
+<TEXT> prahlādo vara daityeṣu yakṣarakṣo dhaneśvaraḥ||</TEXT> 15:27
+        <APP>\vc <LEM>prahlādo</LEM> \msCa\msCb\msNa\Ed; prahrādo \msNb\msNc</APP>
+        <APP>\vd <LEM>°śvaraḥ</LEM> \msCa\msCb\msNa\msNc\Ed; °śvara \msNb</APP>
+        <!-- <TR>The [best] of all knowledge is the spiritual one (Sāṃkhya?). The best speech is the truthful one.
+                  The best demon is Prahlāda. The guard? of the Yakṣas is Kubera.</TR> -->
+
+%index_grammar: stem form metri causa
+% stem form
+<TEXT> marīcir{ }vara vāteṣu hariḥ śreṣṭho mṛgeṣu ca|</TEXT>
+        <APP>\va <LEM>marīcir{ }vara</LEM> \msNc; marīci vara \msCb\msNa\msNb\Ed, ma¤¤¤¤ \msCa</APP>
+        <APP>\vb <LEM>hariḥ</LEM> \msCa\msCb\msNb\msNc\Ed; hari \msNa</APP>
+
+%index_grammar: stem form metri causa
+% stem form
+<TEXT> sādhya nārāyaṇaḥ śreṣṭhaḥ pitṝṇāṃ ca pitāmahaḥ||</TEXT> 15:28
+        <!-- <TR>The best wind is Marīci?.  The best among the deer is the reddish one.
+        The best Sādhya deity is Nārāyaṇa. The best ancestor is Brahmā.</TR> -->
+
+%index_grammar: stem form metri causa
+%                               kathitā?
+<TEXT> etat{ }samāsato devi kathito 'si varānane|</TEXT>
+        <APP>\vb <LEM>'si</LEM> \msCa\msCb\msNa\msNb; smi \msNc\Ed</APP>
+
+<TEXT> sarvasāraṃ samuddhṛtya kiṃ bhūyaḥ kathayāmy{ }aham||</TEXT> 15:29
+        <APP>\vd <LEM>kiṃ</LEM> \msCb\msNa\msNb\msNc\Ed; ki \msCa</APP>
+        <!-- <TR>O goddess, having told you this summary of the essence of everything in an extracted form, O Varānanā, 
+                        what shall I tell you further?</TR> -->
+% kaṃthayāmy \msNc
+
+<TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe jīvanirṇayo nāmādhyāyaḥ pañcadaśamaḥ</COLOPHON></TEXT>
+        <APP> Ł\Colo:$ <LEM>nāmādhyāyaḥ pañcadaśamaḥ</LEM> \msCa\msCb\msNa; nāmādhyāyaḥ pañcamaḥ \msNb,
+                                nāmādhyāyaḥ pañcadaśama \msNc, nāma pañcadaśo 'dhyāyaḥ \Ed</APP>
+        <TRCOLOPHON>Here ends the fifteenth chapter in the Vṛṣasārasaṃgraha called the Description of the Soul.</TRCOLOPHON>
+%END OF CHAPTER 15
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+<STOP/>
