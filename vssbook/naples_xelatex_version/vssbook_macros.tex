@@ -27,7 +27,8 @@
 \usetikzlibrary{decorations.text}
 
 
-\parskip.1em\parindent1.5em
+\parskip1pt
+\parindent1.5em
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % customize the TOC
 \usepackage{tocloft}
@@ -44,7 +45,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
+\usepackage[font={small,it}]{caption}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % bibliography
@@ -90,6 +91,11 @@
 
 
 
+\newcommand{\corr}{corr.}
+\newcommand{\conj}{conj.}
+\newcommand{\om}{om.}
+\newcommand{\acorr}{{\englishfont $^{\scriptscriptstyle ac}$}}
+\newcommand{\pcorr}{{\englishfont $^{\scriptscriptstyle pc}$}}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -117,17 +123,15 @@
                 \bigskip
                 \bigskip
 
-                {\englishfont\Large\hfill\textit{Index to Introduction and Translation}\hfill}
-                \bigskip
-                \bigskip
+{\englishfont\Large\hfill\textit{General Index}\hfill}
 
- REVISE \verify\ In the Index, the surnames of modern authors, as well
- as mantra-syllables, are typeset
- in \textsc{Small Capitals}, Sanskrit words in general
- in \textit{italics}, Sanskrit names of deities, humans, including authors,
- in non-italic normal typeface with capital initial letters,
- English words in non-italic normal typeface, and
- titles of works in \textsl{slanted font}.
+ Sanskrit words, including titles of works, are typeset
+ in \textit{italics}. Sanskrit names of deities, divine beings,
+ humans (including authors), months, etc., and the
+ names of modern authors, are written in a non-italic,
+ standard typeface with capitalised initial letters.
+ English words are presented in a non-italic, standard typeface.
+ (The boundaries between these categories are sometimes fluid.)
 \par \vskip 20pt]%
 % Two lines below were the original.  I changed them so that the
 % heading of the following pages would suit the previous chapters.
@@ -157,9 +161,9 @@
 % FONT STUFF
 %\newfontfamily\devanagarifont[Script=Devanagari]{Sanskrit2003}
 \newfontfamily\newarfont{Noto Sans Newa}
-\usepackage{ebgaramond}
-\newfontfamily\devanagarifont[Scale=1.2,Script=Devanagari]{Sanskrit2003}
-\newfontfamily\devanagarifontbold[Scale=1.2,Script=Devanagari]{Sanskrit2003}
+\usepackage[medium,lining,tabular]{ebgaramond}
+\newfontfamily\devanagarifont[Scale=1,Script=Devanagari]{Sanskrit2003}
+\newfontfamily\devanagarifontbold[Scale=1,Script=Devanagari]{Sanskrit2003}
 %\newfontfamily\englishfont[Scale=1,Script=Latin]{EB Garamond}
 \newcommand{\englishfont}{\ebgaramond}
 %\newfontfamily\smallerfont[Scale=.9,Script=Latin]{EB Garamond}
@@ -182,7 +186,7 @@
 \fancyhead[CE]{}
 \fancyhead[CO]{}
 \renewcommand{\headrulewidth}{0pt}
-\cfoot{{\footnotesize\thepage}}
+\fancyfoot[C]{\thepage}
 \addtolength{\topmargin}{-2.49998pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -228,7 +232,7 @@
 
 %\titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
 \titlespacing*{\subsection}
-{0pt}{3.5ex plus 1ex minus .2ex}{.3em}
+{0pt}{2.5ex}{.3em}
 
   \titleformat{\subsection}
   {\normalfont\itshape}{%
@@ -248,8 +252,10 @@
   }{0em}{}
   
 %\newcommand{\mychapter}[1]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
-\newcommand{\mychapter}[1]{\chapter*{#1}
-\addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#1}}{}{}}}
+\newcommand{\mychapter}[1]{\chapter*{#1}%
+        \addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#1}}{}{}}}
+\newcommand{\myblankchapter}[2]{\thispagestyle{empty}\ \vspace{10em}\\ \begin{center}{\Large#1}\end{center}\vfill%
+        \addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#2}}{}{}}}
 
 %\newcommand{\mysection}[2]{\vskip1em\begin{center}{\textsc{\large #1}}\end{center}\label{#2}\vskip1em}
 \newcommand{\mysection}[1]{\section{#1}
@@ -268,7 +274,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % FOOTNOTES
-\renewcommand{\footnoterule}{}
+%\renewcommand{\footnoterule}{}
 \usepackage[]{footmisc}
 % Here you can modify the spacing between the footnote number and the text of footnote; keep this value and \hangfootparindent value the same
 \renewcommand{\footnotelayout}{\hspace{.5em}}
@@ -293,6 +299,8 @@
 %\newcommand{\shortsyllable}{\raise.15em\hbox{˘}}
 \newcommand{\shortsyllable}{$\cup$}
 \newcommand{\similar}{${\approx}$}
+%\newcommand{\unmetr}{unmetr.}
+\newcommand{\unmetr}{{\englishfont (unmetr.)}}
 \newcommand{\compare}{{cf.}}
 \newcommand{\asrama}{\cskt{āśrama}{asrama}}
 \newcommand{\CE}{{\textsc{ce}}}
@@ -309,6 +317,7 @@
 \newcommand{\il}{${\CHECK}$}
 \newcommand{\lost}{\englishfont{×}}
 \newcommand{\mutacumliquida}{\skt{krama} licence\index{krama licence@\skt{krama} licence}}
+\newcommand{\krama}{\skt{krama}\index{krama licence@\skt{krama} licence}}
 \newcommand{\stemform}{stem form\index{stem form (\skt{prātipadika})}}
 \newcommand{\Stemform}{Stem form\index{stem form (\skt{prātipadika})}}
 
@@ -366,10 +375,10 @@
 \newcommand{\RV}{ṚV\index{Rgveda@\titleface{Ṛgveda}}}
 
 \newcommand{\KurmP}{\titleface{Kū\-rma\-pu\-rā\-ṇa}\index{Kurmapurana@\titleface{Kūrmapurāṇa}}}
-\newcommand{\KURMP}{KūrmP\index{Kurmapurana@\titleface{Kūrmapurāṇa}}}
+\newcommand{\KURMP}{KūP\index{Kurmapurana@\titleface{Kūrmapurāṇa}}}
 
-\newcommand{\GautDhS}{\titleface{Gau\-ta\-ma\-dha\-rma\-sū\-tra}\index{Gautamadharmasutra@\titleface{Gautadharmasūtra}}}
-\newcommand{\GAUTDHS}{GautDhS\index{Gautamadharmasutra@\titleface{Gautadharmasūtra}}}
+\newcommand{\GautDhS}{\titleface{Gau\-ta\-ma\-dha\-rma\-sū\-tra}\index{Gautamadharmasutra@\titleface{Gautamadharmasūtra}}}
+\newcommand{\GAUTDHS}{GautDhS\index{Gautamadharmasutra@\titleface{Gautamadharmasūtra}}}
 
 \newcommand{\Caraka}{\titleface{Ca\-ra\-ka\-saṃ\-hitā}\index{Carakasamhita@\titleface{Caraka\-saṃhitā}}}
 \newcommand{\CARAKA}{Caraka\index{Carakasamhita@\titleface{Caraka\-saṃhitā}}}
@@ -394,7 +403,7 @@
 \newcommand{\Diksottara}{\titleface{Dī\-kṣo\-tta\-ra}\index{Diksottara@\titleface{Dīkṣottara}}}
 \newcommand{\DIKSOTTARA}{DīkṣU\index{Diksottara@\titleface{Dīkṣottara}}}
 
-\newcommand{\Divyav}{\titleface{Di\-vyā\-va\-dā\-na}\index{Divyavadana@\titleface{Divyāvadāna}}}
+\newcommand{\DivyAv}{\titleface{Di\-vyā\-va\-dā\-na}\index{Divyavadana@\titleface{Divyāvadāna}}}
 \newcommand{\DIVYAV}{Divyāv\index{Divyavadana@\titleface{Divyāvadāna}}}
 
 \newcommand{\DeviP}{\titleface{De\-vī\-pu\-rā\-ṇa}\index{Devipurana@\titleface{Devī\-purāṇa}}}
@@ -418,25 +427,25 @@
 \newcommand{\Nisv}{\titleface{Ni\-śvā\-sa\-tattva\-saṃhi\-tā}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}}}
 \newcommand{\NISV}{Niśv\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}}}
 
-\newcommand{\Nisvmukh}{\titleface{Ni\-śvā\-sa mu\-kha}\index{Nisvasamukha@\titleface{Niśvāsa mukha}}}
-\newcommand{\NISVMUKH}{NiśvMukha\index{Nisvasamukha@\titleface{Niśvāsa mukha}}}
+\newcommand{\NisvMukha}{\titleface{Ni\-śvā\-sa mu\-khasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{mukhasūtra}}}
+\newcommand{\NISVMUKHA}{NiśvMukha\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{mukhasūtra}}}
 
-\newcommand{\Nisvmul}{\titleface{Ni\-śvā\-sa mū\-la}\index{Nisvasamula@\titleface{Niśvāsa mūla}}}
-\newcommand{\NISVMUL}{NiśvMūl\index{Nisvasamukha@\titleface{Niśvāsa mūla}}}
+\newcommand{\NisvMula}{\titleface{Ni\-śvā\-sa mū\-lasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{mūlasūtra}}}
+\newcommand{\NISVMULA}{NiśvMūl\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{mūlasūtra}}}
 
-\newcommand{\Nisvnaya}{\titleface{Ni\-śvā\-sa na\-ya}\index{Nisvasanaya@\titleface{Niśvāsa naya}}}
-\newcommand{\NISVNAYA}{NiśvNaya\index{Nisvasamukha@\titleface{Niśvāsa naya}}}
+\newcommand{\NisvNaya}{\titleface{Ni\-śvā\-sa na\-yasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{nayasūtra}}}
+\newcommand{\NISVNAYA}{NiśvNaya\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{nayasūtra}}}
 
-\newcommand{\Nisvuttara}{\titleface{Ni\-śvā\-sa utta\-ra}\index{Nisvasauttara@\titleface{Niśvāsa uttara}}}
-\newcommand{\NISVUTTARA}{NiśvUttara\index{Nisvasauttara@\titleface{Niśvāsa uttara}}}
+\newcommand{\NisvUttara}{\titleface{Ni\-śvā\-sa utta\-rasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{uttarasūtra}}}
+\newcommand{\NISVUTTARA}{NiśvUttara\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{uttarasūtra}}}
 
-\newcommand{\Nisvguhya}{\titleface{Ni\-śvā\-sa gu\-hya}\index{Nisvasaguhya@\titleface{Niśvāsa guhya}}}
-\newcommand{\NISVGUHYA}{NiśvGuhya\index{Nisvasaguhya@\titleface{Niśvāsa guhya}}}
+\newcommand{\NisvGuhya}{\titleface{Ni\-śvā\-sa gu\-hyasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{guhyasūtra}}}
+\newcommand{\NISVGUHYA}{NiśvGuhya\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{guhyasūtra}}}
 
 \newcommand{\NisvK}{\titleface{Ni\-śvā\-sa kā\-ri\-kā}\index{Nisvasakarika@\titleface{Niśvāsakārikā}}}
 \newcommand{\NISVK}{NiśvK\index{Nisvasakarika@\titleface{Niśvāsakārikā}}}
 
-\newcommand{\NepMah}{\titleface{Ne\-pā\-la\-mā\-hā\-tmya}\index{Nepalamahatmya@\titleface{Nepāla\-māhātmya}}}
+\newcommand{\NepMah}{\titleface{Nepāla\-mā\-hā\-tmya}\index{Nepalamahatmya@\titleface{Nepāla\-māhātmya}}}
 \newcommand{\NEPMAH}{NepMā\index{Nepalamahatmya@\titleface{Nepāla\-māhātmya}}}
 
 \newcommand{\Patimokkha}{\titleface{Pāti\-mokkha}\index{Patimokkha@\titleface{Pāti\-mokkha}}}
@@ -482,6 +491,8 @@
 
 \newcommand{\BhagP}{\titleface{Bhā\-ga\-va\-ta\-pu\-rā\-ṇa}\index{Bhagavatapurana@\titleface{Bhāgavatapurāṇa}}}
 \newcommand{\BHAGP}{BhāgP\index{Bhagavatapurana@\titleface{Bhāgavatapurāṇa}}}
+
+
 \newcommand{\MBh}{\titleface{Mahā\-bhā\-rata}\index{Mahabharata@\titleface{Mahābhārata}}}
 \newcommand{\MBH}{MBh\index{Mahabharata@\titleface{Mahābhārata}}}
 
@@ -492,10 +503,11 @@
 \newcommand{\MARKP}{MarkP\index{Markandeyapurana@\titleface{Mārkaṇḍeyapurāṇa}}}
 
 \newcommand{\MatsP}{\titleface{Matsyapurāṇa}\index{Matsyapurana@\titleface{Matsyapurāṇa}}}
-\newcommand{\MATSP}{MatsP\index{Matsyapurana@\titleface{Matsyapurāṇa}}}
+\newcommand{\MATSP}{MatsyaP\index{Matsyapurana@\titleface{Matsyapurāṇa}}}
 
-\newcommand{\Manu}{\titleface{Manu}\index{Manu@\titleface{Mānavadharmaśāstra}}}
-\newcommand{\MANU}{Manu\index{Manu@\titleface{Mānavadharmaśāstra}}}
+\newcommand{\Manu}{\titleface{Manu}\index{Manavadharmasastra@\titleface{Mānavadharmaśāstra}}}
+\newcommand{\MANU}{\titleface{Manu}\index{Manavadharmasastra@\titleface{Mānavadharmaśāstra}}}
+\newcommand{\Manava}{\titleface{Mānava\-dharma-śāstra}\index{Manavadharmasastra@\titleface{Mānavadharmaśāstra}}}
 
 \newcommand{\Mitaksara}{\titleface{Mi\-tā\-kṣa\-rā}\index{Mitaksara@\titleface{Mitākṣarā}}}
 \newcommand{\MITAKSARA}{\titleface{Mitākṣarā}\index{Mitaksara@\titleface{Mitākṣarā}}}
@@ -521,15 +533,15 @@
 \newcommand{\RasarnavaSK}{\titleface{Ra\-sā\-rṇa\-va\-su\-dhā\-ka\-ra}\index{Rasarnavasudhakara@\titleface{Ra\-sā\-rṇa\-va\-su\-dhā\-ka\-ra}}}
 
 
-\newcommand{\RevKhS}{RKS\index{Revakhanda@\titleface{Revākaṇḍa}}}
-\newcommand{\RKS}{\titleface{Re\-vā\-kha\-ṇḍa}\index{Revakhanda@\titleface{Revākaṇḍa}}}
+\newcommand{\RevKhS}{\titleface{Re\-vā\-kha\-ṇḍa}\index{Revakhanda@\titleface{Revākhaṇḍa}}}
+\newcommand{\RKS}{RKS\index{Revakhanda@\titleface{Revākhaṇḍa}}}
 
 
 \newcommand{\LaksmiNarS}{\titleface{Lakṣmīnārāyaṇasaṃhitā}\index{Laksminarayanasamhita@\titleface{Lakṣmī\-nā\-rā\-ya\-ṇa\-saṃhitā}}}
 \newcommand{\LAKSMINARS}{LakṣmīNārS\index{Laksminarayanasamhita@\titleface{Lakṣmī\-nā\-rā\-ya\-ṇa\-saṃhitā}}}
 
 \newcommand{\LinPu}{\titleface{Li\-ṅga\-pu\-rā\-ṇa}\index{Lingapurana@\titleface{Liṅgapurāṇa}}}
-\newcommand{\LINPU}{LiṅP\index{Lingapurana@\titleface{Liṅgapurāṇa}}}
+\newcommand{\LINPU}{LiP\index{Lingapurana@\titleface{Liṅgapurāṇa}}}
 
 \newcommand{\Vagmati}{\titleface{Vā\-gma\-tī\-māhātmya\-praśaṃsā}\index{Vagmatimahatmyaprasamsa@\titleface{Vāgmatīmāhātmyapraśaṃsā}}}
 \newcommand{\VAGMATI}{VāgMāPr\index{Vagmatimahatmyaprasamsa@\titleface{Vāgmatīmāhātmyapraśaṃsā}}}
@@ -555,14 +567,13 @@
 \newcommand{\VarP}{\titleface{Va\-rā\-ha\-pu\-rā\-ṇa}\index{Varahapurana@\titleface{Varāhapurāṇa}}}
 \newcommand{\VARP}{VarP\index{Varahapurana@\titleface{Varāhapurāṇa}}}
 
-\newcommand{\VasDh}{\titleface{Vā\-si\-ṣṭha\-dha\-rma\-śā\-stra}\index{Vasisthadharmasastra@\titleface{Vāsiṣṭhadharmaśāstra}}}
-\newcommand{\VASDH}{VasDh\index{Vasisthadharmasastra@\titleface{Vāsiṣṭhadharmaśāstra}}}
-
 \newcommand{\VDh}{\titleface{Vi\-ṣṇu\-dha\-rma}\index{Visnudharma@\titleface{Viṣṇudharma}}}
 \newcommand{\VDH}{VDh\index{Visnudharma@\titleface{Viṣṇudharma}}}
 
 \newcommand{\VisnuS}{\titleface{Vi\-ṣṇu\-smṛ\-ti}\index{Visnusmrti@\titleface{Viṣṇusmṛti}}}
 \newcommand{\VISNUS}{ViṣṇuS\index{Visnusmrti@\titleface{Viṣṇusmṛti}}}
+
+\newcommand{\VicitraKAU}{\titleface{Vi\-ci\-tra\-karṇikā\-vadāno\-ddhṛta}\index{Vicitrakarnikavadanoddhrta@\titleface{Vi\-ci\-tra\-karṇikā\-vadāno\-ddhṛta}}}
 
 \newcommand{\Vss}{\titleface{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}\index{Vrsasarasamgraha@\titleface{Vṛṣasārasaṃgraha}}}
 \newcommand{\Vsssc}{{V\scR\scS a\-sā\-ra\-sa\scM\-gra\-ha}%
@@ -573,7 +584,7 @@
 \newcommand{\SK}{SāṃkhyK\index{Samkhyakarika@\titleface{Sāṃkhyakārikā}}}
 
 \newcommand{\SivP}{\titleface{Śivapurāṇa}\index{Sivapurana@\titleface{Śivapurāṇa}}}
-\newcommand{\SIVP}{SivP\index{Sivapurana@\titleface{Śivapurāṇa}}}
+\newcommand{\SIVP}{ŚivaP\index{Sivapurana@\titleface{Śivapurāṇa}}}
 
 \newcommand{\SivPu}{\titleface{Śi\-va\-pu\-rā\-ṇa}\index{Sivapurana@\titleface{Śivapurāṇa}}}
 \newcommand{\SIVPU}{ŚivP\index{Sivapurana@\titleface{Śivapurāṇa}}}
@@ -582,6 +593,10 @@
 \newcommand{\SIVAKALPA}{ŚivaSaṃkalpa\index{Sivasamkalpa@\titleface{Śiva\-saṃ\-kalpa}}}
 
 \newcommand{\Sivasamhita}{\titleface{Śi\-va\-saṃ\-hi\-tā}\index{Sivasamhita@\titleface{Śiva\-saṃ\-hitā}}}
+
+\newcommand{\Sivadharma}{Śi\-va\-dharma\index{Sivadharma@Śiva\-dharma}}
+
+\newcommand{\Sivadharmacorpus}{Śi\-va\-dharma\index{Sivadharma@Śiva\-dharma!corpus}}
 
 \newcommand{\SivaUp}{\titleface{Śi\-vo\-pa\-ni\-ṣad}\index{Sivopanisad@\titleface{Śivopaniṣad}}}
 \newcommand{\SIVAUP}{ŚivaUp\index{Sivopanisad@\titleface{Śivopaniṣad}}}
@@ -691,7 +706,9 @@
 \newcommand{\Diwakar}{\textsc{Diwakar}}%\index{Diwakar}}
 \newcommand{\Wallis}{\textsc{Wallis}\index{Wallis, Christopher}}
 
-\newcommand{\eme}{\textit{em.}}
+\newcommand{\eme}{{em.}}
+\newcommand{\hypermetr}{{\englishfont (hy\-per\-metr.)}}
+\newcommand{\hypometr}{{\englishfont (hy\-po\-metr.)}}
 
 
 %\input{vss_book_sigla.tex}
@@ -748,44 +765,48 @@
 \newcommand{\msNdacorr}{{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 03}$}}
 \newcommand{\msNdpcorr}{{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 03}$}}
 
-\newcommand\msParis{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}$}}
-\newcommand\msParisacorr{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}^{\scriptscriptstyle ac}$}}
-\newcommand\msParispcorr{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}^{\scriptscriptstyle pc}$}}
+\newcommand{\msParis}{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}$}}
+\newcommand{\msParisacorr}{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}^{\scriptscriptstyle ac}$}}
+\newcommand{\msParispcorr}{{\allowbreak\englishfont P$_{\scriptscriptstyle 57}^{\scriptscriptstyle pc}$}}
 
-\newcommand\msPaperA{\allowbreak{\englishfont K$_{\scriptscriptstyle 41}$}}
-\newcommand\msPaperAacorr{\allowbreak{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 41}$}}
-\newcommand\msPaperApcorr{\allowbreak{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 41}$}}
+\newcommand{\msPaperA}{\allowbreak{\englishfont K$_{\scriptscriptstyle 41}$}}
+\newcommand{\msPaperAacorr}{\allowbreak{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 41}$}}
+\newcommand{\msPaperApcorr}{\allowbreak{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 41}$}}
 
-\newcommand\msPaperC{\allowbreak{\englishfont K$_{\scriptscriptstyle 107}$}}
-\newcommand\msPaperCacorr{\allowbreak{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 107}$}}
-\newcommand\msPaperCpcorr{\allowbreak{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 107}$}}
+\newcommand{\msPaperC}{\allowbreak{\englishfont K$_{\scriptscriptstyle 107}$}}
+\newcommand{\msPaperCacorr}{\allowbreak{\englishfont K$^{\scriptscriptstyle ac}_{\scriptscriptstyle 107}$}}
+\newcommand{\msPaperCpcorr}{\allowbreak{\englishfont K$^{\scriptscriptstyle pc}_{\scriptscriptstyle 107}$}}
 
-\newcommand\msBod{{\englishfont O$_{\scriptscriptstyle 15}$}}
-\newcommand\msBodacorr{{\englishfont O$_{\scriptscriptstyle 15}$}$^{\scriptscriptstyle ac}$}
-\newcommand\msBodpcorr{{\englishfont O$_{\scriptscriptstyle 15}$}$^{\scriptscriptstyle pc}$}
+\newcommand{\msBod}{{\englishfont O$_{\scriptscriptstyle 15}$}}
+\newcommand{\msBodacorr}{{\englishfont O$_{\scriptscriptstyle 15}$}$^{\scriptscriptstyle ac}$}
+\newcommand{\msBodpcorr}{{\englishfont O$_{\scriptscriptstyle 15}$}$^{\scriptscriptstyle pc}$}
 
 
 
-\newcommand\msL{{\englishfont L$_{\scriptscriptstyle 16}$}}
-\newcommand\msLacorr{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle ac}$}
-\newcommand\msLapcorr{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle pc}$}
+\newcommand{\msL}{{\englishfont L$_{\scriptscriptstyle 16}$}}
+\newcommand{\msLacorr}{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle ac}$}
+\newcommand{\msLapcorr}{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle pc}$}
 
-\newcommand\msKoa{{\englishfont Ko$_{\scriptscriptstyle 77}$}}
-\newcommand\msKoaacorr{{\englishfont Ko$_{\scriptscriptstyle 77}$}$^{\scriptscriptstyle ac}$}
-\newcommand\msKoapcorr{{\englishfont Ko$_{\scriptscriptstyle 77}$}$^{\scriptscriptstyle pc}$}
+\newcommand{\msKoa}{{\englishfont Ko$_{\scriptscriptstyle 77}$}}
+\newcommand{\msKoaacorr}{{\englishfont Ko$_{\scriptscriptstyle 77}$}$^{\scriptscriptstyle ac}$}
+\newcommand{\msKoapcorr}{{\englishfont Ko$_{\scriptscriptstyle 77}$}$^{\scriptscriptstyle pc}$}
 
-\newcommand\msKob{{\englishfont Ko$_{\scriptscriptstyle 76}$}}
-\newcommand\msKobacorr{{\englishfont Ko$_{\scriptscriptstyle 76}$}$^{\scriptscriptstyle ac}$}
-\newcommand\msKobpcorr{{\englishfont Ko$_{\scriptscriptstyle 76}$}$^{\scriptscriptstyle pc}$}
+\newcommand{\msKob}{{\englishfont Ko$_{\scriptscriptstyle 76}$}}
+\newcommand{\msKobacorr}{{\englishfont Ko$_{\scriptscriptstyle 76}$}$^{\scriptscriptstyle ac}$}
+\newcommand{\msKobpcorr}{{\englishfont Ko$_{\scriptscriptstyle 76}$}$^{\scriptscriptstyle pc}$}
 
-\newcommand\msKoc{{\englishfont Ko$_{\scriptscriptstyle 52}$}}
-\newcommand\msKocacorr{{\englishfont Ko$_{\scriptscriptstyle 52}$}$^{\scriptscriptstyle ac}$}
-\newcommand\msKocpcorr{{\englishfont Ko$_{\scriptscriptstyle 52}$}$^{\scriptscriptstyle pc}$}
+\newcommand{\msKoc}{{\englishfont Ko$_{\scriptscriptstyle 52}$}}
+\newcommand{\msKocacorr}{{\englishfont Ko$_{\scriptscriptstyle 52}$}$^{\scriptscriptstyle ac}$}
+\newcommand{\msKocpcorr}{{\englishfont Ko$_{\scriptscriptstyle 52}$}$^{\scriptscriptstyle pc}$}
 
 
 \newcommand\msM{{\englishfont M}}
 \newcommand\msMacorr{{\englishfont M}$^{\scriptscriptstyle ac}$}
 \newcommand\msMpcorr{{\englishfont M}$^{\scriptscriptstyle pc}$}
+
+\newcommand{\msTub}{{\allowbreak\englishfont T$_{\scriptscriptstyle 82}$}}
+\newcommand{\msTubacorr}{{\allowbreak\englishfont T$^{\scriptscriptstyle ac}_{\scriptscriptstyle 82}$}}
+\newcommand{\msTubpcorr}{{\allowbreak\englishfont T$^{\scriptscriptstyle pc}_{\scriptscriptstyle 82}$}}
 
 %\newcommand{\Ed}{{\englishfont Ed$_\textrm{N}$}}
 %\newcommand{\Ed}{{\rm E$^{\scriptscriptstyle N}$}}
@@ -816,12 +837,30 @@
 	\centerline{{[\textit{\thinspace#1\thinspace}---}}}
 \newcommand{\subsubchptr}[1]{\centerline{[\textit{\thinspace{\footnotesize#1}\thinspace}---}}
 
-\newcommand{\trchptr}[1]{\centerline{\large[{#1}]}\indent\addcontentsline{toc}{section}{#1}}
+\newcommand{\trchptr}[1]{\centerline{\large[{#1}]}\indent\addcontentsline{toc}{section}{#1\nopagebreak}}
+% nopagebreak to avoid break in the toc!
 
 \newcommand{\trsubchptr}[1]{\centerline{#1 ]}%
                  \addcontentsline{toc}{subsection}{#1}%
                         }
 \newcommand{\trsubsubchptr}[1]{\centerline{{\footnotesize#1} ]}}
+
+
+
+
+
+
+% redefine quote environment
+\let\origquote\quote
+%\let\endorigquote\endquote
+%\renewenvironment{quote}{%
+  %\vspace{-.6em}
+%    \origquote
+    %\leftskip-.9em
+    %\rightskip-1.8em
+  %\vspace{-.6em}
+%    }%
+%{\endorigquote}
 
 \newcommand{\maintext}[1]{
 \leftskip0em
@@ -832,17 +871,7 @@
 \newcommand{\nonanustubhindent}{\noindent\hspace{1.5em}}
 			                
 
-% redefine quote environment
-\let\origquote\quote
-\let\endorigquote\endquote
-\renewenvironment{quote}{%
-  \vspace{-.6em}
-    \origquote
-    \leftskip-.9em
-    \rightskip-1.8em
-    \small
-    }%
-{\endorigquote}
+
 
 
 \newcommand{\translation}[1]{
@@ -851,8 +880,9 @@
 \begin{quote}
 %\vskip-.8em
 %\normalsize
-  %\leftskip-.7em
-  %\rightskip-1.5em
+\vskip-.6em plus.2em minus.2em
+  \leftskip-1em
+  \rightskip-1em
 {\englishfont #1}
 \end{quote}
 %\vskip-.4em
@@ -992,7 +1022,7 @@
 {"{internal \textit{tīrtha}s}"},
 {"{\hspace{6em}{\textit{āśrama}s:}}\ \textit{vinārthena yaj\~naḥ}"},
 {"{Vipula's story}"},
-{"{\hspace{1em}\phantom{\Huge Ā}summary of 10--12, \textit{garbhotpatti}}"},
+{"{\hspace{0em}\phantom{\Huge Ā}\textit{garbhotpatti}}"},
 {"{the body}"},
 {"{\textit{jīva, śreṣṭha}}"},
 {"{\textit{yoga}}"},
@@ -1000,7 +1030,7 @@
 {"{\textit{karman}}"},
 % Anarth
 {"{\hspace{-2em}{\textit{varṇa}s}}"},
-{"{\hspace{-1em}\textit{tattva}s}"}, {"{\hspace{-2em}Viṣṇu's theophany}"}, {"{{\hspace{-6em}Anarthayaj\~na's life}}"}, {"{\textit{dharmādharma, nidrā\ \ \ \ \ \ }}"},
+{"{\hspace{-1em}\textit{tattva}s}"}, {"{\hspace{-2em}Viṣṇu's theophany}"}, {"{{\hspace{-6em}Anarthayaj\~na's life}}"}, {"{\textit{dharmādharma, nidrā\ \ \ \ \ \ \ \ \ \ }}"},
 {"{\textit{trailokya}}"} }}
 
 \foreach \a in {0,1,2,...,23} {
@@ -1171,7 +1201,8 @@
 
 
 \newcommand{\lac}{\kern0.1em{\englishfont-{}-{}-{}}\kern0.1em}
-\newcommand{\lk}{{\englishfont{\kern.05em\englishfont\textendash}\kern-.25em{\large\raise.15em\hbox{˘}}\kern.05em}}
+\newcommand{\lacwithnum}[1]{\raise-.1em\hbox{\lac}\kern-.65em\raise.25em\hbox{\tiny#1}\kern0.6em}
+\newcommand{\lk}{{\englishfont{\kern.05em\englishfont\textendash}\kern-.40em{\large\raise.10em\hbox{˘}}\kern.05em}}
 
 
 % not used, just an experiment

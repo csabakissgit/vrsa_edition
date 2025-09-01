@@ -11,7 +11,7 @@
 
 % https://djdekker.net/ledmac/#mult
 % Q 24: Help! My footnotes are running off the bottom of the page!
-\renewcommand{\footfudgefiddle}{100}
+\renewcommand{\footfudgefiddle}{90}
 
 % updated current version
 \makeatletter
@@ -118,21 +118,21 @@
 %\foottwocol{D} % if you want 2-col apparatus STEP 1
 \footparagraph{E}
 
-% register separators, could be Alex Watson-style
-\usepackage{bbding} % for the lohere symbol
-\newcommand{\anormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}}
-%\newcommand{\bnormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}\vskip.5em}
-\newcommand{\bnormalfootnoterule}{\begin{center}{\vskip-0em\rule{3em}{.1pt}}\end{center}\vskip0em}
-%\newcommand{\cnormalfootnoterule}{\begin{center}{\vskip.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
-%\newcommand{\dnormalfootnoterule}{\begin{center}{\vskip-.5em\rule{3em}{.1pt}}\end{center}\vskip.5em}
-\newcommand{\cnormalfootnoterule}{\begin{center}{\tiny\CrossClowerTips}\end{center}}
-\newcommand{\dnormalfootnoterule}{\begin{center}{\vskip-0em}\end{center}\vskip0em}
-%\newcommand{\paranormalfootnoterule}{\begin{center}{\rule{3em}{.1pt}}\end{center}\vskip-.1em}
+%%% register separators/decorators %%%
+\usepackage{bbding} % for the lohere symbol (\CrossClowerTips)
+\newcommand{\anormalfootnoterule}{\kern.5em\begin{center}{\rule{6em}{.1pt}}\end{center}\kern-.8em}
+\newcommand{\bnormalfootnoterule}{\kern-1.5em\begin{center}{\rule{3em}{.1pt}}\end{center}\kern-.8em}
+\newcommand{\cnormalfootnoterule}{\kern-1.5em\begin{center}{\tiny\CrossClowerTips}\end{center}\kern-.5em}
+%\newcommand{\dnormalfootnoterule}{\begin{center}\unskip{\rule{3em}{.1pt}}\end{center}}
 
-\let\Afootnoterule=\anormalfootnoterule
-\let\Bfootnoterule=\bnormalfootnoterule
-\let\Cfootnoterule=\cnormalfootnoterule
-\let\Dfootnoterule=\dnormalfootnoterule
+        %%\newcommand{\paranormalfootnoterule}{\begin{center}{\rule{3em}{.1pt}}\end{center}\vskip-.1em}
+        %%\newcommand{\cnormalfootnoterule}{\begin{center}{\vskip.3em\rule{3em}{.1pt}\vskip-.5em}\end{center}}
+
+%\let\Afootnoterule=\anormalfootnoterule
+%\let\Bfootnoterule=\bnormalfootnoterule
+%\let\Cfootnoterule=\cnormalfootnoterule
+%\let\Dfootnoterule=\dnormalfootnoterule
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -21,6 +21,7 @@
 \frenchspacing
 \usepackage[cam, center,cross,axes,color=blue]{crop}
 
+\hyphenation{un-matched su-preme re-straint vio-lence}
 \makeindex 
 
 \begin{document}
@@ -54,8 +55,10 @@
 \renewcommand{\listfigurename}{{\hfill
         {\normalfont\Large\englishfont List of Figures}\hfill}}
 \listoffigures
+\vfill
 
-
+\pagebreak
+\blankpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ACKNOWLEDGEMENTS and PREFACE %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -78,7 +81,10 @@
 
 %%%%%%%%%%%%%%%%%%%%
 % CRITICAL EDITION %
-%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%% 
+% to add vertical space in the TOC
+%\addtocontents{toc}{\protect\vspace{20pt}}
+
 \mychapter{Introduction to the Critical Edition}
 \input{04vss_cred_intro}
 
@@ -95,14 +101,25 @@
 %\setcounter{page}{500} % set it in the edition file (.tex, see path below)
 
 %\section{The Sanskrit text}
-\mychapter{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
+\myblankchapter{A Critical Edition\\ \vspace{.4em} of\\ \vspace{.4em}Vṛṣasārasaṃgraha 1--12}{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
 
 \pagebreak
 
 \blankpage
 %\addcontentsline{toc}{chapter}{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
-\addcontentsline{toc}{section}{Sanskrit Text}
-\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
+%\addcontentsline{toc}{section}{Sanskrit Text}
+\includepdf[noautoscale, pages=-, addtotoc={1,  section, 1, Adhyāya 1, adhyaya01,
+                                            20, section, 1, Adhyāya 2, adhyaya02,
+                                            27, section, 1, Adhyāya 3, adhyaya03,
+                                            36, section, 1, Adhyāya 4, adhyaya04,
+                                            56, section, 1, Adhyāya 5, adhyaya05,
+                                            62, section, 1, Adhyāya 6, adhyaya06,
+                                            68, section, 1, Adhyāya 7, adhyaya07,
+                                            74, section, 1, Adhyāya 8, adhyaya08,
+                                            84, section, 1, Adhyāya 9, adhyaya09,
+                                            93, section, 1, Adhyāya 10, adhyaya10,
+                                            101, section, 1, Adhyāya 11, adhyaya11,
+                                            113, section, 1, Adhyāya 12, adhyaya12}]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
 
 
 
@@ -112,7 +129,7 @@
 %%%%%%%%%%%%%%%
 
 
-\mychapter{An Annotated Translation of Vṛṣasārasaṃgraha 1--12}
+\myblankchapter{An Annotated Translation of\\ Vṛṣasārasaṃgraha 1--12}{An Annotated Translation of Vṛṣasārasaṃgraha 1--12}
 %\addcontentsline{toc}{section}{\Vss\ 1--12}
 
 %FOOTNOTE
@@ -225,14 +242,6 @@ https://siddham.network
 
 TO BE SUPPLIED
 
-\begin{itemize}
-\item
-  Balogh 2018? ON THE SAME TOPIC
-\item
-  Ranjan Sen 2006. `Vowel-weakening before muta cum liquidā sequences in
-  Latin. A problem of syllabification?' In: Oxford University Working
-  Papers in Linguistics, Philology \& Phonetics 11: 143-61.
-\end{itemize}
 \vfill
 \pagebreak
 %(\cite[see][13 ff.]{OlivelleGrhastha})
@@ -247,57 +256,58 @@ TO BE SUPPLIED
 \ 
 
 
-\skttitle{Arthaśāstra}{Arthasastra}: see \mycite{Arthasastra1969}
+\titleface{Arthaśāstra}: see \mycite{Arthasastra1969}
 
-\skttitle{Uttarottara}{Uttarottara}: see \verify
+\titleface{Uttarottara}: see \verify
 
-\skttitle{Umāmaheśvarasaṃvāda}{Umamahesvarasamvada}: see \verify
+\titleface{Umāmaheśvarasaṃvāda}: see \verify
 
-\skttitle{Ṛgveda-khila}{Rgvedakhila}: see \mycite{RgvedaKhila}
+\titleface{Ṛgveda-khila}: see \mycite{RgvedaKhila}
 
-\skttitle{Kūrmapurāṇa}{Kurmapurana}: see \mycite{Kurmapurana}
+\titleface{Kūrmapurāṇa}: see \mycite{Kurmapurana}
 
-\skttitle{Padmapurāṇa}{Padmapurana}: see \verify
+\titleface{Nepālamāhātmya}: see \mycite{AcharyaNepalaMahatmya}
 
-\skttitle{Buddhacarita}{Buddhacarita}: see \verify
+\titleface{Padmapurāṇa}: see \verify
 
-\Bodhisattvabhumi: see \verify
+\titleface{Buddhacarita}: see \verify
 
-\skttitle{Brahmāṇḍapurāṇa}{Brahmandapurana}: see \verify
+\titleface{Bodhisattvabhumi}: see \verify
 
-\BhG: see \mycite{MahabharataCriticalEd}  \verify
+\titleface{Brahmāṇḍapurāṇa}: see \verify
 
-\Manu: see \mycite{Manu1972}
+\titleface{Bhagavadgītā}: see \mycite{MahabharataCriticalEd}  \verify
 
-\MBh: see \mycite{MahabharataCriticalEd}
+\titleface{Manu/Mānavadharmaśāstra}: see \mycite{Manu1972}
 
-\MahaSubhS: see \mycite{Mahasubhasitasamgraha}
+\titleface{Mahābhārata}: see \mycite{MahabharataCriticalEd}
 
-\skttitle{Mātaṅgalīlā}{Matangalila}: see \mycite{Matangalila}
+\titleface{Mahāsubhāṣitasaṃgraha}: see \mycite{Mahasubhasitasamgraha}
 
-\YS: see \verify
+\titleface{Mātaṅgalīlā}: see \mycite{Matangalila}
 
-\Raghu: see %\mycite{Goodall...}
+\titleface{Yogasūtra}: see \verify
 
-\RasarnavaSK: see \mycite{Rasarnavasudhakara}
+\titleface{Raghuvaṃśa}: see %\mycite{Goodall...}
 
-\skttitle{Vāgmatīmāhātmyapraśaṃsā}{Vagmatimahatmyaprasamsa}:
+\titleface{Rasārṇavasudhākara}: see \mycite{Rasarnavasudhakara}
 
-\VajasaneyiS: see \mycite{VajasaneyiS}
+\titleface{Vāgmatīmāhātmyapraśaṃsā}:
 
-\skttitle{Viṣṇudharmottara}{Visnudharmottara}:
+\titleface{Vājasaneyisaṃhitā}: see \mycite{VajasaneyiS}
 
-\skttitle{Viṣṇudharma}{Visnudharma}: see \mycite{VisnudharmaGrunendahl}
+\titleface{Viṣṇudharmottara}:
 
+\titleface{Viṣṇudharma}: see \mycite{VisnudharmaGrunendahl}
 
-\skttitle{Viṣṇupurāṇa}{Visnupurana}: see \mycite{Visnupurana_critical}
+\titleface{Viṣṇupurāṇa}: see \mycite{Visnupurana_critical}
 
 OTHER PURANAS
 
 
 
 % print biblio:
-\bibliographystyle{csaba2022}
+\bibliographystyle{naples}
 %\renewcommand*{\bibname}{References huhu}
 
 %% Add titles without referencing them:
@@ -316,7 +326,7 @@ CHANGE repeated authornames with
 
 \label{index}
 %\renewcommand*{\indexname}{{\normalfont Index}}
-\addcontentsline{toc}{chapter}{\protect\textbf{\numberline{}Index}}
+\addcontentsline{toc}{chapter}{\protect{\numberline{}Index}}
 \printindex
 
 %\listoftodos

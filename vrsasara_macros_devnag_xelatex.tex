@@ -1,17 +1,97 @@
-% about 70% of these commands are not used now
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% FONT and LANG SETTINGS %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{fontspec} % Font selection for XeLaTeX; see fontspec.pdf for documentation
+\defaultfontfeatures{Mapping=tex-text, Language=Sanskrit} % to support TeX conventions like ``---''
+\usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
+
+% The polyglossia package seems to help with hyphenation
+\usepackage{polyglossia}
+\setdefaultlanguage[script=devanagari]{sanskrit}
+\setotherlanguage{english}
+
+% The main English font
+\usepackage[medium,lining,tabular]{ebgaramond}
+\newcommand{\englishfont}{\ebgaramond}
+\newcommand{\smallerfont}{\ebgaramond}
+% The main Devanāgarī font
+\newfontfamily\devanagarifont[Scale=1.2,Script=Devanagari, LetterSpace={1}]{Sanskrit2003}
+\newfontfamily\devanagarifontvar[Scale=1,Script=Devanagari, LetterSpace={1}]{Sanskrit2003}
+\newfontfamily\devanagarifontsmall[Scale=1, Script=Devanagari]{Sanskrit2003}
+\newfontfamily\devanagarifontbold[Scale=1.2,  Script=Devanagari]{Sanskrit2003}
+% Try AdishilaSamskrta
+
+
+%\setmainfont{\ebgaramond}
+
+% Linux Tamil font
+%\newfontfamily\tamilfont{Lohit Tamil}
+
+%https://www.unicode.org/L2/L2021/21112-deva-cluster-valid.pdf
+
+% DevanagariMT
+%\newcommand{\dependentlonga}{\char"00A0\char"093E}
+%\newcommand{\dependentshorti}{\char"00A0\char"093F}
+%\newcommand{\dependentlongi}{\char"00A0\char"0940}
+%\newcommand{\dependentshortu}{\char"00A0\char"0941}
+%\newcommand{\dependentlongu}{\char"00A0\char"0942}
+%\newcommand{\dependente}{\char"00A0\char"0947}
+%\newcommand{\dependentai}{\char"00A0\char"0948}
+%\newcommand{\dependentanusvara}{\char"00A0\char"0902}
+%\newcommand{\dependentvisarga}{\char"00A0\char"0903}
+%\newcommand{\dependentr}{\char"00A0\char"0930}
+
+% PedanticDevanagari
+% [avagraha] + zero-width joiner (U+200D) + [vowel sign]
+% the following contains a zero-width joiner after the avagraha:
+\newcommand{\dep}[1]{{ऽ‍#1}}
+%\newcommand{\depu}{\dep{\char"0941}}
+\newcommand{\depu}{{\char"0941}} % for Sanskrit2003; not good
+%\newcommand{\depanusv}{\dep{\char"0902}}
+\newcommand{\depanusv}{\lk{\char"0902}} % for Sanskrit2003; not good
+\newcommand{\lkplusdepanusv}{\lk\kern-.6em{\char"0301\char"0902}} % for Sanskrit2003; not good
+%\newcommand{\depvisarga}{\dep{\char"0903}}
+\newcommand{\depvisarga}{{\char"0903}} % for Sanskrit2003; not good 
+\newcommand{\halft}{{\char"E341}}
+\newcommand{\halfp}{{\char"E346}}
+
+
+%% Glyphs
+\newcommand{\glyindex}{\XeTeXglyph\XeTeXglyphindex}
+\newcommand{\gly}{\XeTeXglyph}
+
+\usepackage{xltxtra} % Extra customizations for XeLaTeX: "This package was previously used to provide a number of features that were useful for typesetting documents with XeLaTeX. Many of those features have now been incorporated into the fontspec package and other packages, but the package persists for backwards compatibility."
+
+% for ring below r (\textsubring) and l (Dharma input/IAST):
+% \usepackage{tipa}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%%% PAGE DIMENSIONS %%%
+%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage[total={11.7cm,18cm},top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+% \usepackage[a4paper, %%total={11.7cm,20cm},
+%                     top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+%\usepackage[textwidth=9.5cm, textheight=15cm, includehead, headsep=1.1cm, footnotesep=1.2cm, xetex, footskip=1cm, left=6cm]{geometry}
+%\usepackage[a4,width=17cm,height=24cm,center,cross,axes,color=blue,cam]{crop}
+%\usepackage[total={11.7cm,20cm},top=4cm, left=5cm, headsep=1.1cm, footskip=1.7cm, footnotesep=1cm]{geometry}
+
+%\usepackage[textwidth=11cm, textheight=18cm, paperwidth=21cm, paperheight=29.7cm, includehead, headsep=1.1cm, footnotesep=.8cm, xetex, footskip=1cm, left=5.2cm]{geometry}
+
+\usepackage[textwidth=11cm, textheight=18cm, top=4.9cm, headsep=1cm, footnotesep=1cm, footskip=1.5cm, xetex, left=5.2cm]{geometry}
+
 
 %%%HEADERS%%%%%%%%%%%%
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{{\devanagarifont\thepage}}
+
+
 
 \parindent2em
-%\usepackage{pdfpages}
-%\usepackage{dev}
-% for ring below r (\textsubring) and l (Dharma input/IAST):
-% \usepackage{tipa}
-\cfoot{{\devanagarifont\thepage}}
-\renewcommand{\headrulewidth}{0pt}
 \renewcommand{\baselinestretch}{1.2}
 %\headheight14.5pt
 \usepackage[noeledmac]{ledmac}
@@ -39,7 +119,7 @@
 % rather emphasise all entries, that is the number and pāda sign
 \usepackage{circledsteps}
 \newcommand{\numemph}[1]{{\englishfont\color{black}{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hspace{.5em} }}}
-\newcommand{\numnoemph}[1]{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hspace{.5em} }
+\newcommand{\numnoemph}[1]{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hskip1em plus.5em minus .5em}
 %\newcommand{\numemph}[1]{\textbf{#1}}\newcommand{\numnoemph}[1]{#1}
 
 % pādas in apparatus: verse no. + pāda sign
@@ -61,9 +141,6 @@
 \newcount\versno
 \newcount\ajsa
 
-%% Glyphs
-\newcommand{\glyindex}{\XeTeXglyph\XeTeXglyphindex}
-\newcommand{\gly}{\XeTeXglyph}
 
 \fejno=1
 \versno=1
@@ -97,53 +174,53 @@
 %%%%  Types of paragraph
 %\newcommand{\proza}{\leftskip 3em\noindent}
 %\newcommand{\ujproza}{\global\advance\versno by1\leftskip 3em\noindent}
-\newcommand{\vers}{\nemsloka}
+\newcommand{\vers}{\leftskip 0em}
 % alternative name:
 \newcommand{\sloka}{\vers}
 \newcommand{\dnvers}{\leftskip4em}
 % indentation for non-anustubhs
-\newcommand{\nemsloka}{\leftskip1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\newcommand{\nemslokab}{\leftskip3em} % pada b
+\newcommand{\nemsloka}{\leftskip0em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\nemslokab}{\leftskip1em} % pada b
 \newcommand{\nemslokac}{\nemsloka} % pada c
 \newcommand{\nemslokad}{\nemslokab} % pada d
 \newcommand{\nemslokae}{\nemsloka} % pada e
 \newcommand{\nemslokaf}{\nemslokab} % pada f
 
-\newcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\newcommand{\dnnemslokab}{\leftskip 3em} % pada b
-\newcommand{\dnnemslokac}{\leftskip 1em} % pada c
-\newcommand{\dnnemslokad}{\leftskip 3em} % pada d
-\newcommand{\dnnemslokae}{\leftskip 1em} % pada e
-\newcommand{\dnnemslokaf}{\leftskip 3em} % pada f
+\newcommand{\dnnemsloka}{\leftskip 0em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\newcommand{\dnnemslokab}{\leftskip 1em} % pada b
+\newcommand{\dnnemslokac}{\nemsloka} % pada c
+\newcommand{\dnnemslokad}{\nemslokab} % pada d
+\newcommand{\dnnemslokae}{\nemsloka} % pada e
+\newcommand{\dnnemslokaf}{\nemslokab} % pada f
 
 \newcommand{\nemslokalong}{
-\renewcommand{\nemsloka}{\leftskip 0em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\renewcommand{\nemslokab}{\leftskip 1em} % pada b
+\renewcommand{\nemsloka}{\leftskip -1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\nemslokab}{\leftskip 0em} % pada b
 \renewcommand{\nemslokac}{\nemsloka} % pada c
 \renewcommand{\nemslokad}{\nemslokab} % pada d
 \renewcommand{\nemslokae}{\nemsloka} % pada e
 \renewcommand{\nemslokaf}{\nemslokb} % pada f
-\renewcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\renewcommand{\dnnemslokab}{\leftskip 2em} % pada b
-\renewcommand{\dnnemslokac}{\leftskip 1em} % pada c
-\renewcommand{\dnnemslokad}{\leftskip 2em} % pada d
-\renewcommand{\dnnemslokae}{\leftskip 1em} % pada c
-\renewcommand{\dnnemslokaf}{\leftskip 2em} % pada d
+\renewcommand{\dnnemsloka}{\leftskip -1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\dnnemslokab}{\leftskip 0em} % pada b
+\renewcommand{\dnnemslokac}{\nemsloka} % pada c
+\renewcommand{\dnnemslokad}{\nemslokab} % pada d
+\renewcommand{\dnnemslokae}{\nemsloka} % pada c
+\renewcommand{\dnnemslokaf}{\nemslokab} % pada d
 }
 
 \newcommand{\nemslokanormal}{
-\renewcommand{\nemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\renewcommand{\nemslokab}{\leftskip 3em} % pada b
-\renewcommand{\nemslokac}{\leftskip 1em} % pada c
-\renewcommand{\nemslokad}{\leftskip 3em} % pada d
-\renewcommand{\nemslokae}{\leftskip 1em} % pada e
-\renewcommand{\nemslokaf}{\leftskip 3em} % pada f
-\renewcommand{\dnnemsloka}{\leftskip 1em} % for "Saarduulavikrii.dita etc. stanzas: pada a
-\renewcommand{\dnnemslokab}{\leftskip 3em} % pada b
-\renewcommand{\dnnemslokac}{\leftskip 1em} % pada c
-\renewcommand{\dnnemslokad}{\leftskip 3em} % pada d
-\renewcommand{\dnnemslokae}{\leftskip 1em} % pada e
-\renewcommand{\dnnemslokaf}{\leftskip 3em} % pada f
+\renewcommand{\nemsloka}{\leftskip 0em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\nemslokab}{\leftskip 1em} % pada b
+\renewcommand{\nemslokac}{\leftskip 0em} % pada c
+\renewcommand{\nemslokad}{\leftskip 1em} % pada d
+\renewcommand{\nemslokae}{\leftskip 0em} % pada e
+\renewcommand{\nemslokaf}{\leftskip 1em} % pada f
+\renewcommand{\dnnemsloka}{\leftskip 0em} % for "Saarduulavikrii.dita etc. stanzas: pada a
+\renewcommand{\dnnemslokab}{\leftskip 1em} % pada b
+\renewcommand{\dnnemslokac}{\leftskip 0em} % pada c
+\renewcommand{\dnnemslokad}{\leftskip 1em} % pada d
+\renewcommand{\dnnemslokae}{\leftskip 0em} % pada e
+\renewcommand{\dnnemslokaf}{\leftskip 1em} % pada f
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -214,8 +291,10 @@
 \newcommand{\Notes}{\textit{Textual Notes}}
 \newcommand{\Colo}{{\englishfont\textbf{Colophon}}}
 \newcommand{\notelemm}[2]{#1: \textbf{#2}~]}
-\newcommand{\lem}{{\devanagarifont\thinspace \textbf{]} }}
-%\newcommand{\lem}{{\englishfont~\textbf{]}} }
+%\newcommand{\lem}{{\devanagarifont\thinspace \textbf{]} }}
+%\newcommand{\lem}{{\englishfont{\hbox{\hskip.8em plus.3em minus3em}]\enspace }}}
+%\newcommand{\lem}{{\englishfont{\hbox{\hskip1em plus1em minus.7em}]\allowbreak{\hskip1em plus.3em minus1em}}}}
+\newcommand{\lem}{{~\englishfont{\hskip.3em plus.5em minus.1em]\allowbreak\hskip.5em plus.5em minus.4em}}}
 
 \newcommand{\note}[1]{#1:}
 %\newcommand{\AD}{\textsc{ad}}
@@ -263,12 +342,20 @@
 
 }
 
+%\newcommand{\alalfejezet}[1]{\begin{center}
+%        {\devanagarifont\small{[#1]}{\vrule depth8pt width0pt}}\dontdisplaylinenum
+%\addcontentsline{toc}{subsubsection}{#1}
+%\end{center}
+%
+%}
+
 \newcommand{\alalfejezet}[1]{\begin{center}
-        {\devanagarifont\small{[#1]}{\vrule depth8pt width0pt}}\dontdisplaylinenum
+{\devanagarifont\small[ #1 ]}{\vrule depth10pt width0pt}\dontdisplaylinenum
 \addcontentsline{toc}{subsubsection}{#1}
 \end{center}
 
 }
+
 
 \newcommand{\alalalfejezet}[1]{\begin{center}
         {\devanagarifont\footnotesize[#1]}\dontdisplaylinenum
@@ -403,7 +490,8 @@
 \newcommand{\error}[1]{{\sout{#1}}}
 %\newcommand{\om}{{\englishfont\textit{omitted in}}}
 \newcommand{\om}{{\englishfont om.}}
-\newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
+%\newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
+\newcommand{\uncl}[1]{(#1)}
 \newcommand{\cancelled}{{\englishfont(\textit{cancelled})}}
 \newcommand{\isitcancelled}{{\englishfont(\textit{cancelled?})}}
 %REVISE
@@ -437,12 +525,16 @@
                                   % this here should be an anceps
 
 \newcommand{\lac}{\kern0.1em{\englishfont-{}-{}-{}}\kern0.1em}
+\newcommand{\lacwithnum}[1]{\raise-.1em\hbox{\lac}\kern-.65em\raise.25em\hbox{\tiny#1}\kern0.6em}
+
 \def\langkort{\setbox0=\hbox{{\bf --}}\dimen0=\ht0
         \advance\dimen0 by-2.5ex
         \copy0\kern -1\wd0
         \raise\dimen0\hbox to\wd0{\hss{\bf \char'025}\hss}}
+
 \newcommand{\shortsyllable}{\large\raise-.2em\hbox{˘}}
-\newcommand{\lk}{{\englishfont{\kern.05em\englishfont\textendash}\kern-.45em\shortsyllable\kern.05em}}
+\newcommand{\lk}{\hbox{{\englishfont{\kern.05em\englishfont\textendash}\kern-.5em\shortsyllable\kern.07em}}}
+
 \newcommand{\lkwithanusvara}{{\englishfont-\kern-.2em\shortsyllable\kern-1em\raise1em\hbox{ ं}}}
 
 
