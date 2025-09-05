@@ -311,9 +311,9 @@ class TrLine(object):
         plaintext = re.sub('##-', '}', plaintext)
         plaintext = re.sub('-#', '\\\\enx{', plaintext)
         plaintext = re.sub('#-', '}', plaintext)
-        #plaintext = re.sub('<tothepowerof>', '\\\\raise .5em\\\\hbox{\\\\footnotesize ', plaintext)
-        plaintext = re.sub('<tothepowerof>', '$^{\\\\englishfont\\\\tiny ', plaintext)
-        plaintext = re.sub('</tothepowerof>', '\\\\thinspace}$', plaintext)
+        plaintext = re.sub('<tothepowerof>', '\\\\raise .35em\\\\hbox{\\\\tiny ', plaintext)
+        #plaintext = re.sub('<tothepowerof>', '$^{\\\\englishfont\\\\tiny ', plaintext)
+        plaintext = re.sub('</tothepowerof>', '\\\\thinspace}', plaintext)
         self.plaintext = plaintext
         self.printit = onFlag
 

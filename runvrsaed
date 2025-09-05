@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# the XeLaTeX Devanāgarī version
+./textprocess.py -texdnxelatex vrsasarasamgraha.cred > vrsasara_input_devnag_xelatex.tex
+xelatex vrsasara_ed_devnag_xelatex.tex
+
