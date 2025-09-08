@@ -158,7 +158,7 @@
 %%%%\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.pdf}
 
 % CORRECT PAGE NUMBER AFTER SKT EDITION !
-\setcounter{page}{1001}
+%\setcounter{page}{1001}
 %%%%%\input{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.tex}
 
 \
@@ -196,54 +196,93 @@
 %\addcontentsline{toc}{chapter}{\hspace{1.4em}Abbreviations and Bibliography}
 \thispagestyle{empty}
 
-\section{Symbols}
+\section{Symbols and abbreviations in the apparatus}
 
-\begin{description}
+\begin{table}[h]
+    \begin{tabular}{ll}
+%+ \ldots{} + & Enclosed text has been added later by the same or by a different hand.\\
+%x \ldots{} x & Enclosed text has been first written but cancelled later.\\
+\kern-.1em\lac\ & A number of \skt{akṣara}s are lost in the manuscript.\\
+\kern-.1em\lacwithnum{\kern-.2em N}\ & N number of \skt{akṣara}s are lost in the manuscript.\\
+\lk\  & A single \skt{akṣara} is illegible in the manuscript.\\
+%\dag{} \ldots{} \dag & Text placed between cruxes is beyond repair.\\
+% \gap\ & A gap left in the manuscript by the scribe.\\    % not in vol 1
+{\devanagarifont ॰} & Abbreviation sign indicating that the reading is part of\\
+                            &a longer sequence of syllables.\\
+(\thinspace) & Parentheses enclose syllables that are poorly legible.\\
+\mssALL & Reading in all our sources, with only one or two sources\\
+                            &having a different reading.\\
+\mssCaCbCc & Reading in all three of our Cambridge manuscripts.\\
+%\mssS & Reading in all our Southern manuscripts.\\
+= & Equals sign indicates an identical parallel for the main text.\\
+\similar & Approximate sign indicates an approximate parallel for\\
+            &the main text.\\
+$\bullet$ & A bullet separates different lemmas within the same \textit{pāda}.\\
+%$\otimes$ & Ornamental sign written in a manuscript before or after the colophon.\\
+†{\dots}† & cruces embrace a highly corrupted word or passage\\
+           &that I have not been able to improve upon.\\
+{}[\dots] & Headings given in [square brackets] in the critical edition\\
+            & and the translation have been supplied to clarify the context. \\
+            & These are not supposed to be part of the original Sanskrit text.\\
+$^{ac}$	&before correction\\	
+$^{pc}$	&after correction\\
+% acc.\ no. & accession number\\ 
+cf.      &\textit{confer} (compare with) \\
 
-\item[\similar]
-
-\item[\compare]
-
-\item[ = ]
-
-\end{description}
-
-
-\section{Abbreviations}
-
-\begin{description}
-
-\item[CUDL] = University of Cambridge Digital Library  
-  (https://cudl.lib.cam.ac.uk)
-  
-\item[\fol]
-
-\item[\fols]
-
-\item[MGMCP]
-
-\item[MGMPP]
-
-\item[MS(S)] = manuscript(s)
-
-%\nocite{Siddham} 
-\item[Siddham] = Siddham, the Asia Inscriptions Database:
-https://siddham.network 
-
-\item[ŚDhŚ] = \SDhS
-
-\item[ŚDhU] = \SDhU
-  
-\item[VSS] = asdfadfasdfadsa
-  
-\end{description}
-
-
-TO BE SUPPLIED
+conj.	&conjecture \\            
+%Ex conj. &based on conjecture\\
+corr. & correction\\
+em.	&emendation\\
+    \end{tabular}
+\end{table}
 
 \vfill
 \pagebreak
-%(\cite[see][13 ff.]{OlivelleGrhastha})
+
+\begin{table}[h]
+\begin{tabular}{ll}
+f., ff.      &folio, folios  \\
+om.	&omit(s)\\		
+p., pp. & page, pages\\
+r &recto\\                  
+v         &verso\\
+%i.m.	&in the margin\\
+%m.c. & \textit{metri causa} (as dictated by metre)\\
+\unmetr	& unmetrical\\ 
+\hypometr	& hypometrical\\	
+\hypermetr	& hypermetrical
+\end{tabular}
+\end{table}
+
+\noindent
+For more detail, see pp.~\pageref{editorial}ff; for manuscript sigla, see pp.~\pageref{msssigla} ff.
+Abbreviations for the parallel sources are given in the bibliography.
+
+\section{Additional signs and abbreviations}
+\begin{table}[h]
+    \begin{tabular}{ll}
+%{\englishfont °} & Abbreviation sign in Roman transcription of Sanskrit words\\
+%                 &indicating that the reading is part of a longer sequence\\
+%                 &of syllables.\\
+Cod. & \textit{codex}\\
+CUDL & University of Cambridge Digital Library\\
+            & (https://cudl.lib.cam.ac.uk)\\
+%IFP   & Institute français de Pondichéry\\
+MS(S) & manuscript(s)\\
+NGMPP & Nepal-German Manuscript Preservation Project\\
+Siddham & Siddham, the Asia Inscriptions Database \\
+            &   https://siddham.network \\
+s.v.  & sub voce\\
+TAK & \textit{Tāntrikābhidhānakośa}; see Bibliography\\
+\VSS\ & \Vss\\
+tr. & translated
+\end{tabular}
+\end{table}
+
+\vfill
+\pagebreak
+
+
 
 
 
@@ -301,7 +340,7 @@ TO BE SUPPLIED
 
 \titleface{Viṣṇupurāṇa}: see \mycite{Visnupurana_critical}
 
-OTHER PURANAS
+OTHER PURANAS, Śivadharma texts
 
 
 
@@ -315,21 +354,17 @@ OTHER PURANAS
 
 \label{bibliography}
 
-CHANGE repeated authornames with
-\rule[.2em]{1.5cm}{.5pt}
+%CHANGE repeated authornames with
+%\rule[.2em]{1.5cm}{.5pt}
 % or rather with 3 em dashes
 
 \bibliography{vssbiblio}
-
-
 
 \label{index}
 %\renewcommand*{\indexname}{{\normalfont Index}}
 \addcontentsline{toc}{chapter}{\protect{\numberline{}Index}}
 \printindex
 
-%\listoftodos
-%TODOS
 %fix nirṛta ligature
 
 \end{document}

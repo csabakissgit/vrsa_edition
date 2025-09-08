@@ -16562,7 +16562,7 @@
                                  <LEM>°khyāno nāmādhyāyo dvādaśamaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb;
                                               °khyā<UNCL>na nā</UNCL>mādhyāyo dvādaśa \msNc,
                                               °khyāno nāma dvādaśo 'dhyāyaḥ \Ed</APP>
-<TRCOLOPHON>Here ends the twelfth chapter in the ŁVṛṣasārasaṃgraha$ called The Story of Vipula.</TRCOLOPHON>
+<TRCOLOPHON>Here ends the twelfth chapter in the ŁVṛṣasārasaṃgraha$ called the Story of Vipula.</TRCOLOPHON>
 
 %\msM colophon says śloka 158 (close)
 
@@ -19093,7 +19093,9 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\vc <LEM>praśānta°</LEM> \msCb\msNa\msNb\msNc\Ed; <UNCL>pra</UNCL>śānta° \msCa\oo
                  <LEM>vikhyātaḥ</LEM> \msCa\msCb\msNb\msNc\Ed; vikhyātāḥ \msNa</APP>
         <APP>\vd <LEM>°vidhaḥ</LEM> \msCa\msCb\msNa\msNb\msNc; °vidhāḥ \Ed</APP>
-        <PARAL>\vcd Ł\compare\ NiśvāsaNaya 4:113:$
+        <PARAL>\vcd \similar\ ŁKubjikāsamayanirvāṇadīkṣāvidhi$ CHECK:$
+                        praśāntaś{ }caiti vīkhyāto prāṇāyāma caturvviddhiṃ ||Ł;
+                \compare\ NiśvāsaNaya 4:113:$
                 nābhyāṃ hṛdayasaṃcārān{ }manaś{ }cendriyagocarāt|
                 prāṇāyāmaś{ }caturthas{ }tu supraśāntas{ }tu viśrutaḥ|| 
                 Ł See also Svaccandatantra 7.298ab:$
@@ -19111,6 +19113,9 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\va <LEM>pūrake</LEM> \eme; pūrakaḥ \msCa\msCb\msNa\msNb\msNc\Ed\oo
                  <LEM>vahniṃ</LEM> \msCa\msCb\msNa\msNc;  vahni \msNb\Ed</APP>
         <APP>\vb <LEM>°ṣṭhena</LEM> \msCa\msCb\msNb\msNc\Ed; °ṣṭheṣu \msNa </APP>
+        <PARAL>\vo \similar\ ŁKubjikāsamayanirvāṇadīkṣāvidhi$ CHECK:$
+                        pūraka sthāpayet vahni pādāṅguṣṭhena buddhimān |
+                        kumbhena nirūddhena dahyavyāne vicintayet || </PARAL>
 
 <TEXT> kumbhakena virudhyeta dahyamānaṃ vicintayet||</TEXT> 16:23
         <TR>During inhalation, the wise one should establish the fire through his great-toe.
@@ -19123,6 +19128,9 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
 
 <TEXT> śuddhadehas{ }tataś{ }cātmā śuddhasphaṭikanirmalaḥ||</TEXT> 16:24
         <APP>\vc <LEM>°dehas{ }tataś{ }cātmā</LEM> \msCa\msCb\msNa\msNb\Ed; °dehaś{ }cataś{ }cātmā \msNc</APP>
+        <PARAL>\vo \similar\ ŁKubjikāsamayanirvāṇadīkṣāvidhi$ CHECK:$
+                bhasmībhūta tathātmānaṃ recakeṇa vicintayet |
+                suddha dehe tathātmānaṃ suddhasphaṭikasaṃnibhaṃ ||</PARAL>
         <TR>Then, while exhaling, he should imagine himself as reduced to ashes.
                  Now his Self has a purified body, one which is as spotless as a clear crystal. </TR>
 
@@ -19213,7 +19221,7 @@ CHECK jñānayoga in Śivadharmottara 6 and 10
         <APP>\vd <LEM>yaugapadyaḥ</LEM> \msCa\msCb\msNc\Ed; yogapadyaḥ \msNa, yogapadya \msNb</APP>
         <PARAL>\vo \similar\ Ł Dharmaputrikā 1.55cd--56ab:$
                 saṃyamya manasā prāṇaṃ prāṇāyāmair{ }manas{ }tathā|
-                evaṃ dhyāyet{ }paraṃ sūkṣmaṃ yaugapadyaḥ sa ucyate||</PARAL>
+                evaṃ dhyāyet{ }paraṃ sūkṣmaṃ yaugapadyaḥ sa ucyate|| </PARAL>
         <TR>[If the yogin] controls his breath with his mind, and his mind with breath-control,
                 and thus meditates on the supreme subtle one, that is called simultaneous [yoga] (yaugapadya).</TR>
 
@@ -25386,7 +25394,7 @@ Svacch...
         <TR>``My birth and my austerities have now borne their fruits.</TR>
         <APP>\vc <LEM>adya me saphalaṃ janma</LEM> \msCa\msCb\msNa\msNb\msNc\Ed;
                                         <UNCL>adya</UNCL>\lac4 ×××× <UNCL>janma</UNCL> \msCc</APP>
-                 <PARAL>\vcd Ł= Kūrmapurāṇa 1.11.219 \similar\ MBh 5.113.5ab:$
+                 <PARAL>\vcd Ł= Kūrmapurāṇa 1.11.219 = \KMT\ 1.12 \similar\ \MBh\ 5.113.5ab:$
                                  adya me saphalaṃ janma tāritaṃ cādya me kulam
                          \similar\ ŁMBh 13.14.179a:$ 
                                 adya jāto hy ahaṃ deva adya me saphalaṃ tapaḥ</PARAL>
