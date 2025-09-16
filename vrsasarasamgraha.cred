@@ -33,7 +33,8 @@
 %                        *416.jpg lower image is Dharmaputrikā 4.22-39); 
 %                         417.jpg upper is Dharmaputrikā 4.39-55 
 
-%folioinfo \msKo77: Kalkatta g4077-7, starts with ? oṃ namaḥ śivāya
+%folioinfo \msKoa: Kalkatta g4077-7, starts with ? oṃ namaḥ śivāya
+%folioinfo \msKob: Kalkatta g4076, starts with ? oṃ namaḥ śivāya
 %folioinfo \msPaperA\  NGMCP A 1341/6 204r line 1
 %folioinfo \msPaperC\ NGMCP C 107/7,  8299.jpg lower f.206r line 1
 %folioinfo \Ed\ p.580: atha vṛsasārasaṃgrahaprārambha(ḥ) )
@@ -796,30 +797,28 @@
 %lacuna_start: msKOa
 % msKOa collated only up to this point, MS continues
 
-%lacuna_start: msKOb
-% msKOb collated only up to this point, MS continues
 
 %folioinfo \msNa\ 195.jpg lower f. 2r
 % lectio difficilior?
 <TEXT> na tvayā viditaṃ kiñcij{ }jijñāsyasi kathaṃ dvija|</TEXT>
-        <APP>\va <LEM>viditaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; vidita \msCc</APP>
-        <APP>\vab <LEM>kiñcij{ }ji°</LEM> \msCb\msM; kiñcid{ }vi° \msCapcorr\msNa\msNb\msNc\msParis\msPaperA\Ed,
+        <APP>\va <LEM>viditaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; vidita \msCc</APP>
+        <APP>\vab <LEM>kiñcij{ }ji°</LEM> \msCb\msM; kiñcid{ }vi° \msCapcorr\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed,
                                                         kid{ }vi° \msCaacorr, 
                                                         kiñci ji° \msCc</APP>
-        <APP>\vb <LEM>kathaṃ dvija</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msM\msPaperA\Ed;
+        <APP>\vb <LEM>kathaṃ dvija</LEM> \msCa\msCb\msNa\msNb\msNc\msM\msPaperA\Ed;
                                 \lk\lk\lk\lk\lk\lk\lk\lk\lk  <UNCL>ma tvayā viditaṃ kiñcid{ }vijñāsyasi</UNCL> 
                                                                         \cancelled\ kathaṃ dvija \msCc,
-                                kathaṃ dvijaḥ \msParis</APP>
+                                                                        kathaṃ dvijaḥ \msParis\msKOb</APP>
          <NOTE>The variant Łjijñāsyasi$ seems to be the lectio difficilior as opposed to
-                        Łvijñāsyasi$, but the latter could also work fine here.</NOTE>
+                        Łvijñāsyasi$ (`how will you understand [anything]?'), but the latter could also work fine here.</NOTE>
         <TR>[If] you do not know anything, how could you start 
                                your investigation, O twice-born?</TR>
 
 %folioinfo \msCc\ 183.jpg, f. 268r(?)
 %folioinfo \msPaperA\ 332.jpg upper, f. 204v 
 <TEXT> kālapāśaṃ ca viprendra sakalaṃ vettum{ }arhasi||</TEXT> 1:17
-        <APP>\vc <LEM>kālapāśaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; kālapāṣeti \msM</APP>
-        <APP>\vd <LEM>vettum{ }arhasi</LEM> \mssCaCbCc\msNa\msNb\msParis;
+        <APP>\vc <LEM>kālapāśaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; kālapāṣeti \msM</APP>
+        <APP>\vd <LEM>vettum{ }arhasi</LEM> \mssCaCbCc\msNa\msNb\msParis\msKOb;
                                                  vettum{ }ūhasi \msNc, vaktum{ }arhasi \msM\msPaperA\Ed</APP>
         <NOTE>Note how \msM\ (agreeing with two paper MSS, \msPaperA\ and \msPaperC, as well as \Ed) 
               gives a reading (Łvaktum arhasi$) that is clearly out
@@ -829,21 +828,21 @@
         % ahasi \msCb?
 
 <TEXT> kalākalitakālaṃ ca kālatattvakalāṃ śṛṇu|</TEXT>
-        <APP>\va <LEM>kalā°</LEM> \mssALL\msCa\msCb\msNapcorr\msNb\msNc\msParis\msM\msPaperA\Ed; kālā° \msCc\msNaacorr\oo
-                 <LEM>°kalita°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\Ed; °<UNCL>kanmita</UNCL>° \msPaperA\oo
-                 <LEM>°kālaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; °kālaś{ }ca \msM\Ed</APP>
-        <APP>\vb <LEM>°kalāṃ</LEM> \msCa\msCc\msNb\msParis\msPaperA\Ed; °kalā \msCb\msNc, °vidhiṃ \msNa, °kalāḥ \msM</APP>
+        <APP>\va <LEM>kalā°</LEM> \mssALL\msCa\msCb\msNapcorr\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; kālā° \msCc\msNaacorr\oo
+                 <LEM>°kalita°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\Ed; °<UNCL>kanmita</UNCL>° \msPaperA\oo
+                 <LEM>°kālaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA; °kālaś{ }ca \msM\Ed</APP>
+        <APP>\vb <LEM>°kalāṃ</LEM> \msCa\msCc\msNb\msParis\msPaperA\Ed; °kalā \msCb\msNc\msKOb, °vidhiṃ \msNa, °kalāḥ \msM</APP>
         <TR>Learn about time (Łkāla$) which is divided into digits (Łkalā$), [i.e., about]
                         the division[s] (Łkalā$) of the entity [called] time (Łkālatattva$).</TR>
 % NOTE \msM and \Ed
 
 % CHECK AGAINST The Units of Time in Ancient and Medieval India in Calibre!!!
 <TEXT> truṭidvayaṃ nimeṣas{ }tu nimeṣadviguṇā kalā||</TEXT> 1:18
-        <APP>\vc <LEM>truṭidvayaṃ</LEM> \msCa\msCc\msNc\msParis\Ed; tuṭidvaya \msCb\msNb, tuṭidvayaṃ \msNa\msM, 
+        <APP>\vc <LEM>truṭidvayaṃ</LEM> \msCa\msCc\msNc\msParis\Ed; tuṭidvaya \msCb\msNb\msKOb, tuṭidvayaṃ \msNa\msM, 
                                                                         truvidvayaṃ \msPaperA\oo
-                 <LEM>°meṣas{ }tu</LEM> \mssALL\msCb\msCc\msNb\msNc\msParis\msM\msPaperA\Ed;
+                 <LEM>°meṣas{ }tu</LEM> \mssALL\msCb\msCc\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed;
                                                                  °mevas{ }tu \msCa, °meṣadvi° \msNa</APP>
-        <APP>\vd <LEM>nimeṣadvi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; nimeṣādvi° \msM</APP>
+        <APP>\vd <LEM>nimeṣadvi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; nimeṣādvi° \msM, ni\lk ṣas{ }tu div° \msKOb</APP>
         <NOTE>ŁPāda$s 18d and 19a are problematic in the light of 19b, which 
                         redefines Łkalā$ in harmony with the traditional
                         interpretation, see, e.g., \Arthasastra\ 2.20.33: Łtrimśatkāṣṭhāḥ kalāḥ$.
@@ -857,10 +856,11 @@
 %index_biblio: Arthaśāstra
 %index_biblio: Manu
 
+%folioinfo: \msKOb 6.jpg
 <TEXT> kalādviguṇitā kāṣṭhā kāṣṭhā vai triṃśatiḥ kalā|</TEXT>
-        <APP>\va <LEM>°guṇitā kāṣṭhā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\Ed; °guṇitaṃ kāṣṭhā \msM, 
+        <APP>\va <LEM>°guṇitā kāṣṭhā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\Ed; °guṇitaṃ kāṣṭhā \msM, 
                                                        °guṇitaṃ kāṣṭhī \msPaperA</APP>
-        <APP>\vb <LEM>kāṣṭhā vai triṃśatiḥ</LEM> \msCa\msNa\msNb\msNc\msParis\msPaperA\Ed; vai triṃśatā \msCb,
+        <APP>\vb <LEM>kāṣṭhā vai triṃśatiḥ</LEM> \msCa\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; vai triṃśatā \msCb,
                                  kāṣṭhā vai triṃśati \msCc, kāṣṭhān{ }vai triṃśati \msM</APP>
         <TR>Two digits (Łkalā$) form one bit (Łkāṣṭhā$, 3.2 seconds).
                  Thirty bits (Łkāṣṭhā$) make one digit (Łkalā$?, 1.6 minutes).</TR>
@@ -869,10 +869,11 @@
         % = 1/12 Kalā, Jyot.; = 1/15 Laghu, = 1/225 Nāḍikā, = 1/450 Muhūrta, BhP. iii, 11, 7), MBh. i, 1292 &c.
 
 <TEXT> triṃśatkalā muhūrtaś{ }ca mānuṣena dvijottama||</TEXT> 1:19
-        <APP>\vc <LEM>muhūrtaś{ }ca</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msM\msPaperA;
+        <APP>\vc <LEM>muhūrtaś{ }ca</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA;
                                                          muhūrtta \msCb, muhūrtañ{ }ca \Ed</APP>
-        <APP>\vd <LEM>mānuṣena</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; mānu<UNCL>ṣaś{ }ca</UNCL> \msCc\oo
-                 <LEM>°ttama</LEM> \mssCaCbCc\msNa\msNcpcorr\msParis\msPaperA\Ed; °tamaḥ \msNb\msM, °ttamaḥ \msNcacorr</APP>
+        <APP>\vd <LEM>mānuṣena</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; mānu<UNCL>ṣaś{ }ca</UNCL> \msCc,
+                                                                                                        mānuṣeṇaṇa \msKOb\oo
+                 <LEM>°ttama</LEM> \mssCaCbCc\msNa\msNcpcorr\msParis\msKOb\msPaperA\Ed; °tamaḥ \msNb\msM, °ttamaḥ \msNcacorr</APP>
         <NOTE>Understand Łmānuṣena$ as Łmānuṣasaṃkhyayā$ (1.21d).</NOTE>
         <TR>Thirty digits (Łkalā$) make up one section (Łmuhūrta$, 48 minutes) 
                                 in human terms, O great Brahmin.</TR>
@@ -887,24 +888,23 @@
  
 %folioinfo: \msParis 413.jpg, f. 213r
 <TEXT> muhūrtatriṃśakenaiva ahorātraṃ vidur{ }budhāḥ|</TEXT>
-        <APP>\va <LEM>muhūrta°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; muhūrttā \msM, muhūrtaṃ \Ed</APP>
-        <APP>\vb <LEM>°dhāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\Ed; °dhā \msPaperA</APP>
+        <APP>\va <LEM>muhūrta°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA; muhūrttā \msM, muhūrtaṃ \Ed</APP>
+        <APP>\vb <LEM>°dhāḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\Ed; °dhā \msPaperA</APP>
         <TR>Thirty sections (Łmuhūrta$) are known to the 
                         wise as one night and day [i.e., a full day].</TR>
 
 <TEXT> ahorātraṃ punas{ }triṃśan{ }māsam{ }āhur{ }manīṣiṇaḥ||</TEXT> 1:20
-        <APP>\vc <LEM>°rātraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; °rātra \msM</APP>
-        <APP>\vd <LEM>°nīṣiṇaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; °nīṣina \msM</APP>
+        <APP>\vc <LEM>°rātraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; °rātra \msM</APP>
+        <APP>\vd <LEM>°nīṣiṇaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; °nīṣina \msM</APP>
         <TR>Thirty days and nights are taught by the wise to be one month.</TR>
         % punaḥ \msNa\msNb
 
 
-
 %folioinfo \msNb\ 44.jpg lower
 <TEXT> samā dvādaśa māsāś{ }ca kālatattvavido janāḥ|</TEXT>
-        <APP>\va <LEM>samā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\Ed; māsa \msCc, samā samāyā \msPaperA\oo
-                 <LEM>°māsāś{ }ca</LEM> \msCa\msCb\msNa\msNb\msNc\msParis\msPaperA; °māsaś{ }ca \msCc\Ed, māsāhuḥ \msM</APP>
-        <APP>\vb <LEM>kālatattva°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msM\msPaperA\Ed; kalātattva° \msNc, kālan{ }tatva° \msParis</APP>
+        <APP>\va <LEM>samā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb\Ed; māsa \msCc, samā samāyā \msPaperA\oo
+                 <LEM>°māsāś{ }ca</LEM> \msCa\msCb\msNa\msNb\msNc\msParis\msKOb\msPaperA; °māsaś{ }ca \msCc\Ed, māsāhuḥ \msM</APP>
+        <APP>\vb <LEM>kālatattva°</LEM> \mssCaCbCc\msNa\msNb\msM\msPaperA\Ed; kalātattva° \msNc, kālan{ }tatva° \msParis\msKOb</APP>
         <NOTE>Note how a verb (e.g., Łiti vadanti, iti prāhur$) is missing in Łpāda$s ab.</NOTE>
         <TR>One year is twelve months [according to] people who know the entity of time.</TR>
 
@@ -912,14 +912,15 @@
 
 %folioinfo \Ed\ p.582
 <TEXT> śataṃ varṣasahasrāṇi trīṇi mānuṣasaṃkhyayā|</TEXT> 
-        <APP>\vc <LEM>śataṃ</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM;        śata° \msPaperA\Ed</APP>
-        <APP>\vd <LEM>mānuṣa°</LEM> \mssALL\msCa\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; māṇuṣya° \msCb\msCc\ \unmetr</APP>
+        <APP>\vc <LEM>śataṃ</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb;        śata° \msPaperA\Ed</APP>
+        <APP>\vd <LEM>trīṇi</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKObpcorr\msPaperA\Ed; \om\ \msKObacorr\oo
+                 <LEM>mānuṣa°</LEM> \mssALL\msCa\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; māṇuṣya° \msCb\msCc\ \unmetr</APP>
         <TR>The time span of three hundred</TR>
 
 %lacuna_start: msNb
 <TEXT> ṣaṣṭiṃ caiva sahasrāṇi kālaḥ kaliyugaḥ smṛtaḥ||</TEXT> 1:21
-        <APP>\ve <LEM>ṣaṣṭiṃ caiva</LEM> \mssCaCbCc\msNc\msParis\msM; ṣaṣṭiṃ varṣa° \msNa\msPaperA, ṣaṣṭiś{ }caiva \Ed</APP>
-        <APP>\vf <LEM>°yugaḥ</LEM>       \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA; °yuga \msM\Ed</APP>
+        <APP>\ve <LEM>ṣaṣṭiṃ caiva</LEM> \mssCaCbCc\msNc\msParis\msM\msKOb; ṣaṣṭiṃ varṣa° \msNa\msPaperA, ṣaṣṭiś{ }caiva \Ed</APP>
+        <APP>\vf <LEM>°yugaḥ</LEM>       \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA; °yuga \msM\Ed</APP>
         <LACUNA>\vo Ł\msNb\ omits verses 21ef--24ab$</LACUNA>
         <TR>and sixty thousand years by human counting is said to be the Kali age (Łkali\-yuga$).</TR>
         % \vo <LEM>(ṣaṣṭiṃŁ...$ saṃjñitaḥ)</LEM> \mssCaCbCc\msNa\msNc\msM\Ed; 
@@ -927,10 +928,10 @@
         % kālaf \msCa
 
 <TEXT> dviguṇaḥ kalisaṃkhyāto dvāparo yuga saṃjñitaḥ|</TEXT>
-        <APP>\va <LEM!>dviguṇaḥ kalisaṃkhyāto</LEM> \mssCaCbCc\msNa\msNc\msParis; kalisaṃkhyās{ }tu dviguṇo \msM,
+        <APP>\va <LEM!>dviguṇaḥ kalisaṃkhyāto</LEM> \mssCaCbCc\msNa\msNc\msParis\msKOb; kalisaṃkhyās{ }tu dviguṇo \msM,
                                                                          dvigurṇaḥ kalisaṃkhyāto \msPaperA, 
                                                                          dviguṇā kalisaṃkhyāto \Ed</APP>
-        <APP>\vb <LEM!>dvāparo yuga saṃjñitaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA;
+        <APP>\vb <LEM!>dvāparo yuga saṃjñitaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA;
                                                                 dvāparaḥ yugaḥ saṃjñikam \msM, 
                                                                 dvāpare yuga saṃjñitaḥ \Ed</APP>
         <NOTE>Note the \stemform\ noun Łyuga$ in Łpāda$ b metri causa,
@@ -942,15 +943,15 @@
 %index_grammar: stem form
 
 <TEXT> tretā tu triguṇā jñeyā catuḥ kṛtayugaḥ smṛtaḥ||</TEXT> 1:22
-        <APP>\vc <LEM>tretā</LEM>   \msCa\msCb\msNa\msParis\msPaperA\Ed;              tetrā \msCc\msM, tretrā \msNc\oo
-                 <LEM>triguṇā</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed;  tṛguṇo \msM\oo
-                 <LEM>jñeyā</LEM>   \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed;  jñeyaḥ \msM</APP>
-        <APP>\vd <LEM>°yugaḥ</LEM>  \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msPaperA; °yuga \Ed</APP>
+        <APP>\vc <LEM>tretā</LEM>   \msCa\msCb\msNa\msParis\msKOb\msPaperA\Ed;              tetrā \msCc\msM, tretrā \msNc\oo
+                 <LEM>triguṇā</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA\Ed;  tṛguṇo \msM\oo
+                 <LEM>jñeyā</LEM>   \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA\Ed;  jñeyaḥ \msM</APP>
+        <APP>\vd <LEM>°yugaḥ</LEM>  \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msKOb\msPaperA; °yuga \Ed</APP>
         <TR>The Tretā age is thrice [as long], the Kṛta age four [times as long as the Kali age].</TR>
 
 <TEXT> eṣā caturyugāsaṃkhyā kṛtvā vai hy{ }ekasaptatiḥ|</TEXT> 
-        <APP>\vb <LEM>hy{ }e°</LEM>   \mssALL\mssCaCbCc\msNa\msParis\msM\msPaperA\Ed;   he° \msNc\oo
-                 <LEM>°saptatiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed; °saptati \msM</APP>
+        <APP>\vb <LEM>hy{ }e°</LEM>   \mssALL\mssCaCbCc\msNa\msParis\msM\msKOb\msPaperA\Ed;   he° \msNc\oo
+                 <LEM>°saptatiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA\Ed; °saptati \msM</APP>
         <NOTE>Note the lengthened vowel in °Łyugā$ (metri causa).<sep/>
                 The `figure' mentioned in this verse is the sum of the duration of the four Łyuga$s, 
                 which makes up one Łmahāyuga$:
@@ -968,18 +969,18 @@
 %index_metre: lengthening of vowel metri causa
 
 <TEXT> manvantarasya caikasya jñānam{ }uktaṃ samāsataḥ||</TEXT> 1:23
-        <APP>\vc <LEM>manvantarasya</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msPaperA\Ed; manvantarantasya \msParis\oo
-                 <LEM>caikasya</LEM> \mssALL\mssCaCbCc\msNapcorr\msNc\msParis\msMpcorr\msPaperA\Ed; \om\ \msNaacorr\msMacorr</APP>
-        <APP>\vd <LEM>°ktaṃ</LEM>    \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed;                °kta \msM</APP>
+        <APP>\vc <LEM>manvantarasya</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msKOb\msPaperA\Ed; manvantarantasya \msParis\oo
+                 <LEM>caikasya</LEM> \mssALL\mssCaCbCc\msNapcorr\msNc\msParis\msMpcorr\msKOb\msPaperA\Ed; \om\ \msNaacorr\msMacorr</APP>
+        <APP>\vd <LEM>°ktaṃ</LEM>    \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA\Ed;                °kta \msM</APP>
         <NOTE>See \VSS\ 21.34ff on Łkalpa$ etc.</NOTE>
         <TR>the knowledge about one time-span of a Manu (Łmanvantara$) has been briefly taught.</TR>
 
 <TEXT> kalpo manvantarāṇāṃ tu caturdaśa tu saṃkhyayā|</TEXT> 
-        <APP>\va <LEM>kalpo</LEM> \msCb; kalpa \msCa\msCc\msNa\msNc\msParis\msM\msPaperA\Ed\oo
-                 <LEM>manvanta°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed; 
+        <APP>\va <LEM>kalpo</LEM> \msCb; kalpa \msCa\msCc\msNa\msNc\msParis\msM\msKOb\msPaperA\Ed\oo
+                 <LEM>manvanta°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA\Ed; 
                                                         nvanta° \msMacorr, maṃnvanta° \msMpcorr</APP>
-        <APP>\vb <LEM>°daśa</LEM>     \mssALL\msCa\msCc\msNa\msNc\msParis\msM\msPaperA\Ed; °daśaṃ \msCb\oo
-                 <LEM>saṃkhyayā</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed;      śaṃkṣayā \msM</APP>
+        <APP>\vb <LEM>°daśa</LEM>     \mssALL\msCa\msCc\msNa\msNc\msParis\msM\msKOb\msPaperA\Ed; °daśaṃ \msCb\oo
+                 <LEM>saṃkhyayā</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA\Ed;      śaṃkṣayā \msM</APP>
         <NOTE>The accepted reading Łkalpo$ in Łpāda$ a is probably not original, but it
               makes the sentence clearer than what is transmitted in most sources.</NOTE>
         <TR>One \ae on (Łkalpa$) is fourteen Łmanvantara$s in total.</TR>
@@ -987,8 +988,8 @@
 %lacuna_end: msNb
 
 <TEXT> daśa kalpasahasrāṇi brahmāhaḥ parikalpitam|</TEXT>
-        <APP>\vd <LEM>°āhaḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; °āha \msCa\oo
-                 <LEM>parikalpitam</LEM> \msCa\msNc\msParis; karikalpitam \msCb, parikalpitaḥ \msCc\msNb\msM\msPaperA\Ed,
+        <APP>\vd <LEM>°āhaḥ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; °āha \msCa\oo
+                 <LEM>parikalpitam</LEM> \msCa\msNc\msParis\msKOb; karikalpitam \msCb, parikalpitaḥ \msCc\msNb\msM\msPaperA\Ed,
                                                                          parikīrtitāḥ \msNa</APP>
         <NOTE>\msM\ has a separator sign (|o|) at the end of Łpāda$ b, as if a section ended here.</NOTE>
         <TR>Brahmā's day (Łbrahmāhar$) is made up of ten thousand \ae ons (Łkalpa$).</TR>
@@ -996,22 +997,23 @@
 %index_voc: brahmāhar (archaic?)
 
 <TEXT> rātrir{ }etāvatī proktā munibhis{ }tattvadarśibhiḥ||</TEXT> 1:24
-        <APP>\vf <LEM>°darśibhiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; °darśibhi \msM</APP>
+        <APP>\vf <LEM>°darśibhiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; °darśibhi \msM</APP>
         <TR>[Brahmā's] night is of the same duration according to the wise who know the truth.</TR>
 
 
 <TEXT> rātryāgame pralīyante jagat{ }sarvaṃ carācaram|</TEXT>
-        <APP>\va <LEM>°game</LEM>      \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\Ed;         °gama \msPaperA\oo
-                 <LEM>pralīyante</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; pralīyate \msCb</APP>
-        <APP>\vb <LEM>sarvaṃ ca°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;     sarvaś{ }ca° \msM</APP>
+        <APP>\va <LEM>°game</LEM>      \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\Ed;         °gama \msPaperA\oo
+                 <LEM>pralīyante</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; pralīyate \msCb</APP>
+        <APP>\vb <LEM>sarvaṃ ca°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; 
+                                                        sarvaś{ }ca° \msM, sarva<UNCL>ñ{ }ja</UNCL>° \msKOb</APP>
         <TR>When [Brahmā's] night falls, the whole moving and unmoving universe dissolves.</TR>
 
 %index_grammar: plural verb for singular metri causa
 
 <TEXT> ahāgame tathaiveha utpadyante carācaram||</TEXT> 1:25
-        <APP>\vc <LEM>ahāgame</LEM> \mssCaCbCc\msNa\msNc\msParis; ahāga\lac1 × \msNb, 
+        <APP>\vc <LEM>ahāgame</LEM> \mssCaCbCc\msNa\msNc\msParis\msKOb; ahāga\lac1 × \msNb, 
                                         aharāgame \msM\ \unmetr, ahāgama \msPaperA, ahnāgame \Ed</APP>
-        <APP>\vd <LEM>°padyante</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; °padyaṃti \msM</APP>
+        <APP>\vd <LEM>°padyante</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; °padyaṃti \msM</APP>
         <NOTE>The plural form Łpralīyante$ in Łpāda$ a is metri causa for Łpralīyate$,
                 perhaps also influencing Łutpadyante$ (for Łutpadyate$) in Łpāda$ d,
                 which in turn is used here to avoid an iambic pattern
@@ -1023,7 +1025,7 @@
 %index_grammar: plural verb for singular
 
 <TEXT> parārdhaparakalpāni atītāni dvijottama|</TEXT>
-        <APP>\va <LEM>°rdha°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\Ed; °rdhaṃ \msNb, °dha° \msPaperA</APP>
+        <APP>\va <LEM>°rdha°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msKOb\Ed; °rdhaṃ \msNb, °dha° \msPaperA</APP>
         <NOTE>On the definition of the numbers Łpara$ and Łparārdha$, see verses 1.31--35.</NOTE>
         <TR>One Łpara$ times Łparārdha$ [number of, i.e.,
                 two hundred quadrillion times a hundred quadrillion] \ae ons (Łkalpa$)
@@ -1031,9 +1033,9 @@
 % kalpāṇi \msNa
 
 <TEXT> anāgataṃ tathaivāhur{ }bhṛgurādimaharṣayaḥ||</TEXT> 1:26
-        <APP>\vcd <LEM>°vāhur{ }bhṛ°</LEM> \msCa\msCb\msNa\msNc\msParis\msPaperA\Ed; 
+        <APP>\vcd <LEM>°vāhur{ }bhṛ°</LEM> \msCa\msCb\msNa\msNc\msParis\msKOb\msPaperA\Ed; 
                                                                 °vāhu bhṛ° \msCc\msNb\msM</APP>
-        <APP>\vd <LEM>°maharṣayaḥ</LEM>    \mssCaCbCc\msNapcorr\msNb\msParis\msPaperA\Ed;
+        <APP>\vd <LEM>°maharṣayaḥ</LEM>    \mssCaCbCc\msNapcorr\msNb\msParis\msKOb\msPaperA\Ed;
                                                                 °mahayaḥ \msNaacorr, °marhaṣayaḥ \msNc, 
                                                                 °maharṣibhiḥ \msM</APP>
         <NOTE>Note the peculiar compound Łbhṛgu-r-ādi-maharṣayaḥ$, for
@@ -1043,10 +1045,10 @@
 %index_grammar: sandhi bhṛgu-r-ādi-maharṣayaḥ
 
 <TEXT> yathārkagrahatārendu bhramato dṛśyate tv{ }iha|</TEXT>
-        <APP>\va <LEM>°ārka°</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msMpcorr\msPaperA\Ed; °ārkā° \msMacorr\oo
-                 <LEM>°tārendu</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;          °tāraindu \msM</APP>
-        <APP>\vb <LEM>bhramato</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\Ed;                bhumano \msPaperA\oo
-                 <LEM>dṛśyate tv{ }iha</LEM> \msCa\msNa\msNb\msNc\msParis\msPaperA\Ed;
+        <APP>\va <LEM>°ārka°</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msMpcorr\msKOb\msPaperA\Ed; °ārkā° \msMacorr\oo
+                 <LEM>°tārendu</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;          °tāraindu \msM</APP>
+        <APP>\vb <LEM>bhramato</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\Ed;                bhumano \msPaperA\oo
+                 <LEM>dṛśyate tv{ }iha</LEM> \msCa\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;
                                                                dṛśyandiha \msCb, dṛsyate tv{ }ihaḥ \msCc,
                                                                dṛśyate tv{ }ihaḥ \msM</APP>
         <NOTE>Łbhramato$ in Łpāda$ b seems to stand for the neuter participle Łbhramat$.
@@ -1058,27 +1060,27 @@
 %index_grammar: bhramato for bhramat (case confusion)
 
 <TEXT> kālacakraṃ bhramitvaiva viśramaṃ na ca vidmahe||</TEXT> 1:27
-        <APP>\vc <LEM>bhramitvaiva</LEM> \corr; bhramatvaiva \msCa\msNa\msNc\Ed, 
+        <APP>\vc <LEM>bhramitvaiva</LEM> \corr; bhramatvaiva \msCa\msNa\msNc\msKOb\Ed, 
                                                 bhramatveva  \msCb\msNb\msParis\msM, bhramatveha \msCc,
                                                 bhramatyaiva \msPaperA</APP>
         <APP>\vd <LEM>°śramaṃ</LEM> \mssCaCbCc\msNapcorr\msNc\msPaperA\Ed;
-                                               °śramo \msNaacorr, °śrāman \msNb, °śramen \msParis, °śrāmo \msM\oo
-                 <LEM>vidmahe</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; vigrahe \msCb, vidyate \msM</APP>
+                                               °śramo \msNaacorr, °śrāman \msNb, °śramen \msParis\msKOb, °śrāmo \msM\oo
+                 <LEM>vidmahe</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; vigrahe \msCb, vidyate \msM</APP>
         <NOTE>I have corrected Łbhramatvaiva$ to the standard form Łbhramitvaiva$, although the former
               might conceal a finite verb (Łbhramāmaḥ$?).</NOTE>
         <TR>so we, wandering on while riding the wheel of time (Łkālacakra$), can never find rest.</TR>
 
 <TEXT> kālaḥ sṛjati bhūtāni kālaḥ saṃharate punaḥ|</TEXT>
-        <APP>\vb <LEM>kālaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA; kāla \Ed</APP>
+        <APP>\vb <LEM>kālaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA; kāla \Ed</APP>
         <PARAL>\vab Ł\similar\ \UMS\ 12.34cd:$
                         kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ</PARAL>
         <TR>Time creates living beings and time destroys them again.</TR>
 
 %folioinfo \msCb\ 406.jpg f.202v
 <TEXT> kālasya vaśagāḥ sarve na kālavaśakṛt{ }kvacit||</TEXT> 1:28
-        <APP>\vc <LEM>kālasya</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msMpcorr\msPaperA\Ed; kālaḥsya \msMacorr\oo
-                 <LEM>vaśagāḥ</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA;         vaśagā \Ed</APP>
-        <APP>\vd <LEM>kālavaśakṛ°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;          kālo vaśakṛ° \msM</APP>
+        <APP>\vc <LEM>kālasya</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msMpcorr\msKOb\msPaperA\Ed; kālaḥsya \msMacorr\oo
+                 <LEM>vaśagāḥ</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA;         vaśagā \Ed</APP>
+        <APP>\vd <LEM>kālavaśakṛ°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;          kālo vaśakṛ° \msM</APP>
         <PARAL>\vo \similar\ Ł\KURMP\ 1.11.32:$
                 kālaḥ sṛjati bhūtāni kālaḥ saṃharate prajāḥ |
                 sarve kālasya vaśagā na kālaḥ kasyacid{ }vaśe ||</PARAL>
@@ -1089,8 +1091,8 @@
 
 
 <TEXT> caturdaśa parārdhāni devarājā dvijottama|</TEXT>
-        <APP>\vb <LEM>devarājā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA;     devarāja \msM\Ed\oo
-                 <LEM>°ttama</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; °ttamaḥ \msM</APP>
+        <APP>\vb <LEM>devarājā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA;     devarāja \msM\Ed\oo
+                 <LEM>°ttama</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; °ttamaḥ \msM</APP>
         <TR>Fourteen Łparārdha$ [fourteen hundred quadrillion] divine kings, O Brahmin,</TR>
         % retain \Ed?
         % rddhāṇi \msNa
@@ -1106,11 +1108,11 @@
 %index_grammar: gender
  
 <TEXT> eṣa kālo mahāyogī brahmā viṣṇuḥ paraḥ śivaḥ|</TEXT>
-        <APP>\va <LEM>kālo</LEM> \msCa\msCb\msNa;      kāla \msCc\msNb\msNc\msParis\msM\msPaperA\Ed\oo
-                 <LEM>mahāyogī</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\msPaperA\Ed; mayoyogī \msParis</APP>
+        <APP>\va <LEM>kālo</LEM> \msCa\msCb\msNa;      kāla \msCc\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed\oo
+                 <LEM>mahāyogī</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\msKOb\msPaperA\Ed; mayoyogī \msParis</APP>
         <APP>\vb <LEM>brahmā viṣṇuḥ paraḥ</LEM> \msCb; brahmaviṣṇuparaḥ \msCa\msNc\msM\msPaperA,
                                                        brahmā viṣṇu paraḥ \msCc\msNa\msNb,
-                                                       brahma viṣṇuḥ paraḥ \msParis,
+                                                       brahma viṣṇuḥ paraḥ \msParis\msKOb,
                                                        brahmaviṣṇupara \Ed\ \unmetr</APP>
         <TR>Time is [manifest] as a great yogin, as Brahmā, Viṣṇu and supreme Śiva,</TR>
 
@@ -1121,6 +1123,7 @@
 %folioinfo \msM\ 413.jpg lower, f. 2r
 
 
+
 <SUBCHAPTER>parārdhādi</SUBCHAPTER>
 <TRSUBCHAPTER>ŁParārdha$ etc.: numbers</TRSUBCHAPTER>
 
@@ -1128,9 +1131,9 @@
         <TR>Vigatarāga spoke:</TR>
 
 <TEXT> śrutaṃ vai kālacakraṃ tu mukhapadmaviniḥsṛtam|</TEXT>
-        <APP>\va <LEM>śrutaṃ vai</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; śruto vaḥ \msM\oo
-                 <LEM>°cakraṃ tu</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msPaperA\Ed; °cakrasya \msCc, °cakrat{ }tu \msM</APP>
-        <APP>\vb <LEM>viniḥsṛtam</LEM> \corr; vinisṛtam \mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA\Ed\ \unmetr</APP>
+        <APP>\va <LEM>śrutaṃ vai</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; śruto vaḥ \msM\oo
+                 <LEM>°cakraṃ tu</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; °cakrasya \msCc, °cakrat{ }tu \msM</APP>
+        <APP>\vb <LEM>viniḥsṛtam</LEM> \corr; vinisṛtam \mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed\ \unmetr</APP>
         <NOTE>I have corrected the unmetrical Łvinisṛtam$ in Łpāda$ b to Łviniḥsṛtam$.
               The reading of all manuscripts consulted, Łvinisṛtam$, 
               may be considered metrical if we interpret it, loosely, as Łvinisritam$.
@@ -1139,15 +1142,15 @@
         <TR>I have now heard about the `wheel of time' (Łkālacakra$) from [your] lotus mouth.</TR>
 
 <TEXT> parārdhaṃ ca paraṃ caiva śrotuṃ vaḥ pratidīpitam||</TEXT> 1:31
-        <APP>\vc <LEM>parārdhaṃ ca</LEM> \msCb\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; 
+        <APP>\vc <LEM>parārdhaṃ ca</LEM> \msCb\msCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; 
                                                         <UNCL>pa</UNCL>rārddhaṃ ca \msCa,
                                                         parādhañ{ }ca \msMacorr, 
                                                         parārdhaṃñ{ }ce \msMpcorr\oo
-                 <LEM>paraṃ caiva</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\Ed;                parāñ{ }caiva \msM\msPaperA</APP>
-        <APP>\vd <LEM>vaḥ</LEM>         \mssCaCbCc\msNa\msNb\msNc\msParisacorr\msMacorr\msPaperA; 
+                 <LEM>paraṃ caiva</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\Ed;                parāñ{ }caiva \msM\msPaperA</APP>
+        <APP>\vd <LEM>vaḥ</LEM>         \mssCaCbCc\msNa\msNb\msNc\msParisacorr\msMacorr\msKOb\msPaperA; 
                                                                                         no \msParispcorr,
                                                                                         naḥ \msMpcorr, yaḥ \Ed\oo
-                 <LEM>°dīpitam</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;      °dīyatāṃ \msM</APP>
+                 <LEM>°dīpitam</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;      °dīyatāṃ \msM</APP>
         <TR>[I wish] to hear about [the terms] Łparārdha$ and Łpara$ [mentioned above],
              as elaborated by you.</TR>
         <NOTE>ŁPāda$ d is suspect and my translation tentative.
@@ -1170,30 +1173,30 @@
 
 %folioinfo \msCa\ 384.jpg
 <TEXT> anarthayajña uvāca|*</TEXT>
-        <APP>\vo <LEM>anarthayajña uvāca</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\msNc\msParis\msM\msPaperA\Ed; \om\ \msNaacorr</APP>
+        <APP>\vo <LEM>anarthayajña uvāca</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; \om\ \msNaacorr</APP>
         <TR>Anarthayajña spoke:</TR>
 
 %folioinfo \msNc\ 213.jpg upper, f. 210v
-<TEXT> ekaṃ daśaṃ śataṃ caiva sahasram{ }ayutaṃ tathā|</TEXT>
-        <APP>\va <LEM>daśaṃ</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\msM\msPaperA\Ed; daśa \msCa, <UNCL>daśa</UNCL> \msParis</APP>
-        <APP>\vb <LEM>sahasra°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; sāhasra° \msM\oo
-                 <LEM>°yutaṃ</LEM>   \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msPaperA\Ed;  °tan \msNb</APP>
-        <NOTE>Although the form Łdaśa$ is more standard than the accepted Łdaśaṃ$, the latter can be original.
-                        See a similar teaching of numbers in \BrahmandaPur\ 3.2.91ff.</NOTE>
+<TEXT> ekaṃ daśa śataṃ caiva sahasram{ }ayutaṃ tathā|</TEXT>
+        <APP>\va <LEM>daśa</LEM> \msCa\msKOb; daśaṃ \msCb\msCc\msNa\msNb\msNc\msM\msPaperA\Ed, <UNCL>daśa</UNCL> \msParis</APP>
+        <APP>\vb <LEM>sahasra°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; sāhasra° \msM\oo
+                 <LEM>°yutaṃ</LEM>   \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msKOb\msPaperA\Ed;  °tan \msNb</APP>
+        <NOTE>See a similar teaching of numbers in \BrahmandaPur\ 3.2.91ff.</NOTE>
         <TR>One, ten, a hundred, a thousand, ten thousand (Łayuta$),</TR>
+%Although the form Łdaśa$ is more standard than the accepted Łdaśaṃ$, the latter can be original.
 
 <TEXT> prayutaṃ niyutaṃ koṭim{ }arbudaṃ vṛndam{ }eva ca||</TEXT> 1:32
-        <APP>\vc <LEM>pra°</LEM>        \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\Ed;      pa° \msPaperA</APP>
-        <APP>\vcd <LEM>koṭim{ }a°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msPaperA\Ed;  koṭir{ }a° \msNc</APP>
-        <APP>\vd <LEM>°rbudaṃ</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msPaperA\Ed; °budaṃ \msNc</APP>
+        <APP>\vc <LEM>pra°</LEM>        \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\Ed;      pa° \msPaperA</APP>
+        <APP>\vcd <LEM>koṭim{ }a°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msKOb\msPaperA\Ed;  koṭir{ }a° \msNc</APP>
+        <APP>\vd <LEM>°rbudaṃ</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msKOb\msPaperA\Ed; °budaṃ \msNc</APP>
         <TR>a hundred thousand (Łprayuta$), a million (Łniyuta$), ten million (Łkoṭi$),
              a hundred million (Łarbuda$), one billion (Łvṛnda$, 10<tothepowerof>9</tothepowerof>),</TR>
 % I am just following the logic of 10x the previous one
 
 <TEXT> kharvaṃ caiva nikharvaṃ ca śaṅku padmaṃ tathaiva ca|</TEXT>
-        <APP>\va <LEM>nikharvaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed;       nikharvaṃ tu \msNb, nisarvañ{ }ca \msM</APP>
-        <APP>\vb <LEM>śaṅku</LEM>        \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA; śaṃkha \Ed\oo
-                 <LEM>padmaṃ</LEM>       \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;  padma \msM</APP>
+        <APP>\va <LEM>nikharvaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA\Ed;       nikharvaṃ tu \msNb, nisarvañ{ }ca \msM</APP>
+        <APP>\vb <LEM>śaṅku</LEM>        \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA; śaṃkha \Ed\oo
+                 <LEM>padmaṃ</LEM>       \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;  padma \msM</APP>
                   <TR>ten billion (Łkharva$), a hundred billion (Łnikharva$), one trillion\linebreak
                          (Łśaṅku$, 10<tothepowerof>12</tothepowerof>), ten trillion (Łpadma$),</TR>
         <LACUNA>\vab ŁAfter these two pādas, \msPaperA\ inserts this:$
@@ -1204,11 +1207,11 @@
 %folioinfo \msNa\ 196.jpg upper f.2v
 %lacuna_start: Ed
 <TEXT> samudro madhyam{ }antaṃ ca parārdhaṃ ca paraṃ tathā||</TEXT> 1:33
-        <APP>\vc <LEM>samudro</LEM>            \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; samudra° \msM\oo
-                 <LEM>madhyam{ }antaṃ ca</LEM> \mssCaCbCc\msNaacorr\msParis\msM\msPaperA;         madhyamāntaṃ ca \msNapcorr, 
+        <APP>\vc <LEM>samudro</LEM>            \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA; samudra° \msM\oo
+                 <LEM>madhyam{ }antaṃ ca</LEM> \mssCaCbCc\msNaacorr\msParis\msM\msKOb\msPaperA;         madhyamāntaṃ ca \msNapcorr, 
                                                                                           madhya<UNCL>mantañ{ }ca</UNCL> \msNb,
                                                                                           madhyam{ }antaś{ }ca \msNc</APP>
-        <APP>\vd <LEM!>parārdhaṃ ca paraṃ tathā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA;  parārddhaparadveguṇām \msM</APP>
+        <APP>\vd <LEM!>parārdhaṃ ca paraṃ tathā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA;  parārddhaparadveguṇām \msM</APP>
         <LACUNA>\vcd Ł\Ed\ omits 34cd--35 and then inserts this:$
                                 vṛndañ{ }caiva mahāvṛnda dviparānantam{ }eva ca</LACUNA>
 
@@ -1222,34 +1225,34 @@
 % \msM again is creative
 %index_voc: ananta, anta as a number
 <TEXT> sarve daśaguṇā jñeyāḥ parārdhaṃ yāvad{ }eva hi|</TEXT>
-        <APP>\va <LEM>sarve</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM; sarvaṃ \msPaperA</APP>
+        <APP>\va <LEM>sarve</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb; sarvaṃ \msPaperA</APP>
         <APP>\vb <LEM>parārdhaṃ</LEM> \msNc\msParis;                        parā<UNCL>rdha</UNCL> \msCa,
-                                                                            parārdha \msCb\msCc\msNa\msNb\msM\msPaperA\oo
-                 <LEM>yāvad{ }eva</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM; daśadava \msPaperA</APP>
+                                                                            parārdha \msCb\msCc\msNa\msNb\msM\msKOb\msPaperA\oo
+                 <LEM>yāvad{ }eva</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb; daśadava \msPaperA</APP>
         <TR>Each should be understood as a power of ten up to Łparārdha$.</TR>
                 % jñeyāf \msCa
         %\vo <LEM>(sarveŁ...$ vidhīyate)</LEM> \mssCaCbCc\msNa\msNb\msNc\msM; \om\ \Ed
 
 <TEXT> parārdhadviguṇenaiva parasaṃkhyā vidhīyate||</TEXT> 1:34
-        <APP>\vc <LEM>parārdha°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msPaperA;   parārdhaṃ \msNc</APP>
-        <APP>\vd <LEM>°saṃkhyā</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; °sakhyā \msM</APP>
+        <APP>\vc <LEM>parārdha°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msKOb\msPaperA;   parārdhaṃ \msNc</APP>
+        <APP>\vd <LEM>°saṃkhyā</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA; °sakhyā \msM</APP>
         <TR>The number corresponding to Łpara$ is twice that of Łparārdha$.</TR>
 
 
 %folioinfo \msPaperA\ 332.jpg lower, f. 205r 
 %lacuna_end: Ed
 <TEXT> parāt{ }parataraṃ nāsti iti me niścitā matiḥ|</TEXT> 
-        <APP>\vab <LEM!>parāt{ }parataraṃ nāsti iti me niścitā matiḥ</LEM> \mssCaCbCc\msNb\msNcpcorr\msParis\msPaperA\Ed;
+        <APP>\vab <LEM!>parāt{ }parataraṃ nāsti iti me niścitā matiḥ</LEM> \mssCaCbCc\msNb\msNcpcorr\msParis\msKOb\msPaperA\Ed;
                                 parāt{ }parataraṃ nāsti iti me niścitā mati \msNa\msNcacorr,
                                 parāparataran{ }nāsti iti me niścitā mati \msM</APP>
         <NOTE>Note that \Ed\ inserts the line here that \msPaperA\ inserted above. See apparatus.</NOTE>
         <TR>There is no higher number than Łpara$. This is my firm conviction,</TR>
 
 <TEXT> purāṇavedapaṭhitā mayākhyātā dvijottama||</TEXT> 1:35
-        <APP>\vc <LEM>°veda°</LEM> \msCa\Ed; °vede \msCb\msCc\msNb\msNc\msParis\msPaperA,
+        <APP>\vc <LEM>°veda°</LEM> \msCa\Ed; °vede \msCb\msCc\msNb\msNc\msParis\msKOb\msPaperA,
                                           °vedā \msNa, °vedaiḥ \msM</APP>
-        <APP>\vd <LEM>°khyātā</LEM> \msCa\msCb\msNa\msParis; °khyātaṃ \msCc\msNb\msNc\msM\msPaperA\Ed\oo
-                 <LEM>°ttama</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; °tama \msM</APP>
+        <APP>\vd <LEM>°khyātā</LEM> \msCa\msCb\msNa\msParis\msKOb; °khyātaṃ \msCc\msNb\msNc\msM\msPaperA\Ed\oo
+                 <LEM>°ttama</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; °tama \msM</APP>
         <TR>which is based on my readings of the Purāṇas and the Vedas 
                 and [which I have now] taught [to you], O great Brahmin.</TR>
 
@@ -1264,8 +1267,8 @@
         <TR>Vigatarāga spoke:</TR>
 
 <TEXT> brahmāṇḍaṃ kati vijñeyaṃ pramāṇaṃ jñāpitaṃ kvacit|</TEXT>
-        <APP>\va <LEM>brahmāṇḍaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; brahmāṇḍa \msCc</APP>
-        <APP>\vb <LEM!>pramāṇaṃ jñāpitaṃ kvacit</LEM> \conj; pramāṇaṃ cāpitaṃ kvacit \mssCaCbCc\msNa\msNb\msParis\msPaperA\Ed,
+        <APP>\va <LEM>brahmāṇḍaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; brahmāṇḍa \msCc</APP>
+        <APP>\vb <LEM!>pramāṇaṃ jñāpitaṃ kvacit</LEM> \conj; pramāṇaṃ cāpitaṃ kvacit \mssCaCbCc\msNa\msNb\msParis\msKOb\msPaperA\Ed,
                                                 pramāñ{ }cāpitat kvacit \msNc, pramāṇañ{ }cāpitāṃ kati \msM</APP>
         <NOTE>The use of the singular next to numerals is one of the hallmarks of the \VSS\ 
                 (see p.~\pageref{singularwithnumerals}). This means that Łpāda$ a may well refer to multiple Łbrahmāṇḍa$s.
@@ -1288,10 +1291,11 @@
 
 %ŚDhU 12 has multiple Brahmāṇḍas
 
+%folioinfo: \msKOb 7.jpg
 <TEXT> kati cāṅguli{-}m{-}ūrdhveṣu sūryas{ }tapati vai mahīm||</TEXT> 1:36
-        <APP>\vc <LEM>°rdhveṣu</LEM> \eme; °rdheṣu \mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA\Ed</APP>
-        <APP>\vd <LEM>sūryas{ }ta°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; ryo \msMacorr, śūryo \msMpcorr\oo
-                 <LEM>mahīm</LEM> \msCb\msCc\msNa\msParis\msM\msPaperA; mahī<UNCL>m </UNCL> \msCa, mahī \msNb\msNc\Ed</APP>
+        <APP>\vc <LEM>°rdhveṣu</LEM> \eme; °rdheṣu \mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed</APP>
+        <APP>\vd <LEM>sūryas{ }ta°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; ryo \msMacorr, śūryo \msMpcorr\oo
+                 <LEM>mahīm</LEM> \msCb\msCc\msNa\msParis\msM\msKOb\msPaperA; mahī<UNCL>m </UNCL> \msCa, mahī \msNb\msNc\Ed</APP>
         <NOTE>My emendation of Łcāṅguli-mūrdheṣu$ to Łcāṅguli{-}m{-}ūrdhveṣu$ (with a hiatus-filler) 
               is based on Łūrdhvatas$ in 1.60d, which is part of the reply to the question posed in this line.
               In turn, Łaṅguli$ here triggered a conjecture in 1.60c.</NOTE>
@@ -1304,9 +1308,9 @@
         <TR>Anarthayajña spoke: </TR>
 
 <TEXT> brahmāṇḍānāṃ prasaṃkhyātuṃ mayā śakyaṃ kathaṃ dvija|</TEXT>
-        <APP>\va <LEM>brahmā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; brahma° \msM\oo
-                 <LEM>prasaṃkhyātuṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msPaperA; prasaṃsā tu \msNb, ca saṃkhyātuṃ \Ed</APP>
-        <APP>\vb <LEM>śakyaṃ ka°</LEM> \msNa\msNb\msPaperApcorr\Ed; śakyā ka° \mssCaCbCc\msNc\msParis, sakyāṅ{ }ka° \msM, 
+        <APP>\va <LEM>brahmā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; brahma° \msM\oo
+                 <LEM>prasaṃkhyātuṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msKOb\msPaperA; prasaṃsā tu \msNb, ca saṃkhyātuṃ \Ed</APP>
+        <APP>\vb <LEM>śakyaṃ ka°</LEM> \msNa\msNb\msPaperApcorr\Ed; śakyā ka° \mssCaCbCc\msNc\msParis\msKOb, sakyāṅ{ }ka° \msM, 
                                                                         hyakyaṃ ka° \msPaperAacorr</APP>
         <NOTE>One would expect Łbrahmāṇḍāni$ in Łpāda$ a instead of Łbrahmāṇḍānāṃ$,
                 but we should probably understand Łbrahmāṇḍānāṃ viśeṣān prasaṃkhyātuṃ...$, or rather,
@@ -1319,18 +1323,19 @@
 %index_grammar: gen + telling
 
 <TEXT> devās{ }te 'pi na jānanti mānuṣāṇāṃ ca kā kathā||</TEXT> 1:37
-        <APP>\vc <LEM>devās{ }te</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; devatāpi \msM</APP>
-        <APP>\vd <LEM>mānuṣāṇāṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; mānuṣārnañ{ }ca \msMacorr,
+        <APP>\vc <LEM>devās{ }te 'pi na</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKObpcorr\msPaperA\Ed; devatāpi na \msM,      
+                                                                                       devās{ }te 'pi \msKObacorr </APP>
+        <APP>\vd <LEM>mānuṣāṇāṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; mānuṣārnañ{ }ca \msMacorr,
                                                                                        mānuṣānāñ{ }ca \msMpcorr</APP>
         <TR>Even the gods do not know, not to mention humans.</TR>
 
 
 <TEXT> paryāyeṇa tu vakṣyāmi yathāśakyaṃ dvijottama|</TEXT>
-        <TR>I shall teach [you], as far as I can, in due order and truthfully, that, O great Brahmin,</TR>
+        <TR>I shall teach [you] that, as far as I can, in due order and truthfully, O great Brahmin,</TR>
         % paryāyena \msNb\msM
 
 <TEXT> brahmaṇā yat{ }purākhyāto mātariśvā yathā tathā||</TEXT> 1:38
-        <APP>\vc <LEM>yat{ }purākhyāto</LEM> \mssCaCbCc\msNa\msNb\msNc\msParis; yat{ }purākhyātaṃ \msM, 
+        <APP>\vc <LEM>yat{ }purākhyāto</LEM> \mssCaCbCc\msNa\msNb\msNc\msParis\msKOb; yat{ }purākhyātaṃ \msM, 
                                                                         yat{ }prayāt{ }parāyākhyāto \msPaperA,
                                                                         yat{ }mamākhyāto \Ed</APP>
         <PARAL>\vcd Ł\compare\ \BRAHMANDAPUR\ 3.4.58cd:$ 
@@ -1341,19 +1346,21 @@
 
 %folioinfo: \msParis 414.jpg, f. 213v
 <TEXT> śivāṇḍābhyantareṇaiva sarveṣām{ }iva bhūbhṛtām|</TEXT>
-        <APP>\va <LEM>śivāṇḍā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; śivāṇḍa° \msMacorr, śivāṇḍe° \msMpcorr</APP>
+        <APP>\va <LEM>śivāṇḍā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; śivāṇḍa° \msMacorr, śivāṇḍe° \msMpcorr</APP>
         <APP>\vb <LEM!>sarveṣām{ }iva bhūbhṛtām</LEM> \conj; sarveṣām{ }iva bhūritāḥ \msCa\msCb\msNc\msParis,
                                                              sarveṣām{ }eva bhūritāḥ \msCc,
                                                              sarveṣām{ }iva bhūritā \msNa, sarveṣām{ }eva bhūriṇām \msNb,
                                                              sa<UNCL>rṣapā</UNCL> iva bhāvitā \msM,
+                                                             sarveṣām{ }iva bhū<UNCL>ri</UNCL>tāḥ \msKOb,
                                                              sarveṣām{ }eva bhūrināḥ \msPaperA,
                                                              sarveṣām{ }eva bhūr{ }imāṃ \Ed</APP>
 
 <TEXT> daśa nāma diśāṣṭānāṃ brahmāṇḍe kīrtitaṃ śṛṇu||</TEXT> 1:39
-        <APP>\vc <LEM>diśāṣṭāṇāṃ</LEM>         \mssALL\mssCaCbCc\msNa\msNc\msM\msPaperA\Ed;  śivāṣṭāṇāṃ \msNb, 
+        <APP>\vc <LEM>daśa</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; daśā° \msKOb\oo
+                 <LEM>diśāṣṭāṇāṃ</LEM>         \mssALL\mssCaCbCc\msNa\msNc\msM\msKOb\msPaperA\Ed;  śivāṣṭāṇāṃ \msNb, 
                                                                                              diśāṣṭāṇā \msParis</APP>
-        <APP>\vd <LEM>brahmāṇḍe</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; brahmaṇḍā \msM\oo
-                 <LEM>kīrtitaṃ śṛṇu</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; ya ca kīrtitam \msCb, 
+        <APP>\vd <LEM>brahmāṇḍe</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; brahmaṇḍā \msM\oo
+                 <LEM>kīrtitaṃ śṛṇu</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; ya ca kīrtitam \msCb, 
                                                                                         kīrttitā śṛṇu \msM</APP>
                    <NOTE>My conjecture in Łpāda$ b (Łbhūbhṛtām$) is based on the fact that the 
                    readings transmitted in the MSS seem unintelligible, and, more importantly, that
@@ -1367,7 +1374,6 @@
                     are being taught now, listen.</TR>
 
 %index_grammar: singular after numbers, Newari inanimate
-<PAGEBREAK/>
 
 <SUBCHAPTER>bhūbhṛtāṃ nāmāni</SUBCHAPTER>
 <TRSUBCHAPTER>Names of the cosmic rulers</TRSUBCHAPTER>
@@ -1375,12 +1381,12 @@
 <SUBSUBCHAPTER>pūrvataḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>East</TRSUBSUBCHAPTER>
 <TEXT> sahāsahaḥ sahaḥ sahyo visahaḥ saṃhato 'sabhā|</TEXT>
-         <APP>\va <LEM>sahāsahaḥ</LEM>   \msNc;                     sāhāsaha \mssCaCbCc\msNa\msNb\msParis\msM\msPaperA\Ed\oo
-                  <LEM>sahaḥ sahyo</LEM> \msCa\msCc\msNa\msNb\msNc\msParis; sahaḥ sajñā \msCb, 
+         <APP>\va <LEM>sahāsahaḥ</LEM>   \msNc;                     sāhāsaha \mssCaCbCc\msNa\msNb\msParis\msM\msKOb\msPaperA\Ed\oo
+                  <LEM>sahaḥ sahyo</LEM> \msCa\msCc\msNa\msNb\msNc\msParis\msKOb; sahaḥ sajñā \msCb, 
                                                                     saho sahyaḥ \msM, 
                                                                     sahaḥ sajño \msPaperA\Ed</APP>
-        <APP>\vb <LEM>visahaḥ</LEM>     \msCa\msCb\msNa\msNb\msNc\msParis\Ed; visaha \msCc\msM, viṃsahaḥ \msPaperA\oo
-                 <LEM>'sabhā</LEM>      \msCa\msCc\msNa\msNb\msNc\msParis;    sabhāḥ \msCb, sahā \msM, satā \msPaperA\Ed</APP>
+        <APP>\vb <LEM>visahaḥ</LEM>     \msCa\msCb\msNa\msNb\msNc\msParis\msKOb\Ed; visaha \msCc\msM, viṃsahaḥ \msPaperA\oo
+                 <LEM>'sabhā</LEM>      \msCa\msCc\msNa\msNb\msNc\msParis\msKOb;    sabhāḥ \msCb, sahā \msM, satā \msPaperA\Ed</APP>
         <TR>[1] Sahā, [2] Asaha, [3] Saha, [4] Sahya, [5] Visaha, [6] Saṃhata, [7] Asabhā,</TR>
         <NOTE>Note that many of the names here and in the following verses are,
                 in the absence of any close parallel passage, rather insecure.
@@ -1392,11 +1398,11 @@
                 one of the appellations of Indra, the guardian of the eastern direction.</NOTE>
 
 <TEXT> prasaho 'prasahaḥ sānuḥ pūrvato daśa nāyakāḥ||</TEXT> 1:40
-        <APP>\vc <LEM>prasaho</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA;  prasaheḥ \Ed\oo
-                 <LEM>prasahaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msPaperA;
+        <APP>\vc <LEM>prasaho</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA;  prasaheḥ \Ed\oo
+                 <LEM>prasahaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA;
                                                           prasa<UNCL>vaḥ</UNCL> \msCc, saprahaḥ \Ed\oo
-                 <LEM>sānuḥ</LEM>    \mssCaCbCc\msNa\msNb\msParis\msPaperA;            sānu \msNc\msM\Ed</APP>
-        <APP>\vd <LEM>pūrvato</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA;  parvato \Ed</APP>
+                 <LEM>sānuḥ</LEM>    \mssCaCbCc\msNa\msNb\msParis\msKOb\msPaperA;            sānu \msNc\msM\Ed</APP>
+        <APP>\vd <LEM>pūrvato</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA;  parvato \Ed</APP>
         <TR>[8] Prasaha, [9] Aprasaha, [10] Sānu: [these are] the ten Leaders in the East.</TR> 
 % sānuf \msCa % \msCb and \msCc have an avagraha before saprahaḥ/prasavaḥ
 
@@ -1405,67 +1411,66 @@
 <SUBSUBCHAPTER>āgneye</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>South-East</TRSUBSUBCHAPTER>
 <TEXT> prabhāso bhāsano bhānuḥ pradyoto dyutimo dyutiḥ|</TEXT>
-        <APP>\va <LEM>bhāsano</LEM> \msCa\msCb\msNa\msNb\msNc\msParis\msM;        bhāsa\lac1 × \msCc, 
+        <APP>\va <LEM>bhāsano</LEM> \msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb;        bhāsa\lac1 × \msCc, 
                                                                                   bhāṃsato \msPaperA,
                                                                                   bhāsato \Ed\oo
-                 <LEM>bhānuḥ</LEM>  \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msPaperA\Ed; bhānu \msCb\msM</APP>
-        <APP>\vb <LEM>dyutimo</LEM> \mssCaCbCc\msNa\msNb\msParis\msM;             dyutino \msNc\msPaperA\Ed</APP>
+                 <LEM>bhānuḥ</LEM>  \mssALL\msCa\msCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; bhānu \msCb\msM</APP>
+        <APP>\vb <LEM>dyutimo</LEM> \mssCaCbCc\msNa\msNb\msParis\msM\msKOb;             dyutino \msNc\msPaperA\Ed</APP>
         <TR>[1] Prabhāsa, [2] Bhāsana, [3] Bhānu, [4] Pradyota, [5] Dyutima, [6] Dyuti,</TR>
 
 %index_stemma: \msNc \msPaperA \Ed?
 
 <TEXT> dīptatejāś{ }ca tejāś{ }ca tejā tejavaho daśa|</TEXT>
-         <APP>\vc <LEM!>dīptatejāś{ }ca tejāś{ }ca</LEM> \msCa\msCc\msNa\msNb\msNc\msParis\msPaperA; dīptatejāś{ }ca tejaś{ }ca \msCb, 
+         <APP>\vc <LEM!>dīptatejāś{ }ca tejāś{ }ca</LEM> \msCa\msCc\msNa\msNb\msNc\msParis\msKOb\msPaperA; dīptatejāś{ }ca tejaś{ }ca \msCb, 
                                                                                              dīptatejas tejaś{ }ca \msM\ \unmetr,
                                                                                              dīptatejaś{ }ca tejāś{ }ca \Ed</APP>
-        <APP>\vd <LEM>tejā tejavaho</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;      tejatejayaha \msM</APP>
-        <TR>[7] Dīptatejas, [8] Tejas, [9] Tejā, [10] Tejavaha: [these are] the ten</TR>
+        <APP>\vd <LEM>tejā tejavaho</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;      tejatejayaha \msM</APP>
+        <TR>[7] Dīptatejas, [8] Tejas, [9] Tejā, [10] Tejavaha: these are the ten</TR>
 
 %index_check: tejā
 
 %folioinfo \msNb\ 43.jpg upper (going backwards)
 <TEXT> āgneye tv{ }etad{ }ākhyātaṃ yāmye śṛṇv{ }atha bho dvija||</TEXT> 1:41
-        <APP>\ve <LEM>āgneye</LEM>         \mssCaCbCc\msNa\msNb\msParis\Ed;              āgneya \msNc\msPaperA, 
+        <APP>\ve <LEM>āgneye</LEM>         \mssCaCbCc\msNa\msNb\msParis\msKOb\Ed;              āgneya \msNc\msPaperA, 
                                                                                          āgnerye \msM\oo
-                 <LEM>tv{ }etad{ }ā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; tv{ }ecam{ }ā \msM</APP>
-        <APP>\vf <LEM>śṛṇv{ }atha</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; śṛṇutha \msM\oo
-                 <LEM>dvija</LEM>          \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msPaperA\Ed;  dvijaḥ \msNb</APP>
+                 <LEM>tv{ }etad{ }ā°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; tv{ }ecam{ }ā \msM</APP>
+        <APP>\vf <LEM>śṛṇv{ }atha</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; śṛṇutha \msM\oo
+                 <LEM>dvija</LEM>          \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msKOb\msPaperA\Ed;  dvijaḥ \msNb</APP>
         <TR>[rulers] in the direction of Agni [SE]. Now listen to [the names for]
                  Yama's region, O twice-born.</TR>
         <NOTE>Here, in the region of Agni, the names evidently evoke the image of flames.</NOTE>
 % \msCb\ yāmya? 
 
 
-<TRPAGEBREAK/>
 
 <SUBSUBCHAPTER>yāmye</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>South</TRSUBSUBCHAPTER>
 <TEXT> yamo 'tha yamunā yāmaḥ saṃyamo yamuno 'yamaḥ|</TEXT>
-        <APP>\va <LEM>yamo</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\Ed; yamā \msPaperA</APP>
-        <APP>\vb <LEM>saṃyamo</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\Ed;     saṃyama \msM, 
+        <APP>\va <LEM>yamo</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\Ed; yamā \msPaperA</APP>
+        <APP>\vb <LEM>saṃyamo</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\Ed;     saṃyama \msM, 
                                                                              saṃyamā \msPaperA\oo
-                 <LEM>yamuno</LEM>  \msCa\msCb\msNb\msParis\msPaperA;                yamano \msCc\msNc, 
+                 <LEM>yamuno</LEM>  \msCa\msCb\msNb\msParis\msKOb\msPaperA;                yamano \msCc\msNc, 
                                                                              yumunā \msNa,
                                                                              yamato \msM, yamunā° \Ed\oo
-                 <LEM>yamaḥ</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\Ed;     yana \msM, 
+                 <LEM>yamaḥ</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\Ed;     yana \msM, 
                                                                                      yāmaḥ \msPaperA\ \unmetr</APP>
         <TR>[1] Yama, [2] Yamunā, [3] Yāma, [4] Saṃyama, [5] Yamuna, [6] Ayama,</TR>
 
 <TEXT> saṃyano yamanoyāno yaniyugmā yanoyanaḥ||</TEXT> 1:42
          <APP>\vc <LEM!>saṃyano yamanoyāno</LEM> \msNa; saṃyamo yamanoyāno \msCa\msCc\Ed, 
-                                                        saṃyamo yamunoyāno \msCb\msNb\msParis,
+                                                        saṃyamo yamunoyāno \msCb\msNb\msParis\msKOb,
                                                         saṃyamā yamano yāmo \msNc, 
                                                         yamiyugmā yano yānaḥ \msM,
                                                         saṃyamā yamano yāno \msPaperA</APP>
-         <APP>\vd <LEM!>yaniyugmā yanoyanaḥ</LEM> \msNb\msParis; yaniyugmā nayo yanaḥ \msCa\msCc\msNa,
-                                                         yaniyugmā nayo nayaḥ \msCb\msPaperA, 
+         <APP>\vd <LEM!>yaniyugmā yanoyanaḥ</LEM> \msNb; yaniyugmā nayo yanaḥ \msCa\msCc\msNa\msParis,
+                                                         yaniyugmā nayo nayaḥ \msCb\msKOb\msPaperA, 
                                                          yaniyugmā nayo yamaḥ \msNc,
                                                          daśamā yāmyam{ }āśṛtā \msM,
                                                          yaniyugmā nayonaya \Ed</APP>
         <TR>[7] Saṃyana, [8] Yamanoyāna, [9] Yaniyugmā, [10] Yanoyana.</TR>
         <NOTE>I have chosen the variant Łsaṃyano$ in Łpāda$ c only to avoid the repetition of
                         the name Łsaṃyama$, and the variant Łyanoyanaḥ$ in Łpāda$ d because I suspect that
-                        most of the names here should begin with Łya$, except for Łayamaḥ$
+                        the names here should begin with Łya$, except for Łayamaḥ$
                         in Łpāda$ b, which is little more than a guess in order to avoid the repetition of Łyamaḥ$.
                         All the name forms in this verse are to be taken as tentative. The only 
                         guiding light is the presence of Łya$, reinforcing a connection with Yama.</NOTE>
@@ -1473,13 +1478,12 @@
 
 
 
-<PAGEBREAK/>
 
 <SUBSUBCHAPTER>nairṛte</SUBSUBCHAPTER>
 % CHECK devanāgarī rṛ here is wrong in the xelatex pdf in AdishilaDev
 <TRSUBSUBCHAPTER>South-West</TRSUBSUBCHAPTER>
 <TEXT> nagajo naganā nando nagaro naga nandanaḥ|</TEXT> 
-        <APP>\va <LEM>naganā nando</LEM>        \msCa\msCc\msNa\msNb\msNc\msParis;
+        <APP>\va <LEM>naganā nando</LEM>        \msCa\msCc\msNa\msNb\msNc\msParis\msKOb;
                                                         nagajā nando \msCb,            
                                                         naganāgendra \msM,
                                                         nagano nado \msPaperA\Ed</APP>
@@ -1487,7 +1491,7 @@
                                                      nagaro<UNCL>nagananda</UNCL>naḥ \msCb,
                                                      naga<UNCL>ro</UNCL>\lac2 ×× nandanaḥ \msCc,
                                                      nagarogaranandanaḥ \msNa, 
-                                                     nagaroraganandanaḥ \msParis, 
+                                                     nagaroraganandanaḥ \msParis\msKOb, 
                                                      nagaro nananandanaḥ \msMpcorr, 
                                                      nagaronnaganandanaḥ \Ed</APP>
          <TR>[1] Nagaja, [2] Naganā, [3] Nanda, [4] Nagara, [5] Naga, [6] Nandana,</TR>
@@ -1497,11 +1501,11 @@
 
 %folioinfo \msCc\ 185.jpg f.269r
 <TEXT> nagarbho gahano guhyo gūḍhajo daśa tatparaḥ||</TEXT> 1:43
-        <APP>\vc <LEM>nagarbho</LEM>     \mssALL\mssCaCbCc\msNa\msNc\msParis\msPaperA\Ed;      nṛgabho \msNb, nagarbha \msM\oo 
-                 <LEM>gahano guhyo</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA;
+        <APP>\vc <LEM>nagarbho</LEM>     \mssALL\mssCaCbCc\msNa\msNc\msParis\msKOb\msPaperA\Ed;      nṛgabho \msNb, nagarbha \msM\oo 
+                 <LEM>gahano guhyo</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA;
                                                                     guhano guhya \msM, gahano guhye \Ed</APP>
-        <APP>\vd <LEM>gūḍhajo</LEM>      \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; guḍajo \msM\oo
-                 <LEM>tatparaḥ</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; tatparam \msM</APP>
+        <APP>\vd <LEM>gūḍhajo</LEM>      \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; guḍajo \msM\oo
+                 <LEM>tatparaḥ</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; tatparam \msM</APP>
         <TR>[7] Nagarbha, [8] Gahana, [9] Guhya, [10] Gūḍhaja: [these are] the ten associated with 
                         [the South-West].</TR>
         <NOTE>Łtatparaḥ$ in Łpāda$ d is be another example of a singular form next to a number (see 1.39c above).
@@ -1514,31 +1518,35 @@
 <SUBSUBCHAPTER>vāruṇe</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>West</TRSUBSUBCHAPTER>
 <TEXT> vāruṇena pravakṣyāmi śṛṇu vipra nibodha me|</TEXT> 
-        <APP>\va <LEM>vāruṇena</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA; vāruṇe ca \Ed</APP>
+        <APP>\va <LEM>vāruṇena</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA; vāruṇe ca \Ed</APP>
         <APP>\vb <LEM>śṛṇu</LEM>      \msNb\msParis\msM;  śṛṅge \msCa\msCb\msNa\msNc,
                                             śṛ<UNCL>ṅge</UNCL> \msCc,
+                                            śṛṅge \msKOb,
                                             mṛddhe <UNCL>pāpta</UNCL> \cancelled\ \msPaperA,
                                             mṛddhe \Ed</APP>
          <TR>I shall teach you [the names] in Varuṇa's region [in the west].
                            Listen, O Brahmin, learn from me.</TR>
 
-<TEXT> babhraḥ setur{ }bhavodbhadraḥ prabhavodbhavabhājanaḥ|</TEXT>
-        <APP>\vc <LEM>babhraḥ setur{ }bhavo°</LEM> \corr; babhraṃ setur{ }bhavo° \msCa\msCb,
-                                             babhraṃ setu bhavo° \msCc, babhraḥ setu bhavo° \msNa, 
-                                             babhraṃ sotur{babhraṃ setur{ }bhavo° }bhavo° \msNb, babhra setur{ }bhavo° \msNc,
-                                             babhraṃ setur{ }bhave° \msParis,
-                                             babhrū setu bhavo° \msM, babhrūn{ }setur{ }bhavo° \msPaperA, 
-                                             babhrūn{ }satur{ }bhavo° \Ed</APP>
-        <APP>\vd <LEM>prabhavodbhava°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;   prabhavobhava° \msM\oo
-                 <LEM>°bhājanaḥ</LEM>       \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA; °bhājana \Ed</APP>
-         <TR>[1] Babhra, [2] Setu, [3] Bhava, [4] Udbhadra, [5] Prabhava, [6] Udbhava, [7] Bhājana,</TR>
+<TEXT> babhruḥ setur{ }bhavodbhadraḥ prabhavodbhavabhājanaḥ|</TEXT>
+        <APP>\vc <LEM>babhruḥ setur{ }bhavo°</LEM> \corr;  babhruṃ setur{ }bhavo° \msCa\msCb,
+                                                           babhruṃ setu bhavo° \msCc,
+                                                           babhruḥ setu bhavo° \msNa, 
+                                                           babhraṃ sotur{ }bhavo° \msNb,
+                                                           babhru sertubhavo° \msNc,
+                                                           babhruṃ setur{ }bhave° \msParis\msKOb,
+                                                           babhrū setu bhavo° \msM, 
+                                                           babhrūn{ }setur{ }bhavo° \msPaperA, 
+                                                           babhrūn{ }satur{ }bhavo° \Ed</APP>
+        <APP>\vd <LEM>prabhavodbhava°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;   prabhavobhava° \msM\oo
+                 <LEM>°bhājanaḥ</LEM>       \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA; °bhājana \Ed</APP>
+         <TR>[1] Babhru, [2] Setu, [3] Bhava, [4] Udbhadra, [5] Prabhava, [6] Udbhava, [7] Bhājana,</TR>
         % °bhadraf \msCa
 
 <TEXT> bharaṇo bhuvano bhartā daśaite varuṇālayāḥ||</TEXT> 1:44
         <APP>\ve <LEM>bharaṇo</LEM> \msCb\msNc; bharaṇa \msCa\msNa, bharaṇāṃ \msCc\msPaperA\Ed,
-                                                bharaṇā \msNb, bharaṇe \msParis, bharaṇaḥ \msM</APP>
-        <APP>\vf <LEM>daśaite</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msPaperA\Ed;    daśete \msNc, daśaitā \msM\oo
-                 <LEM>°layāḥ</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; °layā \msM\Ed</APP>
+                                                bharaṇā \msNb, bharaṇe \msParis\msKOb, bharaṇaḥ \msM</APP>
+        <APP>\vf <LEM>daśaite</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msKOb\msPaperA\Ed;    daśete \msNc, daśaitā \msM\oo
+                 <LEM>°layāḥ</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA; °layā \msM\Ed</APP>
          <TR>[8] Bharaṇa, [9] Bhuvana, and [10] Bhartṛ:
                            these ten dwell in Varuṇa's region [in the west].</TR>
          <NOTE>Varuṇa upholds (Łbibharti/bharati$) the sky and the earth. This could be the reason why 
@@ -1549,17 +1557,17 @@
 <SUBSUBCHAPTER>vāyavye</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>North-West</TRSUBSUBCHAPTER>
 <TEXT> nṛgarbho 'suragarbhaś{ }ca devagarbho mahīdharaḥ|</TEXT>
-        <APP>\va <LEM>nṛgarbho</LEM>      \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; nṛgabhā \msM\oo
-                 <LEM>°garbhaś{ }ca</LEM> \msCa\msCb\msNb\msNc\msParis\msPaperA;               °garbhāś{ }ca \msCc\msNa\msM\Ed</APP>
-        <APP>\vb <LEM>devagarbho</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; devagarbha \msM</APP>
+        <APP>\va <LEM>nṛgarbho</LEM>      \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; nṛgabhā \msM\oo
+                 <LEM>°garbhaś{ }ca</LEM> \msCa\msCb\msNb\msNc\msParis\msKOb\msPaperA;               °garbhāś{ }ca \msCc\msNa\msM\Ed</APP>
+        <APP>\vb <LEM>devagarbho</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; devagarbha \msM</APP>
         <TR>[1] Nṛgarbha, [2] Asuragarbha, [3] Devagarbha, [4] Mahīdhara,</TR>
 
 %folioinfo \msM\ 414.jpg upper, f. 2v
 <TEXT> vṛṣabho vṛṣagarbhaś{ }ca vṛṣāṅko vṛṣabhadhvajaḥ||</TEXT> 1:45
-        <APP>\vc <LEM>°garbhaś{ }ca</LEM> \mssCaCbCc\msNb\msNc\msParis\Ed; °garbhāś{ }ca \msNa, °garbhoś{ }ca \msM, 
+        <APP>\vc <LEM>°garbhaś{ }ca</LEM> \mssCaCbCc\msNb\msNc\msParis\msKOb\Ed; °garbhāś{ }ca \msNa, °garbhoś{ }ca \msM, 
                                                                    °śabhaś{ }ca \msPaperA</APP>
-        <APP>\vd <LEM>vṛṣāṅko</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;     vṛṣāṃgo \msM\oo
-                 <LEM>vṛṣabha°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; vṛṣa\lk ° \msCc</APP>
+        <APP>\vd <LEM>vṛṣāṅko</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;     vṛṣāṃgo \msM\oo
+                 <LEM>vṛṣabha°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; vṛṣa\lk ° \msCc</APP>
         <NOTE>The connection between Łvṛṣa$ and the north-west or Vāyu is not evident to me. 
                 In a tantric context, a western position is more standard for Łvṛṣa$, see, e.g.,
                 <citep>Pancavaranastava</citep><pnum>40</pnum>.</NOTE>
@@ -1568,16 +1576,16 @@
 %folioinfo \msCb\ 407.jpg f.203r
 <TEXT> jñātavyaś{ }ca tathā samyag vṛṣajo vṛṣanandanaḥ|</TEXT>
         <APP>\va <LEM!>jñātavyaś{ }ca tathā samyag</LEM> \mssCaCbCc\msNa\msNb\msNc; 
-                                                        jñātavyaś{ }ca yathā samyag \msParis,
+                                                        jñātavyaś{ }ca yathā samyag \msParis\msKOb,
                                                         vṛṣañjavṛṣanandaś{ }ca \msM,
                                                         jñānavāñ{ }ca tathā samya \msPaperA,
                                                         jñānavāñ{ }ca tathā satya° \Ed</APP>
-        <APP>\vb <LEM!>vṛṣajo vṛṣanandanaḥ</LEM> \mssALL\mssCaCbCc\msNb\msNc\msParis\msPaperA\Ed; vṛṣanandanaḥ \msNa,
+        <APP>\vb <LEM!>vṛṣajo vṛṣanandanaḥ</LEM> \mssALL\mssCaCbCc\msNb\msNc\msParis\msKOb\msPaperA\Ed; vṛṣanandanaḥ \msNa,
                                                                                          daśanāyaka vāyave \msM</APP>
         <TR>[9] Vṛṣaja, and [10] Vṛṣanandana: these are to be known properly</TR>
 
 <TEXT> nāyakā daśa vāyavye kīrtitā ye mayā dvija||</TEXT> 1:46
-        <APP>\vcd <LEM!>nāyakā daśa vāyavye kīrtitā ye mayā dvija</LEM> \msCa\msCb\msNa\msParis\msPaperA\Ed;
+        <APP>\vcd <LEM!>nāyakā daśa vāyavye kīrtitā ye mayā dvija</LEM> \msCa\msCb\msNa\msParis\msKOb\msPaperA\Ed;
                         nāyakā daśa vāyavye kīrtitā ye mayā dvijaḥ \msCc\msNb,
                         nāyakā daśa vāyavye kīrtitā ya mayā dvija \msNc,
                         kīrtito yaṃ mayā dvipra yathā tathyena suvrataḥ \msM</APP>
@@ -1591,9 +1599,9 @@
 <SUBSUBCHAPTER>uttare</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>North</TRSUBSUBCHAPTER>
 <TEXT> sulabhaḥ sumanaḥ saumyaḥ suprajaḥ sutanuḥ śivaḥ|</TEXT>
-        <APP>\va <LEM>sulabhaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM; surabhaḥ \msPaperA\Ed\oo
-                 <LEM>sumanaḥ</LEM>  \mssCaCbCc\msNa\msNb\Ed; sumanāḥ \msNc, susamaḥ \msParis, sumano \msM, sumana \msPaperA\oo
-                 <LEM>saumyaḥ</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; somya \msM</APP>
+        <APP>\va <LEM>sulabhaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb; surabhaḥ \msPaperA\Ed\oo
+                 <LEM>sumanaḥ</LEM>  \mssCaCbCc\msNa\msNb\Ed; sumanāḥ \msNc, susamaḥ \msParis\msKOb, sumano \msM, sumana \msPaperA\oo
+                 <LEM>saumyaḥ</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; somya \msM</APP>
         <TR>[1] Sulabha, [2] Sumana, [3] Saumya, [4] Supraja, [5] Sutanu, [6] Śiva,</TR>
         <NOTE>I prefer the form Łsumanaḥ$ to the more standard Łsumanāḥ$ (\msNc) in Łpāda$ a
               because it suits the slightly irregular language of the \VSS\ (see pp.~\pageref{language})
@@ -1603,12 +1611,12 @@
 
 %folioinfo \msCa\ 385.jpg 
 <TEXT> sataḥ satya layaḥ śambhur{ }daśa nāyakam{ }uttare||</TEXT> 1:47 
-         <APP>\vc <LEM>sataḥ satya</LEM> \corr; sata satya \mssCaCbCc\msNc\msParis\msPaperA, satyasatya \msNa, suta satya \msNb,
+         <APP>\vc <LEM>sataḥ satya</LEM> \corr; sata satya \mssCaCbCc\msNc\msParis\msKOb\msPaperA, satyasatya \msNa, suta satya \msNb,
                                     sutaḥ satya \msM, sata satyā° \Ed\oo
-                  <LEM>layaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msPaperA\Ed; layaṃ \msNc</APP>
-         <APP>\vcd <LEM>śambhur{ }da°</LEM> \msCa\msCb\msNb\msParis\msPaperA\Ed; śambhu da° \msCc\msNa\msNc,
+                  <LEM>layaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msKOb\msPaperA\Ed; layaṃ \msNc</APP>
+         <APP>\vcd <LEM>śambhur{ }da°</LEM> \msCa\msCb\msNb\msParis\msKOb\msPaperA\Ed; śambhu da° \msCc\msNa\msNc,
                                                                          śam<UNCL>bhuṃ</UNCL> da° \msM</APP>
-        <APP>\vd <LEM>°nāyakam{ }u°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA; °nāyaka u° \Ed</APP>
+        <APP>\vd <LEM>°nāyakam{ }u°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA; °nāyaka u° \Ed</APP>
          <NOTE>Note how Łdaśa nāyakam$ (neuter singular for masculine plural)
                         could again be an example for the use of the singular 
                         next to a number in Łpāda d$. It seems that here it is the northern region
@@ -1626,8 +1634,8 @@
 <TRSUBSUBCHAPTER>North-East</TRSUBSUBCHAPTER>
 %folioinfo \msNc\ 213.jpg lower, f. 211r
 <TEXT> indu bindu bhuvo vajra varado vara varṣaṇaḥ|</TEXT>
-        <APP>\va <LEM>vajra</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; vrajaḥ \msM</APP>
-        <APP>\vb <LEM>°varṣaṇaḥ</LEM> \mssCaCbCc\msNa\msNb\msParis\msM; °\lk <UNCL>rśaṇam</UNCL> \msNc,
+        <APP>\va <LEM>vajra</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; vrajaḥ \msM</APP>
+        <APP>\vb <LEM>°varṣaṇaḥ</LEM> \mssCaCbCc\msNa\msNb\msParis\msM\msKOb; °\lk <UNCL>rśaṇam</UNCL> \msNc,
                                                                 °darppaṇaḥ \msPaperA, 
                                                                 °daryya ca \Ed</APP>
         <TR>[1] Indu, [2] Bindu, [3] Bhuva, [4] Vajra, [5] Varada, [6] Vara, [7] Varṣaṇa,</TR>
@@ -1635,11 +1643,11 @@
 
 %index_grammar: stem form
 
-<TEXT> ilano valino brahmā daśeśāneṣu nāyakāḥ||</TEXT> 1:48
-        <APP>\vc <LEM!>ilano valino brahmā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; ilino valino brahmaḥ \msM</APP>
-        <APP>\vd <LEM>daśe°</LEM>               \msCa\msNa\msNc\msParis\msPaperA\Ed;  daśai° \msCb\msCc\msNb, diśai° \msM\oo
-                 <LEM>nāyakāḥ</LEM>             \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; nāyakā \msM</APP>
-         <TR>[8] Ilana, [9] Valina, [10] Brahmā: [these are] the ten rulers in the Īśāna
+<TEXT> ilino valino brahmā daśeśāneṣu nāyakāḥ||</TEXT> 1:48
+        <APP>\vc <LEM>brahmā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; brahmaḥ \msM</APP>
+        <APP>\vd <LEM>daśe°</LEM>               \msCa\msNa\msNc\msParis\msKOb\msPaperA\Ed;  daśai° \msCb\msCc\msNb, diśai° \msM\oo
+                 <LEM>nāyakāḥ</LEM>             \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; nāyakā \msM</APP>
+         <TR>[8] Ilina, [9] Valina, [10] Brahmā: [these are] the ten rulers in the Īśāna
                                     direction [i.e., in the north-east].</TR>
          <NOTE>The north-east seems to be occupied by Brahmā, and by rulers whose names should
                                     somehow evoke Brahmā's name.</NOTE>
@@ -1649,17 +1657,17 @@
 <SUBSUBCHAPTER>madhyame</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Center</TRSUBSUBCHAPTER>
 <TEXT> aparo vimalo moho nirmalo mana mohanaḥ|</TEXT>
-        <APP>\va <LEM!>aparo vimalo moho</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; aparaḥ vimalā mohā \msM</APP>
-        <APP>\vb <LEM>nirmalo ma°</LEM> \eme; nimalo ma° \msCa, nirmalonma° \msCb\msNc\msPaperA,
+        <APP>\va <LEM!>aparo vimalo moho</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; aparaḥ vimalā mohā \msM</APP>
+        <APP>\vb <LEM>nirmalo ma°</LEM> \eme; nimalo ma° \msCa, nirmalonma° \msCb\msNc\msKOb\msPaperA,
                                               nirmalotma° \msCc\Ed, nimalorma° \msNa\msNb, nimalotma° \msParis, nirmalonma° \msM</APP>
         <TR>[1] Apara, [2] Vimala, [3] Moha, [4] Nirmala, [5] Mana, [6] Mohana,</TR>
 
 %folioinfo \msNa\ 196.jpg lower f.3r
 <TEXT> akṣayaś{ }cāvyayo viṣṇur{ }varado madhyame daśa||</TEXT> 1:49
-        <APP>\vc <LEM>akṣayaś{ }cāvyayo</LEM> \msCa\msCb\msNa\msNb\msNc\msParis\msPaperA; akṣayāś{ }cāvyayo \msCc,
+        <APP>\vc <LEM>akṣayaś{ }cāvyayo</LEM> \msCa\msCb\msNa\msNb\msNc\msParis\msKOb\msPaperA; akṣayāś{ }cāvyayo \msCc,
                                 akṣayaś{ }cāvyayaṃ \msM, akṣayañ{ }cāvyayo \Ed</APP>
-        <APP>\vcd <LEM>viṣṇur{ }va°</LEM> \msCa\msCb\msNc\msPaperA\Ed; viṣṇu va° \msCc\msNa\msParis\msM, rviṣṇur{ }va \msNb</APP>
-        <APP>\vd <LEM>madhyame daśa</LEM> \msCa\msCb\msNc\msPaperA; madhyamo daśa \msCc\msNa\msParis, 
+        <APP>\vcd <LEM>viṣṇur{ }va°</LEM> \msCa\msCb\msNc\msPaperA\Ed; viṣṇu va° \msCc\msNa\msParis\msM\msKOb, r{ }viṣṇur{ }va° \msNb</APP>
+        <APP>\vd <LEM>madhyame daśa</LEM> \msCa\msCb\msNc\msPaperA; madhyamo daśa \msCc\msNa\msParis\msKOb, 
                                         varavarṣaṇaḥ \msNb, madhyamo daśaḥ \msM, madhyame daśaḥ \Ed</APP>
         <TR>[7] Akṣaya, [8] Avyaya, [9] Viṣṇu, [10] Varada: [these are] the ten [leaders] in the centre.</TR>
          <NOTE>Note that the last three lists above have been associated 
@@ -1674,15 +1682,14 @@
 
 
 
-
 <SUBSUBCHAPTER>parivārāḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Subordinates</TRSUBSUBCHAPTER>
 
 % daśa-m-īśānāṃ        
 <TEXT> sarveṣāṃ daśa{-}m{-}īśānāṃ parivāraśataṃ śatam|</TEXT>
-        <APP>\va <LEM>sarveṣāṃ</LEM>       \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msPaperA\Ed;   sarveṣā \msNc\oo
-                 <LEM>daśam{ }īśānāṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA; daśarīśānāṃ \Ed</APP>
-        <APP>\vb <LEM>parivāra°</LEM>      \mssALL\msCa\msCc\msNb\msNc\msParis\msM\msPaperA\Ed;   pari° \msCb, parivāraṃ \msNa</APP>
+        <APP>\va <LEM>sarveṣāṃ</LEM>       \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msKOb\msPaperA\Ed;   sarveṣā \msNc\oo
+                 <LEM>daśam{ }īśānāṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA; daśarīśānāṃ \Ed</APP>
+        <APP>\vb <LEM>parivāra°</LEM>      \mssALL\msCa\msCc\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed;   pari° \msCb, parivāraṃ \msNa</APP>
         <TR>Each of the ten rulers has a retinue of a hundred subordinates.</TR>
         <NOTE>I take Łdaśa-m-īśānāṃ$ as a split compound (Łdaśeśānāṃ$).
               It is conceivable that each of the above ninety rulers has ten subordinates, 
@@ -1694,25 +1701,26 @@
 
 %folioinfo \Ed\ p.584
 <TEXT> śatānāṃ pṛthag{ }ekaikaṃ sahasraiḥ parivāritam||</TEXT> 1:50
-        <APP>\vd <LEM>sahasraiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;  sahasrai \msM\oo
-                 <LEM>°vāritam</LEM>  \msCa\msCb\msCcpcorr\msNa\msNb\msNc\msParis\msPaperA; °vāritā \msCcacorr, 
+        <APP>\vd <LEM>sahasraiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;  sahasrai \msM\oo
+                 <LEM>°vāritam</LEM>  \msCa\msCb\msCcpcorr\msNa\msNb\msNc\msParis\msKOb\msPaperA; °vāritā \msCcacorr, 
                                                                                     °vāritaḥ \msM, °vāritāḥ \Ed</APP>
         <TR>Each one of [these] hundred is surrounded by a thousand subordinates.</TR>
                               % sahasraif \msCa
 
 <TEXT> sahasreṣu ca ekaikam{ }ayutaiḥ parivāritam|</TEXT>
-        <APP>\vab <LEM>ekaikam{ }a°</LEM> \msCa\msCb\msNb\msNc\msParis\msPaperA\Ed;          ekaikaṃ ma° \msCc\msNa\msM</APP>
-        <APP>\vb  <LEM>parivāritam</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA; parivāritaḥ \msM, parivāritamāḥ \Ed</APP>
+        <APP>\vab <LEM>ekaikam{ }a°</LEM> \msCa\msCb\msNb\msNc\msParis\msKOb\msPaperA\Ed;          ekaikaṃ ma° \msCc\msNa\msM</APP>
+        <APP>\vb  <LEM>parivāritam</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA; parivāritaḥ \msM, parivāritamāḥ \Ed</APP>
         <TR>Each one of the thousand is surrounded by ten thousand [subordinates];</TR>
                              %ayutaif \msCa
 
 <TEXT> ayutaṃ prayutair{ }vṛndaiḥ prayutaṃ niyutair{ }vṛtam||</TEXT> 1:51
-        <APP>\vc <LEM>ayutaṃ</LEM> \Ed; ayutaiḥ \mssCaCbCc\msNa\msNc\msParis\msM\msPaperA, ayutai \msNb\oo
-                 <LEM>prayutair{ }vṛndaiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msPaperA\Ed; prayutai vṛndaiḥ \msNc, 
+        <APP>\vc <LEM>ayutaṃ</LEM> \Ed; ayutaiḥ \mssCaCbCc\msNa\msNc\msParis\msM\msKOb\msPaperA, ayutai \msNb\oo
+                 <LEM>prayutair{ }vṛndaiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msKOb\msPaperA\Ed; prayutai vṛndaiḥ \msNc, 
                                                                                   prayutair{ }bhṛtya \msM</APP>
         <APP>\vd <LEM!>prayutaṃ niyutair{ }vṛtam</LEM> \corr; prayutair{ }niyutair{ }vṛtaḥ \msCa\msCb\msNa\msNc\msParis,
                         prayuter{ }niyutair{ }vṛtaḥ \msCc, prayutai niyutai vṛtaḥ \msNb,
-                        prayutaḥ niyutaiḥ vṛtaḥ \msM, prayute niyutair{ }vṛtaḥ \msPaperA, prayutaṃ niyutair{ }vṛtaḥ \Ed</APP>
+                        prayutaḥ niyutaiḥ vṛtaḥ \msM, prayutai niyutair{ }vṛtaḥ \msKOb, 
+                        prayute niyutair{ }vṛtaḥ \msPaperA, prayutaṃ niyutair{ }vṛtaḥ \Ed</APP>
         <TR>the ten thousand is surrounded by a multitude of a hundred thousand;
                  the hundred thousand by a million;</TR>
         <NOTE>We are forced to follow \Ed's reading in Łpāda$ c in order to make sense of this passage.
@@ -1721,19 +1729,19 @@
       %ayutaif ... vṛndaif \msCa
 
 <TEXT> ekaikasya parīvāro niyutaḥ pṛthag{ }eva ca|</TEXT>
-        <APP>\va <LEM>parīvāro</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA;             parivāra \msM\ \unmetr, 
+        <APP>\va <LEM>parīvāro</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA;             parivāra \msM\ \unmetr, 
                                                                                             parivāro \Ed\ \unmetr</APP>
-        <APP>\vb <LEM>niyutaḥ</LEM>  \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msPaperA\Ed;      niyuta \msCc\oo
-                 <LEM>ca</LEM>       \mssALL\mssCaCbCc\msNa\msNb\msNcpcorr\msParis\msM\msPaperA\Ed; caḥ \msNcacorr</APP>
+        <APP>\vb <LEM>niyutaḥ</LEM>  \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed;      niyuta \msCc\oo
+                 <LEM>ca</LEM>       \mssALL\mssCaCbCc\msNa\msNb\msNcpcorr\msParis\msM\msKOb\msPaperA\Ed; caḥ \msNcacorr</APP>
         <NOTE>It seems that Łpāda$s ab repeat what has been stated in 1.51cd.</NOTE>
         <TR>[that is] each one has a retinue of a million (Łniyuta$) [subordinates].</TR>
 
 <TEXT> koṭibhir{ }daśakoṭyena ekaikaḥ parivāritaḥ||</TEXT> 1:52
-        <APP>\vc <LEM!>koṭibhir{ }daśakoṭyena</LEM> \msCa\msCc\msParis\msPaperA\Ed; koṭibhi daśakoṭyena \msCb,
-                                koṭibhir{ }daśakoṭyona \msNa\msNc, koṭibhir{ }daśakoṭyenaḥ \msNb,
+        <APP>\vc <LEM!>koṭibhir{ }daśakoṭyena</LEM> \msCa\msCc\msParispcorr\msPaperA\Ed; koṭibhi daśakoṭyena \msCb,
+                                koṭibhir{ }daśakoṭyona \msNa\msNc\msParisacorr\msKOb, koṭibhir{ }daśakoṭyenaḥ \msNb,
                                 koṭibhiḥ parivārāṇi koṭibhi daśakoṭikam \msM</APP>
         <APP>\vd <LEM!>ekaikaḥ parivāritaḥ</LEM> \msCb\msNa\Ed; ekaikaḥ parivari<UNCL>taḥ</UNCL> \msCa, 
-                                                ekaikaparivāritaḥ \msCc\msNb\msNc\msParis, ekaikaparivārāṇāṃ \msM,
+                                                ekaikaparivāritaḥ \msCc\msNb\msNc\msParis\msKOb, ekaikaparivārāṇāṃ \msM,
                                                 ekaikaḥ parivāritaṃ \msPaperA</APP>
 % koṭibhiḥ \msCc
         <TR>[Then those] are surrounded by ten million (Łkoṭi$) [subordinates];
@@ -1746,9 +1754,9 @@
 
 %folioinfo \msPaperA\ 333.jpg upper, f. 205v 
 <TEXT> daśakoṭiṣu ekaikaṃ vṛndavṛndabhṛtair{ }vṛtam|</TEXT>
-        <APP>\va <LEM!>daśakoṭiṣu ekaikaṃ</LEM> \msCb\msCc\msNb\msPaperA\Ed; daśakoṭīṣu ekaikaṃ \msCa\msNa\msNc\msParis, 
+        <APP>\va <LEM!>daśakoṭiṣu ekaikaṃ</LEM> \msCb\msCc\msNb\msPaperA\Ed; daśakoṭīṣu ekaikaṃ \msCa\msNa\msNc\msParis\msKOb, 
                                                                              daśakoṭyeṣu ekakaṃ \msM</APP>
-        <APP>\vb <LEM!>vṛndavṛndabhṛtair{ }vṛtam</LEM> \mssCaCbCc\msNb\msParis; vṛndavṛndavṛtair{ }vṛtaṃ \msNa,
+        <APP>\vb <LEM!>vṛndavṛndabhṛtair{ }vṛtam</LEM> \mssCaCbCc\msNb\msParis\msKOb; vṛndavṛndavṛtair{ }vṛtaṃ \msNa,
                                                                        vṛndavṛndabhṛtai vṛtaṃ \msNc,
                                                                        vṛndravṛndeṣu ekaikaṃ \msM,
                                                                        vṛndavṛndavṛtair{ }vṛta \msPaperA,
@@ -1757,8 +1765,8 @@
                         by a billion (Łvṛnda$) subordinates (Łbhṛta$).</TR>
 
 <TEXT> vṛndavargeṣu ekaikaṃ kharvabhiḥ parivāritam||</TEXT> 1:53
-        <APP>\vc <LEM>vṛndavargeṣu</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed; vṛndavargebhiḥ tai vṛtam \msM</APP>
-        <APP>\vd <LEM!>kharvabhiḥ parivāritam</LEM> \mssCaCbCc\msNa\msNb\msParis; kharvarbhiḥ parivāritam \msNc, 
+        <APP>\vc <LEM>vṛndavargeṣu</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed; vṛndavargebhiḥ tai vṛtam \msM</APP>
+        <APP>\vd <LEM!>kharvabhiḥ parivāritam</LEM> \mssCaCbCc\msNa\msNb\msParis\msKOb; kharvarbhiḥ parivāritam \msNc, 
                                                                          kharvābhiḥ parivārāṇi \msM, 
                                                                          kharvarbhiḥ parivārita \msPaperA,
                                                                          kharvarbhiḥ parivāritaḥ \Ed</APP>
@@ -1767,39 +1775,42 @@
 % many times \msM reverses and rewrites two pādas... OR RATHER note how it swaps only 1.55b and c here
 
 <TEXT> kharvavargeṣu ekaikaṃ daśakharvagaṇair{ }vṛtam|</TEXT>
-        <APP>\va <LEM!>kharvavargeṣu ekaikaṃ</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA\Ed;
+        <APP>\va <LEM!>kharvavargeṣu ekaikaṃ</LEM>    \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA\Ed;
                                                                  kharvavargeva ekakam \msM</APP>
-        <APP>\vb <LEM!>daśakharvagaṇair{ }vṛtam</LEM> \msCa\msCc\msNa\msNb\msParis\msPaperA; daśakharvagaṇai vṛtam \msCb, 
-                                                                                     daśakharvagaṇe vṛttaṃ \msNc,
+        <APP>\vb <LEM!>daśakharvagaṇair{ }vṛtam</LEM> \msCa\msCc\msNa\msNb\msParis\msKOb\msPaperA; daśakharvagaṇai vṛtam \msCb, 
+                                                                                   daśakharvagaṇe vṛttaṃ \msNc,
                                                                                    daśakharveṣu ekaikaṃ daśakharvagaṇair{ }vṛtam \msM,
                                                                                    daśakharvagaṇair{ }vṛtaḥ \Ed</APP>
         <TR>Each in these groups of ten billion (Łkharva$) is surrounded by a
                          hundred billion (Łdaśakharva$).</TR>
 
 <TEXT> daśakharveṣu ekaikaṃ śaṅkubhiḥ parivāritam||</TEXT> 1:54
-        <APP>\vc <LEM>°kharveṣu</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msPaperA\Ed; °garveṣu \msNc</APP>
-        <APP>\vd <LEM>parivāritam</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM; parivārita \msPaperA, parivāritaḥ \Ed</APP>
+        <APP>\vc <LEM>°kharveṣu</LEM>   \mssALL\mssCaCbCc\msNa\msNb\msParis\msM\msKOb\msPaperA\Ed; °garveṣu \msNc</APP>
+        <APP>\vd <LEM>parivāritam</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb; parivārita \msPaperA, parivāritaḥ \Ed</APP>
         <TR>Each of those hundred billion is surrounded by a trillion (Łśaṅku$) [deities].</TR>
+
 
 <TEXT> śaṅkubhiḥ pṛthag{ }ekaikaṃ padmena parivāritam|</TEXT>
         <APP>\va <LEM>pṛthag{ }ekaikaṃ</LEM> \eme; pṛthag{ }enaiva \msCa\msCc\msNa\msNb\msNc\msParis\msM\msPaperA\Ed, 
-                                                   pṛthag{ }ainaiva \msCb</APP>
-        <APP>\vb <LEM>°vāritam</LEM> \msNapcorr\msM; °vāritaḥ \mssCaCbCc\msNb\msNc\msParis\msPaperA\Ed, °taṃ \msNaacorr</APP>
+                                                   pṛthag{ }ainaiva \msCb,
+                                                   pṛthag{ }e<UNCL>nai</UNCL>va \msKOb</APP>
+        <APP>\vb <LEM>°vāritam</LEM> \msNapcorr\msM; °vāritaḥ \mssCaCbCc\msNb\msNc\msParis\msKOb\msPaperA\Ed, °taṃ \msNaacorr</APP>
         <NOTE>Note that in Łpāda$ a Łśaṅkubhiḥ$ stands for Łśaṅkūṣu$ (instrumental for locative).</NOTE>
         <TR>Each of those one trillion is surrounded by ten trillion (Łpadma$).</TR>
 
 %index_grammar: instr for loc
 
+%folioinfo \msKOb 8.jpg
 % sic °taḥ:
 <TEXT> padmavargeṣu ekaikaṃ samudraiḥ parivāritam||</TEXT> 1:55
-        <APP>\vd <LEM>samudraiḥ</LEM> \mssALL\msCc\msNa\msNb\msNc\msParis\msM\msPaperA\Ed;
+        <APP>\vd <LEM>samudraiḥ</LEM> \mssALL\msCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed;
                                                             samudaiḥ \msCa, damu<UNCL>daiḥ</UNCL> \msCb\oo
-                 <LEM>°vāritam</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA; °vāritaḥ \Ed</APP>
+                 <LEM>°vāritam</LEM>  \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA; °vāritaḥ \Ed</APP>
         <TR>Each of those ten trillion is surrounded by a hundred trillion (Łsamudra$).</TR>
 
 <TEXT> samudreṣu tathaikaikaṃ madhyasaṃkhyais{ }tu tair{ }vṛtam|</TEXT>
-        <APP>\va <LEM>tathai°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msPaperA\Ed; tathe° \msCc</APP>
-        <APP>\vb <LEM!>madhyasaṃkhyais{ }tu tair{ }vṛtam</LEM> \mssCaCbCc\msNa\msParis\msM\msPaperA;
+        <APP>\va <LEM>tathai°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA\Ed; tathe° \msCc</APP>
+        <APP>\vb <LEM!>madhyasaṃkhyais{ }tu tair{ }vṛtam</LEM> \mssCaCbCc\msNa\msParis\msM\msKOb\msPaperA;
                                                                 madhyasakhyais{ }tu tai vṛtam \msNb,
                                                                 madhyasakhyais{ }tu ter{ }vṛtaṃ \msNc,
                                                                 madhye śaṅkhyāyutair{ }vṛtaḥ \Ed</APP>
@@ -1807,31 +1818,33 @@
                                     number is one quadrillion (Łmadhya$).</TR>
 
 <TEXT> madhyasaṃkhyeṣu ekaikam{ }anantaiḥ parivāritam||</TEXT> 1:56
-        <APP>\vc <LEM>madhyasaṃkhyeṣu</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msPaperA;
+        <APP>\vc <LEM>madhyasaṃkhyeṣu</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msKOb\msPaperA;
                                                                  madhyasāṃkho ca \msM, madhye śaṃkheṣu \Ed</APP>
-        <APP>\vcd <LEM>ekaikam{ }anantaiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msPaperA\Ed;
+        <APP>\vcd <LEM>ekaikam{ }anantaiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msParis\msKOb\msPaperA\Ed;
                                                                  ekaikaṃ manataiḥ \msNc, ekaikaṃ anantai \msM</APP>
-        <APP>\vd <LEM>°vāritam</LEM>            \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msPaperA; °vāritaḥ \Ed</APP>
+        <APP>\vd <LEM>°vāritam</LEM>            \mssALL\mssCaCbCc\msNa\msNb\msNc\msParis\msM\msKOb\msPaperA; °vāritaḥ \Ed</APP>
         <TR>Each of those quadrillion is surrounded by ten quadrillion (Łananta$).</TR>
 
 %lacuna_start: msParis
 <TEXT> ananteṣu ca ekaikaṃ parārdhaparivāritam|</TEXT>
-        <APP>\vb <LEM!>parārdhaparivāritam</LEM> \msCa\msCb\msNa\msNb\msNc\msPaperA; parārdha\lac3 ××× ritam \msCc,
-                    parārdhai parivāritam| ananteṣu ca ekaikaṃ parārdhaparivāritaṃ \msM, parārdhaiḥ parivāritaḥ \Ed</APP>
-        <LACUNA>\vab Łomitted in \msParis$</LACUNA>
+        <APP>\va <LEM!>ananteṣu ca ekaikaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\msPaperA\Ed; ananteṣu na ekaikaṃ \msKObpcorr,
+                                                        \om\ \msKObacorr</APP>
+        <APP>\vb <LEM!>parārdhaparivāritam</LEM> \msCa\msCb\msNa\msNb\msNc\msKObpcorr\msPaperA; parārdha\lac3 ××× ritam \msCc,
+                    parārdhai parivāritam| ananteṣu ca ekaikaṃ parārdhaparivāritaṃ \msM, \om\ \msKObacorr, parārdhaiḥ parivāritaḥ \Ed</APP>
+        <LACUNA>\vab Łomitted in \msParis\ and written in the top margin in \msKObpcorr$</LACUNA>
         <TR>Each of those ten quadrillion is surrounded by a hundred quadrillion (Łparā\-rdha$).</TR>
 %lacuna_end: msParis
 
 %folioinfo \msCc\ 186.jpg f.269v
 <TEXT> parārdheṣu ca ekaikaṃ pareṇa parivāritam|</TEXT> 
-        <APP>\vd <LEM>°vāritam</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msPaperA; °vārivāritaṃ \msNb, °vāritaḥ \Ed</APP>
+        <APP>\vd <LEM>°vāritam</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msKOb\msPaperA; °vārivāritaṃ \msNb, °vāritaḥ \Ed</APP>
         <TR>Each of those hundred quadrillion is surrounded by two hundred quadrillion (Łpara$).</TR>
 
 <TEXT> eṣa vai kathito vipra śakyaṃ sāṃkhyam{ }udīritam||</TEXT> 1:57
-        <APP>\ve <LEM>kathito</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msPaperA; <UNCL>kathito</UNCL> \msNb, kathitā \Ed</APP>
-        <APP>\vf <LEM>śakyaṃ</LEM>  \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\Ed;  śakya \msCc, saṃkhyāṃ śakyaṃ \msPaperA\oo
-                 <LEM>sāṃkhyam{ }u°</LEM> \msCa\msCc\msNb\msParis\msM; sākhyam{ }u° \msCb, syakhyam{ }u° \msNa,
-                                                saṃkhyam{ }u \msNc, saṃkhyām{ }u° \msPaperA\Ed</APP>
+        <APP>\ve <LEM>kathito</LEM> \mssALL\mssCaCbCc\msNa\msNc\msParis\msM\msKOb\msPaperA; <UNCL>kathito</UNCL> \msNb, kathitā \Ed</APP>
+        <APP>\vf <LEM>śakyaṃ</LEM>  \mssALL\msCa\msCb\msNa\msNb\msNc\msParis\msM\msKOb\Ed;  śakya \msCc, saṃkhyāṃ śakyaṃ \msPaperA\oo
+                 <LEM>sāṃkhyam{ }u°</LEM> \msCa\msCc\msNb\msParis\msM\msKObacorr; sākhyam{ }u° \msCb, syakhyam{ }u° \msNa,
+                                                saṃkhyam{ }u \msNc\msKObpcorr, saṃkhyām{ }u° \msPaperA\Ed</APP>
         <TR>Thus it is taught, O Brahmin. The enumeration [of the rulers of the Brahmāṇḍa] has been taught
                                          as much as it is possible.</TR>
 
@@ -1862,8 +1875,8 @@
 <SUBCHAPTER>pramāṇam</SUBCHAPTER>
 <TRSUBCHAPTER>Measurements</TRSUBCHAPTER>
 <TEXT> pramāṇaṃ śṛṇu me vipra saṃkṣepād{ }bruvato mama|</TEXT>
-        <APP>\va <LEM>pramāṇaṃ</LEM> \msCc\msNa\msNc\msParis\msM\msPaperA\Ed; praṇāmaṃ \msCa\msCb, pramāṇa \msNb</APP>
-        <APP>\vb <LEM>saṃkṣepād{ }bruvato</LEM> \msCa\msCc\msNa\msNb\msPaperA\Ed; saṃkṣepād{ }vadato \msCb,
+        <APP>\va <LEM>pramāṇaṃ</LEM> \msCc\msNa\msNc\msParis\msM\msKOb\msPaperA\Ed; praṇāmaṃ \msCa\msCb, pramāṇa \msNb</APP>
+        <APP>\vb <LEM>saṃkṣepād{ }bruvato</LEM> \msCa\msCc\msNa\msNb\msKOb\msPaperA\Ed; saṃkṣepād{ }vadato \msCb,
                                                                                   saṃkhyepād{ }bruvato \msNc,
                                                                                   saṃkṣepa bruvato \msM</APP>
         <LACUNA>\vb ŁAfter$ saṃkṣepā° Ł\msParis\ f. 213v breaks off and resumes only at 2.21c. One folio
@@ -1878,16 +1891,16 @@
 %index_metre: ra-vipulā
 
 <TEXT> koṭikoṭisahasraṃ tu yojanānāṃ samantataḥ|</TEXT>
-        <APP>\va <LEM>koṭikoṭi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msPaperA\Ed; koṭīkoṭi° \msM</APP>
-        <APP>\vb <LEM>yoja°</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\Ed;      yāja° \msPaperA</APP>
+        <APP>\va <LEM>koṭikoṭi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb\msPaperA\Ed; koṭīkoṭi° \msM</APP>
+        <APP>\vb <LEM>yoja°</LEM>     \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\msKOb\Ed;      yāja° \msPaperA</APP>
 
 %folioinfo \msM\ 414.jpg lower, f. 3r
 <TEXT> aṇḍānāṃ ca parīmāṇaṃ brahmaṇā parikīrtitam||</TEXT> 1:59
-        <APP>\vc <LEM>ca parīmāṇaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msPaperA\Ed;
+        <APP>\vc <LEM>ca parīmāṇaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msKOb\msPaperA\Ed;
                                                                                 ca parimāṇaṃ \msCb\ \unmetr,
                                                                                 parimāṇañ{ }ca \msM</APP>
-        <APP>\vd <LEM>brahmaṇā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msM\msPaperA\Ed; \lac3 ××× \msCc\oo
-                 <LEM>°kīrtitam</LEM> \msCa\msCb\msNb\msNc\msPaperA\Ed; °kīrti<UNCL>tāḥ</UNCL> \msCc, °kīrtitaḥ \msNa\msM</APP>
+        <APP>\vd <LEM>brahmaṇā</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msM\msKOb\msPaperA\Ed; \lac3 ××× \msCc\oo
+                 <LEM>°kīrtitam</LEM> \msCa\msCb\msNb\msNc\msKOb\msPaperA\Ed; °kīrti<UNCL>tāḥ</UNCL> \msCc, °kīrtitaḥ \msNa\msM</APP>
         <NOTE>I suspect that the plural form Łaṇḍānāṃ$ is accidental and what is meant
               is a singular.</NOTE>
         <TR>The whole circumference of the Egg has been declared by Brahmā
@@ -1896,17 +1909,17 @@
 
 
 <TEXT> saptakoṭisahasrāṇi saptakoṭiśatāni ca|</TEXT>
-        <APP>\va <LEM>°srāṇi</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\Ed; °sraṇi \msPaperA</APP>
+        <APP>\va <LEM>°srāṇi</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\msKOb\Ed; °sraṇi \msPaperA</APP>
 % saiva/sivadharma/01sdhs/sivadharmasastra.dn:kalpako.tisahasraa.ni kalpako.ti"sataani ca|| 5.118||
 
 %folioinfo \msNb\ breaks off at 1.60d (1.60d--2.22 missing)
 %lacuna_start: msNb
 <TEXT> viṃśakoṭiṣv{ }aṅgulīṣu ūrdhvatas{ }tapate raviḥ||</TEXT> 1:60
-        <APP>\vc <LEM!>viṃśakoṭiṣv{ }aṅgulīṣu</LEM> \conj; viṃśakoṭiṣu gulmeṣu \mssCaCbCc\msNa\msNb\msNc\msPaperA\Ed,
+        <APP>\vc <LEM!>viṃśakoṭiṣv{ }aṅgulīṣu</LEM> \conj; viṃśakoṭiṣu gulmeṣu \mssCaCbCc\msNa\msNb\msNc\msKOb\msPaperA\Ed,
                                                           viṃśakoṭi vinā gulme \msM</APP>
-        <APP>\vd <LEM>ūrdhvatas{ }ta°</LEM> \mssCaCbCc\msNa\msNc\Ed; ūrdhva\lac2 ×× \msNb, ūrddhvato ta° \msM,
+        <APP>\vd <LEM>ūrdhvatas{ }ta°</LEM> \mssCaCbCc\msNa\msNc\msKOb\Ed; ūrdhva\lac2 ×× \msNb, ūrddhvato ta° \msM,
                                                                      uddhatas{ }ta° \msPaperA\oo
-                 <LEM>raviḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msPaperA; ravi \Ed</APP>
+                 <LEM>raviḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msKOb\msPaperA; ravi \Ed</APP>
         <LACUNA>\vcd ŁThe folio in \msNb\ ends with $ ūrdhva°, Łand the folios 
                                 that may have contained verses 1.60d--2.22 are missing.$</LACUNA>
         <TR>The Sun shines from the height of seven thousand seven hundred and twenty Łkoṭi$ finger's breadth.</TR>
@@ -1921,9 +1934,9 @@
 %index_metre: ra-vipulā
 
 <TEXT> pramāṇaṃ nāma saṃkhyā ca kīrtitāni samāsataḥ|</TEXT>
-        <APP>\va <LEM!>pramāṇaṃ nāma saṃkhyā ca</LEM> \mssALL\msCa\msCc\msNa\msNc\msM\Ed; praṇāmaṃ nāma saṃkhyā ca \msCb, 
+        <APP>\va <LEM!>pramāṇaṃ nāma saṃkhyā ca</LEM> \msCa\msCc\msNa\msNc\msM\Ed; praṇāmaṃ nāma saṃkhyā ca \msCb\msKOb, 
                                                         pramāṇenāṇañ{ }cama saṃkhyā\lk ta ca \msPaperA</APP>
-        <APP>\vb <LEM>kīrtitāni</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\Ed; kīrttiyānāni \msPaperA</APP>
+        <APP>\vb <LEM>kīrtitāni</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msM\msKOb\Ed; kīrttiyānāni \msPaperA</APP>
         <TR>The numbers pertaining to the measurements have been taught in brief.</TR>
         <NOTE>Note the mixture of different grammatical genders and numbers in this verse. 
               Understand Łpramāṇeṣu saṃkhyāḥ kīrtitāḥ samāsataḥ$ and 
@@ -1933,10 +1946,10 @@
 
 % wants to say brahmāṇḍānām aprameyānāṃ?
 <TEXT> brahmāṇḍaṃ cāprameyāṇāṃ lakṣaṇaṃ parikīrtitam||</TEXT> 1:61
-        <APP>\vc <LEM>brahmāṇḍaṃ cā°</LEM> \msNa; brahmāṇḍaś{ }ca \msCa\msCb\msNc\msM\msPaperA, <UNCL>brahmāṇḍāś{ }cā</UNCL>° \msCc, 
+        <APP>\vc <LEM>brahmāṇḍaṃ cā°</LEM> \msNa; brahmāṇḍaś{ }ca \msCa\msCb\msNc\msM\msKOb\msPaperA, <UNCL>brahmāṇḍāś{ }cā</UNCL>° \msCc, 
                                                                 brahmāṇḍāś{ }cā \Ed\oo
-                 <LEM>°meyāṇāṃ</LEM> \msCa\msNa\msM\msPaperA\Ed; °meyāṇā \msCb\msCc\msNc</APP>
-        <APP>\vd <LEM>°kīrtitam</LEM> \mssALL\msCa\msCb\msNa\msNc\msPaperA\Ed; °kīrtitāḥ \msCc, °kīrttitaḥ \msM</APP>
+                 <LEM>°meyāṇāṃ</LEM> \msCa\msNa\msM\msKOb\msPaperA\Ed; °meyāṇā \msCb\msCc\msNc</APP>
+        <APP>\vd <LEM>°kīrtitam</LEM> \mssALL\msCa\msCb\msNa\msNc\msKOb\msPaperA\Ed; °kīrtitāḥ \msCc, °kīrttitaḥ \msM</APP>
         <TR>The characteristics of the unmeasurable Brahmāṇḍa[s] have been taught.</TR>
 
 
@@ -1947,7 +1960,7 @@
 % purāṇāni? or aśī for aśīti 80?
 <TEXT> purāṇāśīsahasrāṇi śatāni dvijasattama|</TEXT>
         <TR>O truest of the twice-born, the Purāṇa[s of] 8,000,000 [verses]</TR>
-        <APP>\vb <LEM>°sattama</LEM> \mssALL\msCa\msCb\msNa\msNc\msM\msPaperA\Ed; \lac2 ×× maḥ  \msCc</APP>
+        <APP>\vb <LEM>°sattama</LEM> \mssALL\msCa\msCb\msNa\msNc\msM\msKOb\msPaperA\Ed; \lac2 ×× maḥ  \msCc</APP>
         <NOTE>ŁPāda$ a should probably be analysed and interpreted as 
                         Łpurāṇam brahmaṇā kathitam$, or rather, Łpurāṇānām aśītisahasrāṇi śatāni ślokāni
                         brahmaṇā kathitāni$.
@@ -2025,17 +2038,17 @@
 
 
 <TEXT> brahmaṇā kathitaṃ pūrṇaṃ mātariśvā yathātatham||</TEXT> 1:62
-        <APP>\vc <LEM>pūrṇaṃ</LEM>    \msCa\msCc\msNa\msPaperA\Ed;              pūrve \msCb, pūrṇṇa \msNc, pūrvaṃ \msM</APP>
-        <APP>\vd <LEM>mātariśvā</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed;  mātariśva \msM\oo
-                 <LEM>°tatham</LEM>   \mssALL\msCa\msCb\msNa\msNc\msPaperA\Ed; °tathā \msCc\msM</APP>
+        <APP>\vc <LEM>pūrṇaṃ</LEM>    \msCa\msCc\msNa\msKOb\msPaperA\Ed;              pūrve \msCb, pūrṇṇa \msNc, pūrvaṃ \msM</APP>
+        <APP>\vd <LEM>mātariśvā</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed;  mātariśva \msM\oo
+                 <LEM>°tatham</LEM>   \mssALL\msCa\msCb\msNa\msNc\msKOb\msPaperA\Ed; °tathā \msCc\msM</APP>
         <TR>were taught by [1] Brahmā to [2] Mātariśvan [= Vāyu] in their entirety, 
              in their true form.</TR>
 
 %index_grammar: nominative for accusative
 
 <TEXT> vāyunā pāda saṃkṣipya prāptaṃ cośanasaṃ purā|</TEXT>
-        <APP>\va <LEM>saṃkṣipya</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; saṃkṣipyaḥ \msM</APP>
-        <APP>\vb <LEM>prāptaṃ cośanasaṃ</LEM> \msCb\msNa\msNc; prāptaṃ causanasaṃ \msCa\msPaperA, prāpta\lk ausanasaṃ \msCc,
+        <APP>\va <LEM>saṃkṣipya</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; saṃkṣipyaḥ \msM</APP>
+        <APP>\vb <LEM>prāptaṃ cośanasaṃ</LEM> \msCb\msNa\msNc; prāptaṃ causanasaṃ \msCa\msKOb\msPaperA, prāpta\lk ausanasaṃ \msCc,
                                            prāptāś{ }cośanasama \msM\ \unmetr, prāptaś{ }cośanasaṃ \Ed</APP>
         <TR>Vāyu abridged the verses and then gave [the Purāṇas] to [3] Uśanas.</TR>
         <NOTE>Note the \stemform\ noun Łpāda$ twice in this verse and 
@@ -2046,8 +2059,8 @@
 %index_grammar: stem form metri causa
 
 <TEXT> tenāpi pāda saṃkṣipya prāptavāṃś{ }ca bṛhaspatiḥ||</TEXT> 1:63
-        <APP>\vc <LEM>saṃkṣipya</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; saṃkṣipyaḥ \msM</APP>
-        <APP>\vd <LEM!>prāptavāṃś{ }ca bṛhaspatiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; prāptadhañ{ }ca vṛhaspati \msM</APP>
+        <APP>\vc <LEM>saṃkṣipya</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; saṃkṣipyaḥ \msM</APP>
+        <APP>\vd <LEM!>prāptavāṃś{ }ca bṛhaspatiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; prāptadhañ{ }ca vṛhaspati \msM</APP>
         <TR>He [Uśanas] also abridged the verses, and [4] Bṛhaspati received them.</TR>
 
 
@@ -2055,8 +2068,8 @@
 
 %folioinfo \msCa\ 386.jpg
 <TEXT> bṛhaspatis{ }tu provāca sūryaṃ triṃśatsahasrikam|</TEXT>
-        <APP>\vb <LEM>sūryaṃ</LEM> \msCc\Ed; sūryas \msCa\msNa\msNc\msPaperA, sūrya \msCb\msM\oo
-                 <LEM>triṃśatsa°</LEM> \mssALL\msCa\msCb\msNa\msNc\msPaperA\Ed; triṃśasa° \msCc\msM</APP>
+        <APP>\vb <LEM>sūryaṃ</LEM> \msCc\Ed; sūryas \msCa\msNa\msNc\msKOb\msPaperA, sūrya \msCb\msM\oo
+                 <LEM>triṃśatsa°</LEM> \mssALL\msCa\msCb\msNa\msNc\msKOb\msPaperA\Ed; triṃśasa° \msCc\msM</APP>
         <NOTE>ŁPāda$ a is a ma-Łvipulā$, or simply a Łpathyā$ if Łpra$ in Łprovāca$
               does not turn the previous syllable long (\mutacumliquida).</NOTE>
         <TR>Bṛhaspati taught 30,000 [verses] to [5] Sūrya [the Sun].</TR>
@@ -2066,71 +2079,72 @@
 %folioinfo \msCb\ 408.jpg f.203v
 <TEXT> pañcaviṃśatsahasrāṇi mṛtyuṃ prāha divākaraḥ||</TEXT> 1:64
         <APP>\vc <LEM>°viṃśatsahasrāṇi</LEM> \corr; °viṃśahasrāṇi \msCa,
-                                            °viṃśasahasrāṇi \msCb\msCc\msNa\msNc\msM\msPaperA, °viśatsahasrāṇi \Ed</APP>
-        <APP>\vd <LEM>mṛtyuṃ prāha</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; mṛtyu prāhaḥ \msM</APP>
+                                            °viṃśasahasrāṇi \msCb\msCc\msNa\msNc\msM\msKOb\msPaperA, °viśatsahasrāṇi \Ed</APP>
+        <APP>\vd <LEM>mṛtyuṃ prāha</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; mṛtyu prāhaḥ \msM</APP>
         <TR>Divākara [= the Sun] taught 25,000 [verses] to [6] Mṛtyu [Death].</TR>
 
 %folioinfo \msNc\ 214.jpg upper, f. 211v
 <TEXT> ekaviṃśatsahasrāṇi mṛtyunendrāya kīrtitam| </TEXT>
-        <APP>\va <LEM>°viṃśat°</LEM> \Ed; °viṃśa° \mssCaCbCc\msNa\msNc\msM\msPaperA</APP>
-        <APP>\vb <LEM>kīrtitam</LEM> \Ed; kīrtitaḥ \msCa\msCb\msNa\msNcpcorr\msM, kīrtitāḥ \msCc, 
-                                                                                  kīrttita \msNcacorr, kīrtitaṃḥ \msPaperA</APP>
+        <APP>\va <LEM>°viṃśat°</LEM> \Ed; °viṃśa° \mssCaCbCc\msNa\msNc\msM\msKOb\msPaperA</APP>
+        <APP>\vb <LEM>kīrtitam</LEM> \Ed; kīrtitaḥ \msCa\msCb\msNa\msNcpcorr\msM\msKOb, kīrtitāḥ \msCc, 
+                                                                   kīrttita \msNcacorr, kīrtitaṃḥ \msPaperA</APP>
         <TR>Mṛtyu taught 21,000 [verses] to [7] Indra.</TR>
 
 <TEXT> indreṇāha vasiṣṭhāya viṃśatślokasahasrikam||</TEXT> 1:65
-        <APP>\vc <LEM>indre°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\Ed; inde° \msPaperA</APP>
-        <APP>\vc <LEM>vasiṣṭhāya</LEM> \mssALL\msCa\msCc\msNa\msM\msPaperA\Ed; viśiṣṭhāya \msCb, vahiṣṭhāya \msNc</APP>
-        <APP>\vd <LEM>viṃśatślo°</LEM> \corr; viṃśaślo° \msCa\msCc\msNa\msNc\msPaperA\Ed, viśaślo° \msCb, triṃśaślo° \msM</APP>
+        <APP>\vc <LEM>indre°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msKOb\Ed; inde° \msPaperA</APP>
+        <APP>\vc <LEM>vasiṣṭhāya</LEM> \mssALL\msCa\msCc\msNa\msM\msKOb\msPaperA\Ed; viśiṣṭhāya \msCb, vahiṣṭhāya \msNc</APP>
+        <APP>\vd <LEM>viṃśatślo°</LEM> \corr; viṃśaślo° \msCa\msCc\msNa\msNc\msKOb\msPaperA\Ed, viśaślo° \msCb, triṃśaślo° \msM</APP>
         <TR>Indra taught 20,000 verses to [8] Vasiṣṭha.</TR>
 
 <TEXT> aṣṭādaśasahasrāṇi tena sārasvatāya tu|</TEXT>
-        <APP>\va <LEM!>aṣṭādaśasahasrāṇi</LEM> \mssALL\mssCaCbCc\msNa\msPaperA\Ed;
+        <APP>\va <LEM!>aṣṭādaśasahasrāṇi</LEM> \mssALL\mssCaCbCc\msNa\msKOb\msPaperA\Ed;
                                                          āṣṭādaśasahasrāṇi \msNc, vasiṣṭhedaśasahasraṃ \msM</APP>
         <TR>He[, Vasiṣṭha, taught] 18,000 [verses] to [9] Sārasvata.</TR>
 
 <TEXT> sārasvatas{ }tridhāmāya sahasradaśa sapta ca||</TEXT> 1:66
-        <APP>\vc <LEM>sārasvatas{ }tri°</LEM> \eme; sārasvatā tri° \msCa\msCc\msNa\msNc\msPaperA\Ed, sārasvatās{ }tri° \msCb,
+        <APP>\vc <LEM>sārasvatas{ }tri°</LEM> \eme; sārasvatā tri° \msCa\msCc\msNa\msNc\msKOb\msPaperA\Ed, sārasvatās{ }tri° \msCb,
                                                         sārasvata tṛ° \msM\oo
-                 <LEM>°dhāmāya</LEM> \mssALL\mssCaCbCc\msNapcorr\msNc\msM\msPaperA\Ed; \om\ \msNaacorr</APP>
-        <APP>\vd <LEM>sahasradaśa</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; sahasrādaśa \msM</APP>
+                 <LEM>°dhāmāya</LEM> \mssALL\mssCaCbCc\msNapcorr\msNc\msM\msKOb\msPaperA\Ed; \om\ \msNaacorr</APP>
+        <APP>\vd <LEM>sahasradaśa</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; sahasrādaśa \msM</APP>
         <TR>Sārasvata [taught] 17,000 [verses] to [10] Tridhāma[n].</TR>
 
 
 %folioinfo \Ed\ p.585
 % for ṣoḍaśa...
 <TEXT> ṣoḍaśānāṃ sahasrāṇi bharadvājāya vai tataḥ|</TEXT>
-        <APP>\vb <LEM>bhara°</LEM> \mssALL\msCa\msCb\msNa\msNc\msPaperA\Ed; bhāra° \msCc, sana° \msM</APP>
+        <APP>\vb <LEM>bhara°</LEM> \mssALL\msCa\msCb\msNa\msNc\msKOb\msPaperA\Ed; bhāra° \msCc, sana° \msM</APP>
         <TR>[Tridhāman taught] 16,000 verses to [11] Bharadvāja.</TR>
 
 %folioinfo \msNa\ 197.jpg upper, f.3v
+%                          tṛ \msKOb
 <TEXT> daśa pañcasahasrāṇi trivṛṣāya abhāṣata||</TEXT> 1:67
-        <APP>\vd <LEM>abhāṣata</LEM> \msCa\msCb\msNa\msPaperA; a<UNCL>bhāṣata</UNCL> \msCc, abhāṣataḥ \msNc\Ed, mabhāsataḥ \msM</APP>
+        <APP>\vd <LEM>abhāṣata</LEM> \msCa\msCb\msNa\msKOb\msPaperA; a<UNCL>bhāṣata</UNCL> \msCc, abhāṣataḥ \msNc\Ed, mabhāsataḥ \msM</APP>
         <TR>[Bharadvāja] taught 15,000 verses to [12] Trivṛṣa.</TR>
 
 
 <TEXT> caturdaśasahasrāṇi antarīkṣāya vai tataḥ|</TEXT>
-        <APP>\vb <LEM>antarī°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; antari° \msM</APP>
+        <APP>\vb <LEM>antarī°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; antari° \msM</APP>
         <TR>[Trivṛṣa] then [taught] 14,000 verses to [13] Antarīkṣa.</TR>
 
 <TEXT> trayyāruṇiṃ sahasrāṇi trayodaśa abhāṣata||</TEXT> 1:68
-        <APP>\vc <LEM>trayyāruṇiṃ</LEM> \corr; tryaiyāruṇi \msCa\msCb\msNa\msM\msPaperA, traiyāruṇi \msCc\Ed,
+        <APP>\vc <LEM>trayyāruṇiṃ</LEM> \corr; tryaiyāruṇi \msCa\msCb\msNa\msM\msKOb\msPaperA, traiyāruṇi \msCc\Ed,
                                                tryaiyārūpini \msNc</APP>
-        <APP>\vd <LEM>abhāṣata</LEM> \msCa\msCc\msNc\msPaperA; abhāṣataḥ \msCb, svabhāvata \msNa, mabhāsataḥ \msM,
+        <APP>\vd <LEM>abhāṣata</LEM> \msCa\msCc\msNc\msKOb\msPaperA; abhāṣataḥ \msCb, svabhāvata \msNa, mabhāsataḥ \msM,
                                                  hy{ }abhāṣata \Ed</APP>
         <TR>[Antarīkṣa] taught 13,000 [verses] to [14] Trayyāruṇi.</TR>
 
 <TEXT> trayyāruṇis{ }tu viprendro dhanaṃjayam{ }abhāṣata|</TEXT>
-        <APP>\va <LEM>trayyāruṇi°</LEM> \corr; tryaiyāruṇi° \mssCaCbCc\msNc\msPaperA, traiyāruṇi° \msNa\Ed, tryairyāruṇi° \msM\oo
-                 <LEM>viprendro</LEM> \mssALL\msCa\msCb\msNa\msNc\msPaperA\Ed; viprenda \msCc\msM</APP>
-        <APP>\vb <LEM>dhanaṃjaya°</LEM> \mssALL\mssCaCbCc\msNapcorr\msNc\msM\msPaperA\Ed; dhana° \msNaacorr\oo
-                 <LEM>°bhāṣata</LEM> \msCa\msCc\msNa\msNc\msPaperA; °bhāṣataḥ \msCb\msM\Ed</APP>
+        <APP>\va <LEM>trayyāruṇi°</LEM> \corr; tryaiyāruṇi° \mssCaCbCc\msNc\msKOb\msPaperA, traiyāruṇi° \msNa\Ed, tryairyāruṇi° \msM\oo
+                 <LEM>viprendro</LEM> \mssALL\msCa\msCb\msNa\msNc\msKOb\msPaperA\Ed; viprenda \msCc\msM</APP>
+        <APP>\vb <LEM>dhanaṃjaya°</LEM> \mssALL\mssCaCbCc\msNapcorr\msNc\msM\msKOb\msPaperA\Ed; dhana° \msNaacorr\oo
+                 <LEM>°bhāṣata</LEM> \msCa\msCc\msNa\msNc\msKOb\msPaperA; °bhāṣataḥ \msCb\msM\Ed</APP>
         <TR>Trayyāruṇi, the great Brahmin, having abridged them again,</TR>
 
 <TEXT> dvādaśāni sahasrāṇi saṃkṣipya punar{ }abravīt||</TEXT> 1:69
         <TR>taught 12,000 [verses] to [15] Dhanaṃjaya.</TR>
 
 <TEXT> kṛtaṃjayāya samprāpto dhanaṃjayamahāmuniḥ|</TEXT>
-        <APP>\vb <LEM>°muniḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; °muṇi \msM</APP>
+        <APP>\vb <LEM>°muniḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; °muṇi \msM</APP>
         <NOTE>Note the odd structure in Łpāda$s ab: Łdhanaṃjayaḥ kṛtaṃjayāya samprāptaḥ$, 
               for a more standard  Łdhanaṃjayena (Łpurāṇam$) samprāpitaṃ kṛtaṃjayam$ 
               (`the Purāṇa was transmitted to Kṛtaṃjaya').</NOTE>
@@ -2139,17 +2153,18 @@
 %index_grammar: odd structure, prāpta for prāpita
 
 <TEXT> kṛtaṃjayād{ }dvijaśreṣṭha ṛṇaṃjayamahātmane||</TEXT> 1:70
-        <APP>\vc <LEM>kṛtaṃjayād{ }dvi°</LEM> \msCa\msNa\msPaperA\Ed; kṛtaṃjayā dvi° \msCb\msCc\msNc, dhanañjaya dvi° \msM\oo
-                 <LEM>°śreṣṭha</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msPaperA; °śreṣṭho \Ed</APP>
-        <APP>\vd <LEM>ṛṇaṃjaya°</LEM> \mssALL\msCa\msCc\msNa\msNc\msM\msPaperA\Ed; ṛṇaṃjāya° \msCb\oo
-                 <LEM>°mahātmane</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; °mabhāśataḥ \msM</APP>
+        <APP>\vc <LEM>kṛtaṃjayād{ }dvi°</LEM> \msCa\msNa\msKOb\msPaperA\Ed; kṛtaṃjayā dvi° \msCb\msCc\msNc, dhanañjaya dvi° \msM\oo
+                 <LEM>°śreṣṭha</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msKOb\msPaperA; °śreṣṭho \Ed</APP>
+        <APP>\vd <LEM>ṛṇaṃjaya°</LEM> \mssALL\msCa\msCc\msNa\msNc\msM\msPaperA\Ed; ṛṇaṃjāya° \msCb, raṇañjaya° \msKOb\oo
+                 <LEM>°mahātmane</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; °mabhāśataḥ \msM</APP>
         <TR>[That recension was transmitted] from Kṛtaṃjaya, O best of the
                         twice-born, to [17] noble Ṛṇaṃjaya.</TR>
 
 %folioinfo \msCc\ 187.jpg f.270r
 <TEXT> ṛṇañjayāt{ }punaḥ prāpto gautamāya maharṣiṇe|</TEXT>
-        <APP>\va <LEM>prāpto</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA; prāptaḥ \msM, prāptau \Ed</APP>
-        <APP>\vb <LEM>maharṣiṇe</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; maharṣiṇaḥ \msM</APP>
+        <APP>\va <LEM>prāpto</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA; prāptaḥ \msM, prāptau \Ed</APP>
+        <APP>\vb <LEM>gautamāya</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msPaperA\Ed; gotamāya \msKOb\oo
+                 <LEM>maharṣiṇe</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; maharṣiṇaḥ \msM</APP>
         <NOTE>The structure of Łpāda$s ab is as odd as that of 1.70ab. What was
               intended is probably Łṛṇañjayena prāpitaṃ gautamāya$. Many of the
               syntactic oddities in this and other chapters might betray an influence
@@ -2157,8 +2172,8 @@
         <TR>Then from Ṛṇaṃjaya it was given to [18] Gautama, the great sage;</TR>
 
 <TEXT> gautamāc{ }ca bharadvājas{ }tasmād{ }dharyadvatāya tu||</TEXT> 1:71
-        <APP>\vc <LEM>gautamāc{ }ca</LEM> \mssCaCbCc\msNa\Ed; gautamāś{ }ca \msNc\msPaperA, gautamena \msM</APP>
-        <APP>\vcd <LEM>bharadvājas{ }tasmād{ }dharyadvatāya</LEM> \msCa\msCc\msNa\msNc;
+        <APP>\vc <LEM>gautamāc{ }ca</LEM> \mssCaCbCc\msNa\Ed; gautamāś{ }ca \msNc\msPaperA, gautamena \msM, gotamāc{ }ca \msKOb</APP>
+        <APP>\vcd <LEM>bharadvājas{ }tasmād{ }dharyadvatāya</LEM> \msCa\msCc\msNa\msNc\msKOb;
                                  bharadvāras{ }tasmād{ }dharyadvatāya \msCb, 
                                  bharadvāja tasmā haryadvatāya \msM, 
                                  bharadvājas{ }tasmād{ }dharyadvanāya \msPaperA,
@@ -2169,43 +2184,44 @@
         <TR>from Gautama to [19] Bharadvāja, from him to [20] Haryadvata.</TR>
 
 <TEXT> rājaśravās{ }tataḥ prāptaḥ somaśuṣmāya vai tataḥ|</TEXT>
-        <APP>\va <LEM>rājaśravās{ }ta°</LEM> \eme; rājaśrava ta° \mssCaCbCc\msNa\msPaperA\Ed, rājaśrave ta° \msNc, 
+        <APP>\va <LEM>rājaśravās{ }ta°</LEM> \eme; rājaśrava ta° \mssCaCbCc\msNa\msKOb\msPaperA\Ed, rājaśrave ta° \msNc, 
                                                                 rājarṣava ta° \msM</APP>
-        <APP>\vab <LEM>prāptaḥ soma°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\Ed; prāpta sāma° \msPaperA</APP>
+        <APP>\vab <LEM>prāptaḥ soma°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msKOb\Ed; prāpta sāma° \msPaperA</APP>
         <NOTE>The syntax is again slightly odd here. The intention may have been
               Łprāpitaṃ rājaśravasā somaśuṣmāya... tatas tṛṇabindunā prāptam$.</NOTE>
         <TR>Then [21] Rājaśravas received it; and then [22] Somaśuṣma;</TR>
 
 <TEXT> somaśuṣmāt{ }tataḥ prāptas{ }tṛṇabindus{ }tu bho dvija||</TEXT> 1:72
-        <APP>\vc <LEM>°śuṣmāt{ }ta°</LEM> \mssALL\mssCaCbCc\msNc\msM\msPaperA\Ed; °śuṣmā ta° \msNa</APP>
-        <APP>\vcd <LEM>prāptas{ }tṛṇabindus{ }tu</LEM> \mssALL\msCa\msCb\msNa\msNc\msM\Ed; 
+        <APP>\vc <LEM>°śuṣmāt{ }ta°</LEM> \mssALL\mssCaCbCc\msNc\msM\msKOb\msPaperA\Ed; °śuṣmā ta° \msNa</APP>
+        <APP>\vcd <LEM>prāptas{ }tṛṇabindus{ }tu</LEM> \mssALL\msCa\msCb\msNa\msNc\msM\msKOb\Ed; 
                                         prā<UNCL>pta tṛ</UNCL>ṇabindus{ }tu \msCc, 
                                         prāptas{ }tṛṇavindun{ }tu \msPaperA</APP>
-        <APP>\vd <LEM>bho</LEM> \mssALL\msCa\msCc\msNa\msNc\msM\msPaperA\Ed; \om\ \msCb</APP>
+        <APP>\vd <LEM>bho</LEM> \mssALL\msCa\msCc\msNa\msNc\msM\msKOb\msPaperA\Ed; \om\ \msCb</APP>
         <TR>then from Somaśuṣma [23] Tṛṇabindu received it, O twice-born.</TR>
 
 %folioinfo: \msPaperA\ 333.jpg, f. 206r
 <TEXT> tṛṇabindus{ }tu vṛkṣāya vṛkṣaḥ śaktim{ }abhāṣata|</TEXT>
-        <APP>\vb <LEM>vṛkṣaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; vṛkṣa \msM\oo
-                 <LEM>°bhāṣata</LEM> \msCa\msCb\msNa\msNc\msPaperA; °bhāṣataḥ \msCc\msM\Ed</APP>
+        <APP>\vb <LEM>vṛkṣaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; vṛkṣa \msM\msKOb\oo
+                 <LEM>°bhāṣata</LEM> \msCa\msCb\msNa\msNc\msKOb\msPaperA; °bhāṣataḥ \msCc\msM\Ed</APP>
         <NOTE>In other list of Łvedavyāsa$s, Tṛṇabindu hands the Purāṇas down to 
                         Ṛkṣa, Rūkṣa or Dakṣa (see note to 1.62 above); Łvṛkṣa$ in Łpāda$ a
                         is probably a corrupted form.</NOTE>
         <TR>Tṛṇabindu taught it to [24] Vṛkṣa; Vṛkṣa to [25] Śakti [the father of Parāśara].</TR>
 
 <TEXT> śaktiḥ parāśaraṃ prāha jatukarṇāya vai tataḥ||</TEXT> 1:73
-        <APP>\vc <LEM>śaktiḥ parāśaraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed;
+        <APP>\vc <LEM>śaktiḥ parāśaraṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed;
                                                  śaparāsara \msMacorr, śakti parāsara \msMpcorr</APP>
-        <APP>\vd <LEM>jatu°</LEM> \mssALL\msCa\msCc\msNa\msNc\msPaperA\Ed; tu° \msCb, jaṃtu° \msM</APP>
+        <APP>\vd <LEM>jatukarṇāya</LEM> \msCa\msCc\msNa\msNc\msPaperA\Ed; tukarṇṇāya \msCb, jaṃtukarṇṇāya \msM,
+                                                 jatuvarṇṇāya \msKOb</APP>
         <NOTE>The name Jatukarṇa may be a corrupted form of Jātū- or Jātukarṇa.</NOTE>
         <TR>Śakti taught it to [26] Parāśara; then [Parāśara] to [27] Jatukarṇa.</TR>
 
 <TEXT> dvaipāyanaṃ tu provāca jatukarṇo maharṣiṇam|</TEXT>
-        <APP>\va <LEM>dvaipāyanaṃ tu</LEM> \eme; dvaipāyanas{ }tu \mssCaCbCc\msNa\msNc\msM\msPaperA,
+        <APP>\va <LEM>dvaipāyanaṃ tu</LEM> \eme; dvaipāyanas{ }tu \mssCaCbCc\msNa\msNc\msM\msKOb\msPaperA,
                                                                          dvaipāyanāya \Ed\ \unmetr</APP>
         <APP>\vb <LEM!>jatukarṇo maharṣiṇam</LEM> \msCa\msCb\msNapcorr\msNc; jatukarṇā maharṣiṇaḥ \msCc, 
-                         jakarṇo maharṣiṇaṃ \msNaacorr, jaṃtukarṇṇamaharṣiṇā \msM, jatukarṇā mahaṣiṇa \msPaperA,
-                                                        jatukarṇamaharṣiṇā \Ed</APP>
+                         jakarṇo maharṣiṇaṃ \msNaacorr, jaṃtukarṇṇamaharṣiṇā \msM, jatuvarṇṇo maharṣiṇam \msKOb,
+                                                        jatukarṇā mahaṣiṇa \msPaperA, jatukarṇamaharṣiṇā \Ed</APP>
         <NOTE>ŁPāda$s ab are a Łpathyā$ if Łpra$ in Łprovāca$
               does not turn the previous syllable long (\mutacumliquida).</NOTE>
         <TR>Jatukarṇa taught it to [28] [Vyāsa] Dvaipāyana, the great sage.</TR>
@@ -2215,16 +2231,17 @@
 %index_grammar: Newar?
 
 <TEXT> romaharṣāya samprāpto dvaipāyanamahāmuniḥ||</TEXT> 1:74
-        <APP>\vd <LEM>°muniḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA; °muni \msM\Ed</APP>
+        <APP>\vd <LEM>°muniḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA; °muni \msM\Ed</APP>
         <NOTE>The syntax of Łpāda$s cd echoes that of 1.70ab above.</NOTE>
         <TR>Dvaipāyana, the great sage, gave it to [29] Romaharṣa.</TR>
 
 %index_grammar: Newar
 
+%folioinfo \msKOb 9.jpg
 <TEXT> romaharṣeṇa provāca putrāyāmitabuddhaye|</TEXT>
-        <APP>\va <LEM>°harṣeṇa</LEM> \msM; °harṣāya \mssCaCbCc\msNa\msNc\msPaperA, °harṣaṇāya \Ed</APP>
+        <APP>\va <LEM>°harṣeṇa</LEM> \msM; °harṣāya \mssCaCbCc\msNa\msNc\msKOb\msPaperA, °harṣaṇāya \Ed</APP>
              %here msPaperA does not follow Ed 
-        <APP>\vb <LEM>°buddhaye</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA\Ed; °buddhayaḥ \msM</APP>
+        <APP>\vb <LEM>°buddhaye</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA\Ed; °buddhayaḥ \msM</APP>
         <PARAL>\vab \similar\ Ł\BRAHMANDAPUR\ 3.4.67ab:$
                 mayā caitat{ }punaḥ proktaṃ putrāyāmitabuddhaye</PARAL>
         <NOTE>Romaharṣa is usually considered to be the same person as Sūta, disciple of Vyāsa Dvaipāyana.
@@ -2243,15 +2260,15 @@
 
 %folioinfo \msM\ 415.jpg upper, f. 3v
 <TEXT> daśa dve ca sahasrāṇi purāṇaṃ samprakāśitam|</TEXT>
-        <APP>\vd <LEM!>purāṇaṃ samprakāśitam</LEM> \mssALL\msCa\msCb\msNa\msNc\msM\msPaperA\Ed;
+        <APP>\vd <LEM!>purāṇaṃ samprakāśitam</LEM> \mssALL\msCa\msCb\msNa\msNc\msM\msKOb\msPaperA\Ed;
                                                    purāṇa samprakāśitāṃ \msCc</APP>
         <NOTE>Note that the extent of the transmitted text (12,000 Łśloka$s) has not changed since Trayyāruṇi
               (1.69).</NOTE>
 
 <TEXT> mānuṣāṇāṃ hitārthāya kiṃ bhūyaḥ śrotum{ }icchasi||</TEXT> 1:75
-        <APP>\ve <LEM>mānuṣāṇāṃ</LEM> \mssALL\msCa\msCc\msNa\msNc\msPaperA\Ed; manuṣāṇāṃ \msCb, mānuṣānā \msM\oo
-                 <LEM>hitārthāya</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; hityathāya \msM, hitāthayi \msPaperA</APP>
-        <APP>\vf <LEM>bhūyaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA; bhūya \msM\Ed</APP>
+        <APP>\ve <LEM>mānuṣāṇāṃ</LEM> \mssALL\msCa\msCc\msNa\msNc\msKOb\msPaperA\Ed; manuṣāṇāṃ \msCb, mānuṣānā \msM\oo
+                 <LEM>hitārthāya</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\Ed; hityathāya \msM, hitāthayi \msPaperA</APP>
+        <APP>\vf <LEM>bhūyaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA; bhūya \msM\Ed</APP>
         <NOTE><sep/>
                 Manuscripts \msCc\ and \msM\ place the Łiti$ of the colophon at the end of the last Łśloka$, before
                 the Łdaṇḍa$s, thus: Łicchasīti$ ||O|| (\msCc) and Łicchasi iti$ ||O|| (\msM).
@@ -2263,9 +2280,10 @@
         <TR>for the benefit of humankind. What else do you wish to know?</TR>
 
 <TEXT> <COLOPHON>iti vṛṣasārasaṃgrahe brahmāṇḍasaṃkhyā nāmādhyāyaḥ prathamaḥ</COLOPHON></TEXT>
+         
         <TRCOLOPHON>Here ends the first chapter in the ŁVṛṣasārasaṃgraha$ called Description of Brahmā's Egg.</TRCOLOPHON> 
-        <APP> Ł\Colo:$ <LEM>nāmādhyāyaḥ prathamaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msPaperA;
-                                                                nāmādhyāyaḥ prathamaḥ śloka 77 \msM,
+        <APP> Ł\Colo:$ <LEM>vṛṣasāra°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msM\msPaperA\Ed; vṛṣāra° \msKOb\oo
+                       <LEM>nāmādhyāyaḥ prathamaḥ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\msPaperA; nāmādhyāyaḥ prathamaḥ śloka 77 \msM,
                                                                 nāma prathamo 'dhyāya \Ed</APP>
 % here msPaperA does not follow Ed 
 % Pre Angkor K0359.txt: raamaayanapuraa.naabhyaam a"sesha.m bhaaratan dada   Kengo (1 purāṇa?)
@@ -3704,7 +3722,7 @@
                 \vo Ł\similar\ \VDHU\ 3.233.203: 
                         $ānṛśaṃsyaṃ kṣamā satyam{ }ahiṃsā ca damaḥ spṛhā |
                         dhyānaṃ prasādo mādhuryaṃ cārjavaṃ ca yamā daśa ||</PARAL>
-        <NOTE>Note the well-attested and probably original masculine Łānṛśaṃsyo$ instead of the expected neuter.</NOTE>
+        <NOTE>Note the well-attested and probably original masculine Łānṛśaṃsyo$ instead of the expected neuter.
                 <sep/>
                 As noted above, this is the beginning of a long section in our text
                 that describes the Łyama-niyama$ rules, reaching up to the end of chapter eight. 
@@ -7555,12 +7573,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%lacuna_start: msKOb
-% just stopped collating
-
-
-
-
 %lacuna_start: msM
 % (stopped collating it again)
 
@@ -7589,33 +7601,34 @@
 % [Anarthayajña spoke:]
 
 <TEXT> atha pañcavidhām{ }ijyāṃ pravakṣyāmi dvijottama|</TEXT>
-        <APP>\va <LEM>°m{ }ijyāṃ</LEM> \msCb; °m{ }ījyāṃ \msCa\msCc\msNa\msNb\msNc\Ed</APP>
-        <APP>\vb <LEM>°ttama</LEM> \mssALL\mssCaCbCc\msNa\Ed; °ttamaḥ \msNb\msNc</APP>
+        <APP>\va <LEM>°m{ }ijyāṃ</LEM> \msCb\msKOb; °m{ }ījyāṃ \msCa\msCc\msNa\msNb\msNc\Ed</APP>
+        <APP>\vb <LEM>°ttama</LEM> \mssALL\mssCaCbCc\msNa\msKOb\Ed; °ttamaḥ \msNb\msNc</APP>
         <LACUNA>ŁWitnesses used for this chapter: \msCa\ ff.\thinspace 202r--203r, 
                                               \msCb\ ff.\thinspace 209r--209v, 
                                               \msCc\ ff.\allowbreak\thinspace 278r--279r,
                                               \msNa\ ff.\thinspace 9v--10v, 
                                               \msNb\ exp.\thinspace 51 (lower--upper) -- 52 (lower),
                                               \msNc\ ff.\thinspace 218r--\allowbreak 218v,
+                                              \msKOb\ ff.\thinspace 218r--209r,
                                               \Ed\ pp.\thinspace 599--601;  
                                               \mssCaCbCc\ = \msCa + \msCb + \msCc$</LACUNA>
         <TR>[Anarthayajña continued:] Now I shall teach you the five types of sacrifice (Łijyā$),
                  O excellent Brahmin,</TR>
 
 <TEXT> dharmamokṣaprasiddhyarthaṃ śṛṇuṣvāvahito dvija||</TEXT> 6:1
-        <APP>\vc <LEM>°mokṣaprasiddhyarthaṃ</LEM> \mssCaCbCc\msNc; °mokṣaprasiddhyartha \msNa\msNb, 
+        <APP>\vc <LEM>°mokṣaprasiddhyarthaṃ</LEM> \mssCaCbCc\msNc\msKOb; °mokṣaprasiddhyartha \msNa\msNb, 
                                                         °mokṣeśasiddhyarthaṃ \Ed</APP>
-        <APP>\vd <LEM>dvija</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; bhava \Ed</APP>
+        <APP>\vd <LEM>dvija</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; bhava \Ed</APP>
         <TR>for success in Dharma and liberation. Listen carefully, O Brahmin.</TR>
         % CHECK BhG on arthayajña
 
 <TEXT> arthayajñaḥ kriyāyajño japayajñas{ }tathaiva ca|</TEXT>
-        <APP>\va <LEM>arthayajñaḥ</LEM> \msCa\msCc\msNa; anarthayajñaḥ \msCb,
+        <APP>\va <LEM>arthayajñaḥ</LEM> \msCa\msCc\msNa\msKOb; anarthayajñaḥ \msCb,
                                                          arthayajña \msNb\msNc, arthayajña° \Ed</APP>
         <TR>Material sacrifice, sacrifice through work, sacrifice through recitation,</TR>
 
 <TEXT> jñānaṃ dhyānaṃ ca pañcaitat{ }pravakṣyāmi pṛthak{ }pṛthak||</TEXT> 6:2
-        <APP>\vc <LEM>jñānaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\Ed; jñāna \msCc\msNc</APP>
+        <APP>\vc <LEM>jñānaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msKOb\Ed; jñāna \msCc\msNc</APP>
         <NOTE>Note the singular Łetat$ after a number (see pp.~\pageref{number}ff).
 
               Compare this list of five to the somewhat similar \BhG\ 4.28:
@@ -7644,8 +7657,8 @@
 <TRSUBSUBCHAPTER>Material sacrifice</TRSUBSUBCHAPTER>
 
 <TEXT> agnyupāsanakarmādi agnihotrakratukriyā|</TEXT>
-        <APP>\vb <LEM>agni°</LEM> \mssALL\msCb\msCc\msNa\msNc\Ed; <UNCL>a</UNCL>\lac1\ × \msCa, \lk\lk\ \msNb\oo
-                 <LEM>°kriyā</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; °kriyāḥ \msCb\msCc</APP>
+        <APP>\vb <LEM>agni°</LEM> \mssALL\msCb\msCc\msNa\msNc\msKOb\Ed; <UNCL>a</UNCL>\lac1\ × \msCa, \lk\lk\ \msNb\oo
+                 <LEM>°kriyā</LEM> \mssALL\msCa\msNa\msNb\msNc\msKOb\Ed; °kriyāḥ \msCb\msCc</APP>
         <TR>Material sacrifice includes the following: 
                 the domestic ritual fire worship etc., the public performance of the ritual of Agnihotra,</TR>
 
@@ -7653,8 +7666,8 @@
 %folioinfo \msNa\ 203.jpg lower, f. 10r
 % maybe accept aṣṭakā
 <TEXT> aṣṭakā pārvaṇī śrāddhaṃ dravyayajñaḥ sa ucyate||</TEXT> 6:3
-        <APP>\vc <LEM>pārvaṇī</LEM> \mssALL\msCa\msCc\msNa\msNc\Ed; parvaṇī \msCb, <UNCL>parvaṇī</UNCL> \msNb</APP>
-        <APP>\vd <LEM>°yajñaḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °yajña \msCc, \lk\lk\ \msNb</APP>
+        <APP>\vc <LEM>pārvaṇī</LEM> \mssALL\msCa\msCc\msNa\msNc\msKOb\Ed; parvaṇī \msCb, <UNCL>parvaṇī</UNCL> \msNb</APP>
+        <APP>\vd <LEM>°yajñaḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\msKOb\Ed; °yajña \msCc, \lk\lk\ \msNb</APP>
         <NOTE>By somewhat overtranslating the items in this list, I want to emphasise that
               the text introduces three categories of sacrificial rituals well-known from
               the time of the Gṛhyasūtras and Śrautasūtras: those of the domestic or Łaupāsana$ fire (Łgṛhyakarman$),
@@ -7678,23 +7691,23 @@
 <TRSUBSUBCHAPTER>Sacrifice through work</TRSUBSUBCHAPTER>
 
 <TEXT> ārāmodyānavāpīṣu devatāyataneṣu ca|</TEXT>
-        <APP>\vb <LEM>°yataneṣu</LEM> \msCb\msCc\Ed; °layaneṣu \msCa\msNa\msNc, °yata\lk\lk\ \msNb</APP>
+        <APP>\vb <LEM>°yataneṣu</LEM> \msCb\msCc\Ed; °layaneṣu \msCa\msNa\msNc\msKOb, °yata\lk\lk\ \msNb</APP>
         <TR>Sacrifice through work means constructing (Łsaṃskāra$)</TR>
 
 <TEXT> svahastakṛtasaṃskāraḥ kriyāyajña sa ucyate||</TEXT> 6:4
-        <APP>\vc <LEM>°hasta°</LEM> \mssALL\mssCaCbCc\msNa\msNc; \lk\lk\ \msNb, °hastaiḥ \Ed</APP>
+        <APP>\vc <LEM>°hasta°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb; \lk\lk\ \msNb, °hastaiḥ \Ed</APP>
         <TR>a grove, a park, a pond, or a temple with one's own hands.</TR>
 
 
 <SUBSUBCHAPTER>japayajñaḥ</SUBSUBCHAPTER>
 <TRSUBSUBCHAPTER>Sacrifice through recitation</TRSUBSUBCHAPTER>
 <TEXT> japayajñaṃ tato vakṣye svargamokṣaphalapradam|</TEXT>
-        <APP>\va <LEM>°yajñaṃ tato</LEM> \mssALL\msCa\msNa\msNb\msNc\Ed; °yajñaṃ tapo \msCb °yajñas{ }tato \msCc</APP>
+        <APP>\va <LEM>°yajñaṃ tato</LEM> \mssALL\msCa\msNa\msNb\msNc\msKOb\Ed; °yajñaṃ tapo \msCb °yajñas{ }tato \msCc</APP>
         <TR>Next I shall teach you the sacrifice through recitation, 
                 the bestower of the fruits of heaven and liberation.</TR>
 
 <TEXT> vedādhyayana kartavyaṃ śivasaṃhitam{ }eva ca|</TEXT>
-        <APP>\vc <LEM>vedā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; adā° \msNb</APP>
+        <APP>\vc <LEM>vedā°</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\Ed; adā° \msNb</APP>
         <TR>One should recite the Vedas, Śaiva collections,</TR>
         <NOTE>Note the \stemform\ Łvedādhyayana$ in Łpāda$ c metri causa. 
               There are several possible interpretations for Łpāda$s d and e:
@@ -7722,10 +7735,9 @@
 
 %index_grammar: stem form metri causa
 
-%folioinfo \msNb\ 50.jpg upper 
 <TEXT> itihāsapurāṇaṃ ca japayajñaḥ sa ucyate||</TEXT> 6:5
-        <APP>\ve <LEM>°purāṇaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °purāṇaś{ }ca \Ed</APP>
-        <APP>\vf <LEM>°yajñaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °yajña \msCc</APP>
+        <APP>\ve <LEM>°purāṇaṃ ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; °purāṇaś{ }ca \Ed</APP>
+        <APP>\vf <LEM>°yajñaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; °yajña \msCc</APP>
         <TR>Itihāsas and Purāṇas: this is called sacrifice through recitation.</TR>
 
 
@@ -7734,20 +7746,21 @@
 <TRSUBSUBCHAPTER>Sacrifice through knowledge</TRSUBSUBCHAPTER>
 
 %folioinfo \msM\ 422.jpg upper, f. 10v 
+%folioinfo \msNb\ 51.jpg upper
 <TEXT> idaṃ karma akarmedam{ }ūhāpohaviśāradaḥ|</TEXT> 
-        <APP>\va <LEM>karma</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; kramam \Ed</APP>
+        <APP>\va <LEM>karma</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; kramam \Ed</APP>
         <TR>[He who can decide if] `this is [proper] action; the other is improper action'
                  because he is knowledgeable about reasoning pro and contra,</TR>
 
 <TEXT> śāstracakṣuḥ samālokya jñānayajñaḥ sa ucyate||</TEXT> 6:6
-        <APP>\vc <LEM>°cakṣuḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °cakṣu \msCc</APP>
-        <APP>\vd <LEM>°yajñaḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °yajña \msCc, °<UNCL>yajñas</UNCL> \msNb</APP>
+        <APP>\vc <LEM>°cakṣuḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; °cakṣu \msCc</APP>
+        <APP>\vd <LEM>°yajñaḥ</LEM> \mssALL\msCa\msCb\msNa\msNc\msKOb\Ed; °yajña \msCc, °<UNCL>yajñas</UNCL> \msNb</APP>
         <NOTE>For the expression Łśāstracakṣuḥ$, see, e.g., \BrahmaP\ 24.21:
               <sep/>
                         Łtena yajñān yathāproktān mānavāḥ śāstracakṣuṣaḥ$ | <br/>
                         Łkurvate 'har ahaś caiva devān āpyāyayanti te$ ||.
               <sep/>
-        In G. P. Bhatt's translation (<citeyear>BrahmapuranaTr1</citeyear>, 126):
+        In G.\thinspace P.\thinspace Bhatt's translation (<citeyear>BrahmapuranaTr1</citeyear>, 126):
                `Day by day men with the sacred scriptures as their guides
                 perform sacrifices in the manner they have been laid down and thereby nourish the gods.'</NOTE>
         <TR>and conducts investigations with his eyes on the Śāstras, is called
@@ -7759,20 +7772,21 @@
 <TRSUBSUBCHAPTER>Sacrifice through meditation</TRSUBSUBCHAPTER>
 
 <TEXT> dhyānayajñaṃ samāsena kathayiṣyāmi te śṛṇu|</TEXT>
-        <APP>\va <LEM>°yajñaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; °yajña \msCc\msNb</APP>
+        <APP>\va <LEM>°yajñaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\msKOb\Ed; °yajña \msCc\msNb</APP>
         <TR>I shall teach you concisely about sacrifice through meditation. Listen to me.</TR>
 
 <TEXT> dhyānaṃ pañcavidhaṃ caiva kīrtitaṃ hariṇā purā|</TEXT>
-        <APP>\vc <LEM>dhyānaṃ</LEM> \mssALL\mssCaCbCc\msNb\Ed; dhyāna \msNa\msNc</APP>
+        <APP>\vc <LEM>dhyānaṃ</LEM> \mssALL\mssCaCbCc\msNb\msKOb\Ed; dhyāna \msNa\msNc</APP>
         <TR>Meditation was taught by Hari in the past as of five kinds.</TR>
 
 % unmetr
 <TEXT> sūryaḥ somo 'gni sphaṭikaḥ sūkṣmaṃ tattvaṃ ca pañcamam||</TEXT> 6:7
-        <APP>\ve <LEM>somo</LEM> \msCa\msCc\msNa\msNc; somā° \msCb\msNb\Ed</APP>
+        <APP>\ve <LEM>somo</LEM> \msCa\msCc\msNa\msNc\msKOb; somā° \msCb\msNb\Ed</APP>
         <APP>\vf <LEM!>sūkṣmaṃ tattvaṃ ca pañcamam</LEM> \msCb;
                                 sūkṣmaṃ ta<UNCL>tva</UNCL>\lac2 ×× ñcamam \msCa, 
                                 sūkṣmatattvaṃ ca pañcamaḥ \msCc\msNa\msNb,
                                 sūkṣmaṃ tattvañ{ }ca pañcamaḥ \msNc,
+                                sūkṣmaṃ tattvañ{ }ca pañca<UNCL>maḥ</UNCL> \msKOb,
                                 sūkṣmāṃ tattvaś{ }ca pañcamam \Ed</APP>
         <NOTE>For an analysis of this fivefold method of meditation, and this ancient-looking
               Łtattva$-system, see p.~\pageref{dhyanayajna}, and compare with 
@@ -7788,53 +7802,54 @@
 
 %       mudhye \msNa
 <TEXT> tasya madhye śaśiṃ dhyāyet{ }tattvaṃ puruṣa ucyate||</TEXT> 6:8
-        <APP>\vc <LEM>śaśiṃ</LEM> \mssALL\mssCaCbCc\msNa\Ed; śaśi \msNb, śaśiṃn \msNc</APP>
-        <APP>\vcd <LEM>dhyāyet{ }ta°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; dhyāye ta° \msCc</APP>
+        <APP>\vc <LEM>śaśiṃ</LEM> \mssALL\mssCaCbCc\msNa\msKOb\Ed; śaśi \msNb, śaśiṃn \msNc</APP>
+        <APP>\vcd <LEM>dhyāyet{ }ta°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; dhyāye ta° \msCc</APP>
         <NOTE>Note the thematised form Łśaśiṃ$ for Łśaśinaṃ$.</NOTE>
         <TR>He should visualize the Moon in its centre: that Łtattva$ is said to be Łpuruṣa$.</TR>
 
 %index_grammar: -in -- > -i (śaśi)
 
 <TEXT> candramaṇḍalamadhye tu jvālām{ }agniṃ vicintayet|</TEXT>
-        <APP>\vb <LEM>jvālām{ }agniṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; jālām{ }agni \msNc</APP>
+        <APP>\vb <LEM>jvālām{ }agniṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msKOb\Ed; jālām{ }agni \msNc</APP>
         <TR>In the centre of the Moon's disk, he should visualise a flame, a fire.</TR>
 
 <TEXT> prabhutattvaḥ sa vijñeyo janmamṛtyuvināśanaḥ||</TEXT> 6:9
-        <APP>\vc <LEM>°tattvaḥ</LEM> \mssCaCbCc\msNc; °tatva \msNa, °tatvaṃ \msNb\Ed</APP>
-        <APP>\vd <LEM>°nāśanaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °nāśanam \msCc\Ed</APP>
+        <APP>\vc <LEM>°tattvaḥ</LEM> \mssCaCbCc\msNc\msKOb; °tatva \msNa, °tatvaṃ \msNb\Ed</APP>
+        <APP>\vd <LEM>°nāśanaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb; °nāśanam \msCc\Ed</APP>
         <NOTE>Note °Łtattvaḥ$ in the masculine in Łpāda$ c.</NOTE>
         <TR> That is said to be Łprabhu$-Łtattva$, the destroyer of [the circle of] birth and death.</TR>
 
 %index_grammar: gender confusion
 
 <TEXT> agnimaṇḍalamadhye tu dhyāyet{ }sphaṭika nirmalam|</TEXT>
-        <APP>\vb <LEM>dhyāyet{ }sphaṭika</LEM> \msCapcorr\msCb\msNa\msNb\msNc; dhyāyet{ }sphaṭi \msCaacorr,
+        <APP>\vb <LEM>dhyāyet{ }sphaṭika</LEM> \msCapcorr\msCb\msNa\msNb\msNc\msKOb; dhyāyet{ }sphaṭi \msCaacorr,
                                         dhyāye sphaṭika \msCc\Ed\oo
-                 <LEM>°malam</LEM> \mssALL\mssCaCbCc\msNb\Ed; °malaḥ \msNa, °<UNCL>malaḥ</UNCL> \msNc</APP>
+                 <LEM>°malam</LEM> \mssALL\mssCaCbCc\msNb\msKOb\Ed; °malaḥ \msNa, °<UNCL>malaḥ</UNCL> \msNc</APP>
         <NOTE>Note the \stemform\ Łsphaṭika$ in Łpāda$ b metri causa.</NOTE>
         <TR>In the centre of the ring of Fire, he should visualize a spotless crystal.</TR>
 
 %index_grammar: stem form metri causa
 
 <TEXT> vidyātattvaḥ sa vijñeyaḥ kāraṇam{ }ajam{ }avyayam||</TEXT> 6:10
-        <APP>\vc <LEM>tattvaḥ sa</LEM> \msCb\msNa\msNb\msNc; ta<UNCL>tvan</UNCL>\lac1\ × \msCa, tatva sa \msCc, tatvaṃ sa \Ed</APP>
-        <APP>\vd <LEM>°jam{ }avyayam</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °m{ }avyayaṃ \msCc</APP>
+        <APP>\vc <LEM>tattvaḥ sa</LEM> \msCb\msNa\msNb\msNc\msKOb; ta<UNCL>tvan</UNCL>\lac1\ × \msCa, tatva sa \msCc, tatvaṃ sa \Ed</APP>
+        <APP>\vd <LEM>°jam{ }avyayam</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; °m{ }avyayaṃ \msCc</APP>
         <TR>That is said to be Łvidyā$-Łtattva$, the never-born, imperishable cause.</TR>
 
 %index_metre: two laghus
 
 <TEXT> vidyāmaṇḍalamadhye tu dhyāyet{ }tattvam{ }anuttamam|</TEXT>
-        <APP>\vab <LEM>dhyāyet{ }ta°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; dhyāye ta° \msCc</APP>
+        <APP>\vab <LEM>dhyāyet{ }ta°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; dhyāye ta° \msCc</APP>
         <TR>In the centre of the disk of Łvidyā$, he should visualize the highest Łtattva$,</TR>
 
+%folioinfo \msKOb\ 21.jpg
 %folioinfo \Ed\ p.600
 <TEXT> akīrtitam{ }anaupamyaṃ śivam{ }akṣayam{ }avyayam|</TEXT>
         <PARAL>\vcd Ł\DHARMP\ 4.14ab: $ akīrtitam{ }anaupamyaṃ pañcamaṃ śivamaṇḍalam</PARAL>
         <TR>never-heard, unparalleled, undecaying and imperishable Śiva.</TR>
 
 <TEXT> pañcamaṃ dhyānayajñasya tattvam{ }uktaṃ samāsataḥ||</TEXT> 6:11
-        <APP>\ve <LEM>°yajñasya</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °yajñañ{ }ca \msCc\Ed</APP>
-        <APP>\vf <LEM>samāsataḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; sanātanaḥ \Ed</APP>
+        <APP>\ve <LEM>°yajñasya</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb; °yajñañ{ }ca \msCc\Ed</APP>
+        <APP>\vf <LEM>samāsataḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; sanātanaḥ \Ed</APP>
         <TR>The fifth Łtattva$ of the sacrifice through meditation has been taught in short.</TR>
 
 
@@ -7843,7 +7858,7 @@
         <TR>Vigatarāga spoke:</TR>
 
 <TEXT> ekaikasya tu tattvasya phalaṃ kīrtaya kīdṛśam|</TEXT>
-        <APP>\va <LEM>tu</LEM> \conj; tri° \mssCaCbCc\msNa\msNb\msNc, hi \Ed</APP>
+        <APP>\va <LEM>tu</LEM> \conj; tri° \mssCaCbCc\msNa\msNb\msNc\msKOb, hi \Ed</APP>
         <NOTE>The reading Łtritattvasya$ in Łpāda$ a in the MSS is a problem 
               because we have just finished a section mentioning five Łtattva$s. 
               (This was probably noticed by \Ed, hence printing Łhi$ for Łtri$°.)
@@ -7852,9 +7867,10 @@
         <TR>Teach me, what are the fruits of [reaching] each Łtattva$?</TR>
 
 <TEXT> kāni lokāḥ prapadyante kālaṃ vāsya tapodhana||</TEXT> 6:12
-        <APP>\vc <LEM>lokāḥ</LEM> \msCa\msNa\msNc; lokā \msCb\msCc\msNb\Ed\oo
-                 <LEM>prapadyante</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\Ed; pra\lk\lk\lk\ \msCa</APP>
-        <APP>\vd <LEM>°dhana</LEM> \mssALL\msCa\msCc\msNa\msNb\Ed; °dhanaḥ \msCb\msNc</APP>
+        <APP>\vc <LEM>lokāḥ</LEM> \msCa\msNa\msNc; lokā \msCb\msCc\msNb\msKOb\Ed\oo
+                 <LEM>prapadyante</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\msKOb\Ed; pra\lk\lk\lk\ \msCa</APP>
+        <APP>\vd <LEM>vāsya</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; cāsya \msNa\msKOb\oo
+                <LEM>°dhana</LEM> \mssALL\msCa\msCc\msNa\msNb\msKOb\Ed; °dhanaḥ \msCb\msNc</APP>
         <TR>Which worlds can be attained and how much time [can one spend there], O great ascetic?</TR>
         %                             lokāf \msCa
 
@@ -7865,9 +7881,9 @@
         <TR>Anarthayajña spoke:</TR>
 
 <TEXT> brahmalokaṃ tu prathamaṃ tattvaprakṛticintayā|</TEXT>
-        <APP>\vab <LEM>prathamaṃ tattva°</LEM> \mssALL\mssCaCbCc\msNapcorr\msNb\msNc; 
-                                                    \om\ \msNaacorr, prathamaṃ tattvaṃ \Ed\oo
-                  <LEM>prakṛticintayā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; ca kṛticintaya \Ed</APP>
+        <APP>\vab <LEM>prathamaṃ tattva°</LEM> \mssCaCbCc\msNapcorr\msNb\msNc; 
+                                                    \om\ \msNaacorr, prathamaṃ tattvaṃ \msKOb\Ed\oo
+                  <LEM>prakṛticintayā</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; ca kṛticintaya \Ed</APP>
         <NOTE>Understand Łpāda$s ab as Łbrahmalokaṃ$ [Łprānoti$] Łprathamatattvacintayā prakṛtitattvacintayā$. 
               One might take Łprathamaṃ$ adverbially (`firstly'),
               but in the next verses, the ordinal numbers (Łdvitīyaṃ, tṛtīyaṃ, pañcamaṃ$)
@@ -7879,7 +7895,7 @@
 %index_metre: pra muta cum liquida licence na-vipulā
 
 <TEXT> kalpakoṭisahasrāṇi śivavan{ }modate sukhī||</TEXT> 6:13
-        <APP>\vd <LEM>sukhī</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; sukham \Ed</APP>
+        <APP>\vd <LEM>sukhī</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; sukham \Ed</APP>
         <TR>He will rejoice [there] happily like Śiva for millions of \ae ons.</TR>
 
 %folioinfo \msCb\ 420.jpg f. 209v
@@ -7890,21 +7906,21 @@
 %index_grammar: stem form metri causa
 
 <TEXT> viṣṇulokam{ }ito yāti kalpakoṭyayutaṃ sukhī||</TEXT> 6:14
-        <APP>\vc <LEM>yāti</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; yānti \Ed</APP>
+        <APP>\vc <LEM>yāti</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; yānti \Ed</APP>
         <TR>one will depart to Viṣṇuloka from this world, [and will dwell there] happily for billions of \ae ons.</TR>
 
 <TEXT> prabhutattvaṃ tṛtīyaṃ tu dhyāyamāno mariṣyati|</TEXT>
-        <APP>\va <LEM>°tattvaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; °tatva \msCc\oo
-                 <LEM>tṛtīyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; tṛtīyas \Ed</APP>
-        <APP>\vb <LEM!>dhyāyamāno mariṣyati</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; dhyāya\lk\lk \lk riṣyati \msCa,
+        <APP>\va <LEM>°tattvaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; °tatva \msCc\oo
+                 <LEM>tṛtīyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; tṛtīyas \Ed</APP>
+        <APP>\vb <LEM!>dhyāyamāno mariṣyati</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\msKOb; dhyāya\lk\lk \lk riṣyati \msCa,
                                                         dhayāyāmāno mariṣyati \Ed</APP>
         <TR>Should one die while meditating on the third, the Łprabhu-tattva$,</TR>
 
 % !! Narahari 
 <TEXT> śivaloke vasen{ }nityaṃ kalpakoṭyayutaṃ śatam||</TEXT> 6:15
-        <APP>\vc <LEM>śivaloke</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; śivaloka \msCb, rudraloke \Ed\oo
-                 <LEM>vasen{ }ni°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; vase ni° \msCc</APP> 
-        <APP>\vd <LEM>°yutaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed; °yuta \msNb</APP>
+        <APP>\vc <LEM>śivaloke</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msKOb; śivaloka \msCb, rudraloke \Ed\oo
+                 <LEM>vasen{ }ni°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; vase ni° \msCc</APP> 
+        <APP>\vd <LEM>°yutaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\Ed; °yuta \msNb</APP>
         <NOTE>\Ed\ changes Łśivaloka$ to Łrudraloka$, probably for more contrast with
               Łsadāśiva$ in 6.16 and Łśivatattva$ in 6.17. This is not
               Naraharinath's intervention since \msPaperA, a paper MS close to his sources,
@@ -7912,7 +7928,7 @@
         <TR>one can live in Śivaloka continuously for a hundred billion \ae ons.</TR>
 
 <TEXT> vidyātattvāmṛtaṃ dhyāyet{ }sadāśivam{ }anāmayam|</TEXT>
-        <APP>\va <LEM>°tattvāmṛtaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °tatvamṛtan \msCc, °tattvāmataṃ \Ed</APP>
+        <APP>\va <LEM>°tattvāmṛtaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb; °tatvamṛtan \msCc, °tattvāmataṃ \Ed</APP>
         <NOTE>In Łpāda$ a, Łamṛta$ is suspect. It may qualify the world of Sadāśiva (`immortal') and 
               then Łvidyātattva$ is in \stemform. Alternatively, since this verse is the only one in
               this list of worlds (6.13--17) without an ordinal number, Łamṛtaṃ$ may mean `four' or possibly `fourth,'
@@ -7924,7 +7940,7 @@
                         one can reach [His] diseaseless,</TR>
 
 <TEXT> akṣayaṃ lokam{ }āpnoti kalpānāntaparaṃ tathā|| </TEXT> 6:16
-        <APP>\vc <LEM>akṣayaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; akṣaya° \Ed</APP>
+        <APP>\vc <LEM>akṣayaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; akṣaya° \Ed</APP>
         <TR>imperishable world [and can live there] well beyond endless \ae ons.</TR>
 
 %folioinfo \msNc\ 221.jpg upper, f. 218v
@@ -7940,9 +7956,9 @@
 <LONGVERSELINES/>
 %       -  -   - -  . -  -   . . .  .  .  . -  -  . -   - . -  -
 <TEXT> pañcadhyānābhiyukto bhavati ca na punarjanmasaṃskārabandhaḥ</TEXT>
-        <APP>\va <LEM>°yukto</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc; °yu\lk\ \msCa\ \toplost, °yuktau \Ed\oo
-                 <LEM>ca</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc; \om\ \msCb\Ed\oo
-                 <LEM>punarjanma°</LEM> \mssALL\msCb\msNa\msNb\msNc\Ed;
+        <APP>\va <LEM>°yukto</LEM> \mssALL\msCb\msCc\msNa\msNb\msNc\msKOb; °yu\lk\ \msCa\ \toplost, °yuktau \Ed\oo
+                 <LEM>ca</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msKOb; \om\ \msCb\Ed\oo
+                 <LEM>punarjanma°</LEM> \mssALL\msCb\msNa\msNb\msNc\msKOb\Ed;
                                                  puna<UNCL>ja</UNCL>nma° \msCa\ \toplost, punajanma° \msCc</APP>
         <TR>[If] one practises the five meditations, there will be no 
                 rebirth and no more fetters of transmigration.</TR>
@@ -7950,7 +7966,7 @@
 %folioinfo \msCa\ 401.jpg                                    vṛkṣaḥ in all sources
 %       -  -  -  -    . -   -?  . . . . . . -    -   . - -  . -  -
 <TEXT> jijñāsyantāṃ dvijendra bhavadahanakaraḥ prārthanākalpavṛkṣo|</TEXT>
-        <APP>\vb <LEM>jijñāsyantāṃ</LEM> \msCa\msNb\msNc\Ed; jijñāsyatāṃ \msCb\msNa\ \unmetr, jijñāsyantā \msCc</APP>
+        <APP>\vb <LEM>jijñāsyantāṃ</LEM> \msCa\msNb\msNc\msKOb\Ed; jijñāsyatāṃ \msCb\msNa\ \unmetr, jijñāsyantā \msCc</APP>
         <NOTE>Metre: Łsragdharā$. Note how a plural passive imperative form (Łjijñāsyantāṃ$) stands for the singular
                 (Łjijñāsyatāṃ$) metri causa, or rather, since probably the five types of
                 meditation are meant, the singulars in Łpāda$ b are somewhat
@@ -7964,10 +7980,10 @@
 
 %       -  -! - - .  -  -      . . .  . .  .  -  - . -  - . - -
 <TEXT> janmenaikena muktir{ }bhavati kimu na vā mānavāḥ sādhayantu</TEXT>
-        <APP>\vc <LEM>janmenaikena</LEM> \msCb\msNb\msNc\Ed; janmanaikena \msCa\msCc\msNa\ \unmetr\oo
-                 <LEM>muktir{ }bh°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; mukti bh° \msCc\oo
-                 <LEM>na vā</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; bhavā \msNa\oo
-                 <LEM>mānavāḥ</LEM> \msCa\msNa\msNb\msNc; mānamānavāḥ \msCb, mānavā \msCc, mānava \Ed</APP>
+        <APP>\vc <LEM>janmenaikena</LEM> \msCb\msNb\msNc\Ed; janmanaikena \msCa\msCc\msNa\msKOb\ \unmetr\oo
+                 <LEM>muktir{ }bha°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; mukti bha° \msCc\oo
+                 <LEM>na vā</LEM> \mssALL\mssCaCbCc\msNb\msNc\msKOb\Ed; bhavā \msNa\oo
+                 <LEM>mānavāḥ</LEM> \msCa\msNa\msNb\msNc\msKOb; mānamānavāḥ \msCb, mānavā \msCc, mānava \Ed</APP>
         <NOTE>The non-standard Łjanmena$ in Łpāda$ d seems superior to Łjanmanā$ for it
                preserves the metre.</NOTE>
         <TR>Liberation will come within one single birth. Why should people not master [these meditations that]</TR>
@@ -7976,8 +7992,8 @@
 %folioinfo \msNa\ 204.jpg upper, f. 10v
 %        -  -  -     - . - -   . . . . . . -    -  . -  - . - - 
 <TEXT> pratyakṣān{ }nānumānaṃ sakalamalaharaṃ svātmasaṃvedanīyam||</TEXT> 6:18
-        <APP>\vd <LEM>pratyakṣā°</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; pratyakṣa° \msNa\oo
-                 <LEM>°vedanīyam</LEM> \msCb\msNa\msNb; °vedanīyaḥ \msCa\msCc\msNc, °vedanīya \Ed</APP>
+        <APP>\vd <LEM>pratyakṣā°</LEM> \mssALL\mssCaCbCc\msNb\msNc\msKOb\Ed; pratyakṣa° \msNa\oo
+                 <LEM>°vedanīyam</LEM> \msCb\msNa\msNb\msKOb; °vedanīyaḥ \msCa\msCc\msNc, °vedanīya \Ed</APP>
         <TR>destroy all impurities perceptibly, not only by inference,
             [since they] are to be experienced by one's own Self.</TR>
 
@@ -7994,21 +8010,21 @@
 
 % cf. Manu 12.3ff
 <TEXT> mānasaṃ tapa ādau tu dvitīyaṃ vācikaṃ tapaḥ|</TEXT>
-        <APP>\va <LEM>°tapa</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °tapam \Ed</APP>
+        <APP>\va <LEM>tapa</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; °tapam \Ed</APP>
         <TR>The first type of penance is mental penance, the second is verbal penance,</TR>
 
 <TEXT> kāyikaṃ ca tṛtīyaṃ tu manovākkarma tatparam|</TEXT>
-        <APP>\vc <LEM!>kāyikaṃ ca tṛtīyaṃ tu</LEM> \mssALL\mssCaCbCc\msNa\msNc\Ed;
+        <APP>\vc <LEM!>kāyikaṃ ca tṛtīyaṃ tu</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb\Ed;
                                                          mānasaṃ tapa ādau tu \msNb\ Ł(eyeskip)$ </APP>
-        <APP>\vd <LEM>manovākkarma</LEM> \msCa\msNc\Ed; manokkarma \msCb, mmanovākarma° \msCc, manovākkāya° \msNa\msNb\oo
-                 <LEM>°param</LEM> \msCc; °paraḥ \msCa\msCb\msNa\msNb\msNc\Ed</APP>
+        <APP>\vd <LEM>manovākkarma</LEM> \msCa\msNc\msKOb\Ed; manokkarma \msCb, mmanovākarma° \msCc, manovākkāya° \msNa\msNb\oo
+                 <LEM>°param</LEM> \msCc\msKOb; °paraḥ \msCa\msCb\msNa\msNb\msNc\Ed</APP>
         <NOTE>The reading Łmanovākkāya$° (\msNa\msNb) in Łpāda$ d is probably secondary, influenced by
               such common expressions as, e.g., Łmanovākkāyakarmabhiḥ$ in \YajnS\ 1.27d.</NOTE>
         <TR>the third is the bodily one, the next one is the one which is [characterised by] 
                  both mental and verbal action.</TR>
 
 <TEXT> kāyikaṃ vācikaṃ caiva tapo miśraka pañcamam||</TEXT> 6:19
-        <APP>\ve <LEM>kāyikaṃ</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; kāyika \msNa</APP>
+        <APP>\ve <LEM>kāyikaṃ</LEM> \mssALL\mssCaCbCc\msNb\msNc\Ed; kāyika \msNa\msKOb</APP>
         <TR>The fifth type of penance is a mixture of the bodily and the verbal ones.</TR>
         <NOTE>Note the \stemform\ Łmiśraka$ in Łpāda$ f metri causa.</NOTE>
 
@@ -8016,14 +8032,14 @@
 
 % saumya° ?
 <TEXT> manaḥsaumyaṃ prasādaś{ }ca ātmanigraham{ }eva ca|</TEXT>
-        <APP>\va <LEM>°saumyaṃ</LEM> \msNc; °saumya° \msCa\msCb\msNa\msNb\Ed, °saum<UNCL>ya</UNCL>° \msCc\ \toplost\oo 
-                 <LEM>prasādaś{ }ca</LEM> \msCa\msCc\msNa\msNc; prasādaṃ ca \msCb\Ed, pradānaś{ }ca \msNb</APP>
+        <APP>\va <LEM>°saumyaṃ</LEM> \msNc; °saumya° \msCa\msCb\msNa\msNb\msKOb\Ed, °saum<UNCL>ya</UNCL>° \msCc\ \toplost\oo 
+                 <LEM>prasādaś{ }ca</LEM> \msCa\msCc\msNa\msNc\msKOb; prasādaṃ ca \msCb\Ed, pradānaś{ }ca \msNb</APP>
         <TR>Gentleness of the mind, calmness, self-control,</TR>
 
 <TEXT> maunaṃ bhāvaviśuddhiś{ }ca pañcaitat{ }tapa mānasam||</TEXT> 6:20
-        <APP>\vc <LEM>maunaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; mauna\lk  \Ed\oo
-                 <LEM>°śuddhiś{ }ca</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °śuddhiṃ ca \msCc\Ed</APP>
-        <APP>\vd <LEM>pañcaitat</LEM> \msCa\msNb\msNc; pañcaite \msCb\msNa, pañcetat \msCc, pañcaitan \Ed</APP>
+        <APP>\vc <LEM>maunaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; mauna\lk  \Ed\oo
+                 <LEM>°śuddhiś{ }ca</LEM> \msCa\msCb\msNa\msNb\msNc; °śuddhiṃ ca \msCc\msKOb\Ed</APP>
+        <APP>\vd <LEM>pañcaitat</LEM> \msCa\msNb\msNc\msKOb; pañcaite \msCb\msNa, pañcetat \msCc, pañcaitan \Ed</APP>
         <PARAL>\vo Ł\similar\ \MBH\ 6.39.16 (\BHG\ 17.16):$
                 manaḥprasādaḥ saumyatvaṃ maunam{ }ātmavinigrahaḥ|
                 bhāvasaṃśuddhir{ }ity{ }etat{ }tapo mānasam{ }ucyate||</PARAL>
@@ -8043,8 +8059,8 @@
         <TR>Verbal penance is taught as speech that causes no anxiety, which is kind, true and useful,</TR>
 
 <TEXT> svādhyāyābhyasanaṃ caiva vācikaṃ tapa ucyate||</TEXT> 6:21
-        <APP>\vc <LEM>°bhyasanaṃ caiva</LEM> \mssALL\msCb\msCc\msNa\msNc\Ed; °bhyasana\lk\lk\ \msCa,
-                                                                             °bhyasa<UNCL>naṃ</UNCL> caiva \msNb</APP>
+        <APP>\vc <LEM>°bhyasanaṃ caiva</LEM> \msCb\msCc\msNa\msNc\Ed; °bhyasana\lk\lk\ \msCa, °bhyasa<UNCL>naṃ</UNCL> caiva \msNb,
+                                                                                        °bhyasana \msKOb</APP>
         <PARAL>\vcd Ł\similar\ \MBH\ 6.39.15cd (\BHG\ 17.15):$
                                  anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat|
                                  svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate||</PARAL>
@@ -8057,12 +8073,12 @@
         
 
 <TEXT> ārjavaṃ ca ahiṃsā ca brahmacaryaṃ surārcanam|</TEXT>
-        <APP>\va <LEM!>ārjavaṃ ca ahiṃsā ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; ārjavatvam{ }ahiṃsāś{ }ca \Ed</APP>
-        <APP>\vb <LEM>°caryaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; °carya \msCc\Ed</APP>
+        <APP>\va <LEM!>ārjavaṃ ca ahiṃsā ca</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; ārjavatvam{ }ahiṃsāś{ }ca \Ed</APP>
+        <APP>\vb <LEM>°caryaṃ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb; °carya \msCc\Ed</APP>
         <TR>Bodily penance is taught as follows:</TR>
 
 <TEXT> śaucaṃ pañcamam{ }ity{ }etat{ }kāyikaṃ tapa ucyate||</TEXT> 6:22
-        <APP>\vc <LEM>śaucaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; śauca \Ed</APP>
+        <APP>\vc <LEM>śaucaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; śauca \Ed</APP>
         <PARAL>\vo Ł\compare\ \MBH\ 6.39.14 (\BHG\ 17.14):$
                          devadvijaguruprājñapūjanaṃ śaucam{ }ārjavam|
                          brahmacaryam{ }ahiṃsā ca śārīraṃ tapa ucyate||</PARAL>
@@ -8071,16 +8087,16 @@
  
 %folioinfo \msNb\ 52.jpg lower 
 <TEXT> iṣṭaṃ kalyāṇabhāvaṃ ca dhanyaṃ pathyaṃ hitaṃ vadet|</TEXT>
-        <APP>\va <LEM>iṣṭaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\Ed; iṣṭa \msCc\msNb\oo
-                 <LEM>°bhāvaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °bhāvaś \Ed</APP>
-        <APP>\vb <LEM>pathyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; satyaṃ \Ed</APP>
+        <APP>\va <LEM>iṣṭaṃ</LEM> \mssALL\msCa\msCb\msNa\msNc\msKOb\Ed; iṣṭa \msCc\msNb\oo
+                 <LEM>°bhāvaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; °bhāvaś \Ed</APP>
+        <APP>\vb <LEM>pathyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; satyaṃ \Ed</APP>
         <TR>[Penance] which is a mixture of the mental [and the verbal] is
                  taught by the great sages to be these five:</TR>
 
 <TEXT> manomiśraka pañcaitat{ }tapa uktaṃ maharṣibhiḥ||</TEXT> 6:23
-        <APP>\vc <LEM>mano°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; mana° \Ed\oo
-                 <LEM>pañcaitat</LEM> \mssALL\mssCaCbCc\msNa\msNb; pañcetat \msNc, pañcaitān \Ed</APP>
-        <APP>\vd <LEM!>tapa uktaṃ maharṣibhiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; tapam{ }uktaṃ mahirṣibhiḥ \Ed</APP>
+        <APP>\vc <LEM>mano°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; mana° \Ed\oo
+                 <LEM>pañcaitat</LEM> \mssALL\mssCaCbCc\msNa\msNb\msKOb; pañcetat \msNc, pañcaitān \Ed</APP>
+        <APP>\vd <LEM!>tapa uktaṃ maharṣibhiḥ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; tapam{ }uktaṃ mahirṣibhiḥ \Ed</APP>
         <NOTE>Note the use of the singular (Łetat$) next to a number, and the \stemform\
               noun in Łpāda$ c.</NOTE>
         <TR>he should speak [about things that are] agreeable, of a noble character, virtuous, 
@@ -8090,8 +8106,8 @@
 %index_grammar: singular after numbers
 
 <TEXT> svasti maṅgalam{ }āśīrbhir{ }atithigurupūjanam|</TEXT>
-        <APP>\va <LEM>°śīrbhi°</LEM> \msCa\Ed; °śībhi° \msCb\msCc\msNa\msNb\msNc</APP>
-        <APP>\vb <LEM>°tithi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °tithiṃ \Ed</APP>
+        <APP>\va <LEM>°śīrbhi°</LEM> \msCa\Ed; °śībhi° \msCb\msCc\msNa\msNb\msNc\msKOb</APP>
+        <APP>\vb <LEM>°tithi°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; °tithiṃ \Ed</APP>
         <PARAL>\vab Ł\compare\ \SDHS\ 11.79:$
                 namaskārābhivādeṣu svastimaṅgalavācakaiḥ|
                 śivaṃ bhavatu sarvatra prabrūyāt{ }sarvakarmasu||</PARAL>
@@ -8102,13 +8118,13 @@
 
 %folioinfo \Ed\ p.601
 <TEXT> kāyamiśraka pañcaitat{ }tapa uktaṃ mahātmabhiḥ||</TEXT> 6:24
-        <APP>\vc <LEM>°miśraka</LEM> \mssALL\msCc\msNa\msNb\msNc\Ed; °\lk\lk ka \msCa, °mityaśraka \msCb\oo
-                 <LEM>pañcaitat</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; pañcaitan \Ed</APP>
-        <APP>\vd <LEM>tapa uktaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; tapam{ }uktaṃ \Ed</APP>
+        <APP>\vc <LEM>°miśraka</LEM> \mssALL\msCc\msNa\msNb\msNc\msKOb\Ed; °\lk\lk ka \msCa, °mityaśraka \msCb\oo
+                 <LEM>pañcaitat</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; pañcaitan \Ed</APP>
+        <APP>\vd <LEM>tapa uktaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; tapam{ }uktaṃ \Ed</APP>
         <TR>benediction, greetings, blessings, and the worship of the guest and the guru.</TR>
 
 <TEXT> maṇḍūkayogī hemante grīṣme pañcatapās{ }tathā|</TEXT>
-        <APP>\vb <LEM>grīṣme</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; gṛṣme \Ed</APP>
+        <APP>\vb <LEM>grīṣme</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; gṛṣme \Ed</APP>
         <PARAL>\vab Ł\similar\ \MBH\ Suppl. 15.801:$
                                 maṇḍūkaśāyī hemante grīṣme pañcatapā bhavet
                     Ł\similar\ \UMS\ 6.26ab:$maṇḍūkayogo hemante grīṣme pañcatapās{ }tathā;
@@ -8138,23 +8154,23 @@
 %purana/mahAbhAratam/kumbhakonam/13/010.md:ma.n.duuka"saayii ca naro labhate cepsitaa.m gatim ॥  kk-13-01-010-011c  
 
 <TEXT> abhrāvakāśo varṣāsu tapaḥsādhanam{ }ucyate||</TEXT> 6:25
-        <APP>\vc <LEM>°vakāśo</LEM> \eme; °vakāśe \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
-        <APP>\vd <LEM>tapa°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\Ed; tapa \msCc\oo
-                 <LEM>sādhanam{ }u°</LEM> \msCa\msNa\msNc\Ed; sādhana u° \msCb\msCc\msNb</APP>
+        <APP>\vc <LEM>°vakāśo</LEM> \eme; °vakāśe \mssCaCbCc\msNa\msNb\msNc\msKOb\Ed</APP>
+        <APP>\vd <LEM>tapa°</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb\Ed; tapa \msCc\oo
+                 <LEM>°sādhanam{ }u°</LEM> \msCa\msNa\msNc\msKOb\Ed; °sādhana u° \msCb\msCc\msNb</APP>
         <TR>or having the clouds [i.e., the open sky] for shelter in the rainy season:
                          these are called accomplishments of penance.</TR>
 
 <TEXT> svamāṃsoddhṛtya dānaṃ ca hastapādaśiras{ }tathā|</TEXT>
-        <APP>\va <LEM>dānaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc; <UNCL>dāna</UNCL> \msNb\ \toplost, dānaś \Ed</APP>
+        <APP>\va <LEM>dānaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNc\msKOb; <UNCL>dāna</UNCL> \msNb\ \toplost, dānaś \Ed</APP>
         <NOTE>Note the \stemform\ Łsvamāṃsa$ in Łpāda$ a for the accusative.</NOTE>
         <TR>Carving out his own flesh as a gift, or 
                 [offering his own] hand, feet and head,</TR>
 
 %index_grammar: stem form
 
-<TEXT> puṣpam{ }utpādya dānaṃ{ }ca sarve te tapasādhanāḥ||</TEXT> 6:26
-        <APP>\vc <LEM>dānaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; dānaś \Ed</APP>
-        <APP>\vd <LEM>tapa°</LEM> \Ed; tapaḥ \mssCaCbCc\msNa\msNb\msNc\ \unmetr</APP>
+<TEXT> puṣpam{ }utpādya dānaṃ ca sarve te tapasādhanāḥ||</TEXT> 6:26
+        <APP>\vc <LEM>dānaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; dānaś \Ed</APP>
+        <APP>\vd <LEM>tapa°</LEM> \Ed; tapaḥ \mssCaCbCc\msNa\msNb\msNc\msKOb\ \unmetr</APP>
         <NOTE>The translation of Łpāda$ c is tentative, but Łpuṣpa$ as `blood' does 
               occur in tantric texts (see, e.g., \SiddhYogMata\ 16.49). \VSS\ 17.37--38 teaches
               blood gifting:
@@ -8173,18 +8189,20 @@
         <TR>or drawing [his own] blood (Łpuṣpa$) as gifting: all these are accomplishments of penance,</TR>
 
 <TEXT> kṛcchrātikṛcchraṃ naktaṃ ca taptakṛcchram{ }ayācitam|</TEXT>
-        <APP>\va <LEM>kṛcchrātikṛcchraṃ</LEM> \msCa\msCb\msNa\Ed;
+        <APP>\va <LEM>kṛcchrātikṛcchraṃ</LEM> \msCa\msCb\msNa\msKOb\Ed;
                                          kṛcchrādikṛcchra \msCc, kṛcchrātikṛcchra \msNb, kṛcchātikṛcchaṃ \msNc</APP>
-        <APP>\vb <LEM>°yācitam</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °yācitaḥ \Ed</APP>
+        <APP>\vb <LEM>tapta°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\Ed; tapa° \msKOb\oo
+                 <LEM>°yācitam</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; °yācitaḥ \Ed</APP>
         <NOTE>ŁPāda$ a is a Łma-vipulā$s.</NOTE>
         <TR>[as also] the `painful penance' and the `extremely painful one', [eating only] at night,
                  the `hot and painful' and [the one in which only food obtained] without
                  solicitation [can be eaten],</TR>
 
+%folioinfo \msKOb\ 22.jpg
 <TEXT> cāndrāyaṇaṃ parākaṃ ca tapaḥ sāṃtapanādayaḥ||</TEXT> 6:27
-        <APP>\vc <LEM>cāndrāyaṇaṃ parākaṃ</LEM> \msCa\msCc\msNb\msNc; cāndrāyanaṃ parākaṃ \msCb, 
+        <APP>\vc <LEM>cāndrāyaṇaṃ parākaṃ</LEM> \msCa\msCc\msNb\msNc\msKOb; cāndrāyanaṃ parākaṃ \msCb, 
                                                         candrāyaṇaṃ parākaṃ \msNa, cāndrāyaṇavarākaś \Ed</APP>
-        <APP>\vd <LEM!>tapaḥ sāṃtapanādayaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc; tapasāntapanādayaḥ \msCc\Ed</APP>
+        <APP>\vd <LEM!>tapaḥ sāṃtapanādayaḥ</LEM> \mssALL\msCa\msCb\msNa\msNb\msNc\msKOb; tapasāntapanādayaḥ \msCc\Ed</APP>
         <NOTE>For short descriptions and the loci classici of these penances, see, e.g.,
                  <citep>KaneHistory</citep><pnum>v. 4, 130--152</pnum>.
               For Łnakta$/Łnaktānna$, see \VSS\ 8.22 below and, e.g., 
@@ -8198,8 +8216,9 @@
 %                        sumanasā?
 %       - - -   . .  -  . -  . . . -   -  - . -   -   . -
 <TEXT> yenedaṃ tapa tapyate sumanasā saṃsāraduḥkhacchidam</TEXT>
-        <APP>\va <LEM>tapa ta°</LEM> \Ed; tapas{ }ta° \mssCaCbCc\msNa\msNb\msNc\ \unmetr\oo
-                 <LEM>°manasā</LEM> \eme; °manasaḥ \mssCaCbCc\msNa\msNb\msNc\Ed</APP>
+        <APP>\va <LEM>tapa ta°</LEM> \Ed; tapas{ }ta° \mssCaCbCc\msNa\msNb\msNc\msKOb\ \unmetr\oo
+                 <LEM>°manasā</LEM> \eme; °manasaḥ \mssCaCbCc\msNa\msNb\msNc\msKOb\Ed\oo
+                 <LEM>°duḥkha°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\Ed; °duḥkhaṃ \msKOb</APP>
         <NOTE>Metre: Łśārdūlavikrīḍita$. Note my emendation in Łpāda$ a (Łsumanasā$ from Łsumanasaḥ$) and that
               in order to restore the metre, I accepted \Ed's \stemform\ Łtapa$.</NOTE>
         <TR>He who performs with a well-disposed mind this penance that puts
@@ -8209,22 +8228,22 @@
 
 %      - - - .  . -  .  -  . . . -      -   -  . -     -    . -
 <TEXT> āśāpāśa vimucya nirmalamatis{ }tyaktvā jaghanyaṃ phalam|</TEXT>
-        <APP>\vb <LEM>nirmalamati°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; nirmalarmati° \msCb\oo
-                 <LEM>jaghanyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; jagat{ }yaṃ \Ed</APP>
+        <APP>\vb <LEM>nirmalamati°</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msKOb\Ed; nirmalarmati° \msCb\oo
+                 <LEM>jaghanyaṃ</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; jagat{ }yaṃ \Ed</APP>
         <NOTE>Note the \stemform\ °Łpāśa$ in Łpāda$ b metri causa.</NOTE>
         <TR>abandoning the trap of hope, with a spotless mind, giving up the lowest rewards</TR>
 
 %index_grammar: stem form metri causa
 
 <TEXT> svargākāṅkṣyanṛpatvabhogaviṣayaṃ sarvāntikaṃ tatphalaṃ</TEXT>
-        <APP>\vc <LEM>°kāṅkṣya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc; °kāṃkṣa° \Ed\oo
-                 <LEM>sarvāntikaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\Ed; sarvārttikaṃ \msCb</APP>
+        <APP>\vc <LEM>°kāṅkṣya°</LEM> \mssALL\mssCaCbCc\msNa\msNb\msNc\msKOb; °kāṃkṣa° \Ed\oo
+                 <LEM>sarvāntikaṃ</LEM> \mssALL\msCa\msCc\msNa\msNb\msNc\msKOb\Ed; sarvārttikaṃ \msCb</APP>
         <TR>[such as] wishing for heaven and being a king and having enjoyments for the senses,
                that man will experience the ultimate (Łsarvāntika$) reward that</TR>
 
 <TEXT> jantuḥ śāśvatajanmamṛtyubhavane tanniṣṭhasādhyaṃ vahet||</TEXT> 6:28
-        <APP>\vd <LEM>°bhavane</LEM> \mssALL\mssCaCbCc\msNa\msNb\Ed; °bhavene \msNc\oo
-                 <LEM>°sādhyaṃ vahet</LEM> \msCc\msNa\msNb\msNc; °<UNCL>sādhyam</UNCL>\lk\lk\ \msCa, 
+        <APP>\vd <LEM>°bhavane</LEM> \mssALL\mssCaCbCc\msNa\msNb\msKOb\Ed; °bhavene \msNc\oo
+                 <LEM>°sādhyaṃ vahet</LEM> \msCc\msNa\msNb\msNc\msKOb; °<UNCL>sādhyam</UNCL>\lk\lk\ \msCa, 
                                                   °sādhya vahet \msCb, °sādhyaṃ vadet \Ed</APP>
         <TR>in this home of eternal births and deaths accomplishes their cessation.</TR>
 
@@ -8234,6 +8253,8 @@
 % sic in \mssCaCbCc\msNa\msNb\msNc
 %END OF CHAPTER 6
 
+%lacuna_start: msKOb
+% just stopped collating
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
