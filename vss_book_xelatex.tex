@@ -16,7 +16,19 @@
 %%%%%%%%%%%%%%%%%%%%%%
 %%%% LOAD MACROS %%%%%
 %%%%%%%%%%%%%%%%%%%%%%
-\input{vssbook_macros}
+
+\newif\iftranslit
+% Activate or deactivate:
+%\translittrue   % set to True
+ \translitfalse % set to False
+
+% Conditional definitions:
+\iftranslit
+  \input{vssbook_macros_dharmatranslit}
+\else
+  \input{vssbook_macros}
+\fi
+
 
 \frenchspacing
 \usepackage[cam, center,cross,axes,color=blue]{crop}
@@ -93,9 +105,11 @@
 \vfill
 \pagebreak
 
-\blankpage
-
+\input{06editorial_conventions}
+\vfill
 \pagebreak
+
+\blankpage
 % set page nember also in the edition's tex source file
 %\setcounter{page}{500} % set it in the edition file (.tex, see path below)
 
@@ -207,9 +221,9 @@
 \lk\  & A single \skt{akṣara} is illegible in the manuscript.\\
 %\dag{} \ldots{} \dag & Text placed between cruxes is beyond repair.\\
 % \gap\ & A gap left in the manuscript by the scribe.\\    % not in vol 1
+(\thinspace) & Parentheses enclose syllables that are poorly legible.\\
 {\devanagarifont ॰} & Abbreviation sign indicating that the reading is part of\\
                             &a longer sequence of syllables.\\
-(\thinspace) & Parentheses enclose syllables that are poorly legible.\\
 \mssALL & Reading in all our sources, with only one or two sources\\
                             &having a different reading.\\
 \mssCaCbCc & Reading in all three of our Cambridge manuscripts.\\

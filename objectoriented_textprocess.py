@@ -28,6 +28,17 @@ pada = ''
 anustubhPadas = {-1: 'uvaca', 0: 'ab', 1: 'cd', 2: 'ef'}
 nonanustubhPadas = {-1: 'uvaca', 0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f'}
 
+dharmaTransliteration = True
+
+def dharma_translit(line):
+    # Dharma transliteration tricks
+    line = re.sub("ṃ", "\\\\.m", line)
+    line = re.sub("ṛ", "\\\\textsubring{r}", line)
+    line = re.sub("ṝ", "\\\\textsubring{\\\\=r}", line)
+    line = re.sub("ḷ", "\\\\textsubring{l}", line)
+    return line
+
+
 subdict ={'\\\\msNC45': '\\\\msNCfortyfive',
               '\\\\msNC94': '\\\\msNCninetyfour',
               '\\\\msNK12':  '\\\\msNKtwelve',
@@ -409,7 +420,6 @@ class NoteLine(object):
         plaintext = re.sub('\\\\rightarrow', '$\\\\rightarrow$', plaintext)
         plaintext = re.sub('\\\\leftarrow', '$\\\\leftarrow$', plaintext)
         plaintext = re.sub(' \|', '\\\\thinspace |', plaintext)
-
         self.plaintext = plaintext
         self.printit = onFlag
 
@@ -594,6 +604,8 @@ def txt_and_app(mainText, apparatus):
 '''
 
 for line in openfile:
+    if dharmaTransliteration == True:
+        line = dharma_translit(line)
     if '<START/>' in line:
         onFlag = True
         hemistich = -1

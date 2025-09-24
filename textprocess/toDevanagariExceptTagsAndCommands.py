@@ -1,7 +1,7 @@
 import re
 from textprocess import devanagari_characters
 
-stoppers = [" ", "°", "<", "\\", "("]
+stoppers = [" ", "\n", "°", "<", "\\", "("]
 
 tagFlagOn = False
 commandFlagOn = False
@@ -37,8 +37,6 @@ def main(line):
         dic, vowels, consonants = devanagari_characters.newar_characters()
 
     def preprocessing(inputline,vowels,consonants):
-            # print(inputword)
-            # to make double letter one
             # trick : "|" becomes " |" to handle final virama
             preprocessingChars = [('ai', '\uE019'), ('au', '\uE01B'), ('ā', '\uE003'), ('i', '\uE005'), ('ī', '\uE007'),  ('u', '\uE009'),
                                   ('ū', '\uE00B'), ('ṛ', '\uE00D'), ('ṝ', '\uE00F'), ('ḷ', '\uE011'), ('ḹ', '\uE013'),
@@ -47,8 +45,10 @@ def main(line):
                                   ('ṭh', '\uE029'), ('ḍh', '\uE02B'), ('th', '\uE02D'), ('dh', '\uE02F'),
                                   ('ph', '\uE031'), ('bh', '\uE033'),
                                   ('\|', ' |'), ('\| \|', '||'), (",", " ,"), ('a', '\uE001')]
+
             # to handle final virama if there is no danda
             inputline = inputline + "  "
+
             # turning double characters such as 'ai' and 'gh' into single special characters (plus all vowels to handle initial vowels):
             for p in preprocessingChars:
                     inputline = re.sub(p[0], p[1], inputline)
@@ -74,8 +74,6 @@ def main(line):
 
             return inputline
 
-    # first preprocess
-    #line = line.lower()
     # turning some Roman characters back from the Dharma compliant forms for Devanāgarī conversion:
     line = re.sub("ṁ", "ṃ", line)
     # first ṝ, then ṛ, to avoid a bug
@@ -87,6 +85,7 @@ def main(line):
     line = re.sub("</crux>", "†", line)
     line = re.sub('\\\\csi', 'ि', line)    
     # 'ि
+
     line = preprocessing(line,vowels,consonants)
     conj = False
     lineout = ''
