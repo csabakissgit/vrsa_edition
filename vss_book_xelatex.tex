@@ -43,6 +43,24 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{00vss_frontmatter.tex}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACKNOWLEDGEMENTS and PREFACE %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\fancyhead[CO]{}
+\fancyhead[CE]{}
+\fancyhead[RO]{}
+\fancyhead[RE]{}
+\fancyhead[LO]{}
+\fancyhead[LE]{}
+
+\pagenumbering{roman}
+\input{01vss_acknowledgements.tex}
+
+\input{02vss_preface.tex}
+%\input{testpage.tex}
+
+
 %%%%%%%%%%%%%%%%%%%%
 % TABLE OF CONTENT %
 %%%%%%%%%%%%%%%%%%%%
@@ -70,22 +88,12 @@
 
 \pagebreak
 \blankpage
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% ACKNOWLEDGEMENTS and PREFACE %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\pagenumbering{arabic}
-\input{01vss_acknowledgements.tex}
-
-\input{02vss_preface.tex}
-%\input{testpage.tex}
-
-
 
 %%%%%%%%%%%%%%%%
 % INTRODUCTION %
 %%%%%%%%%%%%%%%%
 
+\pagenumbering{arabic}
 \input{03vss_intro}
 
 

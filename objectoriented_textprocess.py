@@ -28,7 +28,6 @@ pada = ''
 anustubhPadas = {-1: 'uvaca', 0: 'ab', 1: 'cd', 2: 'ef'}
 nonanustubhPadas = {-1: 'uvaca', 0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f'}
 
-dharmaTransliteration = True
 
 def dharma_translit(line):
     # Dharma transliteration tricks
@@ -37,7 +36,6 @@ def dharma_translit(line):
     line = re.sub("ṝ", "\\\\textsubring{\\\\=r}", line)
     line = re.sub("ḷ", "\\\\textsubring{l}", line)
     return line
-
 
 subdict ={'\\\\msNC45': '\\\\msNCfortyfive',
               '\\\\msNC94': '\\\\msNCninetyfour',
@@ -322,9 +320,9 @@ class TrLine(object):
         plaintext = re.sub('##-', '}', plaintext)
         plaintext = re.sub('-#', '\\\\enx{', plaintext)
         plaintext = re.sub('#-', '}', plaintext)
-        plaintext = re.sub('<tothepowerof>', '\\\\raise .35em\\\\hbox{\\\\tiny ', plaintext)
-        #plaintext = re.sub('<tothepowerof>', '$^{\\\\englishfont\\\\tiny ', plaintext)
-        plaintext = re.sub('</tothepowerof>', '\\\\thinspace}', plaintext)
+        #plaintext = re.sub('<tothepowerof>', '\\\\raise .5em\\\\hbox{\\\\footnotesize ', plaintext)
+        plaintext = re.sub('<tothepowerof>', '$^{\\\\englishfont\\\\tiny ', plaintext)
+        plaintext = re.sub('</tothepowerof>', '\\\\thinspace}$', plaintext)
         self.plaintext = plaintext
         self.printit = onFlag
 
@@ -420,6 +418,7 @@ class NoteLine(object):
         plaintext = re.sub('\\\\rightarrow', '$\\\\rightarrow$', plaintext)
         plaintext = re.sub('\\\\leftarrow', '$\\\\leftarrow$', plaintext)
         plaintext = re.sub(' \|', '\\\\thinspace |', plaintext)
+
         self.plaintext = plaintext
         self.printit = onFlag
 
@@ -473,6 +472,7 @@ def texrm_tr_notes(mainText, apparatus, translation, notes):
             text = re.sub('\[', '{\\\\rm [}', text)
             text = re.sub(']', '{\\\\rm ]}', text)
             text = re.sub('.*<CHAPTER>', '\n\\\\chptr{', text)
+            #text = dharma_translit(text)
             #multiple chapters (VSS)
             text = re.sub('</CHAPTER>.*', '}\n\\\\fancyhead[CO]{{\\\\footnotesize\\\\textit{Translation of chapter ' + str(chapterNum) + '}}}', text)
             #text = re.sub('</CHAPTER>.*', '}\n\\\\addcontentsline{toc}{section}{Chapter '+str(chapterNum)+'}\n\\\\fancyhead[CO]{{\\\\footnotesize\\\\textit{Translation of chapter ' + str(chapterNum) + '}}}', text)
@@ -488,6 +488,7 @@ def texrm_tr_notes(mainText, apparatus, translation, notes):
             text = re.sub('</SUBSUBCHAPTER>.*', '}', text)
             text = re.sub('.*<TRSUBSUBCHAPTER>', '\\\\trsubsubchptr{', text)
             text = re.sub('</TRSUBSUBCHAPTER>.*', '}', text)
+            text = re.sub('<TRPAGEBREAK/>.*', '\n\\\\vfill\\\\pagebreak\n', text)
             text = re.sub('\|', ' |', text)
             text = re.sub('\| \|', '', text)
             text = re.sub('\|\*', '|', text)
@@ -583,8 +584,9 @@ def texrm_tr_notes(mainText, apparatus, translation, notes):
                 output = re.sub('(\([0-9]*\))', '{\\\\rm \\1}', output)
                 output = re.sub('\(', '{\\\\rm (}', output)
                 output = re.sub('\)', '{\\\\rm )}', output)
+                output = re.sub(' }', '}', output)
                 output = re.sub(r' \\blankfootnote', r'\\blankfootnote', output)
-                output = re.sub('PAGEBREAK.*', '}}\n\\\\vfill\\\\pagebreak\n', output)
+                #output = re.sub('PAGEBREAK.*', '}}\n\\\\vfill\\\\pagebreak\n', output)
                 print(output)
                 output = ''
 
@@ -604,8 +606,6 @@ def txt_and_app(mainText, apparatus):
 '''
 
 for line in openfile:
-    if dharmaTransliteration == True:
-        line = dharma_translit(line)
     if '<START/>' in line:
         onFlag = True
         hemistich = -1
@@ -681,7 +681,8 @@ for line in openfile:
         line = re.sub('\$', '}', line)
         mainText.append(aSktVerseLine(line))
     if '<TRPAGEBREAK/>' in line:
-            addLineToNotes("PAGEBREAK")
+        #addLineToNotes("PAGEBREAK")
+        mainText.append(aSktVerseLine(line))
 
 texrm_tr_notes(mainText, apparatus, translation, notes)
 
