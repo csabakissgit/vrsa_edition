@@ -6,6 +6,8 @@ Don't add notes or anything else than one single siglum in the file in a lacuna_
 and add sigla without a backslash
 Checks section between <START/> and <STOP/>')
 TODO: when there is an emendation, order is not checked properly
+NEW: you can add a line in the source file to automatize:
+%appcheck: msA, msB, msC
 """
 
 import re
@@ -103,7 +105,7 @@ def gocheckpadas(app2check, padas, lineNum, problem, anustubhflag):
         for pada in padas:
             if pada in app2check:
                 return problem
-        print('There is some problem with the pāda signs in line', lineNum, padas, anustubhflag, app2check)
+        print('\033[31mThere is some problem with the pāda signs in line\033[0m', lineNum, padas, anustubhflag, app2check)
         return problem+1
     return problem
 
@@ -143,13 +145,12 @@ def app_check(filename):
     if len(sys.argv) > 3:
         mss2check = re.sub(" ", "", sys.argv[3]).split(',') 
     else:
-        mss2check = ['msCa', 'msCb', 'msCc', 'Ed']
+        mss2check = []
     if len(sys.argv) > 4:
         last_line = int(sys.argv[4])
     check_mssALL = True
     if len(sys.argv) > 5 and (sys.argv[4] == 'nomssall' or sys.argv[5] == 'nomssall'):
         check_mssALL = False
-    print("\nChecking the presence of these mss:", mss2check, "\n")
     app2check = ""
     openfile = open(filename, "r")
     tempfl = ""
@@ -167,6 +168,9 @@ def app_check(filename):
     for line in tempfl.split("\n"):
         lineNum += 1
         #print(line, lineNum)
+        if '%appcheck: ' in line:
+            mss2check = re.sub('%appcheck: ', '', line)
+            mss2check = re.sub(' ', '', mss2check).split(',')
         if '%lacuna_start:' in line:
             line = re.sub('%lacuna_start:', '', line)
             lacunae = lacunae + line.strip() 
@@ -268,7 +272,8 @@ def app_check(filename):
         if lineNum == last_line:
             break
 
-    print("\nWe have been checking the presence of these mss:", mss2check)
+    num_of_mss2check = len(mss2check)
+    print("\nWe have been checking the presence of", num_of_mss2check, "witness(es):\n  ", mss2check)
     print("And also the integrity of the apparatus...\n")
     if problem == 0:
         print("\033[32mThere were no problems. CONGRATULATIONS! \n\033[0m")

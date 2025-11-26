@@ -87,7 +87,7 @@
 \pagestyle{fancy}
 
 \renewcommand{\headrulewidth}{0pt}
-\fancyfoot[C]{{\devanagarifont\thepage}}
+\fancyfoot[C]{{\footnotesize\devanagarifont\thepage}}
 
 
 
@@ -491,8 +491,8 @@
 \newcommand{\error}[1]{{\sout{#1}}}
 %\newcommand{\om}{{\englishfont\textit{omitted in}}}
 \newcommand{\om}{{\englishfont om.}}
-%\newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
-\newcommand{\uncl}[1]{(#1)}
+\newcommand{\uncl}[1]{${\wr}$#1${\wr}$}
+%\newcommand{\uncl}[1]{(#1)}
 \newcommand{\cancelled}{{\englishfont(\textit{cancelled})}}
 \newcommand{\isitcancelled}{{\englishfont(\textit{cancelled?})}}
 %REVISE
@@ -511,9 +511,7 @@
 \newcommand{\skt}[1]{\textit{#1}}%}%\index{#1}}%Sanskrit in italics
 \newcommand{\sktindex}[1]{\textit{#1}\index{#1}}%}%\index{#1}}%Sanskrit in italics
 \newcommand{\pskt}[1]{\textit{#1}}%parallels
-\newcommand{\cim}[1]{\textsl{#1}\index{#1}}%Titles in slanted
-\newcommand{\titl}[1]{\textsl{#1}}%Titles in slanted
-\newcommand{\cimnoindex}[1]{\textsl{#1}}%Titles in slanted
+\newcommand{\titleface}[1]{\textit{#1}}%Titles in ...
 %\newcommand{\il}{${\star}$}
 % illegible syllable:
 %\def\langkort{\setbox0=\hbox{{\bf --}}\dimen0=\ht0
