@@ -13,6 +13,22 @@
 %\usepackage[total={12cm,21cm},top=2.8cm, left=4.5cm, headsep=1.1cm, footskip=1.5cm, footnotesep=1cm, xetex]{geometry}
 %\usepackage[textwidth=11cm, height=20cm, includehead, headsep=1.1cm, footnotesep=1cm, xetex, footskip=1.7cm, left=14em]{geometry}
 
+%\pretolerance=4000
+%\tolerance=100
+\hyphenpenalty=4000
+\tolerance=2000
+\overfullrule=10pt
+\uchyph=0
+\clubpenalty=10000
+\widowpenalty=10000
+\emergencystretch=14pt%\emergencystretch=0pt
+
+%\righthyphenmin=4
+%\lefthyphenmin=4
+
+
+%\uchyph=0 % don't hypenate words beginning with capital letter
+
 \usepackage[textwidth=11cm, textheight=18cm, includehead, headsep=1.1cm, footnotesep=.8cm, xetex, footskip=1cm, left=5.2cm]{geometry}
 \usepackage[a4,width=17cm,height=24cm,center,cross,axes,color=blue,cam]{crop}
 
@@ -800,14 +816,17 @@
 \newcommand{\msLacorr}{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle ac}$}
 \newcommand{\msLapcorr}{{\englishfont L$_{\scriptscriptstyle 16}$}$^{\scriptscriptstyle pc}$}
 
-\newcommand{\msKOa}{{\allowbreak\englishfont K$^{{\rm o}}_{\scriptscriptstyle 77}$}}
-\newcommand{\msKOaacorr}{{\allowbreak\englishfont K$^{{\rm o}ac}_{\scriptscriptstyle 77}$}}
-\newcommand{\msKOapcorr}{{\allowbreak\englishfont K$^{{\rm o}pc}_{\scriptscriptstyle 77}$}}
+%\newcommand{\msKOa}{{\allowbreak\englishfont K$^{{\rm o}}_{\scriptscriptstyle 77}$}}
+%\newcommand{\msKOaacorr}{{\allowbreak\englishfont K$^{{\rm o}ac}_{\scriptscriptstyle 77}$}}
+%\newcommand{\msKOapcorr}{{\allowbreak\englishfont K$^{{\rm o}pc}_{\scriptscriptstyle 77}$}}
 
-\newcommand{\msKOb}{{\allowbreak\englishfont K$^{\scriptscriptstyle {\rm o}}_{\scriptscriptstyle 76}$}}
-\newcommand{\msKObacorr}{{\allowbreak\englishfont K$^{\scriptscriptstyle {\rm o}ac}_{\scriptscriptstyle 76}$}}
-\newcommand{\msKObpcorr}{{\allowbreak\englishfont K$^{\scriptscriptstyle {\rm o}pc}_{\scriptscriptstyle 76}$}}
+\newcommand{\msKOa}{{\allowbreak\englishfont K\kern-.2em\raisebox{.25em}{$\scriptscriptstyle\rm o$}$_{\scriptscriptstyle 77}$}}
+\newcommand{\msKOaacorr}{{\allowbreak\englishfont K\kern-.2em\raisebox{.25em}{$\scriptscriptstyle\rm o$}$^{\scriptscriptstyle ac}_{\scriptscriptstyle 77}$}}
+\newcommand{\msKOapcorr}{{\allowbreak\englishfont K\kern-.2em\raisebox{.25em}{$\scriptscriptstyle\rm o$}$^{\scriptscriptstyle pc}_{\scriptscriptstyle 77}$}}
 
+\newcommand{\msKOb}{{\allowbreak\englishfont K\kern-.2em\raisebox{.25em}{$\scriptscriptstyle\rm o$}$_{\scriptscriptstyle 76}$}}
+\newcommand{\msKObacorr}{{\allowbreak\englishfont K\kern-.2em\raisebox{.25em}{$\scriptscriptstyle\rm o$}$^{\scriptscriptstyle ac}_{\scriptscriptstyle 76}$}}
+\newcommand{\msKObpcorr}{{\allowbreak\englishfont K\kern-.2em\raisebox{.25em}{$\scriptscriptstyle\rm o$}$^{\scriptscriptstyle pc}_{\scriptscriptstyle 76}$}}
 
 
 \newcommand\msM{{\englishfont M}}
