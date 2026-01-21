@@ -1,3 +1,15 @@
+%Dharma
+\newcommand{\dharmar}{\textsubring{r}}
+\newcommand{\dharmanusvara}{\.{m}}
+\newcommand{\capitalsonantr}{\kern-.3em{\textsubring{\phantom{R}}\kern-.35em{R}}}
+
+%Traditional
+%\renewcommand{\dharmar}{ṛ}
+%\renewcommand{\dharmanusvara}{ṃ}
+%\renewcommand{\capitalsonantr}{\kern-.3em{\d{R}}}
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% FONT and LANG SETTINGS %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -118,9 +130,11 @@
 %\newcommand{\numemph}[1]{{\color{red}\fbox{#1}}~}
 % rather emphasise all entries, that is the number and pāda sign
 \usepackage{circledsteps}
-\newcommand{\numemph}[1]{{\englishfont\color{black}{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hspace{.5em} }}}
-\newcommand{\numnoemph}[1]{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hskip1em plus.5em minus .5em}
+%\newcommand{\numemph}[1]{{\englishfont\color{black}{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hspace{.5em} }}}
+%\newcommand{\numnoemph}[1]{\CircledText[fill color=lightgray!0,inner color=black, outer color=lightgray]{\thinspace\footnotesize #1}\hskip1em plus.5em minus .5em}
 %\newcommand{\numemph}[1]{\textbf{#1}}\newcommand{\numnoemph}[1]{#1}
+\newcommand{\numnoemph}[1]{{\footnotesize #1}\hskip1em plus.5em minus .5em}
+\newcommand{\numemph}[1]{{\footnotesize #1}\hskip1em plus.5em minus .5em}
 
 % pādas in apparatus: verse no. + pāda sign
 \newcommand{\vo}{\textbf{\englishfont \vs~}}

@@ -17,26 +17,27 @@
 %%%% LOAD MACROS %%%%%
 %%%%%%%%%%%%%%%%%%%%%%
 
-\newif\iftranslit
+%\newif\iftranslit
 % Activate or deactivate:
 %\translittrue   % set to True
- \translitfalse % set to False
+% \translitfalse % set to False
 
 % Conditional definitions:
-\iftranslit
-  \input{vssbook_macros_dharmatranslit}
-\else
-  \input{vssbook_macros}
-\fi
+%\iftranslit
+%  \input{vssbook_macros_dharmatranslit}
+%\else
+\input{vssbook_macros}
+%\fi
 
 
-\frenchspacing
 \usepackage[cam, center,cross,axes,color=blue]{crop}
 
-\makeindex 
 
 \begin{document}
-%\pagenumbering{roman}
+
+%\pagenumbering{gobble}
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%% FRONT MATTER %%%%%%%%%
@@ -54,11 +55,6 @@
 \fancyhead[LO]{}
 \fancyhead[LE]{}
 
-\pagenumbering{roman}
-\input{01vss_acknowledgements.tex}
-
-\input{02vss_preface.tex}
-%\input{testpage.tex}
 
 
 %%%%%%%%%%%%%%%%%%%%
@@ -73,14 +69,12 @@
 
 \renewcommand{\contentsname}{{\hfill
         {\normalfont\Large\englishfont Table of Contents}\hfill}}
-\thispagestyle{empty}
-\pagenumbering{gobble}
 \tableofcontents
 
 \vfill
 \pagebreak
 
-\thispagestyle{empty}
+%\thispagestyle{empty}
 \renewcommand{\listfigurename}{{\hfill
         {\normalfont\Large\englishfont List of Figures}\hfill}}
 \listoffigures
@@ -89,11 +83,18 @@
 \pagebreak
 \blankpage
 
+
+%\setcounter{page}{11}
+
+\input{01vss_acknowledgements.tex}
+
+\input{02vss_preface.tex}
+%\input{testpage.tex}
+
 %%%%%%%%%%%%%%%%
 % INTRODUCTION %
 %%%%%%%%%%%%%%%%
 
-\pagenumbering{arabic}
 \input{03vss_intro}
 
 
@@ -121,36 +122,46 @@
 % set page nember also in the edition's tex source file
 %\setcounter{page}{500} % set it in the edition file (.tex, see path below)
 
+\pagenumbering{arabic}
+\hypersetup{pageanchor=true}
 %\section{The Sanskrit text}
-\myblankchapter{A Critical Edition\\ \vspace{.4em} of\\ \vspace{.4em}Vṛṣasārasaṃgraha 1--12}{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
+\myblankchapter{A Critical Edition\\ \vspace{.4em} of\\ \vspace{.4em}V{\dharmar}ṣasārasa{\dharmanusvara}graha 1--12}{A Critical Edition of V{\dharmar}ṣasārasa{\dharmanusvara}graha 1--12}
 
+\fancyhead[CO]{}
+\fancyhead[CE]{}
+\fancyhead[RO]{}
+\fancyhead[RE]{}
+\fancyhead[LO]{}
+\fancyhead[LE]{}
+%\pagenumbering{empty}
 \pagebreak
 
 \blankpage
-%\addcontentsline{toc}{chapter}{A Critical Edition of Vṛṣasārasaṃgraha 1--12}
+%\addcontentsline{toc}{chapter}{A Critical Edition of V{\dharmar}ṣasārasa{\dharmanusvara}graha 1--12}
 %\addcontentsline{toc}{section}{Sanskrit Text}
-\includepdf[noautoscale, pages=-, addtotoc={1,  section, 1, Adhyāya 1, adhyaya01,
-                                            20, section, 1, Adhyāya 2, adhyaya02,
-                                            27, section, 1, Adhyāya 3, adhyaya03,
-                                            36, section, 1, Adhyāya 4, adhyaya04,
-                                            56, section, 1, Adhyāya 5, adhyaya05,
-                                            62, section, 1, Adhyāya 6, adhyaya06,
-                                            68, section, 1, Adhyāya 7, adhyaya07,
-                                            74, section, 1, Adhyāya 8, adhyaya08,
-                                            84, section, 1, Adhyāya 9, adhyaya09,
-                                            93, section, 1, Adhyāya 10, adhyaya10,
-                                            101, section, 1, Adhyāya 11, adhyaya11,
-                                            113, section, 1, Adhyāya 12, adhyaya12}]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
+% REVISE:
+\includepdf[noautoscale, pages=-, pagecommand={\thispagestyle{empty}}, addtotoc={1,  section, 1, Adhyāya 1, adhyaya01,
+                                            21, section, 1, Adhyāya 2, adhyaya02,
+                                            29, section, 1, Adhyāya 3, adhyaya03,
+                                            39, section, 1, Adhyāya 4, adhyaya04,
+                                            60, section, 1, Adhyāya 5, adhyaya05,
+                                            66, section, 1, Adhyāya 6, adhyaya06,
+                                            72, section, 1, Adhyāya 7, adhyaya07,
+                                            78, section, 1, Adhyāya 8, adhyaya08,
+                                            89, section, 1, Adhyāya 9, adhyaya09,
+                                            99, section, 1, Adhyāya 10, adhyaya10,
+                                            107, section, 1, Adhyāya 11, adhyaya11,
+                                            120, section, 1, Adhyāya 12, adhyaya12}]{/home/csaba/indology/dharma_project/vrsa_edition/vrsasara_ed_devnag_xelatex.pdf}
 
 
 
 
+\blankpage
 %%%%%%%%%%%%%%%
 % TRANSLATION %
 %%%%%%%%%%%%%%%
 
-
-\myblankchapter{An Annotated Translation of\\ \vspace{.4em} Vṛṣasārasaṃgraha 1--12}{An Annotated Translation of Vṛṣasārasaṃgraha 1--12}
+\myblankchapter{An Annotated Translation of\\ \vspace{.4em} V{\dharmar}ṣasārasa{\dharmanusvara}graha 1--12}{An Annotated Translation of V{\dharmar}ṣasārasa{\dharmanusvara}graha 1--12}
 %\addcontentsline{toc}{section}{\Vss\ 1--12}
 
 %FOOTNOTE
@@ -175,7 +186,7 @@
 
 
 
-\fancyhead[CE]{{\footnotesize \textit{Vṛṣasārasaṃgraha}}}
+\fancyhead[CE]{{\footnotesize \textit{V{\dharmar}ṣasārasa{\dharmanusvara}graha}}}
 \fancyhead[CO]{{\footnotesize \textit{Translation of chapter 1}}}
 %%%%\includepdf[pages=-]{/home/csaba/indology/dharma_project/vrsa_edition/vss_translation.pdf}
 
@@ -241,7 +252,7 @@
             &the main text.\\
 $\bullet$ & A bullet separates different lemmas within the same \textit{pāda}.\\
 %$\otimes$ & Ornamental sign written in a manuscript before or after the colophon.\\
-†{\dots}† & cruces embrace a highly corrupted word or passage\\
+†{\dots}† & Cruces embrace a highly corrupted word or passage\\
            &that I have not been able to improve upon.\\
 {}[\dots] & Headings given in [square brackets] in the critical edition\\
             & and the translation have been supplied to clarify the context. \\
@@ -278,7 +289,7 @@ v         &verso\\
 
 \noindent
 For more detail, see pp.~\pageref{editorial}ff; for manuscript sigla, see pp.~\pageref{msssigla} ff.
-Abbreviations for the parallel sources are given in the bibliography.
+Abbrevia\-tions for the parallel sources are given in the bibliography.
 
 \section{Additional signs and abbreviations}
 \begin{table}[h]
@@ -320,9 +331,9 @@ tr. & translated \\
 
 \titleface{Uttarottara}: see \verify
 
-\titleface{Umāmaheśvarasaṃvāda}: see \verify
+\titleface{Umāmaheśvarasa{\dharmanusvara}vāda}: see \verify
 
-\titleface{Ṛgveda-khila}: see \mycite{RgvedaKhila}
+\titleface{{\capitalsonantr}gveda-khila}: see \mycite{RgvedaKhila}
 
 \titleface{Kūrmapurāṇa}: see \mycite{Kurmapurana}
 
@@ -338,25 +349,27 @@ tr. & translated \\
 
 \titleface{Bhagavadgītā}: see \mycite{MahabharataCriticalEd}  \verify
 
-\titleface{Manu/Mānavadharmaśāstra}: see \mycite{Manu1972}
+\titleface{Manu/Mānavadharmaśāstra}: see \mycite{Manu1972} and \mycite{OlivelleManu}
 
 \titleface{Mahābhārata}: see \mycite{MahabharataCriticalEd}
 
-\titleface{Mahāsubhāṣitasaṃgraha}: see \mycite{Mahasubhasitasamgraha}
+\titleface{Mahāsubhāṣitasa{\dharmanusvara}graha}: see \mycite{Mahasubhasitasamgraha}
 
 \titleface{Mātaṅgalīlā}: see \mycite{Matangalila}
 
 \titleface{Yogasūtra}: see \verify
 
-\titleface{Raghuvaṃśa}: see %\mycite{Goodall...}
+\titleface{Raghuva{\dharmanusvara}śa}: see \mycite{Raghupancika1} and  \mycite{Raghupancika2}
 
 \titleface{Rasārṇavasudhākara}: see \mycite{Rasarnavasudhakara}
 
-\titleface{Vāgmatīmāhātmyapraśaṃsā}:
+\titleface{Vāgmatīmāhātmyapraśa{\dharmanusvara}sā} (alias \titleface{Paśupatipurāṇa}):
+                \mycite{NaraharinathaPasupatipurana}, \mycite{RisalPasupatipurana} and 
+                                                \mycite{AdriaensenTirthayatra}
 
-\titleface{Vājasaneyisaṃhitā}: see \mycite{VajasaneyiS}
+\titleface{Vājasaneyisa{\dharmanusvara}hitā}: see \mycite{VajasaneyiS}
 
-\titleface{Viṣṇudharmottara}:
+\titleface{Viṣṇudharmottara}: see \mycite{Visnudharmottarapurana}
 
 \titleface{Viṣṇudharma}: see \mycite{VisnudharmaGrunendahl}
 
@@ -382,6 +395,7 @@ OTHER PURANAS, Śivadharma texts
 
 \bibliography{vssbiblio}
 
+\phantomsection
 \label{index}
 %\renewcommand*{\indexname}{{\normalfont Index}}
 \addcontentsline{toc}{chapter}{\protect{\numberline{}Index}}

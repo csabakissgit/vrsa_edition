@@ -1,3 +1,34 @@
+\frenchspacing
+\makeindex
+
+\pagenumbering{roman}
+
+\usepackage{hyperref}
+\hypersetup{
+  linktocpage=false,
+  colorlinks,
+  linkcolor=blue!50!black,
+  citecolor=red!50!black,
+  urlcolor=orange!80!black
+}
+
+\urlstyle{same}
+\def\UrlBreaks{\do\/\do\-}
+\usepackage{xurl}
+
+\newcommand{\comma}{,}% for bib
+
+%Dharma
+\newcommand{\dharmar}{\textsubring{r}}
+\newcommand{\dharmanusvara}{\.{m}}
+\newcommand{\capitalsonantr}{\kern-.3em{\textsubring{\phantom{R}}\kern-.35em{R}}}
+
+%Traditional
+%\renewcommand{\dharmar}{ṛ}
+%\renewcommand{\dharmanusvara}{ṃ}
+%\renewcommand{\capitalsonantr}{\kern-.3em{\d{R}}}
+
+
 % PACKAGES
 \usepackage{fontspec} % Font selection for XeLaTeX; see fontspec.pdf for documentation
 % LetterSpace=1.2,
@@ -17,11 +48,12 @@
 %\tolerance=100
 \hyphenpenalty=4000
 \tolerance=2000
-\overfullrule=10pt
+\overfullrule=5pt
 \uchyph=0
 \clubpenalty=10000
 \widowpenalty=10000
-\emergencystretch=14pt%\emergencystretch=0pt
+\emergencystretch=14pt
+%\emergencystretch=0pt
 
 %\righthyphenmin=4
 %\lefthyphenmin=4
@@ -36,13 +68,18 @@
 \usepackage{todonotes}
 \usepackage{circledsteps}
 
-\hyphenation{un-matched su-preme re-straint vio-lence quad-ril-lion Yano-yana sa-mu-dra dis-tri-buted}
+\hyphenation{sat-is-fac-tion Sat-is-fac-tion Brah-min manu-script un-matched su-preme re-straint vio-lence quad-ril-lion Yano-yana sa-mu-dra dis-tri-buted}
 
 \usepackage{tikz}
 \usepackage{color}
 \usetikzlibrary{positioning}% To get more advanced positioning options
 \usetikzlibrary{decorations.text}
 
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\thetable}{\arabic{table}}
+\makeatletter
+\renewcommand{\fnum@figure}{\textup{Fig. \thefigure}\upshape}
+\makeatother
 
 \parskip1pt
 \parindent1.5em
@@ -60,9 +97,10 @@
 \newcommand \mydotfill {\leavevmode \cleaders \hb@xt@ .8em{\hss .\hss }\hfill \kern \z@}
 \makeatother
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\dots}{{\hbox{\kern.1em.\kern.1em.\kern.1em.\kern.1em}}}
 
-
-\usepackage[font={small,it}]{caption}
+\usepackage[font={small}]{caption}
+%\usepackage[font={small,it}]{caption}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % bibliography
@@ -89,7 +127,7 @@
 \usepackage{enumitem}
 \makeatletter
 \renewenvironment{thebibliography}[1]
-     {\section{Secondary Sources and Editions\bigskip}%
+     {\phantomsection\section{Secondary Sources and Editions\bigskip}%
      \fancyhead[CE]{}
      \fancyhead[CO]{}
      \@mkboth{header!}{header!}%
@@ -121,7 +159,19 @@
 \newcommand{\csindexx}[2]{#1\index{#2@#1}}
 \newcommand{\csindexxx}[3]{#1\index{#2@#3}}
 \newcommand{\cskt}[2]{\skt{#1}\index{#2@\skt{#1}}}
-\newcommand{\sktx}[1]{\skt{#1}\index{#1@\skt{#1}}}
+%\newcommand{\sktx}[1]{\skt{#1}\index{#1@\skt{#1}}}
+
+% Indexing stuff from SDhS10
+% always with ..@.. to use it with sort_tex_index.py
+\newcommand{\myindex}{\index}
+\newcommand{\myidx}[1]{\myindex{#1@#1}}
+\newcommand{\mysktidx}[1]{\myindex{#1@\skt{#1}}}
+\newcommand{\myidxsub}[2]{\myindex{#1@#1!#2}}
+\newcommand{\mysktidxsub}[2]{\myindex{#1@\skt{#1}!#2}}
+
+\newcommand{\sktx}[1]{\skt{#1}\myindex{#1@\skt{#1}}}
+\newcommand{\enx}[1]{#1\myindex{#1@#1}}
+
 
 \renewenvironment{theindex}
                {%\if@twocolumn
@@ -139,7 +189,7 @@
                 \bigskip
                 \bigskip
                 \bigskip
-
+\phantomsection
 {\englishfont\Large\hfill\textit{General Index}\hfill}
                 \bigskip
                 \bigskip
@@ -157,7 +207,7 @@
 % But I am not certain if that was what Dominic and Haru wanted.
 %                \markboth{\MakeUppercase\indexname}%
 %                        {\MakeUppercase\indexname}%
-              %  \markboth{Niśvāsatattvasaṃhitā}{Index to Introduction and Notes}
+              %  \markboth{Niśvāsatattvasa{\dharmanusvara}hitā}{Index to Introduction and Notes}
 %               \thispagestyle{plain}\parindent\z@
                 \thispagestyle{plain}\parindent0pt
 %               \parskip\z@ \@plus .3\p@\relax
@@ -271,13 +321,30 @@
   }{0em}{}
   
 %\newcommand{\mychapter}[1]{\pagebreak\thispagestyle{empty}\ \vskip10em\begin{center}{\huge#1}\label{#2}\end{center}\vfill\pagebreak}
-\newcommand{\mychapter}[1]{\chapter*{#1}%
-        \addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#1}}{}{}}}
-\newcommand{\myblankchapter}[2]{\thispagestyle{empty}\ \vspace{10em}\\ \begin{center}{\Large#1}\end{center}\vfill%
-        \addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#2}}{}{}}}
+
+%\newcommand{\mychapter}[1]{\chapter*{#1}%
+%        \phantomsection%
+%          \addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#1}}{}{}}}
+
+\newcommand{\mychapter}[1]{%
+ \cleardoublepage
+ \chapter*{#1}%
+  \phantomsection%
+  \addcontentsline{toc}{chapter}{\englishfont #1}%
+}
+\newcommand{\myblankchapter}[2]{%
+\thispagestyle{empty}%\ \vspace{10em}\\ \begin{center}{\Large#1}\end{center}\vfill%
+ \cleardoublepage
+ \chapter*{#1}%
+  \phantomsection%
+  \addcontentsline{toc}{chapter}{\englishfont #2}%
+}
+
+%\newcommand{\myblankchapter}[2]{\thispagestyle{empty}\ \vspace{10em}\\ \begin{center}{\Large#1}\end{center}\vfill%
+ %      \addtocontents{toc}{\protect\contentsline{chapter}{\protect\numberline{\hspace{2em}}{\englishfont#2}}{}{}}\phantomsection}
 
 %\newcommand{\mysection}[2]{\vskip1em\begin{center}{\textsc{\large #1}}\end{center}\label{#2}\vskip1em}
-\newcommand{\mysection}[1]{\section{#1}
+\newcommand{\mysection}[1]{\phantomsection\section{#1}
 \addtocontents{toc}{\protect\contentsline{section}{\protect\numberline{}#1}{}}}
 
 
@@ -373,8 +440,8 @@
 \newcommand{\Apastambadharmasutra}{\titleface{Ā\-pa\-sta\-mba\-dharma\-sūtra}\index{Apastambadharmasutra@\titleface{Ā\-pa\-sta\-mba\-dharma\-sūtra}}}
 \newcommand{\APASTDHSU}{ĀpastDhSū\index{Apastambadharmasutra @\titleface{Ā\-pa\-sta\-mba\-dharma\-sūtra}}}
 
-\newcommand{\AstangHr}{\titleface{A\-ṣṭā\-ṅga\-hṛ\-da\-ya}\index{Astangahrdaya@\titleface{Aṣṭāṅgahṛdaya}}}
-\newcommand{\ASTANGHR}{AṣṭāṅgHṛ\index{Astangahrdaya@\titleface{Aṣṭāṅgahṛdaya}}}
+\newcommand{\AstangHr}{\titleface{A\-ṣṭā\-ṅga\-h{\dharmar}\-da\-ya}\index{Astangahrdaya@\titleface{Aṣṭāṅgah{\dharmar}daya}}}
+\newcommand{\ASTANGHR}{AṣṭāṅgH{\dharmar}\index{Astangahrdaya@\titleface{Aṣṭāṅgah{\dharmar}daya}}}
 
 \newcommand{\AgniP}{\titleface{A\-gni\-pu\-rā\-ṇa}\index{Agnipurana@\titleface{Agnipurāṇa}}}
 \newcommand{\AGNIP}{AgniP\index{Agnipurana@\titleface{Agnipurāṇa}}}
@@ -385,14 +452,14 @@
 \newcommand{\Isanasiva}{\titleface{Īśāna\-śiva\-guru\-deva\-paddhati}\index{Isanasivagurudevapaddhati@\titleface{Īśāna\-śiva\-guru\-deva\-paddhati}}}
 \newcommand{\ISGDP}{\titleface{ĪŚGDP}\index{Isanasivagurudevapaddhati@\titleface{Īśāna\-śiva\-guru\-deva\-paddhati}}}
 
-\newcommand{\Uums}{\titleface{Utta\-ro\-tta\-ra\-ma\-hā\-saṃ\-vā\-da}\index{Uttarottaramahasamvada@\titleface{Uttarottaramahāsaṃvāda}}}
-\newcommand{\UUMS}{UUMS\index{Uttarottaramahasamvada@\titleface{Uttarottaramahāsaṃvāda}}}
+\newcommand{\Uums}{\titleface{Utta\-ro\-tta\-ra\-ma\-hā\-sa{\dharmanusvara}\-vā\-da}\index{Uttarottaramahasamvada@\titleface{Uttarottaramahāsa{\dharmanusvara}vāda}}}
+\newcommand{\UUMS}{UUMS\index{Uttarottaramahasamvada@\titleface{Uttarottaramahāsa{\dharmanusvara}vāda}}}
 
-\newcommand{\Ums}{\titleface{Umā\-mahe\-śva\-ra\-saṃ\-vāda}\index{Umamahesvarasamvada@\titleface{Umāmaheśvarasaṃvāda}}}
-\newcommand{\UMS}{UMS\index{Umamahesvarasamvada@\titleface{Umāmaheśvarasaṃvāda}}}
+\newcommand{\Ums}{\titleface{Umā\-mahe\-śva\-ra\-sa{\dharmanusvara}\-vāda}\index{Umamahesvarasamvada@\titleface{Umāmaheśvarasa{\dharmanusvara}vāda}}}
+\newcommand{\UMS}{UMS\index{Umamahesvarasamvada@\titleface{Umāmaheśvarasa{\dharmanusvara}vāda}}}
 
 
-\newcommand{\RV}{ṚV\index{Rgveda@\titleface{Ṛgveda}}}
+\newcommand{\RV}{{\dharmar}V}\index{Rgveda@\titleface{{\capitalsonantr}gveda}}
 
 \newcommand{\KurmP}{\titleface{Kū\-rma\-pu\-rā\-ṇa}\index{Kurmapurana@\titleface{Kūrmapurāṇa}}}
 \newcommand{\KURMP}{KūP\index{Kurmapurana@\titleface{Kūrmapurāṇa}}}
@@ -400,8 +467,8 @@
 \newcommand{\GautDhS}{\titleface{Gau\-ta\-ma\-dha\-rma\-sū\-tra}\index{Gautamadharmasutra@\titleface{Gautamadharmasūtra}}}
 \newcommand{\GAUTDHS}{GautDhS\index{Gautamadharmasutra@\titleface{Gautamadharmasūtra}}}
 
-\newcommand{\Caraka}{\titleface{Ca\-ra\-ka\-saṃ\-hitā}\index{Carakasamhita@\titleface{Caraka\-saṃhitā}}}
-\newcommand{\CARAKA}{Caraka\index{Carakasamhita@\titleface{Caraka\-saṃhitā}}}
+\newcommand{\Caraka}{\titleface{Ca\-ra\-ka\-sa{\dharmanusvara}\-hitā}\index{Carakasamhita@\titleface{Caraka\-sa{\dharmanusvara}hitā}}}
+\newcommand{\CARAKA}{Caraka\index{Carakasamhita@\titleface{Caraka\-sa{\dharmanusvara}hitā}}}
 
 \newcommand{\Jativiveka}{\titleface{Jā\-ti\-vi\-ve\-ka}\index{Jativiveka@\titleface{Jā\-ti\-vi\-ve\-ka}}}
 
@@ -444,23 +511,23 @@
 \newcommand{\NaradaParivr}{\titleface{Nāradaparivrājakopaniṣad}\index{Naradaparivrajakopanisad@\titleface{Nārada\-pari\-vrājako\-paniṣad}}}
 \newcommand{\NARADAPARIVR}{NāradParivrUp\index{Naradaparivrajakopanisad@\titleface{Nārada\-pari\-vrājako\-paniṣad}}}
 
-\newcommand{\Nisv}{\titleface{Ni\-śvā\-sa\-tattva\-saṃhi\-tā}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}}}
-\newcommand{\NISV}{Niśv\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}}}
+\newcommand{\Nisv}{\titleface{Ni\-śvā\-sa\-tattva\-sa{\dharmanusvara}hi\-tā}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}}}
+\newcommand{\NISV}{Niśv\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}}}
 
-\newcommand{\NisvMukha}{\titleface{Ni\-śvā\-sa mu\-khasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{mukhasūtra}}}
-\newcommand{\NISVMUKHA}{NiśvMukha\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{mukhasūtra}}}
+\newcommand{\NisvMukha}{\titleface{Ni\-śvā\-sa mu\-khasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{mukhasūtra}}}
+\newcommand{\NISVMUKHA}{NiśvMukha\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{mukhasūtra}}}
 
-\newcommand{\NisvMula}{\titleface{Ni\-śvā\-sa mū\-lasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{mūlasūtra}}}
-\newcommand{\NISVMULA}{NiśvMūl\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{mūlasūtra}}}
+\newcommand{\NisvMula}{\titleface{Ni\-śvā\-sa mū\-lasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{mūlasūtra}}}
+\newcommand{\NISVMULA}{NiśvMūl\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{mūlasūtra}}}
 
-\newcommand{\NisvNaya}{\titleface{Ni\-śvā\-sa na\-yasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{nayasūtra}}}
-\newcommand{\NISVNAYA}{NiśvNaya\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{nayasūtra}}}
+\newcommand{\NisvNaya}{\titleface{Ni\-śvā\-sa na\-yasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{nayasūtra}}}
+\newcommand{\NISVNAYA}{NiśvNaya\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{nayasūtra}}}
 
-\newcommand{\NisvUttara}{\titleface{Ni\-śvā\-sa utta\-rasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{uttarasūtra}}}
-\newcommand{\NISVUTTARA}{NiśvUttara\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{uttarasūtra}}}
+\newcommand{\NisvUttara}{\titleface{Ni\-śvā\-sa utta\-rasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{uttarasūtra}}}
+\newcommand{\NISVUTTARA}{NiśvUttara\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{uttarasūtra}}}
 
-\newcommand{\NisvGuhya}{\titleface{Ni\-śvā\-sa gu\-hyasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{guhyasūtra}}}
-\newcommand{\NISVGUHYA}{NiśvGuhya\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-saṃhitā}!\titleface{guhyasūtra}}}
+\newcommand{\NisvGuhya}{\titleface{Ni\-śvā\-sa gu\-hyasūtra}\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{guhyasūtra}}}
+\newcommand{\NISVGUHYA}{NiśvGuhya\index{Nisvasatattvasamhita@\titleface{Niśvāsatattva\-sa{\dharmanusvara}hitā}!\titleface{guhyasūtra}}}
 
 \newcommand{\NisvK}{\titleface{Ni\-śvā\-sa kā\-ri\-kā}\index{Nisvasakarika@\titleface{Niśvāsakārikā}}}
 \newcommand{\NISVK}{NiśvK\index{Nisvasakarika@\titleface{Niśvāsakārikā}}}
@@ -474,10 +541,10 @@
 \newcommand{\PadmaP}{\titleface{Padma\-pu\-rā\-ṇa}\index{Padmapurana@\titleface{Padmapurāṇa}}}
 \newcommand{\PADMAP}{PadmaP\index{Padmapurana@\titleface{Padmapurāṇa}}}
 
-\newcommand{\ParasaraS}{\titleface{Pa\-rā\-śa\-ra\-smṛ\-ti}\index{Parasarasmrti@\titleface{Pa\-rā\-śa\-ra\-smṛ\-ti}}}
+\newcommand{\ParasaraS}{\titleface{Pa\-rā\-śa\-ra\-sm{\dharmar}\-ti}\index{Parasarasmrti@\titleface{Pa\-rā\-śa\-ra\-sm{\dharmar}\-ti}}}
 
-\newcommand{\PadmaS}{\titleface{Padma\-saṃ\-hi\-tā}\index{Padmasamhita@\titleface{Padma\-saṃhitā}}}
-\newcommand{\PADMAS}{PadmaS\index{Padmasamhita@\titleface{Padma\-saṃhitā}}}
+\newcommand{\PadmaS}{\titleface{Padma\-sa{\dharmanusvara}\-hi\-tā}\index{Padmasamhita@\titleface{Padma\-sa{\dharmanusvara}hitā}}}
+\newcommand{\PADMAS}{PadmaS\index{Padmasamhita@\titleface{Padma\-sa{\dharmanusvara}hitā}}}
 
 \newcommand{\Buddhacarita}{\titleface{Bu\-ddha\-ca\-ri\-ta}\index{Buddhacarita@\titleface{Buddhacarita}}}
 \newcommand{\BUDDHACARITA}{BuddhCar\index{Buddhacarita@\titleface{Buddhacarita}}}
@@ -506,8 +573,8 @@
 \newcommand{\BaudhDhS}{\titleface{Bau\-dhā\-ya\-na\-dha\-rma\-sū\-tra}\index{Baudhayanadharmasutra@\titleface{Bau\-dhā\-ya\-na\-dha\-rma\-sū\-tra}}}
 \newcommand{\BAUDHDHS}{BaudhDhS\index{Baudhayanadharmasutra@\titleface{Bau\-dhā\-ya\-na\-dha\-rma\-sū\-tra}}}
 
-\newcommand{\BhelaS}{\titleface{Bhe\-la\-saṃ\-hi\-tā}\index{Bhelasamhita@\titleface{Bhelasaṃhitā}}}
-\newcommand{\BHELAS}{BhelaS\index{Bhelasamhita@\titleface{Bhelasaṃhitā}}}
+\newcommand{\BhelaS}{\titleface{Bhe\-la\-sa{\dharmanusvara}\-hi\-tā}\index{Bhelasamhita@\titleface{Bhelasa{\dharmanusvara}hitā}}}
+\newcommand{\BHELAS}{BhelaS\index{Bhelasamhita@\titleface{Bhelasa{\dharmanusvara}hitā}}}
 
 \newcommand{\BrahmandaPur}{\titleface{Bra\-hmā\-ṇḍa\-pu\-rā\-ṇa}\index{Brahmandapurana@\titleface{Brahmāṇḍapurāṇa}}}
 \newcommand{\BRAHMANDAPUR}{BrahmāṇḍaP\index{Brahmandapurana@\titleface{Brahmāṇḍapurāṇa}}}
@@ -522,8 +589,8 @@
 \newcommand{\MBh}{\titleface{Mahā\-bhā\-rata}\index{Mahabharata@\titleface{Mahābhārata}}}
 \newcommand{\MBH}{MBh\index{Mahabharata@\titleface{Mahābhārata}}}
 
-\newcommand{\MahaSubhS}{\titleface{Ma\-hā\-su\-bhā\-ṣi\-ta\-saṃ\-gra\-ha}\index{Mahasubhasitasamgraha@\titleface{Mahā\-subhāṣita\-saṃgraha}}}
-\newcommand{\MAHASUBHS}{MahāSubhS\index{Mahasubhasitasamgraha@\titleface{Mahā\-subhāṣita\-saṃgraha}}}
+\newcommand{\MahaSubhS}{\titleface{Ma\-hā\-su\-bhā\-ṣi\-ta\-sa{\dharmanusvara}\-gra\-ha}\index{Mahasubhasitasamgraha@\titleface{Mahā\-subhāṣita\-sa{\dharmanusvara}graha}}}
+\newcommand{\MAHASUBHS}{MahāSubhS\index{Mahasubhasitasamgraha@\titleface{Mahā\-subhāṣita\-sa{\dharmanusvara}graha}}}
 
 \newcommand{\MarkP}{\titleface{Mārkaṇḍeyapurāṇa}\index{Markandeyapurana@\titleface{Mārkaṇḍeyapurāṇa}}}
 \newcommand{\MARKP}{MarkP\index{Markandeyapurana@\titleface{Mārkaṇḍeyapurāṇa}}}
@@ -539,8 +606,8 @@
 \newcommand{\MITAKSARA}{\titleface{Mitākṣarā}\index{Mitaksara@\titleface{Mitākṣarā}}}
 
 
-\newcommand{\YajnS}{\titleface{Yājñavalkyasmṛti}\index{Yajnavalkyasmrti@\titleface{Yājñavalkyasmṛti}}}
-\newcommand{\YAJNS}{YājñS\index{Yajnavalkyasmrti@\titleface{Yājñavalkyasmṛti}}}
+\newcommand{\YajnS}{\titleface{Yājñavalkyasm{\dharmar}ti}\index{Yajnavalkyasmrti@\titleface{Yājñavalkyasm{\dharmar}ti}}}
+\newcommand{\YAJNS}{YājñS\index{Yajnavalkyasmrti@\titleface{Yājñavalkyasm{\dharmar}ti}}}
 
 \newcommand{\YogaS}{\titleface{Yogasūtra}\index{Yogasutra@\titleface{Yogasūtra}}}
 \newcommand{\YS}{YS\index{Yogasutra@\titleface{Yogasūtra}}}
@@ -550,8 +617,8 @@
 \newcommand{\YogaBh}{\titleface{Yogabhāṣya}\index{Yogabhasya@\titleface{Yogabhāṣya}}}
 \newcommand{\YBH}{YBh\index{Yogabhasya@\titleface{Yogabhāṣya}}}
 
-\newcommand{\Raghu}{\titleface{Ra\-ghu\-vaṃ\-śa}\index{Raghuvamsa@\titleface{Ra\-ghu\-vaṃ\-śa}}}
-\newcommand{\RAGHU}{\titleface{Ra\-ghu\-vaṃ\-śa}\index{Raghuvamsa@\titleface{Ra\-ghu\-vaṃ\-śa}}}
+\newcommand{\Raghu}{\titleface{Ra\-ghu\-va{\dharmanusvara}\-śa}\index{Raghuvamsa@\titleface{Ra\-ghu\-va{\dharmanusvara}\-śa}}}
+\newcommand{\RAGHU}{\titleface{Ra\-ghu\-va{\dharmanusvara}\-śa}\index{Raghuvamsa@\titleface{Ra\-ghu\-va{\dharmanusvara}\-śa}}}
 
 \newcommand{\Ramayana}{\titleface{Rā\-mā\-ya\-ṇa}\index{Ramayana@\titleface{Rāmāyaṇa}}}
 \newcommand{\RAMAYANA}{\titleface{Rāmāyaṇa}\index{Ramayana@\titleface{Rāmāyaṇa}}}
@@ -563,17 +630,17 @@
 \newcommand{\RKS}{RKS\index{Revakhanda@\titleface{Revākhaṇḍa}}}
 
 
-\newcommand{\LaksmiNarS}{\titleface{Lakṣmīnārāyaṇasaṃhitā}\index{Laksminarayanasamhita@\titleface{Lakṣmī\-nā\-rā\-ya\-ṇa\-saṃhitā}}}
-\newcommand{\LAKSMINARS}{LakṣmīNārS\index{Laksminarayanasamhita@\titleface{Lakṣmī\-nā\-rā\-ya\-ṇa\-saṃhitā}}}
+\newcommand{\LaksmiNarS}{\titleface{Lakṣmīnārāyaṇasa{\dharmanusvara}hitā}\index{Laksminarayanasamhita@\titleface{Lakṣmī\-nā\-rā\-ya\-ṇa\-sa{\dharmanusvara}hitā}}}
+\newcommand{\LAKSMINARS}{LakṣmīNārS\index{Laksminarayanasamhita@\titleface{Lakṣmī\-nā\-rā\-ya\-ṇa\-sa{\dharmanusvara}hitā}}}
 
 \newcommand{\LinPu}{\titleface{Li\-ṅga\-pu\-rā\-ṇa}\index{Lingapurana@\titleface{Liṅgapurāṇa}}}
 \newcommand{\LINPU}{LiP\index{Lingapurana@\titleface{Liṅgapurāṇa}}}
 
-\newcommand{\Vagmati}{\titleface{Vā\-gma\-tī\-mā\-hā\-tmya\-praśaṃsā}\index{Vagmatimahatmyaprasamsa@\titleface{Vāgmatīmāhātmyapraśaṃsā}}}
-\newcommand{\VAGMATI}{VāgMāPr\index{Vagmatimahatmyaprasamsa@\titleface{Vāgmatīmāhātmyapraśaṃsā}}}
+\newcommand{\Vagmati}{\titleface{Vā\-gma\-tī\-mā\-hā\-tmya\-praśa{\dharmanusvara}sā}\index{Vagmatimahatmyaprasamsa@\titleface{Vāgmatīmāhātmyapraśa{\dharmanusvara}sā}}}
+\newcommand{\VAGMATI}{VāgMāPr\index{Vagmatimahatmyaprasamsa@\titleface{Vāgmatīmāhātmyapraśa{\dharmanusvara}sā}}}
 
-\newcommand{\VajasaneyiS}{\titleface{Vā\-ja\-sa\-ne\-yi\-saṃ\-hi\-tā}\index{Vajasaneyisamhita@\titleface{Vājasaneyisaṃhitā}}}
-\newcommand{\VAJASANEYIS}{VājasaneyiS\index{Vajasaneyisamhita@\titleface{Vājasaneyisaṃhitā}}}
+\newcommand{\VajasaneyiS}{\titleface{Vā\-ja\-sa\-ne\-yi\-sa{\dharmanusvara}\-hi\-tā}\index{Vajasaneyisamhita@\titleface{Vājasaneyisa{\dharmanusvara}hitā}}}
+\newcommand{\VAJASANEYIS}{VājasaneyiS\index{Vajasaneyisamhita@\titleface{Vājasaneyisa{\dharmanusvara}hitā}}}
 
 \newcommand{\VisnuP}{\titleface{Vi\-ṣṇu\-pu\-rā\-ṇa}\index{Visnupurana@\titleface{Viṣṇupurāṇa}}}
 \newcommand{\VISNUP}{ViṣṇuP\index{Visnupurana@\titleface{Viṣṇupurāṇa}}}
@@ -596,18 +663,22 @@
 \newcommand{\VDh}{\titleface{Vi\-ṣṇu\-dha\-rma}\index{Visnudharma@\titleface{Viṣṇudharma}}}
 \newcommand{\VDH}{VDh\index{Visnudharma@\titleface{Viṣṇudharma}}}
 
-\newcommand{\VisnuS}{\titleface{Vi\-ṣṇu\-smṛ\-ti}\index{Visnusmrti@\titleface{Viṣṇusmṛti}}}
-\newcommand{\VISNUS}{ViṣṇuS\index{Visnusmrti@\titleface{Viṣṇusmṛti}}}
+\newcommand{\VisnuS}{\titleface{Vi\-ṣṇu\-sm{\dharmar}\-ti}\index{Visnusmrti@\titleface{Viṣṇusm{\dharmar}ti}}}
+\newcommand{\VISNUS}{ViṣṇuS\index{Visnusmrti@\titleface{Viṣṇusm{\dharmar}ti}}}
 
-\newcommand{\VicitraKAU}{\titleface{Vi\-ci\-tra\-karṇikā\-vadāno\-ddhṛta}\index{Vicitrakarnikavadanoddhrta@\titleface{Vi\-ci\-tra\-karṇikā\-vadāno\-ddhṛta}}}
+\newcommand{\VicitraKAU}{\titleface{Vi\-ci\-tra\-karṇikā\-vadāno\-ddh{\dharmar}ta}\index{Vicitrakarnikavadanoddhrta@\titleface{Vi\-ci\-tra\-karṇikā\-vadāno\-ddh{\dharmar}ta}}}
 
-\newcommand{\Vss}{\titleface{Vṛ\-ṣa\-sā\-ra\-saṃ\-gra\-ha}\index{Vrsasarasamgraha@\titleface{Vṛṣasārasaṃgraha}}}
+\newcommand{\Vss}{\titleface{V{\dharmar}\-ṣa\-sā\-ra\-sa{\dharmanusvara}\-gra\-ha}%\index{Vrsasarasamgraha@\titleface{V{\dharmar}ṣasārasa{\dharmanusvara}graha}}%
+}
+
 \newcommand{\Vsssc}{{V\scR\scS a\-sā\-ra\-sa\scM\-gra\-ha}%
-								\index{Vrsasarasamgraha@\titleface{Vṛṣasārasaṃgraha}}}
-\newcommand{\VSS}{{VSS}\index{Vrsasarasamgraha@\titleface{Vṛṣasārasaṃgraha}}}
+								\index{Vrsasarasamgraha@\titleface{V{\dharmar}ṣasārasa{\dharmanusvara}graha}}%
+}
 
-\newcommand{\SamkhK}{\titleface{Sāṃkhyakārikā}\index{Samkhyakarika@\titleface{Sāṃkhyakārikā}}}
-\newcommand{\SK}{SāṃkhyK\index{Samkhyakarika@\titleface{Sāṃkhyakārikā}}}
+\newcommand{\VSS}{{VSS}}%\index{Vrsasarasamgraha@\titleface{V{\dharmar}ṣasārasa{\dharmanusvara}graha}}
+
+\newcommand{\SamkhK}{\titleface{Sā{\dharmanusvara}khyakārikā}\index{Samkhyakarika@\titleface{Sā{\dharmanusvara}khyakārikā}}}
+\newcommand{\SK}{Sā{\dharmanusvara}khyK\index{Samkhyakarika@\titleface{Sā{\dharmanusvara}khyakārikā}}}
 
 \newcommand{\SivP}{\titleface{Śivapurāṇa}\index{Sivapurana@\titleface{Śivapurāṇa}}}
 \newcommand{\SIVP}{ŚivaP\index{Sivapurana@\titleface{Śivapurāṇa}}}
@@ -615,10 +686,10 @@
 \newcommand{\SivPu}{\titleface{Śi\-va\-pu\-rā\-ṇa}\index{Sivapurana@\titleface{Śivapurāṇa}}}
 \newcommand{\SIVPU}{ŚivP\index{Sivapurana@\titleface{Śivapurāṇa}}}
 
-\newcommand{\Sivasamkalpa}{\titleface{Śi\-va\-saṃ\-ka\-lpa}\index{Sivasamkalpa@\titleface{Śiva\-saṃ\-kalpa}}}
-\newcommand{\SIVAKALPA}{ŚivaSaṃkalpa\index{Sivasamkalpa@\titleface{Śiva\-saṃ\-kalpa}}}
+\newcommand{\Sivasamkalpa}{\titleface{Śi\-va\-sa{\dharmanusvara}\-ka\-lpa}\index{Sivasamkalpa@\titleface{Śiva\-sa{\dharmanusvara}\-kalpa}}}
+\newcommand{\SIVAKALPA}{ŚivaSa{\dharmanusvara}kalpa\index{Sivasamkalpa@\titleface{Śiva\-sa{\dharmanusvara}\-kalpa}}}
 
-\newcommand{\Sivasamhita}{\titleface{Śi\-va\-saṃ\-hi\-tā}\index{Sivasamhita@\titleface{Śiva\-saṃ\-hitā}}}
+\newcommand{\Sivasamhita}{\titleface{Śi\-va\-sa{\dharmanusvara}\-hi\-tā}\index{Sivasamhita@\titleface{Śiva\-sa{\dharmanusvara}\-hitā}}}
 
 \newcommand{\Sivadharma}{Śi\-va\-dharma\index{Sivadharma@Śiva\-dharma}}
 
@@ -630,8 +701,8 @@
 \newcommand{\SDhS}{\titleface{Śi\-va\-dha\-rma\-śās\-tra}\index{Sivadharmasastra@\titleface{Śivadharmaśāstra}}}
 \newcommand{\SDHS}{ŚDhŚ\index{Sivadharmasastra@\titleface{Śivadharmaśāstra}}}
 
-\newcommand{\SDhSangr}{\titleface{Śi\-va\-dha\-rma\-saṃ\-gra\-ha}\index{Sivadharmasamgraha@\titleface{Śivadharmasaṃgraha}}}
-\newcommand{\SDHSANGR}{ŚDhSaṃgr\index{Sivadharmasamgraha@\titleface{Śivadharmasaṃgraha}}}
+\newcommand{\SDhSangr}{\titleface{Śi\-va\-dha\-rma\-sa{\dharmanusvara}\-gra\-ha}\index{Sivadharmasamgraha@\titleface{Śivadharmasa{\dharmanusvara}graha}}}
+\newcommand{\SDHSANGR}{ŚDhSa{\dharmanusvara}gr\index{Sivadharmasamgraha@\titleface{Śivadharmasa{\dharmanusvara}graha}}}
 \newcommand{\SDHSAMGR}{\SDHSANGR}
 
 
@@ -654,8 +725,8 @@
 \newcommand{\SvayP}{\titleface{Sva\-ya\-mbhū\-pu\-rā\-ṇa}\index{Svayambhupurana@\titleface{Sva\-ya\-mbhū\-pu\-rā\-ṇa}}}
 \newcommand{\SVAYP}{SvayamPu\index{Svayambhupurana@\titleface{Sva\-ya\-mbhū\-pu\-rā\-ṇa}}}
 
-\newcommand{\Harivamsa}{\titleface{Hari\-vaṃśa}\index{Harivamsa@\titleface{Hari\-vaṃśa}}}
-\newcommand{\HARIVAMSA}{\titlefacei{Hari\-vaṃśa}\index{Harivamsa@\titleface{Hari\-vaṃśa}}}
+\newcommand{\Harivamsa}{\titleface{Hari\-va{\dharmanusvara}śa}\index{Harivamsa@\titleface{Hari\-va{\dharmanusvara}śa}}}
+\newcommand{\HARIVAMSA}{\titlefacei{Hari\-va{\dharmanusvara}śa}\index{Harivamsa@\titleface{Hari\-va{\dharmanusvara}śa}}}
 
 \newcommand{\Hyp}{\titleface{Ha\-ṭha\-yo\-ga\-pra\-dī\-pi\-kā}\index{Hathayogapradipika@\titleface{Haṭhayogapradīpikā}}}
 \newcommand{\HYP}{HYP\index{Hathayogapradipika@\titleface{Haṭhayogapradīpikā}}}
@@ -866,10 +937,10 @@
 	\centerline{{[\textit{\thinspace#1\thinspace}---}}}
 \newcommand{\subsubchptr}[1]{\centerline{[\textit{\thinspace{\footnotesize#1}\thinspace}---}}
 
-\newcommand{\trchptr}[1]{\centerline{\large[{#1}]}\indent\addcontentsline{toc}{section}{#1\nopagebreak}}
+\newcommand{\trchptr}[1]{\phantomsection\centerline{\large[{#1}]}\indent\addcontentsline{toc}{section}{#1\nopagebreak}}
 % nopagebreak to avoid break in the toc!
 
-\newcommand{\trsubchptr}[1]{\centerline{#1 ]}%
+\newcommand{\trsubchptr}[1]{\phantomsection\centerline{#1 ]}%
                  \addcontentsline{toc}{subsection}{#1}%
                         }
 \newcommand{\trsubsubchptr}[1]{\centerline{{\footnotesize#1} ]}}
@@ -1182,7 +1253,7 @@
 }
 
 \newcommand{\textOne}{%
-%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+%\upuptext{black}{V{\dharmar}ṣasārasa{\dharmanusvara}graha chapters:}
 \upuptext{teal}{Vaiśampāyana $\rightarrow$ Janamejaya}
 \uptext{vaisnava}{Anarthayajña $\rightarrow$ Viṣṇu}
 \centeredtext{saiva}{Nandikeśvara: Śiva $\rightarrow$ Devī}
@@ -1190,12 +1261,12 @@
 }
 
 \newcommand{\textTwo}{%
-%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+%\upuptext{black}{V{\dharmar}ṣasārasa{\dharmanusvara}graha chapters:}
 %\upuptext{teal}{Vaiśampāyana $\rightarrow$ Janamejaya}
 %\uptext{vaisnava}{Anarthayajña $\rightarrow$ Viṣṇu}
 \centeredtext{black}{VSS}
 %\downtext{black}{{\Large\checkmark} Anarthayajña present}
-%\downdowntext{black}{\checkmarksmall\textit{yajño 'rthaṃ vinā}}
+%\downdowntext{black}{\checkmarksmall\textit{yajño 'rtha{\dharmanusvara} vinā}}
 
 %Anarthayajña's presence:
 \markAnarthaPresence{1}
@@ -1219,7 +1290,7 @@
 }
 
 \newcommand{\textDating}{%
-%\upuptext{black}{Vṛṣasārasaṃgraha chapters:}
+%\upuptext{black}{V{\dharmar}ṣasārasa{\dharmanusvara}graha chapters:}
 \centeredtext{saiva}{Dating the VSS}
 }
 

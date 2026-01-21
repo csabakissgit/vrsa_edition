@@ -35,6 +35,10 @@ def dharma_translit(line):
     line = re.sub("ṛ", "\\\\textsubring{r}", line)
     line = re.sub("ṝ", "\\\\textsubring{\\\\=r}", line)
     line = re.sub("ḷ", "\\\\textsubring{l}", line)
+    line = re.sub("Ṃ", "\\\\.m", line)
+    line = re.sub("Ṛ", "{\\\\kern-.3em{\\\\textsubring{\\\\phantom{R}}\\\\kern-.35em{R}}}", line)
+    line = re.sub("Ṝ", "\\\\textsubring{\\\\=R}", line)
+    line = re.sub("Ḷ", "\\\\textsubring{L}", line)
     return line
 
 subdict ={'\\\\msNC45': '\\\\msNCfortyfive',
@@ -307,7 +311,7 @@ class TrLine(object):
         self.text = line
         plaintext = re.sub('ŁŁ', '\\\\sktx{', line)
         plaintext = re.sub('\$\$', '}', plaintext)
-        plaintext = re.sub('-##Ł', '\\\\mysktindex{', plaintext)
+        plaintext = re.sub('-##Ł', '\\\\mysktidx{', plaintext)
         plaintext = re.sub('\$##-', '}', plaintext)
         plaintext = re.sub('Ł', '\\\\textit{', plaintext)
         plaintext = re.sub('\$', '}', plaintext)
@@ -380,7 +384,7 @@ class NoteLine(object):
         self.text = line
         plaintext = re.sub('ŁŁ', '\\\\sktx{', line)
         plaintext = re.sub('\$\$', '}', plaintext)
-        plaintext = re.sub('-##Ł', '\\\\mysktindex{', plaintext)
+        plaintext = re.sub('-##Ł', '\\\\mysktidx{', plaintext)
         plaintext = re.sub('\$##-', '}', plaintext)
         plaintext = re.sub('Ł', '\\\\textit{', plaintext)
         plaintext = re.sub('\$', '}', plaintext)
@@ -496,7 +500,7 @@ def texrm_tr_notes(mainText, apparatus, translation, notes):
             text = re.sub('</crux>', '{\\\\rm †}', text)
             if item.getIfEndOfVerse():
                 ##if you need the chapter numbers:
-                tail = '||\\thinspace' + str(chapterNum) + ':' + str(verseNum) + '\\thinspace||'
+                tail = ' ||\\thinspace' + str(chapterNum) + ':' + str(verseNum) + '\\thinspace||'
                 ##if you don't need the chapter numbers:
                 #tail = '||\\thinspace ' + str(verseNum) + '\\thinspace||'
             else:
@@ -606,6 +610,8 @@ def txt_and_app(mainText, apparatus):
 '''
 
 for line in openfile:
+    # to turn everything in the tr, notes, Roman Skt to Dharma transliteration
+    line = dharma_translit(line)
     if '<START/>' in line:
         onFlag = True
         hemistich = -1

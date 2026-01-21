@@ -985,7 +985,8 @@ FUNCTION {name.or.dash}
    oldname empty$
      { s 'oldname := s }
      { s oldname =
-         { "---{}---{}---" }
+         %{ "---{}---{}---" }
+          { "\rule[.2em]{1.5cm}{.5pt}" }
          { s 'oldname := s }
        if$
      }
